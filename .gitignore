@@ -1,0 +1,12 @@
+open_ie/*
+!open_ie/README.md
+
+*.pdf
+
+sentences/*.txt
+
+.ipynb_checkpoints
+venv
+
+data/*
+!data/README.md
