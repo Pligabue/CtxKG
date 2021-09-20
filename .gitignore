@@ -1,9 +1,11 @@
 open_ie/*
 !open_ie/README.md
+!open_ie/TripleBuilder.java
 
 *.pdf
 
 sentences/*.txt
+triples/*.txt
 
 .ipynb_checkpoints
 venv
