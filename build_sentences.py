@@ -2,9 +2,9 @@ import numpy as np
 import pandas as pd
 import re
 
-pira_c_df = pd.read_csv("./data/CSV/Total/Pirá-C-Total.csv")
-pira_f_df = pd.read_csv("./data/CSV/Total/Pirá-F-Total.csv")
-pira_t_df = pd.read_csv("./data/CSV/Total/Pirá-T-Total.csv")
+pira_c_df = pd.read_csv("./data/CSV/Pirá-C-Total.csv")
+pira_f_df = pd.read_csv("./data/CSV/Pirá-F-Total.csv")
+pira_t_df = pd.read_csv("./data/CSV/Pirá-T-Total.csv")
 pira_df = pd.concat([pira_c_df, pira_f_df, pira_t_df])
 
 dataset_df = pira_df[["eid_article_scopus", "answer_en_origin", "answer_en_validate"]]
