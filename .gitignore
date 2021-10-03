@@ -6,6 +6,7 @@ open_ie/*
 
 sentences/*.txt
 triples/*.txt
+kg_nodes/*.txt
 
 .ipynb_checkpoints
 venv
