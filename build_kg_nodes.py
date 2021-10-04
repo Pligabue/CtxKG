@@ -66,16 +66,15 @@ def group_triples(above_threshold_results):
             current_group_index += 1
 
             group_indexes[i] = current_group_index
-            for above_threshold_index in above_threshold_result["indexes"]:
-                group_indexes[above_threshold_index] = current_group_index
+            for similar_index in above_threshold_result["indexes"]:
+                group_indexes[similar_index] = current_group_index
         else:
             group_index = group_indexes[i]
             for similar_index in above_threshold_result["indexes"]:
                 group_indexes[similar_index] = group_index
 
-    n_of_groups = max(group_indexes)
     groups = []
-    for group_index in range(n_of_groups):
+    for group_index in set(group_indexes):
         group = []
         for i, _ in enumerate(above_threshold_results):
             if group_indexes[i] == group_index:
@@ -98,10 +97,15 @@ def main():
     KG_NODE_DIR = Path("./kg_nodes")
 
     failed_files = []
+    empty_files = []
     for file in TRIPLE_DIR.glob("*.txt"):
         try:
             with open(file) as f:
                 df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
+                if df.empty:
+                    empty_files.append(file.name)
+                    continue
+
                 sentences = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]), axis=1)
                 text_preprocessed = bert_preprocess_model(sentences)
                 bert_results = bert_model(text_preprocessed)["default"]
@@ -116,11 +120,14 @@ def main():
                     node_string = f'{node["subject"]};{node["relation"]};{node["object"]}'
                     nodes.append(node_string)
                 f.write("\n".join(nodes))
-        except:
+        except Exception as e:
             failed_files.append(file.name)
 
-    with open(KG_NODE_DIR / "failed_files.txt", "w", encoding="utf-8") as f:
+    with open("failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
+
+    with open("empty_files.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(empty_files))
 
 if __name__ == "__main__":
     main()
