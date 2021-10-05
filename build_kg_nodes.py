@@ -1,8 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-import os
-import shutil
+from tqdm import tqdm
 
 import tensorflow as tf
 import tensorflow_hub as hub
@@ -98,21 +97,20 @@ def main():
 
     failed_files = []
     empty_files = []
-    for file in TRIPLE_DIR.glob("*.txt"):
+    for file in tqdm(list(TRIPLE_DIR.glob("*.txt"))):
         try:
-            with open(file) as f:
+            with open(file, encoding="utf-8") as f:
                 df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
                 if df.empty:
                     empty_files.append(file.name)
                     continue
-
-                sentences = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]), axis=1)
+                sentences = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]).replace("�", ""), axis=1)
                 text_preprocessed = bert_preprocess_model(sentences)
                 bert_results = bert_model(text_preprocessed)["default"]
                 sim_matrix = get_similarity_matrix(df, bert_results)
                 above_threshold_results = get_above_threshold_results(sim_matrix)
                 groups = group_triples(above_threshold_results)
-            
+                
             with open(KG_NODE_DIR / file.name, "w", encoding="utf-8") as f:
                 nodes = []
                 for group in groups:
@@ -121,7 +119,7 @@ def main():
                     nodes.append(node_string)
                 f.write("\n".join(nodes))
         except Exception as e:
-            failed_files.append(file.name)
+            failed_files.append(f"{file.name} - {e}")
 
     with open("failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
