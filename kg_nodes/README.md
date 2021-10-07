@@ -1,1 +1,0 @@
-The files containing the generated KG nodes go here.
