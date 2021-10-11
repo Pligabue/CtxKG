@@ -8,6 +8,7 @@ sentences/*.txt
 triples/*.txt
 kg_nodes*/
 results/*.txt
+results/*.json
 
 .ipynb_checkpoints
 venv
