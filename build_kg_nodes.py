@@ -96,7 +96,7 @@ def main():
 
                 try:
                     same_node_index = next(j for j, node in enumerate(nodes) if node["subject"] == subject_node and node["relation"] == relation)
-                    nodes[same_node_index]["object"] += object_node
+                    nodes[same_node_index]["object"] = list(set(nodes[same_node_index]["object"] + object_node))
                 except StopIteration:
                     nodes.append({
                         "subject": subject_node,
