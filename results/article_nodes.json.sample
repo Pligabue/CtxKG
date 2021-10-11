@@ -1,0 +1,27 @@
+[
+  {
+    "subject": ["failure"],
+    "relation": "find in",
+    "object": ["case", "analyze case"]
+  },
+  {
+    "subject": ["Transbrasiliano Lineament"],
+    "relation": "zone in",
+    "object": ["south american platform"]
+  },
+  {
+    "subject": ["largest continental suture zone"],
+    "relation": "in",
+    "object": ["south american platform"]
+  },
+  {
+    "subject": ["basement fabric"],
+    "relation": "be",
+    "object": ["seismicity", "reactivate by seismicity in continental interior", "reactivate by seismicity in interior"]
+  },
+  {
+    "subject": ["basement fabric"],
+    "relation": "be reactivate by",
+    "object": ["seismicity", "reactivate by seismicity in continental interior", "reactivate by seismicity in interior"]
+  }
+]
