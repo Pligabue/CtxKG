@@ -23,7 +23,7 @@ public class TripleBuilder {
 
         for (File f : files) {
             try {
-                Scanner reader = new Scanner(f);
+                Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = new FileWriter("./triples/" + f.getName());
                 String tripleText = "";
 

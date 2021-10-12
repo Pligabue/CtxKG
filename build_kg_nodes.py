@@ -12,7 +12,7 @@ import tensorflow_hub as hub
 import tensorflow_text as text
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-t", "--threshold", type=float, default=-0.95)
+parser.add_argument("-t", "--threshold", type=float, default=0.9)
 parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 args = parser.parse_args()
@@ -32,25 +32,15 @@ bert_model = hub.KerasLayer(tfhub_handle_encoder)
 
 
 def get_similarity_matrix(embeddings):
-
-    cosine_loss = tf.keras.losses.CosineSimilarity(axis=1)
-    
-    similarity_matrix = []
-    for embedding_1 in embeddings:
-        row = []
-        for embedding_2 in embeddings:
-            cossine_similarity = cosine_loss([embedding_1], [embedding_2]).numpy()
-            row.append(cossine_similarity)
-
-        similarity_matrix.append(row)
-
-    return similarity_matrix
+    normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
+    transposed_normalized_embeddings = tf.transpose(normalized_embeddings)
+    return tf.linalg.matmul(normalized_embeddings, transposed_normalized_embeddings)
 
 
 def main():
 
     TRIPLE_DIR = Path("./triples")
-    KG_NODE_DIR = Path(f"./kg_nodes_{int(-100 * THRESHOLD)}_{SIZE}")
+    KG_NODE_DIR = Path(f"./kg_nodes_{int(100 * THRESHOLD)}_{SIZE}")
     KG_NODE_DIR.mkdir(exist_ok=True)
 
     failed_files = []
@@ -64,19 +54,19 @@ def main():
                 continue
 
             triples = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]).replace("�", ""), axis=1)
-            triples_preprocessed = bert_preprocess_model(triples)
-            triples_encodings = bert_model(triples_preprocessed)["pooled_output"]
-
             subjects = df["subject"]
-            subjects_preprocessed = bert_preprocess_model(subjects)
-            base_subjects_encodings = bert_model(subjects_preprocessed)["pooled_output"]
-            subjects_encodings = base_subjects_encodings + triples_encodings
-            subjects_matrix = get_similarity_matrix(subjects_encodings)
+            objects = df["object"]
+            size = len(triples)
 
-            objects = df["subject"]
-            objects_preprocessed = bert_preprocess_model(objects)
-            base_objects_encodings = bert_model(objects_preprocessed)["pooled_output"]
-            objects_encodings = base_objects_encodings + triples_encodings
+            inputs = triples.append(subjects, ignore_index=True).append(objects, ignore_index=True)
+            preprocessed_inputs = bert_preprocess_model(inputs)
+            outputs = bert_model(preprocessed_inputs)["pooled_output"]
+
+            triples_encodings = outputs[:size]
+            subjects_encodings = outputs[size:size*2] + triples_encodings
+            objects_encodings = outputs[size*2:] + triples_encodings
+
+            subjects_matrix = get_similarity_matrix(subjects_encodings)
             objects_matrix = get_similarity_matrix(objects_encodings)
 
             if len(subjects_matrix) != len(objects_matrix):
@@ -85,13 +75,13 @@ def main():
             nodes = []
             for i, _ in enumerate(subjects_matrix):
                 subject_results = subjects_matrix[i]
-                subject_node_indexes = [j for j, v in enumerate(subject_results) if v < THRESHOLD]
+                subject_node_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD]
                 subject_node = list(set(df.iloc[subject_node_indexes]["subject"]))
 
                 relation = df.iloc[i]["relation"]
 
                 object_results = objects_matrix[i]
-                object_node_indexes = [j for j, v in enumerate(object_results) if v < THRESHOLD]
+                object_node_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD]
                 object_node = list(set(df.iloc[object_node_indexes]["object"]))
 
                 try:
