@@ -1,0 +1,46 @@
+<head>
+  <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
+  <style>
+    .display {
+      background-color: beige;
+      height: 100%;
+    }
+
+    .load-button {
+      float: left;
+      font-size: large;
+      background-color: #1f657a;
+      color: white;
+      border: 0;
+      padding: 0.75rem 1.5rem;
+      margin: 1rem;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="display" class="display">
+  
+    <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
+    <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
+  </div>
+  
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    const buildGraph = (data) => {
+      
+    }
+  
+    let data = null
+    const loadJSON = function() {
+      const file = document.getElementById('file-input').files[0]
+      const reader = new FileReader()
+      reader.onload = function(e) {
+        let jsonString = e.target.result
+        data = JSON.parse(jsonString)
+        buildGraph(data)
+      }
+      reader.readAsText(file, "utf-8")
+    }
+  </script>
+</body>
