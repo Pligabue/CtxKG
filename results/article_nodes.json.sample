@@ -1,27 +1,51 @@
 [
   {
-    "subject": ["failure"],
-    "relation": "find in",
-    "object": ["case", "analyze case"]
+    "subject": "basin",
+    "subject_links": ["basin"],
+    "relation": "have",
+    "object": "development",
+    "object_links": ["development in world"]
   },
   {
-    "subject": ["Transbrasiliano Lineament"],
-    "relation": "zone in",
-    "object": ["south american platform"]
+    "subject": "basin",
+    "subject_links": ["basin"],
+    "relation": "have",
+    "object": "development in world",
+    "object_links": ["world", "development"]
   },
   {
-    "subject": ["largest continental suture zone"],
+    "subject": "fastest development",
+    "subject_links": [],
     "relation": "in",
-    "object": ["south american platform"]
+    "object": "world",
+    "object_links": ["development in world"]
   },
   {
-    "subject": ["basement fabric"],
-    "relation": "be",
-    "object": ["seismicity", "reactivate by seismicity in continental interior", "reactivate by seismicity in interior"]
+    "subject": "paper",
+    "subject_links": ["paper"],
+    "relation": "discus",
+    "object": "various terrain characteristic",
+    "object_links": ["terrain characteristic for project", "various terrain characteristic for project", "terrain characteristic"]
   },
   {
-    "subject": ["basement fabric"],
-    "relation": "be reactivate by",
-    "object": ["seismicity", "reactivate by seismicity in continental interior", "reactivate by seismicity in interior"]
+    "subject": "paper",
+    "subject_links": ["paper"],
+    "relation": "discus",
+    "object": "various terrain characteristic for project",
+    "object_links": ["terrain characteristic for project", "various terrain characteristic", "terrain characteristic"]
+  },
+  {
+    "subject": "paper",
+    "subject_links": ["paper"],
+    "relation": "discus",
+    "object": "terrain characteristic for project",
+    "object_links": ["various terrain characteristic", "various terrain characteristic for project", "terrain characteristic"]
+  },
+  {
+    "subject": "paper",
+    "subject_links": ["paper"],
+    "relation": "discus",
+    "object": "terrain characteristic",
+    "object_links": ["terrain characteristic for project", "various terrain characteristic", "various terrain characteristic for project"]
   }
 ]
