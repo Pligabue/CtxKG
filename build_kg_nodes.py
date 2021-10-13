@@ -46,6 +46,9 @@ def main():
     failed_files = []
     empty_files = []
     for file in tqdm(list(TRIPLE_DIR.glob("*.txt"))):
+        if Path(KG_NODE_DIR / f"{file.stem}.json").is_file():
+            continue
+
         try:
             base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
             df = base_df[base_df["confidence"] > 0.9]
@@ -75,24 +78,20 @@ def main():
             nodes = []
             for i, _ in enumerate(subjects_matrix):
                 subject_results = subjects_matrix[i]
-                subject_node_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD]
-                subject_node = list(set(df.iloc[subject_node_indexes]["subject"]))
-
-                relation = df.iloc[i]["relation"]
+                subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD and j != i]
+                subject_links = list(set(subjects.iloc[subject_link_indexes]))
 
                 object_results = objects_matrix[i]
-                object_node_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD]
-                object_node = list(set(df.iloc[object_node_indexes]["object"]))
+                object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD and j != i]
+                object_links = list(set(objects.iloc[object_link_indexes]))
 
-                try:
-                    same_node_index = next(j for j, node in enumerate(nodes) if node["subject"] == subject_node and node["relation"] == relation)
-                    nodes[same_node_index]["object"] = list(set(nodes[same_node_index]["object"] + object_node))
-                except StopIteration:
-                    nodes.append({
-                        "subject": subject_node,
-                        "relation": relation,
-                        "object": object_node
-                    })
+                nodes.append({
+                    "subject": subjects.iloc[i],
+                    "subject_links": subject_links,
+                    "relation": df.iloc[i]["relation"],
+                    "object": objects.iloc[i],
+                    "object_links": object_links
+                })
 
             with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json_string = json.dumps(nodes, indent=2)
