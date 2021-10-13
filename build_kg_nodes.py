@@ -49,39 +49,33 @@ def main():
     for file in tqdm(files):
         try:
             base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
-            df = base_df[base_df["confidence"] > 0.9]
+            df = base_df[base_df["confidence"] > 0.70]
             if df.empty:
                 empty_files.append(file.name)
                 continue
 
-            triples = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]).replace("�", ""), axis=1)
             subjects = df["subject"]
             objects = df["object"]
-            size = len(triples)
+            entities = subjects.append(objects, ignore_index=True)
+            size = len(subjects)
 
-            inputs = triples.append(subjects, ignore_index=True).append(objects, ignore_index=True)
-            preprocessed_inputs = bert_preprocess_model(inputs)
+            preprocessed_inputs = bert_preprocess_model(entities)
             outputs = bert_model(preprocessed_inputs)["pooled_output"]
 
-            triples_encodings = outputs[:size]
-            subjects_encodings = outputs[size:size*2] + triples_encodings
-            objects_encodings = outputs[size*2:] + triples_encodings
-
-            subjects_matrix = get_similarity_matrix(subjects_encodings)
-            objects_matrix = get_similarity_matrix(objects_encodings)
-
-            if len(subjects_matrix) != len(objects_matrix):
-                raise Exception("Matrices have different lengths")
+            entities_matrix = get_similarity_matrix(outputs)
 
             nodes = []
-            for i, _ in enumerate(subjects_matrix):
-                subject_results = subjects_matrix[i]
-                subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD and j != i]
-                subject_links = list(set(subjects.iloc[subject_link_indexes]))
+            for i in range(size):
+                subject_index = i
+                object_index = i + size
+                
+                subject_results = entities_matrix[subject_index]
+                subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD and j != subject_index and j != object_index]
+                subject_links = list(set(entities.iloc[subject_link_indexes]))
 
-                object_results = objects_matrix[i]
-                object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD and j != i]
-                object_links = list(set(objects.iloc[object_link_indexes]))
+                object_results = entities_matrix[object_index]
+                object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD and j != subject_index and j != object_index]
+                object_links = list(set(entities.iloc[object_link_indexes]))
 
                 nodes.append({
                     "subject": subjects.iloc[i],

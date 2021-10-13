@@ -4,18 +4,18 @@
     "subject_links": ["basin"],
     "relation": "have",
     "object": "development",
-    "object_links": ["development in world"]
+    "object_links": ["fastest development"]
   },
   {
     "subject": "basin",
     "subject_links": ["basin"],
     "relation": "have",
     "object": "development in world",
-    "object_links": ["world", "development"]
+    "object_links": ["world"]
   },
   {
     "subject": "fastest development",
-    "subject_links": [],
+    "subject_links": ["development"],
     "relation": "in",
     "object": "world",
     "object_links": ["development in world"]
@@ -25,27 +25,27 @@
     "subject_links": ["paper"],
     "relation": "discus",
     "object": "various terrain characteristic",
-    "object_links": ["terrain characteristic for project", "various terrain characteristic for project", "terrain characteristic"]
+    "object_links": ["terrain characteristic for project", "terrain characteristic", "various terrain characteristic for project"]
   },
   {
     "subject": "paper",
     "subject_links": ["paper"],
     "relation": "discus",
     "object": "various terrain characteristic for project",
-    "object_links": ["terrain characteristic for project", "various terrain characteristic", "terrain characteristic"]
+    "object_links": ["terrain characteristic for project", "terrain characteristic", "various terrain characteristic"]
   },
   {
     "subject": "paper",
     "subject_links": ["paper"],
     "relation": "discus",
     "object": "terrain characteristic for project",
-    "object_links": ["various terrain characteristic", "various terrain characteristic for project", "terrain characteristic"]
+    "object_links": ["terrain characteristic", "various terrain characteristic for project", "various terrain characteristic"]
   },
   {
     "subject": "paper",
     "subject_links": ["paper"],
     "relation": "discus",
     "object": "terrain characteristic",
-    "object_links": ["terrain characteristic for project", "various terrain characteristic", "various terrain characteristic for project"]
+    "object_links": ["terrain characteristic for project", "various terrain characteristic for project", "various terrain characteristic"]
   }
 ]
