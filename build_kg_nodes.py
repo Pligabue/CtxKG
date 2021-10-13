@@ -45,10 +45,8 @@ def main():
 
     failed_files = []
     empty_files = []
-    for file in tqdm(list(TRIPLE_DIR.glob("*.txt"))):
-        if Path(KG_NODE_DIR / f"{file.stem}.json").is_file():
-            continue
-
+    files = [file for file in TRIPLE_DIR.glob("*.txt") if not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
+    for file in tqdm(files):
         try:
             base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
             df = base_df[base_df["confidence"] > 0.9]
