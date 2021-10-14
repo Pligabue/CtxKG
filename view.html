@@ -7,13 +7,14 @@
     }
 
     .load-button {
-      float: left;
+      position: absolute;
       font-size: large;
       background-color: #1f657a;
       color: white;
       border: 0;
       padding: 0.75rem 1.5rem;
-      margin: 1rem;
+      top: 1rem;
+      left: 1rem;
       cursor: pointer;
     }
   </style>
@@ -21,17 +22,54 @@
 <body>
   <div id="display" class="display">
   
-    <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
-    <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
   </div>
+  <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
+  <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
   
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script>
-    const buildGraph = (data) => {
+    let data = null
+    
+    const buildNodes = (data) => {
+      let subjects = data.map(node => node.subject)
+      let objects = data.map(node => node.object)
+      let nodes = [...subjects, ...objects].filter((node, i, arr) => arr.indexOf(node) === i).map(node => ({id: node}))
+
+      return nodes
+    }
+
+    const buildLinks = (data) => {
+      let subjectObjectLinks = data.map(node => ({source: node.subject, target: node.object}))
       
+      return subjectObjectLinks
     }
   
-    let data = null
+    const buildGraph = (data) => {
+      const nodes = buildNodes(data)
+      const links = buildLinks(data)
+      console.log(nodes, links)
+
+      const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id))
+        .force("charge", d3.forceManyBody())
+        .force("x", d3.forceX())
+        .force("y", d3.forceY());
+        
+      const height = 680
+      const width = 1000
+      const svg = d3.create("svg")
+        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+
+      const link = svg.append("g")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+        .selectAll("line")
+        .data(links)
+        .join("line")
+        .attr("stroke-width", d => Math.sqrt(d.value));
+
+    }
+
     const loadJSON = function() {
       const file = document.getElementById('file-input').files[0]
       const reader = new FileReader()
