@@ -20,54 +20,81 @@
   </style>
 </head>
 <body>
-  <div id="display" class="display">
-  
-  </div>
+  <div id="display"></div>
   <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
   <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
   
   <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script>
-    let data = null
-    
-    const buildNodes = (data) => {
-      let subjects = data.map(node => node.subject)
-      let objects = data.map(node => node.object)
+  <script>    
+    const buildNodes = (fileData) => {
+      let subjects = fileData.map(node => node.subject)
+      let objects = fileData.map(node => node.object)
       let nodes = [...subjects, ...objects].filter((node, i, arr) => arr.indexOf(node) === i).map(node => ({id: node}))
 
       return nodes
     }
 
-    const buildLinks = (data) => {
-      let subjectObjectLinks = data.map(node => ({source: node.subject, target: node.object}))
+    const buildLinks = (fileData) => {
+      let subjectObjectLinks = fileData.map(node => ({source: node.subject, target: node.object}))
       
       return subjectObjectLinks
     }
   
-    const buildGraph = (data) => {
-      const nodes = buildNodes(data)
-      const links = buildLinks(data)
-      console.log(nodes, links)
+    const buildGraph = (fileData) => {
+      const data = {
+        nodes: buildNodes(fileData),
+        links: buildLinks(fileData)
+      }
+      console.log(data)
 
-      const simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id))
-        .force("charge", d3.forceManyBody())
-        .force("x", d3.forceX())
-        .force("y", d3.forceY());
+      const height = 720
+      const width = 1280
+
+      const svg = d3.select("#display")
+        .append("svg")
+        .attr("height", height)
+        .attr("width", width)
+        .classed("display", true)
+
+      const nodes = svg
+        .selectAll("circle")
+        .data(data.nodes)
+        .enter()
+        .append("circle")
+          .attr("r", 5)
+          .style("fill", "navy")
         
-      const height = 680
-      const width = 1000
-      const svg = d3.create("svg")
-        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+      const labels = nodes
+        .append("text")
+        .attr("dx", 12)
+        .attr("dy", ".35em")
+        .text(function(d) { return d.id });
 
-      const link = svg.append("g")
-        .attr("stroke", "#999")
-        .attr("stroke-opacity", 0.6)
+      const links = svg
         .selectAll("line")
-        .data(links)
-        .join("line")
-        .attr("stroke-width", d => Math.sqrt(d.value));
+        .data(data.links)
+        .enter()
+        .append("line")
+          .style("stroke", "#aaa")
 
+      const simulation = d3.forceSimulation(data.nodes)
+        .force("charge", d3.forceManyBody())
+        .force("link", d3.forceLink(data.links).id(node => node.id))
+        .force("center", d3.forceCenter(width/2, height/2))
+        .on("end", ticked);
+
+  // This function is run at each iteration of the force algorithm, updating the nodes position.
+      function ticked() {
+        links
+          .attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
+
+        nodes
+          .attr("cx", function (d) { return d.x; })
+          .attr("cy", function(d) { return d.y; });
+      }
     }
 
     const loadJSON = function() {
@@ -75,8 +102,8 @@
       const reader = new FileReader()
       reader.onload = function(e) {
         let jsonString = e.target.result
-        data = JSON.parse(jsonString)
-        buildGraph(data)
+        let fileData = JSON.parse(jsonString)
+        buildGraph(fileData)
       }
       reader.readAsText(file, "utf-8")
     }
