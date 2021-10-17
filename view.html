@@ -2,8 +2,8 @@
   <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
   <style>
     .display {
-      background-color: beige;
       height: 100%;
+      width: 100%;
     }
 
     .load-button {
@@ -17,83 +17,180 @@
       left: 1rem;
       cursor: pointer;
     }
+
+    .refresh-button {
+      position: absolute;
+      font-size: large;
+      top: 1rem;
+      right: 1rem;
+      cursor: pointer;
+    }
+
+    .node-text {
+      font-size: small;
+      fill: white;
+      font-family: 'Courier New', Courier, monospace;
+      /* filter: drop-shadow(0 0 1px black); */
+      text-shadow:
+        -1px -1px 0 #000,
+        0   -1px 0 #000,
+        1px -1px 0 #000,
+        1px  0   0 #000,
+        1px  1px 0 #000,
+        0    1px 0 #000,
+        -1px  1px 0 #000,
+        -1px  0   0 #000;
+    }
   </style>
 </head>
 <body>
   <div id="display"></div>
   <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
   <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
-  
+  <i class="fas fa-sync-alt refresh-button" onclick="loadJSON()"></i>
+
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script>    
+    const cleanPrevious = () => {
+      d3.select("svg.display").remove()
+    }
+
     const buildNodes = (fileData) => {
       let subjects = fileData.map(node => node.subject)
       let objects = fileData.map(node => node.object)
-      let nodes = [...subjects, ...objects].filter((node, i, arr) => arr.indexOf(node) === i).map(node => ({id: node}))
-
-      return nodes
+      return [...subjects, ...objects].filter((node, i, arr) => arr.indexOf(node) === i).map(node => ({id: node}))
     }
 
-    const buildLinks = (fileData) => {
-      let subjectObjectLinks = fileData.map(node => ({source: node.subject, target: node.object}))
+    const buildRelationshipLinks = (fileData) => {
+      return fileData.map(node => ({source: node.subject, target: node.object}))
+    }
+
+    const buildSynonymLinks = (fileData) => {
+      let subjectSynonymLinks = fileData.map(node => {
+        return node.subject_links.map(link => ({source: node.subject, target: link}))
+      }).flat()
       
-      return subjectObjectLinks
+      let objectSynonymLinks = fileData.map(node => {
+        return node.object_links.map(link => ({source: node.object, target: link}))
+      }).flat()
+      
+      let synonymLinks = [...subjectSynonymLinks, ...objectSynonymLinks].filter((link, i, arr) => {
+        let firstLinkIndex = arr.findIndex(e => e.source === link.source && e.target === link.target)
+        return i === firstLinkIndex && link.source !== link.target
+      })
+
+      return synonymLinks
+    }
+
+    const buildColors = (fileData) => {
+      let groups = []
+      let colors = {}
+      let colorScheme = null
+
+      fileData.forEach(node => {
+        let subjectGroupIndex = groups.reduce((acc, group, i) => group.indexOf(node.subject) !== -1 ? i : acc, -1)
+
+        if (subjectGroupIndex === -1) {
+          let newGroup = [node.subject, ...node.subject_links]
+          groups.push(newGroup)
+        }
+
+        let objectGroupIndex = groups.reduce((acc, group, i) => group.indexOf(node.object) !== -1 ? i : acc, -1)
+
+        if (objectGroupIndex === -1) {
+          let newGroup = [node.object, ...node.object_links]
+          groups.push(newGroup)
+        }
+      })
+
+      colorScheme = d3.scaleSequential([0, groups.length + 2], d3.interpolateTurbo)
+
+      groups.forEach((group, i) => {
+        group.forEach(node => {
+          colors[node] = colorScheme(i + 1)
+        })
+      })
+
+      return colors
     }
   
     const buildGraph = (fileData) => {
+      cleanPrevious()
+
       const data = {
         nodes: buildNodes(fileData),
-        links: buildLinks(fileData)
+        relationshipLinks: buildRelationshipLinks(fileData),
+        synonymLinks: buildSynonymLinks(fileData),
+        colors: buildColors(fileData)
       }
       console.log(data)
 
-      const height = 720
-      const width = 1280
-
       const svg = d3.select("#display")
         .append("svg")
-        .attr("height", height)
-        .attr("width", width)
         .classed("display", true)
-
-      const nodes = svg
-        .selectAll("circle")
-        .data(data.nodes)
-        .enter()
-        .append("circle")
-          .attr("r", 5)
-          .style("fill", "navy")
         
-      const labels = nodes
-        .append("text")
-        .attr("dx", 12)
-        .attr("dy", ".35em")
-        .text(function(d) { return d.id });
+      const height = parseFloat(svg.style("height"))
+      const width = parseFloat(svg.style("width"))
 
-      const links = svg
-        .selectAll("line")
-        .data(data.links)
+      const synonymLinks = svg
+        .selectAll("line.synonym")
+        .data(data.synonymLinks)
         .enter()
         .append("line")
-          .style("stroke", "#aaa")
+          .style("stroke", "black")
+          .attr("stroke-width", 2)
+          .classed("synonym", true)
+
+      const relationshipLinks = svg
+        .selectAll("line.relationship")
+        .data(data.relationshipLinks)
+        .enter()
+        .append("line")
+          .style("stroke", "gray")
+          .attr("stroke-width", 1)
+          .classed("relationship", true)
+
+      const nodes = svg
+        .selectAll("g")
+        .data(data.nodes)
+        .enter()
+        .append("g")
+
+      const nodeCircles = nodes
+        .append("circle")
+          .attr("r", 10)
+          .attr("stroke", "black")
+          .attr("stroke-width", "2")
+          .style("fill", d => data.colors[d.id])
+
+      const nodeLabel = nodes
+        .append("text")
+          .text(d => d.id)
+          .classed("node-text", true)
 
       const simulation = d3.forceSimulation(data.nodes)
-        .force("charge", d3.forceManyBody())
-        .force("link", d3.forceLink(data.links).id(node => node.id))
+        .force("charge", d3.forceManyBody().strength(-150))
+        .force("synonymLink", d3.forceLink(data.synonymLinks).id(node => node.id).strength(1))
+        .force("relationshipLinks", d3.forceLink(data.relationshipLinks).id(node => node.id).distance(150))
         .force("center", d3.forceCenter(width/2, height/2))
-        .on("end", ticked);
+        .on("tick", ticked);
 
-  // This function is run at each iteration of the force algorithm, updating the nodes position.
+
       function ticked() {
-        links
-          .attr("x1", function(d) { return d.source.x; })
-          .attr("y1", function(d) { return d.source.y; })
-          .attr("x2", function(d) { return d.target.x; })
-          .attr("y2", function(d) { return d.target.y; });
+        synonymLinks
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y)
+
+        relationshipLinks
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y)
 
         nodes
-          .attr("cx", function (d) { return d.x; })
-          .attr("cy", function(d) { return d.y; });
+          .attr("transform", d => `translate(${d.x}, ${d.y})`)
       }
     }
 
