@@ -4,6 +4,7 @@ from pathlib import Path
 import argparse
 import json
 import re
+from datetime import datetime
 
 from tqdm import tqdm
 
@@ -27,14 +28,17 @@ if SIZE == "medium":
 else:
     tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2" # MEDIUM BERT
 
-bert_preprocess_model = hub.KerasLayer(tfhub_handle_preprocess)
-bert_model = hub.KerasLayer(tfhub_handle_encoder)
-
+text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
+preprocessor = hub.KerasLayer(tfhub_handle_preprocess)
+encoder_inputs = preprocessor(text_input)
+encoder = hub.KerasLayer(tfhub_handle_encoder)
+outputs = encoder(encoder_inputs)
+pooled_output = outputs["pooled_output"]
+embedding_model = tf.keras.Model(text_input, pooled_output)
 
 def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
-    transposed_normalized_embeddings = tf.transpose(normalized_embeddings)
-    return tf.linalg.matmul(normalized_embeddings, transposed_normalized_embeddings)
+    return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True)
 
 
 def main():
@@ -59,10 +63,9 @@ def main():
             entities = subjects.append(objects, ignore_index=True)
             size = len(subjects)
 
-            preprocessed_inputs = bert_preprocess_model(entities)
-            outputs = bert_model(preprocessed_inputs)["pooled_output"]
+            model_output = embedding_model(tf.constant(entities))
 
-            entities_matrix = get_similarity_matrix(outputs)
+            entities_matrix = get_similarity_matrix(model_output)
 
             nodes = []
             for i in range(size):
@@ -93,7 +96,7 @@ def main():
                 f.write(json_string)
 
         except Exception as e:
-            failed_files.append(f"{file.name} - {e}")
+            failed_files.append(f"{datetime.now()}: {file.name} - {e}")
 
     with open("results/failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
