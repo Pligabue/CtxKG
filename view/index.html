@@ -1,0 +1,27 @@
+<head>
+  <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div id="display"></div>
+  <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
+  <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
+  <i class="fas fa-sync-alt refresh-button" onclick="loadJSON()"></i>
+  <div class="strength-inputs">
+    <label>
+      Força - Geral:
+      <input id="overall-strength" type="range" min="20" max="3000" step="20" onchange="handleOverallStrenght()" />
+    </label>
+    <label>
+      Força - Sinônimos:
+      <input id="synonym-strength" type="range" min="0" max="3" step="0.2" onchange="handleSynonymStrenght()" />
+    </label>
+    <label>
+      Força - Relações:
+      <input id="relationship-strength" type="range" min="0" max="2" step="0.2" onchange="handleRelationshipStrenght()" />
+    </label>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="index.js"></script>
+</body>

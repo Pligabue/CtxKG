@@ -1,0 +1,52 @@
+#display {
+  overflow: auto;
+}
+
+.display-svg {
+  height: 100%;
+  width: 100%;
+}
+
+.load-button {
+  position: absolute;
+  font-size: large;
+  background-color: #1f657a;
+  color: white;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  top: 1rem;
+  left: 1rem;
+  cursor: pointer;
+}
+
+.refresh-button {
+  position: absolute;
+  font-size: large;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.strength-inputs {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Courier New', Courier, monospace;
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+}
+
+.node-text {
+  font-size: small;
+  fill: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow:
+      -1px -1px 0 #000,
+      0   -1px 0 #000,
+      1px -1px 0 #000,
+      1px  0   0 #000,
+      1px  1px 0 #000,
+      0    1px 0 #000,
+      -1px  1px 0 #000,
+      -1px  0   0 #000;
+}
