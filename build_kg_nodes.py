@@ -35,11 +35,12 @@ encoder = hub.KerasLayer(tfhub_handle_encoder)
 outputs = encoder(encoder_inputs)
 pooled_output = outputs["pooled_output"]
 embedding_model = tf.keras.Model(text_input, pooled_output)
+cls_output = outputs["sequence_output"][:, 0]
+cls_model = tf.keras.Model(text_input, cls_output)
 
 def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
     return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True)
-
 
 def main():
 
@@ -58,42 +59,45 @@ def main():
                 empty_files.append(file.name)
                 continue
 
+            triples = df.apply(lambda row: " ".join(row[["subject", "relation", "object"]]), axis=1)
             subjects = df["subject"]
             objects = df["object"]
             entities = subjects.append(objects, ignore_index=True)
             size = len(subjects)
 
-            model_output = embedding_model(tf.constant(entities))
+            triples_output = cls_model(tf.constant(triples))
+            entities_output = embedding_model(tf.constant(entities))
 
-            entities_matrix = get_similarity_matrix(model_output)
+            subjects_encoding = tf.add(entities_output[:size], triples_output)
+            objects_encoding = tf.add(entities_output[size:], triples_output)
+            entities_matrix = get_similarity_matrix(tf.concat([subjects_encoding, objects_encoding], 0))
 
             nodes = []
             for i in range(size):
                 subject_index = i
                 object_index = i + size
                 
+                subject = entities.iloc[subject_index]
+                _object = entities.iloc[object_index]
+
                 subject_results = entities_matrix[subject_index]
-                subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD and j != subject_index and j != object_index]
-                subject_links = list(set(entities.iloc[subject_link_indexes]))
+                subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD]
+                subject_links = list(set(entities.iloc[subject_link_indexes]) - {subject, _object})
 
                 object_results = entities_matrix[object_index]
-                object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD and j != subject_index and j != object_index]
-                object_links = list(set(entities.iloc[object_link_indexes]))
+                object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD]
+                object_links = list(set(entities.iloc[object_link_indexes]) - {subject, _object})
 
                 nodes.append({
-                    "subject": subjects.iloc[i],
+                    "subject": subject,
                     "subject_links": subject_links,
                     "relation": df.iloc[i]["relation"],
-                    "object": objects.iloc[i],
+                    "object": _object,
                     "object_links": object_links
                 })
 
             with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
-                json_string = json.dumps(nodes, indent=2)
-                json_string = re.sub('\n {6}|\n {4}(?=\])', " ", json_string)
-                json_string = re.sub('\[ ', "[", json_string)
-                json_string = re.sub(' \]', "]", json_string)
-                f.write(json_string)
+                json.dump(nodes, f, indent=2)
 
         except Exception as e:
             failed_files.append(f"{datetime.now()}: {file.name} - {e}")
