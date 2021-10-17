@@ -1,0 +1,23 @@
+abstract_382.txt -  OOM when allocating tensor with shape[1300,8,128,128] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc
+	 [[{{node StatefulPartitionedCall/StatefulPartitionedCall/bert_encoder/StatefulPartitionedCall/transformer/layer_3/self_attention/einsum/Einsum}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_restored_function_body_111266932]
+
+Function call stack:
+restored_function_body
+
+abstract_409.txt -  failed to allocate memory
+	 [[{{node StatefulPartitionedCall/StatefulPartitionedCall/bert_encoder/StatefulPartitionedCall/transformer/layer_2/activation/Gelu/Pow}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_restored_function_body_127994863]
+
+Function call stack:
+restored_function_body
+
+abstract_634.txt -  failed to allocate memory
+	 [[{{node StatefulPartitionedCall/StatefulPartitionedCall/bert_encoder/StatefulPartitionedCall/transformer/layer_2/activation/Gelu/Pow}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_restored_function_body_255251072]
+
+Function call stack:
+restored_function_body
