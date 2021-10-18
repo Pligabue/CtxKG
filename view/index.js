@@ -107,7 +107,6 @@ const buildGraph = (fileData) => {
     .data(data.synonymLinks)
     .enter()
     .append("line")
-      .style("stroke", "black")
       .attr("stroke-width", 2)
       .classed("synonym", true)
 
@@ -116,7 +115,6 @@ const buildGraph = (fileData) => {
     .data(data.relationshipLinks)
     .enter()
     .append("line")
-      .style("stroke", "gray")
       .attr("stroke-width", 1)
       .classed("relationship", true)
 

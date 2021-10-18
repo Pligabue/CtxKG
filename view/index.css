@@ -50,3 +50,15 @@
       -1px  1px 0 #000,
       -1px  0   0 #000;
 }
+
+line.synonym {
+  stroke: black;
+}
+
+line.relationship {
+  stroke: gray;
+}
+
+line:hover {
+  stroke: red;
+}
