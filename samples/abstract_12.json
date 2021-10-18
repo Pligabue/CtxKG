@@ -1,0 +1,362 @@
+[
+  {
+    "subject": "Brazil",
+    "subject_links": [],
+    "relation": "with",
+    "object": "subsea technique",
+    "object_links": []
+  },
+  {
+    "subject": "Brazil",
+    "subject_links": [],
+    "relation": "benefit from",
+    "object": "production",
+    "object_links": [
+      "early production"
+    ]
+  },
+  {
+    "subject": "country",
+    "subject_links": [],
+    "relation": "have",
+    "object": "grow energy demand",
+    "object_links": []
+  },
+  {
+    "subject": "Brazil",
+    "subject_links": [],
+    "relation": "benefit",
+    "object": "help",
+    "object_links": []
+  },
+  {
+    "subject": "Brazil",
+    "subject_links": [],
+    "relation": "benefit from",
+    "object": "early production",
+    "object_links": [
+      "production"
+    ]
+  },
+  {
+    "subject": "bold step",
+    "subject_links": [],
+    "relation": "in",
+    "object": "develop Garoupa field",
+    "object_links": []
+  },
+  {
+    "subject": "article",
+    "subject_links": [],
+    "relation": "describe",
+    "object": "phase",
+    "object_links": [
+      "phase of development program",
+      "first phase",
+      "first phase of development program"
+    ]
+  },
+  {
+    "subject": "article",
+    "subject_links": [
+      "first phase of development program"
+    ],
+    "relation": "describe",
+    "object": "phase of development program",
+    "object_links": [
+      "first phase",
+      "first phase of development program",
+      "phase"
+    ]
+  },
+  {
+    "subject": "article",
+    "subject_links": [],
+    "relation": "describe",
+    "object": "first phase of development program",
+    "object_links": [
+      "phase of development program",
+      "phase"
+    ]
+  },
+  {
+    "subject": "article",
+    "subject_links": [],
+    "relation": "describe",
+    "object": "first phase",
+    "object_links": [
+      "phase of development program",
+      "phase"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "rate of 45,000 d",
+    "object_links": [
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [
+      "produce rate of 45,000 d from nine drill well"
+    ],
+    "relation": "be seek",
+    "object": "rate of 45,000 d from nine drill well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "produce rate from nine well",
+    "object_links": [
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "produce rate of 45,000 d",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [
+      "produce rate of 45,000 d from nine drill well"
+    ],
+    "relation": "be seek",
+    "object": "produce rate from nine drill well",
+    "object_links": [
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "rate from nine well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [
+      "produce rate of 45,000 d from nine well"
+    ],
+    "relation": "be seek",
+    "object": "produce rate of 45,000 d from nine drill well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [
+      "produce rate of 45,000 d from nine drill well"
+    ],
+    "relation": "be seek",
+    "object": "produce rate of 45,000 d from nine well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "rate",
+    "object_links": [
+      "produce rate"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "produce rate",
+    "object_links": [
+      "rate"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [
+      "produce rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d from nine well"
+    ],
+    "relation": "be seek",
+    "object": "rate of 45,000 d from nine well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "produce rate of 45,000 d from nine drill well",
+      "rate from nine drill well"
+    ]
+  },
+  {
+    "subject": "Petrobras",
+    "subject_links": [],
+    "relation": "be seek",
+    "object": "rate from nine drill well",
+    "object_links": [
+      "rate of 45,000 d",
+      "produce rate from nine drill well",
+      "produce rate of 45,000 d from nine well",
+      "rate of 45,000 d from nine drill well",
+      "produce rate of 45,000 d",
+      "produce rate from nine well",
+      "rate from nine well",
+      "rate of 45,000 d from nine well",
+      "produce rate of 45,000 d from nine drill well"
+    ]
+  },
+  {
+    "subject": "associate connection",
+    "subject_links": [],
+    "relation": "will",
+    "object": "will encapsulate",
+    "object_links": []
+  },
+  {
+    "subject": "component",
+    "subject_links": [
+      "many component",
+      "describe"
+    ],
+    "relation": "be describe along",
+    "object": "processing",
+    "object_links": [
+      "many component"
+    ]
+  },
+  {
+    "subject": "component",
+    "subject_links": [
+      "many component",
+      "describe"
+    ],
+    "relation": "be describe along",
+    "object": "submarine flow line",
+    "object_links": [
+      "many component"
+    ]
+  },
+  {
+    "subject": "many component",
+    "subject_links": [
+      "describe",
+      "component"
+    ],
+    "relation": "be describe along",
+    "object": "submarine flow line",
+    "object_links": [
+      "component"
+    ]
+  },
+  {
+    "subject": "component",
+    "subject_links": [
+      "many component"
+    ],
+    "relation": "be",
+    "object": "describe",
+    "object_links": [
+      "many component"
+    ]
+  },
+  {
+    "subject": "many component",
+    "subject_links": [
+      "component"
+    ],
+    "relation": "be",
+    "object": "describe",
+    "object_links": [
+      "component"
+    ]
+  },
+  {
+    "subject": "many component",
+    "subject_links": [
+      "describe",
+      "component"
+    ],
+    "relation": "be describe along",
+    "object": "processing",
+    "object_links": []
+  }
+]

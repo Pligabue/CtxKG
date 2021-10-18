@@ -1,0 +1,500 @@
+[
+  {
+    "subject": "objective",
+    "subject_links": [],
+    "relation": "be describe",
+    "object": "climate of Esp\u00edrito Santo",
+    "object_links": []
+  },
+  {
+    "subject": "objective",
+    "subject_links": [],
+    "relation": "be describe",
+    "object": "climate",
+    "object_links": []
+  },
+  {
+    "subject": "datum",
+    "subject_links": [
+      "observe datum"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "work"
+    ]
+  },
+  {
+    "subject": "observe datum",
+    "subject_links": [
+      "datum"
+    ],
+    "relation": "be use in",
+    "object": "work",
+    "object_links": [
+      "use"
+    ]
+  },
+  {
+    "subject": "observe datum",
+    "subject_links": [
+      "datum"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "work"
+    ]
+  },
+  {
+    "subject": "datum",
+    "subject_links": [
+      "observe datum"
+    ],
+    "relation": "be use in",
+    "object": "work",
+    "object_links": [
+      "use"
+    ]
+  },
+  {
+    "subject": "north wind",
+    "subject_links": [
+      "wind",
+      "south quadrant wind"
+    ],
+    "relation": "be",
+    "object": "intense",
+    "object_links": [
+      "more intense"
+    ]
+  },
+  {
+    "subject": "north wind",
+    "subject_links": [
+      "wind"
+    ],
+    "relation": "be intense than",
+    "object": "south quadrant wind",
+    "object_links": [
+      "wind"
+    ]
+  },
+  {
+    "subject": "north wind",
+    "subject_links": [
+      "wind"
+    ],
+    "relation": "be more intense than",
+    "object": "south quadrant wind",
+    "object_links": [
+      "wind"
+    ]
+  },
+  {
+    "subject": "north wind",
+    "subject_links": [
+      "wind",
+      "south quadrant wind",
+      "intense"
+    ],
+    "relation": "be",
+    "object": "more intense",
+    "object_links": [
+      "intense"
+    ]
+  },
+  {
+    "subject": "wind speed",
+    "subject_links": [
+      "average wind speed"
+    ],
+    "relation": "depend on",
+    "object": "South Atlantic anticyclone position",
+    "object_links": [
+      "South Atlantic subtropical anticyclone position"
+    ]
+  },
+  {
+    "subject": "average wind speed",
+    "subject_links": [
+      "wind speed"
+    ],
+    "relation": "depend on",
+    "object": "South Atlantic subtropical anticyclone position",
+    "object_links": [
+      "South Atlantic anticyclone position"
+    ]
+  },
+  {
+    "subject": "wind speed",
+    "subject_links": [
+      "average wind speed"
+    ],
+    "relation": "depend on",
+    "object": "South Atlantic subtropical anticyclone position",
+    "object_links": [
+      "South Atlantic anticyclone position"
+    ]
+  },
+  {
+    "subject": "average wind speed",
+    "subject_links": [
+      "wind speed"
+    ],
+    "relation": "depend on",
+    "object": "South Atlantic anticyclone position",
+    "object_links": [
+      "South Atlantic subtropical anticyclone position"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "average",
+    "object_links": [
+      "monthly average",
+      "average in April"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "average of 5.3 m s 1",
+    "object_links": [
+      "monthly average of 5.3 m s 1",
+      "5.3 m s 1",
+      "monthly average of 5.3 m s 1 in April",
+      "average of 5.3 m s 1 in April"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "monthly average of 5.3 m s 1",
+    "object_links": [
+      "monthly average of 5.3 m s 1 in April",
+      "5.3 m s 1",
+      "average of 5.3 m s 1",
+      "average of 5.3 m s 1 in April"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "average of",
+    "object": "5.3 m s 1",
+    "object_links": [
+      "average of 5.3 m s 1",
+      "monthly average of 5.3 m s 1",
+      "average of 5.3 m s 1 in April"
+    ]
+  },
+  {
+    "subject": "wind",
+    "subject_links": [
+      "south quadrant wind",
+      "north wind"
+    ],
+    "relation": "be",
+    "object": "weaker",
+    "object_links": []
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "average in",
+    "object": "April",
+    "object_links": []
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "monthly average of 5.3 m s 1 in April",
+    "object_links": [
+      "monthly average of 5.3 m s 1",
+      "monthly average in April",
+      "average of 5.3 m s 1",
+      "average of 5.3 m s 1 in April"
+    ]
+  },
+  {
+    "subject": "monthly average",
+    "subject_links": [],
+    "relation": "in",
+    "object": "April",
+    "object_links": []
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "average in April",
+    "object_links": [
+      "monthly average in April",
+      "average"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "monthly average in April",
+    "object_links": [
+      "monthly average of 5.3 m s 1 in April",
+      "monthly average",
+      "average in April"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "monthly average of",
+    "object": "5.3 m s 1",
+    "object_links": [
+      "average of 5.3 m s 1",
+      "monthly average of 5.3 m s 1"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "monthly average",
+    "object_links": [
+      "monthly average in April",
+      "average"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "reach",
+    "object": "average of 5.3 m s 1 in April",
+    "object_links": [
+      "monthly average of 5.3 m s 1",
+      "5.3 m s 1",
+      "monthly average of 5.3 m s 1 in April",
+      "average of 5.3 m s 1"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "monthly average in",
+    "object": "April",
+    "object_links": []
+  },
+  {
+    "subject": "wind",
+    "subject_links": [
+      "south quadrant wind",
+      "north wind",
+      "weaker"
+    ],
+    "relation": "be weaker during",
+    "object": "autumn",
+    "object_links": []
+  },
+  {
+    "subject": "sea level pressure",
+    "subject_links": [
+      "mean sea level pressure"
+    ],
+    "relation": "oscillate between",
+    "object": "1012.3 hPa",
+    "object_links": []
+  },
+  {
+    "subject": "2 m relative humidity",
+    "subject_links": [
+      "minimum of 72.7 %",
+      "m relative humidity"
+    ],
+    "relation": "minimum of",
+    "object": "72.7 %",
+    "object_links": [
+      "minimum of 72.7 %"
+    ]
+  },
+  {
+    "subject": "m air temperature",
+    "subject_links": [
+      "2 m air temperature"
+    ],
+    "relation": "vary between",
+    "object": "23.2 \u00b0c",
+    "object_links": []
+  },
+  {
+    "subject": "2 m relative humidity",
+    "subject_links": [
+      "minimum of 72.7 %",
+      "May",
+      "m relative humidity"
+    ],
+    "relation": "exhibit",
+    "object": "minimum",
+    "object_links": [
+      "minimum of 72.7 %",
+      "m relative humidity"
+    ]
+  },
+  {
+    "subject": "mean sea level pressure",
+    "subject_links": [
+      "sea level pressure"
+    ],
+    "relation": "oscillate in",
+    "object": "winter",
+    "object_links": []
+  },
+  {
+    "subject": "m relative humidity",
+    "subject_links": [
+      "minimum of 72.7 %",
+      "2 m relative humidity",
+      "May"
+    ],
+    "relation": "exhibit",
+    "object": "minimum",
+    "object_links": [
+      "minimum of 72.7 %",
+      "2 m relative humidity"
+    ]
+  },
+  {
+    "subject": "m relative humidity",
+    "subject_links": [
+      "minimum",
+      "minimum of 72.7 %",
+      "2 m relative humidity"
+    ],
+    "relation": "minimum of",
+    "object": "72.7 %",
+    "object_links": [
+      "minimum of 72.7 %"
+    ]
+  },
+  {
+    "subject": "sea level pressure",
+    "subject_links": [
+      "mean sea level pressure"
+    ],
+    "relation": "oscillate in",
+    "object": "winter",
+    "object_links": []
+  },
+  {
+    "subject": "m relative humidity",
+    "subject_links": [
+      "minimum",
+      "2 m relative humidity"
+    ],
+    "relation": "exhibit minimum in",
+    "object": "May",
+    "object_links": [
+      "2 m relative humidity"
+    ]
+  },
+  {
+    "subject": "2 m relative humidity",
+    "subject_links": [
+      "minimum",
+      "m relative humidity"
+    ],
+    "relation": "exhibit",
+    "object": "minimum of 72.7 %",
+    "object_links": [
+      "minimum",
+      "72.7 %",
+      "m relative humidity"
+    ]
+  },
+  {
+    "subject": "mean sea level pressure",
+    "subject_links": [
+      "sea level pressure"
+    ],
+    "relation": "oscillate between",
+    "object": "1012.3 hPa",
+    "object_links": []
+  },
+  {
+    "subject": "2 m relative humidity",
+    "subject_links": [
+      "m relative humidity"
+    ],
+    "relation": "exhibit minimum in",
+    "object": "May",
+    "object_links": [
+      "September",
+      "m relative humidity"
+    ]
+  },
+  {
+    "subject": "m relative humidity",
+    "subject_links": [
+      "minimum",
+      "2 m relative humidity"
+    ],
+    "relation": "exhibit",
+    "object": "minimum of 72.7 %",
+    "object_links": [
+      "minimum",
+      "2 m relative humidity",
+      "72.7 %"
+    ]
+  },
+  {
+    "subject": "maximum",
+    "subject_links": [],
+    "relation": "in",
+    "object": "December",
+    "object_links": [
+      "September",
+      "February"
+    ]
+  },
+  {
+    "subject": "2 m air temperature",
+    "subject_links": [
+      "m air temperature"
+    ],
+    "relation": "vary between",
+    "object": "23.2 \u00b0c",
+    "object_links": []
+  },
+  {
+    "subject": "maximum",
+    "subject_links": [],
+    "relation": "in",
+    "object": "September",
+    "object_links": [
+      "December",
+      "February",
+      "May"
+    ]
+  },
+  {
+    "subject": "minimum",
+    "subject_links": [],
+    "relation": "in",
+    "object": "February",
+    "object_links": [
+      "September",
+      "December"
+    ]
+  },
+  {
+    "subject": "Universidade Federal",
+    "subject_links": [],
+    "relation": "do",
+    "object": "Rio de Janeiro",
+    "object_links": []
+  }
+]

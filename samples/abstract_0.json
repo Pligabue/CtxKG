@@ -1,0 +1,776 @@
+[
+  {
+    "subject": "Martin Vaz Archipelago",
+    "subject_links": [
+      "locate"
+    ],
+    "relation": "be",
+    "object": "compose",
+    "object_links": [
+      "locate"
+    ]
+  },
+  {
+    "subject": "Martin Vaz Archipelago",
+    "subject_links": [
+      "parallel 20 \u00b0 s"
+    ],
+    "relation": "be locate at",
+    "object": "20 \u00b0 s",
+    "object_links": [
+      "parallel 20 \u00b0 s"
+    ]
+  },
+  {
+    "subject": "Martin Vaz Archipelago",
+    "subject_links": [],
+    "relation": "be",
+    "object": "locate",
+    "object_links": [
+      "compose"
+    ]
+  },
+  {
+    "subject": "Martin Vaz Archipelago",
+    "subject_links": [],
+    "relation": "be compose of",
+    "object": "Plio Pleistocenic alkaline rock",
+    "object_links": []
+  },
+  {
+    "subject": "Martin Vaz Archipelago",
+    "subject_links": [],
+    "relation": "be locate at",
+    "object": "parallel 20 \u00b0 s",
+    "object_links": [
+      "20 \u00b0 s"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "basal unit",
+      "deposit with tuff"
+    ],
+    "relation": "lastly be compose of",
+    "object": "pyroclastic deposit",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "basal unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit",
+      "deposit with tuff"
+    ],
+    "relation": "be compose of",
+    "object": "deposit",
+    "object_links": []
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit",
+      "deposit with tuff"
+    ],
+    "relation": "lastly be compose of",
+    "object": "deposit",
+    "object_links": []
+  },
+  {
+    "subject": "pyroclastic deposit",
+    "subject_links": [
+      "pyroclastic deposit with tuff"
+    ],
+    "relation": "with",
+    "object": "tuff",
+    "object_links": []
+  },
+  {
+    "subject": "Archipelago",
+    "subject_links": [],
+    "relation": "be divide into",
+    "object": "three main unit",
+    "object_links": [
+      "three unit"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "lastly compose",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "be",
+    "object": "compose",
+    "object_links": [
+      "lastly compose",
+      "deposit"
+    ]
+  },
+  {
+    "subject": "melanephelinitic lava",
+    "subject_links": [
+      "lava"
+    ],
+    "relation": "flow with",
+    "object": "olivine",
+    "object_links": []
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "be",
+    "object": "lastly compose",
+    "object_links": [
+      "compose"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit",
+      "lastly compose"
+    ],
+    "relation": "be",
+    "object": "compose",
+    "object_links": []
+  },
+  {
+    "subject": "Pico",
+    "subject_links": [],
+    "relation": "da",
+    "object": "Gaivotas Unit",
+    "object_links": []
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "basal unit",
+      "deposit with tuff"
+    ],
+    "relation": "be compose of",
+    "object": "pyroclastic deposit",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "basal unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "lastly be compose of",
+    "object": "pyroclastic deposit",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit"
+    ],
+    "relation": "be compose of",
+    "object": "deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "basal unit"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "pyroclastic deposit",
+      "deposit with tuff",
+      "basal unit"
+    ],
+    "relation": "be compose of",
+    "object": "pyroclastic deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit",
+      "deposit with tuff",
+      "basal unit"
+    ]
+  },
+  {
+    "subject": "Bandeira Unit",
+    "subject_links": [],
+    "relation": "in",
+    "object": "turn",
+    "object_links": []
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "be compose of",
+    "object": "pyroclastic deposit",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit"
+    ],
+    "relation": "lastly be compose of",
+    "object": "deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit"
+    ]
+  },
+  {
+    "subject": "Archipelago",
+    "subject_links": [],
+    "relation": "be divide into",
+    "object": "three unit",
+    "object_links": [
+      "three main unit"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit"
+    ],
+    "relation": "lastly be compose of",
+    "object": "deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "basal unit"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "basal unit"
+    ],
+    "relation": "be",
+    "object": "lastly compose",
+    "object_links": [
+      "basal unit"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "lastly be compose of",
+    "object": "deposit",
+    "object_links": [
+      "compose"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit"
+    ],
+    "relation": "be compose of",
+    "object": "deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit"
+    ]
+  },
+  {
+    "subject": "nosean phonolite dyke",
+    "subject_links": [],
+    "relation": "with",
+    "object": "clinopyroxene",
+    "object_links": [
+      "Gaivotas Unit clinopyroxene phenocryst"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit with tuff",
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "be compose of",
+    "object": "deposit",
+    "object_links": [
+      "compose"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "be compose of",
+    "object": "pyroclastic deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "unit",
+    "subject_links": [
+      "pyroclastic deposit",
+      "deposit with tuff",
+      "basal unit"
+    ],
+    "relation": "lastly be compose of",
+    "object": "pyroclastic deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit",
+      "deposit with tuff",
+      "basal unit"
+    ]
+  },
+  {
+    "subject": "Archipelago",
+    "subject_links": [],
+    "relation": "be",
+    "object": "divide",
+    "object_links": []
+  },
+  {
+    "subject": "lava",
+    "subject_links": [
+      "melanephelinitic lava"
+    ],
+    "relation": "flow with",
+    "object": "olivine",
+    "object_links": [
+      "melanephelinitic lava"
+    ]
+  },
+  {
+    "subject": "basal unit",
+    "subject_links": [
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ],
+    "relation": "lastly be compose of",
+    "object": "pyroclastic deposit with tuff",
+    "object_links": [
+      "pyroclastic deposit",
+      "unit",
+      "deposit with tuff"
+    ]
+  },
+  {
+    "subject": "Bandeira unit",
+    "subject_links": [],
+    "relation": "have",
+    "object": "green core",
+    "object_links": []
+  },
+  {
+    "subject": "Pico da",
+    "subject_links": [
+      "Bandeira unit",
+      "Gaivotas"
+    ],
+    "relation": "have",
+    "object": "anhedral core",
+    "object_links": [
+      "anhedral green core"
+    ]
+  },
+  {
+    "subject": "Bandeira unit",
+    "subject_links": [
+      "Pico da"
+    ],
+    "relation": "have",
+    "object": "anhedral green core",
+    "object_links": [
+      "anhedral core",
+      "core"
+    ]
+  },
+  {
+    "subject": "Bandeira unit",
+    "subject_links": [
+      "Gaivotas",
+      "Pico da"
+    ],
+    "relation": "have",
+    "object": "anhedral core",
+    "object_links": [
+      "anhedral green core",
+      "core"
+    ]
+  },
+  {
+    "subject": "Gaivotas",
+    "subject_links": [
+      "Bandeira unit",
+      "Pico da"
+    ],
+    "relation": "have",
+    "object": "anhedral core",
+    "object_links": [
+      "anhedral green core"
+    ]
+  },
+  {
+    "subject": "Pico da",
+    "subject_links": [
+      "Bandeira unit",
+      "Gaivotas"
+    ],
+    "relation": "have",
+    "object": "anhedral green core",
+    "object_links": [
+      "anhedral core"
+    ]
+  },
+  {
+    "subject": "Gaivotas",
+    "subject_links": [],
+    "relation": "have",
+    "object": "green core",
+    "object_links": []
+  },
+  {
+    "subject": "Pico da",
+    "subject_links": [],
+    "relation": "have",
+    "object": "green core",
+    "object_links": []
+  },
+  {
+    "subject": "Gaivotas",
+    "subject_links": [
+      "Pico da"
+    ],
+    "relation": "have",
+    "object": "anhedral green core",
+    "object_links": [
+      "anhedral core"
+    ]
+  },
+  {
+    "subject": "Gaivotas",
+    "subject_links": [],
+    "relation": "have",
+    "object": "core",
+    "object_links": []
+  },
+  {
+    "subject": "Pico da",
+    "subject_links": [],
+    "relation": "have",
+    "object": "core",
+    "object_links": []
+  },
+  {
+    "subject": "Bandeira unit",
+    "subject_links": [],
+    "relation": "have",
+    "object": "core",
+    "object_links": [
+      "anhedral green core",
+      "anhedral core"
+    ]
+  },
+  {
+    "subject": "primitive rich magma input",
+    "subject_links": [],
+    "relation": "in",
+    "object": "magmatic chamber",
+    "object_links": []
+  },
+  {
+    "subject": "study",
+    "subject_links": [],
+    "relation": "provide",
+    "object": "mineral chemistry datum indicate",
+    "object_links": []
+  },
+  {
+    "subject": "clinopyroxene rim",
+    "subject_links": [],
+    "relation": "be",
+    "object": "more primitive",
+    "object_links": [
+      "primitive"
+    ]
+  },
+  {
+    "subject": "clinopyroxene rim",
+    "subject_links": [],
+    "relation": "be",
+    "object": "primitive",
+    "object_links": [
+      "more primitive"
+    ]
+  },
+  {
+    "subject": "study",
+    "subject_links": [],
+    "relation": "provide",
+    "object": "mineral chemistry datum",
+    "object_links": []
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [],
+    "relation": "have",
+    "object": "origin",
+    "object_links": []
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [
+      "origin from mantle source",
+      "origin from mantle peridotitic source",
+      "xenocrystic origin from mantle peridotitic source"
+    ],
+    "relation": "have",
+    "object": "xenocrystic origin from mantle source",
+    "object_links": [
+      "origin from mantle peridotitic source",
+      "origin from mantle source",
+      "xenocrystic origin from mantle peridotitic source",
+      "xenocrystic origin"
+    ]
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [
+      "origin from mantle peridotitic source",
+      "xenocrystic origin from mantle source"
+    ],
+    "relation": "have",
+    "object": "xenocrystic origin from mantle peridotitic source",
+    "object_links": [
+      "origin from mantle peridotitic source",
+      "origin from mantle source",
+      "xenocrystic origin",
+      "xenocrystic origin from mantle source"
+    ]
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [
+      "origin from mantle peridotitic source",
+      "xenocrystic origin from mantle source"
+    ],
+    "relation": "have",
+    "object": "origin from mantle source",
+    "object_links": [
+      "origin from mantle peridotitic source",
+      "xenocrystic origin from mantle peridotitic source",
+      "xenocrystic origin from mantle source"
+    ]
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [],
+    "relation": "have",
+    "object": "xenocrystic origin",
+    "object_links": [
+      "origin from mantle peridotitic source",
+      "xenocrystic origin from mantle peridotitic source",
+      "xenocrystic origin from mantle source"
+    ]
+  },
+  {
+    "subject": "crystal",
+    "subject_links": [
+      "origin from mantle source",
+      "xenocrystic origin from mantle peridotitic source",
+      "xenocrystic origin from mantle source"
+    ],
+    "relation": "have",
+    "object": "origin from mantle peridotitic source",
+    "object_links": [
+      "origin from mantle source",
+      "xenocrystic origin from mantle peridotitic source",
+      "xenocrystic origin",
+      "xenocrystic origin from mantle source"
+    ]
+  },
+  {
+    "subject": "Clinopyroxene geothermobarometry datum",
+    "subject_links": [
+      "crystallization",
+      "different pressure for core"
+    ],
+    "relation": "suggest",
+    "object": "pressure for core",
+    "object_links": [
+      "pressure",
+      "higher pressure environment",
+      "crystallization",
+      "different pressure",
+      "different pressure for core"
+    ]
+  },
+  {
+    "subject": "Clinopyroxene geothermobarometry datum",
+    "subject_links": [
+      "pressure for core",
+      "different pressure for core"
+    ],
+    "relation": "suggest pressure during",
+    "object": "crystallization",
+    "object_links": [
+      "pressure for core",
+      "different pressure for core"
+    ]
+  },
+  {
+    "subject": "Clinopyroxene geothermobarometry datum",
+    "subject_links": [
+      "different pressure",
+      "crystallization",
+      "pressure for core",
+      "different pressure for core"
+    ],
+    "relation": "suggest",
+    "object": "pressure",
+    "object_links": [
+      "pressure for core",
+      "higher pressure environment",
+      "pressure environment",
+      "different pressure",
+      "particularly higher pressure environment",
+      "different pressure for core"
+    ]
+  },
+  {
+    "subject": "Clinopyroxene geothermobarometry datum",
+    "subject_links": [
+      "crystallization",
+      "pressure for core",
+      "different pressure for core"
+    ],
+    "relation": "suggest",
+    "object": "different pressure",
+    "object_links": [
+      "pressure",
+      "pressure for core",
+      "higher pressure environment",
+      "pressure environment",
+      "particularly higher pressure environment",
+      "different pressure for core"
+    ]
+  },
+  {
+    "subject": "Clinopyroxene geothermobarometry datum",
+    "subject_links": [
+      "crystallization",
+      "pressure for core"
+    ],
+    "relation": "suggest",
+    "object": "different pressure for core",
+    "object_links": [
+      "pressure",
+      "pressure for core",
+      "higher pressure environment",
+      "crystallization",
+      "different pressure"
+    ]
+  },
+  {
+    "subject": "Gaivotas Unit clinopyroxene phenocryst",
+    "subject_links": [
+      "clinopyroxene",
+      "particularly pressure environment"
+    ],
+    "relation": "suggest",
+    "object": "particularly higher pressure environment",
+    "object_links": [
+      "pressure",
+      "higher pressure environment",
+      "particularly pressure environment",
+      "pressure environment",
+      "different pressure"
+    ]
+  },
+  {
+    "subject": "Gaivotas Unit clinopyroxene phenocryst",
+    "subject_links": [],
+    "relation": "suggest",
+    "object": "pressure environment",
+    "object_links": [
+      "pressure",
+      "higher pressure environment",
+      "particularly pressure environment",
+      "different pressure",
+      "particularly higher pressure environment"
+    ]
+  },
+  {
+    "subject": "Gaivotas Unit clinopyroxene phenocryst",
+    "subject_links": [
+      "clinopyroxene",
+      "particularly higher pressure environment"
+    ],
+    "relation": "suggest",
+    "object": "particularly pressure environment",
+    "object_links": [
+      "pressure environment",
+      "particularly higher pressure environment",
+      "higher pressure environment"
+    ]
+  },
+  {
+    "subject": "Gaivotas Unit clinopyroxene phenocryst",
+    "subject_links": [
+      "clinopyroxene",
+      "particularly higher pressure environment",
+      "particularly pressure environment"
+    ],
+    "relation": "suggest",
+    "object": "higher pressure environment",
+    "object_links": [
+      "pressure",
+      "pressure for core",
+      "particularly pressure environment",
+      "pressure environment",
+      "different pressure",
+      "particularly higher pressure environment",
+      "different pressure for core"
+    ]
+  }
+]

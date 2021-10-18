@@ -1,0 +1,538 @@
+[
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "South America industrial center locate in Sao Paulo state to Campos basin",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "South America industrial center"
+    ],
+    "relation": "interconnect",
+    "object": "main South America industrial center locate in Sao Paulo state",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "South America center locate to Campos basin",
+    "object_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "main South America industrial center locate",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America center locate",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate",
+      "South America industrial center locate in Sao Paulo state",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "South America industrial center",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "South America industrial center locate to Campos basin",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center locate to Campos basin",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "South America center locate",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America center locate",
+      "South America center",
+      "main South America industrial center locate",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "main South America industrial center",
+      "South America industrial center"
+    ],
+    "relation": "interconnect",
+    "object": "South America industrial center locate in Sao Paulo state",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate in Sao Paulo state",
+      "main South America industrial center locate",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "main South America industrial center",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "main South America center locate in Sao Paulo state",
+    "object_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America center locate",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "South America center locate",
+      "main South America industrial center locate",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "main South America center locate",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center",
+      "South America center locate",
+      "main South America industrial center locate",
+      "South America industrial center locate",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "South America center locate in Sao Paulo state to Campos basin",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate in Sao Paulo state",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "South America industrial center locate",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America center locate",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate",
+      "main South America industrial center locate",
+      "South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "main South America center locate to Campos basin",
+    "object_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America center",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "South America center locate in Sao Paulo state",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "main South America center locate",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate",
+      "main South America industrial center locate",
+      "South America industrial center locate in Sao Paulo state",
+      "South America industrial center locate"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "main South America industrial center",
+    "object_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America center",
+      "South America center",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center",
+      "South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "main South America center",
+    "object_links": [
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America center",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "South America industrial center",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "South America industrial center",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "main South America industrial center locate to Campos basin",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "South America industrial center locate in Sao Paulo state",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America center"
+    ],
+    "relation": "interconnect",
+    "object": "South America industrial center",
+    "object_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America center"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "main South America industrial center locate in Sao Paulo state to Campos basin",
+    "object_links": [
+      "main South America center locate in Sao Paulo state",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate in Sao Paulo state",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center",
+      "main South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state",
+      "main South America center locate in Sao Paulo state to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America center",
+      "main South America industrial center",
+      "South America industrial center"
+    ],
+    "relation": "interconnect",
+    "object": "South America center",
+    "object_links": [
+      "South America center locate to Campos basin",
+      "main South America center locate",
+      "main South America center",
+      "South America center locate",
+      "main South America industrial center",
+      "South America industrial center"
+    ]
+  },
+  {
+    "subject": "system",
+    "subject_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate to Campos basin"
+    ],
+    "relation": "interconnect",
+    "object": "main South America center locate in Sao Paulo state to Campos basin",
+    "object_links": [
+      "main South America industrial center locate in Sao Paulo state to Campos basin",
+      "South America center locate to Campos basin",
+      "South America industrial center locate to Campos basin",
+      "South America industrial center locate in Sao Paulo state to Campos basin",
+      "main South America center",
+      "South America center locate in Sao Paulo state to Campos basin",
+      "main South America industrial center locate to Campos basin",
+      "main South America center locate to Campos basin"
+    ]
+  },
+  {
+    "subject": "basin",
+    "subject_links": [],
+    "relation": "have",
+    "object": "development",
+    "object_links": []
+  },
+  {
+    "subject": "basin",
+    "subject_links": [],
+    "relation": "have",
+    "object": "development in world",
+    "object_links": []
+  },
+  {
+    "subject": "fastest development",
+    "subject_links": [],
+    "relation": "in",
+    "object": "world",
+    "object_links": []
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "terrain characteristic"
+    ],
+    "relation": "discus",
+    "object": "various terrain characteristic",
+    "object_links": [
+      "terrain characteristic"
+    ]
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "terrain characteristic for project"
+    ],
+    "relation": "discus",
+    "object": "various terrain characteristic for project",
+    "object_links": [
+      "terrain characteristic for project"
+    ]
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "various terrain characteristic for project"
+    ],
+    "relation": "discus",
+    "object": "terrain characteristic for project",
+    "object_links": [
+      "various terrain characteristic for project"
+    ]
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "various terrain characteristic"
+    ],
+    "relation": "discus",
+    "object": "terrain characteristic",
+    "object_links": [
+      "various terrain characteristic"
+    ]
+  }
+]

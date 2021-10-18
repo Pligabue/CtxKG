@@ -1,0 +1,1877 @@
+[
+  {
+    "subject": "continent",
+    "subject_links": [
+      "other continent"
+    ],
+    "relation": "have demand",
+    "object": "unit",
+    "object_links": []
+  },
+  {
+    "subject": "oil offshore Brazil",
+    "subject_links": [
+      "float unit for oil production",
+      "unit",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "unit for oil production",
+    "object_links": [
+      "float unit for oil production",
+      "unit",
+      "oil Brazil"
+    ]
+  },
+  {
+    "subject": "oil Brazil",
+    "subject_links": [
+      "continent",
+      "unit",
+      "other continent",
+      "oil offshore Brazil",
+      "float unit for oil production"
+    ],
+    "relation": "have demand",
+    "object": "float unit",
+    "object_links": [
+      "float unit for oil production"
+    ]
+  },
+  {
+    "subject": "continent",
+    "subject_links": [
+      "other continent",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "float unit for oil production",
+    "object_links": [
+      "unit for oil production",
+      "oil Brazil",
+      "oil offshore Brazil",
+      "unit"
+    ]
+  },
+  {
+    "subject": "other continent",
+    "subject_links": [
+      "continent"
+    ],
+    "relation": "have demand",
+    "object": "float unit",
+    "object_links": []
+  },
+  {
+    "subject": "oil offshore Brazil",
+    "subject_links": [
+      "unit for oil production",
+      "float unit for oil production",
+      "unit",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "float unit",
+    "object_links": [
+      "float unit for oil production",
+      "oil Brazil"
+    ]
+  },
+  {
+    "subject": "oil Brazil",
+    "subject_links": [
+      "unit for oil production",
+      "continent",
+      "other continent",
+      "float unit",
+      "oil offshore Brazil"
+    ],
+    "relation": "have demand",
+    "object": "float unit for oil production",
+    "object_links": [
+      "unit for oil production",
+      "float unit",
+      "oil offshore Brazil",
+      "unit"
+    ]
+  },
+  {
+    "subject": "oil offshore Brazil",
+    "subject_links": [
+      "unit for oil production",
+      "oil Brazil",
+      "unit"
+    ],
+    "relation": "have demand",
+    "object": "float unit for oil production",
+    "object_links": [
+      "unit for oil production",
+      "float unit",
+      "unit",
+      "oil Brazil"
+    ]
+  },
+  {
+    "subject": "oil Brazil",
+    "subject_links": [
+      "continent",
+      "other continent",
+      "oil offshore Brazil",
+      "float unit",
+      "float unit for oil production"
+    ],
+    "relation": "have demand",
+    "object": "unit for oil production",
+    "object_links": [
+      "oil offshore Brazil",
+      "float unit for oil production",
+      "unit"
+    ]
+  },
+  {
+    "subject": "oil Brazil",
+    "subject_links": [
+      "other continent",
+      "continent",
+      "oil offshore Brazil",
+      "float unit"
+    ],
+    "relation": "have demand",
+    "object": "unit",
+    "object_links": [
+      "unit for oil production",
+      "float unit for oil production",
+      "oil offshore Brazil"
+    ]
+  },
+  {
+    "subject": "continent",
+    "subject_links": [
+      "other continent",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "unit for oil production",
+    "object_links": [
+      "oil offshore Brazil",
+      "float unit for oil production",
+      "unit",
+      "oil Brazil"
+    ]
+  },
+  {
+    "subject": "oil offshore Brazil",
+    "subject_links": [
+      "unit for oil production",
+      "float unit for oil production",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "unit",
+    "object_links": [
+      "unit for oil production",
+      "float unit for oil production",
+      "oil Brazil"
+    ]
+  },
+  {
+    "subject": "other continent",
+    "subject_links": [
+      "continent",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "unit for oil production",
+    "object_links": [
+      "float unit for oil production",
+      "oil offshore Brazil",
+      "unit"
+    ]
+  },
+  {
+    "subject": "other continent",
+    "subject_links": [
+      "continent",
+      "float unit"
+    ],
+    "relation": "have demand",
+    "object": "unit",
+    "object_links": [
+      "unit for oil production"
+    ]
+  },
+  {
+    "subject": "continent",
+    "subject_links": [
+      "other continent"
+    ],
+    "relation": "have demand",
+    "object": "float unit",
+    "object_links": [
+      "other continent"
+    ]
+  },
+  {
+    "subject": "other continent",
+    "subject_links": [
+      "continent",
+      "oil Brazil"
+    ],
+    "relation": "have demand",
+    "object": "float unit for oil production",
+    "object_links": [
+      "unit for oil production",
+      "oil Brazil",
+      "oil offshore Brazil",
+      "unit"
+    ]
+  },
+  {
+    "subject": "typical anchor production unit",
+    "subject_links": [
+      "typical production unit"
+    ],
+    "relation": "be",
+    "object": "semi-submersible platform",
+    "object_links": [
+      "anchor production unit",
+      "platform"
+    ]
+  },
+  {
+    "subject": "production unit",
+    "subject_links": [
+      "anchor production unit"
+    ],
+    "relation": "be",
+    "object": "semi-submersible platform",
+    "object_links": [
+      "anchor production unit",
+      "platform"
+    ]
+  },
+  {
+    "subject": "anchor production unit",
+    "subject_links": [
+      "production unit"
+    ],
+    "relation": "be",
+    "object": "semi-submersible platform",
+    "object_links": [
+      "production unit",
+      "platform"
+    ]
+  },
+  {
+    "subject": "anchor production unit",
+    "subject_links": [
+      "production unit",
+      "semi-submersible platform"
+    ],
+    "relation": "be",
+    "object": "platform",
+    "object_links": [
+      "semi-submersible platform"
+    ]
+  },
+  {
+    "subject": "typical production unit",
+    "subject_links": [
+      "typical anchor production unit"
+    ],
+    "relation": "be",
+    "object": "semi-submersible platform",
+    "object_links": [
+      "anchor production unit",
+      "production unit",
+      "platform"
+    ]
+  },
+  {
+    "subject": "production unit",
+    "subject_links": [
+      "anchor production unit"
+    ],
+    "relation": "be",
+    "object": "platform",
+    "object_links": [
+      "anchor production unit",
+      "semi-submersible platform"
+    ]
+  },
+  {
+    "subject": "typical production unit",
+    "subject_links": [
+      "typical anchor production unit"
+    ],
+    "relation": "be",
+    "object": "platform",
+    "object_links": [
+      "semi-submersible platform"
+    ]
+  },
+  {
+    "subject": "typical anchor production unit",
+    "subject_links": [
+      "typical production unit"
+    ],
+    "relation": "be",
+    "object": "platform",
+    "object_links": [
+      "difference",
+      "semi-submersible platform"
+    ]
+  },
+  {
+    "subject": "FPSOs",
+    "subject_links": [
+      "last twelve year"
+    ],
+    "relation": "adopt torpedo pile",
+    "object": "twelve year",
+    "object_links": [
+      "last twelve year"
+    ]
+  },
+  {
+    "subject": "anchor line",
+    "subject_links": [],
+    "relation": "in",
+    "object": "deep water",
+    "object_links": []
+  },
+  {
+    "subject": "FPSOs",
+    "subject_links": [
+      "twelve year"
+    ],
+    "relation": "adopt torpedo pile",
+    "object": "last twelve year",
+    "object_links": [
+      "twelve year"
+    ]
+  },
+  {
+    "subject": "FPSO Cidade de Angra dos Reis",
+    "subject_links": [],
+    "relation": "operate in",
+    "object": "October 2010",
+    "object_links": []
+  },
+  {
+    "subject": "FPSO Cidade de Angra dos Reis",
+    "subject_links": [],
+    "relation": "operate in",
+    "object": "area",
+    "object_links": [
+      "pre-salt area"
+    ]
+  },
+  {
+    "subject": "FPSO Cidade de Angra dos Reis",
+    "subject_links": [],
+    "relation": "operate in",
+    "object": "pre-salt area",
+    "object_links": [
+      "area"
+    ]
+  },
+  {
+    "subject": "FPSO Cidade de Angra dos Reis",
+    "subject_links": [],
+    "relation": "be",
+    "object": "first",
+    "object_links": []
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "become",
+    "object": "common",
+    "object_links": []
+  },
+  {
+    "subject": "vlcc size",
+    "subject_links": [],
+    "relation": "production of",
+    "object": "150,000 barrel per day",
+    "object_links": []
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "on become",
+    "object": "common",
+    "object_links": []
+  },
+  {
+    "subject": "production unit",
+    "subject_links": [],
+    "relation": "with",
+    "object": "vlcc size",
+    "object_links": []
+  },
+  {
+    "subject": "1,200 tonne",
+    "subject_links": [],
+    "relation": "torpedo",
+    "object": "pile",
+    "object_links": []
+  },
+  {
+    "subject": "reason",
+    "subject_links": [],
+    "relation": "be",
+    "object": "1,200 tonne",
+    "object_links": []
+  },
+  {
+    "subject": "proposition",
+    "subject_links": [],
+    "relation": "develop in",
+    "object": "paper",
+    "object_links": []
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "drive pile"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "pile above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with breaking strength",
+    "object_links": [
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "pile with hold power above 1,800 tonne",
+      "pile",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference",
+      "decrease"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "drive pile"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "pile with power",
+      "difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference",
+      "pile with hold power",
+      "pile",
+      "drive pile with hold power",
+      "decrease"
+    ],
+    "relation": "be use of",
+    "object": "pile with power",
+    "object_links": [
+      "drive pile with power",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "pile",
+    "object_links": [
+      "pile with hold power",
+      "pile with breaking strength",
+      "drive pile",
+      "pile with power"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "main difference",
+      "pile with power",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power with breaking strength",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power",
+    "object_links": [
+      "drive pile with power",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "difference",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power with breaking strength",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "main difference",
+      "pile with power",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with hold power",
+      "platform"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "breaking strength of more 2,000 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "drive pile",
+    "subject_links": [],
+    "relation": "with",
+    "object": "hold power",
+    "object_links": []
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "pile with power",
+      "difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "difference",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with power",
+      "pile",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "pile with power",
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power with breaking strength",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with breaking strength",
+      "use"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference",
+      "pile with power",
+      "pile"
+    ],
+    "relation": "be use of",
+    "object": "pile with breaking strength",
+    "object_links": [
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "pile with hold power above 1,800 tonne",
+      "pile",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "pile above 1,800 tonne",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "difference",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "pile"
+    ],
+    "relation": "be use of",
+    "object": "drive pile",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "pile",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with breaking strength",
+      "use"
+    ]
+  },
+  {
+    "subject": "drive pile",
+    "subject_links": [],
+    "relation": "with",
+    "object": "breaking strength of more 2,000 tonne",
+    "object_links": [
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile with hold power above 1,800 tonne with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "pile with power above 1,800 tonne with breaking strength",
+      "main difference",
+      "pile with power"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile above 1,800 tonne",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference"
+    ],
+    "relation": "be use of",
+    "object": "drive pile above 1,800 tonne",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile with hold power above 1,800 tonne",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "main difference",
+      "pile with power"
+    ],
+    "relation": "be use of",
+    "object": "pile with power above 1,800 tonne with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile with power with breaking strength",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "main difference",
+      "pile with power",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with power",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "main difference",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be use of",
+    "object": "pile",
+    "object_links": [
+      "pile with hold power",
+      "pile with breaking strength",
+      "pile with power",
+      "difference"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with hold power",
+      "main difference",
+      "pile with power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with hold power",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "main difference",
+      "pile with power",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "pile with hold power",
+    "object_links": [
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with power",
+      "pile",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power above 1,800 tonne with breaking strength",
+      "drive pile with breaking strength"
+    ]
+  },
+  {
+    "subject": "difference",
+    "subject_links": [
+      "pile with power",
+      "main difference",
+      "drive pile with hold power"
+    ],
+    "relation": "be use of",
+    "object": "drive pile with breaking strength",
+    "object_links": [
+      "drive pile above 1,800 tonne",
+      "drive pile with power",
+      "drive pile with power above 1,800 tonne with breaking strength",
+      "drive pile",
+      "pile with hold power above 1,800 tonne",
+      "drive pile with hold power",
+      "pile with power with breaking strength",
+      "drive pile above 1,800 tonne with breaking strength",
+      "pile above 1,800 tonne with breaking strength",
+      "drive pile with power with breaking strength",
+      "pile above 1,800 tonne",
+      "pile with breaking strength",
+      "pile with power above 1,800 tonne with breaking strength",
+      "pile with hold power with breaking strength",
+      "pile with hold power",
+      "pile with power",
+      "drive pile with power above 1,800 tonne",
+      "drive pile with hold power above 1,800 tonne with breaking strength",
+      "pile with power above 1,800 tonne",
+      "drive pile with hold power with breaking strength",
+      "drive pile with hold power above 1,800 tonne",
+      "pile with hold power above 1,800 tonne with breaking strength"
+    ]
+  },
+  {
+    "subject": "it",
+    "subject_links": [],
+    "relation": "be",
+    "object": "show",
+    "object_links": []
+  },
+  {
+    "subject": "decrease",
+    "subject_links": [
+      "difference"
+    ],
+    "relation": "be",
+    "object": "achieve",
+    "object_links": []
+  }
+]

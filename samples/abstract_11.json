@@ -1,0 +1,1316 @@
+[
+  {
+    "subject": "Lula North East field",
+    "subject_links": [],
+    "relation": "be",
+    "object": "two pilot field",
+    "object_links": []
+  },
+  {
+    "subject": "Lula North East field",
+    "subject_links": [],
+    "relation": "be",
+    "object": "two pilot field of pre-salt development strategy",
+    "object_links": []
+  },
+  {
+    "subject": "Field architecture",
+    "subject_links": [],
+    "relation": "consist of",
+    "object": "satellite well connect",
+    "object_links": [
+      "satellite well",
+      "satellite well connect to spread"
+    ]
+  },
+  {
+    "subject": "Field architecture",
+    "subject_links": [],
+    "relation": "consist of",
+    "object": "satellite well connect to spread",
+    "object_links": [
+      "satellite well connect",
+      "satellite well"
+    ]
+  },
+  {
+    "subject": "Field architecture",
+    "subject_links": [],
+    "relation": "consist of",
+    "object": "satellite well",
+    "object_links": [
+      "satellite well connect",
+      "satellite well connect to spread"
+    ]
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [],
+    "relation": "provide net up",
+    "object": "thrust",
+    "object_links": []
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [
+      "nominal net"
+    ],
+    "relation": "provide",
+    "object": "net",
+    "object_links": []
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [],
+    "relation": "provide",
+    "object": "nominal net",
+    "object_links": []
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [],
+    "relation": "provide net up",
+    "object": "thrust of 3,250 t",
+    "object_links": []
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [],
+    "relation": "displace",
+    "object": "close to 10,000 t",
+    "object_links": []
+  },
+  {
+    "subject": "bsr",
+    "subject_links": [],
+    "relation": "displace",
+    "object": "close to 10,000 t of water",
+    "object_links": []
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "engineering challenge develop for large scale foundation anchor"
+    ],
+    "relation": "highlight",
+    "object": "engineering challenge develop for scale foundation anchor",
+    "object_links": [
+      "engineering challenge develop for large scale foundation anchor"
+    ]
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "engineering challenge develop for large scale foundation anchor",
+      "engineering challenge develop for scale foundation anchor"
+    ],
+    "relation": "highlight",
+    "object": "engineering challenge develop",
+    "object_links": []
+  },
+  {
+    "subject": "paper",
+    "subject_links": [],
+    "relation": "highlight",
+    "object": "engineering challenge",
+    "object_links": []
+  },
+  {
+    "subject": "paper",
+    "subject_links": [
+      "engineering challenge develop for scale foundation anchor"
+    ],
+    "relation": "highlight",
+    "object": "engineering challenge develop for large scale foundation anchor",
+    "object_links": [
+      "engineering challenge develop for scale foundation anchor"
+    ]
+  },
+  {
+    "subject": "8m diameter",
+    "subject_links": [
+      "corner of bsr tank"
+    ],
+    "relation": "house receptacle below",
+    "object": "vertically corner of bsr tank",
+    "object_links": [
+      "corner of bsr tank"
+    ]
+  },
+  {
+    "subject": "8m diameter",
+    "subject_links": [
+      "vertically corner of bsr tank"
+    ],
+    "relation": "house receptacle below",
+    "object": "corner of bsr tank",
+    "object_links": [
+      "vertically corner of bsr tank"
+    ]
+  },
+  {
+    "subject": "bsr excursion orbit",
+    "subject_links": [
+      "lateral bsr excursion orbit"
+    ],
+    "relation": "avoid",
+    "object": "clash",
+    "object_links": [
+      "clash of riser"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [
+      "anchor capacity"
+    ],
+    "relation": "optimise system stiffness while",
+    "object": "minimum anchor capacity",
+    "object_links": [
+      "require anchor capacity",
+      "anchor capacity",
+      "require minimum anchor capacity"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [],
+    "relation": "in",
+    "object": "tether",
+    "object_links": []
+  },
+  {
+    "subject": "lateral bsr excursion orbit",
+    "subject_links": [
+      "bsr excursion orbit"
+    ],
+    "relation": "avoid",
+    "object": "clash of riser",
+    "object_links": [
+      "clash"
+    ]
+  },
+  {
+    "subject": "lateral bsr excursion orbit",
+    "subject_links": [
+      "bsr excursion orbit",
+      "clash of riser"
+    ],
+    "relation": "avoid",
+    "object": "clash",
+    "object_links": [
+      "clash of riser"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [],
+    "relation": "optimise system stiffness while",
+    "object": "anchor capacity",
+    "object_links": [
+      "require anchor capacity",
+      "minimum anchor capacity",
+      "require minimum anchor capacity"
+    ]
+  },
+  {
+    "subject": "bsr excursion orbit",
+    "subject_links": [
+      "lateral bsr excursion orbit"
+    ],
+    "relation": "avoid",
+    "object": "clash of riser",
+    "object_links": [
+      "lateral bsr excursion orbit",
+      "clash"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [
+      "anchor capacity"
+    ],
+    "relation": "optimise system stiffness while",
+    "object": "require anchor capacity",
+    "object_links": [
+      "anchor capacity",
+      "minimum anchor capacity",
+      "require minimum anchor capacity"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [],
+    "relation": "optimise system stiffness while",
+    "object": "require minimum anchor capacity",
+    "object_links": [
+      "require uplift resistance",
+      "require anchor capacity",
+      "anchor capacity",
+      "minimum anchor capacity"
+    ]
+  },
+  {
+    "subject": "tension",
+    "subject_links": [],
+    "relation": "be",
+    "object": "tune",
+    "object_links": []
+  },
+  {
+    "subject": "sit",
+    "subject_links": [],
+    "relation": "remainder of",
+    "object": "uplift resistance",
+    "object_links": [
+      "require uplift resistance"
+    ]
+  },
+  {
+    "subject": "sit",
+    "subject_links": [],
+    "relation": "remainder of",
+    "object": "require uplift resistance",
+    "object_links": [
+      "uplift resistance",
+      "require minimum anchor capacity"
+    ]
+  },
+  {
+    "subject": "FE model",
+    "subject_links": [
+      "geotechnical FE model",
+      "interaction of structure"
+    ],
+    "relation": "evaluate",
+    "object": "interaction",
+    "object_links": [
+      "geotechnical FE model",
+      "interaction of structure"
+    ]
+  },
+  {
+    "subject": "FE model",
+    "subject_links": [
+      "geotechnical FE model",
+      "interaction"
+    ],
+    "relation": "evaluate",
+    "object": "interaction of structure",
+    "object_links": [
+      "geotechnical FE model",
+      "interaction"
+    ]
+  },
+  {
+    "subject": "suction anchor",
+    "subject_links": [],
+    "relation": "in",
+    "object": "Abaqus",
+    "object_links": []
+  },
+  {
+    "subject": "FE model",
+    "subject_links": [
+      "model"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": []
+  },
+  {
+    "subject": "geotechnical FE model",
+    "subject_links": [
+      "FE model",
+      "interaction of structure"
+    ],
+    "relation": "evaluate",
+    "object": "interaction",
+    "object_links": [
+      "FE model",
+      "interaction of structure"
+    ]
+  },
+  {
+    "subject": "geotechnical FE model",
+    "subject_links": [
+      "model"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "FE model"
+    ]
+  },
+  {
+    "subject": "geotechnical FE model",
+    "subject_links": [
+      "FE model",
+      "interaction"
+    ],
+    "relation": "evaluate",
+    "object": "interaction of structure",
+    "object_links": [
+      "FE model",
+      "interaction"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "undrained design current event",
+      "design event",
+      "complete load displacement curve of system",
+      "design current event"
+    ],
+    "relation": "develop load displacement curve during",
+    "object": "undrained design event",
+    "object_links": [
+      "undrained design current event",
+      "design event",
+      "load displacement curve",
+      "design current event"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "design event",
+      "undrained design current event",
+      "load displacement curve",
+      "design current event",
+      "undrained design event",
+      "complete load displacement curve of system"
+    ],
+    "relation": "develop",
+    "object": "complete load displacement curve",
+    "object_links": [
+      "design event",
+      "load displacement curve",
+      "hybrid anchor ballast system",
+      "complete load displacement curve of system"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "design event",
+      "FE model",
+      "undrained design current event",
+      "load displacement curve",
+      "design current event",
+      "undrained design event",
+      "geotechnical FE model",
+      "complete load displacement curve of system"
+    ],
+    "relation": "develop",
+    "object": "load displacement curve of system",
+    "object_links": [
+      "level of design load",
+      "complete load displacement curve of system",
+      "level of sustained design load"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "undrained design current event",
+      "complete load displacement curve of system",
+      "undrained design event",
+      "design current event"
+    ],
+    "relation": "develop load displacement curve during",
+    "object": "design event",
+    "object_links": [
+      "undrained design current event",
+      "complete load displacement curve",
+      "load displacement curve",
+      "design current event",
+      "undrained design event",
+      "complete load displacement curve of system"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "design event",
+      "FE model",
+      "undrained design current event",
+      "design current event",
+      "undrained design event",
+      "load displacement curve of system"
+    ],
+    "relation": "develop",
+    "object": "complete load displacement curve of system",
+    "object_links": [
+      "design event",
+      "complete load displacement curve",
+      "load displacement curve",
+      "design current event",
+      "load displacement curve of system",
+      "stable throughout design life for level of design load"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "design event",
+      "undrained design current event",
+      "complete load displacement curve",
+      "design current event",
+      "undrained design event",
+      "complete load displacement curve of system"
+    ],
+    "relation": "develop",
+    "object": "load displacement curve",
+    "object_links": [
+      "undrained design event",
+      "design event",
+      "complete load displacement curve",
+      "complete load displacement curve of system"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "FE model"
+    ],
+    "relation": "be",
+    "object": "use",
+    "object_links": [
+      "FE model"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "undrained design event",
+      "design event",
+      "design current event"
+    ],
+    "relation": "develop load displacement curve during",
+    "object": "undrained design current event",
+    "object_links": [
+      "undrained design event",
+      "design event",
+      "design current event"
+    ]
+  },
+  {
+    "subject": "model",
+    "subject_links": [
+      "undrained design current event",
+      "design event",
+      "undrained design event",
+      "complete load displacement curve of system"
+    ],
+    "relation": "develop load displacement curve during",
+    "object": "design current event",
+    "object_links": [
+      "undrained design current event",
+      "design event",
+      "undrained design event",
+      "complete load displacement curve of system"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [],
+    "relation": "be",
+    "object": "stable",
+    "object_links": [
+      "design life",
+      "level of design load",
+      "level",
+      "stable throughout design life for level",
+      "level of sustained design load"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [],
+    "relation": "be stable for",
+    "object": "level",
+    "object_links": [
+      "design life",
+      "level of design load",
+      "stable",
+      "stable throughout design life for level",
+      "level of sustained design load"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [
+      "complete load displacement curve"
+    ],
+    "relation": "be stable throughout",
+    "object": "design life",
+    "object_links": [
+      "level of design load",
+      "stable",
+      "stable throughout design life for level of sustained design load",
+      "level of sustained design load",
+      "level",
+      "stable throughout design life for level of design load",
+      "stable throughout design life for level"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [
+      "complete load displacement curve"
+    ],
+    "relation": "be",
+    "object": "stable throughout design life for level of sustained design load",
+    "object_links": [
+      "design life",
+      "level of design load",
+      "stable throughout design life for level",
+      "stable throughout design life for level of design load",
+      "level of sustained design load"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [
+      "complete load displacement curve"
+    ],
+    "relation": "be",
+    "object": "stable throughout design life for level of design load",
+    "object_links": [
+      "design life",
+      "level of design load",
+      "complete load displacement curve of system",
+      "level of sustained design load",
+      "stable throughout design life for level of sustained design load",
+      "stable throughout design life for level"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [],
+    "relation": "be stable for",
+    "object": "level of sustained design load",
+    "object_links": [
+      "load displacement curve of system",
+      "design life",
+      "level of design load",
+      "stable",
+      "stable throughout design life for level of sustained design load",
+      "level",
+      "stable throughout design life for level of design load",
+      "stable throughout design life for level"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [
+      "complete load displacement curve"
+    ],
+    "relation": "be stable for",
+    "object": "level of design load",
+    "object_links": [
+      "load displacement curve of system",
+      "design life",
+      "stable",
+      "stable throughout design life for level of sustained design load",
+      "level of sustained design load",
+      "level",
+      "stable throughout design life for level of design load",
+      "stable throughout design life for level"
+    ]
+  },
+  {
+    "subject": "hybrid anchor ballast system",
+    "subject_links": [],
+    "relation": "be",
+    "object": "stable throughout design life for level",
+    "object_links": [
+      "design life",
+      "level of design load",
+      "stable",
+      "stable throughout design life for level of sustained design load",
+      "level",
+      "stable throughout design life for level of design load",
+      "level of sustained design load"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap in coverage of type of hybrid anchor",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "gap in coverage of type",
+      "to gap in coverage",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [
+      "although cover"
+    ],
+    "relation": "seem",
+    "object": "well cover",
+    "object_links": [
+      "although cover",
+      "although well cover",
+      "cover"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "gap in coverage of type of hybrid anchor",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage",
+      "gap in coverage of type",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be gap in",
+    "object": "coverage of particular type",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage of type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "although cover",
+    "object_links": [
+      "cover",
+      "well cover",
+      "although well cover"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [
+      "although cover",
+      "well cover"
+    ],
+    "relation": "seem",
+    "object": "although well cover",
+    "object_links": [
+      "although cover",
+      "well cover",
+      "gap"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap",
+    "object_links": [
+      "to gap in coverage",
+      "gap"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code"
+    ],
+    "relation": "be well cover in",
+    "object": "design code",
+    "object_links": [
+      "although well cover",
+      "although well cover in design code",
+      "although cover",
+      "well cover",
+      "although cover in design code"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "although cover",
+    "object_links": [
+      "although well cover",
+      "design code",
+      "cover",
+      "well cover",
+      "although cover in design code"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "cover",
+    "object_links": [
+      "although cover",
+      "well cover",
+      "although well cover"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be",
+    "object": "gap",
+    "object_links": []
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code"
+    ],
+    "relation": "be cover in",
+    "object": "design code",
+    "object_links": [
+      "although cover",
+      "although well cover",
+      "although well cover in design code",
+      "although cover in design code"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "although cover in design code",
+    "object_links": [
+      "although cover",
+      "although well cover",
+      "although well cover in design code",
+      "design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be gap in",
+    "object": "coverage",
+    "object_links": [
+      "coverage of type of hybrid anchor"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be gap in",
+    "object": "coverage of type",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage of type",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap in coverage",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "to gap",
+      "gap in coverage"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "although well cover",
+    "object_links": [
+      "although well cover in design code",
+      "design code",
+      "although cover",
+      "cover",
+      "well cover",
+      "although cover in design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap in coverage of particular type of hybrid anchor",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage of type",
+      "to gap in coverage",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "although well cover in design code",
+    "object_links": [
+      "although well cover",
+      "although cover in design code",
+      "design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [
+      "although cover"
+    ],
+    "relation": "seem",
+    "object": "cover",
+    "object_links": [
+      "although cover",
+      "well cover"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "gap in coverage of type",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be gap in",
+    "object": "coverage of type of hybrid anchor",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "coverage of particular type",
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of type of hybrid anchor",
+      "coverage"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "although cover in design code",
+    "object_links": [
+      "although well cover in design code",
+      "LRFD verification format",
+      "cover in design code"
+    ]
+  },
+  {
+    "subject": "LRFD verification format",
+    "subject_links": [
+      "although well cover in design code",
+      "although cover in design code",
+      "design code"
+    ],
+    "relation": "be",
+    "object": "well cover",
+    "object_links": [
+      "although cover",
+      "cover",
+      "although well cover",
+      "design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "cover in design code",
+    "object_links": [
+      "well cover in design code",
+      "although well cover in design code",
+      "although cover in design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "gap in coverage of particular type of hybrid anchor",
+    "object_links": [
+      "coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "gap in coverage of type",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [
+      "to gap in coverage"
+    ],
+    "relation": "seem",
+    "object": "gap in coverage",
+    "object_links": [
+      "to gap in coverage of particular type",
+      "to gap in coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "gap in coverage of type",
+      "to gap in coverage"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "gap",
+    "object_links": [
+      "to gap",
+      "although well cover"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "be gap in",
+    "object": "coverage of particular type of hybrid anchor",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "coverage of type of hybrid anchor",
+      "to gap",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap in coverage of particular type",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of type",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "gap in coverage of type",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "to gap",
+    "subject_links": [],
+    "relation": "in",
+    "object": "coverage of particular type of hybrid anchor",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "coverage of type of hybrid anchor",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "gap in coverage of particular type",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of type of hybrid anchor",
+      "to gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "gap in coverage of type",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "although well cover in design code",
+    "object_links": [
+      "well cover in design code",
+      "although cover in design code",
+      "cover in design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "well cover in design code",
+    "object_links": [
+      "although well cover in design code",
+      "cover in design code"
+    ]
+  },
+  {
+    "subject": "there",
+    "subject_links": [],
+    "relation": "seem",
+    "object": "to gap in coverage of type",
+    "object_links": [
+      "to gap in coverage of particular type of hybrid anchor",
+      "to gap in coverage of particular type",
+      "to gap in coverage of type of hybrid anchor",
+      "coverage of type",
+      "gap in coverage of particular type of hybrid anchor",
+      "gap in coverage of particular type",
+      "gap in coverage of type of hybrid anchor",
+      "gap in coverage",
+      "gap in coverage of type",
+      "to gap in coverage",
+      "coverage of particular type"
+    ]
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be",
+    "object": "term",
+    "object_links": [
+      "to term",
+      "long term"
+    ]
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be find",
+    "object": "term",
+    "object_links": [
+      "to term",
+      "long term",
+      "find"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be",
+    "object": "term",
+    "object_links": [
+      "to term",
+      "long term",
+      "find"
+    ]
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be",
+    "object": "find",
+    "object_links": [
+      "long term"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be",
+    "object": "long term",
+    "object_links": [
+      "term",
+      "to term",
+      "find"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be find",
+    "object": "long term",
+    "object_links": [
+      "term",
+      "to term",
+      "find"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be",
+    "object": "find",
+    "object_links": [
+      "term",
+      "long term"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be find",
+    "object": "to term",
+    "object_links": [
+      "term",
+      "long term"
+    ]
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be find",
+    "object": "to term",
+    "object_links": [
+      "term",
+      "long term"
+    ]
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be",
+    "object": "long term",
+    "object_links": [
+      "term",
+      "to term",
+      "find"
+    ]
+  },
+  {
+    "subject": "sustained loading",
+    "subject_links": [],
+    "relation": "with",
+    "object": "assumption of slowly leak suction port",
+    "object_links": []
+  },
+  {
+    "subject": "condition",
+    "subject_links": [
+      "govern condition"
+    ],
+    "relation": "be find",
+    "object": "long term",
+    "object_links": [
+      "term",
+      "to term",
+      "find"
+    ]
+  },
+  {
+    "subject": "govern condition",
+    "subject_links": [
+      "condition"
+    ],
+    "relation": "be find",
+    "object": "term",
+    "object_links": [
+      "to term",
+      "long term",
+      "find"
+    ]
+  }
+]
