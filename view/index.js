@@ -1,23 +1,12 @@
 
-let overallStrength = -1000
-let synonymStrength = 2
-let relationshipStrength = 0.2 
+let overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
+let synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
+let relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
 
-const handleOverallStrenght = () => {
-  let textValue = document.querySelector("#overall-strength").value
-  overallStrength = -parseFloat(textValue)
-  loadJSON()
-}
-
-const handleSynonymStrenght = () => {
-  let textValue = document.querySelector("#synonym-strength").value
-  synonymStrength = parseFloat(textValue)
-  loadJSON()
-}
-
-const handleRelationshipStrenght = () => {
-  let textValue = document.querySelector("#relationship-strength").value
-  relationshipStrength = parseFloat(textValue)
+const handleStrength = () => {
+  overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
+  synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
+  relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
   loadJSON()
 }
 
@@ -101,6 +90,7 @@ const buildGraph = (fileData) => {
     
   const height = parseFloat(svg.style("height"))
   const width = parseFloat(svg.style("width"))
+  const radius = 10
 
   const synonymLinks = svg
     .selectAll("line.synonym")
@@ -126,7 +116,7 @@ const buildGraph = (fileData) => {
 
   const nodeCircles = nodes
     .append("circle")
-      .attr("r", 10)
+      .attr("r", radius)
       .attr("stroke", "black")
       .attr("stroke-width", "2")
       .style("fill", d => data.colors[d.id])
@@ -142,30 +132,40 @@ const buildGraph = (fileData) => {
     .force("relationshipLinks", d3.forceLink(data.relationshipLinks).id(node => node.id).strength(relationshipStrength))
     .force("center", d3.forceCenter(width/2, height/2))
     .on("tick", () => {
-      synonymLinks
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y)
+      let nodeData = nodes.data()
+      let extremes = nodeData.reduce((acc, node) => ({
+        minX: node.x - radius < acc.minX ? node.x - radius : acc.minX,
+        minY: node.y - radius < acc.minY ? node.y - radius : acc.minY,
+        maxX: node.x + radius > acc.maxX ? node.x + radius : acc.maxX,
+        maxY: node.y + radius > acc.maxY ? node.y + radius : acc.maxY
+      }), {
+        minX: 0,
+        minY: 0,
+        maxX: width,
+        maxY: height
+      })
 
-      relationshipLinks
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y)
+      synonymLinks.attr("x1", d => d.source.x - extremes.minX).attr("y1", d => d.source.y - extremes.minY)
+                  .attr("x2", d => d.target.x - extremes.minX).attr("y2", d => d.target.y - extremes.minY)
 
-      nodes
-        .attr("transform", d => `translate(${d.x}, ${d.y})`)
-    });
+      relationshipLinks.attr("x1", d => d.source.x - extremes.minX).attr("y1", d => d.source.y - extremes.minY)
+                       .attr("x2", d => d.target.x - extremes.minX).attr("y2", d => d.target.y - extremes.minY)
+
+      nodes.attr("transform", d => `translate(${d.x - extremes.minX}, ${d.y - extremes.minY})`)
+
+      svg.style("width", extremes.maxX - extremes.minX).style("height", extremes.maxY - extremes.minY)
+    })
 }
 
 const loadJSON = function() {
   const file = document.getElementById('file-input').files[0]
-  const reader = new FileReader()
-  reader.onload = function(e) {
-    let jsonString = e.target.result
-    let fileData = JSON.parse(jsonString)
-    buildGraph(fileData)
+  if (file) {
+    const reader = new FileReader()
+    reader.onload = function(e) {
+      let jsonString = e.target.result
+      let fileData = JSON.parse(jsonString)
+      buildGraph(fileData)
+    }
+    reader.readAsText(file, "utf-8")
   }
-  reader.readAsText(file, "utf-8")
 }
