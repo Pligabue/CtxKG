@@ -14,6 +14,12 @@ const cleanPrevious = () => {
   d3.select("svg.display-svg").remove()
 }
 
+const showInfo = (e) => {
+  d3.selectAll(".red-stroke").classed("red-stroke", false)
+  e.target.classList.add("red-stroke")
+  d3.select("#info").text(e.target.dataset.info)
+}
+
 const buildNodes = (fileData) => {
   let subjects = fileData.map(node => node.subject)
   let objects = fileData.map(node => node.object)
@@ -21,16 +27,16 @@ const buildNodes = (fileData) => {
 }
 
 const buildRelationshipLinks = (fileData) => {
-  return fileData.map(node => ({source: node.subject, target: node.object}))
+  return fileData.map(node => ({source: node.subject, target: node.object, relation: node.relation}))
 }
 
 const buildSynonymLinks = (fileData) => {
   let subjectSynonymLinks = fileData.map(node => {
-    return node.subject_links.map(link => ({source: node.subject, target: link}))
+    return node.subject_links.map(link => ({source: node.subject, target: link, relation: ">"}))
   }).flat()
   
   let objectSynonymLinks = fileData.map(node => {
-    return node.object_links.map(link => ({source: node.object, target: link}))
+    return node.object_links.map(link => ({source: node.object, target: link, relation: ">"}))
   }).flat()
   
   let synonymLinks = [...subjectSynonymLinks, ...objectSynonymLinks].filter((link, i, arr) => {
@@ -99,6 +105,8 @@ const buildGraph = (fileData) => {
     .append("line")
       .attr("stroke-width", 2)
       .classed("synonym", true)
+      .attr("data-info", d => `${d.source} > ${d.relation} > ${d.target}`)
+      .on("mouseover", showInfo)
 
   const relationshipLinks = svg
     .selectAll("line.relationship")
@@ -107,6 +115,8 @@ const buildGraph = (fileData) => {
     .append("line")
       .attr("stroke-width", 1)
       .classed("relationship", true)
+      .attr("data-info", d => `${d.source} > ${d.relation} > ${d.target}`)
+      .on("mouseover", showInfo)
 
   const nodes = svg
     .selectAll("g")
@@ -119,7 +129,9 @@ const buildGraph = (fileData) => {
       .attr("r", radius)
       .attr("stroke", "black")
       .attr("stroke-width", "2")
+      .attr("data-info", d => d.id)
       .style("fill", d => data.colors[d.id])
+      .on("mouseover", showInfo)
 
   const nodeLabel = nodes
     .append("text")

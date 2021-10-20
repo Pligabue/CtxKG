@@ -10,18 +10,19 @@
   <div class="strength-inputs">
     <label>
       Força - Geral:
-      <input id="overall-strength" type="range" min="20" max="3000" step="20" value="100" onchange="handleStrength()" />
+      <input id="overall-strength" type="range" min="5" max="300" step="2.5" value="10" onchange="handleStrength()" />
     </label>
     <label>
       Força - Sinônimos:
-      <input id="synonym-strength" type="range" min="0" max="3" step="0.2" value="1" onchange="handleStrength()" />
+      <input id="synonym-strength" type="range" min="0" max="3" step="0.1" value="1" onchange="handleStrength()" />
     </label>
     <label>
       Força - Relações:
-      <input id="relationship-strength" type="range" min="0" max="2" step="0.2" value="0.2" onchange="handleStrength()" />
+      <input id="relationship-strength" type="range" min="0" max="2" step="0.1" value="0.2" onchange="handleStrength()" />
     </label>
   </div>
-
+  <div id="info"></div>
   <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script src="index.js"></script>
+  <script src="graph.js"></script>
+  <script src="navigation.js"></script>
 </body>

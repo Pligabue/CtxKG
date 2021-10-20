@@ -4,6 +4,16 @@
   width: 100%;
 }
 
+#info {
+  font-family: 'Courier New', Courier, monospace;
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+}
+
 .display-svg {
   height: 100%;
   width: 100%;
@@ -43,24 +53,24 @@
   fill: white;
   font-family: 'Courier New', Courier, monospace;
   text-shadow:
-      -1px -1px 0 #000,
-      0   -1px 0 #000,
-      1px -1px 0 #000,
-      1px  0   0 #000,
-      1px  1px 0 #000,
-      0    1px 0 #000,
-      -1px  1px 0 #000,
-      -1px  0   0 #000;
+      -0.6px -0.6px 0 #000,
+      0      -0.6px 0 #000,
+      0.6px  -0.6px 0 #000,
+      0.6px  0      0 #000,
+      0.6px  0.6px  0 #000,
+      0      0.6px  0 #000,
+      -0.6px 0.6px  0 #000,
+      -0.6px 0      0 #000;
 }
 
-line.synonym {
+.synonym {
   stroke: black;
 }
 
-line.relationship {
+.relationship {
   stroke: gray;
 }
 
-line:hover {
+.red-stroke {
   stroke: red;
 }
