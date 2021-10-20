@@ -140,6 +140,7 @@ const buildGraph = (fileData) => {
 
   const simulation = d3.forceSimulation(data.nodes)
     .force("charge", d3.forceManyBody().strength(overallStrength))
+    .force("collision", d3.forceCollide().radius(radius))
     .force("synonymLink", d3.forceLink(data.synonymLinks).id(node => node.id).strength(synonymStrength))
     .force("relationshipLinks", d3.forceLink(data.relationshipLinks).id(node => node.id).strength(relationshipStrength))
     .force("center", d3.forceCenter(width/2, height/2))
@@ -172,6 +173,7 @@ const buildGraph = (fileData) => {
 const loadJSON = function() {
   const file = document.getElementById('file-input').files[0]
   if (file) {
+    document.title = file.name
     const reader = new FileReader()
     reader.onload = function(e) {
       let jsonString = e.target.result
