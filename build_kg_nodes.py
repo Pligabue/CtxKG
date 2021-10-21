@@ -24,9 +24,9 @@ SIZE = args.size or "small"
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 
 if SIZE == "medium":
-    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2" # SMALL BERT
+    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2" # MEDIUM BERT
 else:
-    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2" # MEDIUM BERT
+    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2" # SMALL BERT
 
 text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
 preprocessor = hub.KerasLayer(tfhub_handle_preprocess)
