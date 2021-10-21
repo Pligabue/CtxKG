@@ -14,6 +14,15 @@ const cleanPrevious = () => {
   d3.select("svg.display-svg").remove()
 }
 
+const toggleText = () => {
+  let texts = d3.selectAll("text")
+  if (texts.classed("hidden")) {
+    texts.classed("hidden", false)
+  } else {
+    texts.classed("hidden", true)
+  }
+}
+
 const showInfo = (e) => {
   d3.selectAll(".red-stroke").classed("red-stroke", false)
   e.target.classList.add("red-stroke")

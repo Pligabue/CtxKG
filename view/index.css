@@ -35,7 +35,15 @@
   position: absolute;
   font-size: large;
   top: 1rem;
-  right: 1rem;
+  right: 2rem;
+  cursor: pointer;
+}
+
+.toggle-text-button {
+  position: absolute;
+  font-size: large;
+  top: 2.5rem;
+  right: 2rem;
   cursor: pointer;
 }
 
@@ -73,4 +81,8 @@
 
 .red-stroke {
   stroke: red;
+}
+
+.hidden {
+  display: none;
 }
