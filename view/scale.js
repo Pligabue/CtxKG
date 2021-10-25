@@ -7,7 +7,7 @@ const handleWheel = (e) => {
 
     let displayElement = document.querySelector("#display")
     let {scrollTop, scrollLeft} = displayElement
-    let {width, height} = displaySVG.viewBox.baseVal
+    let {clientWidth, clientHeight} = displayElement
     let {clientX, clientY} = e
     let previousScale = scale
 
@@ -16,8 +16,8 @@ const handleWheel = (e) => {
     let ratio = scale/previousScale
   
     // Apply scale transform
-    displaySVG.style.width = width * scale
-    displaySVG.style.height = height * scale
+    displaySVG.style.width = clientWidth * scale
+    displaySVG.style.height = clientHeight * scale
 
     let nextMouseX = (scrollLeft + clientX) * ratio
     let nextMouseY = (scrollTop + clientY) * ratio
