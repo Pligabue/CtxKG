@@ -167,15 +167,15 @@ const buildGraph = (fileData) => {
         maxY: height
       })
 
-      synonymLinks.attr("x1", d => d.source.x - extremes.minX).attr("y1", d => d.source.y - extremes.minY)
-                  .attr("x2", d => d.target.x - extremes.minX).attr("y2", d => d.target.y - extremes.minY)
+      synonymLinks.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+                  .attr("x2", d => d.target.x).attr("y2", d => d.target.y)
 
-      relationshipLinks.attr("x1", d => d.source.x - extremes.minX).attr("y1", d => d.source.y - extremes.minY)
-                       .attr("x2", d => d.target.x - extremes.minX).attr("y2", d => d.target.y - extremes.minY)
+      relationshipLinks.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+                       .attr("x2", d => d.target.x).attr("y2", d => d.target.y)
 
-      nodes.attr("transform", d => `translate(${d.x - extremes.minX}, ${d.y - extremes.minY})`)
+      nodes.attr("transform", d => `translate(${d.x}, ${d.y})`)
 
-      svg.style("width", extremes.maxX - extremes.minX).style("height", extremes.maxY - extremes.minY)
+      svg.attr("viewBox", `${extremes.minX} ${extremes.minY} ${extremes.maxX - extremes.minX} ${extremes.maxY - extremes.minY}`)
     })
 }
 
