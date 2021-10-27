@@ -105,7 +105,7 @@ const buildGraph = (fileData) => {
     
   const height = parseFloat(svg.style("height"))
   const width = parseFloat(svg.style("width"))
-  const radius = 10
+  const radius = 8
 
   const synonymLinks = svg
     .selectAll("line.synonym")
