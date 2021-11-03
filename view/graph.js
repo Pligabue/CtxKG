@@ -11,6 +11,7 @@ const handleStrength = () => {
 }
 
 const cleanPrevious = () => {
+  scale = 1.0
   d3.select("svg.display-svg").remove()
 }
 
@@ -56,36 +57,15 @@ const buildSynonymLinks = (fileData) => {
   return synonymLinks
 }
 
-const buildColors = (fileData) => {
-  let groups = []
-  let colors = {}
-  let colorScheme = null
-
-  fileData.forEach(node => {
-    let subjectGroupIndex = groups.reduce((acc, group, i) => group.indexOf(node.subject) !== -1 ? i : acc, -1)
-
-    if (subjectGroupIndex === -1) {
-      let newGroup = [node.subject, ...node.subject_links]
-      groups.push(newGroup)
-    }
-
-    let objectGroupIndex = groups.reduce((acc, group, i) => group.indexOf(node.object) !== -1 ? i : acc, -1)
-
-    if (objectGroupIndex === -1) {
-      let newGroup = [node.object, ...node.object_links]
-      groups.push(newGroup)
-    }
-  })
-
-  colorScheme = d3.scaleSequential([0, groups.length + 2], d3.interpolateTurbo)
-
-  groups.forEach((group, i) => {
-    group.forEach(node => {
-      colors[node] = colorScheme(i + 1)
+const removeDuplicates = (data) => {
+  let {synonymLinks, relationshipLinks} = data
+  data.synonymLinks = synonymLinks.filter(synonymLink => {
+    const index = relationshipLinks.findIndex(relationshipLink => {
+      return (relationshipLink.source === synonymLink.source && relationshipLink.target === synonymLink.target) ||
+             (relationshipLink.target === synonymLink.source && relationshipLink.source === synonymLink.target)
     })
+    return index === -1
   })
-
-  return colors
 }
 
 const buildGraph = (fileData) => {
@@ -94,9 +74,11 @@ const buildGraph = (fileData) => {
   const data = {
     nodes: buildNodes(fileData),
     relationshipLinks: buildRelationshipLinks(fileData),
-    synonymLinks: buildSynonymLinks(fileData),
-    colors: buildColors(fileData)
+    synonymLinks: buildSynonymLinks(fileData)
   }
+  removeDuplicates(data)
+  buildColors(data)
+  
   console.log(data)
 
   const svg = d3.select("#display")
