@@ -1,4 +1,5 @@
-let scale = 1;
+let scale = 1.0
+
 const handleWheel = (e) => {
   let displaySVG = document.querySelector(".display-svg")
 

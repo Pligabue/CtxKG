@@ -105,7 +105,8 @@ const buildGraph = (fileData) => {
     
   const height = parseFloat(svg.style("height"))
   const width = parseFloat(svg.style("width"))
-  const radius = 8
+  svg.style("height", height)
+  svg.style("width", width)
 
   const synonymLinks = svg
     .selectAll("line.synonym")
@@ -133,6 +134,7 @@ const buildGraph = (fileData) => {
     .enter()
     .append("g")
 
+  const radius = 8
   const nodeCircles = nodes
     .append("circle")
       .attr("r", radius)
