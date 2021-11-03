@@ -16,6 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--threshold", type=float, default=0.9)
 parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
+parser.add_argument("--big", dest="size", action="store_const", const="big")
 args = parser.parse_args()
 
 THRESHOLD = args.threshold
@@ -23,7 +24,9 @@ SIZE = args.size or "small"
 
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 
-if SIZE == "medium":
+if SIZE == "big":
+    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4" # BIGGER BERT
+elif SIZE == "medium":
     tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2" # MEDIUM BERT
 else:
     tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2" # SMALL BERT
@@ -51,7 +54,8 @@ def main():
     failed_files = []
     empty_files = []
     files = [file for file in TRIPLE_DIR.glob("*.txt") if not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
-    for file in tqdm(files):
+    sorted_files = sorted(files, key=lambda file: file.stat().st_size)
+    for file in tqdm(sorted_files):
         try:
             base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
             df = base_df[base_df["confidence"] > 0.70]
