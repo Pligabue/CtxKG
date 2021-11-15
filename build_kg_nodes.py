@@ -17,10 +17,13 @@ parser.add_argument("-t", "--threshold", type=float, default=0.9)
 parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 parser.add_argument("--big", dest="size", action="store_const", const="big")
+parser.add_argument("-o", "--overwrite", dest="overwrite", action="store_true")
+parser.set_defaults(size="small", overwrite=False)
 args = parser.parse_args()
 
 THRESHOLD = args.threshold
-SIZE = args.size or "small"
+SIZE = args.size
+OVERWRITE = args.overwrite
 COLON_ID = 1025
 SEP_ID = 102
 
@@ -53,10 +56,10 @@ def main():
 
     failed_files = []
     empty_files = []
-    files = [file for file in TRIPLE_DIR.glob("abstract_82.txt") if not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
+    files = [file for file in TRIPLE_DIR.glob("*.txt") if OVERWRITE or not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
     sorted_files = sorted(files, key=lambda file: file.stat().st_size)
     for file in tqdm(sorted_files):
-        # try:
+        try:
             base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
             df = base_df[base_df["confidence"] > 0.70]
             if df.empty:
@@ -64,23 +67,24 @@ def main():
                 continue
 
             triples = df.apply(lambda row: "; ".join(row[["subject", "relation", "object"]]), axis=1)
+            n_triples = len(triples)
+
             subjects = df["subject"]
             objects = df["object"]
             entities = subjects.append(objects, ignore_index=True)
-            size = len(subjects)
 
             triples_input = tf.constant(triples)
 
             input_word_ids = preprocessor(triples_input)["input_word_ids"]
 
-            colon_indexes = np.where(input_word_ids == COLON_ID)
-            colon_positions = [[] for _ in range(size)]
-            for i, j in zip(colon_indexes[0], colon_indexes[1]):
+            colon_indexes = np.argwhere(input_word_ids == COLON_ID)
+            colon_positions = [[] for _ in range(n_triples)]
+            for i, j in colon_indexes:
                 colon_positions[i].append(j)
 
-            end_indexes = np.where(input_word_ids == SEP_ID)
-            end_positions = [None for _ in range(size)]
-            for i, j in zip(end_indexes[0], end_indexes[1]):
+            end_indexes = np.argwhere(input_word_ids == SEP_ID)
+            end_positions = [None for _ in range(n_triples)]
+            for i, j in end_indexes:
                 end_positions[i] = j
 
             triple_outputs = sequence_model(triples_input)
@@ -94,38 +98,27 @@ def main():
                 subject_encodings.append(tf.add(subject_avg * 0.8, cls_output * 0.2))
                 object_encodings.append(tf.add(object_avg * 0.8, cls_output  * 0.2))
 
-            entities_matrix = get_similarity_matrix(tf.concat([subject_encodings, object_encodings], 0))
-            print(entities_matrix)
+            entity_similarity_matrix = get_similarity_matrix(tf.concat([subject_encodings, object_encodings], 0))
+            above_treshold_indices = np.argwhere(entity_similarity_matrix > THRESHOLD)
 
-            # nodes = []
-            # for i in range(size):
-            #     subject_index = i
-            #     object_index = i + size
-                
-            #     subject = entities.iloc[subject_index]
-            #     _object = entities.iloc[object_index]
+            nodes = [None for _ in range(n_triples)]
+            for i in range(n_triples):
+                subject_link_indeces = above_treshold_indices[above_treshold_indices[:, 0] == i][:, 1]
+                object_link_indeces = above_treshold_indices[above_treshold_indices[:, 0] == i + n_triples][:, 1]
 
-            #     subject_results = entities_matrix[subject_index]
-            #     subject_link_indexes = [j for j, v in enumerate(subject_results) if v > THRESHOLD]
-            #     subject_links = list(set(entities.iloc[subject_link_indexes]) - {subject, _object})
+                nodes[i] = {
+                    "subject": subjects.iloc[i],
+                    "subject_links": list(set(entities.iloc[subject_link_indeces]) - {subjects.iloc[i]}),
+                    "relation": df.iloc[i]["relation"],
+                    "object": objects.iloc[i],
+                    "object_links": list(set(entities.iloc[object_link_indeces]) - {objects.iloc[i]})
+                }
 
-            #     object_results = entities_matrix[object_index]
-            #     object_link_indexes = [j for j, v in enumerate(object_results) if v > THRESHOLD]
-            #     object_links = list(set(entities.iloc[object_link_indexes]) - {subject, _object})
+            with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
+                json.dump(nodes, f, indent=2)
 
-            #     nodes.append({
-            #         "subject": subject,
-            #         "subject_links": subject_links,
-            #         "relation": df.iloc[i]["relation"],
-            #         "object": _object,
-            #         "object_links": object_links
-            #     })
-
-            # with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
-            #     json.dump(nodes, f, indent=2)
-
-        # except Exception as e:
-        #     failed_files.append(f"{datetime.now()}: {file.name} - {e}")
+        except Exception as e:
+            failed_files.append(f"{datetime.now()}: {file.name} - {e}")
 
     with open("results/failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
