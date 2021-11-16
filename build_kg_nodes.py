@@ -1,4 +1,4 @@
-from re import sub
+from re import sub, match
 import numpy as np
 import pandas as pd
 from pathlib import Path
@@ -18,12 +18,17 @@ parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 parser.add_argument("--big", dest="size", action="store_const", const="big")
 parser.add_argument("-o", "--overwrite", dest="overwrite", action="store_true")
+parser.add_argument("-r", "--ratio", type=str, default="4:1")
 parser.set_defaults(size="small", overwrite=False)
 args = parser.parse_args()
 
 THRESHOLD = args.threshold
 SIZE = args.size
-OVERWRITE = args.overwrite
+OVERWRITE = args.overwrite,
+
+ratio_match = match(r"(\d+):(\d+)", args.ratio)
+RATIO = int(ratio_match[1])/ (int(ratio_match[1]) + int(ratio_match[2]))
+
 COLON_ID = 1025
 SEP_ID = 102
 
@@ -78,14 +83,10 @@ def main():
             input_word_ids = preprocessor(triples_input)["input_word_ids"]
 
             colon_indexes = np.argwhere(input_word_ids == COLON_ID)
-            colon_positions = [[] for _ in range(n_triples)]
-            for i, j in colon_indexes:
-                colon_positions[i].append(j)
+            colon_positions = [colon_indexes[colon_indexes[:, 0] == i][:, 1] for i in range(n_triples)]
 
             end_indexes = np.argwhere(input_word_ids == SEP_ID)
-            end_positions = [None for _ in range(n_triples)]
-            for i, j in end_indexes:
-                end_positions[i] = j
+            end_positions = [end_indexes[end_indexes[:, 0] == i][-1, 1] for i in range(n_triples)]
 
             triple_outputs = sequence_model(triples_input)
 
@@ -95,8 +96,8 @@ def main():
                 cls_output = triple_output[0]
                 subject_avg = tf.reduce_mean(triple_output[1:colon_positions[i][0]], 0)
                 object_avg = tf.reduce_mean(triple_output[colon_positions[i][-1]:end_positions[i]], 0)
-                subject_encodings.append(tf.add(subject_avg * 0.8, cls_output * 0.2))
-                object_encodings.append(tf.add(object_avg * 0.8, cls_output  * 0.2))
+                subject_encodings.append(tf.add(subject_avg * RATIO, cls_output * (1 - RATIO)))
+                object_encodings.append(tf.add(object_avg * RATIO, cls_output  * (1 - RATIO)))
 
             entity_similarity_matrix = get_similarity_matrix(tf.concat([subject_encodings, object_encodings], 0))
             above_treshold_indices = np.argwhere(entity_similarity_matrix > THRESHOLD)
