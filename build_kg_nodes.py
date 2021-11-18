@@ -31,13 +31,11 @@ COLON_ID = 1025
 SEP_ID = 102
 
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
-
-if SIZE == "big":
-    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4" # BIGGER BERT
-elif SIZE == "medium":
-    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2" # MEDIUM BERT
-else:
-    tfhub_handle_encoder = "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2" # SMALL BERT
+tfhub_handle_encoder = {
+    "big": "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4",
+    "medium": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2",
+    "small": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2"
+}[SIZE]
 
 text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
 preprocessor = hub.KerasLayer(tfhub_handle_preprocess)
@@ -46,6 +44,22 @@ encoder = hub.KerasLayer(tfhub_handle_encoder)
 outputs = encoder(encoder_inputs)
 sequence_model = tf.keras.Model(text_input, outputs["sequence_output"])
 cls_model = tf.keras.Model(text_input, outputs["pooled_output"])
+
+def get_entity_encodings(triple_outputs, colon_positions, end_positions):
+    subject_encodings = []
+    object_encodings = []
+    for i, triple_output in enumerate(triple_outputs):
+        first_colon_position = colon_positions[i][0]
+        last_colon_position = colon_positions[i][-1]
+        end_position = end_positions[i]
+
+        cls_output = triple_output[0]
+        subject_avg = tf.reduce_mean(triple_output[1:first_colon_position], 0)
+        object_avg = tf.reduce_mean(triple_output[last_colon_position:end_position], 0)
+        subject_encodings.append(tf.add(subject_avg * RATIO, cls_output * (1 - RATIO)))
+        object_encodings.append(tf.add(object_avg * RATIO, cls_output  * (1 - RATIO)))
+
+    return [subject_encodings, object_encodings]
 
 def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
@@ -87,19 +101,7 @@ def main():
             end_positions = [end_indexes[end_indexes[:, 0] == i][-1, 1] for i in range(n_triples)]
 
             triple_outputs = sequence_model(triples_input)
-
-            subject_encodings = []
-            object_encodings = []
-            for i, triple_output in enumerate(triple_outputs):
-                first_colon_position = colon_positions[i][0]
-                last_colon_position = colon_positions[i][-1]
-                end_position = end_positions[i]
-
-                cls_output = triple_output[0]
-                subject_avg = tf.reduce_mean(triple_output[1:first_colon_position], 0)
-                object_avg = tf.reduce_mean(triple_output[last_colon_position:end_position], 0)
-                subject_encodings.append(tf.add(subject_avg * RATIO, cls_output * (1 - RATIO)))
-                object_encodings.append(tf.add(object_avg * RATIO, cls_output  * (1 - RATIO)))
+            subject_encodings, object_encodings = get_entity_encodings(triple_outputs, colon_positions, end_positions)
 
             entity_similarity_matrix = get_similarity_matrix(tf.concat([subject_encodings, object_encodings], 0))
             above_threshold_indices = np.argwhere(entity_similarity_matrix > THRESHOLD)
@@ -123,10 +125,10 @@ def main():
         except Exception as e:
             failed_files.append(f"{datetime.now()}: {file.name} - {e}")
 
-    with open("results/failed_files.txt", "w", encoding="utf-8") as f:
+    with open(f"results/kg_nodes_{int(100 * THRESHOLD)}_{SIZE}_failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
 
-    with open("results/empty_files.txt", "w", encoding="utf-8") as f:
+    with open(f"results/kg_nodes_{int(100 * THRESHOLD)}_{SIZE}_empty_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(empty_files))
 
 if __name__ == "__main__":
