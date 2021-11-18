@@ -102,12 +102,12 @@ def main():
                 object_encodings.append(tf.add(object_avg * RATIO, cls_output  * (1 - RATIO)))
 
             entity_similarity_matrix = get_similarity_matrix(tf.concat([subject_encodings, object_encodings], 0))
-            above_treshold_indices = np.argwhere(entity_similarity_matrix > THRESHOLD)
+            above_threshold_indices = np.argwhere(entity_similarity_matrix > THRESHOLD)
 
             nodes = [None for _ in range(n_triples)]
             for i in range(n_triples):
-                subject_link_indeces = above_treshold_indices[above_treshold_indices[:, 0] == i][:, 1]
-                object_link_indeces = above_treshold_indices[above_treshold_indices[:, 0] == i + n_triples][:, 1]
+                subject_link_indeces = above_threshold_indices[above_threshold_indices[:, 0] == i][:, 1]
+                object_link_indeces = above_threshold_indices[above_threshold_indices[:, 0] == i + n_triples][:, 1]
 
                 nodes[i] = {
                     "subject": subjects.iloc[i],
