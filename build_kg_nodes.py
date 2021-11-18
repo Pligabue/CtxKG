@@ -18,16 +18,14 @@ parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 parser.add_argument("--big", dest="size", action="store_const", const="big")
 parser.add_argument("-o", "--overwrite", dest="overwrite", action="store_true")
-parser.add_argument("-r", "--ratio", type=str, default="4:1")
+parser.add_argument("-r", "--ratio", type=float, default=0.75)
 parser.set_defaults(size="small", overwrite=False)
 args = parser.parse_args()
 
 THRESHOLD = args.threshold
 SIZE = args.size
 OVERWRITE = args.overwrite,
-
-ratio_match = match(r"(\d+):(\d+)", args.ratio)
-RATIO = int(ratio_match[1])/ (int(ratio_match[1]) + int(ratio_match[2]))
+RATIO = args.ratio
 
 COLON_ID = 1025
 SEP_ID = 102
@@ -93,9 +91,13 @@ def main():
             subject_encodings = []
             object_encodings = []
             for i, triple_output in enumerate(triple_outputs):
+                first_colon_position = colon_positions[i][0]
+                last_colon_position = colon_positions[i][-1]
+                end_position = end_positions[i]
+
                 cls_output = triple_output[0]
-                subject_avg = tf.reduce_mean(triple_output[1:colon_positions[i][0]], 0)
-                object_avg = tf.reduce_mean(triple_output[colon_positions[i][-1]:end_positions[i]], 0)
+                subject_avg = tf.reduce_mean(triple_output[1:first_colon_position], 0)
+                object_avg = tf.reduce_mean(triple_output[last_colon_position:end_position], 0)
                 subject_encodings.append(tf.add(subject_avg * RATIO, cls_output * (1 - RATIO)))
                 object_encodings.append(tf.add(object_avg * RATIO, cls_output  * (1 - RATIO)))
 
