@@ -121,7 +121,8 @@ def main():
 
             with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json.dump(nodes, f, indent=2)
-
+        except KeyboardInterrupt:
+            break
         except Exception as e:
             failed_files.append(f"{datetime.now()}: {file.name} - {e}")
 
