@@ -19,6 +19,7 @@ parser.add_argument("--medium", dest="size", action="store_const", const="medium
 parser.add_argument("--big", dest="size", action="store_const", const="big")
 parser.add_argument("-o", "--overwrite", dest="overwrite", action="store_true")
 parser.add_argument("-r", "--ratio", type=float, default=0.75)
+parser.add_argument("-m", "--match", type=str, default="*.txt")
 parser.set_defaults(size="small", overwrite=False)
 args = parser.parse_args()
 
@@ -26,6 +27,7 @@ THRESHOLD = args.threshold
 SIZE = args.size
 OVERWRITE = args.overwrite,
 RATIO = args.ratio
+MATCH = args.match
 
 COLON_ID = 1025
 SEP_ID = 102
@@ -73,7 +75,7 @@ def main():
 
     failed_files = []
     empty_files = []
-    files = [file for file in TRIPLE_DIR.glob("*.txt") if OVERWRITE or not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
+    files = [file for file in TRIPLE_DIR.glob(MATCH) if OVERWRITE or not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
     sorted_files = sorted(files, key=lambda file: file.stat().st_size)
     for file in tqdm(sorted_files):
         try:
