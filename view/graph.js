@@ -42,11 +42,11 @@ const buildRelationshipLinks = (fileData) => {
 
 const buildSynonymLinks = (fileData) => {
   let subjectSynonymLinks = fileData.map(node => {
-    return node.subject_links.map(link => ({source: node.subject, target: link, relation: ">"}))
+    return node.subject_links.map(link => ({source: node.subject, target: link}))
   }).flat()
   
   let objectSynonymLinks = fileData.map(node => {
-    return node.object_links.map(link => ({source: node.object, target: link, relation: ">"}))
+    return node.object_links.map(link => ({source: node.object, target: link}))
   }).flat()
   
   let synonymLinks = [...subjectSynonymLinks, ...objectSynonymLinks].filter((link, i, arr) => {
@@ -97,7 +97,7 @@ const buildGraph = (fileData) => {
     .append("line")
       .attr("stroke-width", 2)
       .classed("synonym", true)
-      .attr("data-info", d => `${d.source} > ${d.relation} > ${d.target}`)
+      .attr("data-info", d => `${d.source} ⟷ ${d.target}`)
       .on("mouseover", showInfo)
 
   const relationshipLinks = svg
