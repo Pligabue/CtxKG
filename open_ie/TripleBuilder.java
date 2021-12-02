@@ -16,7 +16,10 @@ public class TripleBuilder {
         FilenameFilter filter = new FilenameFilter() {
             @Override
             public boolean accept(File f, String name) {
-                return name.endsWith(".txt");
+                boolean isTXT = name.endsWith(".txt");
+                boolean tripleExists = (new File("./triples/" + name)).exists();
+                
+                return isTXT && !tripleExists;
             }
         };
         File[] files = folder.listFiles(filter);
