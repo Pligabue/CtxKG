@@ -68,8 +68,10 @@ def get_similarity_matrix(embeddings):
 def main():
 
     TRIPLE_DIR = Path("./triples")
-    KG_NODE_DIR = Path(f"./kg_nodes_{int(100 * THRESHOLD)}_{SIZE}")
+    KG_NODE_DIR = Path(f"./results/kg_nodes_{int(100 * THRESHOLD)}_{int(100 * RATIO)}_{SIZE}")
     KG_NODE_DIR.mkdir(exist_ok=True)
+    ERRORS_DIR = KG_NODE_DIR / "errors"
+    ERRORS_DIR.mkdir(exist_ok=True)
 
     failed_files = []
     empty_files = []
@@ -123,10 +125,10 @@ def main():
         except Exception as e:
             failed_files.append(f"{datetime.now()}: {file.name} - {e}")
 
-    with open(f"results/kg_nodes_{int(100 * THRESHOLD)}_{SIZE}_failed_files.txt", "w", encoding="utf-8") as f:
+    with open(ERRORS_DIR / "failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
 
-    with open(f"results/kg_nodes_{int(100 * THRESHOLD)}_{SIZE}_empty_files.txt", "w", encoding="utf-8") as f:
+    with open(ERRORS_DIR / "empty_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(empty_files))
 
 if __name__ == "__main__":
