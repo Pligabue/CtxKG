@@ -1,2 +1,8 @@
-javac -cp ".\open_ie\stanford-corenlp-4.2.2\*" .\open_ie\TripleBuilder.java
-java -cp ".\open_ie\stanford-corenlp-4.2.2\*;.\open_ie\" TripleBuilder
+# Sequence
+
+```sh
+python build_sentences.py
+python build_triples.py
+python build_kg_nodes.py
+python clean_nodes.py
+```
