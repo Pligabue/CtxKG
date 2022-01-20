@@ -4,13 +4,14 @@ import json
 
 def main():
     RESULTS_PATH = Path("./results")
-    dirs = [dir for dir in RESULTS_PATH.glob("*") if dir.is_dir() and dir.name[-6:] != "_clean"]
+    dirs = [dir for dir in RESULTS_PATH.glob("*") if dir.is_dir()]
 
     for dir in dirs:
-        clean_dir = RESULTS_PATH / f"{dir.name}_clean"
-        clean_dir.mkdir(exist_ok=True)
+        BASE_DIR = dir / "base"
+        CLEAN_DIR = dir / "clean"
+        CLEAN_DIR.mkdir(exist_ok=True)
         
-        for file in dir.glob("*.json"):
+        for file in BASE_DIR.glob("*.json"):
             with open(file) as f:
                 nodes = json.load(f)
 
@@ -47,7 +48,7 @@ def main():
                     "object_links": []
                 })
 
-            with open(clean_dir / file.name, "w", encoding="utf-8") as f:
+            with open(CLEAN_DIR / file.name, "w", encoding="utf-8") as f:
                 json.dump(clean_nodes, f, indent=2)
 
 if __name__ == "__main__":

@@ -68,14 +68,16 @@ def get_similarity_matrix(embeddings):
 def main():
 
     TRIPLE_DIR = Path("./triples")
-    KG_NODE_DIR = Path(f"./results/kg_nodes_{int(100 * THRESHOLD)}_{int(100 * RATIO)}_{SIZE}")
+    KG_NODE_DIR = Path(f"./results/kg_nodes_ratio_{int(100 * RATIO)}_threshold_{int(100 * THRESHOLD)}_{SIZE}")
     KG_NODE_DIR.mkdir(exist_ok=True)
-    ERRORS_DIR = KG_NODE_DIR / "errors"
+    BASE_DIR = KG_NODE_DIR / "base"
+    BASE_DIR.mkdir(exist_ok=True)
+    ERRORS_DIR = BASE_DIR / "errors"
     ERRORS_DIR.mkdir(exist_ok=True)
 
     failed_files = []
     empty_files = []
-    files = [file for file in TRIPLE_DIR.glob(MATCH) if OVERWRITE or not Path(KG_NODE_DIR / f"{file.stem}.json").is_file()]
+    files = [file for file in TRIPLE_DIR.glob(MATCH) if OVERWRITE or not Path(BASE_DIR / f"{file.stem}.json").is_file()]
     sorted_files = sorted(files, key=lambda file: file.stat().st_size)
     for file in tqdm(sorted_files):
         try:
@@ -118,7 +120,7 @@ def main():
                     "object_links": list(set(entities.iloc[object_link_indeces]) - {objects.iloc[i]})
                 }
 
-            with open(KG_NODE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
+            with open(BASE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json.dump(nodes, f, indent=2)
         except KeyboardInterrupt:
             break
