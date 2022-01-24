@@ -1,30 +1,21 @@
-import numpy as np
-import pandas as pd
 from pathlib import Path
 import argparse
 import json
-from datetime import datetime
-
-from tqdm import tqdm
 
 import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-t", "--threshold", type=float, default=0.9)
 parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 parser.add_argument("--big", dest="size", action="store_const", const="big")
-parser.add_argument("-r", "--ratio", type=float, default=0.75)
+parser.add_argument("-m", "--match", type=str, default="*.txt")
 parser.set_defaults(size="small")
 args = parser.parse_args()
 
-THRESHOLD = args.threshold
 SIZE = args.size
-RATIO = args.ratio
-
-SEP_ID = 102
+MATCH = args.match
 
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 tfhub_handle_encoder = {
@@ -40,22 +31,31 @@ encoder = hub.KerasLayer(tfhub_handle_encoder)
 outputs = encoder(encoder_inputs)
 cls_model = tf.keras.Model(text_input, outputs["pooled_output"])
 
+def read_file(file):
+    with open(file, "r", encoding="utf-8") as f:
+        return f.read()
+
 def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
     return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True)
 
 def main():
-    pira_df = pd.read_excel("data/pira.xlsx")
-    grouped_by_abstract = pira_df.groupby("abstract")
-    abstracts = pd.Series([abstract for abstract, _ in grouped_by_abstract])
+    SENTENCE_DIR = Path('./sentences')
+    RESULTS_DIR = Path('./results')
 
-    abstract_encodings = cls_model(abstracts)
+    files = [file for file in SENTENCE_DIR.glob(MATCH)]
+    abstracts = [read_file(file) for file in files]
+
+    abstract_encodings = cls_model(tf.constant(abstracts))
     similarity_matrix = get_similarity_matrix(abstract_encodings)
-    above_threshold_indices = np.argwhere(similarity_matrix > THRESHOLD)
+    
+    data = {
+        "filenames": [file.stem for file in files],
+        "similarity_matrix": similarity_matrix.numpy().tolist()
+    }
 
-    nodes = [None for _ in range(abstracts)]
-    for i in range(abstracts):
-        indices = above_threshold_indices[above_threshold_indices[:, 0] == i][:, 1]
+    with open(RESULTS_DIR / "doc_similarity.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
 
 if __name__ == "__main__":
     main()
