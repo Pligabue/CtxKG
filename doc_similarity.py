@@ -10,7 +10,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--small", dest="size", action="store_const", const="small")
 parser.add_argument("--medium", dest="size", action="store_const", const="medium")
 parser.add_argument("--big", dest="size", action="store_const", const="big")
-parser.add_argument("-m", "--match", type=str, default="*.txt")
+parser.add_argument("-m", "--match", type=str, default="kg_nodes_ratio_*_threshold_*_*")
 parser.set_defaults(size="small")
 args = parser.parse_args()
 
@@ -43,19 +43,23 @@ def main():
     SENTENCE_DIR = Path('./sentences')
     RESULTS_DIR = Path('./results')
 
-    files = [file for file in SENTENCE_DIR.glob(MATCH)]
-    abstracts = [read_file(file) for file in files]
-
-    abstract_encodings = cls_model(tf.constant(abstracts))
-    similarity_matrix = get_similarity_matrix(abstract_encodings)
+    KG_NODE_DIRS = [dir for dir in RESULTS_DIR.glob(MATCH) if dir.is_dir()]
     
-    data = {
-        "filenames": [file.stem for file in files],
-        "similarity_matrix": similarity_matrix.numpy().tolist()
-    }
+    for dir in KG_NODE_DIRS:
+        base_dir = dir / "base"
+        filenames = [file.stem for file in base_dir.glob("*.json")]
+        abstracts = [read_file(file) for file in SENTENCE_DIR.glob("*.txt") if file.stem in filenames]
 
-    with open(RESULTS_DIR / "doc_similarity.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        abstract_encodings = cls_model(tf.constant(abstracts))
+        similarity_matrix = get_similarity_matrix(abstract_encodings)
+        
+        data = {
+            "filenames": filenames,
+            "similarity_matrix": similarity_matrix.numpy().tolist()
+        }
+
+        with open(dir / "doc_similarity.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
 
 if __name__ == "__main__":
     main()
