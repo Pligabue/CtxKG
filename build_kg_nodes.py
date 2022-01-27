@@ -1,3 +1,4 @@
+from inspect import getmodule
 import numpy as np
 import pandas as pd
 from pathlib import Path
@@ -10,6 +11,8 @@ from tqdm import tqdm
 import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
+
+SEP_ID = 102
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--threshold", type=float, default=0.9)
@@ -28,25 +31,26 @@ OVERWRITE = args.overwrite,
 RATIO = args.ratio
 MATCH = args.match
 
-SEP_ID = 102
+def get_models(size=SIZE):
+    tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
+    tfhub_handle_encoder = {
+        "big": "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4",
+        "medium": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2",
+        "small": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2"
+    }[size]
 
-tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
-tfhub_handle_encoder = {
-    "big": "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4",
-    "medium": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-8_H-512_A-8/2",
-    "small": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2"
-}[SIZE]
+    text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
+    preprocessor = hub.KerasLayer(tfhub_handle_preprocess)
+    encoder_inputs = preprocessor(text_input)
+    encoder = hub.KerasLayer(tfhub_handle_encoder)
+    outputs = encoder(encoder_inputs)
+    sequence_model = tf.keras.Model(text_input, outputs["sequence_output"])
+    cls_model = tf.keras.Model(text_input, outputs["pooled_output"])
 
-text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
-preprocessor = hub.KerasLayer(tfhub_handle_preprocess)
-encoder_inputs = preprocessor(text_input)
-encoder = hub.KerasLayer(tfhub_handle_encoder)
-outputs = encoder(encoder_inputs)
-sequence_model = tf.keras.Model(text_input, outputs["sequence_output"])
-cls_model = tf.keras.Model(text_input, outputs["pooled_output"])
+    return preprocessor, sequence_model, cls_model
 
-
-def get_entity_encodings(subjects, relations, objects, ratio=RATIO):
+def get_entity_encodings(models, subjects, relations, objects, ratio=RATIO):
+    preprocessor, sequence_model, cls_model = models
     triples = [f"{subject} {relation} {object}" for subject, relation, object in zip(subjects, relations, objects)]
 
     subject_inputs = tf.constant(subjects)
@@ -79,7 +83,6 @@ def get_similarity_matrix(embeddings):
     return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True)
 
 def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, threshold=THRESHOLD):
-
     entity_encodings = tf.concat([subject_encodings, object_encodings], 0)
     entity_similarity_matrix = get_similarity_matrix(entity_encodings)
     entity_link_mask_matrix = entity_similarity_matrix >= threshold
@@ -102,14 +105,13 @@ def build_nodes(subjects, relations, objects, subject_encodings, object_encoding
 
     return nodes
 
-def build_graph(subjects, relations, objects, ratio=RATIO, threshold=THRESHOLD):
-    subject_encodings, object_encodings = get_entity_encodings(subjects, relations, objects, ratio=ratio)
+def build_graph(models, subjects, relations, objects, ratio=RATIO, threshold=THRESHOLD):
+    subject_encodings, object_encodings = get_entity_encodings(models, subjects, relations, objects, ratio=ratio)
     graph = build_nodes(subjects, relations, objects, subject_encodings, object_encodings, threshold=threshold)
 
     return graph
 
 def main():
-
     TRIPLE_DIR = Path("./triples")
     KG_NODE_DIR = Path(f"./results/kg_nodes_ratio_{int(100 * RATIO)}_threshold_{int(100 * THRESHOLD)}_{SIZE}")
     KG_NODE_DIR.mkdir(exist_ok=True)
@@ -117,6 +119,8 @@ def main():
     BASE_DIR.mkdir(exist_ok=True)
     ERRORS_DIR = BASE_DIR / "errors"
     ERRORS_DIR.mkdir(exist_ok=True)
+
+    models = get_models()
 
     failed_files = []
     empty_files = []
@@ -134,7 +138,7 @@ def main():
             objects = df["object"]
             relations = df["relation"]
 
-            graph = build_graph(subjects, relations, objects)
+            graph = build_graph(models, subjects, relations, objects)
 
             with open(BASE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json.dump(graph, f, indent=2)
