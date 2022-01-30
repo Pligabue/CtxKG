@@ -68,6 +68,30 @@ const removeDuplicates = (data) => {
   })
 }
 
+const cleanData = (fileData) => {
+  let cleanedData = fileData
+
+  if (!Array.isArray(fileData)) {
+    if (cleanedData.nodes) {
+      cleanedData = cleanedData.nodes
+    } else {
+      console.error("NODES MISSING")
+      return cleanedData
+    }
+  }
+
+  for (node of cleanedData) {
+    if (node.subject_links === undefined) {
+      node.subject_links = []
+    }
+    if (node.object_links === undefined) {
+      node.object_links = []
+    }
+  }
+
+  return cleanedData
+}
+
 const buildGraph = (fileData) => {
   cleanPrevious()
 
@@ -171,7 +195,8 @@ const loadJSON = function() {
     reader.onload = function(e) {
       let jsonString = e.target.result
       let fileData = JSON.parse(jsonString)
-      buildGraph(fileData)
+      let cleanedData = cleanData(fileData)
+      buildGraph(cleanedData)
     }
     reader.readAsText(file, "utf-8")
   }
