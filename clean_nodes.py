@@ -1,5 +1,4 @@
 from pathlib import Path
-import re
 import json
 
 def main():
@@ -42,10 +41,8 @@ def main():
 
                 clean_nodes.append({
                     "subject": clean_subject,
-                    "subject_links": [],
                     "relation": node["relation"],
-                    "object": clean_object,
-                    "object_links": []
+                    "object": clean_object
                 })
 
             with open(CLEAN_DIR / file.name, "w", encoding="utf-8") as f:

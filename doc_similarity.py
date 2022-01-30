@@ -1,5 +1,4 @@
 from pathlib import Path
-import argparse
 import json
 
 import tensorflow as tf
@@ -16,16 +15,16 @@ def main():
     RESULTS_DIR = Path('./results')
 
     KG_NODE_DIRS = [dir for dir in RESULTS_DIR.glob(MATCH) if dir.is_dir()]
-    
+
     _, _, cls_model = get_models(size=SIZE)
     
     for dir in KG_NODE_DIRS:
         base_dir = dir / "base"
         filenames = [file.stem for file in base_dir.glob("*.json")]
-        abstracts = [read_file(file) for file in SENTENCE_DIR.glob("*.txt") if file.stem in filenames]
+        docs = [read_file(file) for file in SENTENCE_DIR.glob("*.txt") if file.stem in filenames]
 
-        abstract_encodings = cls_model(tf.constant(abstracts))
-        similarity_matrix = get_similarity_matrix(abstract_encodings)
+        doc_encodings = cls_model(tf.constant(docs))
+        similarity_matrix = get_similarity_matrix(doc_encodings)
         
         data = {
             "filenames": filenames,
