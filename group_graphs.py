@@ -27,7 +27,9 @@ def get_current_group(item, groups):
             return group
     return None
 
-def get_groups(sorted_mappings, filenames):
+def get_groups(filenames, sim_matrix):
+    sorted_mappings = get_sorted_mappings(filenames, sim_matrix)
+
     groups = []
     for i, j, similarity in sorted_mappings:
         i_group = get_current_group(i, groups)
@@ -43,19 +45,17 @@ def get_groups(sorted_mappings, filenames):
 
     return [[filenames[index] for index in group] for group in groups]
 
-def merge_graphs(group, clean_dir):
-    files = [file for file in clean_dir.glob("*.json") if file.stem in group]
-    node_groups = [read_json(file) for file in files]
-    
-    final_nodes = []
-    for node_group in node_groups:
-        final_nodes += node_groups
+def merge_graphs(models, files, ratio=RATIO, threshold=THRESHOLD):
+    triples = np.array([(node["subject"], node["relation"], node["object"]) for file in files for node in read_json(file)])
+    merged_graph = build_graph(models, triples[:, 0], triples[:, 1], triples[:, 2], ratio=ratio, threshold=threshold)
 
-    return final_nodes
+    return merged_graph
 
 def main():
     RESULT_DIR = Path('./results')
     KG_NODE_DIRS = [dir for dir in RESULT_DIR.glob(MATCH) if (dir / "clean").is_dir() and (dir / "doc_similarity.json").is_file()]
+
+    models = get_models(size=SIZE)
 
     for dir in KG_NODE_DIRS:
         clean_dir = dir / "clean"
@@ -64,16 +64,18 @@ def main():
         filenames = doc_similarities["filenames"]
         sim_matrix = doc_similarities["similarity_matrix"]
 
-        sorted_mappings = get_sorted_mappings(filenames, sim_matrix)
-        groups = get_groups(sorted_mappings, filenames)
+        groups = get_groups(filenames, sim_matrix)
 
-        merged_dir = dir / "merged"
-        merged_dir.mkdir(exist_ok=True)
-        groups_dir = merged_dir / f"group_size_{GROUP_SIZE}"
+        groups_dir = dir / "merged"
+        groups_dir.mkdir(exist_ok=True)
+        groups_dir = groups_dir / f"groups_of_{GROUP_SIZE}"
         groups_dir.mkdir(exist_ok=True)
 
-        for i, group in enumerate(groups):
-            merged_graph = merge_graphs(group, clean_dir)
+        enumerated_groups = list(enumerate(groups))
+        for i, group in tqdm(enumerated_groups):
+            files = [file for file in clean_dir.glob("*.json") if file.stem in group]
+            merged_graph = merge_graphs(models, files)
+
             data = {
                 "filenames": group,
                 "nodes": merged_graph
