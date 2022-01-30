@@ -6,16 +6,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--small", dest="size", action="store_const", const="small")
-parser.add_argument("--medium", dest="size", action="store_const", const="medium")
-parser.add_argument("--big", dest="size", action="store_const", const="big")
-parser.add_argument("-m", "--match", type=str, default="kg_nodes_ratio_*_threshold_*_*")
-parser.set_defaults(size="small")
-args = parser.parse_args()
-
-SIZE = args.size
-MATCH = args.match
+from cli_args import SIZE, MATCH
 
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 tfhub_handle_encoder = {

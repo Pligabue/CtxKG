@@ -12,22 +12,8 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
 
-parser = argparse.ArgumentParser()
-parser.add_argument("-t", "--threshold", type=float, default=0.9)
-parser.add_argument("--small", dest="size", action="store_const", const="small")
-parser.add_argument("--medium", dest="size", action="store_const", const="medium")
-parser.add_argument("--big", dest="size", action="store_const", const="big")
-parser.add_argument("-r", "--ratio", type=float, default=0.75)
-parser.add_argument("-m", "--match", type=str, default="kg_nodes_ratio_*_threshold_*_*")
-parser.add_argument("-g", "--group-size", type=int, default=3)
-parser.set_defaults(size="small")
-args = parser.parse_args()
+from cli_args import GROUP_SIZE, MATCH, SIZE, RATIO, THRESHOLD
 
-THRESHOLD = args.threshold
-SIZE = args.size
-RATIO = args.ratio
-MATCH = args.match
-GROUP_SIZE = args.group_size
 
 tfhub_handle_preprocess = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 tfhub_handle_encoder = {
