@@ -68,7 +68,7 @@ def main():
 
         groups_dir = dir / "merged"
         groups_dir.mkdir(exist_ok=True)
-        groups_dir = groups_dir / f"groups_of_{GROUP_SIZE}"
+        groups_dir = groups_dir / f"groups_of_{GROUP_SIZE}_ratio_{int(RATIO * 100)}_threshold_{int(THRESHOLD * 100)}_{SIZE}"
         groups_dir.mkdir(exist_ok=True)
 
         enumerated_groups = list(enumerate(groups))
