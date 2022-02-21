@@ -1,9 +1,22 @@
 from pathlib import Path
 import json
 
+from cli_args import MATCH
+
+def is_same_triple(a_node, b_node):
+    return (a_node["subject"] == b_node["subject"] and
+            a_node["relation"] == b_node["relation"] and
+            a_node["object"] == b_node["object"])
+
+def node_already_exists(nodes, new_node):
+    for node in nodes:
+        if is_same_triple(node, new_node):
+            return True
+    return False
+
 def main():
     RESULTS_PATH = Path("./results")
-    dirs = [dir for dir in RESULTS_PATH.glob("*") if dir.is_dir()]
+    dirs = [dir for dir in RESULTS_PATH.glob(MATCH) if dir.is_dir()]
 
     for dir in dirs:
         BASE_DIR = dir / "base"
@@ -39,11 +52,14 @@ def main():
                         clean_object = entity
                         break
 
-                clean_nodes.append({
+                clean_node = {
                     "subject": clean_subject,
                     "relation": node["relation"],
                     "object": clean_object
-                })
+                }
+
+                if not node_already_exists(clean_nodes, clean_node):
+                    clean_nodes.append(clean_node)
 
             with open(CLEAN_DIR / file.name, "w", encoding="utf-8") as f:
                 json.dump(clean_nodes, f, indent=2)
