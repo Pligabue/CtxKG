@@ -19,16 +19,24 @@
   width: 100%;
 }
 
-.load-button {
+.file-section {
   position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+
+.load-button {
   font-size: large;
   background-color: #1f657a;
   color: white;
   border: 0;
   padding: 0.75rem 1.5rem;
-  top: 1rem;
-  left: 1rem;
   cursor: pointer;
+}
+
+.filenames {
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 1rem;
 }
 
 .refresh-button {

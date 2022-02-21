@@ -195,6 +195,11 @@ const loadJSON = function() {
     reader.onload = function(e) {
       let jsonString = e.target.result
       let fileData = JSON.parse(jsonString)
+      let filenames = file.name.split(".").slice(0, -1).join(".")
+      if (fileData.filenames) {
+        filenames = fileData.filenames.join(", ")
+      }
+      d3.select(".filenames").text(filenames)
       let cleanedData = cleanData(fileData)
       buildGraph(cleanedData)
     }

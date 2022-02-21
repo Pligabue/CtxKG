@@ -4,7 +4,10 @@
 </head>
 <body>
   <div id="display"></div>
-  <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
+  <div class="file-section">
+    <button class="load-button" onclick="document.getElementById('file-input').click();"><i class="fas fa-upload"></i></button>
+    <span class="filenames"></span>
+  </div>
   <input id="file-input" type="file" name="name" onchange="loadJSON();" style="display: none;" />
   <span class="refresh-button" onclick="loadJSON()"><i class="fas fa-sync-alt"></i></span>
   <span class="toggle-text-button" onclick="toggleText()"><i class="fas fa-eye"></i></span>
