@@ -139,6 +139,7 @@ const buildGraph = (fileData) => {
     .data(data.nodes)
     .enter()
     .append("g")
+    .attr("data-entity", d => d.id)
 
   const radius = 8
   const nodeCircles = nodes
