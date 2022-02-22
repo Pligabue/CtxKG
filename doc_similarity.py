@@ -28,7 +28,7 @@ def main():
         
         data = {
             "filenames": filenames,
-            "similarity_matrix": similarity_matrix.numpy().tolist()
+            "similarity_matrix": similarity_matrix.tolist()
         }
 
         with open(dir / "doc_similarity.json", "w", encoding="utf-8") as f:

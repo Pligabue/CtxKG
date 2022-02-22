@@ -63,7 +63,7 @@ def get_entity_encodings(models, subjects, relations, objects, ratio=RATIO):
 
 def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
-    return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True)
+    return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True).numpy()
 
 def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, threshold=THRESHOLD):
     entity_encodings = tf.concat([subject_encodings, object_encodings], 0)
