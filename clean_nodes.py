@@ -58,7 +58,7 @@ def main():
                     "object": clean_object
                 }
 
-                if not node_already_exists(clean_nodes, clean_node):
+                if not node_already_exists(clean_nodes, clean_node) and clean_subject != clean_object:
                     clean_nodes.append(clean_node)
 
             with open(CLEAN_DIR / file.name, "w", encoding="utf-8") as f:

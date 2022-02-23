@@ -42,6 +42,11 @@ def get_groups(filenames, sim_matrix):
             if len(group) < GROUP_SIZE:
                 group.add(i)
                 group.add(j)
+        else:
+            if len(i_group) + len(j_group) <= GROUP_SIZE:
+                i_group.update(j_group)
+                groups.remove(j_group)
+
 
     return [[filenames[index] for index in group] for group in groups]
 
