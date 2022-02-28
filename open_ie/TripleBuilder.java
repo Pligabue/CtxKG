@@ -22,7 +22,7 @@ public class TripleBuilder {
         // props.setProperty("openie.filelist", ""); // DOES NOT MAKE A DIFFERCE IN THIS APPLICATION.
         // props.setProperty("openie.threads", ""); // DOES NOT MAKE A DIFFERCE IN THIS APPLICATION.
         // props.setProperty("openie.max_entailments_per_clause", "500"); // DOES NOT SEEM TO REALLY MAKE A DIFFERENCE.
-        // props.setProperty("openie.resolve_coref", "true");
+        props.setProperty("openie.resolve_coref", "true"); // VERY USEFUL!
         props.setProperty("openie.ignore_affinity", "true"); // WHEN TRUE, REMOVES TRIPLES THAT HAVE AFFINITY BELOW 1.0. MIGHT BE USEFUL COMBINED WITH THE affinity_probability_cap PROPERTY.
         props.setProperty("openie.affinity_probability_cap", "1.0"); // SETTING IT TO 1.0 LEAVES ALL AFFINITY VALUES UNROUNDED. MIGHT BE USEFUL COMBINED WITH THE ignore_affinity PROPERTY.
         props.setProperty("openie.triple.strict", "false"); // WHEN FALSE, THE TRIPLES CHANGE SLIGHTLY. IT SEEMS MARGINALLY BETTER.
@@ -31,7 +31,7 @@ public class TripleBuilder {
         props.setProperty("openie.splitter.nomodel", "true"); // DOES NOT CHANGE MUCH. SLIGHTLY BETTER AS TRUE.
         // props.setProperty("openie.splitter.disable", "true"); // THIS IS AN IMPORTANT ONE. WHEN TRUE, THE NUMBER OF TRIPLES IS MINIMAL.
         // props.setProperty("openie.affinity_models", ""); // WILL NOT BE USED.
-        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,depparse,natlog,openie");
+        props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,depparse,coref,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         File folder = new File("./sentences/");
