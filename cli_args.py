@@ -14,7 +14,7 @@ args = parser.parse_args()
 
 THRESHOLD = args.threshold
 SIZE = args.size
-OVERWRITE = args.overwrite,
+OVERWRITE = args.overwrite
 RATIO = args.ratio
 MATCH = args.match
 GROUP_SIZE = args.group_size
