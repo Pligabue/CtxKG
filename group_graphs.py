@@ -2,11 +2,12 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 import json
+import math
 
 from tqdm import tqdm
 
 from build_kg_nodes import get_models, build_graph
-from cli_args import GROUP_SIZE, MATCH, SIZE, RATIO, THRESHOLD
+from cli_args import GROUPS, MATCH, SIZE, RATIO, THRESHOLD
 
 
 def read_json(file):
@@ -15,10 +16,9 @@ def read_json(file):
 
 def get_sorted_mappings(filenames, sim_matrix):
     mappings = []
-    for i in range(len(filenames)):
-        for j in range(i + 1, len(filenames)):
-            mappings.append((i, j, sim_matrix[i][j]))
-
+    for i, i_filename in enumerate(filenames):
+        for j, j_filename in enumerate(filenames[i+1:]):
+            mappings.append((i_filename, j_filename, sim_matrix[i][i+j+1]))
     return sorted(mappings, key=lambda mapping: mapping[2], reverse=True)
 
 def get_current_group(item, groups):
@@ -27,28 +27,55 @@ def get_current_group(item, groups):
             return group
     return None
 
+def get_group_sizes(n_of_items):
+    group_sizes = []
+    remaining_items = n_of_items
+    remaining_groups = GROUPS
+    while remaining_items > 0:
+        current_size = math.ceil(remaining_items / remaining_groups)
+        group_sizes.append(current_size)
+        remaining_items -= current_size
+        remaining_groups -= 1
+    return group_sizes
+
+
 def get_groups(filenames, sim_matrix):
     sorted_mappings = get_sorted_mappings(filenames, sim_matrix)
+    group_sizes = get_group_sizes(len(filenames))
 
     groups = []
-    for i, j, similarity in sorted_mappings:
-        i_group = get_current_group(i, groups)
-        j_group = get_current_group(j, groups)
+    for i_filename, j_filename, similarity in sorted_mappings:
+        group_size = group_sizes[0]
+        i_group = get_current_group(i_filename, groups)
+        j_group = get_current_group(j_filename, groups)
 
-        if i_group is None and j_group is None:
-            groups.append({i, j})
-        elif i_group is None or j_group is None:
-            group = i_group or j_group
-            if len(group) < GROUP_SIZE:
-                group.add(i)
-                group.add(j)
-        else:
-            if len(i_group) + len(j_group) <= GROUP_SIZE:
-                i_group.update(j_group)
+        if group_size > 1:
+            if i_group is None and j_group is None:
+                group = {i_filename, j_filename}
+                groups.append(group)
+            elif i_group is None or j_group is None:
+                group = i_group or j_group
+                if len(group) < group_size:
+                    group.add(i_filename)
+                    group.add(j_filename)
+            elif len(i_group) + len(j_group) <= group_size:
+                group = i_group
+                group.update(j_group)
                 groups.remove(j_group)
+            if len(group) >= group_size:
+                group_sizes.pop(0)
+        else:
+            if i_group is None:
+                groups.append({i_filename})
+                group_sizes.pop(0)
+            if j_group is None:
+                groups.append({j_filename})
+                group_sizes.pop(0)
+        
+        if len(group_sizes) < 1:
+            break
 
-
-    return [[filenames[index] for index in group] for group in groups]
+    return groups
 
 def merge_graphs(models, files, ratio=RATIO, threshold=THRESHOLD):
     triples = np.array([(node["subject"], node["relation"], node["object"]) for file in files for node in read_json(file)])
@@ -73,7 +100,7 @@ def main():
 
         groups_dir = dir / "merged"
         groups_dir.mkdir(exist_ok=True)
-        groups_dir = groups_dir / f"groups_of_{GROUP_SIZE}_ratio_{int(RATIO * 100)}_threshold_{int(THRESHOLD * 100)}_{SIZE}"
+        groups_dir = groups_dir / f"groups_{GROUPS}_ratio_{int(RATIO * 100)}_threshold_{int(THRESHOLD * 100)}_{SIZE}"
         groups_dir.mkdir(exist_ok=True)
 
         enumerated_groups = list(enumerate(groups))
@@ -82,7 +109,7 @@ def main():
             merged_graph = merge_graphs(models, files)
 
             data = {
-                "filenames": group,
+                "filenames": list(group),
                 "nodes": merged_graph
             }
 
