@@ -7,7 +7,8 @@ import math
 from tqdm import tqdm
 
 from build_kg_nodes import get_models, build_graph
-from cli_args import GROUPS, MATCH, SIZE, RATIO, THRESHOLD
+from clean_nodes import clean_graph
+from cli_args import GROUPS, MATCH, SIZE, RATIO, THRESHOLD, CLEAN
 
 
 def read_json(file):
@@ -100,13 +101,15 @@ def main():
 
         groups_dir = dir / "merged"
         groups_dir.mkdir(exist_ok=True)
-        groups_dir = groups_dir / f"groups_{GROUPS}_ratio_{int(RATIO * 100)}_threshold_{int(THRESHOLD * 100)}_{SIZE}"
+        groups_dir = groups_dir / f"groups_{GROUPS}_ratio_{int(RATIO * 100)}_threshold_{int(THRESHOLD * 100)}_{SIZE}{'_clean' if CLEAN else ''}"
         groups_dir.mkdir(exist_ok=True)
 
         enumerated_groups = list(enumerate(groups))
         for i, group in tqdm(enumerated_groups):
             files = [file for file in clean_dir.glob("*.json") if file.stem in group]
             merged_graph = merge_graphs(models, files)
+            if CLEAN:
+                merged_graph = clean_graph(merged_graph)
 
             data = {
                 "filenames": list(group),

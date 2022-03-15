@@ -78,8 +78,8 @@ def build_nodes(subjects, relations, objects, subject_encodings, object_encoding
     for i, (subject, relation, object) in enumerate(zip(subjects, relations, objects)):
         subject_link_mask = entity_link_mask_matrix[i]
         object_link_mask = entity_link_mask_matrix[objects_base_index + i]
-        subbject_links = list(set(entities[subject_link_mask]) - {subject})
-        object_links = list(set(entities[object_link_mask]) - {object})
+        subbject_links = list(set(entities[subject_link_mask]) - {subject, object})
+        object_links = list(set(entities[object_link_mask]) - {subject, object})
 
         nodes.append({"subject": subject, "subject_links": subbject_links, "relation": relation, "object": object, "object_links": object_links})
         if subject in named_entity_map:
