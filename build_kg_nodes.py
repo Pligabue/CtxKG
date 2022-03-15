@@ -65,7 +65,8 @@ def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
     return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True).numpy()
 
-def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, threshold=THRESHOLD):
+def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, named_entity_map=None, threshold=THRESHOLD):
+    named_entity_map = named_entity_map or {} 
     entity_encodings = tf.concat([subject_encodings, object_encodings], 0)
     entity_similarity_matrix = get_similarity_matrix(entity_encodings)
     entity_link_mask_matrix = entity_similarity_matrix >= threshold
@@ -77,22 +78,31 @@ def build_nodes(subjects, relations, objects, subject_encodings, object_encoding
     for i, (subject, relation, object) in enumerate(zip(subjects, relations, objects)):
         subject_link_mask = entity_link_mask_matrix[i]
         object_link_mask = entity_link_mask_matrix[objects_base_index + i]
+        subbject_links = list(set(entities[subject_link_mask]) - {subject})
+        object_links = list(set(entities[object_link_mask]) - {object})
 
-        nodes.append({
-            "subject": subject,
-            "subject_links": list(set(entities[subject_link_mask]) - {subject}),
-            "relation": relation,
-            "object": object,
-            "object_links": list(set(entities[object_link_mask]) - {object})
-        })
+        nodes.append({"subject": subject, "subject_links": subbject_links, "relation": relation, "object": object, "object_links": object_links})
+        if subject in named_entity_map:
+            nodes.append({"subject": subject, "subject_links": subbject_links, "relation": "relates to", "object": named_entity_map[subject], "object_links": []})
+        if object in named_entity_map:
+            nodes.append({"subject": object, "subject_links": object_links, "relation": "relates to", "object": named_entity_map[object], "object_links": []})
 
     return nodes
 
-def build_graph(models, subjects, relations, objects, ratio=RATIO, threshold=THRESHOLD):
+def build_graph(models, subjects, relations, objects, named_entity_map=None, ratio=RATIO, threshold=THRESHOLD):
     subject_encodings, object_encodings = get_entity_encodings(models, subjects, relations, objects, ratio=ratio)
-    graph = build_nodes(subjects, relations, objects, subject_encodings, object_encodings, threshold=threshold)
+    graph = build_nodes(subjects, relations, objects, subject_encodings, object_encodings, named_entity_map=named_entity_map, threshold=threshold)
 
     return graph
+
+def get_named_entity_map(df):
+    named_entity_map = {}
+    for i, row in df.iterrows():
+        if pd.notnull(row["subject_named_entity"]):
+            named_entity_map[row["subject"]] = row["subject_named_entity"]
+        if pd.notnull(row["object_named_entity"]):
+            named_entity_map[row["object"]] = row["object_named_entity"]
+    return named_entity_map
 
 def main():
     TRIPLE_DIR = Path("./triples")
@@ -111,7 +121,7 @@ def main():
     sorted_files = sorted(files, key=lambda file: file.stat().st_size)
     for file in tqdm(sorted_files):
         try:
-            base_df = pd.read_csv(file, sep=";", names=["confidence", "subject", "relation", "object"])
+            base_df = pd.read_csv(file, sep=";")
             df = base_df[base_df["confidence"] > 0.70]
             if df.empty:
                 empty_files.append(file.name)
@@ -121,7 +131,8 @@ def main():
             objects = df["object"]
             relations = df["relation"]
 
-            graph = build_graph(models, subjects, relations, objects)
+            named_entity_map = get_named_entity_map(df)
+            graph = build_graph(models, subjects, relations, objects, named_entity_map=named_entity_map)
 
             with open(BASE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json.dump(graph, f, indent=2)
