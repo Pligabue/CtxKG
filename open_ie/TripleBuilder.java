@@ -42,7 +42,7 @@ public class TripleBuilder {
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,depparse,coref,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
-        File folder = new File("./sentences/");
+        File folder = new File("./documents/");
         FilenameFilter filter = new FilenameFilter() {
             @Override
             public boolean accept(File f, String name) {

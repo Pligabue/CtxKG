@@ -4,7 +4,7 @@ open_ie/*
 
 *.pdf
 
-sentences/*.txt
+documents/*.txt
 triples/*.txt
 kg_nodes*/
 results/*.txt
