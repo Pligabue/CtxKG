@@ -83,8 +83,11 @@ def build_triples():
         lib_full_path = stanford_lib.absolute() / "*"
         open_ie_full_path = OPEN_IE_DIR.absolute()
         triple_builder_path = OPEN_IE_DIR / "TripleBuilder.java"
-        subprocess.run(["javac", "-cp", lib_full_path, triple_builder_path])
-        subprocess.run(["java", "-cp", f"{lib_full_path};{open_ie_full_path}", "-Dfile.encoding=UTF8", "TripleBuilder"])
+        try:
+            subprocess.run(["javac", "-cp", lib_full_path, triple_builder_path], check=True)
+            subprocess.run(["java", "-cp", f"{lib_full_path};{open_ie_full_path}", "-Dfile.encoding=UTF8", "TripleBuilder"])
+        except subprocess.CalledProcessError:
+            print("Error compiling Java code.")
     else:
         print("Cannot continue. Stanford's CoreNLP library is missing.")
 
