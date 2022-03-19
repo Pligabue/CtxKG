@@ -110,7 +110,7 @@ public class TripleBuilder {
     }
 
     public static String buildID(String prefix, List<CoreLabel> tokens) {
-        return prefix + tokens.stream().reduce("", (acc, token) -> acc + "-" + token.index(), String::concat);
+        return prefix + tokens.stream().reduce("", (acc, token) -> acc + "-" + token.toString(), String::concat);
     }
 
     public static String buildTripleRow(String confidence, String subject, String relation, String object, String subjectID, String objectID) {
