@@ -8,6 +8,7 @@ import java.util.Properties;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Optional;
+import java.util.UUID;
 import static java.util.stream.Collectors.*;
 
 import edu.stanford.nlp.ie.util.RelationTriple;
@@ -58,7 +59,8 @@ public class TripleBuilder {
             try {
                 Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = new FileWriter("./triples/" + f.getName());
-                String tripleText = "confidence;subject;relation;object;subject_named_entity;object_named_entity\n";
+                String tripleText = "confidence;subject;relation;object;subject_id;object_id\n";
+                String prefix = UUID.randomUUID().toString();
 
                 while (reader.hasNextLine()) {
                     String line = reader.nextLine();
@@ -70,24 +72,29 @@ public class TripleBuilder {
                     for (CoreMap sentence : doc.annotation().get(CoreAnnotations.SentencesAnnotation.class)) {
                         Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
                         for (RelationTriple triple : triples) {
+                            String confidence = Double.toString(triple.confidence);
+                            String subject = triple.subjectGloss(), relation = triple.relationGloss(), object = triple.objectGloss();
+                            String tripleToAdd = null;
                             List<CoreLabel> subjectTokens = triple.canonicalSubject;
                             List<CoreLabel> objectTokens = triple.canonicalObject;
-                            String subjectNamedEntity = "";
-                            String objectNamedEntity = "";
-                            Optional<CoreEntityMention> subjectNamedEntityMatch = entityMentions.stream().filter(em -> subjectTokens.containsAll(em.tokens())).findAny();   
-                            Optional<CoreEntityMention> objectNamedEntityMatch = entityMentions.stream().filter(em -> objectTokens.containsAll(em.tokens())).findAny();
+                            CoreEntityMention subjectNamedEntityMention = null;
+                            CoreEntityMention objectNamedEntityMention = null;
+                            Optional<CoreEntityMention> subjectNamedEntityMentionOptional = entityMentions.stream().filter(em -> subjectTokens.containsAll(em.tokens())).findAny();   
+                            Optional<CoreEntityMention> objectNamedEntityMentionOptional = entityMentions.stream().filter(em -> objectTokens.containsAll(em.tokens())).findAny();
 
-                            if (subjectNamedEntityMatch.isPresent())
-                                subjectNamedEntity = subjectNamedEntityMatch.get().text();
-                            if (objectNamedEntityMatch.isPresent())
-                                objectNamedEntity = objectNamedEntityMatch.get().text();
-
-                            tripleText += triple.confidence + ";" +
-                                          triple.subjectGloss() + ";" +
-                                          triple.relationGloss() + ";" +
-                                          triple.objectGloss() + ";" +
-                                          subjectNamedEntity + ";" + 
-                                          objectNamedEntity + "\n";
+                            tripleText += buildTripleRow(confidence, subject, relation, object, buildID(prefix, subjectTokens), buildID(prefix, objectTokens));
+                            if (subjectNamedEntityMentionOptional.isPresent()) {
+                                subjectNamedEntityMention = subjectNamedEntityMentionOptional.get();
+                                tripleToAdd = buildTripleRow("1.0", subject, "relates to", subjectNamedEntityMention.text(), buildID(prefix, subjectTokens), buildID(prefix, subjectNamedEntityMention.tokens()));
+                                if (isNewTriple(tripleText, tripleToAdd) && !subject.equals(subjectNamedEntityMention.text()))
+                                    tripleText += tripleToAdd;
+                            }
+                            if (objectNamedEntityMentionOptional.isPresent()) {
+                                objectNamedEntityMention = objectNamedEntityMentionOptional.get();
+                                tripleToAdd = buildTripleRow("1.0", object, "relates to", objectNamedEntityMention.text(), buildID(prefix, objectTokens), buildID(prefix, objectNamedEntityMention.tokens()));
+                                if (isNewTriple(tripleText, tripleToAdd) && !object.equals(objectNamedEntityMention.text()))
+                                    tripleText += tripleToAdd;
+                            }
                         }
                     }
                 }
@@ -100,5 +107,17 @@ public class TripleBuilder {
                     e.printStackTrace();
             }
         }
+    }
+
+    public static String buildID(String prefix, List<CoreLabel> tokens) {
+        return prefix + tokens.stream().reduce("", (acc, token) -> acc + "-" + token.index(), String::concat);
+    }
+
+    public static String buildTripleRow(String confidence, String subject, String relation, String object, String subjectID, String objectID) {
+        return confidence + ";" + subject + ";" + relation + ";" + object + ";" + subjectID + ";" + objectID + "\n";
+    }
+
+    public static boolean isNewTriple(String tripleText, String tripleToAdd) {
+        return !tripleText.contains(tripleToAdd);
     }
 }
