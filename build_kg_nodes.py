@@ -65,44 +65,36 @@ def get_similarity_matrix(embeddings):
     normalized_embeddings = tf.math.l2_normalize(embeddings, 1)
     return tf.linalg.matmul(normalized_embeddings, normalized_embeddings, transpose_b=True).numpy()
 
-def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, named_entity_map=None, threshold=THRESHOLD):
-    named_entity_map = named_entity_map or {} 
+def build_nodes(subjects, relations, objects, subject_encodings, object_encodings, subject_ids, object_ids, threshold=THRESHOLD):
     entity_encodings = tf.concat([subject_encodings, object_encodings], 0)
     entity_similarity_matrix = get_similarity_matrix(entity_encodings)
     entity_link_mask_matrix = entity_similarity_matrix >= threshold
 
-    entities = np.array(list(subjects) + list(objects))
+    entity_ids = np.array(list(subject_ids) + list(object_ids))
     objects_base_index = len(subjects)
 
     nodes = []
-    for i, (subject, relation, object) in enumerate(zip(subjects, relations, objects)):
+    for i, (subject, relation, object, subject_id, object_id) in enumerate(zip(subjects, relations, objects, subject_ids, object_ids)):
         subject_link_mask = entity_link_mask_matrix[i]
         object_link_mask = entity_link_mask_matrix[objects_base_index + i]
-        subbject_links = list(set(entities[subject_link_mask]) - {subject, object})
-        object_links = list(set(entities[object_link_mask]) - {subject, object})
+        subject_links = list(set(entity_ids[subject_link_mask]) - {subject_id, object_id})
+        object_links = list(set(entity_ids[object_link_mask]) - {subject_id, object_id})
 
-        nodes.append({"subject": subject, "subject_links": subbject_links, "relation": relation, "object": object, "object_links": object_links})
-        if subject in named_entity_map:
-            nodes.append({"subject": subject, "subject_links": subbject_links, "relation": "relates to", "object": named_entity_map[subject], "object_links": []})
-        if object in named_entity_map:
-            nodes.append({"subject": object, "subject_links": object_links, "relation": "relates to", "object": named_entity_map[object], "object_links": []})
+        nodes.append({
+            "subject_links": subject_links,
+            "subject_id": subject_id,
+            "subject": subject,
+            "relation": relation,
+            "object": object,
+            "object_id": object_id,
+            "object_links": object_links
+        })
 
     return nodes
 
-def build_graph(models, subjects, relations, objects, named_entity_map=None, ratio=RATIO, threshold=THRESHOLD):
+def build_graph(models, subjects, relations, objects, subject_ids, object_ids, ratio=RATIO, threshold=THRESHOLD):
     subject_encodings, object_encodings = get_entity_encodings(models, subjects, relations, objects, ratio=ratio)
-    graph = build_nodes(subjects, relations, objects, subject_encodings, object_encodings, named_entity_map=named_entity_map, threshold=threshold)
-
-    return graph
-
-def get_named_entity_map(df):
-    named_entity_map = {}
-    for i, row in df.iterrows():
-        if pd.notnull(row["subject_named_entity"]):
-            named_entity_map[row["subject"]] = row["subject_named_entity"]
-        if pd.notnull(row["object_named_entity"]):
-            named_entity_map[row["object"]] = row["object_named_entity"]
-    return named_entity_map
+    return build_nodes(subjects, relations, objects, subject_encodings, object_encodings, subject_ids, object_ids, threshold=threshold)
 
 def main():
     TRIPLE_DIR = Path("./triples")
@@ -127,12 +119,7 @@ def main():
                 empty_files.append(file.name)
                 continue
 
-            subjects = df["subject"]
-            objects = df["object"]
-            relations = df["relation"]
-
-            named_entity_map = get_named_entity_map(df)
-            graph = build_graph(models, subjects, relations, objects, named_entity_map=named_entity_map)
+            graph = build_graph(models, df["subject"], df["relation"], df["object"], df["subject_id"], df["object_id"])
 
             with open(BASE_DIR / f"{file.stem}.json", "w", encoding="utf-8") as f:
                 json.dump(graph, f, indent=2)
