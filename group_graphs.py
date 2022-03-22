@@ -79,8 +79,8 @@ def get_groups(filenames, sim_matrix):
     return groups
 
 def merge_graphs(models, files, ratio=RATIO, threshold=THRESHOLD):
-    triples = np.array([(node["subject"], node["relation"], node["object"]) for file in files for node in read_json(file)])
-    merged_graph = build_graph(models, triples[:, 0], triples[:, 1], triples[:, 2], ratio=ratio, threshold=threshold)
+    triples = np.array([(node["subject"], node["relation"], node["object"], node["subject_id"], node["object_id"]) for file in files for node in read_json(file)])
+    merged_graph = build_graph(models, triples[:, 0], triples[:, 1], triples[:, 2], triples[:, 3], triples[:, 4], ratio=ratio, threshold=threshold)
 
     return merged_graph
 
