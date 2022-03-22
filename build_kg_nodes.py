@@ -126,7 +126,7 @@ def main():
         except KeyboardInterrupt:
             break
         except Exception as e:
-            failed_files.append(f"{datetime.now()}: {file.name} - {e}")
+            failed_files.append(f"{datetime.now()}: {file.name} - {e.__class__.__name__}: {e}")
 
     with open(ERRORS_DIR / "failed_files.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(failed_files))
