@@ -30,7 +30,7 @@ public class TripleBuilder {
         // props.setProperty("openie.format", ""); // DOES NOT MAKE A DIFFERCE IN THIS APPLICATION.
         // props.setProperty("openie.filelist", ""); // DOES NOT MAKE A DIFFERCE IN THIS APPLICATION.
         // props.setProperty("openie.threads", ""); // DOES NOT MAKE A DIFFERCE IN THIS APPLICATION.
-        // props.setProperty("openie.max_entailments_per_clause", "500"); // DOES NOT SEEM TO REALLY MAKE A DIFFERENCE.
+        props.setProperty("openie.max_entailments_per_clause", "100"); // DOES NOT SEEM TO REALLY MAKE A DIFFERENCE.
         props.setProperty("openie.resolve_coref", "true"); // VERY USEFUL!
         props.setProperty("openie.ignore_affinity", "true"); // WHEN TRUE, REMOVES TRIPLES THAT HAVE AFFINITY BELOW 1.0. MIGHT BE USEFUL COMBINED WITH THE affinity_probability_cap PROPERTY.
         props.setProperty("openie.affinity_probability_cap", "1.0"); // SETTING IT TO 1.0 LEAVES ALL AFFINITY VALUES UNROUNDED. MIGHT BE USEFUL COMBINED WITH THE ignore_affinity PROPERTY.
