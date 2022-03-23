@@ -11,7 +11,7 @@ def read_file(file):
         return f.read()
 
 def main():
-    SENTENCE_DIR = Path('./sentences')
+    DOC_DIR = Path('./documents')
     RESULTS_DIR = Path('./results')
 
     KG_NODE_DIRS = [dir for dir in RESULTS_DIR.glob(MATCH) if dir.is_dir()]
@@ -21,7 +21,7 @@ def main():
     for dir in KG_NODE_DIRS:
         base_dir = dir / "base"
         filenames = [file.stem for file in base_dir.glob("*.json")]
-        docs = [read_file(file) for file in SENTENCE_DIR.glob("*.txt") if file.stem in filenames]
+        docs = [read_file(file) for file in DOC_DIR.glob("*.txt") if file.stem in filenames]
 
         doc_encodings = cls_model(tf.constant(docs))
         similarity_matrix = get_similarity_matrix(doc_encodings)

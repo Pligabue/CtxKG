@@ -30,42 +30,48 @@ const showInfo = (e) => {
   d3.select("#info").text(e.target.dataset.info)
 }
 
-const buildNodes = (fileData) => {
-  let subjects = fileData.map(node => node.subject)
-  let objects = fileData.map(node => node.object)
-  return [...subjects, ...objects].filter((node, i, arr) => arr.indexOf(node) === i).map(node => ({id: node}))
+const getIdToLabel = (fileData) => {
+  let idToLabel = {}
+  fileData.forEach(node => {
+    idToLabel[node.subject_id] = node.subject
+    idToLabel[node.object_id] = node.object
+  })
+  return idToLabel
 }
 
-const buildRelationshipLinks = (fileData) => {
-  return fileData.map(node => ({source: node.subject, target: node.object, relation: node.relation}))
+const buildNodes = (idToLabel) => {
+  return Object.keys(idToLabel).map(id => ({ id: id, text: idToLabel[id] }))
 }
 
-const buildSynonymLinks = (fileData) => {
+const buildRelationshipLinks = (fileData, idToLabel) => {
+  return fileData.map(node => ({
+    source: node.subject_id,
+    relation: node.relation,
+    target: node.object_id,
+    sourceText: node.subject,
+    targetText: node.object
+  }))
+}
+
+const buildSynonymLinks = (fileData, idToLabel) => {
   let subjectSynonymLinks = fileData.map(node => {
-    return node.subject_links.map(link => ({source: node.subject, target: link}))
+    return node.subject_links.map(link => ({ source: node.subject_id, target: link, sourceText: node.subject, targetText: idToLabel[link] }))
   }).flat()
   
   let objectSynonymLinks = fileData.map(node => {
-    return node.object_links.map(link => ({source: node.object, target: link}))
+    return node.object_links.map(link => ({ source: node.object_id, target: link, sourceText: node.object, targetText: idToLabel[link] }))
   }).flat()
-  
-  let synonymLinks = [...subjectSynonymLinks, ...objectSynonymLinks].filter((link, i, arr) => {
-    let firstLinkIndex = arr.findIndex(e => e.source === link.source && e.target === link.target)
-    return i === firstLinkIndex && link.source !== link.target
-  })
 
-  return synonymLinks
+  return [...subjectSynonymLinks, ...objectSynonymLinks]
+}
+
+const getIndexOfLink = (links, entityOne, entityTwo) => {
+  return links.findIndex(({ source, target }) => (entityOne === source && entityTwo === target) || (entityTwo === source && entityOne === target))
 }
 
 const removeDuplicates = (data) => {
-  let {synonymLinks, relationshipLinks} = data
-  data.synonymLinks = synonymLinks.filter(synonymLink => {
-    const index = relationshipLinks.findIndex(relationshipLink => {
-      return (relationshipLink.source === synonymLink.source && relationshipLink.target === synonymLink.target) ||
-             (relationshipLink.target === synonymLink.source && relationshipLink.source === synonymLink.target)
-    })
-    return index === -1
-  })
+  data.relationshipLinks = data.relationshipLinks.filter((link, i, links) => i === getIndexOfLink(links, link.source, link.target))
+  data.synonymLinks = data.synonymLinks.filter(link => getIndexOfLink(data.relationshipLinks, link.source, link.target) === -1)
 }
 
 const cleanData = (fileData) => {
@@ -95,14 +101,15 @@ const cleanData = (fileData) => {
 const buildGraph = (fileData) => {
   cleanPrevious()
 
+  let idToLabel = getIdToLabel(fileData)
   const data = {
-    nodes: buildNodes(fileData),
-    relationshipLinks: buildRelationshipLinks(fileData),
-    synonymLinks: buildSynonymLinks(fileData)
+    nodes: buildNodes(idToLabel),
+    relationshipLinks: buildRelationshipLinks(fileData, idToLabel),
+    synonymLinks: buildSynonymLinks(fileData, idToLabel)
   }
   removeDuplicates(data)
   buildColors(data)
-  
+
   console.log(data)
 
   const svg = d3.select("#display")
@@ -121,7 +128,7 @@ const buildGraph = (fileData) => {
     .append("line")
       .attr("stroke-width", 2)
       .classed("synonym", true)
-      .attr("data-info", d => `${d.source} ⟷ ${d.target}`)
+      .attr("data-info", d => `${d.sourceText} ⟷ ${d.targetText}`)
       .on("mouseover", showInfo)
 
   const relationshipLinks = svg
@@ -131,7 +138,7 @@ const buildGraph = (fileData) => {
     .append("line")
       .attr("stroke-width", 1)
       .classed("relationship", true)
-      .attr("data-info", d => `${d.source} > ${d.relation} > ${d.target}`)
+      .attr("data-info", d => `${d.sourceText} > ${d.relation} > ${d.targetText}`)
       .on("mouseover", showInfo)
 
   const nodes = svg
@@ -139,7 +146,8 @@ const buildGraph = (fileData) => {
     .data(data.nodes)
     .enter()
     .append("g")
-    .attr("data-entity", d => d.id)
+    .attr("data-entity", d => d.text)
+    .attr("data-id", d => d.id)
 
   const radius = 8
   const nodeCircles = nodes
@@ -147,13 +155,13 @@ const buildGraph = (fileData) => {
       .attr("r", radius)
       .attr("stroke", "black")
       .attr("stroke-width", "2")
-      .attr("data-info", d => d.id)
+      .attr("data-info", d => d.text)
       .style("fill", d => data.colors[d.id])
       .on("mouseover", showInfo)
 
   const nodeLabel = nodes
     .append("text")
-      .text(d => d.id)
+      .text(d => d.text)
       .classed("node-text", true)
 
   const simulation = d3.forceSimulation(data.nodes)
