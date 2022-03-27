@@ -74,11 +74,17 @@ public class TripleBuilder {
                     for (CoreMap sentence : doc.annotation().get(CoreAnnotations.SentencesAnnotation.class)) {
                         Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
                         for (RelationTriple triple : triples) {
-                            String confidence = Double.toString(triple.confidence), subject = triple.subjectGloss(), relation = triple.relationGloss(), object = triple.objectGloss();
-                            final String initialSubject = triple.subjectGloss(), initialObject = triple.objectGloss();
                             String tripleToAdd = null;
+                            String confidence = Double.toString(triple.confidence);
+                            String subject = triple.subjectGloss();
+                            String relation = triple.relationGloss();
+                            String object = triple.objectGloss();
+                            final String initialSubject = triple.subjectGloss();
+                            final String initialObject = triple.objectGloss();
                             List<CoreLabel> subjectTokens = triple.canonicalSubject;
                             List<CoreLabel> objectTokens = triple.canonicalObject;
+                            String subjectID = buildID(prefix, subjectTokens);
+                            String objectID = buildID(prefix, objectTokens);
                             CoreEntityMention subjectNamedEntityMention = null;
                             CoreEntityMention objectNamedEntityMention = null;
                             Optional<CoreEntityMention> subjectNamedEntityMentionOptional = entityMentions.stream().filter(em -> initialSubject.contains(em.text())).findFirst();   
@@ -89,8 +95,9 @@ public class TripleBuilder {
                                 if (subject.equals(subjectNamedEntityMention.text())) {
                                     subject = subjectNamedEntityMention.text();
                                     subjectTokens = subjectNamedEntityMention.tokens();
+                                    subjectID = buildNamedEntityID(subjectNamedEntityMention);
                                 } else {
-                                    tripleToAdd = buildTripleRow("1.0", subject, "relates to", subjectNamedEntityMention.text(), buildID(prefix, subjectTokens), buildID(prefix, subjectNamedEntityMention.tokens()));
+                                    tripleToAdd = buildTripleRow("1.0", subject, "relates to", subjectNamedEntityMention.text(), subjectID, buildNamedEntityID(subjectNamedEntityMention));
                                     if (isNewTriple(tripleText, tripleToAdd))
                                         tripleText += tripleToAdd;
                                 }
@@ -100,13 +107,14 @@ public class TripleBuilder {
                                 if (object.equals(objectNamedEntityMention.text())) {
                                     object = objectNamedEntityMention.text();
                                     objectTokens = objectNamedEntityMention.tokens();
+                                    objectID = buildNamedEntityID(objectNamedEntityMention);
                                 } else {
-                                    tripleToAdd = buildTripleRow("1.0", object, "relates to", objectNamedEntityMention.text(), buildID(prefix, objectTokens), buildID(prefix, objectNamedEntityMention.tokens()));
+                                    tripleToAdd = buildTripleRow("1.0", object, "relates to", objectNamedEntityMention.text(), objectID, buildNamedEntityID(objectNamedEntityMention));
                                     if (isNewTriple(tripleText, tripleToAdd))
                                         tripleText += tripleToAdd;
                                 }
                             }
-                            tripleText += buildTripleRow(confidence, subject, relation, object, buildID(prefix, subjectTokens), buildID(prefix, objectTokens));
+                            tripleText += buildTripleRow(confidence, subject, relation, object, subjectID, objectID);
                         }
                     }
                 }
@@ -123,6 +131,10 @@ public class TripleBuilder {
 
     public static String buildID(String prefix, List<CoreLabel> tokens) {
         return prefix + tokens.stream().reduce("", (acc, token) -> acc + "-" + token.toString(), String::concat);
+    }
+
+    public static String buildNamedEntityID(CoreEntityMention entityMention) {
+        return ("NE-" + entityMention.entityType() + "-" + entityMention.text()).replaceAll("\s+", "-");
     }
 
     public static String buildTripleRow(String confidence, String subject, String relation, String object, String subjectID, String objectID) {
