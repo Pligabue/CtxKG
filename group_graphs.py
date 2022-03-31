@@ -28,6 +28,13 @@ def get_current_group(item, groups):
             return group
     return None
 
+def get_next_member(group, mappings):
+    for i_filename, j_filename, similarity in mappings:
+        if i_filename in group and j_filename not in group:
+            return j_filename
+        if i_filename not in group and j_filename in group:
+            return i_filename
+
 def get_group_sizes(n_of_items):
     group_sizes = []
     remaining_items = n_of_items
@@ -39,41 +46,30 @@ def get_group_sizes(n_of_items):
         remaining_groups -= 1
     return group_sizes
 
-
 def get_groups(filenames, sim_matrix):
     sorted_mappings = get_sorted_mappings(filenames, sim_matrix)
     group_sizes = get_group_sizes(len(filenames))
 
     groups = []
-    for i_filename, j_filename, similarity in sorted_mappings:
-        group_size = group_sizes[0]
-        i_group = get_current_group(i_filename, groups)
-        j_group = get_current_group(j_filename, groups)
+    while sorted_mappings:
+        i_filename, j_filename, similarity = sorted_mappings.pop(0)
+        group_size = group_sizes.pop(0)
 
         if group_size > 1:
-            if i_group is None and j_group is None:
-                group = {i_filename, j_filename}
-                groups.append(group)
-            elif i_group is None or j_group is None:
-                group = i_group or j_group
-                if len(group) < group_size:
-                    group.add(i_filename)
-                    group.add(j_filename)
-            elif len(i_group) + len(j_group) <= group_size:
-                group = i_group
-                group.update(j_group)
-                groups.remove(j_group)
-            if len(group) >= group_size:
-                group_sizes.pop(0)
+            group = {i_filename, j_filename}
+            while sorted_mappings:
+                if len(group) >= group_size:
+                        break
+                next_member = get_next_member(group, sorted_mappings)
+                group.add(next_member)
+            groups.append(group)
+            if len(group_sizes) < 1:
+                    break
+            sorted_mappings = [mapping for mapping in sorted_mappings if mapping[0] not in group and mapping[1] not in group]
         else:
-            if i_group is None:
-                groups.append({i_filename})
-                group_sizes.pop(0)
-            if j_group is None:
-                groups.append({j_filename})
-                group_sizes.pop(0)
-        
-        if len(group_sizes) < 1:
+            individual_group_filenames = {filename for mapping in sorted_mappings for filename in mapping[:2]}
+            for filename in individual_group_filenames:
+                groups.append({filename})
             break
 
     return groups
