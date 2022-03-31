@@ -1,43 +1,27 @@
-const buildColors = (data) => {
-  let groups = {}
-  let numOfGroups = 0
+const buildColors = (data, colorVariation) => {
   let colors = {}
-  let colorScheme = null
+  const re = /(NE|[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-z]{4}-[0-9a-f]{12})-.*/
 
-  let i = -1
+  let sections = data.nodes.reduce((set, node) => {
+    let { id } = node
+    let match = re.exec(id)
 
-  data.synonymLinks.forEach(link => {
-    let {source, target} = link
-
-    if (source in groups || target in groups) {
-      if (source in groups) {
-        groups[target] = groups[source]
-      } else {
-        groups[source] = groups[target]
-      }
-    } else {
-      i++
-      groups[source] = i
-      groups[target] = i
+    if (match) {
+      let section = match[1]
+      return set.add(section)
     }
-  })
-
-  data.nodes.forEach(({id}) => {
-    if (!(id in groups)) {
-      i++
-      groups[id] = i
-    }
-  })
-
-  numOfGroups = Object.entries(groups).reduce((acc, [node, groupIndex]) => {
-    return groupIndex > acc ? groupIndex : acc
-  }, 0)
-
-  colorScheme = d3.scaleSequential([0, numOfGroups + 2], d3.interpolateTurbo)
+    return set
+  }, new Set())
   
-  Object.entries(groups).forEach(([node, groupIndex]) => {
-    colors[node] = colorScheme(groupIndex + 1)
+  sections = Array.from(sections).sort((a, b) => a === "NE" ? -1 : b === "NE" ? 1 : 0)
+  colorScheme = d3.scaleSequential([0, sections.length], d3.interpolateTurbo)
+  sections.forEach((section, baseIndex) => {
+    let sectionNodes = data.nodes.filter(node => node.id.startsWith(section)).sort()
+    sectionNodes.forEach((node, offsetIndex) => {
+      let colorIndex = baseIndex + offsetIndex * colorVariation / sectionNodes.length
+      colors[node.id] = colorScheme(colorIndex)
+    })
   })
 
-  data.colors = colors
+  return colors
 }

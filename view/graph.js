@@ -2,12 +2,22 @@
 let overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
 let synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
 let relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
+let colorVariation = parseFloat(document.querySelector("#color-variation").value)
+let data = null
 
 const handleStrength = () => {
   overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
   synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
   relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
   loadJSON()
+}
+
+const handleColorVariation = () => {
+  colorVariation = parseFloat(document.querySelector("#color-variation").value)
+  let colors = buildColors(data, colorVariation)
+
+  d3.selectAll("circle")
+    .style("fill", d => colors[d.id])
 }
 
 const cleanPrevious = () => {
@@ -99,16 +109,18 @@ const cleanData = (fileData) => {
 }
 
 const buildGraph = (fileData) => {
-  cleanPrevious()
-
   let idToLabel = getIdToLabel(fileData)
-  const data = {
+  let colors = null
+
+  cleanPrevious()
+  
+  data = {
     nodes: buildNodes(idToLabel),
     relationshipLinks: buildRelationshipLinks(fileData, idToLabel),
     synonymLinks: buildSynonymLinks(fileData, idToLabel)
   }
   removeDuplicates(data)
-  buildColors(data)
+  colors = buildColors(data, colorVariation)
 
   console.log(data)
 
@@ -156,7 +168,7 @@ const buildGraph = (fileData) => {
       .attr("stroke", "black")
       .attr("stroke-width", "2")
       .attr("data-info", d => d.text)
-      .style("fill", d => data.colors[d.id])
+      .style("fill", d => colors[d.id])
       .on("mouseover", showInfo)
 
   const nodeLabel = nodes
