@@ -20,7 +20,7 @@ class Encoder:
         text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
         preprocessor = KerasLayer(self.tfhub_preprocess_url)
         encoder_inputs = preprocessor(text_input)
-        encoder = KerasLayer(self.tfhub_handle_encoder[size])
+        encoder = KerasLayer(self.tfhub_encoder_urls[size])
         outputs = encoder(encoder_inputs)
 
         self.preprocessor: KerasLayer = preprocessor

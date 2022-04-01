@@ -1,5 +1,6 @@
 from typing import Dict, Union
 import pandas as pd
+import tensorflow as tf
 
 from src.encoder import Encoder
 from src.entity import Entity
@@ -8,10 +9,10 @@ from src.link import Link
 
 
 class Graph:
-    def __init__(self, filepaths=None, encoder_size="small", ratio=0.9):
+    def __init__(self, filepaths=None, encoder=None):
         self.filepaths: Union[list[str], None] = filepaths
-        self.encoder: Encoder = Encoder(encoder_size, ratio)
-        self.entities: Dict[str, str] = {}
+        self.encoder: Encoder = encoder
+        self.entities: Dict[str, Entity] = {}
         self.triples: list[Triple] = []
         self.links: list[Link] = []
 
@@ -38,6 +39,9 @@ class Graph:
             return self.entities[entity_id]
         return self.add_entity(entity_id, entity_text)
     
+    def add_encoder(self, encoder):
+        self.encoder = encoder
+
     def add_entity(self, id, text):
         new_entity = Entity(id, text)
         self.entities[id] = new_entity
@@ -50,7 +54,7 @@ class Graph:
 
     def add_link(self, entity_a, entity_b):
         new_link = Link(entity_a, entity_b)
-        self.triples.append(new_link)
+        self.links.append(new_link)
         return new_link
 
     def build_entity_encodings(self):
@@ -58,3 +62,14 @@ class Graph:
         for triple, subject_encoding, object_encoding in zip(self.triples, subject_encodings, object_encodings):
             triple.subject.add_encoding(subject_encoding)
             triple.object.add_encoding(object_encoding)
+
+    def build_links(self, threshold):
+        self.links = []
+        entities = list(self.entities.values())
+        for i, entity_a in enumerate(entities):
+            for entity_b in entities[i+1:]:
+                normalized_a = tf.nn.l2_normalize(entity_a.encoding, 0)        
+                normalized_b = tf.nn.l2_normalize(entity_b.encoding, 0)
+                cosine = tf.reduce_sum(tf.multiply(normalized_a, normalized_b)).numpy()
+                if cosine >= threshold:
+                    self.add_link(entity_a, entity_b)
