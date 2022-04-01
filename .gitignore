@@ -15,3 +15,5 @@ venv
 
 data/*
 !data/README.md
+__pycache__/
+src/__pycache__/
