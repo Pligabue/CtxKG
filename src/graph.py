@@ -1,6 +1,7 @@
 from typing import Dict, Union
 import pandas as pd
 import tensorflow as tf
+import json
 
 from src.encoder import Encoder
 from src.entity import Entity
@@ -41,6 +42,7 @@ class Graph:
     
     def add_encoder(self, encoder):
         self.encoder = encoder
+        return self
 
     def add_entity(self, id, text):
         new_entity = Entity(id, text)
@@ -62,6 +64,7 @@ class Graph:
         for triple, subject_encoding, object_encoding in zip(self.triples, subject_encodings, object_encodings):
             triple.subject.add_encoding(subject_encoding)
             triple.object.add_encoding(object_encoding)
+        return self
 
     def build_links(self, threshold):
         self.links = []
@@ -73,3 +76,28 @@ class Graph:
                 cosine = tf.reduce_sum(tf.multiply(normalized_a, normalized_b)).numpy()
                 if cosine >= threshold:
                     self.add_link(entity_a, entity_b)
+        return self
+
+    def get_linked_entities(self, entity):
+        return [l.entity_a if l.entity_b is entity else l.entity_b for l in self.links if l.entity_a is entity or l.entity_b is entity]
+
+    def save_json(self, filepath):
+        graph_json = {
+            "documents": self.filepaths,
+            "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
+            "graph": [{"subject_id": triple.subject.id, "relation": triple.relation, "object": triple.object.id} for triple in self.triples],
+            "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
+        }
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(graph_json, f, indent=2)
+
+    def number_of_appearences(self, entity):
+        return len([triple for triple in self.triples if triple.includes_entity(entity)])
+
+    def replace_entity(self, original, replacement):
+        del self.entities[original.id]
+        for triple in self.triples:
+            triple.replace_entity(original, replacement)
+
+    def clean(self):
+        pass
