@@ -14,11 +14,14 @@ class Triple:
     def includes_entity(self, entity):
         return self.subject is entity or self.object is entity
 
-    def replace_entity(self, original, replacement):
+    def replace_entity(self, original: Entity, replacement: Entity):
         if original is self.subject:
             self.subject = replacement
         if original is self.object:
             self.object = replacement
+
+    def __eq__(self, o):
+        return self.subject is o.subject and self.relation == o.relation and self.object is o.object
 
     def __repr__(self):
         return f"<Triple {self.confidence} {self.subject} {self.relation} {self.object}>"

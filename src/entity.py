@@ -14,5 +14,8 @@ class Entity:
             self.encoding = (self.encoding * self.encoding_count + encoding) / (self.encoding_count + 1)
         self.encoding_count += 1
 
+    def is_named_entity(self):
+        return self.id.startswith("NE-")
+
     def __repr__(self):
         return f'<Entity "{self.text}">'

@@ -18,7 +18,7 @@ class Graph:
         self.links: list[Link] = []
 
     @staticmethod
-    def from_csv(filepath):
+    def from_csv(filepath: str):
         graph = Graph([filepath])
         df = pd.read_csv(filepath, sep=";")
         for i, row in df.iterrows():
@@ -35,7 +35,7 @@ class Graph:
         return graph
 
     @staticmethod
-    def from_json(filepath):
+    def from_json(filepath: str):
         graph = Graph([filepath])
         with open(filepath) as f:
             graph_json = json.load(f)
@@ -54,34 +54,34 @@ class Graph:
                         graph.add_link(entity, linked_entity)
         return graph
 
-    def get_entity_by_id(self, entity_id, entity_text=""):
+    def get_entity_by_id(self, entity_id: str, entity_text=""):
         if entity_id in self.entities:
             return self.entities[entity_id]
         return self.add_entity(entity_id, entity_text)
     
-    def add_encoder(self, encoder):
+    def add_encoder(self, encoder: Encoder):
         self.encoder = encoder
         return self
 
-    def add_entity(self, id, text):
+    def add_entity(self, id: str, text: str):
         new_entity = Entity(id, text)
         self.entities[id] = new_entity
         return new_entity
 
-    def add_triple(self, subject, relation_text, object, confidence=1.0):
+    def add_triple(self, subject: Entity, relation_text: str, object: Entity, confidence=1.0):
         new_triple = Triple(subject, relation_text, object, confidence=confidence)
         self.triples.append(new_triple)
         return new_triple
 
-    def add_link(self, entity_a, entity_b):
+    def add_link(self, entity_a: Entity, entity_b: Entity):
         new_link = Link(entity_a, entity_b)
         self.links.append(new_link)
         return new_link
 
-    def get_linked_entities(self, entity):
+    def get_linked_entities(self, entity: Entity):
         return [l.entity_a if l.entity_b is entity else l.entity_b for l in self.links if l.entity_a is entity or l.entity_b is entity]
 
-    def link_exists(self, entity_a, entity_b):
+    def link_exists(self, entity_a: Entity, entity_b: Entity):
         return entity_b in self.get_linked_entities(entity_a)
 
     def build_entity_encodings(self):
@@ -91,7 +91,7 @@ class Graph:
             triple.object.add_encoding(object_encoding)
         return self
 
-    def build_links(self, threshold):
+    def build_links(self, threshold: float):
         self.links = []
         entities = list(self.entities.values())
         for i, entity_a in enumerate(entities):
@@ -103,7 +103,7 @@ class Graph:
                     self.add_link(entity_a, entity_b)
         return self
 
-    def save_json(self, filepath):
+    def save_json(self, filepath: str):
         graph_json = {
             "documents": self.filepaths,
             "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
@@ -116,31 +116,36 @@ class Graph:
     def number_of_appearences(self, entity):
         return len([triple for triple in self.triples if triple.includes_entity(entity)])
 
-    def get_replacement(self, pool, sorted_by_appearences):
+    def get_replacement(self, pool: list[Entity], sorted_by_appearences: list[Entity]):
         for entity in sorted_by_appearences:
             if entity in pool:
                 return entity
         return None
 
-    def replace_entity(self, original, replacement):
-        del self.entities[original.id]
+    def replace_entity_in_triples(self, original: Entity, replacement: Entity):
         for triple in self.triples:
             triple.replace_entity(original, replacement)
 
-    def clean(self):
-        sorted_entities = sorted(self.entities.values(), key=lambda entity: self.number_of_appearences(entity), reverse=True)
+    def get_first_appearance(self, target_triple: Triple):
         for triple in self.triples:
-            subject_pool = [triple.subject] + self.get_linked_entities(triple.subject)
-            subject_replacement = self.get_replacement(subject_pool, sorted_entities)
-            if subject_replacement is not triple.subject and subject_replacement is not None:
-                self.replace_entity(triple.subject, subject_replacement)
-                sorted_entities.remove(triple.subject)
+            if triple == target_triple:
+                return triple
+        return None
 
-            object_pool = [triple.object] + self.get_linked_entities(triple.object)
-            object_replacement = self.get_replacement(object_pool, sorted_entities)
-            if object_replacement is not triple.object and object_replacement is not None:
-                self.replace_entity(triple.object, object_replacement)
-                sorted_entities.remove(triple.object)
+    def remove_duplicates(self):
+        self.triples = [triple for triple in self.triples if triple is self.get_first_appearance(triple)]
+        self.triples = [triple for triple in self.triples if triple.subject is not triple.object]
+
+    def clean(self):
+        entity_list = list(self.entities.values())
+        sorted_entities = sorted(entity_list, key=lambda entity: (entity.is_named_entity(), self.number_of_appearences(entity)), reverse=True)
+        for entity in entity_list:
+            entity_pool = [entity] + self.get_linked_entities(entity)
+            replacement = self.get_replacement(entity_pool, sorted_entities)
+            if entity is not replacement:
+                self.replace_entity_in_triples(entity, replacement)
+                self.links = [link for link in self.links if link.entity_a is not entity and link.entity_b is not entity]
+                del self.entities[entity.id]
+        self.remove_duplicates()
         self.links = []
-
         return self
