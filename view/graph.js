@@ -40,39 +40,29 @@ const showInfo = (e) => {
   d3.select("#info").text(e.target.dataset.info)
 }
 
-const getIdToLabel = (fileData) => {
-  let idToLabel = {}
-  fileData.forEach(node => {
-    idToLabel[node.subject_id] = node.subject
-    idToLabel[node.object_id] = node.object
-  })
-  return idToLabel
-}
-
 const buildNodes = (idToLabel) => {
   return Object.keys(idToLabel).map(id => ({ id: id, text: idToLabel[id] }))
 }
 
 const buildRelationshipLinks = (fileData, idToLabel) => {
-  return fileData.map(node => ({
+  return fileData.graph.map(node => ({
     source: node.subject_id,
     relation: node.relation,
     target: node.object_id,
-    sourceText: node.subject,
-    targetText: node.object
+    sourceText: idToLabel[node.subject_id],
+    targetText: idToLabel[node.object_id]
   }))
 }
 
-const buildSynonymLinks = (fileData, idToLabel) => {
-  let subjectSynonymLinks = fileData.map(node => {
-    return node.subject_links.map(link => ({ source: node.subject_id, target: link, sourceText: node.subject, targetText: idToLabel[link] }))
-  }).flat()
-  
-  let objectSynonymLinks = fileData.map(node => {
-    return node.object_links.map(link => ({ source: node.object_id, target: link, sourceText: node.object, targetText: idToLabel[link] }))
-  }).flat()
-
-  return [...subjectSynonymLinks, ...objectSynonymLinks]
+const buildSynonymLinks = (fileData, idToLabel) => {  
+  return Object.entries(fileData.links).map(([entity_id, link_ids]) => (
+    link_ids.map(link_id => ({
+      source: entity_id,
+      target: link_id,
+      sourceText: idToLabel[entity_id],
+      targetText: idToLabel[link_id]
+    }))
+  )).flat()
 }
 
 const getIndexOfLink = (links, entityOne, entityTwo) => {
@@ -84,36 +74,10 @@ const removeDuplicates = (data) => {
   data.synonymLinks = data.synonymLinks.filter(link => getIndexOfLink(data.relationshipLinks, link.source, link.target) === -1)
 }
 
-const cleanData = (fileData) => {
-  let cleanedData = fileData
-
-  if (!Array.isArray(fileData)) {
-    if (cleanedData.nodes) {
-      cleanedData = cleanedData.nodes
-    } else {
-      console.error("NODES MISSING")
-      return cleanedData
-    }
-  }
-
-  for (node of cleanedData) {
-    if (node.subject_links === undefined) {
-      node.subject_links = []
-    }
-    if (node.object_links === undefined) {
-      node.object_links = []
-    }
-  }
-
-  return cleanedData
-}
-
 const buildGraph = (fileData) => {
-  let idToLabel = getIdToLabel(fileData)
-  let colors = null
+  let idToLabel = fileData.entities
 
   cleanPrevious()
-  
   data = {
     nodes: buildNodes(idToLabel),
     relationshipLinks: buildRelationshipLinks(fileData, idToLabel),
@@ -216,13 +180,7 @@ const loadJSON = function() {
     reader.onload = function(e) {
       let jsonString = e.target.result
       let fileData = JSON.parse(jsonString)
-      let filenames = file.name.split(".").slice(0, -1).join(".")
-      if (fileData.filenames) {
-        filenames = fileData.filenames.join(", ")
-      }
-      d3.select(".filenames").text(filenames)
-      let cleanedData = cleanData(fileData)
-      buildGraph(cleanedData)
+      buildGraph(fileData)
     }
     reader.readAsText(file, "utf-8")
   }
