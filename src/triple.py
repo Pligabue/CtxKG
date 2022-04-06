@@ -20,7 +20,7 @@ class Triple:
         if original is self.object:
             self.object = replacement
 
-    def __eq__(self, o):
+    def __eq__(self, o: "Triple"):
         return self.subject is o.subject and self.relation == o.relation and self.object is o.object
 
     def __repr__(self):

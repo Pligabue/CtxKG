@@ -2,6 +2,7 @@ from typing import Dict, Union
 import pandas as pd
 import tensorflow as tf
 import json
+from pathlib import Path
 
 from src.encoder import Encoder
 from src.entity import Entity
@@ -36,9 +37,10 @@ class Graph:
 
     @staticmethod
     def from_json(filepath: str):
-        graph = Graph([filepath])
+        graph = Graph()
         with open(filepath) as f:
             graph_json = json.load(f)
+            graph.filepaths = graph_json["documents"]
             for id, text in graph_json["entities"].items():
                 graph.add_entity(id, text)
             for node in graph_json["graph"]:
@@ -53,6 +55,20 @@ class Graph:
                     if not graph.link_exists(entity, linked_entity):
                         graph.add_link(entity, linked_entity)
         return graph
+
+    @staticmethod
+    def from_graphs(graphs: list["Graph"]):
+        merged_graph = Graph([filepath for graph in graphs for filepath in graph.filepaths])
+        merged_graph.entities = {}
+        for graph in graphs:
+            merged_graph.entities = merged_graph.entities | graph.entities
+        for graph in graphs:
+            for triple in graph.triples:
+                subject = merged_graph.get_entity_by_id(triple.subject.id)
+                relation = triple.relation
+                object = merged_graph.get_entity_by_id(triple.object.id)
+                merged_graph.add_triple(subject, relation, object)
+        return merged_graph
 
     def get_entity_by_id(self, entity_id: str, entity_text=""):
         if entity_id in self.entities:
@@ -105,13 +121,14 @@ class Graph:
 
     def save_json(self, filepath: str):
         graph_json = {
-            "documents": self.filepaths,
+            "documents": [str(Path(filepath).resolve()) for filepath in self.filepaths],
             "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
             "graph": [{"subject_id": triple.subject.id, "relation": triple.relation, "object_id": triple.object.id} for triple in self.triples],
             "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
         }
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(graph_json, f, indent=2)
+        return self
 
     def number_of_appearences(self, entity):
         return len([triple for triple in self.triples if triple.includes_entity(entity)])
