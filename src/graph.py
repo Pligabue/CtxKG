@@ -11,7 +11,7 @@ from src.link import Link
 
 
 class Graph:
-    def __init__(self, filepaths=None, encoder=None):
+    def __init__(self, filepaths: Union[list[str], None] = None, encoder: Union[Encoder, None] = None):
         self.filepaths: Union[list[str], None] = filepaths
         self.encoder: Encoder = encoder
         self.entities: Dict[str, Entity] = {}
@@ -19,8 +19,8 @@ class Graph:
         self.links: list[Link] = []
 
     @staticmethod
-    def from_csv(filepath: str):
-        graph = Graph([filepath])
+    def from_csv(filepath: str, encoder: Union[Encoder, None] = None):
+        graph = Graph([filepath], encoder)
         df = pd.read_csv(filepath, sep=";")
         for i, row in df.iterrows():
             confidence = row["confidence"]
@@ -36,8 +36,8 @@ class Graph:
         return graph
 
     @staticmethod
-    def from_json(filepath: str):
-        graph = Graph()
+    def from_json(filepath: str, encoder: Union[Encoder, None] = None):
+        graph = Graph(None, encoder)
         with open(filepath) as f:
             graph_json = json.load(f)
             graph.filepaths = graph_json["documents"]
@@ -57,8 +57,8 @@ class Graph:
         return graph
 
     @staticmethod
-    def from_graphs(graphs: list["Graph"]):
-        merged_graph = Graph([filepath for graph in graphs for filepath in graph.filepaths])
+    def from_graphs(graphs: list["Graph"], encoder: Union[Encoder, None] = None):
+        merged_graph = Graph([filepath for graph in graphs for filepath in graph.filepaths], encoder)
         merged_graph.entities = {}
         for graph in graphs:
             merged_graph.entities = merged_graph.entities | graph.entities
@@ -101,22 +101,21 @@ class Graph:
         return entity_b in self.get_linked_entities(entity_a)
 
     def build_entity_encodings(self):
-        subject_encodings, object_encodings = self.encoder.get_entity_encodings(self.triples)
-        for triple, subject_encoding, object_encoding in zip(self.triples, subject_encodings, object_encodings):
-            triple.subject.add_encoding(subject_encoding)
-            triple.object.add_encoding(object_encoding)
+        self.encoder.build_entity_encodings(self.triples)
         return self
 
     def build_links(self, threshold: float):
         self.links = []
         entities = list(self.entities.values())
-        for i, entity_a in enumerate(entities):
-            for entity_b in entities[i+1:]:
-                normalized_a = tf.nn.l2_normalize(entity_a.encoding, 0)        
-                normalized_b = tf.nn.l2_normalize(entity_b.encoding, 0)
-                cosine = tf.reduce_sum(tf.multiply(normalized_a, normalized_b)).numpy()
-                if cosine >= threshold:
-                    self.add_link(entity_a, entity_b)
+        for i, entity in enumerate(entities[:-1]):
+            pool = entities[i+1:]
+            normalized_entity = tf.math.l2_normalize([entity.encoding], 1)
+            normalized_pool = tf.math.l2_normalize([e.encoding for e in pool], 1)
+            similarity = tf.linalg.matmul(normalized_entity, normalized_pool, transpose_b=True).numpy()
+            similarity_mask = similarity[0] >= threshold
+            for candidate_link, should_link in zip(pool, similarity_mask):
+                if should_link:
+                    self.add_link(entity, candidate_link)
         return self
 
     def save_json(self, filepath: str):

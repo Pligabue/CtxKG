@@ -4,6 +4,7 @@ from tensorflow.keras import Model
 from tensorflow_hub import KerasLayer
 import tensorflow_text as text
 
+from src.triple import Triple
 
 class Encoder:
     SEP_ID = 102
@@ -27,7 +28,7 @@ class Encoder:
         self.sequence_model: Model = Model(text_input, outputs["sequence_output"])
         self.cls_model: Model = Model(text_input, outputs["pooled_output"])
 
-    def get_entity_encodings(self, triples):
+    def build_entity_encodings(self, triples: list[Triple]):
         subject_inputs = tf.constant([triple.subject.text for triple in triples])
         object_inputs = tf.constant([triple.object.text for triple in triples])
         triples_inputs = tf.constant([triple.to_text() for triple in triples])
@@ -38,9 +39,7 @@ class Encoder:
 
         triple_encodings = self.sequence_model(triples_inputs)
 
-        subject_encodings = []
-        object_encodings = []
-        for t_end, sub_end, obj_start, encoding in zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings):
+        for t_end, sub_end, obj_start, encoding, triple in zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings, triples):
             base_subject_encoding = tf.reduce_mean(encoding[1:sub_end], 0)
             base_object_encoding = tf.reduce_mean(encoding[obj_start:t_end], 0)
             cls_encodings = encoding[0]
@@ -48,7 +47,7 @@ class Encoder:
             subject_encoding = tf.add(base_subject_encoding * self.ratio, cls_encodings * (1 - self.ratio))
             object_encoding = tf.add(base_object_encoding * self.ratio, cls_encodings * (1 - self.ratio))
 
-            subject_encodings.append(subject_encoding)
-            object_encodings.append(object_encoding)
+            triple.subject.add_encoding(subject_encoding)
+            triple.object.add_encoding(object_encoding)
 
-        return subject_encodings, object_encodings
+        return self
