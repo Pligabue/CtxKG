@@ -6,6 +6,7 @@ open_ie/*
 
 documents/*.txt
 triples/*.txt
+triples/*.csv
 kg_nodes*/
 results/*.txt
 results/*.json

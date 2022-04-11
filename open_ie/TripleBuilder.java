@@ -43,12 +43,12 @@ public class TripleBuilder {
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,depparse,coref,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
-        File folder = new File("./documents/");
+        File folder = new File("documents/");
         FilenameFilter filter = new FilenameFilter() {
             @Override
             public boolean accept(File f, String name) {
                 boolean isTXT = name.endsWith(".txt");
-                boolean tripleExists = (new File("./triples/" + name)).exists();
+                boolean tripleExists = (new File("triples/" + name.replace(".txt", ".csv"))).exists();
                 
                 return isTXT && !tripleExists;
             }
@@ -58,9 +58,10 @@ public class TripleBuilder {
         for (File f : files) {
             try {
                 Scanner reader = new Scanner(f, "utf-8");
-                FileWriter writer = new FileWriter("./triples/" + f.getName());
-                String tripleText = "confidence;subject;relation;object;subject_id;object_id\n";
+                FileWriter writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
                 String prefix = UUID.randomUUID().toString();
+                String tripleText = "# " + f.getAbsolutePath() + "\n" +
+                                    "confidence;subject;relation;object;subject_id;object_id\n";
 
                 while (reader.hasNextLine()) {
                     String line = reader.nextLine();
