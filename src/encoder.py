@@ -15,7 +15,7 @@ class Encoder:
         "small": "https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/2"
     }
 
-    def __init__(self, size="small", ratio=0.9):
+    def __init__(self, size="small", ratio=1.0):
         self.ratio: float = ratio
 
         text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
