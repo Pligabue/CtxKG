@@ -3,6 +3,7 @@ import pandas as pd
 import tensorflow as tf
 import json
 from pathlib import Path
+import re
 
 from src.encoder import Encoder
 from src.entity import Entity
@@ -20,23 +21,25 @@ class Graph:
 
     @staticmethod
     def from_csv(filepath: str, encoder: Union[Encoder, None] = None):
-        graph = Graph([filepath], encoder)
-        df = pd.read_csv(filepath, sep=";")
-        for i, row in df.iterrows():
-            confidence = row["confidence"]
-            subject_text = row["subject"]
-            relation = row["relation"]
-            object_text = row["object"]
-            subject_id = row["subject_id"]
-            object_id = row["object_id"]
+        graph = Graph(None, encoder)
+        with open(filepath) as f:
+            graph.filepaths = [re.match(r"# (?P<filepath>.*)", f.readline())["filepath"]]
+            df = pd.read_csv(f, sep=";", comment="#")
+            for i, row in df.iterrows():
+                confidence = row["confidence"]
+                subject_text = row["subject"]
+                relation = row["relation"]
+                object_text = row["object"]
+                subject_id = row["subject_id"]
+                object_id = row["object_id"]
 
-            subject = graph.get_entity_by_id(subject_id, subject_text)
-            object = graph.get_entity_by_id(object_id, object_text)
-            graph.add_triple(subject, relation, object, confidence=confidence) 
+                subject = graph.get_entity_by_id(subject_id, subject_text)
+                object = graph.get_entity_by_id(object_id, object_text)
+                graph.add_triple(subject, relation, object, confidence=confidence) 
         return graph
 
     @staticmethod
-    def from_json(filepath: str, encoder: Union[Encoder, None] = None):
+    def from_json(filepath: Union[str, Path], encoder: Union[Encoder, None] = None):
         graph = Graph(None, encoder)
         with open(filepath) as f:
             graph_json = json.load(f)
@@ -118,9 +121,9 @@ class Graph:
                     self.add_link(entity, candidate_link)
         return self
 
-    def save_json(self, filepath: str):
+    def save_json(self, filepath: Union[str, Path]):
         graph_json = {
-            "documents": [str(Path(filepath).resolve()) for filepath in self.filepaths],
+            "documents": self.filepaths,
             "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
             "graph": [{"subject_id": triple.subject.id, "relation": triple.relation, "object_id": triple.object.id} for triple in self.triples],
             "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
