@@ -18,8 +18,12 @@ const buildColors = (data, colorVariation) => {
   sections.forEach((section, baseIndex) => {
     let sectionNodes = data.nodes.filter(node => node.id.startsWith(section)).sort()
     sectionNodes.forEach((node, offsetIndex) => {
-      let colorIndex = baseIndex + offsetIndex * colorVariation / sectionNodes.length
-      colors[node.id] = colorScheme(colorIndex)
+      if (section === "NE") {
+        colors[node.id] = "#ffffff"
+      } else {
+        let colorIndex = baseIndex + offsetIndex * colorVariation / sectionNodes.length
+        colors[node.id] = colorScheme(colorIndex)
+      }
     })
   })
 
