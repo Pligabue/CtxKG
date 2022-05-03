@@ -3,31 +3,34 @@ import json
 
 import tensorflow as tf
 
-from build_kg_nodes import get_models, get_similarity_matrix
+from src.encoder import Encoder
 from cli_args import SIZE, MATCH
+
+def read_json(file):
+    with open(file, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 def read_file(file):
     with open(file, "r", encoding="utf-8") as f:
         return f.read()
 
 def main():
-    DOC_DIR = Path('./documents')
     RESULTS_DIR = Path('./results')
-
     KG_NODE_DIRS = [dir for dir in RESULTS_DIR.glob(MATCH) if dir.is_dir()]
-
-    _, _, cls_model = get_models(size=SIZE)
+    encoder = Encoder(size=SIZE)
     
     for dir in KG_NODE_DIRS:
         base_dir = dir / "base"
-        filenames = [file.stem for file in base_dir.glob("*.json")]
-        docs = [read_file(file) for file in DOC_DIR.glob("*.txt") if file.stem in filenames]
+        doc_filenames = set([doc_file for file in base_dir.glob("*.json") for doc_file in read_json(file)["documents"]])
+        doc_files = [Path(filename) for filename in doc_filenames]
+        docs = [read_file(file) for file in doc_files]
 
-        doc_encodings = cls_model(tf.constant(docs))
-        similarity_matrix = get_similarity_matrix(doc_encodings)
+        doc_encodings = encoder.cls_model(tf.constant(docs))
+        normalized_encodings = tf.math.l2_normalize(doc_encodings, 1)
+        similarity_matrix = tf.linalg.matmul(normalized_encodings, normalized_encodings, transpose_b=True).numpy()
         
         data = {
-            "filenames": filenames,
+            "filenames": [str(file) for file in doc_files],
             "similarity_matrix": similarity_matrix.tolist()
         }
 
