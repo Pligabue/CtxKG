@@ -1,6 +1,6 @@
-open_ie/*
-!open_ie/README.md
-!open_ie/TripleBuilder.java
+openie/*
+!openie/README.md
+!openie/*.java
 
 *.pdf
 
