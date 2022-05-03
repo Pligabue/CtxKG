@@ -1,3 +1,4 @@
+import tensorflow as tf
 
 
 class Entity:
@@ -16,6 +17,9 @@ class Entity:
 
     def is_named_entity(self):
         return self.id.startswith("NE-")
+
+    def compare(self, other: "Entity"):
+        return tf.tensordot(tf.math.l2_normalize(self.encoding, 0), tf.math.l2_normalize(other.encoding, 0), 1).numpy()
 
     def __repr__(self):
         return f'<Entity "{self.text}">'
