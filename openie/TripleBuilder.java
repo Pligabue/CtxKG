@@ -1,7 +1,13 @@
+package openie;
+
+
+import openie.*;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.FileNotFoundException;
+import java.util.stream.Stream;
 import java.util.Scanner;
 import java.util.Collection;
 import java.util.Properties;
@@ -9,6 +15,9 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Optional;
 import java.util.UUID;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Arrays;
 import static java.util.stream.Collectors.*;
 
 import edu.stanford.nlp.ie.util.RelationTriple;
@@ -20,6 +29,15 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.naturalli.NaturalLogicAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.ling.CoreLabel;
+
+import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations.BasicDependenciesAnnotation;
+import edu.stanford.nlp.semgraph.SemanticGraph;
+import edu.stanford.nlp.semgraph.SemanticGraphEdge;
+import edu.stanford.nlp.ling.IndexedWord;
+
+import edu.stanford.nlp.coref.CorefCoreAnnotations;
+import edu.stanford.nlp.coref.data.CorefChain;
+import edu.stanford.nlp.coref.data.Mention;
 
 
 public class TripleBuilder {
@@ -59,64 +77,37 @@ public class TripleBuilder {
             try {
                 Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
-                String prefix = UUID.randomUUID().toString();
-                String tripleText = "# " + f.getAbsolutePath() + "\n" +
-                                    "confidence;subject;relation;object;subject_id;object_id\n";
+                UUID uniqueId = UUID.randomUUID();
+                String tripleText = Triple.getHeader(f.getAbsolutePath());
 
                 while (reader.hasNextLine()) {
                     String line = reader.nextLine();
                     CoreDocument doc = new CoreDocument(line);
                     pipeline.annotate(doc);
-                    List<CoreEntityMention> entityMentions= doc.entityMentions()
-                        .stream()
-                        .sorted((em1, em2)-> Integer.compare(em2.tokens().size(), em1.tokens().size()))
-                        .collect(toList());
+                    List<CoreEntityMention> entityMentions = doc.entityMentions();
 
                     for (CoreMap sentence : doc.annotation().get(CoreAnnotations.SentencesAnnotation.class)) {
+                        SemanticGraph graph = sentence.get(BasicDependenciesAnnotation.class);
                         Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
-                        for (RelationTriple triple : triples) {
-                            String tripleToAdd = null;
-                            String confidence = Double.toString(triple.confidence);
-                            String subject = triple.subjectGloss();
-                            String relation = triple.relationGloss();
-                            String object = triple.objectGloss();
-                            final String initialSubject = triple.subjectGloss();
-                            final String initialObject = triple.objectGloss();
-                            List<CoreLabel> subjectTokens = triple.canonicalSubject;
-                            List<CoreLabel> objectTokens = triple.canonicalObject;
-                            String subjectID = buildID(prefix, subjectTokens);
-                            String objectID = buildID(prefix, objectTokens);
-                            CoreEntityMention subjectNamedEntityMention = null;
-                            CoreEntityMention objectNamedEntityMention = null;
-                            Optional<CoreEntityMention> subjectNamedEntityMentionOptional = entityMentions.stream().filter(em -> initialSubject.contains(em.text())).findFirst();   
-                            Optional<CoreEntityMention> objectNamedEntityMentionOptional = entityMentions.stream().filter(em -> initialObject.contains(em.text())).findFirst();        
-
-                            if (subjectNamedEntityMentionOptional.isPresent()) {
-                                subjectNamedEntityMention = subjectNamedEntityMentionOptional.get();
-                                if (subject.equals(subjectNamedEntityMention.text())) {
-                                    subject = subjectNamedEntityMention.text();
-                                    subjectTokens = subjectNamedEntityMention.tokens();
-                                    subjectID = buildNamedEntityID(subjectNamedEntityMention);
-                                } else {
-                                    tripleToAdd = buildTripleRow("1.0", subject, "relates to", subjectNamedEntityMention.text(), subjectID, buildNamedEntityID(subjectNamedEntityMention));
-                                    if (isNewTriple(tripleText, tripleToAdd))
-                                        tripleText += tripleToAdd;
-                                }
-                            }
-                            if (objectNamedEntityMentionOptional.isPresent()) {
-                                objectNamedEntityMention = objectNamedEntityMentionOptional.get();
-                                if (object.equals(objectNamedEntityMention.text())) {
-                                    object = objectNamedEntityMention.text();
-                                    objectTokens = objectNamedEntityMention.tokens();
-                                    objectID = buildNamedEntityID(objectNamedEntityMention);
-                                } else {
-                                    tripleToAdd = buildTripleRow("1.0", object, "relates to", objectNamedEntityMention.text(), objectID, buildNamedEntityID(objectNamedEntityMention));
-                                    if (isNewTriple(tripleText, tripleToAdd))
-                                        tripleText += tripleToAdd;
-                                }
-                            }
-                            tripleText += buildTripleRow(confidence, subject, relation, object, subjectID, objectID);
+                        List<Entity> entities = getEntities(graph, triples, entityMentions, uniqueId);
+                        HashMap<List<CoreLabel>, Entity> tokensToEntity = getTokensToEntity(entities);
+                        HashMap<Entity, List<Entity>> entitySubsets = getEntitySubsets(entities);
+                        
+                        for (Map.Entry<Entity, List<Entity>> entitySubset : entitySubsets.entrySet()) {
+                            entitySubset.getKey().setSubset(entitySubset.getValue());
                         }
+
+                        List<String> allTriples = triples
+                            .stream()
+                            .map(t -> new Triple(tokensToEntity.get(t.subject), t.relationGloss(), tokensToEntity.get(t.object)))
+                            .flatMap(t -> t.buildAllTriples().stream())
+                            .filter(Triple::subjectAndObjectAreDifferent)
+                            .filter(Triple::notEmpty)
+                            .map(Triple::toString)
+                            .distinct()
+                            .toList();
+
+                        tripleText += allTriples.stream().reduce("", (acc, t) -> acc + t + "\n");
                     }
                 }
                 writer.write(tripleText);
@@ -124,25 +115,68 @@ public class TripleBuilder {
                 reader.close();
                 writer.close();
             } catch (FileNotFoundException e) {
-                    System.out.println("An error occurred.");
-                    e.printStackTrace();
+                System.out.println("An error occurred.");
+                e.printStackTrace();
             }
         }
     }
 
-    public static String buildID(String prefix, List<CoreLabel> tokens) {
-        return prefix + tokens.stream().reduce("", (acc, token) -> acc + "-" + token.toString(), String::concat);
+    public static List<Entity> getEntities(SemanticGraph baseGraph, Collection<RelationTriple> triples, List<CoreEntityMention> entityMentions, UUID uniqueId) {
+        List<Entity> entities = triples
+            .stream()
+            .flatMap(t ->
+                Arrays.asList(
+                    new Entity(t.subject, t.subjectGloss(), t.asDependencyTree().orElse(baseGraph), uniqueId), 
+                    new Entity(t.object, t.objectGloss(), t.asDependencyTree().orElse(baseGraph), uniqueId)
+                ).stream()
+            )
+            .distinct()
+            .collect(toList());
+        
+        entityMentions
+            .stream()
+            .filter(em -> !em.entityType().equals("NUMBER"))
+            .forEach(em -> {
+                long numberOfMatchingEntities = entities.stream().filter(e -> e.getTokens().equals(em.tokens())).count();
+                if (numberOfMatchingEntities > 0) {
+                    entities.stream().filter(e -> e.getTokens().equals(em.tokens())).forEach(e -> e.setNamedEntity(em));
+                } else {
+                    Entity e = Entity.fromEntityMention(em, baseGraph, uniqueId);
+                    entities.add(e);
+                }
+            });
+
+        return entities;
     }
 
-    public static String buildNamedEntityID(CoreEntityMention entityMention) {
-        return ("NE-" + entityMention.entityType() + "-" + entityMention.text()).replaceAll("\s+", "-");
+    public static HashMap<List<CoreLabel>, Entity> getTokensToEntity(List<Entity> entities) {
+        HashMap<List<CoreLabel>, Entity> tokensToEntity = new HashMap<>();
+        entities.forEach(e -> tokensToEntity.put(e.getTokens(), e));
+        return tokensToEntity;
     }
 
-    public static String buildTripleRow(String confidence, String subject, String relation, String object, String subjectID, String objectID) {
-        return confidence + ";" + subject + ";" + relation + ";" + object + ";" + subjectID + ";" + objectID + "\n";
-    }
+    public static HashMap<Entity, List<Entity>> getEntitySubsets(List<Entity> entities) {
+        HashMap<Entity, List<Entity>> entitySubset = new HashMap<>();
+        
+        for (Entity entity : entities) {
+            List<Entity> subset = entities
+                .stream()
+                .filter(e -> entity.getTokens().containsAll(e.getTokens()) && !entity.equals(e))
+                .collect(toList());
+            entitySubset.put(entity, subset);
+        }
 
-    public static boolean isNewTriple(String tripleText, String tripleToAdd) {
-        return !tripleText.contains(tripleToAdd);
+        for (Entity entity : entities) {
+            List<Entity> subset = entitySubset.get(entity);
+            List<Entity> overlap = new ArrayList<>();
+            for (Entity subsetEntity : subset) {
+                List<Entity> secondDegreeSubset = entitySubset.get(subsetEntity);
+                List<Entity> subsetEntityOverlap = subset.stream().filter(secondDegreeSubset::contains).collect(toList());
+                overlap.addAll(subsetEntityOverlap);
+            }
+            entitySubset.put(entity, subset.stream().filter(e -> !overlap.contains(e)).collect(toList()));
+        }
+
+        return entitySubset;
     }
 }
