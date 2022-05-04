@@ -170,7 +170,7 @@ public class TripleBuilder {
         for (Entity entity : entities) {
             List<Entity> subset = entities
                 .stream()
-                .filter(e -> entity.getTokens().containsAll(e.getTokens()) && !entity.equals(e))
+                .filter(e -> entity.getTokens().containsAll(e.getTokens()) && entity.getTokens().size() > e.getTokens().size())
                 .collect(toList());
             entitySubset.put(entity, subset);
         }
