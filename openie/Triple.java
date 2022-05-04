@@ -69,8 +69,29 @@ public class Triple {
         return this.confidence + ";" + finalSubject.getText() + ";" + this.relation + ";" + finalObject.getText() + ";" + finalSubject.getId() + ";" + finalObject.getId();
     }
 
+    public static String findRelation(Entity subject, Entity object, SemanticGraph graph) {
+        String relation = null;
+        List<CoreLabel> subjectTokens = subject.getTokens();
+        List<CoreLabel> objectTokens = object.getTokens();
+
+        for (SemanticGraphEdge edge : graph.edgeIterable()) {
+            CoreLabel source = edge.getSource().backingLabel();
+            CoreLabel target = edge.getTarget().backingLabel();
+            if (subjectTokens.contains(source) && objectTokens.contains(target)) {
+                relation = edge.getRelation().getShortName();
+                break;
+            }
+        }
+        return relation;
+    }
+    
     public static Triple buildTriple(Entity subject, Entity object, SemanticGraph graph) {
-        String relation = Optional.ofNullable(findRelation(subject, object, graph)).orElse(defaultRelation);
+        String relation = findRelation(subject, object, graph);
+
+        if (relation == null) {
+            return null;
+        }
+
         switch (relation) {
             case "advmod":
             case "advmod:emph":
@@ -145,21 +166,5 @@ public class Triple {
             default:
                 return new Triple(subject, relation, object);
         }
-    }
-
-    private static String findRelation(Entity subject, Entity object, SemanticGraph graph) {
-        String relation = null;
-        List<CoreLabel> subjectTokens = subject.getTokens();
-        List<CoreLabel> objectTokens = object.getTokens();
-
-        for (SemanticGraphEdge edge : graph.edgeIterable()) {
-            CoreLabel source = edge.getSource().backingLabel();
-            CoreLabel target = edge.getTarget().backingLabel();
-            if (subjectTokens.contains(source) && objectTokens.contains(target)) {
-                relation = edge.getRelation().getShortName();
-                break;
-            }
-        }
-        return relation;
     }
 }

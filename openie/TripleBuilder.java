@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Optional;
 import java.util.UUID;
+import java.util.function.Function;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
@@ -71,8 +72,11 @@ public class TripleBuilder {
                 return isTXT && !tripleExists;
             }
         };
-        File[] files = folder.listFiles(filter);
 
+        File[] files = folder.listFiles(filter);
+        int numberOfFiles = files.length;
+        int fileIndex = 0;
+        printProgress(fileIndex, numberOfFiles);
         for (File f : files) {
             try {
                 Scanner reader = new Scanner(f, "utf-8");
@@ -90,8 +94,8 @@ public class TripleBuilder {
                         SemanticGraph graph = sentence.get(BasicDependenciesAnnotation.class);
                         Collection<RelationTriple> triples = sentence.get(NaturalLogicAnnotations.RelationTriplesAnnotation.class);
                         List<Entity> entities = getEntities(graph, triples, entityMentions, uniqueId);
-                        HashMap<List<CoreLabel>, Entity> tokensToEntity = getTokensToEntity(entities);
-                        HashMap<Entity, List<Entity>> entitySubsets = getEntitySubsets(entities);
+                        Map<List<CoreLabel>, Entity> tokensToEntity = entities.stream().collect(toMap(Entity::getTokens, Function.identity()));
+                        Map<Entity, List<Entity>> entitySubsets = getEntitySubsets(entities);
                         
                         for (Map.Entry<Entity, List<Entity>> entitySubset : entitySubsets.entrySet()) {
                             entitySubset.getKey().setSubset(entitySubset.getValue());
@@ -107,7 +111,7 @@ public class TripleBuilder {
                             .distinct()
                             .toList();
 
-                        tripleText += allTriples.stream().reduce("", (acc, t) -> acc + t + "\n");
+                        tripleText += allTriples.stream().collect(joining("\n")) + "\n";
                     }
                 }
                 writer.write(tripleText);
@@ -118,7 +122,10 @@ public class TripleBuilder {
                 System.out.println("An error occurred.");
                 e.printStackTrace();
             }
+            fileIndex++;
+            printProgress(fileIndex, numberOfFiles);
         }
+        System.out.println();
     }
 
     public static List<Entity> getEntities(SemanticGraph baseGraph, Collection<RelationTriple> triples, List<CoreEntityMention> entityMentions, UUID uniqueId) {
@@ -142,26 +149,18 @@ public class TripleBuilder {
             .filter(em -> !em.entityType().equals("NUMBER"))
             .map(em -> Entity.fromEntityMention(em, uniqueId))
             .forEach(me -> {
-                baseEntities
-                    .stream()
-                    .filter(be -> be.getTokens().containsAll(me.getTokens()))
-                    .forEach(be -> {
-                        if (be.getTokens().equals(me.getTokens())) {
-                            be.setNamedEntity(me.getMention());
-                        } else if (!allEntities.contains(me)) {
-                            me.setGraph(be.getGraph());
-                            allEntities.add(me);
-                        }
-                    });
+                Optional<Entity> exactMatch = baseEntities.stream().filter(be -> be.getTokens().equals(me.getTokens())).findAny();
+                Optional<Entity> containsMatch = baseEntities.stream().filter(be -> be.getTokens().containsAll(me.getTokens())).findAny();
+
+                if (exactMatch.isPresent()) {
+                    exactMatch.get().setNamedEntity(me.getMention());
+                } else if (containsMatch.isPresent()) {
+                    me.setGraph(containsMatch.get().getGraph());
+                    allEntities.add(me);
+                }
             });
 
         return allEntities;
-    }
-
-    public static HashMap<List<CoreLabel>, Entity> getTokensToEntity(List<Entity> entities) {
-        HashMap<List<CoreLabel>, Entity> tokensToEntity = new HashMap<>();
-        entities.forEach(e -> tokensToEntity.put(e.getTokens(), e));
-        return tokensToEntity;
     }
 
     public static HashMap<Entity, List<Entity>> getEntitySubsets(List<Entity> entities) {
@@ -187,5 +186,13 @@ public class TripleBuilder {
         }
 
         return entitySubset;
+    }
+
+    public static void printProgress(int current, int size) {
+        int totalSections = 50;
+        int filledSections = (totalSections * current) / size;
+        int emptySections = totalSections - filledSections;
+        int percentage = (100 * current) / size;
+        System.out.print("\r[" + "#".repeat(filledSections) + " ".repeat(emptySections) + "] " + current + "/" + size + " " + percentage + "%");
     }
 }
