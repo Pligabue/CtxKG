@@ -149,6 +149,14 @@ public class Entity {
         return this.tags;
     }
 
+    public CoreEntityMention getMention() {
+        return this.mention;
+    }
+
+    public SemanticGraph getGraph() {
+        return this.graph;
+    }
+
     public Integer getTreeLevel() {
         if (this.treeLevel == null) {
             this.treeLevel = calculateTreeLevel(this.graph.getRoots(), 0);
@@ -183,6 +191,11 @@ public class Entity {
 
     public Entity setSubset(List<Entity> subset) {
         this.subset = subset;
+        return this;
+    }
+
+    public Entity setGraph(SemanticGraph graph) {
+        this.graph = graph;
         return this;
     }
 
