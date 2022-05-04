@@ -43,8 +43,8 @@ public class Entity {
         this.tags = null;
     }
 
-    public static Entity fromEntityMention(CoreEntityMention mention, SemanticGraph graph, UUID groupId) {
-        return new Entity(mention.tokens(), mention.text(), graph, groupId).setNamedEntity(mention);
+    public static Entity fromEntityMention(CoreEntityMention mention, UUID groupId) {
+        return new Entity(mention.tokens(), mention.text(), null, groupId).setNamedEntity(mention);
     }
 
     public Entity cleanForm() {

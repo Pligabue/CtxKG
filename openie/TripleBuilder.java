@@ -122,7 +122,9 @@ public class TripleBuilder {
     }
 
     public static List<Entity> getEntities(SemanticGraph baseGraph, Collection<RelationTriple> triples, List<CoreEntityMention> entityMentions, UUID uniqueId) {
-        List<Entity> entities = triples
+        List<Entity> allEntities = new ArrayList<>();
+
+        List<Entity> baseEntities = triples
             .stream()
             .flatMap(t ->
                 Arrays.asList(
@@ -132,21 +134,28 @@ public class TripleBuilder {
             )
             .distinct()
             .collect(toList());
-        
+
+        allEntities.addAll(baseEntities);
+
         entityMentions
             .stream()
             .filter(em -> !em.entityType().equals("NUMBER"))
-            .forEach(em -> {
-                long numberOfMatchingEntities = entities.stream().filter(e -> e.getTokens().equals(em.tokens())).count();
-                if (numberOfMatchingEntities > 0) {
-                    entities.stream().filter(e -> e.getTokens().equals(em.tokens())).forEach(e -> e.setNamedEntity(em));
-                } else {
-                    Entity e = Entity.fromEntityMention(em, baseGraph, uniqueId);
-                    entities.add(e);
-                }
+            .map(em -> Entity.fromEntityMention(em, uniqueId))
+            .forEach(me -> {
+                baseEntities
+                    .stream()
+                    .filter(be -> be.getTokens().containsAll(me.getTokens()))
+                    .forEach(be -> {
+                        if (be.getTokens().equals(me.getTokens())) {
+                            be.setNamedEntity(me.getMention());
+                        } else if (!allEntities.contains(me)) {
+                            me.setGraph(be.getGraph());
+                            allEntities.add(me);
+                        }
+                    });
             });
 
-        return entities;
+        return allEntities;
     }
 
     public static HashMap<List<CoreLabel>, Entity> getTokensToEntity(List<Entity> entities) {
