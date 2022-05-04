@@ -181,7 +181,7 @@ public class Entity {
         return this.getTags().stream().anyMatch(tag -> expectedNounTags.contains(tag));
     }
 
-    public boolean canBeDroped() {
+    public boolean canBeDropped() {
         return droppableTags.containsAll(this.getTags());
     }
 

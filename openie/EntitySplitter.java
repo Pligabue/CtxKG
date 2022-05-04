@@ -47,16 +47,33 @@ public class EntitySplitter {
 
     private List<Entity> getPartialEntities() {
         List<Entity> partialEntities = new ArrayList<>(this.subset());
-        partialEntities.add(this.subsetRemovedEntity());
-        partialEntities = partialEntities.stream().filter(e -> !e.canBeDroped()).collect(toList());
+        partialEntities.addAll(this.subsetRemovedEntities());
+        partialEntities.removeIf(Entity::canBeDropped);
         return partialEntities;
     }
 
-    private Entity subsetRemovedEntity() {
+    private List<Entity> subsetRemovedEntities() {
         List<CoreLabel> subsetTokens = this.subset().stream().map(Entity::getTokens).flatMap(Collection::stream).collect(toList());
-        List<CoreLabel> remainingTokens = this.tokens().stream().filter(t -> !subsetTokens.contains(t)).collect(toList());
-        String remainingText = remainingTokens.stream().reduce("", (acc, token) -> acc + " " + token.originalText(), String::concat).strip();
-        return new Entity(remainingTokens, remainingText, this.graph(), this.groupId());
+
+        List<Entity> remainingEntities = new ArrayList<>();
+        List<CoreLabel> currentSequence = new ArrayList<>();
+        String currentText = "";
+        for (CoreLabel token : this.tokens()) {
+            boolean subsetContainsToken = subsetTokens.contains(token);
+            boolean isLastToken = (token == this.tokens().get(this.tokens().size() - 1));
+
+            if (!subsetContainsToken) {
+                currentSequence.add(token);
+                currentText = currentText + " " + token.originalText();
+            }
+            
+            if (!currentSequence.isEmpty() && (subsetContainsToken || isLastToken)) {
+                remainingEntities.add(new Entity(currentSequence, currentText.trim(), this.graph(), this.groupId()));
+                currentSequence = new ArrayList<>();
+                currentText = "";
+            }
+        }
+        return remainingEntities;
     }
 
     private List<Entity> subset() {

@@ -4,6 +4,7 @@ package openie;
 import openie.Entity;
 
 import java.util.List;
+import java.util.Optional;
 import java.util.ArrayList;
 import java.util.UUID;
 
@@ -69,7 +70,7 @@ public class Triple {
     }
 
     public static Triple buildTriple(Entity subject, Entity object, SemanticGraph graph) {
-        String relation = findRelation(subject, object, graph);
+        String relation = Optional.ofNullable(findRelation(subject, object, graph)).orElse(defaultRelation);
         switch (relation) {
             case "advmod":
             case "advmod:emph":
@@ -147,7 +148,7 @@ public class Triple {
     }
 
     private static String findRelation(Entity subject, Entity object, SemanticGraph graph) {
-        String relation = defaultRelation;
+        String relation = null;
         List<CoreLabel> subjectTokens = subject.getTokens();
         List<CoreLabel> objectTokens = object.getTokens();
 
