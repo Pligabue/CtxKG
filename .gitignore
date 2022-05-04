@@ -1,11 +1,12 @@
-open_ie/*
-!open_ie/README.md
-!open_ie/TripleBuilder.java
+openie/*
+!openie/README.md
+!openie/*.java
 
 *.pdf
 
 documents/*.txt
 triples/*.txt
+triples/*.csv
 kg_nodes*/
 results/*.txt
 results/*.json
@@ -15,3 +16,5 @@ venv
 
 data/*
 !data/README.md
+__pycache__/
+src/__pycache__/

@@ -1,13 +1,11 @@
-import numpy as np
-import pandas as pd
 from pathlib import Path
 import json
 import math
 
 from tqdm import tqdm
 
-from build_kg_nodes import get_models, build_graph
-from clean_nodes import clean_graph
+from src.graph import Graph
+from src.encoder import Encoder
 from cli_args import GROUPS, MATCH, SIZE, RATIO, THRESHOLD, CLEAN
 
 
@@ -74,17 +72,14 @@ def get_groups(filenames, sim_matrix):
 
     return groups
 
-def merge_graphs(models, files, ratio=RATIO, threshold=THRESHOLD):
-    triples = np.array([(node["subject"], node["relation"], node["object"], node["subject_id"], node["object_id"]) for file in files for node in read_json(file)])
-    merged_graph = build_graph(models, triples[:, 0], triples[:, 1], triples[:, 2], triples[:, 3], triples[:, 4], ratio=ratio, threshold=threshold)
-
-    return merged_graph
+def intersect(list_a, list_b):
+    return bool(set(list_a) & set(list_b))
 
 def main():
     RESULT_DIR = Path('./results')
     KG_NODE_DIRS = [dir for dir in RESULT_DIR.glob(MATCH) if (dir / "clean").is_dir() and (dir / "doc_similarity.json").is_file()]
 
-    models = get_models(size=SIZE)
+    encoder = Encoder(size=SIZE)
 
     for dir in KG_NODE_DIRS:
         clean_dir = dir / "clean"
@@ -102,18 +97,12 @@ def main():
 
         enumerated_groups = list(enumerate(groups))
         for i, group in tqdm(enumerated_groups):
-            files = [file for file in clean_dir.glob("*.json") if file.stem in group]
-            merged_graph = merge_graphs(models, files)
+            files = [file for file in clean_dir.glob("*.json") if intersect(read_json(file)["documents"], group)]
+            graphs = [Graph.from_json(file) for file in files]
+            merged_graph = Graph.from_graphs(graphs).add_encoder(encoder).build_entity_encodings().build_links(threshold=THRESHOLD)
             if CLEAN:
-                merged_graph = clean_graph(merged_graph)
-
-            data = {
-                "filenames": list(group),
-                "nodes": merged_graph
-            }
-
-            with open(groups_dir / f"group_{i}.json", "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2)
+                merged_graph.clean()
+            merged_graph.save_json(groups_dir / f"group_{i}.json")
 
 if __name__ == "__main__":
     main()

@@ -5,7 +5,7 @@ from tqdm import tqdm
 from zipfile import ZipFile, BadZipFile
 
 
-OPEN_IE_DIR = Path("./open_ie")
+OPEN_IE_DIR = Path("./openie")
 
 def ask(question):
     response = input(question)
@@ -81,11 +81,10 @@ def build_triples():
     stanford_lib = get_stanford_lib_path()
     if stanford_lib:
         lib_full_path = stanford_lib.absolute() / "*"
-        open_ie_full_path = OPEN_IE_DIR.absolute()
-        triple_builder_path = OPEN_IE_DIR / "TripleBuilder.java"
+        java_path = OPEN_IE_DIR / "*.java"
         try:
-            subprocess.run(["javac", "-cp", lib_full_path, triple_builder_path], check=True)
-            subprocess.run(["java", "-cp", f"{lib_full_path};{open_ie_full_path}", "-Dfile.encoding=UTF8", "TripleBuilder"])
+            subprocess.run(["javac", "-cp", lib_full_path, java_path], check=True)
+            subprocess.run(["java", "-cp", f"{lib_full_path};. ", "-Dfile.encoding=UTF8", "openie.TripleBuilder"])
         except subprocess.CalledProcessError:
             print("Error compiling Java code.")
     else:
