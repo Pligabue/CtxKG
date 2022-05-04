@@ -32,6 +32,7 @@ public class Entity {
     private Integer treeLevel;
     private List<Entity> subset;
     private List<String> tags;
+    private EntitySplitter splitter;
 
     public Entity(List<CoreLabel> tokens, String text, SemanticGraph graph, UUID groupId) {
         this.tokens = tokens;
@@ -41,6 +42,7 @@ public class Entity {
         this.groupId = groupId;
         this.subset = Collections.emptyList();
         this.tags = null;
+        this.splitter = new EntitySplitter(this);
     }
 
     public static Entity fromEntityMention(CoreEntityMention mention, UUID groupId) {
@@ -60,43 +62,15 @@ public class Entity {
             : (this.groupId + this.tokens.stream().reduce("", (acc, token) -> acc + "-" + token.toString(), String::concat)).replaceAll("\s+", "-");
     }
 
-    public List<Triple> getDerivativeTriples() {
-        if (this.subset.isEmpty()) {
-            return Collections.emptyList();
-        }
-
-        Entity mainPartialEntity = this.getMainPartialEntity();
-        return this.getPartialEntities()
-            .stream()
-            .filter(e -> !mainPartialEntity.getFinalEntity().equals(e.getFinalEntity()))
-            .map(e -> Triple.buildTriple(this, e, this.graph))
-            .filter(Objects::nonNull)
-            .collect(toList());
-    }
-
     public Entity getFinalEntity() {
         if (this.subset.isEmpty()) {
             return this;
         }
-        return this.getMainPartialEntity().getFinalEntity();
+        return this.splitter.getMainPartialEntity().getFinalEntity();
     }
 
-    private Entity getMainPartialEntity() {
-        return this.getPartialEntities().stream().max(Entity::compareTo).get();
-    }
-
-    private List<Entity> getPartialEntities() {
-        List<Entity> partialEntities = new ArrayList<>(this.subset);
-        partialEntities.add(this.subsetRemovedEntity());
-        partialEntities = partialEntities.stream().filter(e -> !e.canBeDroped()).collect(toList());
-        return partialEntities;
-    }
-
-    private Entity subsetRemovedEntity() {
-        List<CoreLabel> subsetTokens = this.subset.stream().map(Entity::getTokens).flatMap(Collection::stream).collect(toList());
-        List<CoreLabel> remainingTokens = this.tokens.stream().filter(t -> !subsetTokens.contains(t)).collect(toList());
-        String remainingText = remainingTokens.stream().reduce("", (acc, token) -> acc + " " + token.originalText(), String::concat).strip();
-        return new Entity(remainingTokens, remainingText, this.graph, this.groupId);
+    public List<Triple> buildDerivativeTriples() {
+        return this.splitter.buildDerivativeTriples();
     }
 
     public int compareTo(Entity e) {
@@ -147,6 +121,10 @@ public class Entity {
             this.tags = this.tokens.stream().map(CoreLabel::tag).collect(toList());
         }
         return this.tags;
+    }
+
+    public UUID getGroupId() {
+        return this.groupId;
     }
 
     public CoreEntityMention getMention() {

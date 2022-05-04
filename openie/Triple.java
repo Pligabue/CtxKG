@@ -52,8 +52,8 @@ public class Triple {
     public List<Triple> buildAllTriples() {
         List<Triple> allTriples = new ArrayList<>();
         allTriples.add(this);
-        allTriples.addAll(this.subject.getDerivativeTriples());
-        allTriples.addAll(this.object.getDerivativeTriples());
+        allTriples.addAll(this.subject.buildDerivativeTriples());
+        allTriples.addAll(this.object.buildDerivativeTriples());
         return allTriples;
     }
 
