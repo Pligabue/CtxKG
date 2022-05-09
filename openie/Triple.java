@@ -26,7 +26,7 @@ public class Triple {
     private SemanticGraph graph;
 
     public static String getHeader(String path) {
-        return "# " + path + "\n" + "confidence;subject;relation;object;subject_id;object_id\n";
+        return "# " + path + "\n" + "confidence;subject;relation;object;subject_id;object_id";
     }
 
     public Triple(RelationTriple triple, Entity subject, Entity object) {

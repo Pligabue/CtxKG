@@ -82,8 +82,9 @@ public class TripleBuilder {
                 Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
                 UUID uniqueId = UUID.randomUUID();
-                String tripleText = Triple.getHeader(f.getAbsolutePath());
-
+                List<String> allTriples = new ArrayList<>();
+                allTriples.add(Triple.getHeader(f.getAbsolutePath()));
+                
                 while (reader.hasNextLine()) {
                     String line = reader.nextLine();
                     CoreDocument doc = new CoreDocument(line);
@@ -101,20 +102,19 @@ public class TripleBuilder {
                             entitySubset.getKey().setSubset(entitySubset.getValue());
                         }
 
-                        List<String> allTriples = triples
-                            .stream()
-                            .map(t -> new Triple(tokensToEntity.get(t.subject), t.relationGloss(), tokensToEntity.get(t.object)))
-                            .flatMap(t -> t.buildAllTriples().stream())
-                            .filter(Triple::subjectAndObjectAreDifferent)
-                            .filter(Triple::notEmpty)
-                            .map(Triple::toString)
-                            .distinct()
-                            .toList();
-
-                        tripleText += allTriples.stream().collect(joining("\n")) + "\n";
+                        allTriples.addAll(
+                            triples
+                                .stream()
+                                .map(t -> new Triple(tokensToEntity.get(t.subject), t.relationGloss(), tokensToEntity.get(t.object)))
+                                .flatMap(t -> t.buildAllTriples().stream())
+                                .filter(Triple::subjectAndObjectAreDifferent)
+                                .filter(Triple::notEmpty)
+                                .map(Triple::toString)
+                                .toList()
+                        );
                     }
                 }
-                writer.write(tripleText);
+                writer.write(allTriples.stream().distinct().collect(joining("\n")));
 
                 reader.close();
                 writer.close();
