@@ -1,0 +1,5 @@
+<h1>{{ result }}</h1>
+<ul>
+    <li><a href="{{ url_for('.graphs.base', result=result) }}">Base</a></li>
+    <li><a href="{{ url_for('.graphs.clean', result=result) }}">Clean</a></li>
+</ul>

@@ -1,0 +1,6 @@
+<h1>Clean Graphs</h1>
+<ul>
+{% for graph in graphs %}
+    <li><a href="{{ url_for('.clean_graph', result=result, graph=graph.stem) }}">{{ graph.stem }}</a></li>
+{% endfor %}
+</ul>
