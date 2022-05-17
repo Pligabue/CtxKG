@@ -1,8 +1,15 @@
+{% extends "base.j2" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='results/index.css') }}">
+{% endblock %}
+
+{% block content %}
+{{ breadcrums(["home", "Home"], "Results") }}
 <h1>Results</h1>
 <ul>
-{% for result in results %}
-    <li>
-        <a href="{{ url_for('.result', result=result.stem) }}">{{ result.stem }}</a>
-    </li>
-{% endfor %}
+    {% for result in results %}
+    <li><a href="{{ url_for('.result', result=result.stem) }}">{{ result.stem }}</a></li>
+    {% endfor %}
 </ul>
+{% endblock %}

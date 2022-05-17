@@ -1,0 +1,3 @@
+{% macro link(endpoint, text, params=None) %}
+    <a href="{{ url_for(endpoint, **(params or {})) }}">{{ text }}</a>
+{% endmacro %} 

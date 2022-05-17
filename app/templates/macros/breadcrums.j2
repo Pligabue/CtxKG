@@ -1,0 +1,10 @@
+{% from "macros/link.j2" import link %}
+
+{% macro breadcrums() %}
+<div class="breadcrums">
+    {% for crum in varargs[:-1] %}
+    {{ link(*crum) }} /
+    {% endfor %}
+    <span>{{ varargs[-1] }}</span>
+</div>
+{% endmacro %}

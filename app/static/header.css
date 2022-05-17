@@ -1,0 +1,25 @@
+.header-container {
+    background-color: rgb(38, 72, 206);
+    padding: 0.5rem 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.header-title {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.header-link {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    padding-left: 3rem;
+}
