@@ -1,6 +1,8 @@
 {% extends "base.j2" %}
 
 {% block content %}
-{{ breadcrums(["home", "Home"], ["results.index", "Results"], ["results.result", result, {"result": result}], ["results.graphs.clean", "Clean Graphs", {"result": result}], graph.stem) }}
-<h1>Clean {{ graph.stem }}</h1>
+<div class="title">
+    {{ breadcrums(["home", "Home"], ["results.index", "Results"], ["results.result", result, {"result": result}], ["results.graphs.clean", "Clean Graphs", {"result": result}], graph.stem) }}
+    <h1>Clean {{ graph.stem }}</h1>
+</div>
 {% endblock %}

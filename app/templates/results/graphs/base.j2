@@ -1,11 +1,13 @@
 {% extends "base.j2" %}
 
 {% block content %}
-{{ breadcrums(["home", "Home"], ["results.index", "Results"], ["results.result", result, {"result": result}], "Base Graphs") }}
-<h1>Base Graphs</h1>
-<ul>
+<div class="title">
+    {{ breadcrums(["home", "Home"], ["results.index", "Results"], ["results.result", result, {"result": result}], "Base Graphs") }}
+    <h1>Base Graphs</h1>
+</div>
+<ul class="list-group overflow-auto">
     {% for graph in graphs %}
-    <li><a href="{{ url_for('.base_graph', result=result, graph=graph.name) }}">{{ graph.stem }}</a></li>
+    <li class="list-group-item"><a href="{{ url_for('.base_graph', result=result, graph=graph.name) }}" class="text-decoration-none">{{ graph.stem }}</a></li>
     {% endfor %}
 </ul>
 {% endblock %}

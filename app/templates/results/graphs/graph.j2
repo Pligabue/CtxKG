@@ -1,0 +1,21 @@
+<div id="graph-container"></div>
+<div id="graph-inputs">
+    <div onclick="buildGraph(fileData)"><i class="fas fa-sync-alt"></i></div>
+    <div onclick="toggleText()"><i class="fas fa-eye"></i></div>
+    <label>
+    Força - Geral:
+    <input id="overall-strength" type="range" min="5" max="200" step="1" value="10" onchange="handleStrength()" />
+    </label>
+    <label>
+    Força - Sinônimos:
+    <input id="synonym-strength" type="range" min="0" max="3" step="0.1" value="1" onchange="handleStrength()" />
+    </label>
+    <label>
+    Força - Relações:
+    <input id="relationship-strength" type="range" min="0" max="2" step="0.1" value="0.2" onchange="handleStrength()" />
+    </label>
+    <label>
+    Variação de Cores:
+    <input id="color-variation" type="range" min="0" max="1" step="0.05" value="1" onchange="handleColorVariation()" />
+    </label>
+</div>

@@ -1,7 +1,6 @@
-#display {
+#graph-container {
+  flex-grow: 1;
   overflow: auto;
-  height: 100%;
-  width: 100%;
 }
 
 #info {
@@ -14,7 +13,7 @@
   padding: 0.5rem;
 }
 
-.display-svg {
+.graph-svg {
   height: 100%;
   width: 100%;
 }
@@ -55,7 +54,7 @@
   cursor: pointer;
 }
 
-.strength-inputs {
+#graph-inputs {
   display: flex;
   flex-direction: column;
   font-family: 'Courier New', Courier, monospace;

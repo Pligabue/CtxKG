@@ -1,15 +1,15 @@
-let displayDiv = document.querySelector("#display")
+let graphContainer = document.querySelector("#graph-container")
 let pos = { top: 0, left: 0, x: 0, y: 0 };
 
 const mouseDownHandler = (e) => {
   // Change the cursor and prevent user from selecting the text
-  displayDiv.style.cursor = 'grabbing';
-  displayDiv.style.userSelect = 'none';
+  graphContainer.style.cursor = 'grabbing';
+  graphContainer.style.userSelect = 'none';
 
   pos = {
     // The current scroll
-    left: displayDiv.scrollLeft,
-    top: displayDiv.scrollTop,
+    left: graphContainer.scrollLeft,
+    top: graphContainer.scrollTop,
     // Get the current mouse position
     x: e.clientX,
     y: e.clientY,
@@ -25,16 +25,16 @@ const mouseMoveHandler = (e) => {
   const dy = e.clientY - pos.y;
 
   // Scroll the element
-  displayDiv.scrollTop = pos.top - dy;
-  displayDiv.scrollLeft = pos.left - dx;
+  graphContainer.scrollTop = pos.top - dy;
+  graphContainer.scrollLeft = pos.left - dx;
 };
 
 const mouseUpHandler = (e) => {
   document.removeEventListener('mousemove', mouseMoveHandler);
   document.removeEventListener('mouseup', mouseUpHandler);
 
-  displayDiv.style.cursor = 'default';
-  displayDiv.style.removeProperty('user-select');
+  graphContainer.style.cursor = 'default';
+  graphContainer.style.removeProperty('user-select');
 };
 
-document.querySelector("#display").addEventListener("mousedown", mouseDownHandler)
+document.querySelector("#graph-container").addEventListener("mousedown", mouseDownHandler)

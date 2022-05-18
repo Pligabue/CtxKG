@@ -5,11 +5,13 @@
 {% endblock %}
 
 {% block content %}
-{{ breadcrums(["home", "Home"], "Results") }}
-<h1>Results</h1>
-<ul>
+<div class="title">
+    {{ breadcrums(["home", "Home"], "Results") }}
+    <h1>Results</h1>
+</div>
+<ul class="list-group overflow-auto">
     {% for result in results %}
-    <li><a href="{{ url_for('.result', result=result.stem) }}">{{ result.stem }}</a></li>
+    <li class="list-group-item"><a href="{{ url_for('.result', result=result.stem) }}" class="text-decoration-none">{{ result.stem }}</a></li>
     {% endfor %}
 </ul>
 {% endblock %}

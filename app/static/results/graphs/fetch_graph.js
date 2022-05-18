@@ -1,6 +1,8 @@
-fetchGraph = (el) => {
-  let { endpoint } = el.dataset
+fetchGraph = (endpoint) => {
   fetch(endpoint)
     .then(res => res.json())
-    .then(buildGraph)
+    .then(data => {
+      fileData = data
+      buildGraph(fileData)
+    })
 }

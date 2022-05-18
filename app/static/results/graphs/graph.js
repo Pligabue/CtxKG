@@ -3,13 +3,14 @@ let overallStrength = -parseFloat(document.querySelector("#overall-strength").va
 let synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
 let relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
 let colorVariation = parseFloat(document.querySelector("#color-variation").value)
+let fileData = null
 let data = null
 
 const handleStrength = () => {
   overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
   synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
   relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
-  loadJSON()
+  buildGraph(fileData)
 }
 
 const handleColorVariation = () => {
@@ -22,7 +23,7 @@ const handleColorVariation = () => {
 
 const cleanPrevious = () => {
   scale = 1.0
-  d3.select("svg.display-svg").remove()
+  d3.select("svg.graph-svg").remove()
 }
 
 const toggleText = () => {
@@ -88,9 +89,9 @@ const buildGraph = (fileData) => {
 
   console.log(data)
 
-  const svg = d3.select("#display")
+  const svg = d3.select("#graph-container")
     .append("svg")
-    .classed("display-svg", true)
+    .classed("graph-svg", true)
     
   const height = parseFloat(svg.style("height"))
   const width = parseFloat(svg.style("width"))

@@ -5,7 +5,7 @@
     align-items: center;
 }
 
-.header-title {
+.header-title, .header-title:hover {
     display: block;
     font-size: 2em;
     margin-top: 0.67em;
@@ -17,7 +17,7 @@
     color: white;
 }
 
-.header-link {
+.header-link, .header-link:hover {
     text-decoration: none;
     color: white;
     display: inline;
