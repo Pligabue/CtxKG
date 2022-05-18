@@ -5,13 +5,13 @@
 {% endblock %}
 
 {% block content %}
-<div class="title">
+<div class="mt-12 mx-12">
     {{ breadcrums(["home", "Home"], "Results") }}
-    <h1>Results</h1>
+    <h1 class="text-4xl font-semibold mt-3">Results</h1>
 </div>
-<ul class="list-group overflow-auto">
+<ul class="mt-5 overflow-auto">
     {% for result in results %}
-    <li class="list-group-item"><a href="{{ url_for('.result', result=result.stem) }}" class="text-decoration-none">{{ result.stem }}</a></li>
+    <a href="{{ url_for('.result', result=result.stem) }}" class="text-decoration-none"><li class="border-t p-5 hover:text-blue-500">{{ result.stem }}</li></a>
     {% endfor %}
 </ul>
 {% endblock %}

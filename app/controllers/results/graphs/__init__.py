@@ -13,8 +13,8 @@ def base(result):
 
 @bp.route("/base/<graph>/")
 def base_graph(result, graph):
-    graph = RESULT_DIR / result / "base" / graph
-    return render_template("results/graphs/base_graph.j2", result=result, graph=graph)
+    graph_path = RESULT_DIR / result / "base" / graph
+    return render_template("results/graphs/base_graph.j2", result=result, graph=graph, graph_path=graph_path)
 
 @bp.route("/base/<graph>/json/")
 def base_graph_json(result, graph):
@@ -29,5 +29,11 @@ def clean(result):
 
 @bp.route("/clean/<graph>/")
 def clean_graph(result, graph):
+    graph_path = RESULT_DIR / result / "clean" / graph
+    return render_template("results/graphs/clean_graph.j2", result=result, graph=graph, graph_path=graph_path)
+
+@bp.route("/base/<graph>/json/")
+def clean_graph_json(result, graph):
     graph = RESULT_DIR / result / "clean" / graph
-    return render_template("results/graphs/clean_graph.j2", result=result, graph=graph)
+    with graph.open() as f:
+        return jsonify(json.load(f))

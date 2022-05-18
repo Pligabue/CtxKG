@@ -12,4 +12,6 @@ def index():
 
 @bp.route("/<result>/")
 def result(result):
-    return render_template("results/result.j2", result=result)
+    base_graphs =  (RESULT_DIR / result / "base").glob("*.json")
+    clean_graphs = (RESULT_DIR / result / "clean").glob("*.json")
+    return render_template("results/result.j2", result=result, base_graphs=base_graphs, clean_graphs=clean_graphs)
