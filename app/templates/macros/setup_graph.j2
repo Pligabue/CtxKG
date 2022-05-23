@@ -1,7 +1,7 @@
 {% macro setup_graph(url) %}
 <div id="graph-container"></div>
 <div id="graph-inputs">
-    <div onclick="buildGraph(fileData)"><i class="fas fa-sync-alt"></i></div>
+    <div onclick="rebuildGraph()"><i class="fas fa-sync-alt"></i></div>
     <div onclick="toggleText()"><i class="fas fa-eye"></i></div>
     <label>
     Força - Geral:
@@ -20,13 +20,8 @@
     <input id="color-variation" type="range" min="0" max="1" step="0.05" value="1" onchange="handleColorVariation()" />
     </label>
 </div>
-<script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
-<script src="{{ url_for('static', filename='results/graphs/colors.js') }}"></script>
-<script src="{{ url_for('static', filename='results/graphs/scale.js') }}"></script>
-<script src="{{ url_for('static', filename='results/graphs/graph.js') }}"></script>
-<script src="{{ url_for('static', filename='results/graphs/navigation.js') }}"></script>
-<script src="{{ url_for('static', filename='results/graphs/fetch_graph.js') }}"></script>
+<script src="{{ url_for('static', filename='results/graphs/index.js') }}"></script>
 <script>
   fetchGraph("{{ url }}")
 </script>

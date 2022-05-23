@@ -1,6 +1,6 @@
-let scale = 1.0
+export let scale = 1.0
 
-const handleWheel = (e) => {
+export const handleWheel = (e) => {
   let graphSvg = document.querySelector(".graph-svg")
 
   if (graphSvg) {
@@ -33,5 +33,3 @@ const handleWheel = (e) => {
     graphContainer.scrollLeft = nextScrollLeft
   }
 }
-
-document.querySelector("#graph-container").addEventListener("wheel", handleWheel)

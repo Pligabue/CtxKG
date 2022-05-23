@@ -1,4 +1,6 @@
-const buildColors = (data, colorVariation) => {
+import * as d3 from "d3"
+
+export const buildColors = (data, colorVariation) => {
   let colors = {}
   const re = /(NE|[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-z]{4}-[0-9a-f]{12})-.*/
 
@@ -14,7 +16,7 @@ const buildColors = (data, colorVariation) => {
   }, new Set())
   
   sections = Array.from(sections).sort((a, b) => a === "NE" ? -1 : b === "NE" ? 1 : 0)
-  colorScheme = d3.scaleSequential([0, sections.length], d3.interpolateTurbo)
+  let colorScheme = d3.scaleSequential([0, sections.length], d3.interpolateTurbo)
   sections.forEach((section, baseIndex) => {
     let sectionNodes = data.nodes.filter(node => node.id.startsWith(section)).sort()
     sectionNodes.forEach((node, offsetIndex) => {

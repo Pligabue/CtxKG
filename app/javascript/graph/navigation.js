@@ -1,7 +1,7 @@
 let graphContainer = document.querySelector("#graph-container")
 let pos = { top: 0, left: 0, x: 0, y: 0 };
 
-const mouseDownHandler = (e) => {
+export const mouseDownHandler = (e) => {
   // Change the cursor and prevent user from selecting the text
   graphContainer.style.cursor = 'grabbing';
   graphContainer.style.userSelect = 'none';
@@ -36,5 +36,3 @@ const mouseUpHandler = (e) => {
   graphContainer.style.cursor = 'default';
   graphContainer.style.removeProperty('user-select');
 };
-
-document.querySelector("#graph-container").addEventListener("mousedown", mouseDownHandler)

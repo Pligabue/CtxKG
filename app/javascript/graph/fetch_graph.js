@@ -1,4 +1,6 @@
-fetchGraph = (endpoint) => {
+import { buildGraph, fileData } from "./graph"
+
+export const fetchGraph = (endpoint) => {
   fetch(endpoint)
     .then(res => res.json())
     .then(data => {

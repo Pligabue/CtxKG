@@ -1,19 +1,24 @@
+import * as d3 from "d3"
+
+import { buildColors } from "./colors"
+import { scale } from "./scale"
+
+export let fileData = null
 
 let overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
 let synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
 let relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
 let colorVariation = parseFloat(document.querySelector("#color-variation").value)
-let fileData = null
 let data = null
 
-const handleStrength = () => {
+export const handleStrength = () => {
   overallStrength = -parseFloat(document.querySelector("#overall-strength").value)
   synonymStrength = parseFloat(document.querySelector("#synonym-strength").value)
   relationshipStrength = parseFloat(document.querySelector("#relationship-strength").value)
   buildGraph(fileData)
 }
 
-const handleColorVariation = () => {
+export const handleColorVariation = () => {
   colorVariation = parseFloat(document.querySelector("#color-variation").value)
   let colors = buildColors(data, colorVariation)
 
@@ -26,7 +31,9 @@ const cleanPrevious = () => {
   d3.select("svg.graph-svg").remove()
 }
 
-const toggleText = () => {
+export const rebuildGraph = () => buildGraph(fileData)
+
+export const toggleText = () => {
   let texts = d3.selectAll("text")
   if (texts.classed("hidden")) {
     texts.classed("hidden", false)
@@ -75,7 +82,7 @@ const removeDuplicates = (data) => {
   data.synonymLinks = data.synonymLinks.filter(link => getIndexOfLink(data.relationshipLinks, link.source, link.target) === -1)
 }
 
-const buildGraph = (fileData) => {
+export const buildGraph = (fileData) => {
   let idToLabel = fileData.entities
 
   cleanPrevious()
@@ -85,7 +92,8 @@ const buildGraph = (fileData) => {
     synonymLinks: buildSynonymLinks(fileData, idToLabel)
   }
   removeDuplicates(data)
-  colors = buildColors(data, colorVariation)
+
+  let colors = buildColors(data, colorVariation)
 
   console.log(data)
 
