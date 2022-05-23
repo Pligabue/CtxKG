@@ -66,16 +66,9 @@
 .node-text {
   font-size: small;
   fill: white;
-  font-family: 'Courier New', Courier, monospace;
-  text-shadow:
-      -0.6px -0.6px 0 #000,
-      0      -0.6px 0 #000,
-      0.6px  -0.6px 0 #000,
-      0.6px  0      0 #000,
-      0.6px  0.6px  0 #000,
-      0      0.6px  0 #000,
-      -0.6px 0.6px  0 #000,
-      -0.6px 0      0 #000;
+  paint-order: stroke;
+  stroke: black;
+  stroke-width: 2px;
 }
 
 .synonym {
