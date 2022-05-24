@@ -1,3 +1,4 @@
+from operator import attrgetter
 from pathlib import Path
 import json
 
@@ -5,15 +6,15 @@ from tqdm import tqdm
 
 from src.graph import Graph
 from src.encoder import Encoder
-from cli_args import GROUPS, MATCH, SIZE, RATIO, THRESHOLD, CLEAN
+from cli_args import GROUPS, MATCH, SIZE, OVERWRITE, THRESHOLD, CLEAN
 
 
 def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def normalize(bridge_dir, graph_files):
-    reversed_files = [bridge_dir / file.name for file in graph_files[::-1]]
+def normalize(bridge_dir):
+    reversed_files = sorted(bridge_dir.glob("*.json"), key=attrgetter("name"), reverse=True)
     for file in reversed_files[:-1]:
         bridges = read_json(file)
         for target_file in reversed_files[reversed_files.index(file)+1:]:
@@ -33,7 +34,8 @@ def main():
         bridge_dir = graph_dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
         
-        graph_files = list(graph_dir.glob("*.json"))
+        graph_files = [file for file in graph_dir.glob("*.json") if OVERWRITE or not (bridge_dir / file.name).exists()]
+        graph_files.sort(key=attrgetter("name"))
         for graph_file in tqdm(graph_files):
             bridges = {}
             graph = Graph.from_json(graph_file).add_encoder(encoder).build_entity_encodings()
@@ -44,7 +46,7 @@ def main():
             with (bridge_dir / graph_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2)
 
-        normalize(bridge_dir, graph_files)
+        normalize(bridge_dir)
 
 if __name__ == "__main__":
     main()
