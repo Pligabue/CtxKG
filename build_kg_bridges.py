@@ -36,12 +36,11 @@ def main():
         graph_files = list(graph_dir.glob("*.json"))
         for graph_file in tqdm(graph_files):
             bridges = {}
-            for target_graph_file in graph_files[graph_files.index(graph_file)+1:]:
-                graph = Graph.from_json(graph_file).add_encoder(encoder).build_entity_encodings()
+            graph = Graph.from_json(graph_file).add_encoder(encoder).build_entity_encodings()
+            target_graph_files = graph_files[graph_files.index(graph_file)+1:]
+            for target_graph_file in tqdm(target_graph_files, leave=False):
                 target_graph = Graph.from_json(target_graph_file).add_encoder(encoder).build_entity_encodings()
-                entities = graph.entities.values()
-                target_entities = target_graph.entities.values()
-                bridges[target_graph_file.name] = {e.id: te.id for e in entities for te in target_entities if e.id == te.id or e.compare(te) > THRESHOLD}
+                bridges[target_graph_file.name] = graph.build_bridges(target_graph, THRESHOLD)
             with (bridge_dir / graph_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2)
 
