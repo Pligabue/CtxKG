@@ -1,3 +1,5 @@
+const { VueLoaderPlugin } = require('vue-loader')
+
 module.exports = {
   mode: "production",
   entry: {
@@ -6,5 +8,16 @@ module.exports = {
   output: {
     path: __dirname + "/static"
   },
-  watch: true
+  watch: true,
+  module: {
+    rules: [
+      {
+        test: /\.vue$/,
+        loader: 'vue-loader'
+      }
+    ]
+  },
+  plugins: [
+    new VueLoaderPlugin()
+  ]
 }
