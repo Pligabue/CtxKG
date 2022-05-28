@@ -9,7 +9,8 @@
   "scripts": {
     "dev": "concurrently -n TAILWIND,WEBPACK -c green,blue \"npm run dev-tailwind\" \"npm run dev-webpack\"",
     "dev-tailwind": "npx tailwindcss -i ./static/base.css -o ./static/tailwind.css --watch -m",
-    "dev-webpack": "npx webpack"
+    "dev-webpack": "npx webpack --mode development",
+    "webpack": "npx webpack"
   },
   "dependencies": {
     "concurrently": "^7.2.1",

@@ -1,16 +1,14 @@
 <script>
 import ControlPanel from "./ControlPanel.vue"
+import Graph from "./Graph.vue"
 
 export default {
   components: {
+    Graph,
     ControlPanel
   },
   data() {
     return {
-      baseGraphUrl: window.location.pathname + "json",
-      nodes: [],
-      relationshipLinks: [],
-      synonymlinks: [],
       showText: true,
       overallStrength: 10,
       synonymStrength: 1,
@@ -25,6 +23,13 @@ export default {
 </script>
 
 <template>
+  <Graph
+    :show-text="showText"
+    :overall-strength="overallStrength"
+    :synonym-strength="synonymStrength"
+    :relationship-strength="relationshipStrength"
+    :color-variation="colorVariation"
+  />
   <ControlPanel
     v-model:show-text="showText"
     v-model:overall-strength="overallStrength" 

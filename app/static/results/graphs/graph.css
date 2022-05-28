@@ -63,6 +63,11 @@
   left: 1rem;
 }
 
+.node-circle {
+  stroke: black;
+  stroke-width: 2;
+}
+
 .node-text {
   font-size: small;
   fill: white;
