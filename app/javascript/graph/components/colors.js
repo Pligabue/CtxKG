@@ -1,4 +1,4 @@
-import * as d3 from "d3"
+import { scaleSequential, interpolateTurbo } from "d3"
 
 export const buildColors = (nodes, colorVariation) => {
   let colors = {}
@@ -16,7 +16,7 @@ export const buildColors = (nodes, colorVariation) => {
   })
   
   sections = Array.from(sections).sort((a, b) => a === "NE" ? -1 : b === "NE" ? 1 : 0)
-  colorScheme = d3.scaleSequential([0, sections.length], d3.interpolateTurbo)
+  colorScheme = scaleSequential([0, sections.length], interpolateTurbo)
 
   sections.forEach((section, baseIndex) => {
     let sectionNodes = nodes.filter(node => node.id.startsWith(section)).sort()

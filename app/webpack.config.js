@@ -8,7 +8,6 @@ module.exports = {
   output: {
     path: __dirname + "/static"
   },
-  watch: true,
   module: {
     rules: [
       {
