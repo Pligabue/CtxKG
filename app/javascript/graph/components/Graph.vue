@@ -12,6 +12,7 @@ export default {
     synonymStrength: Number,
     relationshipStrength: Number,
     colorVariation: Number,
+    radius: Number,
     reload: Boolean
   },
   data() {
@@ -21,7 +22,6 @@ export default {
       nodes: [],
       relationshipLinks: [],
       synonymLinks: [],
-      radius: 8,
       simulation: null,
       scale: { value: 1.0, event: null }
     }
@@ -48,12 +48,13 @@ export default {
       return buildColors(this.nodes, this.colorVariation)
     }
   },
-  emits: ["highlightNode", "highlightLink", "finishReload"],
+  emits: ["highlightNode", "highlightLink", "openBridges", "finishReload"],
   watch: {
     nodes() { this.runSimulation() },
     overallStrength() { this.runSimulation() },
     synonymStrength() { this.runSimulation() },
     relationshipStrength() { this.runSimulation() },
+    radius() { this.runSimulation() },
     scale(newScale, oldScale) {
       zoom(newScale.value, oldScale.value, newScale.event)
     },
@@ -145,7 +146,7 @@ export default {
     <g v-for="node in nodes" :transform="`translate(${node.x}, ${node.y})`">
       <circle class="node-circle"
         :r="radius" :fill="colorSchema[node.id]" :index="node.index"
-        @mouseover="$emit('highlightNode', node)"
+        @mouseover="$emit('highlightNode', node)" @click="$emit('openBridges', node)"
       />
       <text v-if="showText" class="node-text">{{ node.label }}</text>
     </g>
