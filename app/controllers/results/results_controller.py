@@ -1,6 +1,6 @@
 from flask import Blueprint, render_template
 
-from .graphs import bp as graph_bp, RESULT_DIR
+from .graphs.graphs_controller import bp as graph_bp, RESULT_DIR
 
 bp = Blueprint('results', __name__, url_prefix='/results')
 bp.register_blueprint(graph_bp)
