@@ -19,18 +19,16 @@ export default {
       synonymStrength: 1,
       relationshipStrength: 0.2,
       colorVariation: 1,
-      highlight: null
+      highlightedNode: null,
+      highlightedLink: null
     }
   },
   methods: {
-    updateHighlight(e) {
-      this.highlight = e.target
+    highlightNode(node) {
+      this.highlightedNode = node
     },
-    startReload() {
-      this.reload = true
-    },
-    finishReload() {
-      this.reload = false
+    highlightLink(link) {
+      this.highlightedLink = link
     }
   }
 }
@@ -44,8 +42,9 @@ export default {
     :relationship-strength="relationshipStrength"
     :color-variation="colorVariation"
     :reload="reload"
-    @update-highlight="updateHighlight"
-    @finish-reload="finishReload"
+    @highlight-node="highlightNode"
+    @highlight-link="highlightLink"
+    @finish-reload="reload = false"
   />
   <ControlPanel
     v-model:show-text="showText"
@@ -53,7 +52,10 @@ export default {
     v-model:synonym-strength="synonymStrength"
     v-model:relationship-strength="relationshipStrength" 
     v-model:color-variation="colorVariation"
-    @reload="startReload"
+    @reload="reload = true"
   />
-  <Highlight :highlight="highlight" />
+  <Highlight
+    :node="highlightedNode"
+    :link="highlightedLink"
+  />
 </template>

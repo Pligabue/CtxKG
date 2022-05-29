@@ -78,10 +78,12 @@
 
 .synonym {
   stroke: black;
+  stroke-width: 2;
 }
 
 .relationship {
   stroke: gray;
+  stroke-width: 1;
 }
 
 .red-stroke {
