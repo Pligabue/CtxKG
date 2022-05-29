@@ -32,7 +32,7 @@ def clean_graph(result, graph):
     graph_path = RESULT_DIR / result / "clean" / graph
     return render_template("results/graphs/clean_graph.j2", result=result, graph=graph, graph_path=graph_path)
 
-@bp.route("/base/<graph>/json/")
+@bp.route("/clean/<graph>/json/")
 def clean_graph_json(result, graph):
     graph = RESULT_DIR / result / "clean" / graph
     with graph.open() as f:
