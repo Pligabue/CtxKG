@@ -1,5 +1,4 @@
 {% extends "base.j2" %}
-{% from "macros/setup_graph.j2" import setup_graph %}
 
 {% block styles %}
 <link rel="stylesheet" href="{{ url_for('static', filename='results/graphs/graph.css') }}">
@@ -18,5 +17,7 @@
   }}
   <h1 class="text-4xl font-semibold mt-3">{{ subtitle }}</h1>
 </div>
-{{ setup_graph(url_for("results.graphs.graph_json", result=result, version=version, graph=graph)) }}
+<div id="graph-container" class="relative overflow-hidden"></div>
+<script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
+<script src="{{ url_for('static', filename='results/graphs/index.js') }}"></script>
 {% endblock %}

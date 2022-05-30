@@ -2,28 +2,38 @@
 import { select, selectAll } from "d3"
 import { forceSimulation, forceCenter, forceCollide, forceLink, forceManyBody } from "d3-force"
 
+import BridgeList from "./BridgeList.vue"
+import ControlPanel from "./ControlPanel.vue"
+import Highlight from "./Highlight.vue"
+
 import { buildColors } from "./colors"
 import { zoom } from "./zoom"
 
 export default {
-  props: {
-    showText: Boolean,
-    overallStrength: Number,
-    synonymStrength: Number,
-    relationshipStrength: Number,
-    colorVariation: Number,
-    radius: Number,
-    reload: Boolean
+  components: {
+    ControlPanel,
+    BridgeList,
+    Highlight
   },
   data() {
     return {
       baseGraphUrl: window.location.pathname + "json",
+      baseGraphName: window.location.pathname.match(/\/([^\/]*)\/$/)[1],
       title: "",
+      showText: true,
+      overallStrength: 50,
+      synonymStrength: 1,
+      relationshipStrength: 0.2,
+      colorVariation: 1,
+      radius: 8,
       nodes: [],
       relationshipLinks: [],
       synonymLinks: [],
       simulation: null,
-      scale: { value: 1.0, event: null }
+      scale: { value: 1.0, event: null },
+      highlightedNode: null,
+      highlightedLink: null,
+      bridgeNode: null
     }
   },
   computed: {
@@ -127,28 +137,47 @@ export default {
 </script>
 
 <template>
-  <svg id="graph-svg" class="graph-svg"
-    :viewBox="viewBox"
-    @wheel="updateScale($event)" @mousedown="navigate($event)"
-  >
-    <line v-for="link in synonymLinks"
-      class="synonym"
-      :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
-      :index="link.index"
-      @mouseover="$emit('highlightLink', link)"
-    />
-    <line v-for="link in relationshipLinks"
-      class="relationship"
-      :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
-      :index="link.index"
-      @mouseover="$emit('highlightLink', link)"
-    />
-    <g v-for="node in nodes" :transform="`translate(${node.x}, ${node.y})`">
-      <circle class="node-circle"
-        :r="radius" :fill="colorSchema[node.id]" :index="node.index"
-        @mouseover="$emit('highlightNode', node)" @click="$emit('openBridges', node)"
+  <div class="overflow-auto h-full w-full">
+    <svg id="graph-svg" class="graph-svg"
+      :viewBox="viewBox"
+      @wheel="updateScale($event)" @mousedown="navigate($event)" @dblclick="bridgeNode = null"
+    >
+      <line v-for="link in synonymLinks"
+        class="synonym"
+        :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
+        :index="link.index"
+        @mouseover="highlightedLink = link"
       />
-      <text v-if="showText" class="node-text">{{ node.label }}</text>
-    </g>
-  </svg>
+      <line v-for="link in relationshipLinks"
+        class="relationship"
+        :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
+        :index="link.index"
+        @mouseover="highlightedLink = link"
+      />
+      <g v-for="node in nodes" :transform="`translate(${node.x}, ${node.y})`">
+        <circle class="node-circle"
+          :r="radius" :fill="colorSchema[node.id]" :index="node.index"
+          @mouseover="highlightedNode = node" @click="bridgeNode = node"
+        />
+        <text v-if="showText" class="node-text">{{ node.label }}</text>
+      </g>
+    </svg>
+  </div>
+  <ControlPanel
+    v-model:show-text="showText"
+    v-model:overall-strength="overallStrength" 
+    v-model:synonym-strength="synonymStrength"
+    v-model:relationship-strength="relationshipStrength"
+    v-model:color-variation="colorVariation"
+    v-model:radius="radius"
+    @reload="fetchGraph"
+  />
+  <BridgeList
+    :baseGraphName="baseGraphName"
+    :node="bridgeNode"
+  />
+  <Highlight
+    :node="highlightedNode"
+    :link="highlightedLink"
+  />
 </template>

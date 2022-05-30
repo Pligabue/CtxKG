@@ -1,9 +1,9 @@
 <script>
-import GraphManager from "./components/GraphManager.vue"
+import Graph from "./components/Graph.vue"
 
 export default {
   components: {
-    GraphManager
+    Graph
   },
   data() {
     return {}
@@ -12,5 +12,5 @@ export default {
 </script>
 
 <template>
-  <GraphManager />
+  <Graph />
 </template>
