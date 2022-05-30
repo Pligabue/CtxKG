@@ -57,23 +57,24 @@ def expand_node(result, version, graph, node):
         graph = json.load(f)
         expanded_nodes = get_expanded_nodes(graph, node)
         expanded_node_json = {
+            "entities": {entity_id: entity_label for entity_id, entity_label in graph["entities"].items() if entity_id in expanded_nodes},
             "graph": [triple for triple in graph["graph"] if triple["subject_id"] in expanded_nodes],
             "links": {node: [linked_node for linked_node in linked_nodes if linked_node in expanded_nodes] for node, linked_nodes in graph["links"].items() if node in expanded_nodes}
         }
         return jsonify(expanded_node_json)
 
 def get_expanded_nodes(graph, initial_node):
-    expanded = set()
-    to_expand = {initial_node}
-    found = set()
-
-    while to_expand:
-        for node in to_expand:
-            for triple in graph["graph"]:
-                if triple["subject_id"] == node:
-                    found.add(triple["object_id"])
-                if triple["object_id"] == node:
-                    found.add(triple["subject_id"])
-        expanded.update(to_expand)
-        to_expand.update(found)
-        found = set()
+    explored = set()
+    entities = {initial_node}
+    while len(explored) != len(entities):
+        to_explore = {e for e in entities if e not in explored}
+        new_entities = set()
+        for e in to_explore:
+            e_triples = [t for t in graph["graph"] if e == t["subject_id"] or e == t["object_id"]]
+            e_expanded_entities = {t["object_id"] if e == t["subject_id"] else t["subject_id"] for t in e_triples}
+            e_new_entities = {e for e in e_expanded_entities if e not in to_explore and e not in explored}
+            new_entities.update(e_new_entities)
+        entities.update(new_entities)
+        explored.update(to_explore)
+    
+    return entities

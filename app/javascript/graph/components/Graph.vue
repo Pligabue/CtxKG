@@ -17,7 +17,7 @@ export default {
   },
   data() {
     return {
-      baseGraphUrl: window.location.pathname + "json",
+      baseUrl: window.location.pathname.match(/.*(?:base|clean)\//)[0],
       baseGraphName: window.location.pathname.match(/\/([^\/]*)\/$/)[1],
       title: "",
       showText: true,
@@ -83,12 +83,12 @@ export default {
   },
   methods: {
     fetchGraph() {
-      fetch(this.baseGraphUrl)
+      fetch(this.baseUrl + `${this.baseGraphName}/json/`)
         .then(res => res.json())
         .then(data => {
           let { documents, entities, graph, links } = data
           this.title = documents.join(", ")
-          this.nodes = Object.entries(entities).map(([id, label]) => ({ id: id, label: label }))
+          this.nodes = Object.entries(entities).map(([id, label]) => ({ id: id, label: label, graph: this.baseGraphName }))
           this.relationshipLinks = graph.map(({ subject_id, relation, object_id }) => ({ source: subject_id, target: object_id, label: relation }))
           this.synonymLinks = Object.entries(links)
             .flatMap(([entity, links]) => links.map((link) => ({ source: entity, target: link, label: "=" })))
@@ -131,6 +131,18 @@ export default {
 
       document.addEventListener("mousemove", mouseMoveHandler)
       document.addEventListener("mouseup", mouseUpHandler)
+    },
+    expandNode(nodeId, data) {
+      let { nodes, relationshipLinks, synonymLinks } = data
+      let referenceNode = this.nodes.find(node => node.id === nodeId)
+      nodes.forEach(n => {
+        n.x = referenceNode.x
+        n.y = referenceNode.y
+      })
+      // console.log(nodes, relationshipLinks, synonymLinks)
+      this.nodes = [...this.nodes, ...nodes]
+      this.relationshipLinks = [...this.relationshipLinks, ...relationshipLinks]
+      this.synonymLinks = [...this.synonymLinks, ...synonymLinks]
     }
   }
 }
@@ -173,8 +185,9 @@ export default {
     @reload="fetchGraph"
   />
   <BridgeList
-    :baseGraphName="baseGraphName"
+    :baseUrl="baseUrl"
     :node="bridgeNode"
+    @expand-node="expandNode"
   />
   <Highlight
     :node="highlightedNode"
