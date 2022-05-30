@@ -5,6 +5,7 @@ export default {
   data() {
     return {
       bridges: {},
+      title: null,
       show: false,
       loading: false
     }
@@ -12,12 +13,13 @@ export default {
   watch: {
     node(newNode) {
       if (newNode) {
+        this.title = newNode.label
         this.loading = true
+        this.show = true
         fetch(this.baseUrl + `${newNode.graph}/bridges/${newNode.id}/`)
           .then(res => res.json())
           .then(data => {
             this.bridges = data
-            this.show = true
           })
           .finally(() => {
             this.loading = false
@@ -35,15 +37,15 @@ export default {
           let { entities, graph, links } = data
 
           let expandedNodes = Object.entries(entities)
-            .filter(([id, label]) => id !== nodeId)
             .map(([id, label]) => ({ id: id, label: label, graph: graphName }))
           let expandedRelationshipLinks = graph
             .map(({ subject_id, relation, object_id }) => ({ source: subject_id, target: object_id, label: relation }))
           let expandedSynonymLinks = Object.entries(links)
             .flatMap(([entity, links]) => links.map((link) => ({ source: entity, target: link, label: "=" })))
-            .filter((link, index, arr) => index === arr.findIndex((el) => (el.source === link.source && el.target === link.target) || (el.source === link.target && el.target === link.source)))
-          
-          this.$emit("expandNode", nodeId, {
+            .filter((link, i, arr) => link === arr.find(l => (l.source === link.source && l.target === link.target) || (l.source === link.target && l.target === link.source)))
+          expandedSynonymLinks.push({ source: this.node, target: nodeId, label: "bridge" })
+
+          this.$emit("expandNode", this.node, {
             nodes: expandedNodes,
             relationshipLinks: expandedRelationshipLinks,
             synonymLinks: expandedSynonymLinks
@@ -59,10 +61,10 @@ export default {
 
 <template>
   <div class="absolute border border-neutral-700 bg-white top-0 right-10" v-if="show">
-    <h1 class="p-2 pt-3 font-semibold text-center">Pontes</h1>
+    <h1 class="p-2 pt-3 text-center">Pontes: <span class="font-semibold">{{ title }}</span></h1>
     <div class="bg-slate-200 max-h-60 overflow-auto">
       <template v-if="loading">
-        <div class="py-2 px-3 border-t border-neutral-400 flex items-center">
+        <div class="py-2 px-3 border-t border-neutral-400 text-center">
           <span class="text-sm flex-grow">Carregando...</span>
         </div>
       </template>
@@ -76,7 +78,7 @@ export default {
         </div>
       </template>
       <template v-else>
-        <div class="py-2 px-3 border-t border-neutral-400 flex items-center">
+        <div class="py-2 px-3 border-t border-neutral-400 text-center">
           <span class="text-sm flex-grow">Sem pontes.</span>
         </div>
       </template>

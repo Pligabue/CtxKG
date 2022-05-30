@@ -2,7 +2,7 @@
 import { select, selectAll } from "d3"
 
 export default {
-  props: ["node", "link"],
+  props: ["node", "synonymLink", "relationshipLink"],
   data() {
     return {
       text: null,
@@ -10,16 +10,22 @@ export default {
     }
   },
   watch: {
-    node() {
+    node(newNode) {
       selectAll(".red-stroke").classed("red-stroke", false)
-      let circle = select(`circle[index="${this.node.index}"]`).classed("red-stroke", true)
-      this.text = this.node.label
+      let circle = select(`circle[index="${newNode.index}"]`).classed("red-stroke", true)
+      this.text = newNode.label
       this.prependedSvg = `<circle r="8" fill="${circle.attr("fill")}" class="node-circle"></circle>`
     },
-    link() {
+    synonymLink(newLink) {
       selectAll(".red-stroke").classed("red-stroke", false)
-      select(`line[index="${this.link.index}"]`).classed("red-stroke", true)
-      this.text = `${this.link.source.label} [${this.link.label}] ${this.link.target.label}`
+      select(`line.synonym[index="${newLink.index}"]`).classed("red-stroke", true)
+      this.text = `${newLink.source.label} [${newLink.label}] ${newLink.target.label}`
+      this.prependedSvg = null
+    },
+    relationshipLink(newLink) {
+      selectAll(".red-stroke").classed("red-stroke", false)
+      select(`line.relationship[index="${newLink.index}"]`).classed("red-stroke", true)
+      this.text = `${newLink.source.label} [${newLink.label}] ${newLink.target.label}`
       this.prependedSvg = null
     }
   }

@@ -17,7 +17,7 @@ export const buildColors = (nodes, colorVariation) => {
   
   sections = Array.from(sections).sort((a, b) => a === "NE" ? -1 : b === "NE" ? 1 : 0)
   colorScheme = scaleSequential([0, sections.length], interpolateTurbo)
-  console.log(nodes)
+  
   sections.forEach((section, baseIndex) => {
     let sectionNodes = nodes.filter(node => node.id.startsWith(section)).sort()
     sectionNodes.forEach((node, offsetIndex) => {

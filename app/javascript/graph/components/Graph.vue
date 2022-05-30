@@ -2,7 +2,7 @@
 import { select, selectAll } from "d3"
 import { forceSimulation, forceCenter, forceCollide, forceLink, forceManyBody } from "d3-force"
 
-import BridgeList from "./BridgeList.vue"
+import BridgeManager from "./BridgeManager.vue"
 import ControlPanel from "./ControlPanel.vue"
 import Highlight from "./Highlight.vue"
 
@@ -12,7 +12,7 @@ import { zoom } from "./zoom"
 export default {
   components: {
     ControlPanel,
-    BridgeList,
+    BridgeManager,
     Highlight
   },
   data() {
@@ -32,7 +32,8 @@ export default {
       simulation: null,
       scale: { value: 1.0, event: null },
       highlightedNode: null,
-      highlightedLink: null,
+      highlightedSynonymLink: null,
+      highlightedRelationshipLink: null,
       bridgeNode: null
     }
   },
@@ -106,7 +107,7 @@ export default {
     updateScale(e) {
       e.preventDefault()
       this.scale = {
-        value: Math.min(Math.max(1.0, this.scale.value + e.deltaY * -0.005), 10.0),
+        value: Math.min(Math.max(1.0, this.scale.value + e.deltaY * -0.005), 50.0),
         event: e
       }
     },
@@ -132,17 +133,20 @@ export default {
       document.addEventListener("mousemove", mouseMoveHandler)
       document.addEventListener("mouseup", mouseUpHandler)
     },
-    expandNode(nodeId, data) {
+    expandNode(startingNode, data) {
       let { nodes, relationshipLinks, synonymLinks } = data
-      let referenceNode = this.nodes.find(node => node.id === nodeId)
       nodes.forEach(n => {
-        n.x = referenceNode.x
-        n.y = referenceNode.y
+        n.x = startingNode.x
+        n.y = startingNode.y
       })
-      // console.log(nodes, relationshipLinks, synonymLinks)
-      this.nodes = [...this.nodes, ...nodes]
-      this.relationshipLinks = [...this.relationshipLinks, ...relationshipLinks]
-      this.synonymLinks = [...this.synonymLinks, ...synonymLinks]
+
+      let newNodes = nodes.filter(node => !this.nodes.some(n => n.id === node.id))
+      let newRelationshipLinks = relationshipLinks.filter(link => !this.relationshipLinks.some(l => l.source.id === link.source && l.target.id === link.target))
+      let newSynonymLinks = synonymLinks.filter(link => !this.synonymLinks.some(l => l.source.id === link.source && l.target.id === link.target))
+      this.nodes = [...this.nodes, ...newNodes]
+      this.relationshipLinks = [...this.relationshipLinks, ...newRelationshipLinks]
+      this.synonymLinks = [...this.synonymLinks, ...newSynonymLinks]
+      this.colorVariation = 0.0
     }
   }
 }
@@ -158,13 +162,13 @@ export default {
         class="synonym"
         :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
         :index="link.index"
-        @mouseover="highlightedLink = link"
+        @mouseover="highlightedSynonymLink = link"
       />
       <line v-for="link in relationshipLinks"
         class="relationship"
         :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
         :index="link.index"
-        @mouseover="highlightedLink = link"
+        @mouseover="highlightedRelationshipLink = link"
       />
       <g v-for="node in nodes" :transform="`translate(${node.x}, ${node.y})`">
         <circle class="node-circle"
@@ -184,13 +188,14 @@ export default {
     v-model:radius="radius"
     @reload="fetchGraph"
   />
-  <BridgeList
+  <BridgeManager
     :baseUrl="baseUrl"
     :node="bridgeNode"
     @expand-node="expandNode"
   />
   <Highlight
     :node="highlightedNode"
-    :link="highlightedLink"
+    :synonym-link="highlightedSynonymLink"
+    :relationship-link="highlightedRelationshipLink"
   />
 </template>
