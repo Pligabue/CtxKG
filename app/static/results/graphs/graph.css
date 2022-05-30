@@ -1,0 +1,80 @@
+.graph-svg {
+  height: 100%;
+  width: 100%;
+}
+
+.file-section {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+
+.load-button {
+  font-size: large;
+  background-color: #1f657a;
+  color: white;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+}
+
+.filenames {
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 1rem;
+}
+
+.refresh-button {
+  position: absolute;
+  font-size: large;
+  top: 1rem;
+  right: 2rem;
+  cursor: pointer;
+}
+
+.toggle-text-button {
+  position: absolute;
+  font-size: large;
+  top: 2.5rem;
+  right: 2rem;
+  cursor: pointer;
+}
+
+#graph-inputs {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Courier New', Courier, monospace;
+  position: absolute;
+  bottom: 2rem;
+  left: 1rem;
+}
+
+.node-circle {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.node-text {
+  font-size: small;
+  fill: white;
+  paint-order: stroke;
+  stroke: black;
+  stroke-width: 2px;
+}
+
+.synonym {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.relationship {
+  stroke: gray;
+  stroke-width: 1;
+}
+
+.red-stroke {
+  stroke: red;
+}
+
+.hidden {
+  display: none;
+}

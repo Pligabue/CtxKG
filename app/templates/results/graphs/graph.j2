@@ -1,0 +1,23 @@
+{% extends "base.j2" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='results/graphs/graph.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="mt-12 mx-12">
+  {{ 
+    breadcrums(
+      ["home", "Home"],
+      ["results.index", "Results"],
+      ["results.result", result, {"result": result}],
+      ["results.graphs.index", title, {"result": result, "version": version}],
+      subtitle
+    ) 
+  }}
+  <h1 class="text-4xl font-semibold mt-3">{{ subtitle }}</h1>
+</div>
+<div id="graph-container" class="relative overflow-hidden"></div>
+<script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
+<script src="{{ url_for('static', filename='results/graphs/index.js') }}"></script>
+{% endblock %}

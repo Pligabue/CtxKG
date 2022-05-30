@@ -1,4 +1,5 @@
 from typing import Dict, Union
+import numpy as np
 import pandas as pd
 import tensorflow as tf
 import json
@@ -107,6 +108,10 @@ class Graph:
         self.encoder.build_entity_encodings(self.triples)
         return self
 
+    def get_stacked_encodings(self, normalize=False):
+        encodings = [entity.encoding for entity in self.entities.values()]
+        return tf.math.l2_normalize(encodings, 1) if normalize else encodings
+
     def build_links(self, threshold: float):
         self.links = []
         entities = list(self.entities.values())
@@ -168,3 +173,26 @@ class Graph:
         self.remove_duplicates()
         self.links = []
         return self
+
+    def build_bridges(self, target_graph: "Graph", threshold: float):
+        bridges = {}
+        entities = list(self.entities.values())
+        target_entities = list(target_graph.entities.values())
+
+        encodings = self.get_stacked_encodings(normalize=True)
+        target_encodings = target_graph.get_stacked_encodings(normalize=True)
+        similarity = tf.linalg.matmul(encodings, target_encodings, transpose_b=True).numpy()
+        matches = np.argmax(similarity, axis=1)
+        for e_index, match_index in enumerate(matches):
+            if similarity[e_index, match_index] > threshold:
+                e = entities[e_index]
+                te = target_entities[match_index]
+                bridges[e.id] = te.id
+
+        matching_ids = set(self.entities.keys()) & set(target_graph.entities.keys())
+        for matching_id in matching_ids:
+            bridges[matching_id] = matching_id
+        
+        return bridges
+        
+
