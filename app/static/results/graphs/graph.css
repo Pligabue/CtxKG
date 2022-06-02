@@ -54,7 +54,6 @@
 }
 
 .node-text {
-  font-size: small;
   fill: white;
   paint-order: stroke;
   stroke: black;

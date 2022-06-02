@@ -6,6 +6,7 @@ export default {
     synonymStrength: Number,
     relationshipStrength: Number,
     colorVariation: Number,
+    textSize: Number,
     radius: Number
   },
   emits: [
@@ -15,6 +16,7 @@ export default {
     "update:synonymStrength",
     "update:relationshipStrength",
     "update:colorVariation",
+    "update:textSize",
     "update:radius"
   ]
 }
@@ -41,6 +43,10 @@ export default {
     <label class="flex justify-between mb-1">
     Variação de Cores:
     <input id="color-variation" type="range" min="0" max="1" step="0.05" :value="colorVariation" @change="$emit('update:colorVariation', parseFloat($event.target.value))" />
+    </label>
+    <label class="flex justify-between mb-1">
+    Tamanho do Texto:
+    <input id="radius" type="range" min="0.2" max="2" step="0.05" :value="textSize" @change="$emit('update:textSize', parseFloat($event.target.value))" />
     </label>
     <label class="flex justify-between">
     Raio:

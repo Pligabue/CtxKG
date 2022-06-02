@@ -25,6 +25,7 @@ export default {
       synonymStrength: 1,
       relationshipStrength: 0.2,
       colorVariation: 1,
+      textSize: 1.0,
       radius: 8,
       nodes: [],
       relationshipLinks: [],
@@ -175,7 +176,7 @@ export default {
           :r="radius" :fill="colorSchema[node.id]" :index="node.index"
           @mouseover="highlightedNode = node" @click="bridgeNode = node"
         />
-        <text v-if="showText" class="node-text">{{ node.label }}</text>
+        <text v-if="showText" class="node-text" :style="{ fontSize: textSize + 'em' }">{{ node.label }}</text>
       </g>
     </svg>
   </div>
@@ -185,6 +186,7 @@ export default {
     v-model:synonym-strength="synonymStrength"
     v-model:relationship-strength="relationshipStrength"
     v-model:color-variation="colorVariation"
+    v-model:text-size="textSize"
     v-model:radius="radius"
     @reload="fetchGraph"
   />
