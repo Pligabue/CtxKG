@@ -4,9 +4,9 @@ from src.graph import Graph
 from cli_args import MATCH
 
 
-def main():
+def main(match):
     RESULTS_PATH = Path("./results")
-    dirs = [dir for dir in RESULTS_PATH.glob(MATCH) if dir.is_dir()]
+    dirs = [dir for dir in RESULTS_PATH.glob(match) if dir.is_dir()]
 
     for dir in dirs:
         BASE_DIR = dir / "base"
@@ -19,4 +19,4 @@ def main():
             graph.save_json(CLEAN_DIR / file.name)
 
 if __name__ == "__main__":
-    main()
+    main(MATCH)
