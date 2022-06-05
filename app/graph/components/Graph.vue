@@ -88,8 +88,8 @@ export default {
       fetch(this.baseUrl + `${this.baseGraphName}/json/`)
         .then(res => res.json())
         .then(data => {
-          let { documents, entities, graph, links } = data
-          this.title = documents.join(", ")
+          let { document, entities, graph, links } = data
+          this.title = document.split("/").slice(-1)[0].split(".")[0]
           this.nodes = Object.entries(entities).map(([id, label]) => ({ id: id, label: label, graph: this.baseGraphName }))
           this.relationshipLinks = graph.map(({ subject_id, relation, object_id }) => ({ source: subject_id, target: object_id, label: relation }))
           this.synonymLinks = Object.entries(links)

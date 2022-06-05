@@ -13,8 +13,8 @@ from src.link import Link
 
 
 class Graph:
-    def __init__(self, filepaths: Union[list[str], None] = None, encoder: Union[Encoder, None] = None):
-        self.filepaths: Union[list[str], None] = filepaths
+    def __init__(self, filepath: Union[str, None] = None, encoder: Union[Encoder, None] = None):
+        self.filepath: Union[str, None] = filepath
         self.encoder: Encoder = encoder
         self.entities: Dict[str, Entity] = {}
         self.triples: list[Triple] = []
@@ -24,7 +24,7 @@ class Graph:
     def from_csv(filepath: str, encoder: Union[Encoder, None] = None):
         graph = Graph(None, encoder)
         with open(filepath) as f:
-            graph.filepaths = [re.match(r"# (?P<filepath>.*)", f.readline())["filepath"]]
+            graph.filepath = re.match(r"# (?P<filepath>.*)", f.readline())["filepath"]
             df = pd.read_csv(f, sep=";", comment="#")
             for i, row in df.iterrows():
                 confidence = row["confidence"]
@@ -44,7 +44,7 @@ class Graph:
         graph = Graph(None, encoder)
         with open(filepath) as f:
             graph_json = json.load(f)
-            graph.filepaths = graph_json["documents"]
+            graph.filepath = graph_json["document"]
             for id, text in graph_json["entities"].items():
                 graph.add_entity(id, text)
             for node in graph_json["graph"]:
@@ -59,20 +59,6 @@ class Graph:
                     if not graph.link_exists(entity, linked_entity):
                         graph.add_link(entity, linked_entity)
         return graph
-
-    @staticmethod
-    def from_graphs(graphs: list["Graph"], encoder: Union[Encoder, None] = None):
-        merged_graph = Graph([filepath for graph in graphs for filepath in graph.filepaths], encoder)
-        merged_graph.entities = {}
-        for graph in graphs:
-            merged_graph.entities = merged_graph.entities | graph.entities
-        for graph in graphs:
-            for triple in graph.triples:
-                subject = merged_graph.get_entity_by_id(triple.subject.id)
-                relation = triple.relation
-                object = merged_graph.get_entity_by_id(triple.object.id)
-                merged_graph.add_triple(subject, relation, object)
-        return merged_graph
 
     def get_entity_by_id(self, entity_id: str, entity_text=""):
         if entity_id in self.entities:
@@ -128,7 +114,7 @@ class Graph:
 
     def save_json(self, filepath: Union[str, Path]):
         graph_json = {
-            "documents": self.filepaths,
+            "document": Path(self.filepath).resolve().as_posix(),
             "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
             "graph": [{"subject_id": triple.subject.id, "relation": triple.relation, "object_id": triple.object.id} for triple in self.triples],
             "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
