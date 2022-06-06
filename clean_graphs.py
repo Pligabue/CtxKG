@@ -1,22 +1,22 @@
 from pathlib import Path
 
 from src.graph import Graph
+from constants import RESULT_DIR
 from cli_args import MATCH
 
 
 def main(match):
-    RESULTS_PATH = Path("./results")
-    dirs = [dir for dir in RESULTS_PATH.glob(match) if dir.is_dir()]
+    dirs = [dir for dir in RESULT_DIR.glob(match) if dir.is_dir()]
 
     for dir in dirs:
-        BASE_DIR = dir / "base"
-        CLEAN_DIR = dir / "clean"
-        CLEAN_DIR.mkdir(exist_ok=True)
+        base_dir = dir / "base"
+        clean_dir = dir / "clean"
+        clean_dir.mkdir(exist_ok=True)
         
-        for file in BASE_DIR.glob("*.json"):
+        for file in base_dir.glob("*.json"):
             graph = Graph.from_json(file)
             graph.clean()
-            graph.save_json(CLEAN_DIR / file.name)
+            graph.save_json(clean_dir / file.name)
 
 if __name__ == "__main__":
     main(MATCH)

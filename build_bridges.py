@@ -1,11 +1,11 @@
 from operator import attrgetter
-from pathlib import Path
 import json
 
 from tqdm import tqdm
 
 from src.graph import Graph
 from src.encoder import Encoder
+from constants import RESULT_DIR
 from cli_args import MATCH, SIZE, CLEAN, OVERWRITE, RATIO, THRESHOLD
 
 
@@ -24,12 +24,11 @@ def normalize(bridge_dir):
             json.dump(bridges, f, indent=2)
 
 def main(match, size, clean, overwrite, ratio, threshold):
-    RESULT_DIR = Path('./results')
-    KG_NODE_DIRS = [path for path in RESULT_DIR.glob(match) if path.is_dir()]
+    kg_dirs = [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
     encoder = Encoder(size=size, ratio=ratio)
 
-    for dir in KG_NODE_DIRS:
+    for dir in kg_dirs:
         graph_dir = dir / "clean" if clean else dir / "base"
         bridge_dir = graph_dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)

@@ -1,11 +1,9 @@
 import subprocess
-from pathlib import Path
 import requests
 from tqdm import tqdm
 from zipfile import ZipFile, BadZipFile
 
-
-OPEN_IE_DIR = Path("./openie")
+from constants import OPEN_IE_DIR
 
 def ask(question):
     response = input(question)
