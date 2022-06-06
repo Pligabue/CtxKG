@@ -94,6 +94,7 @@ typeguard==2.12.1
 typing-extensions==3.7.4.3
 uritemplate==3.0.1
 urllib3==1.26.7
+waitress==2.1.2
 Werkzeug==2.0.1
 wrapt==1.12.1
 zipp==3.8.0
