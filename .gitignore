@@ -7,9 +7,8 @@ openie/*
 documents/*.txt
 triples/*.txt
 triples/*.csv
-kg_nodes*/
-results/*.txt
-results/*.json
+results/
+!results/README.md
 
 .ipynb_checkpoints
 venv
