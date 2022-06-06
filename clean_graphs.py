@@ -1,3 +1,4 @@
+from pathlib import Path
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
 
@@ -10,7 +11,7 @@ def get_dirs(match):
     if match is None:
         Tk().withdraw()
         directory = askdirectory(initialdir=RESULT_DIR)
-        return [directory]
+        return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
 def main(match):

@@ -1,3 +1,4 @@
+from pathlib import Path
 from operator import attrgetter
 import json
 from tkinter import Tk
@@ -15,7 +16,7 @@ def get_dirs(match):
     if match is None:
         Tk().withdraw()
         directory = askdirectory(initialdir=RESULT_DIR)
-        return [directory]
+        return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
 def read_json(file):
