@@ -1,5 +1,7 @@
 from operator import attrgetter
 import json
+from tkinter import Tk
+from tkinter.filedialog import askdirectory
 
 from tqdm import tqdm
 
@@ -8,6 +10,13 @@ from src.encoder import Encoder
 from constants import RESULT_DIR
 from cli_args import MATCH, SIZE, CLEAN, OVERWRITE, RATIO, THRESHOLD
 
+
+def get_dirs(match):
+    if match is None:
+        Tk().withdraw()
+        directory = askdirectory(initialdir=RESULT_DIR)
+        return [directory]
+    return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
 def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
@@ -24,7 +33,7 @@ def normalize(bridge_dir):
             json.dump(bridges, f, indent=2)
 
 def main(match, size, clean, overwrite, ratio, threshold):
-    kg_dirs = [path for path in RESULT_DIR.glob(match) if path.is_dir()]
+    kg_dirs = get_dirs(match)
 
     encoder = Encoder(size=size, ratio=ratio)
 

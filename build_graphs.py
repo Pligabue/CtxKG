@@ -1,6 +1,8 @@
 from pathlib import Path
 from datetime import datetime
 from tqdm import tqdm
+from tkinter import Tk
+from tkinter.filedialog import askopenfilenames
 
 from src.graph import Graph
 from src.encoder import Encoder
@@ -8,6 +10,13 @@ from src.encoder import Encoder
 from constants import TRIPLE_DIR, RESULT_DIR
 from cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME
 
+
+def get_files(base_dir, match, overwrite):
+    if match is None:
+        Tk().withdraw()
+        filenames = askopenfilenames(initialdir=TRIPLE_DIR)
+        return [Path(f) for f in filenames]
+    return [f for f in TRIPLE_DIR.glob(match) if f.suffix == ".csv" and (overwrite or not (base_dir / f"{f.stem}.json").is_file())]
 
 def main(size, ratio, threshold, overwrite, match, name):
     kg_dir = RESULT_DIR / (name or f"kg_nodes_ratio_{int(100 * ratio)}_threshold_{int(100 * threshold)}_{size}")
@@ -17,11 +26,12 @@ def main(size, ratio, threshold, overwrite, match, name):
     errors_dir = base_dir / "errors"
     errors_dir.mkdir(exist_ok=True)
 
+    failed_files = []
+    files = get_files(base_dir, match, overwrite)
+    sorted_files = sorted(files, key=lambda file: file.stat().st_size)
+
     encoder = Encoder(size=size, ratio=ratio)
 
-    failed_files = []
-    files = [file for file in TRIPLE_DIR.glob(match) if file.suffix == ".csv" and (overwrite or not Path(BASE_DIR / f"{file.stem}.json").is_file())]
-    sorted_files = sorted(files, key=lambda file: file.stat().st_size)
     for file in tqdm(sorted_files):
         try:
             graph = Graph.from_csv(file, encoder)
