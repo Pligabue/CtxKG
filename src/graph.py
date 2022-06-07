@@ -120,7 +120,7 @@ class Graph:
             "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
         }
         with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(graph_json, f, indent=2)
+            json.dump(graph_json, f, indent=2, ensure_ascii=False)
         return self
 
     def number_of_appearences(self, entity):

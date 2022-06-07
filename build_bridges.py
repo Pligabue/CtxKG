@@ -31,7 +31,7 @@ def normalize(bridge_dir):
             target_bridges = read_json(target_file)
             bridges[target_file.name] = {value: key for key, value in target_bridges[file.name].items()}
         with file.open("w", encoding="utf-8") as f:
-            json.dump(bridges, f, indent=2)
+            json.dump(bridges, f, indent=2, ensure_ascii=False)
 
 def main(match, size, clean, overwrite, ratio, threshold):
     kg_dirs = get_dirs(match)
@@ -53,7 +53,7 @@ def main(match, size, clean, overwrite, ratio, threshold):
                 target_graph = Graph.from_json(target_graph_file).add_encoder(encoder).build_entity_encodings()
                 bridges[target_graph_file.name] = graph.build_bridges(target_graph, threshold)
             with (bridge_dir / graph_file.name).open("w", encoding="utf-8") as f:
-                json.dump(bridges, f, indent=2)
+                json.dump(bridges, f, indent=2, ensure_ascii=False)
 
         normalize(bridge_dir)
 
