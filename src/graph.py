@@ -23,7 +23,7 @@ class Graph:
     @staticmethod
     def from_csv(filepath: str, encoder: Union[Encoder, None] = None):
         graph = Graph(None, encoder)
-        with open(filepath) as f:
+        with open(filepath, encoding="utf-8") as f:
             graph.filepath = re.match(r"# (?P<filepath>.*)", f.readline())["filepath"]
             df = pd.read_csv(f, sep=";", comment="#")
             for i, row in df.iterrows():
@@ -42,7 +42,7 @@ class Graph:
     @staticmethod
     def from_json(filepath: Union[str, Path], encoder: Union[Encoder, None] = None):
         graph = Graph(None, encoder)
-        with open(filepath) as f:
+        with open(filepath, encoding="utf-8") as f:
             graph_json = json.load(f)
             graph.filepath = graph_json["document"]
             for id, text in graph_json["entities"].items():

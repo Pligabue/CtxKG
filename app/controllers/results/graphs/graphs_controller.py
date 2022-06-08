@@ -34,7 +34,7 @@ def graph(result, version, graph):
 @bp.route("/clean/<graph>/json/", defaults={"version": "clean"})
 def graph_json(result, version, graph):
     graph = RESULT_DIR / result / version / graph
-    with graph.open() as f:
+    with graph.open(encoding="utf-8") as f:
         return jsonify(json.load(f))
 
 @bp.route("/base/<graph>/bridges/<node>/", defaults={"version": "base"})
@@ -42,7 +42,7 @@ def graph_json(result, version, graph):
 def node_bridges(result, version, graph, node):
     bridges = {}
     bridge_path = RESULT_DIR / result / version / "bridges" / graph
-    with bridge_path.open() as f:
+    with bridge_path.open(encoding="utf-8") as f:
         all_bridges = json.load(f)
         for target_graph, target_graph_bridges in all_bridges.items():
             if node in target_graph_bridges:
@@ -53,7 +53,7 @@ def node_bridges(result, version, graph, node):
 @bp.route("/clean/<graph>/<node>/", defaults={"version": "clean"})
 def expand_node(result, version, graph, node):
     graph_path = RESULT_DIR / result / version / graph
-    with graph_path.open() as f:
+    with graph_path.open(encoding="utf-8") as f:
         graph = json.load(f)
         expanded_nodes = get_expanded_nodes(graph, node)
         expanded_node_json = {
