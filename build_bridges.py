@@ -9,7 +9,7 @@ from tqdm import tqdm
 from src.graph import Graph
 from src.encoder import Encoder
 from constants import RESULT_DIR
-from cli_args import MATCH, SIZE, CLEAN, OVERWRITE, RATIO, THRESHOLD
+from cli_args import MATCH, SIZE, CLEAN, RATIO, THRESHOLD
 
 
 def get_dirs(match):
@@ -23,19 +23,16 @@ def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def normalize(bridge_dir):
-    reversed_files = sorted(bridge_dir.glob("*.json"), key=attrgetter("name"), reverse=True)
-    for file in reversed_files[:-1]:
-        bridges = read_json(file)
-        for target_file in reversed_files[reversed_files.index(file)+1:]:
-            target_bridges = read_json(target_file)
-            bridges[target_file.name] = {value: key for key, value in target_bridges[file.name].items()}
-        with file.open("w", encoding="utf-8") as f:
-            json.dump(bridges, f, indent=2, ensure_ascii=False)
+def get_existing_bridges(bridge_dir, source_file):
+    bridges = {}
+    for target_file in bridge_dir.glob("*.json"):
+        target_bridges = read_json(target_file)
+        if source_file.name in target_bridges:
+            bridges[target_file.name] = {value: key for key, value in target_bridges[source_file.name].items()}
+    return bridges
 
-def main(match, size, clean, overwrite, ratio, threshold):
+def main(match, size, clean, ratio, threshold):
     kg_dirs = get_dirs(match)
-
     encoder = Encoder(size=size, ratio=ratio)
 
     for dir in kg_dirs:
@@ -43,19 +40,16 @@ def main(match, size, clean, overwrite, ratio, threshold):
         bridge_dir = graph_dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
         
-        graph_files = [file for file in graph_dir.glob("*.json") if overwrite or not (bridge_dir / file.name).exists()]
-        graph_files.sort(key=attrgetter("name"))
-        for graph_file in tqdm(graph_files):
-            bridges = {}
-            graph = Graph.from_json(graph_file).add_encoder(encoder).build_entity_encodings()
-            target_graph_files = graph_files[graph_files.index(graph_file)+1:]
-            for target_graph_file in tqdm(target_graph_files, leave=False):
-                target_graph = Graph.from_json(target_graph_file).add_encoder(encoder).build_entity_encodings()
-                bridges[target_graph_file.name] = graph.build_bridges(target_graph, threshold)
-            with (bridge_dir / graph_file.name).open("w", encoding="utf-8") as f:
+        graph_files = [file for file in graph_dir.glob("*.json")]
+        for source_file in tqdm(graph_files):
+            bridges = get_existing_bridges(bridge_dir, source_file)
+            graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
+            target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
+            for target_files in tqdm(target_files, leave=False):
+                target_graph = Graph.from_json(target_files).add_encoder(encoder).build_entity_encodings()
+                bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
+            with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2, ensure_ascii=False)
 
-        normalize(bridge_dir)
-
 if __name__ == "__main__":
-    main(MATCH, SIZE, CLEAN, OVERWRITE, RATIO, THRESHOLD)
+    main(MATCH, SIZE, CLEAN, RATIO, THRESHOLD)
