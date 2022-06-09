@@ -80,7 +80,7 @@ public class TripleBuilder {
         for (File f : files) {
             try {
                 Scanner reader = new Scanner(f, "utf-8");
-                FileWriter writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
+                FileWriter writer = null;
                 UUID uniqueId = UUID.randomUUID();
                 List<String> allTriples = new ArrayList<>();
                 allTriples.add(Triple.getHeader(f.getAbsolutePath()));
@@ -114,10 +114,10 @@ public class TripleBuilder {
                         );
                     }
                 }
+                writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
                 writer.write(allTriples.stream().distinct().collect(joining("\n")));
-
-                reader.close();
                 writer.close();
+                reader.close();
             } catch (FileNotFoundException e) {
                 System.out.println("An error occurred.");
                 e.printStackTrace();
