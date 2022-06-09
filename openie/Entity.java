@@ -105,7 +105,7 @@ public class Entity {
 
     @Override
     public int hashCode() {
-        return this.getId().hashCode();
+        return this.getTokens().hashCode();
     };
 
     public String getText() {
