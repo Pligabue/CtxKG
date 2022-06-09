@@ -32,9 +32,7 @@ export default {
       synonymLinks: [],
       simulation: null,
       scale: { value: 1.0, event: null },
-      highlightedNode: null,
-      highlightedSynonymLink: null,
-      highlightedRelationshipLink: null,
+      highlighted: { el: null, type: null },
       bridgeNode: null
     }
   },
@@ -163,18 +161,18 @@ export default {
         class="synonym"
         :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
         :index="link.index"
-        @mouseover="highlightedSynonymLink = link"
+        @mouseover="highlighted = { el: link, type: 'synonymLink'}"
       />
       <line v-for="link in relationshipLinks"
         class="relationship"
         :x1="link.source.x" :y1="link.source.y" :x2="link.target.x" :y2="link.target.y"
         :index="link.index"
-        @mouseover="highlightedRelationshipLink = link"
+        @mouseover="highlighted = { el: link, type: 'relationshipLink'}"
       />
       <g v-for="node in nodes" :transform="`translate(${node.x}, ${node.y})`">
         <circle class="node-circle"
           :r="radius" :fill="colorSchema[node.id]" :index="node.index"
-          @mouseover="highlightedNode = node" @click="bridgeNode = node"
+          @mouseover="highlighted = { el: node, type: 'node'}" @click="bridgeNode = node"
         />
         <text v-if="showText" class="node-text" :style="{ fontSize: textSize + 'em' }">{{ node.label }}</text>
       </g>
@@ -196,8 +194,7 @@ export default {
     @expand-node="expandNode"
   />
   <Highlight
-    :node="highlightedNode"
-    :synonym-link="highlightedSynonymLink"
-    :relationship-link="highlightedRelationshipLink"
+    :el="highlighted.el"
+    :type="highlighted.type"
   />
 </template>

@@ -2,7 +2,7 @@
 import { select, selectAll } from "d3"
 
 export default {
-  props: ["node", "synonymLink", "relationshipLink"],
+  props: ["el", "type"],
   data() {
     return {
       text: null,
@@ -10,23 +10,27 @@ export default {
     }
   },
   watch: {
-    node(newNode) {
-      selectAll(".red-stroke").classed("red-stroke", false)
-      let circle = select(`circle[index="${newNode.index}"]`).classed("red-stroke", true)
-      this.text = newNode.label
-      this.prependedSvg = `<circle r="8" fill="${circle.attr("fill")}" class="node-circle"></circle>`
-    },
-    synonymLink(newLink) {
-      selectAll(".red-stroke").classed("red-stroke", false)
-      select(`line.synonym[index="${newLink.index}"]`).classed("red-stroke", true)
-      this.text = `${newLink.source.label} [${newLink.label}] ${newLink.target.label}`
-      this.prependedSvg = null
-    },
-    relationshipLink(newLink) {
-      selectAll(".red-stroke").classed("red-stroke", false)
-      select(`line.relationship[index="${newLink.index}"]`).classed("red-stroke", true)
-      this.text = `${newLink.source.label} [${newLink.label}] ${newLink.target.label}`
-      this.prependedSvg = null
+    el(newEl) {
+      switch (this.type) {
+        case "node":
+          selectAll(".red-stroke").classed("red-stroke", false)
+          let circle = select(`circle[index="${newEl.index}"]`).classed("red-stroke", true)
+          this.text = newEl.label
+          this.prependedSvg = `<circle r="8" fill="${circle.attr("fill")}" class="node-circle"></circle>`
+          break;
+        case "synonymLink":
+          selectAll(".red-stroke").classed("red-stroke", false)
+          select(`line.synonym[index="${newEl.index}"]`).classed("red-stroke", true)
+          this.text = `${newEl.source.label} [${newEl.label}] ${newEl.target.label}`
+          this.prependedSvg = null
+          break;
+        case "relationshipLink":
+          selectAll(".red-stroke").classed("red-stroke", false)
+          select(`line.relationship[index="${newEl.index}"]`).classed("red-stroke", true)
+          this.text = `${newEl.source.label} [${newEl.label}] ${newEl.target.label}`
+          this.prependedSvg = null
+          break;
+      }
     }
   }
 }
