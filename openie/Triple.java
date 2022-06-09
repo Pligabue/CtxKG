@@ -66,7 +66,7 @@ public class Triple {
     public String toString() {
         Entity finalSubject = this.subject.getFinalEntity().cleanForm();
         Entity finalObject = this.object.getFinalEntity().cleanForm();
-        return this.confidence + ";" + finalSubject.getText() + ";" + this.relation + ";" + finalObject.getText() + ";" + finalSubject.getId() + ";" + finalObject.getId();
+        return this.confidence + ";\"" + finalSubject.getText() + "\";\"" + this.relation + "\";\"" + finalObject.getText() + "\";\"" + finalSubject.getId() + "\";\"" + finalObject.getId() + "\"";
     }
 
     public static String findRelation(Entity subject, Entity object, SemanticGraph graph) {
