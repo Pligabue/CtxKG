@@ -8,6 +8,9 @@ class Triple:
         self.object: Entity = object
         self.confidence: float = confidence
 
+    def entities(self):
+        return (self.subject, self.object)
+
     def to_text(self):
         return f"{self.subject.text} {self.relation} {self.object.text}"
 

@@ -142,10 +142,6 @@ class Graph:
                 return triple
         return None
 
-    def remove_duplicates(self):
-        self.triples = [triple for triple in self.triples if triple is self.get_first_appearance(triple)]
-        self.triples = [triple for triple in self.triples if triple.subject is not triple.object]
-
     def clean(self):
         entity_list = list(self.entities.values())
         sorted_entities = sorted(entity_list, key=lambda entity: (entity.is_named_entity(), self.number_of_appearences(entity)), reverse=True)
@@ -157,8 +153,17 @@ class Graph:
                 self.links = [link for link in self.links if link.entity_a is not entity and link.entity_b is not entity]
                 del self.entities[entity.id]
         self.remove_duplicates()
+        self.remove_tripleless_entities()
         self.links = []
         return self
+
+    def remove_duplicates(self):
+        self.triples = [triple for triple in self.triples if triple is self.get_first_appearance(triple)]
+        self.triples = [triple for triple in self.triples if triple.subject is not triple.object]
+
+    def remove_tripleless_entities(self):
+        remaining_entities = {entity for triple in self.triples for entity in triple.entities()}
+        self.entities = {id: e for id, e in self.entities.items() if e in remaining_entities}
 
     def build_bridges(self, target_graph: "Graph", threshold: float):
         bridges = {}
