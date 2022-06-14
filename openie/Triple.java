@@ -111,6 +111,7 @@ public class Triple {
                 return new Triple(subject, "at", object);
             case "amod":
             case "appos":
+            case "obl:npmod":
                 return new Triple(subject, "is", object);
             case "compound":
             case "nmod":
