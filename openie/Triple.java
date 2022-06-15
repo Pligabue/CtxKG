@@ -103,7 +103,6 @@ public class Triple {
             case "nsubj:pass":
             case "obj":
             case "obl":
-            case "obl:agent":
             case "obl:arg":
             case "obl:lmod":
             case "obl:tmod":
@@ -124,6 +123,8 @@ public class Triple {
             case "nummod":
             case "nummod:gov":
                 return new Triple(subject, "amount to", object);
+            case "obl:agent":
+                return new Triple(subject, "by", object);
             case "vocative":
                 return new Triple(object, "referenced by", subject);
             case "acl":
