@@ -186,11 +186,20 @@ public class Entity {
     }
 
     private static void trimTokens(List<CoreLabel> tokens) {
-        if (tokens.size() > 0) {
-            CoreLabel firstToken = tokens.get(0);
-            if (trimmableTags.contains(firstToken.tag())) {
-                tokens.remove(0);
+        boolean changed;
+        do {
+            changed = false;
+            if (tokens.size() > 0) {
+                CoreLabel firstToken = tokens.get(0);
+                CoreLabel lastToken = tokens.get(tokens.size() - 1);
+                
+                if (trimmableTags.contains(firstToken.tag())) {
+                    changed |= tokens.remove(firstToken);
+                }
+                if (trimmableTags.contains(lastToken.tag())) {
+                    changed |= tokens.remove(lastToken);
+                }
             }
-        }
+        } while (changed);
     }
 }
