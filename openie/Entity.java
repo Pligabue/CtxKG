@@ -22,7 +22,7 @@ import edu.stanford.nlp.ling.IndexedWord;
 
 public class Entity {
     private static List<String> expectedNounTags = Arrays.asList("NN", "NNP", "NNS", "NNPS");
-    private static List<String> trimmableTags = Arrays.asList("IN", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ");
+    private static List<String> trimmableTags = Arrays.asList("IN");
     private static List<String> droppableTags = Arrays.asList("POS");
     private List<CoreLabel> tokens;
     private String text;
