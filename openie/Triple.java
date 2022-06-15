@@ -93,6 +93,11 @@ public class Triple {
         }
 
         switch (relation) {
+            case "acl":
+            case "amod":
+            case "appos":
+            case "obl:npmod":
+                return new Triple(subject, "is", object);
             case "advmod":
             case "advmod:emph":
             case "advmod:lmod":
@@ -108,10 +113,6 @@ public class Triple {
             case "obl:tmod":
             case "xcomp":
                 return new Triple(subject, "at", object);
-            case "amod":
-            case "appos":
-            case "obl:npmod":
-                return new Triple(subject, "is", object);
             case "compound":
             case "nmod":
                 return new Triple(subject, "of", object);
@@ -127,7 +128,6 @@ public class Triple {
                 return new Triple(subject, "by", object);
             case "vocative":
                 return new Triple(object, "referenced by", subject);
-            case "acl":
             case "acl:relcl":
             case "advcl":
             case "aux":
