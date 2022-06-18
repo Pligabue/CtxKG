@@ -15,8 +15,10 @@ def get_files(base_dir, match, overwrite):
     if match is None:
         Tk().withdraw()
         filenames = askopenfilenames(initialdir=TRIPLE_DIR)
-        return [Path(f) for f in filenames]
-    return [f for f in TRIPLE_DIR.glob(match) if f.suffix == ".csv" and (overwrite or not (base_dir / f"{f.stem}.json").is_file())]
+        filepaths = [Path(f) for f in filenames]
+    else:
+        filepaths = list(TRIPLE_DIR.glob(match))
+    return [f for f in filepaths if f.suffix == ".csv" and (overwrite or not (base_dir / f"{f.stem}.json").is_file())]
 
 def main(size, ratio, threshold, overwrite, match, name):
     kg_dir = RESULT_DIR / (name or f"kg_nodes_ratio_{int(100 * ratio)}_threshold_{int(100 * threshold)}_{size}")
