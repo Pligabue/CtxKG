@@ -10,6 +10,7 @@ parser.add_argument("-t", "--threshold", type=float, default=0.8)
 parser.add_argument("-o", "--overwrite", dest="overwrite", action="store_true")
 parser.add_argument("-m", "--match", type=str)
 parser.add_argument("-n", "--name", type=str)
+parser.add_argument("-b", "--batch", type=int, default=300)
 parser.set_defaults(size="small", overwrite=False, clean=False)
 args = parser.parse_args()
 
@@ -20,3 +21,4 @@ THRESHOLD = args.threshold
 OVERWRITE = args.overwrite
 MATCH = args.match
 NAME = args.name
+BATCH = args.batch

@@ -28,26 +28,29 @@ class Encoder:
         self.sequence_model: Model = Model(text_input, outputs["sequence_output"])
         self.cls_model: Model = Model(text_input, outputs["pooled_output"])
 
-    def build_entity_encodings(self, triples: list[Triple]):
-        subject_inputs = tf.constant([triple.subject.text for triple in triples])
-        object_inputs = tf.constant([triple.object.text for triple in triples])
-        triples_inputs = tf.constant([triple.to_text() for triple in triples])
+    def build_entity_encodings(self, triples: list[Triple], batch_size=None):
+        batch_size = batch_size or len(triples)
+        for i in range(0, len(triples), batch_size):
+            batch = triples[i:i+batch_size]
+            subject_inputs = tf.constant([triple.subject.text for triple in batch])
+            object_inputs = tf.constant([triple.object.text for triple in batch])
+            triples_inputs = tf.constant([triple.to_text() for triple in batch])
 
-        triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)["input_word_ids"] == self.SEP_ID, axis=1) 
-        subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)["input_word_ids"] == self.SEP_ID, axis=1)
-        object_start_indexes = triple_end_indexes - (np.argmax(self.preprocessor(object_inputs)["input_word_ids"] == self.SEP_ID, axis=1) - 1)
+            triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)["input_word_ids"] == self.SEP_ID, axis=1)
+            subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)["input_word_ids"] == self.SEP_ID, axis=1)
+            object_start_indexes = triple_end_indexes - (np.argmax(self.preprocessor(object_inputs)["input_word_ids"] == self.SEP_ID, axis=1) - 1)
 
-        triple_encodings = self.sequence_model(triples_inputs)
+            triple_encodings = self.sequence_model(triples_inputs)
 
-        for t_end, sub_end, obj_start, encoding, triple in zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings, triples):
-            base_subject_encoding = tf.reduce_mean(encoding[1:sub_end], 0)
-            base_object_encoding = tf.reduce_mean(encoding[obj_start:t_end], 0)
-            cls_encodings = encoding[0]
+            for t_end, sub_end, obj_start, encoding, triple in zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings, batch):
+                base_subject_encoding = tf.reduce_mean(encoding[1:sub_end], 0)
+                base_object_encoding = tf.reduce_mean(encoding[obj_start:t_end], 0)
+                cls_encodings = encoding[0]
 
-            subject_encoding = tf.add(base_subject_encoding * self.ratio, cls_encodings * (1 - self.ratio))
-            object_encoding = tf.add(base_object_encoding * self.ratio, cls_encodings * (1 - self.ratio))
+                subject_encoding = tf.add(base_subject_encoding * self.ratio, cls_encodings * (1 - self.ratio))
+                object_encoding = tf.add(base_object_encoding * self.ratio, cls_encodings * (1 - self.ratio))
 
-            triple.subject.add_encoding(subject_encoding)
-            triple.object.add_encoding(object_encoding)
-
+                triple.subject.add_encoding(subject_encoding)
+                triple.object.add_encoding(object_encoding)
+        
         return self

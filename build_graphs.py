@@ -8,7 +8,7 @@ from src.graph import Graph
 from src.encoder import Encoder
 
 from constants import TRIPLE_DIR, RESULT_DIR
-from cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME
+from cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
 
 
 def get_files(base_dir, match, overwrite):
@@ -20,7 +20,7 @@ def get_files(base_dir, match, overwrite):
         filepaths = list(TRIPLE_DIR.glob(match))
     return [f for f in filepaths if f.suffix == ".csv" and (overwrite or not (base_dir / f"{f.stem}.json").is_file())]
 
-def main(size, ratio, threshold, overwrite, match, name):
+def main(size, ratio, threshold, overwrite, match, name, batch_size):
     kg_dir = RESULT_DIR / (name or f"kg_nodes_ratio_{int(100 * ratio)}_threshold_{int(100 * threshold)}_{size}")
     kg_dir.mkdir(exist_ok=True)
     base_dir = kg_dir / "base"
@@ -37,7 +37,7 @@ def main(size, ratio, threshold, overwrite, match, name):
     for file in tqdm(sorted_files):
         try:
             graph = Graph.from_csv(file, encoder)
-            graph.build_entity_encodings()
+            graph.build_entity_encodings(batch_size)
             graph.build_links(threshold=threshold)
             graph.save_json(base_dir / f"{file.stem}.json")
         except KeyboardInterrupt:
@@ -51,4 +51,4 @@ def main(size, ratio, threshold, overwrite, match, name):
     return kg_dir
 
 if __name__ == "__main__":
-    main(SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME)
+    main(SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH)

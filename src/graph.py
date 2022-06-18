@@ -90,8 +90,8 @@ class Graph:
     def link_exists(self, entity_a: Entity, entity_b: Entity):
         return entity_b in self.get_linked_entities(entity_a)
 
-    def build_entity_encodings(self):
-        self.encoder.build_entity_encodings(self.triples)
+    def build_entity_encodings(self, batch_size=None):
+        self.encoder.build_entity_encodings(self.triples, batch_size)
         return self
 
     def get_stacked_encodings(self, normalize=False):
