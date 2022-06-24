@@ -1,6 +1,8 @@
 openie/*
 !openie/README.md
 !openie/*.java
+stanza_corenlp/*
+*.props
 
 *.pdf
 
