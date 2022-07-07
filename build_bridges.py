@@ -23,9 +23,11 @@ def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def get_existing_bridges(bridge_dir, source_file):
-    bridges = {}
-    for target_file in bridge_dir.glob("*.json"):
+def get_existing_bridges(bridge_dir: Path, source_file: Path):
+    bridge_file = bridge_dir / source_file.name
+    bridges = {} if not bridge_file.is_file() else read_json(bridge_file)
+    missing_files = [f for f in bridge_dir.glob("*.json") if f.name not in bridges]
+    for target_file in missing_files:
         target_bridges = read_json(target_file)
         if source_file.name in target_bridges:
             bridges[target_file.name] = {value: key for key, value in target_bridges[source_file.name].items()}
@@ -43,8 +45,10 @@ def main(match, size, clean, ratio, threshold):
         graph_files = [file for file in graph_dir.glob("*.json")]
         for source_file in tqdm(graph_files):
             bridges = get_existing_bridges(bridge_dir, source_file)
-            graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
             target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
+            if not target_files:
+                continue
+            graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
             for target_files in tqdm(target_files, leave=False):
                 target_graph = Graph.from_json(target_files).add_encoder(encoder).build_entity_encodings()
                 bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
