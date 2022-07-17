@@ -46,12 +46,11 @@ def main(match, size, clean, ratio, threshold):
         for source_file in tqdm(graph_files):
             bridges = get_existing_bridges(bridge_dir, source_file)
             target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
-            if not target_files:
-                continue
-            graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
-            for target_files in tqdm(target_files, leave=False):
-                target_graph = Graph.from_json(target_files).add_encoder(encoder).build_entity_encodings()
-                bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
+            if target_files:
+                graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
+                for target_files in tqdm(target_files, leave=False):
+                    target_graph = Graph.from_json(target_files).add_encoder(encoder).build_entity_encodings()
+                    bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
             with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2, ensure_ascii=False)
 
