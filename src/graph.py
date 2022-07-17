@@ -173,12 +173,15 @@ class Graph:
         encodings = self.get_stacked_encodings(normalize=True)
         target_encodings = target_graph.get_stacked_encodings(normalize=True)
         similarity = tf.linalg.matmul(encodings, target_encodings, transpose_b=True).numpy()
-        matches = np.argmax(similarity, axis=1)
-        for e_index, match_index in enumerate(matches):
-            if similarity[e_index, match_index] > threshold:
-                e = entities[e_index]
-                te = target_entities[match_index]
-                bridges[e.id] = te.id
+
+        row_matches = {(row, column) for column, row in enumerate(np.argmax(similarity, axis=0))}
+        column_matches = {(row, column) for row, column in enumerate(np.argmax(similarity, axis=1))}
+        matches = {match for match in column_matches & row_matches if similarity[match[0], match[1]] > threshold}
+        
+        for row, column in matches:
+            e = entities[row]
+            te = target_entities[column]
+            bridges[e.id] = te.id
 
         matching_ids = set(self.entities.keys()) & set(target_graph.entities.keys())
         for matching_id in matching_ids:
