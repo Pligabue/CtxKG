@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 
 RESULT_DIR = Path("results")
+DOCUMENT_DIR = Path("documents")
 
 bp = Blueprint('graphs', __name__, url_prefix='/<result>/graphs')
 
@@ -78,3 +79,14 @@ def get_expanded_nodes(graph, initial_node):
         explored.update(to_explore)
     
     return entities
+
+@bp.route("/base/<graph>/document/", defaults={"version": "base"})
+@bp.route("/clean/<graph>/document/", defaults={"version": "clean"})
+def get_original_document(result, version, graph):
+    graph_path = RESULT_DIR / result / version / graph
+    with graph_path.open(encoding="utf-8") as f:
+        graph = json.load(f)
+    document_file = Path(graph["document"])
+    with document_file.open(encoding="utf-8") as f:
+        document_text = f.read()
+    return jsonify(document_text)
