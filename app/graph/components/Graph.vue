@@ -7,6 +7,7 @@ import { baseUrl, baseGraphName } from "../constants"
 import BridgeManager from "./BridgeManager.vue"
 import ControlPanel from "./ControlPanel.vue"
 import Highlight from "./Highlight.vue"
+import DocumentModal from "./DocumentModal.vue";
 
 import { buildColors } from "./colors"
 import { zoom } from "./zoom"
@@ -15,7 +16,8 @@ export default {
   components: {
     ControlPanel,
     BridgeManager,
-    Highlight
+    Highlight,
+    DocumentModal
   },
   data() {
     return {
@@ -33,7 +35,8 @@ export default {
       simulation: null,
       scale: { value: 1.0, event: null },
       highlighted: { el: null, type: null },
-      bridgeNode: null
+      bridgeNode: null,
+      documentVisible: false
     }
   },
   computed: {
@@ -179,6 +182,7 @@ export default {
     </svg>
   </div>
   <ControlPanel
+    v-model:document-visible="documentVisible"
     v-model:show-text="showText"
     v-model:overall-strength="overallStrength" 
     v-model:synonym-strength="synonymStrength"
@@ -196,4 +200,5 @@ export default {
     :el="highlighted.el"
     :type="highlighted.type"
   />
+  <DocumentModal v-model:visible="documentVisible" />
 </template>
