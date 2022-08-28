@@ -1,6 +1,8 @@
 <script>
+import { baseUrl } from '../constants'
+
 export default {
-  props: ["baseUrl", "node"],
+  props: ["node"],
   emits: ["expandNode"],
   data() {
     return {
@@ -16,7 +18,7 @@ export default {
         this.title = newNode.label
         this.loading = true
         this.show = true
-        fetch(this.baseUrl + `${newNode.graph}/bridges/${newNode.id}/`)
+        fetch(baseUrl + `${newNode.graph}/bridges/${newNode.id}/`)
           .then(res => res.json())
           .then(data => {
             this.bridges = data
@@ -31,7 +33,7 @@ export default {
   },
   methods: {
     expandNode(graphName, nodeId) {
-      fetch(this.baseUrl + `${graphName}/${nodeId}/`)
+      fetch(baseUrl + `${graphName}/${nodeId}/`)
         .then(res => res.json())
         .then(data => {
           let { entities, graph, links } = data
@@ -53,7 +55,7 @@ export default {
         })
     },
     linkTo(graph) {
-      return this.baseUrl + `${graph}/`
+      return baseUrl + `${graph}/`
     }
   }
 }

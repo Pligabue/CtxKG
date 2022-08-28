@@ -2,9 +2,12 @@
 import { select, selectAll } from "d3"
 import { forceSimulation, forceCenter, forceCollide, forceLink, forceManyBody } from "d3-force"
 
+import { baseUrl, baseGraphName } from "../constants"
+
 import BridgeManager from "./BridgeManager.vue"
 import ControlPanel from "./ControlPanel.vue"
 import Highlight from "./Highlight.vue"
+import DocumentModal from "./DocumentModal.vue";
 
 import { buildColors } from "./colors"
 import { zoom } from "./zoom"
@@ -13,12 +16,11 @@ export default {
   components: {
     ControlPanel,
     BridgeManager,
-    Highlight
+    Highlight,
+    DocumentModal
   },
   data() {
     return {
-      baseUrl: window.location.pathname.match(/.*(?:base|clean)\//)[0],
-      baseGraphName: window.location.pathname.match(/\/([^\/]*)\/$/)[1],
       title: "",
       showText: true,
       overallStrength: 50,
@@ -33,7 +35,8 @@ export default {
       simulation: null,
       scale: { value: 1.0, event: null },
       highlighted: { el: null, type: null },
-      bridgeNode: null
+      bridgeNode: null,
+      documentVisible: false
     }
   },
   computed: {
@@ -83,12 +86,12 @@ export default {
   },
   methods: {
     fetchGraph() {
-      fetch(this.baseUrl + `${this.baseGraphName}/json/`)
+      fetch(baseUrl + `${baseGraphName}/json/`)
         .then(res => res.json())
         .then(data => {
           let { document, entities, graph, links } = data
           this.title = document.split("/").slice(-1)[0].split(".")[0]
-          this.nodes = Object.entries(entities).map(([id, label]) => ({ id: id, label: label, graph: this.baseGraphName }))
+          this.nodes = Object.entries(entities).map(([id, label]) => ({ id: id, label: label, graph: baseGraphName }))
           this.relationshipLinks = graph.map(({ subject_id, relation, object_id }) => ({ source: subject_id, target: object_id, label: relation }))
           this.synonymLinks = Object.entries(links)
             .flatMap(([entity, links]) => links.map((link) => ({ source: entity, target: link, label: "=" })))
@@ -179,6 +182,7 @@ export default {
     </svg>
   </div>
   <ControlPanel
+    v-model:document-visible="documentVisible"
     v-model:show-text="showText"
     v-model:overall-strength="overallStrength" 
     v-model:synonym-strength="synonymStrength"
@@ -189,7 +193,6 @@ export default {
     @reload="fetchGraph"
   />
   <BridgeManager
-    :baseUrl="baseUrl"
     :node="bridgeNode"
     @expand-node="expandNode"
   />
@@ -197,4 +200,5 @@ export default {
     :el="highlighted.el"
     :type="highlighted.type"
   />
+  <DocumentModal v-model:visible="documentVisible" />
 </template>

@@ -1,6 +1,7 @@
 <script>
 export default {
   props: {
+    documentVisible: Boolean,
     showText: Boolean,
     overallStrength: Number,
     synonymStrength: Number,
@@ -11,6 +12,7 @@ export default {
   },
   emits: [
     "reload",
+    "update:documentVisible",
     "update:showText",
     "update:overallStrength",
     "update:synonymStrength",
@@ -23,10 +25,13 @@ export default {
 </script>
 
 <template>
+  <div class="absolute top-4 left-4">
+    <div class="mx-2" @click="$emit('update:documentVisible', !documentVisible)"><i class="fas fa-book cursor-pointer"></i></div>
+  </div>
   <div class="absolute bottom-4 left-4">
     <div class="flex mb-1">
-      <div class="mx-2" @click="$emit('reload')"><i class="fas fa-sync-alt"></i></div>
-      <div class="mx-2" @click="$emit('update:showText', !showText)"><i class="fas fa-eye" :class="{ 'text-gray-500': !showText }"></i></div>
+      <div class="mx-2" @click="$emit('reload')"><i class="fas fa-sync-alt cursor-pointer"></i></div>
+      <div class="mx-2" @click="$emit('update:showText', !showText)"><i class="fas fa-eye cursor-pointer" :class="{ 'text-gray-500': !showText }"></i></div>
     </div>
     <label class="flex justify-between mb-1">
     Força - Geral:
