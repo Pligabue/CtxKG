@@ -1,0 +1,348 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075835330.txt",
+  "entities": {
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-continents-10": "continents",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15": "units",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-offshore-2": "offshore",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-oil-17-production-18": "oil production",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Oil-1": "Oil",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14": "floating",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-other-9": "other",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4": "production units",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-platforms-8": "platforms",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-semi-submersible-7": "semi-submersible",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchored-2": "anchored",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Typical-1": "Typical",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16": "torpedo piles",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19": "polyester ropes",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-FPSOs-12": "FPSOs",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-twelve-9-years-10": "twelve years",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-22-lines-23": "anchoring lines",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-deep-25-waters-28": "deep waters",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-last-8": "last",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8": "Cidade de Angra dos Reis",
+    "NE-DATE-October-2010": "October 2010",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-area-17": "area",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-pre-salt-16": "pre-salt",
+    "NE-ORDINAL-first": "first",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-common-7": "common",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-size-13": "size",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19": "150,000 barrels",
+    "NE-ORGANIZATION-VLCC": "VLCC",
+    "NE-DURATION-day": "day",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,200-11-tonnes-12": "1,200 tonnes",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-14": "piles",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-reason-2": "reason",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-proposition-2": "proposition",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-paper-6": "paper",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-difference-3": "difference",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9": "piles",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-main-2": "main",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-use-6": "use",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22": "breaking strength",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-power-12": "power",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-holding-11-power-12": "holding power",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-driven-8": "driven",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,800-14-tonnes-15": "1,800 tonnes",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22-of-23-more-24-2,000-26-tonnes-27": "breaking strength of more 2,000 tonnes",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-decrease-6": "decrease",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-achieved-18": "achieved",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-space-8": "space",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-seabed-16": "seabed",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-lines-13": "lines",
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-12": "anchoring"
+  },
+  "graph": [
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-continents-10",
+      "relation": "has demanded",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has demanded",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-offshore-2"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-oil-17-production-18"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Oil-1"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-continents-10",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-other-9"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4",
+      "relation": "are",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-platforms-8"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-platforms-8",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-semi-submersible-7"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchored-2"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Typical-1"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16",
+      "relation": "years",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-FPSOs-12",
+      "relation": "adopts torpedo piles at_time",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-twelve-9-years-10"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-22-lines-23",
+      "relation": "is in",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-deep-25-waters-28"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16",
+      "relation": "last years",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-twelve-9-years-10",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-last-8"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16",
+      "relation": "FPSOs",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16",
+      "relation": "lines",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16",
+      "relation": "anchoring lines",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8",
+      "relation": "operate in",
+      "object_id": "NE-DATE-October-2010"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8",
+      "relation": "operate in",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-area-17"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-area-17",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-pre-salt-16"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8",
+      "relation": "was",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-FPSOs-12",
+      "relation": "became",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-common-7"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-size-13",
+      "relation": "production of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-size-13",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-VLCC"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19",
+      "relation": "of",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-FPSOs-12",
+      "relation": "on became",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-common-7"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4",
+      "relation": "is with",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-size-13"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,200-11-tonnes-12",
+      "relation": "torpedo",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-14"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-reason-2",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,200-11-tonnes-12"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-proposition-2",
+      "relation": "developed in",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-paper-6"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-difference-3",
+      "relation": "is use of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-difference-3",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-main-2"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-difference-3",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-use-6"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-power-12"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "is with",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-holding-11-power-12"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-driven-8"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-holding-11-power-12"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "of",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,800-14-tonnes-15"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9",
+      "relation": "is with",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22-of-23-more-24-2,000-26-tonnes-27"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-decrease-6",
+      "relation": "be",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-achieved-18"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-space-8",
+      "relation": "occupied in",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-seabed-16"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-space-8",
+      "relation": "occupied by",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-lines-13"
+    },
+    {
+      "subject_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-lines-13",
+      "relation": "is",
+      "object_id": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-12"
+    }
+  ],
+  "links": {
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-continents-10": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-units-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-offshore-2": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-oil-17-production-18": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Oil-1": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-other-9": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-production-3-units-4": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-platforms-8": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-semi-submersible-7": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchored-2": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Typical-1": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-torpedo-15-piles-16": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-polyester-18-ropes-19": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-FPSOs-12": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-twelve-9-years-10": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-22-lines-23": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-deep-25-waters-28": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-last-8": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Cidade-4-de-5-Angra-6-dos-7-Reis-8": [],
+    "NE-DATE-October-2010": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-area-17": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-pre-salt-16": [],
+    "NE-ORDINAL-first": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-common-7": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-size-13": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19": [],
+    "NE-ORGANIZATION-VLCC": [],
+    "NE-DURATION-day": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,200-11-tonnes-12": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-14": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-reason-2": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-proposition-2": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-paper-6": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-difference-3": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-piles-9": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-main-2": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-use-6": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-power-12": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-holding-11-power-12": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-driven-8": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-1,800-14-tonnes-15": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-breaking-21-strength-22-of-23-more-24-2,000-26-tonnes-27": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-decrease-6": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-achieved-18": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-space-8": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-seabed-16": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-lines-13": [],
+    "f0f4bf07-c1ed-4d46-a167-48acf173b05d-anchoring-12": []
+  }
+}

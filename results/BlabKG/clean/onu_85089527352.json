@@ -1,0 +1,449 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85089527352.txt",
+  "entities": {
+    "3e605179-b368-4602-b44b-ceaa04c453c2-Ports-1": "Ports",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-routes-7": "routes",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-10-services-11": "dredging services",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-essential-13": "essential",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-connections-19": "connections",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-maritime-6": "maritime",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-world-3-commerce-4": "world commerce",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-question-4": "question",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-critical-6": "critical",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-one-3": "one",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-8": "dredging",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-is-9-considered-11": "is considered",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-when-7": "when",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-However-1": "However",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-management-19-tool-20": "management tool",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-used-23": "used",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-project-25-planning-26-steps-27": "project planning steps",
+    "NE-MISC-Dredging-Sensitivity-Index": "Dredging Sensitivity Index",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-try-2": "try",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-developed-16": "developed",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-to-21": "to",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-To-1": "To",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-order-2": "order",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-damages-6": "damages",
+    "NE-ORGANIZATION-DSI": "DSI",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-17": "alternatives",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sensitivity-20-areas-21": "sensitivity areas",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5": "environmental",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-identifying-19": "identifying",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16": "areas",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-map-23": "map",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-impacts-5": "impacts",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-favorable-15": "favorable",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-simple-22": "simple",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sediment-9-removal-10-step-11": "sediment removal step",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-Formulas-1": "Formulas",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-weight-5": "weight",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-used-3": "used",
+    "NE-CITY-Bay": "Bay",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-chosen-4": "chosen",
+    "NE-LOCATION-Sepetiba": "Sepetiba",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-8": "methodology",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-relevant-12": "relevant",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-economic-13": "economic",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-map-3": "map",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-10": "methodology",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-bay-20": "bay",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-area-30": "area",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sensitive-29": "sensitive",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36": "avoided",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-should-34": "should",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-result-7": "result",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-final-6": "final",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-more-28": "more",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-portion-17": "portion",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-where-32": "where",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9": "damages",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-reducing-8": "reducing",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-tool-6": "tool",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-very-4": "very",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-zonation-17": "zonation",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-11-services-12": "dredging services",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-decision-23-makers-25": "decision makers",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-21": "alternatives",
+    "3e605179-b368-4602-b44b-ceaa04c453c2-useful-5": "useful"
+  },
+  "graph": [
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-Ports-1",
+      "relation": "link world commerce via",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-routes-7"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-10-services-11",
+      "relation": "are",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-essential-13"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-10-services-11",
+      "relation": "establish",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-connections-19"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-routes-7",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-maritime-6"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-Ports-1",
+      "relation": "link",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-world-3-commerce-4"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-question-4",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-critical-6"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-question-4",
+      "relation": "amount to",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-one-3"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-8",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-is-9-considered-11"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-is-9-considered-11",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-when-7"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-critical-6",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-However-1"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-management-19-tool-20",
+      "relation": "be",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-used-23"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-management-19-tool-20",
+      "relation": "be used in",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-project-25-planning-26-steps-27"
+    },
+    {
+      "subject_id": "NE-MISC-Dredging-Sensitivity-Index",
+      "relation": "was developed",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-try-2"
+    },
+    {
+      "subject_id": "NE-MISC-Dredging-Sensitivity-Index",
+      "relation": "was developed",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-used-23"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-used-23",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-project-25-planning-26-steps-27"
+    },
+    {
+      "subject_id": "NE-MISC-Dredging-Sensitivity-Index",
+      "relation": "was developed",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-project-25-planning-26-steps-27"
+    },
+    {
+      "subject_id": "NE-MISC-Dredging-Sensitivity-Index",
+      "relation": "was",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-developed-16"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-used-23",
+      "relation": "mark",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-to-21"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-try-2",
+      "relation": "mark",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-To-1"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-order-2",
+      "relation": "diminish",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "provides",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-17"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-17",
+      "relation": "of",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-sensitivity-20-areas-21"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-6",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-17",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-identifying-19"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16",
+      "relation": "dredge with",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-23"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-impacts-5",
+      "relation": "points out",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-favorable-15"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-23",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-simple-22"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-impacts-5",
+      "relation": "caused by",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-sediment-9-removal-10-step-11"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-Formulas-1",
+      "relation": "were used to",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-weight-5"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-Formulas-1",
+      "relation": "were",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-used-3"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "was",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-chosen-4"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Sepetiba"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "apply",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-8"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-relevant-12"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-economic-13"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-3",
+      "relation": "was final result of",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-10"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-3",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-DSI"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-bay-20",
+      "relation": "portion of is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-area-30"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-area-30",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-sensitive-29"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-3",
+      "relation": "was result of",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-10"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-8",
+      "relation": "should",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36",
+      "relation": "aux",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-should-34"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-3",
+      "relation": "was",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-result-7"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-result-7",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-final-6"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-bay-20",
+      "relation": "northern portion of is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-area-30"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-area-30",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-more-28"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-portion-17",
+      "relation": "is sensitive",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-map-3",
+      "relation": "was final",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-10"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-where-32"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "is useful",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "is useful tool for",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-reducing-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-tool-6"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-tool-6",
+      "relation": "at",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-very-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "is tool for",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "contributes with",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-zonation-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "is very useful tool for",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9",
+      "relation": "of",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-11-services-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "provides alternatives to",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-decision-23-makers-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DSI",
+      "relation": "provides",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-21"
+    },
+    {
+      "subject_id": "3e605179-b368-4602-b44b-ceaa04c453c2-tool-6",
+      "relation": "is",
+      "object_id": "3e605179-b368-4602-b44b-ceaa04c453c2-useful-5"
+    }
+  ],
+  "links": {
+    "3e605179-b368-4602-b44b-ceaa04c453c2-Ports-1": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-routes-7": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-10-services-11": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-essential-13": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-connections-19": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-maritime-6": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-world-3-commerce-4": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-question-4": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-critical-6": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-one-3": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-8": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-is-9-considered-11": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-when-7": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-However-1": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-management-19-tool-20": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-used-23": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-project-25-planning-26-steps-27": [],
+    "NE-MISC-Dredging-Sensitivity-Index": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-try-2": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-developed-16": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-to-21": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-To-1": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-order-2": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-damages-6": [],
+    "NE-ORGANIZATION-DSI": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-17": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sensitivity-20-areas-21": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-identifying-19": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-map-23": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-impacts-5": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-favorable-15": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-simple-22": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sediment-9-removal-10-step-11": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-Formulas-1": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-weight-5": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-used-3": [],
+    "NE-CITY-Bay": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-chosen-4": [],
+    "NE-LOCATION-Sepetiba": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-8": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-relevant-12": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-economic-13": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-map-3": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-methodology-10": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-bay-20": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-area-30": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-sensitive-29": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-avoided-36": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-should-34": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-result-7": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-final-6": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-more-28": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-portion-17": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-where-32": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-damages-9": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-reducing-8": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-tool-6": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-very-4": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-zonation-17": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-dredging-11-services-12": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-decision-23-makers-25": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-alternatives-21": [],
+    "3e605179-b368-4602-b44b-ceaa04c453c2-useful-5": []
+  }
+}

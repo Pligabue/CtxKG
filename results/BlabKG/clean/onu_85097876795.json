@@ -1,0 +1,269 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097876795.txt",
+  "entities": {
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-study-2": "study",
+    "NE-ORGANIZATION-International-Maritime-Organization": "International Maritime Organization",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-production-16": "production",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-ports-25": "ports",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13": "fuels",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24": "impacts",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-energy-27-chains-28": "energy chains",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-available-6": "available",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-costs-20": "costs",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-alternative-12": "alternative",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-additional-19": "additional",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-it-8": "it",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-likely-10": "likely",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-other-2": "other",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-23": "relevant",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-required-16": "required",
+    "NE-TITLE-model": "model",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14": "part",
+    "NE-ORGANIZATION-IAM": "IAM",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-BLUES-6": "BLUES",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-national-4": "national",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-shipping-18-sector-19": "shipping sector",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-adapted-9": "adapted",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-13": "relevant",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-Hence-1": "Hence",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-international-17": "international",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-set-2": "set",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuel-9-alternatives-10": "fuel alternatives",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-different-8": "different",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-gains-12": "gains",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-maritime-15": "maritime",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7": "mitigation strategy",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13": "decarbonization",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-integrated-5": "integrated",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-supply-18": "supply",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-effective-12": "effective",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-entire-16": "entire",
+    "NE-TITLE-marine": "marine",
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-more-11": "more"
+  },
+  "graph": [
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-study-2",
+      "relation": "provide perspective considering",
+      "object_id": "NE-ORGANIZATION-International-Maritime-Organization"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-production-16",
+      "relation": "is in",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-ports-25"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-ports-25",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13",
+      "relation": "entailing",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24",
+      "relation": "of",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-energy-27-chains-28"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7",
+      "relation": "are",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-available-6"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13",
+      "relation": "implying",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-costs-20"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-alternative-12"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-costs-20",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-additional-19"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-it-8",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-likely-10"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-other-2"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-23"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13",
+      "relation": "be",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-required-16"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-it-8",
+      "relation": "is likely",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-available-6"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-other-2"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "represent",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-IAM"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-BLUES-6"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-national-4"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14",
+      "relation": "of",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-shipping-18-sector-19"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-adapted-9"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-13"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-adapted-9",
+      "relation": "at",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-Hence-1"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-international-17"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-set-2",
+      "relation": "is developed considering",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuel-9-alternatives-10"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuel-9-alternatives-10",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-different-8"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-gains-12",
+      "relation": "obtained by",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-maritime-15"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7",
+      "relation": "would lead to",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-integrated-5"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "of",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-supply-18"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-effective-12"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7",
+      "relation": "Therefore would lead to",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "is",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-entire-16"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13",
+      "relation": "at",
+      "object_id": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-more-11"
+    }
+  ],
+  "links": {
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-study-2": [],
+    "NE-ORGANIZATION-International-Maritime-Organization": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-production-16": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-ports-25": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuels-13": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-energy-27-chains-28": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-available-6": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-costs-20": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-alternative-12": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-additional-19": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-it-8": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-likely-10": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-other-2": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-23": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-required-16": [],
+    "NE-TITLE-model": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14": [],
+    "NE-ORGANIZATION-IAM": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-BLUES-6": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-national-4": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-shipping-18-sector-19": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-adapted-9": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-relevant-13": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-Hence-1": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-international-17": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-set-2": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-fuel-9-alternatives-10": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-different-8": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-gains-12": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-maritime-15": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-mitigation-6-strategy-7": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-decarbonization-13": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-integrated-5": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-supply-18": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-effective-12": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-entire-16": [],
+    "NE-TITLE-marine": [],
+    "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-more-11": []
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086248840.txt",
+  "entities": {
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Floating-14-Production-15-Units-16": "Floating Production Units",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5": "history",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-11": "evolution",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2": "paper",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Production-15-Units-16": "Production Units",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-9": "solutions",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-7": "challenges",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-unit-4": "unit",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7": "stream",
+    "NE-ORDINAL-first": "first",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3": "floating",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "NE-DATE-1977": "1977",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3-unit-4": "floating unit",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6": "well",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10-to-16-MODU-18": "drilling riser to MODU",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-single-5": "single",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10": "drilling riser",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12": "major stepping stone",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15": "implementation",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3": "evolution",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-one-8": "one",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-lessons-17": "lessons",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-learned-18": "learned",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-6": "FPSOs",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-feedback-21": "feedback",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-foundation-26": "foundation",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-strong-25": "strong",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-field-5-demands-6": "field demands",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-8": "solutions",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-adopted-9": "adopted",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-25": "FPSOs",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5": "challenges",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16": "water reservoirs",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-technological-4": "technological",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-ultra-deep-12": "ultra-deep",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20": "use",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-expertise-23": "expertise",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-complex-14": "complex",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-consolidated-19": "consolidated",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-pre-salt-15": "pre-salt",
+    "NE-DATE-past": "past",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-projects-28": "projects",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10": "company",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5": "known",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Semi-Submersible-9": "Semi-Submersible",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Initially-1": "Initially",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-worldwide-6": "worldwide",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-4": "well",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-4-effort-5": "industry effort",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13": "regulations",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-local-12": "local",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10": "standards",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-international-9": "international",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-agencies-15": "agencies",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21": "end",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "NE-SET-'90s": "'90s",
+    "NE-SET-'80s": "'80s",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-early-25": "early",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-7": "evolution",
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-10": "industry"
+  },
+  "graph": [
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Floating-14-Production-15-Units-16",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "paper",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-11"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2",
+      "relation": "describes",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Production-15-Units-16"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "paper",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-9"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Floating-14-Production-15-Units-16"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5",
+      "relation": "paper",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-7"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-unit-4",
+      "relation": "was on",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-unit-4",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-unit-4",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is at",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7",
+      "relation": "of",
+      "object_id": "NE-DATE-1977"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7",
+      "relation": "is in",
+      "object_id": "NE-DATE-1977"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3-unit-4",
+      "relation": "produced from",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3-unit-4",
+      "relation": "of",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10-to-16-MODU-18"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6",
+      "relation": "is with",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10-to-16-MODU-18"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-single-5"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12",
+      "relation": "was",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15",
+      "relation": "at",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12",
+      "relation": "was implementation Along",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12",
+      "relation": "amount to",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-one-8"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12",
+      "relation": "was implementation of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-lessons-17"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-lessons-17"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-learned-18"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-6"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-feedback-21",
+      "relation": "create",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-foundation-26"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-foundation-26",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-strong-25"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-field-5-demands-6",
+      "relation": "paper",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-8"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2",
+      "relation": "will depict",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-field-5-demands-6"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-field-5-demands-6",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-adopted-9"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-25",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5",
+      "relation": "produce from",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-technological-4"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5",
+      "relation": "efficiently and safely produce from",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-ultra-deep-12"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5",
+      "relation": "required",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-expertise-23"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-complex-14"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5",
+      "relation": "efficiently produce from",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-consolidated-19"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-pre-salt-15"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20",
+      "relation": "is",
+      "object_id": "NE-DATE-past"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-projects-28"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "Initially was known worldwide as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "Initially was well known worldwide as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Semi-Submersible-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "Initially was known as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was well known as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "Initially was well known as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was well known worldwide as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5",
+      "relation": "at",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Initially-1"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was known as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was known worldwide as",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5",
+      "relation": "at",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-worldwide-6"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5",
+      "relation": "at",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-4"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-4-effort-5",
+      "relation": "approve",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-local-12"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-4-effort-5",
+      "relation": "approve",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10",
+      "relation": "is",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-international-9"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-agencies-15"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "led",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-4-effort-5"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "of",
+      "object_id": "NE-SET-'90s"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10",
+      "relation": "regulations by",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21",
+      "relation": "of",
+      "object_id": "NE-SET-'80s"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21",
+      "relation": "of",
+      "object_id": "NE-SET-'90s"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21",
+      "relation": "case",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-early-25"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10",
+      "relation": "regulations with",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-agencies-15"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "of",
+      "object_id": "NE-SET-'80s"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13",
+      "relation": "is with",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-agencies-15"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2",
+      "relation": "will focus on",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-7"
+    },
+    {
+      "subject_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-7",
+      "relation": "of",
+      "object_id": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-10"
+    }
+  ],
+  "links": {
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Floating-14-Production-15-Units-16": [],
+    "NE-COUNTRY-Brazil": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-history-5": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-11": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Production-15-Units-16": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-9": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-7": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-unit-4": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-stream-7": [],
+    "NE-ORDINAL-first": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "NE-DATE-1977": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3-unit-4": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-6": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10-to-16-MODU-18": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-single-5": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-drilling-9-riser-10": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-major-9-stepping-10-stone-12": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-implementation-15": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-3": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-one-8": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-lessons-17": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-learned-18": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-6": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-feedback-21": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-foundation-26": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-strong-25": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-field-5-demands-6": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-solutions-8": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-adopted-9": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-FPSOs-25": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-challenges-5": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-technological-4": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-ultra-deep-12": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-use-20": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-expertise-23": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-complex-14": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-consolidated-19": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-pre-salt-15": [],
+    "NE-DATE-past": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-projects-28": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-company-10": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-known-5": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Semi-Submersible-9": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Initially-1": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-worldwide-6": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-well-4": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-4-effort-5": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-regulations-13": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-local-12": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-standards-10": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-international-9": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-agencies-15": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-end-21": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "NE-SET-'90s": [
+      "NE-SET-'80s"
+    ],
+    "NE-SET-'80s": [
+      "NE-SET-'90s"
+    ],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-early-25": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-evolution-7": [],
+    "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-industry-10": []
+  }
+}

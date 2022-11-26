@@ -1,0 +1,243 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85066617192.txt",
+  "entities": {
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Offshore-1-oil-2-development-3-projects-4": "Offshore oil development projects",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-complex-6": "complex",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-capital-10-investment-11": "capital investment",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-high-9": "high",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-application-2": "application",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-important-15": "important",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-particularly-14": "particularly",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-projects-6": "projects",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-moment-3": "moment",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-modifications-8": "modifications",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-attractivity-12": "attractivity",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-economical-11": "economical",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-recovery-2": "recovery",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-oil-12-price-13-criterion-14-fulfillment-15": "oil price criterion fulfillment",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-break-9-even-11": "break even",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-requirements-25": "requirements",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-other-24": "other",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-paper-2": "paper",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-methodology-5": "methodology",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-developed-6": "developed",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-solutions-2": "solutions",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-team-7": "team",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Successful-1": "Successful",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5": "development",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10": "lines",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-reuse-7": "reuse",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-phased-4": "phased",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-use-27": "use",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-production-13-wells-14": "production wells",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-declining-12": "declining",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-flexible-9": "flexible",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-new-18-technologies-19-including-21-boosting-22": "new technologies including boosting",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-article-2": "article",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-focused-4": "focused",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-engineering-7-solutions-8": "engineering solutions",
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-subsea-6": "subsea"
+  },
+  "graph": [
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Offshore-1-oil-2-development-3-projects-4",
+      "relation": "are",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-complex-6"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Offshore-1-oil-2-development-3-projects-4",
+      "relation": "require",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-capital-10-investment-11"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-capital-10-investment-11",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-high-9"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-application-2",
+      "relation": "became",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-important-15"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-important-15",
+      "relation": "at",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-particularly-14"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-projects-6",
+      "relation": "required modifications At",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-moment-3"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-projects-6",
+      "relation": "required",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-modifications-8"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-modifications-8",
+      "relation": "regain",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-attractivity-12"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-attractivity-12",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-economical-11"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-recovery-2",
+      "relation": "depended on",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-oil-12-price-13-criterion-14-fulfillment-15"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-oil-12-price-13-criterion-14-fulfillment-15",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-break-9-even-11"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-recovery-2",
+      "relation": "depended among",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-requirements-25"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-requirements-25",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-other-24"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-paper-2",
+      "relation": "presents",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-methodology-5"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-methodology-5",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-methodology-5",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-developed-6"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-solutions-2",
+      "relation": "provided by",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-team-7"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-solutions-2",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Successful-1"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-team-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-solutions-2",
+      "relation": "include",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5",
+      "relation": "at",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-reuse-7"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-phased-4"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5",
+      "relation": "reuse of",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5",
+      "relation": "at",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-use-27"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10",
+      "relation": "of",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-production-13-wells-14"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-declining-12"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-flexible-9"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10",
+      "relation": "application of",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-new-18-technologies-19-including-21-boosting-22"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-article-2",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-focused-4"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-article-2",
+      "relation": "is focused on",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-engineering-7-solutions-8"
+    },
+    {
+      "subject_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-engineering-7-solutions-8",
+      "relation": "is",
+      "object_id": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-subsea-6"
+    }
+  ],
+  "links": {
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Offshore-1-oil-2-development-3-projects-4": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-complex-6": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-capital-10-investment-11": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-high-9": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-application-2": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-important-15": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-particularly-14": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-projects-6": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-moment-3": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-modifications-8": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-attractivity-12": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-economical-11": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-recovery-2": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-oil-12-price-13-criterion-14-fulfillment-15": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-break-9-even-11": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-requirements-25": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-other-24": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-paper-2": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-methodology-5": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-developed-6": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-solutions-2": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-team-7": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-Successful-1": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-development-5": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-lines-10": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-reuse-7": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-phased-4": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-use-27": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-production-13-wells-14": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-declining-12": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-flexible-9": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-new-18-technologies-19-including-21-boosting-22": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-article-2": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-focused-4": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-engineering-7-solutions-8": [],
+    "09790547-3df0-4ca2-b3ad-f36ed5f66b04-subsea-6": []
+  }
+}

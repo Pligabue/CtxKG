@@ -1,0 +1,448 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85071488896.txt",
+  "entities": {
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5": "turtles",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-exposed-8": "exposed",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7": "constantly",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggression-10-factors-11": "aggression factors",
+    "NE-TITLE-marine": "marine",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-3": "living",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-objective-2": "objective",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14": "alterations",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21": "stomach of living",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-anatomopathological-13": "anatomopathological",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-23": "turtles",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-21": "living",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-found-24": "found",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-identify-8": "identify",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17": "stomach",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-to-7": "to",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Twenty-1-two-3-sea-4-turtles-5": "Twenty two sea turtles",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-necropsied-7": "necropsied",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-10-fragments-11": "stomach fragments",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-collected-13": "collected",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-presence-2": "presence",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-analysis-20": "analysis",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-evaluated-16": "evaluated",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-microscopic-19": "microscopic",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-statistics-2": "statistics",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-performed-9": "performed",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Descriptive-1": "Descriptive",
+    "NE-PERSON-Fisher": "Fisher",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-test-7": "test",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-%-6": "%",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-samples-3": "samples",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-59.1-5": "59.1",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-8-hyperemia-9": "stomach hyperemia",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12": "parasitism",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20": "alteration",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-morphological-19": "morphological",
+    "NE-PERCENT-72.7%": "72.7 %",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3": "gastritis",
+    "NE-PERCENT-86.4%": "86.4 %",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-cases-10": "cases",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-adaptive-18": "adaptive",
+    "NE-PERCENT-59.1%": "59.1 %",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-5": "lesions",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10": "aggressions",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16": "parasitism",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-continuous-9": "continuous",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16-as-24-possible-25-causes-26": "parasitism as possible causes",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-tissue-13": "tissue",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-chronicity-10": "chronicity",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-13-lesions-14": "stomach lesions",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-factors-27": "factors",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-origin-30": "origin",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-environmental-29": "environmental",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-irritating-26": "irritating",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-results-2": "results",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-study-6": "study",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-23": "lesions",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-ecosystem-27": "ecosystem",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-diseased-26": "diseased",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-5-injuries-6": "stomach injuries",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-12": "turtles",
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-frequent-14": "frequent"
+  },
+  "graph": [
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5",
+      "relation": "are",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-exposed-8"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-exposed-8",
+      "relation": "at",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5",
+      "relation": "are exposed to",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggression-10-factors-11"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5",
+      "relation": "are constantly exposed to",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggression-10-factors-11"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-3"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-objective-2",
+      "relation": "describe",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "is in",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-anatomopathological-13"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-23"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-21"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-found-24"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-objective-2",
+      "relation": "was",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-identify-8"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-identify-8",
+      "relation": "mark",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-to-7"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-23"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Twenty-1-two-3-sea-4-turtles-5",
+      "relation": "were",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-necropsied-7"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-10-fragments-11",
+      "relation": "were",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-collected-13"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-presence-2",
+      "relation": "were evaluated in",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-analysis-20"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-presence-2",
+      "relation": "were",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-evaluated-16"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-analysis-20",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-microscopic-19"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-statistics-2",
+      "relation": "were",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-performed-9"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-statistics-2",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Descriptive-1"
+    },
+    {
+      "subject_id": "NE-PERSON-Fisher",
+      "relation": "has",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-test-7"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-%-6",
+      "relation": "had stomach hyperemia Of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-samples-3"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-%-6",
+      "relation": "amount to",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-59.1-5"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-%-6",
+      "relation": "had",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-8-hyperemia-9"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12",
+      "relation": "was",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12",
+      "relation": "gastritis",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-morphological-19"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12",
+      "relation": "is in",
+      "object_id": "NE-PERCENT-72.7%"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3",
+      "relation": "Microscopically was found parasitism in",
+      "object_id": "NE-PERCENT-86.4%"
+    },
+    {
+      "subject_id": "NE-PERCENT-86.4%",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-cases-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-adaptive-18"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3",
+      "relation": "Microscopically was found",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12",
+      "relation": "of",
+      "object_id": "NE-PERCENT-72.7%"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3",
+      "relation": "was found",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20",
+      "relation": "is in",
+      "object_id": "NE-PERCENT-59.1%"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20",
+      "relation": "of",
+      "object_id": "NE-PERCENT-59.1%"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3",
+      "relation": "was found parasitism in",
+      "object_id": "NE-PERCENT-86.4%"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-5",
+      "relation": "chronicity of was",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10",
+      "relation": "at",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-chronicity-10",
+      "relation": "was due",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-continuous-9"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10",
+      "relation": "is with",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16-as-24-possible-25-causes-26"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10",
+      "relation": "at",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16-as-24-possible-25-causes-26"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10",
+      "relation": "of",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-tissue-13"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-chronicity-10",
+      "relation": "is due",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-13-lesions-14",
+      "relation": "chronicity of is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-factors-27",
+      "relation": "have",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-origin-30"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-factors-27",
+      "relation": "at",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-chronicity-10"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-origin-30",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-environmental-29"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-factors-27",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-irritating-26"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-results-2",
+      "relation": "obtained in",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-study-6"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-23",
+      "relation": "reflect",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-ecosystem-27"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-ecosystem-27",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-diseased-26"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-5-injuries-6",
+      "relation": "is in",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-12"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-12",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-12",
+      "relation": "is",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-3"
+    },
+    {
+      "subject_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-5-injuries-6",
+      "relation": "are",
+      "object_id": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-frequent-14"
+    }
+  ],
+  "links": {
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-5": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-exposed-8": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggression-10-factors-11": [],
+    "NE-TITLE-marine": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-3": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-objective-2": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alterations-14": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17-of-18-living-21": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-anatomopathological-13": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-23": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-living-21": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-found-24": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-identify-8": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-17": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-to-7": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Twenty-1-two-3-sea-4-turtles-5": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-necropsied-7": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-10-fragments-11": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-collected-13": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-presence-2": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-analysis-20": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-evaluated-16": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-microscopic-19": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-statistics-2": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-performed-9": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-Descriptive-1": [],
+    "NE-PERSON-Fisher": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-test-7": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-%-6": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-samples-3": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-59.1-5": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-8-hyperemia-9": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-12": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-alteration-20": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-morphological-19": [],
+    "NE-PERCENT-72.7%": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-gastritis-3": [],
+    "NE-PERCENT-86.4%": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-cases-10": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-adaptive-18": [],
+    "NE-PERCENT-59.1%": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-5": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-aggressions-10": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-continuous-9": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-parasitism-16-as-24-possible-25-causes-26": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-tissue-13": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-chronicity-10": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-13-lesions-14": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-factors-27": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-origin-30": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-environmental-29": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-irritating-26": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-results-2": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-study-6": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-lesions-23": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-ecosystem-27": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-diseased-26": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-stomach-5-injuries-6": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-turtles-12": [],
+    "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-frequent-14": []
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_345603133.txt",
+  "entities": {
+    "83f8226e-eaff-474f-8c4b-070d79533224-P50-2-system-3": "P50 system",
+    "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8": "Production Storage",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28": "water depth of approximately",
+    "83f8226e-eaff-474f-8c4b-070d79533224-Floating-6": "Floating",
+    "NE-DATE-1200": "1200",
+    "83f8226e-eaff-474f-8c4b-070d79533224-m-30": "m",
+    "NE-DATE-future": "future",
+    "83f8226e-eaff-474f-8c4b-070d79533224-operation-16": "operation",
+    "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26": "water depth",
+    "83f8226e-eaff-474f-8c4b-070d79533224-construction-13": "construction",
+    "83f8226e-eaff-474f-8c4b-070d79533224-system-2": "system",
+    "83f8226e-eaff-474f-8c4b-070d79533224-based-4": "based",
+    "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8": "vessel",
+    "83f8226e-eaff-474f-8c4b-070d79533224-DICAS-12": "DICAS",
+    "83f8226e-eaff-474f-8c4b-070d79533224-moored-10": "moored",
+    "NE-ORGANIZATION-VLCC": "VLCC",
+    "83f8226e-eaff-474f-8c4b-070d79533224-behavior-6": "behavior",
+    "83f8226e-eaff-474f-8c4b-070d79533224-evaluated-12": "evaluated",
+    "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-5": "dynamic",
+    "83f8226e-eaff-474f-8c4b-070d79533224-paper-3": "paper",
+    "83f8226e-eaff-474f-8c4b-070d79533224-Dynasim-14": "Dynasim",
+    "83f8226e-eaff-474f-8c4b-070d79533224-moored-23-offshore-24-systems-25": "moored offshore systems",
+    "83f8226e-eaff-474f-8c4b-070d79533224-Simulations-1": "Simulations",
+    "83f8226e-eaff-474f-8c4b-070d79533224-compared-3": "compared",
+    "83f8226e-eaff-474f-8c4b-070d79533224-results-6": "results",
+    "83f8226e-eaff-474f-8c4b-070d79533224-experimental-5": "experimental",
+    "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15": "conditions",
+    "83f8226e-eaff-474f-8c4b-070d79533224-excitation-20": "excitation",
+    "83f8226e-eaff-474f-8c4b-070d79533224-behavior-11": "behavior",
+    "83f8226e-eaff-474f-8c4b-070d79533224-Validation-2-tests-4": "Validation tests",
+    "83f8226e-eaff-474f-8c4b-070d79533224-conducted-6": "conducted",
+    "NE-DATE-current": "current",
+    "83f8226e-eaff-474f-8c4b-070d79533224-environmental-14": "environmental",
+    "83f8226e-eaff-474f-8c4b-070d79533224-extreme-13": "extreme",
+    "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-10": "dynamic",
+    "83f8226e-eaff-474f-8c4b-070d79533224-motions-6": "motions",
+    "83f8226e-eaff-474f-8c4b-070d79533224-measured-8": "measured",
+    "NE-ORDINAL-First": "First",
+    "83f8226e-eaff-474f-8c4b-070d79533224-agreement-4": "agreement",
+    "83f8226e-eaff-474f-8c4b-070d79533224-simulations-9": "simulations",
+    "83f8226e-eaff-474f-8c4b-070d79533224-numerical-8": "numerical",
+    "83f8226e-eaff-474f-8c4b-070d79533224-observed-6": "observed",
+    "83f8226e-eaff-474f-8c4b-070d79533224-good-3": "good"
+  },
+  "graph": [
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-P50-2-system-3",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is at",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "is in",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-Floating-6"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1200"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28",
+      "relation": "of",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-m-30"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "is",
+      "object_id": "NE-DATE-future"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "of",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-operation-16"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "at",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "at",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8",
+      "relation": "of",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-construction-13"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-system-2",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-based-4"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-system-2",
+      "relation": "is based on",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8",
+      "relation": "at",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-DICAS-12"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-moored-10"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-VLCC"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-6",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-evaluated-12"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-6",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-5"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-6",
+      "relation": "is evaluated In",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-paper-3"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Dynasim-14",
+      "relation": "code for",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-moored-23-offshore-24-systems-25"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Simulations-1",
+      "relation": "are",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-compared-3"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Simulations-1",
+      "relation": "are compared with",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-results-6"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-results-6",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-experimental-5"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15",
+      "relation": "combining",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-excitation-20"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15",
+      "relation": "at",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-11"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Validation-2-tests-4",
+      "relation": "were",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-conducted-6"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Validation-2-tests-4",
+      "relation": "evaluate behavior under",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-excitation-20",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-environmental-14"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-extreme-13"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-Validation-2-tests-4",
+      "relation": "evaluate",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-11"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-behavior-11",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-10"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-motions-6",
+      "relation": "were",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-measured-8"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-measured-8",
+      "relation": "at",
+      "object_id": "NE-ORDINAL-First"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-agreement-4",
+      "relation": "was observed between",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-simulations-9"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-simulations-9",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-numerical-8"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-agreement-4",
+      "relation": "was",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-observed-6"
+    },
+    {
+      "subject_id": "83f8226e-eaff-474f-8c4b-070d79533224-agreement-4",
+      "relation": "is",
+      "object_id": "83f8226e-eaff-474f-8c4b-070d79533224-good-3"
+    }
+  ],
+  "links": {
+    "83f8226e-eaff-474f-8c4b-070d79533224-P50-2-system-3": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-Production-7-Storage-8": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "NE-COUNTRY-Brazil": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26-of-27-approximately-28": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-Floating-6": [],
+    "NE-DATE-1200": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-m-30": [],
+    "NE-DATE-future": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-operation-16": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-water-25-depth-26": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-construction-13": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-system-2": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-based-4": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-vessel-8": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-DICAS-12": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-moored-10": [],
+    "NE-ORGANIZATION-VLCC": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-behavior-6": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-evaluated-12": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-5": [
+      "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-10"
+    ],
+    "83f8226e-eaff-474f-8c4b-070d79533224-paper-3": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-Dynasim-14": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-moored-23-offshore-24-systems-25": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-Simulations-1": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-compared-3": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-results-6": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-experimental-5": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-excitation-20": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-behavior-11": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-Validation-2-tests-4": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-conducted-6": [],
+    "NE-DATE-current": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-environmental-14": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-extreme-13": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-10": [
+      "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-5"
+    ],
+    "83f8226e-eaff-474f-8c4b-070d79533224-motions-6": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-measured-8": [],
+    "NE-ORDINAL-First": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-agreement-4": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-simulations-9": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-numerical-8": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-observed-6": [],
+    "83f8226e-eaff-474f-8c4b-070d79533224-good-3": []
+  }
+}

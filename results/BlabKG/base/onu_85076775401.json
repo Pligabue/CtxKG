@@ -1,0 +1,344 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85076775401.txt",
+  "entities": {
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-distribution-2": "distribution",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-related-7": "related",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-hydrodynamics-10": "hydrodynamics",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-region-13": "region",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-directly-6": "directly",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4": "we",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10": "zones",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-privileged-9": "privileged",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-occurrence-13": "occurrence",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18": "densities",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-in-20-situ-21": "in situ",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-12": "highest",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-observed-19": "observed",
+    "NE-CITY-Bay": "Bay",
+    "NE-LOCATION-São-Marcos": "São Marcos",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-15": "lchthyoplankton",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-flow-34-meter-35": "flow meter",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-volume-39": "volume",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-filtered-41": "filtered",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-1": "lchthyoplankton",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-collected-3": "collected",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-water-42": "water",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-density-2": "density",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7": "ratio",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-eggs-13": "eggs",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-sample-18": "sample",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-number-11": "number",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-total-10-number-11": "total number",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-calculated-4": "calculated",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-technique-7": "technique",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-Voronoi-9-polygon-10": "Voronoi polygon",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-interpolation-3": "interpolation",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-spatial-2": "spatial",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-%-29": "%",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-season-35": "season",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-34": "dry",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-60-28": "60",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-recorded-31": "recorded",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-4,934-21-eggs-22": "4,934 eggs",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-fish-24-larvae-25": "fish larvae",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-location-2": "location",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12": "concentrations",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-east-18": "east",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-25-season-26": "dry season",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-11": "highest",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-season-26": "season",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-channel-19": "channel",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-closer-13": "closer",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-center-31": "center",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-rainy-34-season-35": "rainy season",
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-CESM-22": "CESM"
+  },
+  "graph": [
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-distribution-2",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-related-7"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-distribution-2",
+      "relation": "is related to",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-hydrodynamics-10"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-distribution-2",
+      "relation": "is directly related to",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-hydrodynamics-10"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-hydrodynamics-10",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-region-13"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-related-7",
+      "relation": "at",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-directly-6"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4",
+      "relation": "map",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-privileged-9"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-occurrence-13"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4",
+      "relation": "map zones from",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18",
+      "relation": "at",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-in-20-situ-21"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-12"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-observed-19"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10",
+      "relation": "observed in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Marcos"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-15"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18",
+      "relation": "at",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-flow-34-meter-35",
+      "relation": "estimate",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-volume-39"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-volume-39",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-filtered-41"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-1",
+      "relation": "was",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-collected-3"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-volume-39",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-water-42"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-density-2",
+      "relation": "was calculated from",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-eggs-13"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-sample-18"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-number-11"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-total-10-number-11"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-total-10-number-11",
+      "relation": "is in",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-sample-18"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-density-2",
+      "relation": "was",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-calculated-4"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4",
+      "relation": "used",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-technique-7"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-technique-7",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-Voronoi-9-polygon-10"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4",
+      "relation": "used technique For",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-interpolation-3"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-interpolation-3",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-spatial-2"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-%-29",
+      "relation": "were recorded in",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-season-35"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-season-35",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-34"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-%-29",
+      "relation": "amount to",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-60-28"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-%-29",
+      "relation": "were",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-recorded-31"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-4,934-21-eggs-22",
+      "relation": "were",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-fish-24-larvae-25"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-location-2",
+      "relation": "vary with",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-east-18"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "is in",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-25-season-26"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "is",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-11"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-season-26"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "at",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-channel-19"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "at",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-closer-13"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-center-31",
+      "relation": "is in",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-rainy-34-season-35"
+    },
+    {
+      "subject_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12",
+      "relation": "of",
+      "object_id": "3fa508a4-4944-4cc2-a966-5bc0da835729-CESM-22"
+    }
+  ],
+  "links": {
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-distribution-2": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-related-7": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-hydrodynamics-10": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-region-13": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-directly-6": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-we-4": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-zones-10": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-privileged-9": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-occurrence-13": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-densities-18": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-in-20-situ-21": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-12": [
+      "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-11"
+    ],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-observed-19": [],
+    "NE-CITY-Bay": [],
+    "NE-LOCATION-São-Marcos": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-15": [
+      "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-1"
+    ],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-flow-34-meter-35": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-volume-39": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-filtered-41": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-1": [
+      "3fa508a4-4944-4cc2-a966-5bc0da835729-lchthyoplankton-15"
+    ],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-collected-3": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-water-42": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-density-2": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-ratio-7": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-eggs-13": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-sample-18": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-number-11": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-total-10-number-11": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-calculated-4": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-technique-7": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-Voronoi-9-polygon-10": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-interpolation-3": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-spatial-2": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-%-29": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-season-35": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-34": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-60-28": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-recorded-31": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-4,934-21-eggs-22": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-fish-24-larvae-25": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-location-2": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-concentrations-12": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-east-18": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-dry-25-season-26": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-11": [
+      "3fa508a4-4944-4cc2-a966-5bc0da835729-highest-12"
+    ],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-season-26": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-channel-19": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-closer-13": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-center-31": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-rainy-34-season-35": [],
+    "3fa508a4-4944-4cc2-a966-5bc0da835729-CESM-22": []
+  }
+}

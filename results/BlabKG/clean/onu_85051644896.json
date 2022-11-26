@@ -1,0 +1,588 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85051644896.txt",
+  "entities": {
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Libra-2-project-3": "Libra project",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-19": "area",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-pre-salt-18": "pre-salt",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-100-24-miles-25": "100 miles",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13": "oil",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-coastline-29": "coastline",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11": "deposit",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-10": "large",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-very-9": "very",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-country-25": "country",
+    "NE-ORGANIZATION-PSC": "PSC",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2": "companies",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8": "consortium",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Five-1": "Five",
+    "NE-ORGANIZATION-Petróleo-SA": "Petróleo SA",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Pré-11-sal-13": "Pré sal",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30": "Production Contract",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Sharing-29": "Sharing",
+    "NE-ORDINAL-first": "first",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-together-9": "together",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-22": "area",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9": "project",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40": "initiation",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-20-development-21-scenarios-22": "field development scenarios",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-full-19": "full",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-system-29": "system",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-reservoir-33-information-34": "reservoir information",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-its-42-production-44": "its production",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-46": "project",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-wells-25": "wells",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32": "dynamic",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8": "drilling",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17": "installation",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-21": "large",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-4": "field",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-deepwater-13": "deepwater",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-several-19": "several",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-nearly-10-hundred-12-wells-14": "nearly hundred wells",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-FPSOs-22": "FPSOs",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-2": "area",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-will-3-active-5": "will active",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-potential-23": "potential",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5": "industry safety statistics",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-HSE-36-incidences-37": "HSE incidences",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-fatalities-25": "fatalities",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-can-42-extrapolated-45": "can extrapolated",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-required-14": "required",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-applying-2": "applying",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-man-11-hours-13": "man hours",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-8": "large",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-other-35": "other",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-number-9": "number",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8": "Project Leadership",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-figures-3": "figures",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-mind-5": "mind",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-program-12": "program",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-safety-16-performance-17": "safety performance",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22": "paper",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-steps-27": "steps",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-taken-28": "taken",
+    "NE-DURATION-three-years": "three years",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-process-9-safety-10": "process safety",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4": "changes",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-physical-3": "physical",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Examples-1": "Examples",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-specifications-6": "specifications",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-13": "changes",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-leadership-15-behavior-16": "leadership behavior",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-2": "paper",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6": "successes",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-hope-16": "hope",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-challenges-8": "challenges",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-discussion-19": "discussion",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-26": "project",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-opportunities-12": "opportunities",
+    "NE-DATE-future": "future",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-broader-18": "broader",
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-efforts-22": "efforts"
+  },
+  "graph": [
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Libra-2-project-3",
+      "relation": "is exploring deposit in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-19"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-19",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-pre-salt-18"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-100-24-miles-25",
+      "relation": "very large deposit of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-coastline-29"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Libra-2-project-3",
+      "relation": "is exploring",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-100-24-miles-25",
+      "relation": "large deposit of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Libra-2-project-3",
+      "relation": "is exploring",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11",
+      "relation": "at",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-very-9"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-100-24-miles-25",
+      "relation": "deposit of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-country-25",
+      "relation": "'s Contract is",
+      "object_id": "NE-ORGANIZATION-PSC"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "have come in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "amount to",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Five-1"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petróleo-SA"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8",
+      "relation": "case",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Pré-11-sal-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "develop area under",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Sharing-29"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "have come together in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8",
+      "relation": "at",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-together-9"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "develop",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-22"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-country-25",
+      "relation": "under",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+      "relation": "develop area under",
+      "object_id": "NE-ORGANIZATION-PSC"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-country-25",
+      "relation": "has",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Petróleo-SA"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9",
+      "relation": "preparing for",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9",
+      "relation": "creating",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-20-development-21-scenarios-22"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-20-development-21-scenarios-22",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-full-19"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-system-29",
+      "relation": "collect",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-reservoir-33-information-34"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9",
+      "relation": "developing",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-system-29"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40",
+      "relation": "case",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-its-42-production-44"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-46"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9",
+      "relation": "drilling",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-wells-25"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-reservoir-33-information-34",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8",
+      "relation": "field",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-21"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-4",
+      "relation": "could see",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-deepwater-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-several-19"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17",
+      "relation": "at",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-very-9"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-4",
+      "relation": "Ultimately could see",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-nearly-10-hundred-12-wells-14"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-FPSOs-22"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-2",
+      "relation": "will",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-will-3-active-5"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-potential-23",
+      "relation": "associated By",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-HSE-36-incidences-37",
+      "relation": "potential for",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-fatalities-25"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-potential-23",
+      "relation": "can",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-can-42-extrapolated-45"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-required-14"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-applying-2"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-man-11-hours-13"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-HSE-36-incidences-37",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-other-35"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-number-9"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8",
+      "relation": "embarked With",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-figures-3"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-figures-3",
+      "relation": "is in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-mind-5"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8",
+      "relation": "embarked upon",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-program-12"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-figures-3",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-mind-5"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8",
+      "relation": "substantially improve",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-safety-16-performance-17"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8",
+      "relation": "improve",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-safety-16-performance-17"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22",
+      "relation": "share",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-steps-27"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-steps-27",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-taken-28"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22",
+      "relation": "seeks at_time",
+      "object_id": "NE-DURATION-three-years"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22",
+      "relation": "Now seeks at_time",
+      "object_id": "NE-DURATION-three-years"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-process-9-safety-10",
+      "relation": "Examples of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-physical-3"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-Examples-1",
+      "relation": "improve",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-process-9-safety-10"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-specifications-6"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-13",
+      "relation": "is in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-leadership-15-behavior-16"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4",
+      "relation": "is in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-specifications-6"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-2",
+      "relation": "will discuss",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6",
+      "relation": "of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-hope-16"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6",
+      "relation": "paper",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-challenges-8"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-discussion-19",
+      "relation": "assist",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-26"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6",
+      "relation": "is in",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-hope-16"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6",
+      "relation": "paper",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-opportunities-12"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-opportunities-12",
+      "relation": "is",
+      "object_id": "NE-DATE-future"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-discussion-19",
+      "relation": "is",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-broader-18"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-26",
+      "relation": "discussion of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-efforts-22"
+    },
+    {
+      "subject_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-26",
+      "relation": "broader discussion of",
+      "object_id": "12c1d79e-73bd-481c-bdb8-1d4727843a15-efforts-22"
+    }
+  ],
+  "links": {
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Libra-2-project-3": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-19": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-pre-salt-18": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-100-24-miles-25": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13": [],
+    "NE-COUNTRY-Brazil": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-coastline-29": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-deposit-11": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-10": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-very-9": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-country-25": [],
+    "NE-ORGANIZATION-PSC": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-consortium-8": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Five-1": [],
+    "NE-ORGANIZATION-Petróleo-SA": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Pré-11-sal-13": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Production-28-Contract-30": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Sharing-29": [],
+    "NE-ORDINAL-first": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-together-9": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-22": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-9": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-initiation-40": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-20-development-21-scenarios-22": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-full-19": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-system-29": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-reservoir-33-information-34": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-its-42-production-44": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-46": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-wells-25": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-drilling-8": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-installation-17": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-21": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-field-4": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-deepwater-13": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-several-19": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-nearly-10-hundred-12-wells-14": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-FPSOs-22": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-area-2": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-will-3-active-5": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-potential-23": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-industry-3-safety-4-statistics-5": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-HSE-36-incidences-37": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-fatalities-25": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-can-42-extrapolated-45": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-required-14": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-applying-2": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-man-11-hours-13": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-8": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-other-35": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-number-9": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Project-7-Leadership-8": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-figures-3": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-mind-5": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-program-12": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-safety-16-performance-17": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-steps-27": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-taken-28": [],
+    "NE-DURATION-three-years": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-process-9-safety-10": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-4": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-physical-3": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-Examples-1": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-specifications-6": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-changes-13": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-leadership-15-behavior-16": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-2": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-successes-6": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-hope-16": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-challenges-8": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-discussion-19": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-project-26": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-opportunities-12": [],
+    "NE-DATE-future": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-broader-18": [],
+    "12c1d79e-73bd-481c-bdb8-1d4727843a15-efforts-22": []
+  }
+}

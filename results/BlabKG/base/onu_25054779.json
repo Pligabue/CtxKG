@@ -1,0 +1,50 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_25054779.txt",
+  "entities": {
+    "NE-LOCATION-Elf-Aquitaine": "Elf Aquitaine",
+    "NE-ORGANIZATION-Mobil": "Mobil",
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-companies-2": "companies",
+    "NE-ORGANIZATION-BP": "BP",
+    "NE-ORGANIZATION-Chevron": "Chevron",
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-Companies-1-views-3": "Companies views",
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-summarized-13": "summarized",
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-also-12": "also"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-LOCATION-Elf-Aquitaine",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Mobil"
+    },
+    {
+      "subject_id": "b6760bbe-1162-413a-a31a-0d8e00367ea3-companies-2",
+      "relation": "are",
+      "object_id": "NE-ORGANIZATION-BP"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BP",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Chevron"
+    },
+    {
+      "subject_id": "b6760bbe-1162-413a-a31a-0d8e00367ea3-Companies-1-views-3",
+      "relation": "are",
+      "object_id": "b6760bbe-1162-413a-a31a-0d8e00367ea3-summarized-13"
+    },
+    {
+      "subject_id": "b6760bbe-1162-413a-a31a-0d8e00367ea3-summarized-13",
+      "relation": "at",
+      "object_id": "b6760bbe-1162-413a-a31a-0d8e00367ea3-also-12"
+    }
+  ],
+  "links": {
+    "NE-LOCATION-Elf-Aquitaine": [],
+    "NE-ORGANIZATION-Mobil": [],
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-companies-2": [],
+    "NE-ORGANIZATION-BP": [],
+    "NE-ORGANIZATION-Chevron": [],
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-Companies-1-views-3": [],
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-summarized-13": [],
+    "b6760bbe-1162-413a-a31a-0d8e00367ea3-also-12": []
+  }
+}

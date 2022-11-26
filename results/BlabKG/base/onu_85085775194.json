@@ -1,0 +1,455 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085775194.txt",
+  "entities": {
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2": "paper",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6": "improvement",
+    "NE-TITLE-cutter": "cutter",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-12": "blocks",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2-abrasiveness-3-durability-16": "high abrasiveness durability",
+    "NE-MISC-Pre-salt-Well-Construction": "Pre-salt Well Construction",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-wells-31": "wells",
+    "NE-ORGANIZATION-Pre-Salt": "Pre-Salt",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-made-7": "made",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-10": "reamer",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17": "field wells",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-five-19-phases-20": "five phases",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5": "it",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-giant-14": "giant",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-situations-3": "situations",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11": "oil wells",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-22in-30": "22in",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-25": "phase",
+    "NE-ORDINAL-third": "third",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-offshore-15": "offshore",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-necessary-7": "necessary",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-18.125-27": "18.125",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-abrasiveness-3": "abrasiveness",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-7": "phase",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2": "high",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-costs-23": "costs",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-development-27": "development",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-solutions-29": "solutions",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reaming-13-difficulties-14": "reaming difficulties",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-enlargement-20-from-21-18.125-22-in-23-to-24-22in-25-when-26-facing-27-abrasive-28-formations-29": "enlargement from 18.125 in to 22in when facing abrasive formations",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-capacity-22": "capacity",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-cutters-27": "cutters",
+    "NE-ORGANIZATION-PDC": "PDC",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-specialists-2": "specialists",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-events-5": "events",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-12": "reamer",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-15": "blocks",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-matrix-9": "matrix",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-nowadays-10": "nowadays",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-hole-2-enlargement-3-company-4": "hole enlargement company",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-14": "process",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-results-26": "results",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-challenging-18-operation-19": "challenging operation",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-durability-23": "durability",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-common-13": "common",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4": "blocks",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12": "formations",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-modified-2": "modified",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-same-11": "same",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-10": "process",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-validated-12": "validated",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-we-6": "we",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-operation-4": "operation",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-quality-19": "quality",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22": "lifetime",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-16": "reamer",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-the-9": "the",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16": "construction",
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-well-15": "well"
+  },
+  "graph": [
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2",
+      "relation": "will describe",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6",
+      "relation": "at",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2",
+      "relation": "will describe",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-12"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2",
+      "relation": "enhance",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2-abrasiveness-3-durability-16"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2-abrasiveness-3-durability-16",
+      "relation": "optimize Currently",
+      "object_id": "NE-MISC-Pre-salt-Well-Construction"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2-abrasiveness-3-durability-16",
+      "relation": "optimize",
+      "object_id": "NE-MISC-Pre-salt-Well-Construction"
+    },
+    {
+      "subject_id": "NE-NATIONALITY-Brazilian",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-wells-31"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-wells-31",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Pre-Salt"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-made-7"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6",
+      "relation": "made to",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6",
+      "relation": "at",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-12"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-10"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17",
+      "relation": "is with",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-five-19-phases-20"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5",
+      "relation": "drill oil wells in",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-giant-14"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5",
+      "relation": "is necessary In",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-situations-3"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11",
+      "relation": "enlarging phase in",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-22in-30"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-five-19-phases-20"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11",
+      "relation": "enlarging",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-25"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-25",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-third"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5",
+      "relation": "drill",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-offshore-15"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-necessary-7"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11",
+      "relation": "enlarging phase from",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-18.125-27"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-abrasiveness-3",
+      "relation": "encountered at",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-7"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-abrasiveness-3",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-costs-23",
+      "relation": "encouraged",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-development-27"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-development-27",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-solutions-29"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-costs-23",
+      "relation": "development of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-solutions-29"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reaming-13-difficulties-14",
+      "relation": "is in",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-enlargement-20-from-21-18.125-22-in-23-to-24-22in-25-when-26-facing-27-abrasive-28-formations-29"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-capacity-22",
+      "relation": "hold",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-cutters-27"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-cutters-27",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PDC"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-specialists-2",
+      "relation": "analyzed",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-events-5"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-specialists-2",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-12",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-15"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-matrix-9",
+      "relation": "losing",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-capacity-22"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "works for",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-nowadays-10"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-hole-2-enlargement-3-company-4",
+      "relation": "developed",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-14"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "blocks",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-results-26"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-challenging-18-operation-19",
+      "relation": "has",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "at",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-durability-23"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "compare",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-common-13"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "is in",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-challenging-18-operation-19"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "common blocks",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-results-26"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4",
+      "relation": "less wearing on",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-modified-2"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4",
+      "relation": "wearing on",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4",
+      "relation": "of",
+      "object_id": "NE-TITLE-cutter"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4",
+      "relation": "much less wearing on",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-same-11"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-10",
+      "relation": "is",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-validated-12"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-we-6",
+      "relation": "can conclude process Based",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-operation-4"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-quality-19",
+      "relation": "improved",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "has",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-10"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-we-6",
+      "relation": "can conclude",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-10"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-quality-19",
+      "relation": "cutter",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "blocks",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-quality-19"
+    },
+    {
+      "subject_id": "NE-TITLE-cutter",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-16"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22",
+      "relation": "of",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-the-9"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2",
+      "relation": "optimize",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16"
+    },
+    {
+      "subject_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16",
+      "relation": "at",
+      "object_id": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-well-15"
+    }
+  ],
+  "links": {
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-improvement-6": [],
+    "NE-TITLE-cutter": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-12": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2-abrasiveness-3-durability-16": [],
+    "NE-MISC-Pre-salt-Well-Construction": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-wells-31": [],
+    "NE-ORGANIZATION-Pre-Salt": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-made-7": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-10": [
+      "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-16"
+    ],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-field-16-wells-17": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-five-19-phases-20": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-it-5": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-giant-14": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-situations-3": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-22in-30": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-25": [],
+    "NE-ORDINAL-third": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-offshore-15": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-necessary-7": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-18.125-27": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-abrasiveness-3": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-7": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-costs-23": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-development-27": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-solutions-29": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reaming-13-difficulties-14": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-enlargement-20-from-21-18.125-22-in-23-to-24-22in-25-when-26-facing-27-abrasive-28-formations-29": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-capacity-22": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-cutters-27": [],
+    "NE-ORGANIZATION-PDC": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-specialists-2": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-events-5": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-12": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-15": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-matrix-9": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-nowadays-10": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-hole-2-enlargement-3-company-4": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-14": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-results-26": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-challenging-18-operation-19": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-durability-23": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-common-13": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-blocks-4": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-formations-12": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-modified-2": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-same-11": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-10": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-validated-12": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-we-6": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-operation-4": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-quality-19": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-lifetime-22": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-16": [
+      "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-reamer-10"
+    ],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-the-9": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16": [],
+    "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-well-15": []
+  }
+}

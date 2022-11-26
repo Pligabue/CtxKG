@@ -1,0 +1,503 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085850094.txt",
+  "entities": {
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-21-sectors-24": "offshore sectors",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-case-2": "case",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-challenges-6": "challenges",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-required-10": "required",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-regarding-7-capacity-8-building-9": "regarding capacity building",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-end-8": "end",
+    "NE-DATE-1997": "1997",
+    "NE-TITLE-layer": "layer",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-programs-37": "programs",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-42": "industry",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-national-36": "national",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-maritime-41": "maritime",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Content-30-policy-31": "Content policy",
+    "NE-DATE-1999": "1999",
+    "NE-MISC-Local-Content": "Local Content",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-discovery-76": "discovery",
+    "NE-DATE-2006": "2006",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-investments-5": "investments",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22": "ten times investment",
+    "NE-SET-annual": "annual",
+    "NE-SET-yearly": "yearly",
+    "NE-DURATION-year": "year",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-MONEY-US$-40-billion": "US$ 40 billion",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-1997-25-2001-27-period-28": "1997 2001 period",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4": "clusters",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7": "have developed",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-3": "offshore",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16": "ships",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-supply-18-vessels-19": "supply vessels",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-country-10": "country",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-training-23": "training",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Consequently-1": "Consequently",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-platforms-13": "platforms",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-drilling-15": "drilling",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-massive-22": "massive",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-National-10-Oil-11-Industry-15-Mobilization-16-Program-17": "National Oil Industry Mobilization Program",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-National-23-Plan-24": "National Plan",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Professional-26-Qualification-27": "Professional Qualification",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-government-5": "government",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-context-3": "context",
+    "NE-DATE-2003": "2003",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-US$-5": "US$",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14": "100.000 people",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-185-16-trades-17": "185 trades",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-120-6-million-7": "120 million",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-nearly-12": "nearly",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-training-5": "training",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8": "has provided",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-SENAI-11-RS-13": "SENAI RS",
+    "NE-ORGANIZATION-National-Service-of-Industrial-Apprenticeship": "National Service of Industrial Apprenticeship",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Industries-32": "Industries",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Federation-29": "Federation",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-state-3": "state",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-linked-26": "linked",
+    "NE-CITY-Rio-Grande": "Rio Grande",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-mainly-9": "mainly",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-discussions-3": "discussions",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-factors-6": "factors",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Studies-1": "Studies",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-learning-10-curve-11": "learning curve",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-axes-17": "axes",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-alternatives-3": "alternatives",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-talents-6": "talents",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-following-16": "following",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-We-1": "We",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-familiarizing-44-workers-45": "familiarizing workers",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-productiveness-47-indicators-48": "productiveness indicators",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-labour-15-productivity-16": "labour productivity",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-aspect-23": "aspect",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-3": "industry",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-must-4-competitive-7": "must competitive",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-local-2": "local",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-internationally-6": "internationally",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-role-20": "role",
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-crucial-19": "crucial"
+  },
+  "graph": [
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-21-sectors-24",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-case-2",
+      "relation": "focuses on",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-challenges-6"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-challenges-6",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-required-10"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-challenges-6",
+      "relation": "of",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-regarding-7-capacity-8-building-9"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-end-8",
+      "relation": "is in",
+      "object_id": "NE-DATE-1997"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-programs-37",
+      "relation": "stimulate",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-42"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-programs-37",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-national-36"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-42",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-maritime-41"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Content-30-policy-31",
+      "relation": "adopted since",
+      "object_id": "NE-DATE-1999"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Content-30-policy-31",
+      "relation": "is",
+      "object_id": "NE-MISC-Local-Content"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-discovery-76",
+      "relation": "is in",
+      "object_id": "NE-DATE-2006"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-discovery-76",
+      "relation": "is in",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-investments-5",
+      "relation": "have reached",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-investments-5",
+      "relation": "is",
+      "object_id": "NE-SET-annual"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22",
+      "relation": "is",
+      "object_id": "NE-SET-yearly"
+    },
+    {
+      "subject_id": "NE-DURATION-year",
+      "relation": "annual investments from",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-DURATION-year",
+      "relation": "amount to",
+      "object_id": "NE-MONEY-US$-40-billion"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22",
+      "relation": "of",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-1997-25-2001-27-period-28"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22",
+      "relation": "is in",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-1997-25-2001-27-period-28"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-investments-5",
+      "relation": "have reached",
+      "object_id": "NE-DURATION-year"
+    },
+    {
+      "subject_id": "NE-DURATION-year",
+      "relation": "investment in",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-1997-25-2001-27-period-28"
+    },
+    {
+      "subject_id": "NE-DURATION-year",
+      "relation": "investments from",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4",
+      "relation": "have",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-3"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16",
+      "relation": "demanding",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-supply-18-vessels-19"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-country-10"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16",
+      "relation": "demanding",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-training-23"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Consequently-1"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4",
+      "relation": "build",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-platforms-13"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-drilling-15"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4",
+      "relation": "build",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-training-23",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-massive-22"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16",
+      "relation": "platforms",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-supply-18-vessels-19"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-10-Oil-11-Industry-15-Mobilization-16-Program-17",
+      "relation": "context",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-23-Plan-24"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-23-Plan-24",
+      "relation": "of",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Professional-26-Qualification-27"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-10-Oil-11-Industry-15-Mobilization-16-Program-17",
+      "relation": "government",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-23-Plan-24"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-government-5",
+      "relation": "created National Oil Industry Mobilization Program In",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-context-3"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-government-5",
+      "relation": "created National Oil Industry Mobilization Program in",
+      "object_id": "NE-DATE-2003"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-government-5",
+      "relation": "created",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-National-10-Oil-11-Industry-15-Mobilization-16-Program-17"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-US$-5",
+      "relation": "were invested",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14",
+      "relation": "of",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-185-16-trades-17"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-US$-5",
+      "relation": "amount to",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-120-6-million-7"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-nearly-12"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14",
+      "relation": "is in",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-185-16-trades-17"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-training-5",
+      "relation": "has",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-SENAI-11-RS-13",
+      "relation": "branch of",
+      "object_id": "NE-ORGANIZATION-National-Service-of-Industrial-Apprenticeship"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "of",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Industries-32"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Federation-29"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "by",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-SENAI-11-RS-13"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "case",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-state-3"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-linked-26"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "of",
+      "object_id": "NE-CITY-Rio-Grande"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-mainly-9"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-discussions-3",
+      "relation": "have raised",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-factors-6"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-Studies-1",
+      "relation": "have raised",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-factors-6"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-learning-10-curve-11",
+      "relation": "anchored in",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-axes-17"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-alternatives-3",
+      "relation": "develop",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-talents-6"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-talents-6",
+      "relation": "accelerate",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-learning-10-curve-11"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-axes-17",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-following-16"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-We-1",
+      "relation": "consider",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-alternatives-3"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-familiarizing-44-workers-45",
+      "relation": "is with",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-productiveness-47-indicators-48"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-labour-15-productivity-16",
+      "relation": "plays role in",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-aspect-23"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-3",
+      "relation": "must",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-must-4-competitive-7"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-3",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-local-2"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-must-4-competitive-7",
+      "relation": "at",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-internationally-6"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-labour-15-productivity-16",
+      "relation": "plays",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-role-20"
+    },
+    {
+      "subject_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-role-20",
+      "relation": "is",
+      "object_id": "44a03514-5795-44e8-9d1b-fd93129ad66f-crucial-19"
+    }
+  ],
+  "links": {
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-21-sectors-24": [],
+    "NE-COUNTRY-Brazil": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-case-2": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-challenges-6": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-required-10": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-regarding-7-capacity-8-building-9": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-end-8": [],
+    "NE-DATE-1997": [],
+    "NE-TITLE-layer": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-programs-37": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-42": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-national-36": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-maritime-41": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Content-30-policy-31": [],
+    "NE-DATE-1999": [],
+    "NE-MISC-Local-Content": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-discovery-76": [],
+    "NE-DATE-2006": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-investments-5": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-ten-18-times-19-investment-22": [],
+    "NE-SET-annual": [],
+    "NE-SET-yearly": [],
+    "NE-DURATION-year": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-MONEY-US$-40-billion": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-1997-25-2001-27-period-28": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-clusters-4": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-3": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-ships-16": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-supply-18-vessels-19": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-country-10": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-training-23": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Consequently-1": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-platforms-13": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-drilling-15": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-massive-22": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-National-10-Oil-11-Industry-15-Mobilization-16-Program-17": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-National-23-Plan-24": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Professional-26-Qualification-27": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-government-5": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-context-3": [],
+    "NE-DATE-2003": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-US$-5": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-100.000-13-people-14": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-185-16-trades-17": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-120-6-million-7": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-nearly-12": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-training-5": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-has-6-provided-8": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-SENAI-11-RS-13": [],
+    "NE-ORGANIZATION-National-Service-of-Industrial-Apprenticeship": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Industries-32": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Federation-29": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-state-3": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-linked-26": [],
+    "NE-CITY-Rio-Grande": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-mainly-9": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-discussions-3": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-factors-6": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-Studies-1": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-learning-10-curve-11": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-axes-17": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-alternatives-3": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-talents-6": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-following-16": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-We-1": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-familiarizing-44-workers-45": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-productiveness-47-indicators-48": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-labour-15-productivity-16": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-aspect-23": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-industry-3": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-must-4-competitive-7": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-local-2": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-internationally-6": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-role-20": [],
+    "44a03514-5795-44e8-9d1b-fd93129ad66f-crucial-19": []
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85061767810.txt",
+  "entities": {
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-discovery-2": "discovery",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-9": "rift",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-interest-22": "interest",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-exploration-25": "exploration",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lacustrine-28-carbonate-29-reservoirs-30": "lacustrine carbonate reservoirs",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-marginal-36-basins-37": "marginal basins",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2": "study",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-seven-20-wells-21": "seven wells",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-performed-18": "performed",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11": "features",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-primary-6": "primary",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-aim-19": "aim",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-our-22-understanding-23": "our understanding",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-factors-26": "factors",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-major-5": "major",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-14-succession-15": "Pre-Salt succession",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-30": "porosity",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-important-36-lacustrine-37-carbonate-38-reservoirs-39": "important lacustrine carbonate reservoirs",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-2-deposits-3": "Pre-Salt deposits",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-grainstones-7": "grainstones",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclastic-6": "bioclastic",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2": "silicates",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5": "associated",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-frequently-4": "frequently",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Magnesian-1": "Magnesian",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carbonate-7-deposits-8": "carbonate deposits",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-laminations-7": "laminations",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-substrate-10": "substrate",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-stevensitic-6": "stevensitic",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-3-phase-4": "sag phase",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-13": "precipitation",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-calcite-15-crusts-16": "calcite crusts",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7": "ooids",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-arenites-15": "arenites",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooidal-14": "ooidal",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclasts-11": "bioclasts",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-mixed-9": "mixed",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-3-section-4": "rift section",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-1-carbonate-2-reservoirs-3": "Pre-Salt carbonate reservoirs",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-evolution-11": "evolution",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-diagenetic-10": "diagenetic",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-complex-7": "complex",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5": "dissolution",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-15": "rift",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-cementation-9": "cementation",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-processes-2": "processes",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-neomorphism-7": "neomorphism",
+    "NE-MISC-Eodiagenetic": "Eodiagenetic",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bivalve-11-bioclasts-12": "bivalve bioclasts",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-their-26-replacement-27": "their replacement",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-37-section-38": "sag section",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2": "alterations",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Burial-1": "Burial",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8": "hydrothermal fluids",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-faults-11": "faults",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-commonly-4": "commonly",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carried-9": "carried",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4": "dolomitization",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicification-6": "silicification",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-fluids-2": "fluids",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-degrees-12": "degrees",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-9": "dissolution",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-varying-11": "varying",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25": "creation",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-variations-7": "variations",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-2": "precipitation",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30": "obliteration",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lake-10-water-11-chemistry-12": "lake water chemistry",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-35-reservoirs-36": "Pre-Salt reservoirs",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-32": "porosity",
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-redistribution-27": "redistribution"
+  },
+  "graph": [
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-discovery-2",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-interest-22",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-exploration-25"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-exploration-25",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lacustrine-28-carbonate-29-reservoirs-30"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lacustrine-28-carbonate-29-reservoirs-30",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-marginal-36-basins-37"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-marginal-36-basins-37",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2",
+      "relation": "was performed on",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-seven-20-wells-21"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2",
+      "relation": "was",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-performed-18"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-seven-20-wells-21",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2",
+      "relation": "highlights",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-primary-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-aim-19",
+      "relation": "improve",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-our-22-understanding-23"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-our-22-understanding-23",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-factors-26"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-major-5"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-14-succession-15"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-30",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-important-36-lacustrine-37-carbonate-38-reservoirs-39"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-2-deposits-3",
+      "relation": "correspond to",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-grainstones-7"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-grainstones-7",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclastic-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2",
+      "relation": "are",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5",
+      "relation": "at",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-frequently-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Magnesian-1"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2",
+      "relation": "are frequently associated with",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carbonate-7-deposits-8"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2",
+      "relation": "are associated with",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carbonate-7-deposits-8"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-laminations-7",
+      "relation": "constitute",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-substrate-10"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-laminations-7",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-stevensitic-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-laminations-7",
+      "relation": "constitute substrate In",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-3-phase-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-substrate-10",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-13"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-substrate-10",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-calcite-15-crusts-16"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7",
+      "relation": "form",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-arenites-15"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-arenites-15",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooidal-14"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7",
+      "relation": "are mixed with",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclasts-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-stevensitic-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7",
+      "relation": "are",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-mixed-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-mixed-9",
+      "relation": "at",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclasts-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-mixed-9",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-3-section-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7",
+      "relation": "are mixed In",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-3-section-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-1-carbonate-2-reservoirs-3",
+      "relation": "have undergone",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-evolution-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-evolution-11",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-diagenetic-10"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-evolution-11",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-complex-7"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-15"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "processes",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-cementation-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-processes-2",
+      "relation": "include",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "Eodiagenetic processes",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-neomorphism-7"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "processes",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-neomorphism-7"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-15"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-processes-2",
+      "relation": "is",
+      "object_id": "NE-MISC-Eodiagenetic"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bivalve-11-bioclasts-12"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5",
+      "relation": "Eodiagenetic processes",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-cementation-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-their-26-replacement-27",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-37-section-38"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2",
+      "relation": "are",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Burial-1"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2",
+      "relation": "are commonly associated with",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8",
+      "relation": "at",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-faults-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2",
+      "relation": "are associated with",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5",
+      "relation": "at",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-commonly-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carried-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "degrees",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicification-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-fluids-2",
+      "relation": "promote",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-fluids-2",
+      "relation": "promote dolomitization at",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-degrees-12"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "degrees",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "fluids",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "fluids",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicification-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "varying degrees",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicification-6"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4",
+      "relation": "varying degrees",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-9"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-degrees-12",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-varying-11"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25",
+      "relation": "owing to",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-variations-7"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25",
+      "relation": "is",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-2"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25",
+      "relation": "dissolution",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-variations-7",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lake-10-water-11-chemistry-12"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-35-reservoirs-36"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-2",
+      "relation": "control",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-2",
+      "relation": "is",
+      "object_id": "NE-MISC-Eodiagenetic"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-32"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25",
+      "relation": "Eodiagenetic precipitation",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-redistribution-27"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25",
+      "relation": "dissolution",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-redistribution-27"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30",
+      "relation": "of",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-35-reservoirs-36"
+    },
+    {
+      "subject_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-variations-7",
+      "relation": "is in",
+      "object_id": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lake-10-water-11-chemistry-12"
+    }
+  ],
+  "links": {
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-discovery-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-9": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-interest-22": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-exploration-25": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lacustrine-28-carbonate-29-reservoirs-30": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-marginal-36-basins-37": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-seven-20-wells-21": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-performed-18": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-features-11": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-primary-6": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-aim-19": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-our-22-understanding-23": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-factors-26": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-major-5": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-14-succession-15": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-30": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-important-36-lacustrine-37-carbonate-38-reservoirs-39": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-2-deposits-3": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-grainstones-7": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclastic-6": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicates-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-associated-5": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-frequently-4": [
+      "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-commonly-4"
+    ],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Magnesian-1": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carbonate-7-deposits-8": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-laminations-7": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-substrate-10": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-stevensitic-6": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-3-phase-4": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-13": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-calcite-15-crusts-16": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooids-7": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-arenites-15": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-ooidal-14": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bioclasts-11": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-mixed-9": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-3-section-4": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-1-carbonate-2-reservoirs-3": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-evolution-11": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-diagenetic-10": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-complex-7": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-5": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-rift-15": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-cementation-9": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-processes-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-neomorphism-7": [],
+    "NE-MISC-Eodiagenetic": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-bivalve-11-bioclasts-12": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-their-26-replacement-27": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-sag-37-section-38": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-alterations-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Burial-1": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-hydrothermal-7-fluids-8": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-faults-11": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-commonly-4": [
+      "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-frequently-4"
+    ],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-carried-9": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dolomitization-4": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-silicification-6": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-fluids-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-degrees-12": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-dissolution-9": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-varying-11": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-creation-25": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-variations-7": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-2": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-obliteration-30": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lake-10-water-11-chemistry-12": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-Pre-Salt-35-reservoirs-36": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-porosity-32": [],
+    "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-redistribution-27": []
+  }
+}

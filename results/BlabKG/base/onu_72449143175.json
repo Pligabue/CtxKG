@@ -1,0 +1,220 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_72449143175.txt",
+  "entities": {
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-Improvement-1": "Improvement",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19": "increase",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-global-22-drilling-23-market-24": "global drilling market",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-23-market-24": "drilling market",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-crude-3-oil-4-prices-5": "crude oil prices",
+    "NE-PERSON-Andrew-Gould": "Andrew Gould",
+    "NE-TITLE-Chief-Executive-Officer": "Chief Executive Officer",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-29-4-land-5-rigs-6": "29 land rigs",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-fleet-9": "fleet",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-barge-11-rigs-12": "barge rigs",
+    "NE-ORGANIZATION-Parker-Drilling": "Parker Drilling",
+    "NE-LOCATION-Gulf-of": "Gulf",
+    "NE-COUNTRY-Mexico": "Mexico",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7": "Parker Drilling Operations division",
+    "NE-ORGANIZATION-Parker-Drilling's-Operations-and-Maintenance": "Parker Drilling Operations and Maintenance",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-demand-10": "demand",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-14-packages-15": "drilling packages",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-customized-13": "customized",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-increasing-9": "increasing",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-10-16-year-18-drilling-19-contract-20": "10 year drilling contract",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-newbuild-2-ultradeepwater-3-drill-4-ship-6": "newbuild ultradeepwater drill ship",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-operations-11": "operations",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-10000-8": "10000",
+    "NE-COUNTRY-Angola": "Angola",
+    "NE-ORGANIZATION-Transocean-Ltd.": "Transocean Ltd.",
+    "NE-CITY-Zug": "Zug",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17": "venture",
+    "NE-ORGANIZATION-P&M-Drilling-International-BV": "P&M Drilling International BV",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-20-30-year-32-capital-33-lease-34-contract-35": "20 year capital lease contract",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-joint-16": "joint",
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-rig-27": "rig",
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": "Petroleo Brasileiro SA"
+  },
+  "graph": [
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Improvement-1",
+      "relation": "has led to",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19",
+      "relation": "of",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-global-22-drilling-23-market-24"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19",
+      "relation": "is in",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-global-22-drilling-23-market-24"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19",
+      "relation": "of",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-23-market-24"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Improvement-1",
+      "relation": "is in",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-crude-3-oil-4-prices-5"
+    },
+    {
+      "subject_id": "NE-PERSON-Andrew-Gould",
+      "relation": "is",
+      "object_id": "NE-TITLE-Chief-Executive-Officer"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-29-4-land-5-rigs-6",
+      "relation": "Gulf",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-fleet-9"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-29-4-land-5-rigs-6",
+      "relation": "Drilling",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-fleet-9"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-fleet-9",
+      "relation": "of",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-barge-11-rigs-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Parker-Drilling",
+      "relation": "runs",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-29-4-land-5-rigs-6"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "witnessed",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Parker-Drilling's-Operations-and-Maintenance"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "case",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-demand-10"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "of",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-14-packages-15"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "is",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-customized-13"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7",
+      "relation": "is",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-increasing-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has started operations under",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-10-16-year-18-drilling-19-contract-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "of",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-newbuild-2-ultradeepwater-3-drill-4-ship-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has started",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-operations-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "amount to",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-10000-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has started operations off",
+      "object_id": "NE-COUNTRY-Angola"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Transocean-Ltd.",
+      "relation": "is of",
+      "object_id": "NE-CITY-Zug"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Transocean-Ltd.",
+      "relation": "has contracted with",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-P&M-Drilling-International-BV"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Transocean-Ltd.",
+      "relation": "buy rig under",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-20-30-year-32-capital-33-lease-34-contract-35"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17",
+      "relation": "is",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-joint-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Transocean-Ltd.",
+      "relation": "buy",
+      "object_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-rig-27"
+    },
+    {
+      "subject_id": "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petroleo-Brasileiro-SA"
+    }
+  ],
+  "links": {
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-Improvement-1": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-increase-19": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-global-22-drilling-23-market-24": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-23-market-24": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-crude-3-oil-4-prices-5": [],
+    "NE-PERSON-Andrew-Gould": [],
+    "NE-TITLE-Chief-Executive-Officer": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-29-4-land-5-rigs-6": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-fleet-9": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-barge-11-rigs-12": [],
+    "NE-ORGANIZATION-Parker-Drilling": [],
+    "NE-LOCATION-Gulf-of": [],
+    "NE-COUNTRY-Mexico": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-Parker-1-Drilling-2-Operations-4-division-7": [],
+    "NE-ORGANIZATION-Parker-Drilling's-Operations-and-Maintenance": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-demand-10": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-drilling-14-packages-15": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-customized-13": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-increasing-9": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-10-16-year-18-drilling-19-contract-20": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-newbuild-2-ultradeepwater-3-drill-4-ship-6": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-operations-11": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-10000-8": [],
+    "NE-COUNTRY-Angola": [],
+    "NE-ORGANIZATION-Transocean-Ltd.": [],
+    "NE-CITY-Zug": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-venture-17": [],
+    "NE-ORGANIZATION-P&M-Drilling-International-BV": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-20-30-year-32-capital-33-lease-34-contract-35": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-joint-16": [],
+    "67edbf99-25b8-4148-bbd5-867dcd875a2b-rig-27": [],
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": []
+  }
+}

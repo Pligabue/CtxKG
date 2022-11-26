@@ -1,0 +1,316 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84891320656.txt",
+  "entities": {
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3": "risers",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12": "oil production",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-Unbonded-1": "Unbonded",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-offshore-8": "offshore",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-problems-32": "problems",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-proposed-36": "proposed",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-existing-31": "existing",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-flexible-2": "flexible",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-performance-17": "performance",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-used-6": "used",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-widely-5": "widely",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8": "structures",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-slender-5": "slender",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13": "used",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-multilayered-6": "multilayered",
+    "NE-TITLE-marine": "marine",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3": "advantages",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20": "conditions",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6": "risers",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12": "stiffness",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-lower-10": "lower",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-main-2": "main",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-undesirable-18": "undesirable",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-suffering-16": "suffering",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-bending-11": "bending",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-more-17": "more",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-much-9": "much",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-environmental-19": "environmental",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9": "riser",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12": "attentions",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-concentrated-15": "concentrated",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-much-11": "much",
+    "NE-DURATION-ten-year": "ten year",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-aspects-18": "aspects",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-recent-3": "recent",
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-mainly-14": "mainly"
+  },
+  "graph": [
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are used in",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-Unbonded-1"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-offshore-8"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are widely used in",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-problems-32",
+      "relation": "are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-proposed-36"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-problems-32",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-existing-31"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-flexible-2"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are used due",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-performance-17"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-6"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-6",
+      "relation": "at",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-widely-5"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are widely used due",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-performance-17"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-slender-5"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are multilayered structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are slender multilayered structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-multilayered-6"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are slender marine structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are slender structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are multilayered marine structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are marine structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3",
+      "relation": "are slender multilayered marine structures",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3",
+      "relation": "capacity of",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6",
+      "relation": "advantages of are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-flexible-2"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-lower-10"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-main-2"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3",
+      "relation": "are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-undesirable-18"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-suffering-16"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-bending-11"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6",
+      "relation": "main advantages of are",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+      "relation": "of",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20",
+      "relation": "at",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-more-17"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+      "relation": "at",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-much-9"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-environmental-19"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9",
+      "relation": "attracted",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-concentrated-15"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-Unbonded-1"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-flexible-2"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-much-11"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9",
+      "relation": "attracted attentions In",
+      "object_id": "NE-DURATION-ten-year"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12",
+      "relation": "at",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-aspects-18"
+    },
+    {
+      "subject_id": "NE-DURATION-ten-year",
+      "relation": "is",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-recent-3"
+    },
+    {
+      "subject_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12",
+      "relation": "at",
+      "object_id": "1309746e-bd51-453c-8893-8fb38d7af7ab-mainly-14"
+    }
+  ],
+  "links": {
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-3": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-Unbonded-1": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-offshore-8": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-problems-32": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-proposed-36": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-existing-31": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-flexible-2": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-performance-17": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-used-6": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-widely-5": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-structures-8": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-slender-5": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-used-13": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-multilayered-6": [],
+    "NE-TITLE-marine": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-risers-6": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-lower-10": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-main-2": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-undesirable-18": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-suffering-16": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-bending-11": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-more-17": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-much-9": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-environmental-19": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-riser-9": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-attentions-12": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-concentrated-15": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-much-11": [],
+    "NE-DURATION-ten-year": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-aspects-18": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-recent-3": [],
+    "1309746e-bd51-453c-8893-8fb38d7af7ab-mainly-14": []
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_2342418572.txt",
+  "entities": {
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-article-2": "article",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5": "development",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20": "wells",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-long-17": "long",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-18": "horizontal",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-gravel-13-pack-14-design-15": "gravel pack design",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-19": "offshore",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computational-8": "computational",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-12": "horizontal",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-tool-9": "tool",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3": "formulation",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-detailed-16": "detailed",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-Mechanistic-1": "Mechanistic",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-large-8-scale-9-flow-10-loop-11-development-14": "large scale flow loop development",
+    "NE-TITLE-model": "model",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computer-2-simulation-3-results-4": "computer simulation results",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-compared-7": "compared",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-then-6": "then",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10": "field data",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-collected-11": "collected",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-operations-15": "operations",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-17": "offshore",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-discussion-2": "discussion",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-presented-16": "presented",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-sensibility-5-analysis-6": "sensibility analysis",
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-screen-8-eccentricity-9": "screen eccentricity"
+  },
+  "graph": [
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-article-2",
+      "relation": "presents",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5",
+      "relation": "guide gravel pack design for",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-long-17"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-18"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5",
+      "relation": "guide",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-gravel-13-pack-14-design-15"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-19"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computational-8"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-gravel-13-pack-14-design-15",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-12"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5",
+      "relation": "of",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-tool-9"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3",
+      "relation": "are",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-detailed-16"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-Mechanistic-1"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3",
+      "relation": "experimentation at",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-large-8-scale-9-flow-10-loop-11-development-14"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computer-2-simulation-3-results-4",
+      "relation": "are",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-compared-7"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-compared-7",
+      "relation": "at",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-then-6"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computer-2-simulation-3-results-4",
+      "relation": "are compared with",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-collected-11"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10",
+      "relation": "at",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-operations-15"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-compared-7",
+      "relation": "at",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computer-2-simulation-3-results-4",
+      "relation": "are compared with",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-17"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-discussion-2",
+      "relation": "is",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-presented-16"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-discussion-2",
+      "relation": "includes",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-sensibility-5-analysis-6"
+    },
+    {
+      "subject_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-sensibility-5-analysis-6",
+      "relation": "of",
+      "object_id": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-screen-8-eccentricity-9"
+    }
+  ],
+  "links": {
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-article-2": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-development-5": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-wells-20": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-long-17": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-18": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-gravel-13-pack-14-design-15": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-19": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computational-8": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-12": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-tool-9": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-formulation-3": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-detailed-16": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-Mechanistic-1": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-large-8-scale-9-flow-10-loop-11-development-14": [],
+    "NE-TITLE-model": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computer-2-simulation-3-results-4": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-compared-7": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-then-6": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-field-9-data-10": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-collected-11": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-operations-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-offshore-17": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-discussion-2": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-presented-16": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-sensibility-5-analysis-6": [],
+    "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-screen-8-eccentricity-9": []
+  }
+}

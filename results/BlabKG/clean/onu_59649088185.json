@@ -1,0 +1,271 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_59649088185.txt",
+  "entities": {
+    "NE-PERSON-Hamworthy": "Hamworthy",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9": "LNG regasification plant",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-onboard-6": "onboard",
+    "NE-ORDINAL-first": "first",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-installed-9": "installed",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-to-7": "to",
+    "NE-LOCATION-Neptune": "Neptune",
+    "NE-CITY-Suez": "Suez",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-145,000-12-cu-13-m-14-LNG-15-shuttle-16-regasification-17-vessel-18": "145,000 cu m LNG shuttle regasification vessel",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-SRV-1": "SRV",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-designed-3": "designed",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-8": "LNG",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-three-4-regasification-5-skids-6": "three regasification skids",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-ship-8": "ship",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-shipset-2": "shipset",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7": "regasification capacity",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-210-9-ton-10": "210 ton",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-14": "LNG",
+    "NE-DURATION-hr": "hr",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-pressure-20": "pressure",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-out-19": "out",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-115-22-bar-23": "115 bar",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5": "project",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-138,000-10-cu-11-m-12-LNG-13-storage-15": "138,000 cu m LNG storage",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-floating-14": "floating",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-firm-2": "firm",
+    "NE-ORDINAL-second": "second",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-plant-7": "plant",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-21": "gas",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24": "will sent",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-2": "vessel",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5": "will chartered",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-located-13": "located",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-where-20": "where",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "NE-CITY-Bay": "Bay",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-onshore-30": "onshore",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-10-import-11-project-12": "LNG import project",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-27": "vessel",
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-31-grid-32": "gas grid"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-PERSON-Hamworthy",
+      "relation": "has supplied",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9"
+    },
+    {
+      "subject_id": "NE-PERSON-Hamworthy",
+      "relation": "has",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-onboard-6"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "NE-PERSON-Hamworthy",
+      "relation": "delivered",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-installed-9"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-installed-9",
+      "relation": "mark",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-to-7"
+    },
+    {
+      "subject_id": "NE-LOCATION-Neptune",
+      "relation": "is",
+      "object_id": "NE-CITY-Suez"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-installed-9",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-145,000-12-cu-13-m-14-LNG-15-shuttle-16-regasification-17-vessel-18"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-SRV-1",
+      "relation": "are",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-designed-3"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-SRV-1",
+      "relation": "vaporize",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-8"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-SRV-1",
+      "relation": "transport",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-8"
+    },
+    {
+      "subject_id": "NE-PERSON-Hamworthy",
+      "relation": "is supplying",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-three-4-regasification-5-skids-6"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-three-4-regasification-5-skids-6",
+      "relation": "of",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-ship-8"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-shipset-2",
+      "relation": "will have",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7",
+      "relation": "of",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-210-9-ton-10"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7",
+      "relation": "of",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-14"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7",
+      "relation": "of",
+      "object_id": "NE-DURATION-hr"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-shipset-2",
+      "relation": "will have regasification capacity with",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-pressure-20"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-pressure-20",
+      "relation": "is",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-out-19"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-pressure-20",
+      "relation": "of",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-115-22-bar-23"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5",
+      "relation": "comprises plant for",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-138,000-10-cu-11-m-12-LNG-13-storage-15"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-138,000-10-cu-11-m-12-LNG-13-storage-15",
+      "relation": "is",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-floating-14"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-firm-2",
+      "relation": "has",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-second"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5",
+      "relation": "comprises",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-plant-7"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-21",
+      "relation": "will",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-2",
+      "relation": "will",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5",
+      "relation": "is",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-located-13"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-where-20"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5",
+      "relation": "at",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24",
+      "relation": "is",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-onshore-30"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-10-import-11-project-12"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-27"
+    },
+    {
+      "subject_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24",
+      "relation": "at",
+      "object_id": "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-31-grid-32"
+    }
+  ],
+  "links": {
+    "NE-PERSON-Hamworthy": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-7-regasification-8-plant-9": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-onboard-6": [],
+    "NE-ORDINAL-first": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-installed-9": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-to-7": [],
+    "NE-LOCATION-Neptune": [],
+    "NE-CITY-Suez": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-145,000-12-cu-13-m-14-LNG-15-shuttle-16-regasification-17-vessel-18": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-SRV-1": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-designed-3": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-8": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-three-4-regasification-5-skids-6": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-ship-8": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-shipset-2": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-regasification-6-capacity-7": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-210-9-ton-10": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-14": [],
+    "NE-DURATION-hr": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-pressure-20": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-out-19": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-115-22-bar-23": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-project-5": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-138,000-10-cu-11-m-12-LNG-13-storage-15": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-floating-14": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-firm-2": [],
+    "NE-ORDINAL-second": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-plant-7": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-21": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-will-22-sent-24": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-2": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-located-13": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-where-20": [],
+    "NE-LOCATION-Guanabara": [],
+    "NE-CITY-Bay": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-onshore-30": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-LNG-10-import-11-project-12": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-vessel-27": [],
+    "b1824a3a-1334-43e1-9b59-e99495d47c65-gas-31-grid-32": []
+  }
+}

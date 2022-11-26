@@ -1,0 +1,924 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897392529.txt",
+  "entities": {
+    "21b0b660-404f-436a-867e-af9cbe7f0918-technology-16": "technology",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24": "demands",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-challenging-27": "challenging",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4": "water exploration",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-costs-34": "costs",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-15": "new",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environments-28": "environments",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-increasing-23": "increasing",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-complexity-12": "complexity",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Deep-1": "Deep",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-ever-22": "ever",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-costs-16": "costs",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-exploration-19": "exploration",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environments-22": "environments",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-continuous-7-increase-8": "continuous increase",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-12-regulations-13": "safety regulations",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-21": "new",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operators-5": "operators",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-cost-9-effective-11-methods-12": "cost effective methods",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pressure-18": "pressure",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-specific-22-conditions-23": "specific conditions",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-9": "it",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-15": "data",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-potential-5-oil-6-block-7": "potential oil block",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-discovered-4": "discovered",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-11": "necessary",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-newly-3": "newly",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-14": "downhole",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-6": "it",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-4": "data",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Drill-11-Stem-13-Tests-14": "Drill Stem Tests",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-DSTs-16": "DSTs",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-8": "necessary",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-13": "it",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-type-3": "type",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-5": "data",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-volume-19": "volume",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-22": "reservoir",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-possible-15": "possible",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-7-equipment-8": "safety equipment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-well-21": "well",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-flow-27": "flow",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-undesired-26": "undesired",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environment-32": "environment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-control-23": "control",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-large-10-hydrocarbon-11-potential-12": "large hydrocarbon potential",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-15-area-16": "pre-salt area",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Recent-1-discoveries-2": "Recent discoveries",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-800-9-kilometers-10": "800 kilometers",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoirs-30": "reservoirs",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-coast-26": "coast",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-200-20-kilometers-21-wide-22": "200 kilometers wide",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-area-2": "area",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-track-6": "track",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operations-15": "operations",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-19": "data",
+    "NE-ORGANIZATION-DST": "DST",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reliable-18": "reliable",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-need-11": "need",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-production-12": "production",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17": "has 300 thousand barrels",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-day-19": "day",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-production-6": "production",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-2008-21": "2008",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-24-production-25": "pre-salt production",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-company-31": "company",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-1-35-million-36-barrels-37": "1 million barrels",
+    "NE-DURATION-day": "day",
+    "NE-DATE-day-since-2008": "day since 2008",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-numbers-4": "numbers",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-will-7-necessary-9": "will necessary",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-14": "reservoir",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-predicted-19": "predicted",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-originally-18": "originally",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-acquisition-4": "acquisition",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-resources-12": "resources",
+    "NE-DATE-current": "current",
+    "NE-TITLE-operator": "operator",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-well-36": "well",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-process-2": "process",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8": "amounts",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4": "performed",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pressures-23": "pressures",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-injecting-6": "injecting",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-fluid-16": "fluid",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-laden-15": "laden",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-36": "reservoir",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-expected-38-production-39": "expected production",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-large-7": "large",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-high-22": "high",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-proppant-13": "proppant",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-specific-11": "specific",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-19": "reservoir",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14": "equipment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17": "must pulled",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-used-4": "used",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-5": "equipment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-traditionally-3": "traditionally",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-trips-3": "trips",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-consolidated-7": "consolidated",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14-package-15": "equipment package",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-designed-12": "designed",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-13": "downhole",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-to-5": "to",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-engineering-3-service-5-company-6": "engineering service company",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18": "placed",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-major-2": "major",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-BOP-21-stack-22": "BOP stack",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-to-16": "to",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-48-valve-49-system-50": "safety valve system",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-capability-53": "capability",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-3": "equipment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-qualified-5": "qualified",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-2": "new",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-13000-28-psi-29": "13000 psi",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36": "pumping rate",
+    "NE-DURATION-min": "min",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-23-31-bbl-32": "23 bbl",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-slurry-38": "slurry",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9": "new subsea safety tree",
+    "NE-DURATION-5-minutes": "5 minutes",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-closed-20": "closed",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-sand-26-concentration-28-slurry-29": "sand concentration slurry",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-the-5": "the",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-full-25": "full",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inspection-14": "inspection",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17": "damage",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inside-22": "inside",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9": "subsea safety tree",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-disassembled-3": "disassembled",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inspected-11": "inspected",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-6": "new",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-erosion-19": "erosion",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-minimal-16": "minimal",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-walls-23": "walls",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-31": "equipment",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-type-36": "type",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-offshore-38": "offshore",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operation-39": "operation",
+    "21b0b660-404f-436a-867e-af9cbe7f0918-tool-26": "tool"
+  },
+  "graph": [
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-technology-16",
+      "relation": "meet",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-challenging-27"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4",
+      "relation": "also increase in",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-costs-34"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-technology-16",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-15"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-environments-28"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-increasing-23"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4",
+      "relation": "increase in",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-complexity-12"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-Deep-1"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-ever-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-costs-16",
+      "relation": "associated with",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-exploration-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-exploration-19",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-environments-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-continuous-7-increase-8",
+      "relation": "is in",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-safety-12-regulations-13"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-exploration-19",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-21"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-operators-5",
+      "relation": "are welcoming",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-cost-9-effective-11-methods-12"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pressure-18",
+      "relation": "temperature under",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-specific-22-conditions-23"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-9",
+      "relation": "obtain",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-15"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-9",
+      "relation": "is necessary In",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-potential-5-oil-6-block-7"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-potential-5-oil-6-block-7",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-discovered-4"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-9",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-11"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-potential-5-oil-6-block-7",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-newly-3"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-15",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-14"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "obtain",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-4"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "perform",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-Drill-11-Stem-13-Tests-14"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "perform",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-DSTs-16"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-8"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-13",
+      "relation": "Using",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-type-3"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-type-3",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-5"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-13",
+      "relation": "estimate",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-volume-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-volume-19",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-13",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-possible-15"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-safety-7-equipment-8",
+      "relation": "keep",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-well-21"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-well-21",
+      "relation": "prevent",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-flow-27"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-flow-27",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-undesired-26"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-well-21",
+      "relation": "protect",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-environment-32"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-safety-7-equipment-8",
+      "relation": "keep well under",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-control-23"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-large-10-hydrocarbon-11-potential-12",
+      "relation": "is in",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-15-area-16"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-Recent-1-discoveries-2",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-800-9-kilometers-10",
+      "relation": "has",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoirs-30"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-800-9-kilometers-10",
+      "relation": "is away",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-coast-26"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-coast-26",
+      "relation": "amount to",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-200-20-kilometers-21-wide-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-area-2",
+      "relation": "extends in",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-track-6"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-operations-15",
+      "relation": "obtain",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-operations-15",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-DST"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-data-19",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reliable-18"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-need-11",
+      "relation": "perform",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-operations-15"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-production-12",
+      "relation": "has",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-day-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-production-6",
+      "relation": "has increased According",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-production-6",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-production-6",
+      "relation": "has increased steadily According",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-2008-21"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-24-production-25",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-company-31",
+      "relation": "reach",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-1-35-million-36-barrels-37"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-1-35-million-36-barrels-37",
+      "relation": "of",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17",
+      "relation": "of",
+      "object_id": "NE-DATE-day-since-2008"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "achieve",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-numbers-4"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-it-6",
+      "relation": "will",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-will-7-necessary-9"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-14",
+      "relation": "respond as",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-predicted-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-predicted-19",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-originally-18"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-acquisition-4",
+      "relation": "estimate",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-resources-12"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-resources-12",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "may choose After",
+      "object_id": "NE-ORGANIZATION-DST"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "fracture",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-well-36"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-process-2",
+      "relation": "is performed by",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-process-2",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4",
+      "relation": "by",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pressures-23"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-injecting-6"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-fluid-16"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-laden-15"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-36",
+      "relation": "has",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-expected-38-production-39"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-large-7"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-high-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-proppant-13"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-specific-11"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14",
+      "relation": "must",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-used-4"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17",
+      "relation": "case",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-5"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-traditionally-3"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-trips-3",
+      "relation": "were",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-consolidated-7"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14-package-15",
+      "relation": "would have",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-consolidated-7"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14-package-15",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-designed-12"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14-package-15",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-13"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-consolidated-7",
+      "relation": "mark",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-to-5"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-engineering-3-service-5-company-6",
+      "relation": "has developed",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-engineering-3-service-5-company-6",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-major-2"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-BOP-21-stack-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-engineering-3-service-5-company-6",
+      "relation": "has now developed",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18",
+      "relation": "mark",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-to-16"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-safety-48-valve-49-system-50",
+      "relation": "has",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-capability-53"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-3",
+      "relation": "was",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-qualified-5"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-3",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-2"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-13000-28-psi-29",
+      "relation": "is with",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36",
+      "relation": "of",
+      "object_id": "NE-DURATION-min"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36",
+      "relation": "amount to",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-23-31-bbl-32"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36",
+      "relation": "is with",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-slurry-38"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9",
+      "relation": "was closed for",
+      "object_id": "NE-DURATION-5-minutes"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9",
+      "relation": "was",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-closed-20"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9",
+      "relation": "was closed at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-sand-26-concentration-28-slurry-29"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-the-5"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-closed-20",
+      "relation": "at",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-sand-26-concentration-28-slurry-29"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-closed-20",
+      "relation": "at",
+      "object_id": "NE-DURATION-5-minutes"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-sand-26-concentration-28-slurry-29",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-full-25"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-inspection-14",
+      "relation": "showed",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-inside-22"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9",
+      "relation": "being",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-disassembled-3"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9",
+      "relation": "was",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-inspected-11"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-new-6"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "inspection",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-erosion-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-minimal-16"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "indicating",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-erosion-19"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-walls-23"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9",
+      "relation": "was inspected",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-disassembled-3"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-31",
+      "relation": "qualify for",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-type-36"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-type-36",
+      "relation": "is",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-offshore-38"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-type-36",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-operation-39"
+    },
+    {
+      "subject_id": "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17",
+      "relation": "of",
+      "object_id": "21b0b660-404f-436a-867e-af9cbe7f0918-tool-26"
+    }
+  ],
+  "links": {
+    "21b0b660-404f-436a-867e-af9cbe7f0918-technology-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-challenging-27": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-costs-34": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-15": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-new-21",
+      "21b0b660-404f-436a-867e-af9cbe7f0918-new-2"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environments-28": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-increasing-23": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-complexity-12": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Deep-1": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-ever-22": [],
+    "NE-COUNTRY-Brazil": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-costs-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-exploration-19": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environments-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-continuous-7-increase-8": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-12-regulations-13": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-21": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-new-15"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operators-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-cost-9-effective-11-methods-12": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pressure-18": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-specific-22-conditions-23": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-9": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-it-6"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-15": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-data-19"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-potential-5-oil-6-block-7": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-discovered-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-11": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-8"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-newly-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-14": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-13"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-6": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-it-9",
+      "21b0b660-404f-436a-867e-af9cbe7f0918-it-13"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Drill-11-Stem-13-Tests-14": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-DSTs-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-8": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-necessary-11"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-it-13": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-it-6"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-type-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-volume-19": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-possible-15": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-7-equipment-8": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-well-21": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-flow-27": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-undesired-26": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-environment-32": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-control-23": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-large-10-hydrocarbon-11-potential-12": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-15-area-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-Recent-1-discoveries-2": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-800-9-kilometers-10": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoirs-30": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-coast-26": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-200-20-kilometers-21-wide-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-area-2": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-track-6": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operations-15": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-data-19": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-data-15"
+    ],
+    "NE-ORGANIZATION-DST": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reliable-18": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-need-11": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-production-12": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-has-13-300-15-thousand-16-barrels-17": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-day-19": [
+      "NE-DURATION-day"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-production-6": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-2008-21": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pre-salt-24-production-25": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-company-31": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-1-35-million-36-barrels-37": [],
+    "NE-DURATION-day": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-day-19"
+    ],
+    "NE-DATE-day-since-2008": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-numbers-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-will-7-necessary-9": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-14": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-predicted-19": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-originally-18": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-acquisition-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-resources-12": [],
+    "NE-DATE-current": [],
+    "NE-TITLE-operator": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-well-36": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-process-2": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-amounts-8": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-performed-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pressures-23": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-injecting-6": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-fluid-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-laden-15": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-36": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-expected-38-production-39": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-large-7": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-high-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-proppant-13": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-specific-11": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-19": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-must-15-pulled-17": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-used-4": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-traditionally-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-trips-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-consolidated-7": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-14-package-15": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-designed-12": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-13": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-downhole-14"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-to-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-engineering-3-service-5-company-6": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-placed-18": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-major-2": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-BOP-21-stack-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-to-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-safety-48-valve-49-system-50": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-capability-53": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-qualified-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-2": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-new-15"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-13000-28-psi-29": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-pumping-35-rate-36": [],
+    "NE-DURATION-min": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-23-31-bbl-32": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-slurry-38": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9"
+    ],
+    "NE-DURATION-5-minutes": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-closed-20": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-sand-26-concentration-28-slurry-29": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-the-5": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-full-25": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inspection-14": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-damage-17": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inside-22": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-subsea-7-safety-8-tree-9": [
+      "21b0b660-404f-436a-867e-af9cbe7f0918-new-6-subsea-7-safety-8-tree-9"
+    ],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-disassembled-3": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-inspected-11": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-new-6": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-erosion-19": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-minimal-16": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-walls-23": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-equipment-31": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-type-36": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-offshore-38": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-operation-39": [],
+    "21b0b660-404f-436a-867e-af9cbe7f0918-tool-26": []
+  }
+}

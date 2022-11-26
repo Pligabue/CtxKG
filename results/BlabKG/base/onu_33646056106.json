@@ -1,0 +1,333 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33646056106.txt",
+  "entities": {
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-fuel-16": "fuel",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-1,300-11-m3-12": "1,300 m3",
+    "NE-TITLE-marine": "marine",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-gallons-9": "gallons",
+    "NE-CITY-Bay": "Bay",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-January-2-18-3-2000-5": "January 18 2000",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6": "leak",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9": "pipeline",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-refinery-13": "refinery",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-2": "spill",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-oil-16-terminal-17": "oil terminal",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2": "paper",
+    "NE-DURATION-10-days": "10 days",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-5": "results",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-water-8-column-9": "water column",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-n-20-alkanes-22": "n alkanes",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-Chemical-1": "Chemical",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10": "performed",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-impacted-17-area-18": "impacted area",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-area-18": "area",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-14-12-sampling-13-stations-14": "14 sampling stations",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chemical-2-analysis-3": "chemical analysis",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-10": "results",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-0.04-13-11.56-15-μg-16-1-20": "0.04 11.56 μg 1",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chrysene-22-equivalents-23": "chrysene equivalents",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6": "samples",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sediments-3": "sediments",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-57-5": "57",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-collected-8": "collected",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sites-13": "sites",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-10": "intertidal",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8": "%",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10": "PAHs",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-73-7": "73",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-g-20": "g",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-GC-12-MS-14": "GC MS",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-30-3-sediments-5": "30 sediments",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7--1-21": "-1",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-17-μg-18": "2 μg",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-28": "range",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-29-5-31-μg-32-1-36": "2 5 μg 1",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-vicinity-50": "vicinity",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-53-point-54": "spill point",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-4": "intertidal",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-7": "results",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-11": "range",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-27-3-sediments-5": "27 sediments",
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-subtidal-4": "subtidal"
+  },
+  "graph": [
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-fuel-16",
+      "relation": "of gallons is",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-1,300-11-m3-12"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-fuel-16",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-gallons-9",
+      "relation": "spilled into",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-gallons-9",
+      "relation": "spilled On",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-January-2-18-3-2000-5"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6",
+      "relation": "is in",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-refinery-13"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-2",
+      "relation": "originated from",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-oil-16-terminal-17"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2",
+      "relation": "presents results after",
+      "object_id": "NE-DURATION-10-days"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2",
+      "relation": "presents",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-5"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-5",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-water-8-column-9"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2",
+      "relation": "presents results including",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-n-20-alkanes-22"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-Chemical-1",
+      "relation": "was",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-impacted-17-area-18",
+      "relation": "is in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10",
+      "relation": "at",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-area-18"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10",
+      "relation": "at",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-impacted-17-area-18"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10",
+      "relation": "at",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-14-12-sampling-13-stations-14"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chemical-2-analysis-3",
+      "relation": "showed",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-10"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-0.04-13-11.56-15-μg-16-1-20",
+      "relation": "is in",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chrysene-22-equivalents-23"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6",
+      "relation": "monitor",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sediments-3"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6",
+      "relation": "amount to",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-57-5"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6",
+      "relation": "were",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-collected-8"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6",
+      "relation": "were collected from",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sites-13"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sites-13",
+      "relation": "is",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-10"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8",
+      "relation": "contained",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8",
+      "relation": "amount to",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-73-7"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-g-20"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8",
+      "relation": "contained",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-GC-12-MS-14"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8",
+      "relation": "contained PAHs For",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-30-3-sediments-5"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7--1-21"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10",
+      "relation": "case",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-17-μg-18"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10",
+      "relation": "were in",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-28"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-29-5-31-μg-32-1-36",
+      "relation": "located in",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-vicinity-50"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-vicinity-50",
+      "relation": "of",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-53-point-54"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7--1-21",
+      "relation": "below PAHs is",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-GC-12-MS-14"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-30-3-sediments-5",
+      "relation": "is",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-4"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-7",
+      "relation": "were in",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-11"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-11",
+      "relation": "case",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-27-3-sediments-5"
+    },
+    {
+      "subject_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-11",
+      "relation": "is",
+      "object_id": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-subtidal-4"
+    }
+  ],
+  "links": {
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-fuel-16": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-1,300-11-m3-12": [],
+    "NE-TITLE-marine": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-gallons-9": [],
+    "NE-CITY-Bay": [],
+    "NE-LOCATION-Guanabara": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-January-2-18-3-2000-5": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-leak-6": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-pipeline-9": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-refinery-13": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-2": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-oil-16-terminal-17": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2": [],
+    "NE-DURATION-10-days": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-5": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-water-8-column-9": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-n-20-alkanes-22": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-Chemical-1": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-performed-10": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-impacted-17-area-18": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-area-18": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-14-12-sampling-13-stations-14": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chemical-2-analysis-3": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-10": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-0.04-13-11.56-15-μg-16-1-20": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-chrysene-22-equivalents-23": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-samples-6": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sediments-3": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-57-5": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-collected-8": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-sites-13": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-10": [
+      "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-4"
+    ],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-%-8": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-PAHs-10": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-73-7": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-g-20": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-GC-12-MS-14": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-30-3-sediments-5": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7--1-21": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-17-μg-18": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-28": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-2-29-5-31-μg-32-1-36": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-vicinity-50": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-spill-53-point-54": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-4": [
+      "3f9b434e-048b-4cc7-9f64-90faa942c0b7-intertidal-10"
+    ],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-7": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-range-11": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-27-3-sediments-5": [],
+    "3f9b434e-048b-4cc7-9f64-90faa942c0b7-subtidal-4": []
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075941856.txt",
+  "entities": {
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5": "shelf",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentation-12-system-13": "sedimentation system",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-northeastern-2": "northeastern",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-9-siliciclastic-11": "carbonate siliciclastic",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mixed-8": "mixed",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-continental-4": "continental",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2": "study",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-23-environment-25": "shelf environment",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-depositional-24": "depositional",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12": "conditions",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distribution-17": "distribution",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-8": "sediments",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-superficial-7": "superficial",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-22": "outer",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentary-16": "sedimentary",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-5": "analysis",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-statistical-4": "statistical",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-total-2": "total",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediment-6-samples-7": "sediment samples",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-123-4": "123",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-3": "shelf",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7": "grain size",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-11": "coarse",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-14": "very",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-ranging-8": "ranging",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mean-5": "mean",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sand-16": "sand",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-deviation-2": "deviation",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6": "sorted",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Standard-1": "Standard",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-moderately-5": "moderately",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-8": "very",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-9": "poorly",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-10": "sorted",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Skewness-1": "Skewness",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-7": "skewed",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-fine-5": "fine",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-strongly-9": "strongly",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-intervals-2": "intervals",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-platykurtic-6": "platykurtic",
+    "NE-PERSON-Kurtosis": "Kurtosis",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-leptokurtic-9": "leptokurtic",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3": "analysis",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-correlations-5": "correlations",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bivariant-2": "bivariant",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-parameters-9": "parameters",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-OAR-22": "OAR",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-14-environments-15": "three environments",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Açu-19-reef-20": "Açu reef",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3": "sediments",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-values-50": "values",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-17-values-18": "kurtosis values",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bioclastic-20-coarse-21-sand-22": "bioclastic coarse sand",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-lowest-16": "lowest",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-2": "coarse",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-highest-49": "highest",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-selected-6": "selected",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-5": "poorly",
+    "NE-ORGANIZATION-AIR": "AIR",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-medium-31": "medium",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-siliciclastic-36": "siliciclastic",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-44": "skewed",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-2-parameters-5": "kurtosis parameters",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8": "distinction",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-16": "shelf",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-15": "outer",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-11-zones-12": "three zones",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-results-2": "results",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5": "relationship",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-in-14-carbonate-16-production-17": "in carbonate production",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-16-production-17": "carbonate production",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-regimes-8": "regimes",
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-hydrodynamic-7": "hydrodynamic"
+  },
+  "graph": [
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5",
+      "relation": "has",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentation-12-system-13"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-northeastern-2"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentation-12-system-13",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-9-siliciclastic-11"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentation-12-system-13",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mixed-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-continental-4"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2",
+      "relation": "access conditions along",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-23-environment-25"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-23-environment-25",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-depositional-24"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2",
+      "relation": "access",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distribution-17"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2",
+      "relation": "applied analysis on",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-8",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-superficial-7"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-23-environment-25",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-22"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentary-16"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2",
+      "relation": "applied",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-5",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-statistical-4"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-total-2",
+      "relation": "grabbed",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediment-6-samples-7"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediment-6-samples-7",
+      "relation": "total of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-123-4"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-3",
+      "relation": "presented",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-3",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-22"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-11"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-14"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-ranging-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mean-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sand-16"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-deviation-2",
+      "relation": "ranges from",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-deviation-2",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Standard-1"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-moderately-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-9"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-10"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Skewness-1",
+      "relation": "ranges from",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-7"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-7",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-fine-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-7",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-strongly-9"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-intervals-2",
+      "relation": "range from",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-platykurtic-6"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-intervals-2",
+      "relation": "of",
+      "object_id": "NE-PERSON-Kurtosis"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-platykurtic-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-leptokurtic-9"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-platykurtic-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3",
+      "relation": "revealed",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-correlations-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bivariant-2"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-correlations-5",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-parameters-9"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3",
+      "relation": "revealed correlations outside",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-OAR-22"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3",
+      "relation": "revealed correlations in",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-14-environments-15"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3",
+      "relation": "revealed correlations outside",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Açu-19-reef-20"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-correlations-5",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-statistical-4"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3",
+      "relation": "showed",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-values-50"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-17-values-18",
+      "relation": "is in",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bioclastic-20-coarse-21-sand-22"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-17-values-18",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-lowest-16"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-2"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-values-50",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-highest-49"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3",
+      "relation": "are",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-selected-6"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-selected-6",
+      "relation": "at",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-values-50",
+      "relation": "of",
+      "object_id": "NE-PERSON-Kurtosis"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3",
+      "relation": "showed values in",
+      "object_id": "NE-ORGANIZATION-AIR"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-medium-31",
+      "relation": "are",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-siliciclastic-36"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-17-values-18",
+      "relation": "related to",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-44"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-2-parameters-5",
+      "relation": "evidenced",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-16"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-15"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-11-zones-12"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-results-2",
+      "relation": "revealed",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-in-14-carbonate-16-production-17"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-16-production-17"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5",
+      "relation": "of",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-regimes-8"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5",
+      "relation": "is with",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-in-14-carbonate-16-production-17"
+    },
+    {
+      "subject_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5",
+      "relation": "is",
+      "object_id": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-hydrodynamic-7"
+    }
+  ],
+  "links": {
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentation-12-system-13": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-northeastern-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-9-siliciclastic-11": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mixed-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-continental-4": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-study-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-23-environment-25": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-depositional-24": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distribution-17": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-superficial-7": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-22": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentary-16": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-statistical-4": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-total-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediment-6-samples-7": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-123-4": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-3": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-grain-6-size-7": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-11": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-14": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-ranging-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mean-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sand-16": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-deviation-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-6": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Standard-1": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-moderately-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-very-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-9": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sorted-10": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Skewness-1": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-7": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-fine-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-strongly-9": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-intervals-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-platykurtic-6": [],
+    "NE-PERSON-Kurtosis": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-leptokurtic-9": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-analysis-3": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-correlations-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bivariant-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-parameters-9": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-OAR-22": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-14-environments-15": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-Açu-19-reef-20": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sediments-3": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-values-50": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-17-values-18": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-bioclastic-20-coarse-21-sand-22": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-lowest-16": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-coarse-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-highest-49": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-selected-6": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-poorly-5": [],
+    "NE-ORGANIZATION-AIR": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-medium-31": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-siliciclastic-36": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-skewed-44": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-kurtosis-2-parameters-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-distinction-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-shelf-16": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-outer-15": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-three-11-zones-12": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-results-2": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-relationship-5": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-in-14-carbonate-16-production-17": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-carbonate-16-production-17": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-regimes-8": [],
+    "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-hydrodynamic-7": []
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_50249181836.txt",
+  "entities": {
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12": "platform",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11": "offshore",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-SSP30-9": "SSP30",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-world-21": "world",
+    "NE-ORDINAL-first": "first",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-16": "circular",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-18": "built",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12": "offshore platform",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-has-2-sent-4": "has sent",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-37-14-km-15": "37 km",
+    "NE-CITY-Aracaju": "Aracaju",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-city-18": "city",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-300,000-22-bbl-23": "300,000 bbl",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-the-8": "the",
+    "NE-DURATION-day": "day",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,000-5-1,600-7-m-8": "1,000 1,600 m",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-10": "water",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3": "geometry",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-mono-7-column-9": "mono column",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-casing-14": "casing",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2": "circular",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-13": "double",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-ORGANIZATION-Centro-de-Investigaciones": "Centro de Investigaciones",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2-geometry-3-known-5-as-6-mono-7---8-column-9": "circular geometry known as mono - column",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3": "developed",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18": "Agreement",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-y-9-Desarrollo-10-de-11": "y Desarrollo de",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Cenpes-14": "Cenpes",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Technological-20-Cooperation-21": "Technological Cooperation",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-agreement-2": "agreement",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5": "alternatives",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-its-17-various-18-projects-19": "its various projects",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-15": "platforms",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8-of-9-double-10-hull-11-projects-12": "development of double hull projects",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-larger-14": "larger",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8": "development",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-various-18": "various",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21-projects-19": "Agreement of Technological Cooperation projects",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-11-projects-12": "hull projects",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-structure-5": "structure",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-flexibility-8": "flexibility",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-advantage-2": "advantage",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21": "Agreement of Technological Cooperation",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4": "can withdrawn",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-9": "small",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-other-8": "other",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-fields-10": "fields",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-transport-5-charges-6": "transport charges",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-option-15": "option",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-2": "platforms",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19": "cost",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-21": "development",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-accumulations-24": "accumulations",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-30": "water",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-low-4": "low",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-good-14": "good",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-23-accumulations-24": "small accumulations",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30": "deep water",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-26": "crude",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-27": "oil",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3": "hull",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Yantai-8-Raffles-10-shipyard-11": "Yantai Raffles shipyard",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-2": "double",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-5": "built",
+    "NE-COUNTRY-China": "China",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-processing-23-plant-26": "processing plant",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-installed-33": "installed",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-where-21": "where",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-7": "company",
+    "NE-NATIONALITY-Norwegian": "Norwegian",
+    "NE-DATE-2007": "2007",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,450-24-m-25-depth-26": "1,450 m depth",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-six-20-wells-21": "six wells",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-connect-18": "connect",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-maximum-23": "maximum",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-end-10": "end",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-expected-4": "expected",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-October-12-2006-13": "October 2006",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-objective-18": "objective",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33": "water",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37": "northeast",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-21-business-22-plan-23": "company business plan",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-10": "production",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15": "oil",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30": "production",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27": "primary",
+    "NE-NATIONALITY-pole": "pole",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Piranema-2-project-3": "Piranema project",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-strategic-5": "strategic",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-13": "light",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-14": "crude",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-$-8-750-13-million-14": "$ 750 million",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-field-5": "field",
+    "NE-DURATION-yr": "yr",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Thanks-1": "Thanks",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-19": "crude",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-about-11-2-12-million-13-bbl-14": "about 2 million bbl",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-18": "light",
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-20": "oil"
+  },
+  "graph": [
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-SSP30-9"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "built in",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-world-21"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-16"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-18"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-world-21"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "has",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-has-2-sent-4"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-SSP30-9"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "operate Sergipe state",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-37-14-km-15"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-37-14-km-15",
+      "relation": "of",
+      "object_id": "NE-CITY-Aracaju"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-has-2-sent-4",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-37-14-km-15",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-city-18"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "store",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-300,000-22-bbl-23"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-the-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "can extract up to",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "NE-DURATION-day",
+      "relation": "amount to",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-300,000-22-bbl-23"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12",
+      "relation": "will operate in",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,000-5-1,600-7-m-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,000-5-1,600-7-m-8",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-10"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3",
+      "relation": "known as",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-mono-7-column-9"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-casing-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3",
+      "relation": "has",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-casing-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-casing-14",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is y Desarrollo de of",
+      "object_id": "NE-ORGANIZATION-Centro-de-Investigaciones"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2-geometry-3-known-5-as-6-mono-7---8-column-9",
+      "relation": "was",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2-geometry-3-known-5-as-6-mono-7---8-column-9",
+      "relation": "was developed by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Centro-de-Investigaciones"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-y-9-Desarrollo-10-de-11"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2-geometry-3-known-5-as-6-mono-7---8-column-9",
+      "relation": "was developed by",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Cenpes-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Technological-20-Cooperation-21"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-agreement-2",
+      "relation": "searches for",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-its-17-various-18-projects-19",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-15"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "is in",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8-of-9-double-10-hull-11-projects-12"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-larger-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8-of-9-double-10-hull-11-projects-12"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-various-18"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21-projects-19"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-11-projects-12"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-structure-5",
+      "relation": "advantage of is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-flexibility-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-advantage-2",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-flexibility-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21",
+      "relation": "can",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-9"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-other-8"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-fields-10"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-transport-5-charges-6",
+      "relation": "platforms of are",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-option-15"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-2",
+      "relation": "reduce",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-21"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-accumulations-24"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-2",
+      "relation": "are",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-option-15"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-transport-5-charges-6",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-low-4"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-option-15",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-good-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-23-accumulations-24",
+      "relation": "is in",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-23-accumulations-24"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-2",
+      "relation": "are",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-good-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-26"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-27"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3",
+      "relation": "was built at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Yantai-8-Raffles-10-shipyard-11"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-2"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3",
+      "relation": "was",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-5"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-5",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Yantai-8-Raffles-10-shipyard-11"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-5",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-China"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-processing-23-plant-26",
+      "relation": "was",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-installed-33"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3",
+      "relation": "was built in",
+      "object_id": "NE-COUNTRY-China"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-installed-33",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-where-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "belongs to",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-7"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-7",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Norwegian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "reach Brazil in",
+      "object_id": "NE-DATE-2007"
+    },
+    {
+      "subject_id": "NE-DATE-2007",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,450-24-m-25-depth-26"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "reach",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-DATE-2007",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-six-20-wells-21"
+    },
+    {
+      "subject_id": "NE-DATE-2007",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-connect-18"
+    },
+    {
+      "subject_id": "NE-DATE-2007",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-maximum-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "reach Brazil at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-end-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-expected-4"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-end-10",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-October-12-2006-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "increase production as",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-objective-18"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "create",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "create",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-objective-18",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-21-business-22-plan-23"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "increase",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-10"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-10",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "production of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "create",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27"
+    },
+    {
+      "subject_id": "NE-NATIONALITY-pole",
+      "relation": "is in",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "create",
+      "object_id": "NE-NATIONALITY-pole"
+    },
+    {
+      "subject_id": "NE-NATIONALITY-pole",
+      "relation": "is in",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37",
+      "relation": "of",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Piranema-2-project-3",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-strategic-5"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-13"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-14"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "create",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-$-8-750-13-million-14",
+      "relation": "develop",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-field-5"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-field-5",
+      "relation": "of",
+      "object_id": "NE-CITY-Aracaju"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "saves",
+      "object_id": "NE-DURATION-yr"
+    },
+    {
+      "subject_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-Thanks-1",
+      "relation": "saves",
+      "object_id": "NE-DURATION-yr"
+    },
+    {
+      "subject_id": "NE-DURATION-yr",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-19"
+    },
+    {
+      "subject_id": "NE-DURATION-yr",
+      "relation": "at",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-about-11-2-12-million-13-bbl-14"
+    },
+    {
+      "subject_id": "NE-DURATION-yr",
+      "relation": "is",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-18"
+    },
+    {
+      "subject_id": "NE-DURATION-yr",
+      "relation": "of",
+      "object_id": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-20"
+    }
+  ],
+  "links": {
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platform-12": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-SSP30-9": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-world-21": [],
+    "NE-ORDINAL-first": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-16": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-offshore-11-platform-12": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-has-2-sent-4": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-37-14-km-15": [],
+    "NE-CITY-Aracaju": [],
+    "NE-COUNTRY-Brazil": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-city-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-300,000-22-bbl-23": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-the-8": [],
+    "NE-DURATION-day": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,000-5-1,600-7-m-8": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-10": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-mono-7-column-9": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-casing-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-13": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-ORGANIZATION-Centro-de-Investigaciones": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-circular-2-geometry-3-known-5-as-6-mono-7---8-column-9": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-developed-3": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-y-9-Desarrollo-10-de-11": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Cenpes-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Technological-20-Cooperation-21": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-agreement-2": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-alternatives-5": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-its-17-various-18-projects-19": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-15": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8-of-9-double-10-hull-11-projects-12": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-larger-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-8": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-various-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21-projects-19": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-11-projects-12": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-structure-5": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-flexibility-8": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-advantage-2": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Agreement-18-of-19-Technological-20-Cooperation-21": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-can-2-withdrawn-4": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-9": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-other-8": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-fields-10": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-transport-5-charges-6": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-option-15": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-platforms-2": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-cost-19": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-development-21": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-accumulations-24": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-30": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-low-4": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-good-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-small-23-accumulations-24": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-26": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-27": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-hull-3": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Yantai-8-Raffles-10-shipyard-11": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-double-2": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-built-5": [],
+    "NE-COUNTRY-China": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-processing-23-plant-26": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-installed-33": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-where-21": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-7": [],
+    "NE-NATIONALITY-Norwegian": [],
+    "NE-DATE-2007": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-1,450-24-m-25-depth-26": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-six-20-wells-21": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-connect-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-maximum-23": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-end-10": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-expected-4": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-October-12-2006-13": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-objective-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-33": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-northeast-37": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-company-21-business-22-plan-23": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-10": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-production-30": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-primary-27": [],
+    "NE-NATIONALITY-pole": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Piranema-2-project-3": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-strategic-5": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-13": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-$-8-750-13-million-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-field-5": [],
+    "NE-DURATION-yr": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-Thanks-1": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-19": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-about-11-2-12-million-13-bbl-14": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-light-18": [],
+    "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-20": []
+  }
+}

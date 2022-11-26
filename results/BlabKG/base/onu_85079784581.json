@@ -1,0 +1,406 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85079784581.txt",
+  "entities": {
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5": "approach",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19": "data sets",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-ORGANIZATION-Espírito-Santo-Continental-Shelf": "Espírito Santo Continental Shelf",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-4": "combined",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-available-17": "available",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-modelling-9": "modelling",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-8": "terrain",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-7": "benthic",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-11-type-12-distribution-13": "sediment type distribution",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-regional-16": "regional",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-6": "BTM",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-13-classes-14": "terrain classes",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-12": "benthic",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-used-9": "used",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3": "BTM classes",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-depression-12": "depression",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-17-bottom-18": "valley bottom",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-20-break-21": "shelf break",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-Eight-1": "Eight",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-bottom-8": "bottom",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rough-10": "rough",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-14-flank-15": "valley flank",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-flat-7": "flat",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combination-2": "combination",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12": "17 types",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-physical-14": "physical",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6": "BTM classes",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-8-distribution-9": "sediment distribution",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitats-15": "habitats",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-4-morphology-5": "shelf morphology",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-pattern-8": "pattern",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitat-10-distribution-11": "habitat distribution",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-13-two-15-processes-18": "combined two processes",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sedimentary-17": "sedimentary",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-major-16": "major",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-two-4-categories-7": "two categories",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11": "shelf",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodoliths-19": "rhodoliths",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-main-5": "main",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-broad-6": "broad",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-presence-17": "presence",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-when-13": "when",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4": "valleys",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-ESCS-18": "ESCS",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascape-15": "seascape",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodolith-8-beds-9": "rhodolith beds",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-incised-3": "incised",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-conspicuous-14": "conspicuous",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-most-13": "most",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4": "slope",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15": "complexity",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-great-13": "great",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascapes-2": "seascapes",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14": "morphological",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-roughness-6": "roughness",
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-9-seabed-10": "shelf seabed"
+  },
+  "graph": [
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "using",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "applied",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Espírito-Santo-Continental-Shelf"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-4"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "using",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-available-17"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-modelling-9"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-8"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-7"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5",
+      "relation": "at",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-11-type-12-distribution-13"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-regional-16"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-6",
+      "relation": "define",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-13-classes-14"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-13-classes-14",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-12"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-6",
+      "relation": "was",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-used-9"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "were defined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-depression-12"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "were defined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-17-bottom-18"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "were defined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-20-break-21"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "amount to",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-Eight-1"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "were defined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-bottom-8"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-bottom-8",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rough-10"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3",
+      "relation": "were defined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-14-flank-15"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-bottom-8",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-flat-7"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combination-2",
+      "relation": "produced",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-physical-14"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6",
+      "relation": "is with",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-8-distribution-9"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12",
+      "relation": "combination of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6",
+      "relation": "of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-8-distribution-9"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12",
+      "relation": "of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitats-15"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-4-morphology-5",
+      "relation": "controls",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-pattern-8"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-pattern-8",
+      "relation": "of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitat-10-distribution-11"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-4-morphology-5",
+      "relation": "controls pattern combined",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-13-two-15-processes-18"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-13-two-15-processes-18",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sedimentary-17"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-13-two-15-processes-18",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-major-16"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-two-4-categories-7",
+      "relation": "observed along",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11",
+      "relation": "of",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodoliths-19"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-two-4-categories-7",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-main-5"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-two-4-categories-7",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-broad-6"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11",
+      "relation": "at",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-presence-17"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11",
+      "relation": "at",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-when-13"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "are conspicuous seascape along",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-ESCS-18"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "are seascape along",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-ESCS-18"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "are",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascape-15"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "combined with",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodolith-8-beds-9"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-incised-3"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascape-15",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-conspicuous-14"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4",
+      "relation": "are most conspicuous seascape along",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-ESCS-18"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascape-15",
+      "relation": "at",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-most-13"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4",
+      "relation": "producing",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-great-13"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascapes-2",
+      "relation": "producing",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15",
+      "relation": "is",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4",
+      "relation": "seascapes",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-roughness-6"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascapes-2",
+      "relation": "add",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4",
+      "relation": "producing",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-roughness-6"
+    },
+    {
+      "subject_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascapes-2",
+      "relation": "add slope to",
+      "object_id": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-9-seabed-10"
+    }
+  ],
+  "links": {
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-approach-5": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-data-18-sets-19": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-ORGANIZATION-Espírito-Santo-Continental-Shelf": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-4": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-available-17": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-modelling-9": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-8": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-7": [
+      "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-12"
+    ],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-11-type-12-distribution-13": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-regional-16": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-6": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-terrain-13-classes-14": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-12": [
+      "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-benthic-7"
+    ],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-used-9": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3": [
+      "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6"
+    ],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-depression-12": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-17-bottom-18": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-20-break-21": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-Eight-1": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-bottom-8": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rough-10": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valley-14-flank-15": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-flat-7": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combination-2": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-17-11-types-12": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-physical-14": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-5-classes-6": [
+      "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-BTM-2-classes-3"
+    ],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sediment-8-distribution-9": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitats-15": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-4-morphology-5": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-pattern-8": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-habitat-10-distribution-11": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-combined-13-two-15-processes-18": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-sedimentary-17": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-major-16": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-two-4-categories-7": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-11": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodoliths-19": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-main-5": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-broad-6": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-presence-17": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-when-13": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-valleys-4": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-ESCS-18": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascape-15": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-rhodolith-8-beds-9": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-incised-3": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-conspicuous-14": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-most-13": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-slope-4": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-complexity-15": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-great-13": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-seascapes-2": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-roughness-6": [],
+    "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-shelf-9-seabed-10": []
+  }
+}

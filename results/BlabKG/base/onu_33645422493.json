@@ -1,0 +1,594 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33645422493.txt",
+  "entities": {
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32": "state",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21": "crude",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-offshore-29": "offshore",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-heavy-20": "heavy",
+    "NE-LOCATION-Espirito-Santo": "Espirito Santo",
+    "NE-MISC-Seillean": "Seillean",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-used-14": "used",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-18-storage-19": "production storage",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-17": "floating",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-contract-9": "contract",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-development-7-team-8": "development team",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-prepare-2": "prepare",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-To-1": "To",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13": "requirements",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-limits-21": "limits",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-17": "vessel",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-22": "required",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-4": "production",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-processing-25-system-26": "processing system",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8": "vessel",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-central-7": "central",
+    "NE-PERSON-Seillean": "Seillean",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-production-16-system-17": "life production system",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-of-13-field-15-production-16-system-17": "life of field production system",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-2000-11-m-13-water-14-depth-15": "2000 m water depth",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-test-4": "test",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-17-riser-18": "production riser",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-subsea-20-equipment-21": "subsea equipment",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-rigid-16": "rigid",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-contained-6": "contained",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-size-11-derrick-12": "size derrick",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-full-9": "full",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2": "crude",
+    "NE-TITLE-tanker": "tanker",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-13": "hose",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-Produced-1": "Produced",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11-floating-12-hose-13-connected-14-between-15-two-17-vessels-18": "flexible floating hose connected between two vessels",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-12": "floating",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-offloaded-4": "offloaded",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11": "flexible",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-7": "shuttle",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-two-17-vessels-18": "two vessels",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-connected-14": "connected",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-8": "required",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-1-4": "1",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13": "export",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-2-Class-3-shuttle-5": "DP Class shuttle",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-waters-11": "waters",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-operations-17": "operations",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-15": "crude",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19": "environments",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-wave-22-heights-23": "wave heights",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-significant-21-wave-22-heights-23": "significant wave heights",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20": "hose system",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-6": "DP",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-18": "floating",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-26": "shuttle",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-23": "crude",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-16": "flexible",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-mooring-2-hawser-3": "mooring hawser",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-10-shuttle-11": "DP shuttle",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-upgrades-10": "upgrades",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-15": "vessel",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-12": "required",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-several-9": "several",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-Jubarte-6-production-7": "Jubarte production",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-coolers-6": "coolers",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11": "augmentation",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-oil-3-heaters-4": "oil heaters",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-cargo-4-tanks-5": "cargo tanks",
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-17": "shuttle"
+  },
+  "graph": [
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32",
+      "relation": "early production of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-offshore-29"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-heavy-20"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Espirito-Santo"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32",
+      "relation": "production of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21"
+    },
+    {
+      "subject_id": "NE-MISC-Seillean",
+      "relation": "was",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-used-14"
+    },
+    {
+      "subject_id": "NE-MISC-Seillean",
+      "relation": "was used as",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-18-storage-19"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-18-storage-19",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-17"
+    },
+    {
+      "subject_id": "NE-MISC-Seillean",
+      "relation": "vessel on",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-contract-9"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-contract-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-development-7-team-8",
+      "relation": "needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-prepare-2"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-prepare-2",
+      "relation": "mark",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-To-1"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13",
+      "relation": "develop",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-limits-21"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-development-7-team-8",
+      "relation": "evaluate",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-17"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-limits-21",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-22"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-development-7-team-8",
+      "relation": "prepare for",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-4"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-limits-21",
+      "relation": "at",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-processing-25-system-26"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-prepare-2",
+      "relation": "at",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "chose Seillean as",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-central-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "chose",
+      "object_id": "NE-PERSON-Seillean"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-production-16-system-17"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-of-13-field-15-production-16-system-17"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8",
+      "relation": "is in",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-of-13-field-15-production-16-system-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "equipped in",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-2000-11-m-13-water-14-depth-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "equipped for",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-test-4"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-17-riser-18",
+      "relation": "derrick",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-subsea-20-equipment-21"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-17-riser-18",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-rigid-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-contained-6"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-size-11-derrick-12",
+      "relation": "handle",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-17-riser-18"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-size-11-derrick-12",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-full-9"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2",
+      "relation": "is offloaded to",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-13"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-Produced-1"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11-floating-12-hose-13-connected-14-between-15-two-17-vessels-18"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-12"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-offloaded-4"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-7"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is with",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11-floating-12-hose-13-connected-14-between-15-two-17-vessels-18"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "at",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-two-17-vessels-18"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-connected-14"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-8"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "amount to",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-1-4"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-8",
+      "relation": "at",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-2-Class-3-shuttle-5"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is required for",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-8",
+      "relation": "at",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-waters-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-operations-17"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is required in",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-waters-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-15"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-waters-11",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-wave-22-heights-23"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13",
+      "relation": "is in",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-significant-21-wave-22-heights-23"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19",
+      "relation": "is with",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-significant-21-wave-22-heights-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "allowing",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-6"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20",
+      "relation": "offload crude to",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-18"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-26"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20",
+      "relation": "offload",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-23"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-16"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-mooring-2-hawser-3",
+      "relation": "connects",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "allowing",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-10-shuttle-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "hawser",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-upgrades-10",
+      "relation": "were required to",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-15"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-upgrades-10",
+      "relation": "were",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-12"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-upgrades-10",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-several-9"
+    },
+    {
+      "subject_id": "NE-MISC-Seillean",
+      "relation": "could start",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-Jubarte-6-production-7"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-coolers-6",
+      "relation": "needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "onboard needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-coolers-6",
+      "relation": "onboard needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-oil-3-heaters-4",
+      "relation": "onboard needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-oil-3-heaters-4",
+      "relation": "is",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-oil-3-heaters-4",
+      "relation": "needed",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11"
+    },
+    {
+      "subject_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-cargo-4-tanks-5",
+      "relation": "offloading to",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "of",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "has",
+      "object_id": "f8ba7747-a203-4391-9a8f-d06b3caf167c-cargo-4-tanks-5"
+    }
+  ],
+  "links": {
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-state-32": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-offshore-29": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-heavy-20": [],
+    "NE-LOCATION-Espirito-Santo": [],
+    "NE-MISC-Seillean": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-used-14": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-18-storage-19": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-17": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-contract-9": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-development-7-team-8": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-prepare-2": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-To-1": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-requirements-13": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-limits-21": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-17": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-22": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-4": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-processing-25-system-26": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-8": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-central-7": [],
+    "NE-PERSON-Seillean": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-production-16-system-17": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-life-11-of-13-field-15-production-16-system-17": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-2000-11-m-13-water-14-depth-15": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-test-4": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-production-17-riser-18": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-subsea-20-equipment-21": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-rigid-16": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-contained-6": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-size-11-derrick-12": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-full-9": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-2": [],
+    "NE-TITLE-tanker": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-13": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-Produced-1": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11-floating-12-hose-13-connected-14-between-15-two-17-vessels-18": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-12": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-offloaded-4": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-16"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-7": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-26",
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-17"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-two-17-vessels-18": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-connected-14": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-8": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-1-4": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-export-13": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-2-Class-3-shuttle-5": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-10-shuttle-11"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-waters-11": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-operations-17": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-15": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-wave-22-heights-23": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-significant-21-wave-22-heights-23": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-hose-19-system-20": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-6": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-18": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-26": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-7",
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-17"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-23": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-16": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-flexible-11"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-mooring-2-hawser-3": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-10-shuttle-11": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-DP-2-Class-3-shuttle-5"
+    ],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-upgrades-10": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-vessel-15": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-required-12": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-several-9": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-Jubarte-6-production-7": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-coolers-6": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-augmentation-11": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-oil-3-heaters-4": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-cargo-4-tanks-5": [],
+    "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-17": [
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-7",
+      "f8ba7747-a203-4391-9a8f-d06b3caf167c-shuttle-26"
+    ]
+  }
+}

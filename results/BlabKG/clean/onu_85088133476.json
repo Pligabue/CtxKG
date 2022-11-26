@@ -1,0 +1,422 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85088133476.txt",
+  "entities": {
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-8-metals-9": "trace metals",
+    "931afc26-ec02-4974-9270-dba41591d2d1-southeast-17": "southeast",
+    "931afc26-ec02-4974-9270-dba41591d2d1-study-3-deals-4": "study deals",
+    "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6": "bioavailability",
+    "NE-DATE-present": "present",
+    "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15": "continental shelf",
+    "NE-TITLE-river": "river",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Doce-12": "Doce",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3": "sediments",
+    "931afc26-ec02-4974-9270-dba41591d2d1-weeks-13": "weeks",
+    "931afc26-ec02-4974-9270-dba41591d2d1-few-12": "few",
+    "931afc26-ec02-4974-9270-dba41591d2d1-collapse-23": "collapse",
+    "931afc26-ec02-4974-9270-dba41591d2d1-bottom-2": "bottom",
+    "NE-DATE-November-of-2015": "November of 2015",
+    "NE-CAUSE_OF_DEATH-disaster": "disaster",
+    "931afc26-ec02-4974-9270-dba41591d2d1-40-5-Mm3-6": "40 Mm3",
+    "931afc26-ec02-4974-9270-dba41591d2d1-iron-8-ore-9-tailings-10": "iron ore tailings",
+    "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15": "shelf",
+    "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17": "sampled",
+    "931afc26-ec02-4974-9270-dba41591d2d1-April-9": "April",
+    "931afc26-ec02-4974-9270-dba41591d2d1-continental-14": "continental",
+    "931afc26-ec02-4974-9270-dba41591d2d1-2017-11": "2017",
+    "931afc26-ec02-4974-9270-dba41591d2d1-again-18": "again",
+    "NE-DURATION-One-year": "One year",
+    "931afc26-ec02-4974-9270-dba41591d2d1-later-6": "later",
+    "931afc26-ec02-4974-9270-dba41591d2d1-stations-5": "stations",
+    "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-9": "concentrations",
+    "931afc26-ec02-4974-9270-dba41591d2d1-48-4": "48",
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-11-metals-12": "trace metals",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Trace-1-metals-2": "Trace metals",
+    "931afc26-ec02-4974-9270-dba41591d2d1-determined-4": "determined",
+    "931afc26-ec02-4974-9270-dba41591d2d1-fractionation-6": "fractionation",
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-5-metals-6-mobility-7": "trace metals mobility",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9": "Pb",
+    "NE-MISC-Ni": "Ni",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Pb-20-Cu-21": "Pb Cu",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-13": "Cu",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Zn-15": "Zn",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cr-17": "Cr",
+    "NE-CAUSE_OF_DEATH-accident": "accident",
+    "931afc26-ec02-4974-9270-dba41591d2d1-high-26-ecological-27-risk-28": "high ecological risk",
+    "931afc26-ec02-4974-9270-dba41591d2d1-many-36-stations-37": "many stations",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Differences-1": "Differences",
+    "931afc26-ec02-4974-9270-dba41591d2d1-significant-12": "significant",
+    "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-3-of-4-metal-5-from-6-pre-7-to-8-post-9": "concentrations of metal from pre to post",
+    "931afc26-ec02-4974-9270-dba41591d2d1-increase-16": "increase",
+    "931afc26-ec02-4974-9270-dba41591d2d1-observed-21": "observed",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12": "Cu Pb",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Metal-1-fractionation-2": "Metal fractionation",
+    "931afc26-ec02-4974-9270-dba41591d2d1-changes-5": "changes",
+    "931afc26-ec02-4974-9270-dba41591d2d1-remarkable-4": "remarkable",
+    "931afc26-ec02-4974-9270-dba41591d2d1-elements-11": "elements",
+    "931afc26-ec02-4974-9270-dba41591d2d1-highly-19": "highly",
+    "931afc26-ec02-4974-9270-dba41591d2d1-associated-20": "associated",
+    "931afc26-ec02-4974-9270-dba41591d2d1-fractions-23": "fractions",
+    "931afc26-ec02-4974-9270-dba41591d2d1-bioavilability-17": "bioavilability",
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-19-Pb-21-Ni-23-and-24-Zn-25-accumulation-32": "Cu Pb Ni and Zn accumulation",
+    "931afc26-ec02-4974-9270-dba41591d2d1-most-13-stations-14": "most stations"
+  },
+  "graph": [
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-trace-8-metals-9",
+      "relation": "of bioavailability is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-southeast-17"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-study-3-deals-4",
+      "relation": "is with",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-study-3-deals-4",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-trace-8-metals-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6",
+      "relation": "is in",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Doce-12"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6",
+      "relation": "southeast of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3",
+      "relation": "were firstly sampled collapse before",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-weeks-13"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-weeks-13",
+      "relation": "is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-few-12"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3",
+      "relation": "were firstly sampled",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-collapse-23"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3",
+      "relation": "is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-bottom-2"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-collapse-23",
+      "relation": "is in",
+      "object_id": "NE-DATE-November-of-2015"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3",
+      "relation": "were sampled collapse before",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-weeks-13"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3",
+      "relation": "were sampled",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-collapse-23"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-disaster",
+      "relation": "released",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-40-5-Mm3-6"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-40-5-Mm3-6",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-iron-8-ore-9-tailings-10"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15",
+      "relation": "was",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15",
+      "relation": "was sampled on",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-April-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15",
+      "relation": "is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-continental-14"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-April-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-2017-11"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15",
+      "relation": "was sampled again on",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-April-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17",
+      "relation": "at",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-April-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17",
+      "relation": "at",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-again-18"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17",
+      "relation": "amount to",
+      "object_id": "NE-DURATION-One-year"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17",
+      "relation": "at",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-later-6"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-stations-5",
+      "relation": "were evaluated concerning",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-stations-5",
+      "relation": "amount to",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-48-4"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-trace-11-metals-12"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Trace-1-metals-2",
+      "relation": "were",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-determined-4"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Trace-1-metals-2",
+      "relation": "were determined through",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-fractionation-6"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-trace-5-metals-6-mobility-7",
+      "relation": "was",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9"
+    },
+    {
+      "subject_id": "NE-MISC-Ni",
+      "relation": "is with",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-20-Cu-21"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "of",
+      "object_id": "NE-MISC-Ni"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-13"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Zn-15"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cr-17"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-trace-5-metals-6-mobility-7",
+      "relation": "was Pb Before",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-high-26-ecological-27-risk-28",
+      "relation": "is in",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-many-36-stations-37"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-20-Cu-21"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9",
+      "relation": "at",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Differences-1",
+      "relation": "were",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-significant-12"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Differences-1",
+      "relation": "is in",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-3-of-4-metal-5-from-6-pre-7-to-8-post-9"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-increase-16",
+      "relation": "was",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-observed-21"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-accident",
+      "relation": "changed to",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Zn-15"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cr-17"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12",
+      "relation": "of",
+      "object_id": "NE-MISC-Ni"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Metal-1-fractionation-2",
+      "relation": "showed",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-changes-5"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-changes-5",
+      "relation": "is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-remarkable-4"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Metal-1-fractionation-2",
+      "relation": "showed changes with",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-elements-11"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-elements-11",
+      "relation": "at",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-highly-19"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-elements-11",
+      "relation": "is",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-associated-20"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Metal-1-fractionation-2",
+      "relation": "showed changes after",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-elements-11",
+      "relation": "at",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-fractions-23"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavilability-17",
+      "relation": "increased by",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-19-Pb-21-Ni-23-and-24-Zn-25-accumulation-32"
+    },
+    {
+      "subject_id": "931afc26-ec02-4974-9270-dba41591d2d1-Cu-19-Pb-21-Ni-23-and-24-Zn-25-accumulation-32",
+      "relation": "of",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-bioavilability-17"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-accident",
+      "relation": "is in",
+      "object_id": "931afc26-ec02-4974-9270-dba41591d2d1-most-13-stations-14"
+    }
+  ],
+  "links": {
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-8-metals-9": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-southeast-17": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-study-3-deals-4": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-bioavailability-6": [],
+    "NE-DATE-present": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-continental-14-shelf-15": [],
+    "NE-TITLE-river": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Doce-12": [],
+    "NE-COUNTRY-Brazil": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-sediments-3": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-weeks-13": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-few-12": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-collapse-23": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-bottom-2": [],
+    "NE-DATE-November-of-2015": [],
+    "NE-CAUSE_OF_DEATH-disaster": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-40-5-Mm3-6": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-iron-8-ore-9-tailings-10": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-shelf-15": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-sampled-17": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-April-9": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-continental-14": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-2017-11": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-again-18": [],
+    "NE-DURATION-One-year": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-later-6": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-stations-5": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-9": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-48-4": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-11-metals-12": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Trace-1-metals-2": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-determined-4": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-fractionation-6": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-trace-5-metals-6-mobility-7": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Pb-9": [],
+    "NE-MISC-Ni": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Pb-20-Cu-21": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-13": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Zn-15": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cr-17": [],
+    "NE-CAUSE_OF_DEATH-accident": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-high-26-ecological-27-risk-28": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-many-36-stations-37": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Differences-1": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-significant-12": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-concentrations-3-of-4-metal-5-from-6-pre-7-to-8-post-9": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-increase-16": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-observed-21": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-10-Pb-12": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Metal-1-fractionation-2": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-changes-5": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-remarkable-4": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-elements-11": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-highly-19": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-associated-20": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-fractions-23": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-bioavilability-17": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-Cu-19-Pb-21-Ni-23-and-24-Zn-25-accumulation-32": [],
+    "931afc26-ec02-4974-9270-dba41591d2d1-most-13-stations-14": []
+  }
+}

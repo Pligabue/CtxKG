@@ -1,0 +1,123 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84893062958.txt",
+  "entities": {
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-Offshore-1-operations-3": "Offshore operations",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-can-4-complicated-6": "can complicated",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-logistical-2": "logistical",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20": "time bridge",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-report-22": "report",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RTLS-3": "RTLS",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RFID-1": "RFID",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-effective-14": "effective",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-real-17": "real",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3": "growth",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10": "basins",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-continued-2": "continued",
+    "NE-ORGANIZATION-Santos": "Santos",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-distance-19": "distance",
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-long-17": "long"
+  },
+  "graph": [
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-Offshore-1-operations-3",
+      "relation": "can",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-can-4-complicated-6"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-Offshore-1-operations-3",
+      "relation": "is",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-logistical-2"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "such",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20",
+      "relation": "RFID",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-report-22"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RTLS-3",
+      "relation": "can provide",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20",
+      "relation": "RTLS",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-report-22"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RFID-1",
+      "relation": "can provide",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20",
+      "relation": "is",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-effective-14"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20",
+      "relation": "is",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-real-17"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3",
+      "relation": "is in",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3",
+      "relation": "is",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-continued-2"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Santos"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has meet distance With",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has meet",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-distance-19"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3",
+      "relation": "of",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10"
+    },
+    {
+      "subject_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-distance-19",
+      "relation": "is",
+      "object_id": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-long-17"
+    }
+  ],
+  "links": {
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-Offshore-1-operations-3": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-can-4-complicated-6": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-logistical-2": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-time-19-bridge-20": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-report-22": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RTLS-3": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-RFID-1": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-effective-14": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-real-17": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-growth-3": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-continued-2": [],
+    "NE-ORGANIZATION-Santos": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-distance-19": [],
+    "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-long-17": []
+  }
+}

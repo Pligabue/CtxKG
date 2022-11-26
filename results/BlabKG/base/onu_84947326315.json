@@ -1,0 +1,254 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84947326315.txt",
+  "entities": {
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-surface-25-wave-26-dynamics-27": "surface wave dynamics",
+    "NE-LOCATION-South-Atlantic-Ocean": "South Atlantic Ocean",
+    "NE-TITLE-host": "host",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16": "terms",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-bulk-19": "bulk",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11": "performance",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-20-parameters-21": "wave parameters",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-simulated-18": "simulated",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-computed-7": "computed",
+    "NE-TITLE-model": "model",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-13": "wave",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-Wave-1-measurements-2": "Wave measurements",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-tracks-18": "tracks",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-Aperture-21-Radars-22": "Aperture Radars",
+    "NE-MISC-Synthetic-Aperture-Radars": "Synthetic Aperture Radars",
+    "NE-LOCATION-Island": "Island",
+    "NE-CITY-Santa-Catarina": "Santa Catarina",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensitivity-3": "sensitivity",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-addressed-15": "addressed",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-data-3-used-4": "wind data used",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-obtained-9": "obtained",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-two-11-sources-13": "two sources",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-opportunity-18": "opportunity",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-importance-22": "importance",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-input-24-data-25-quality-26": "input data quality",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-different-12": "different",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-speed-3": "wind speed",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-satellites-8": "satellites",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-remote-6": "remote",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensing-7": "sensing",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-7-quality-8": "wind quality",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15": "correlated",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-quality-18": "quality",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-highly-14": "highly",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-output-21": "output",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-difference-34": "difference",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-noticeable-37": "noticeable",
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-however-31": "however"
+  },
+  "graph": [
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-surface-25-wave-26-dynamics-27",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-South-Atlantic-Ocean"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "evaluate performance in",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-bulk-19"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "evaluate",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16",
+      "relation": "of",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-20-parameters-21"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-simulated-18"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "were",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-computed-7"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11",
+      "relation": "case",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-13"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-Wave-1-measurements-2",
+      "relation": "deployed along",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-tracks-18"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-tracks-18",
+      "relation": "of",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-Aperture-21-Radars-22"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-tracks-18",
+      "relation": "of",
+      "object_id": "NE-MISC-Synthetic-Aperture-Radars"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-Wave-1-measurements-2",
+      "relation": "deployed off",
+      "object_id": "NE-LOCATION-Island"
+    },
+    {
+      "subject_id": "NE-LOCATION-Island",
+      "relation": "of",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "NE-LOCATION-Island",
+      "relation": "is off",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensitivity-3",
+      "relation": "were",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-addressed-15"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensitivity-3",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-data-3-used-4",
+      "relation": "were",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-obtained-9"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-data-3-used-4",
+      "relation": "were obtained from",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-two-11-sources-13"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-data-3-used-4",
+      "relation": "provided",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-opportunity-18"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-opportunity-18",
+      "relation": "evaluate",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-importance-22"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-importance-22",
+      "relation": "of",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-input-24-data-25-quality-26"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-two-11-sources-13",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-different-12"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-speed-3",
+      "relation": "extracted from",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-satellites-8"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-satellites-8",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-remote-6"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-satellites-8",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensing-7"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-7-quality-8",
+      "relation": "is",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15",
+      "relation": "at",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-quality-18"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15",
+      "relation": "at",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-highly-14"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15",
+      "relation": "of",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-output-21"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-difference-34",
+      "relation": "were",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-noticeable-37"
+    },
+    {
+      "subject_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-noticeable-37",
+      "relation": "at",
+      "object_id": "c9348211-c72e-4ea1-9eb9-711dc0c65800-however-31"
+    }
+  ],
+  "links": {
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-surface-25-wave-26-dynamics-27": [],
+    "NE-LOCATION-South-Atlantic-Ocean": [],
+    "NE-TITLE-host": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-bulk-19": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-20-parameters-21": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-simulated-18": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-computed-7": [],
+    "NE-TITLE-model": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wave-13": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-Wave-1-measurements-2": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-tracks-18": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-Aperture-21-Radars-22": [
+      "NE-MISC-Synthetic-Aperture-Radars"
+    ],
+    "NE-MISC-Synthetic-Aperture-Radars": [
+      "c9348211-c72e-4ea1-9eb9-711dc0c65800-Aperture-21-Radars-22"
+    ],
+    "NE-LOCATION-Island": [],
+    "NE-CITY-Santa-Catarina": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensitivity-3": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-addressed-15": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-data-3-used-4": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-obtained-9": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-two-11-sources-13": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-opportunity-18": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-importance-22": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-input-24-data-25-quality-26": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-different-12": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-2-speed-3": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-satellites-8": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-remote-6": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-sensing-7": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-7-quality-8": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-correlated-15": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-quality-18": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-highly-14": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-output-21": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-difference-34": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-noticeable-37": [],
+    "c9348211-c72e-4ea1-9eb9-711dc0c65800-however-31": []
+  }
+}

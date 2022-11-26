@@ -1,0 +1,307 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_80053430040.txt",
+  "entities": {
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-consortium-2": "consortium",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20": "LulaMexilhao gas pipeline",
+    "NE-DURATION-day": "day",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-10-11-million-12-cu-13-m-14": "10 million cu m",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-18": "natural",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-comprised-4": "comprised",
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": "Petroleo Brasileiro SA",
+    "NE-TITLE-operator": "operator",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-system-2": "system",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11": "Mexilhao platform",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-14-basin-15": "Santos basin",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-waters-18": "waters",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-7": "field",
+    "NE-PERSON-Lula": "Lula",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18": "shallow waters",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-presalt-5": "presalt",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-bar-8": "bar",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-216-11-km-12": "216 km",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-production-54-unit-55": "production unit",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-250-7": "250",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-largest-52-fixed-53": "largest fixed",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3": "pipeline",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11": "fields",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-new-2": "new",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14": "part",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8": "gas",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-7": "natural",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-other-10": "other",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Phase-16-1-17": "Phase 1",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-19-basin-20-operations-22": "Santos basin operations",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-connections-25": "connections",
+    "NE-CITY-Guara": "Guara",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-developed-12": "developed",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-one-38": "one",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-two-32": "two",
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-36": "field",
+    "NE-LOCATION-Tupi": "Tupi"
+  },
+  "graph": [
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-consortium-2",
+      "relation": "has opened",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "of",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "of",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-10-11-million-12-cu-13-m-14"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-consortium-2",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-comprised-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petroleo-Brasileiro-SA",
+      "relation": "is of",
+      "object_id": "NE-TITLE-operator"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-consortium-2",
+      "relation": "is comprised of",
+      "object_id": "NE-ORGANIZATION-Petroleo-Brasileiro-SA"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petroleo-Brasileiro-SA",
+      "relation": "of",
+      "object_id": "NE-TITLE-operator"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-system-2",
+      "relation": "connects Lula field to",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-14-basin-15",
+      "relation": "has",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11",
+      "relation": "of",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-waters-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-system-2",
+      "relation": "connects",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-7"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-7",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11",
+      "relation": "of",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-7",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-presalt-5"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-14-basin-15",
+      "relation": "in",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11",
+      "relation": "is in",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-14-basin-15",
+      "relation": "has",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "operating at",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-bar-8"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "at",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-216-11-km-12"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20",
+      "relation": "extends",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-216-11-km-12"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-216-11-km-12",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-production-54-unit-55"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-bar-8",
+      "relation": "amount to",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-250-7"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-production-54-unit-55",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-production-54-unit-55",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-largest-52-fixed-53"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3",
+      "relation": "will also transport gas from",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-new-2"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11",
+      "relation": "at",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3",
+      "relation": "will also transport",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-7"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3",
+      "relation": "will transport gas from",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3",
+      "relation": "will transport",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-other-10"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8",
+      "relation": "developed as",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14",
+      "relation": "of",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Phase-16-1-17"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14",
+      "relation": "of",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-19-basin-20-operations-22"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-connections-25",
+      "relation": "one in",
+      "object_id": "NE-CITY-Guara"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-developed-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "to connections is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-one-38"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "to connections is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-two-32"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-presalt-5"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8",
+      "relation": "is",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-connections-25",
+      "relation": "two in",
+      "object_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-36"
+    },
+    {
+      "subject_id": "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-36",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Tupi"
+    }
+  ],
+  "links": {
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-consortium-2": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-LulaMexilhao-17-gas-19-pipeline-20": [],
+    "NE-DURATION-day": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-10-11-million-12-cu-13-m-14": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-18": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-comprised-4": [],
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": [],
+    "NE-TITLE-operator": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-system-2": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Mexilhao-10-platform-11": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-14-basin-15": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-waters-18": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-7": [],
+    "NE-PERSON-Lula": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-shallow-17-waters-18": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-presalt-5": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-bar-8": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-216-11-km-12": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-production-54-unit-55": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-250-7": [],
+    "NE-COUNTRY-Brazil": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-largest-52-fixed-53": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-pipeline-3": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-fields-11": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-new-2": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-gas-8": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-7": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-other-10": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Phase-16-1-17": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-Santos-19-basin-20-operations-22": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-connections-25": [],
+    "NE-CITY-Guara": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-developed-12": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-one-38": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-two-32": [],
+    "6662d10a-a02c-4d87-88ea-e983eff2d48c-field-36": [],
+    "NE-LOCATION-Tupi": []
+  }
+}

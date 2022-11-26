@@ -1,0 +1,488 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086257600.txt",
+  "entities": {
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Applicability-5-processes-13": "Applicability processes",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-years-22": "years",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-recent-21": "recent",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-interest-16": "interest",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operators-19": "operators",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-18": "offshore",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-CO2-1": "CO2",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19": "EOR methods",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-23": "most",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-16": "most",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-21-by-22-offshore-24-operators-25": "considered by offshore operators",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-attractive-17": "attractive",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-process-11-optimization-12": "process optimization",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-16-simulation-17": "reservoir simulation",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-limitations-3": "limitations",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-7-facility-8": "surface facility",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-could-18-unreliable-20": "could unreliable",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-neglected-29": "neglected",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-imposed-4": "imposed",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-standalone-15": "standalone",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18": "integration",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-projects-16": "projects",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-such-15": "such",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-modelling-11": "modelling",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successful-10": "successful",
+    "NE-TITLE-model": "model",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimization-13": "optimization",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-2": "order",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-risk-5": "risk",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-uncertainty-8": "uncertainty",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-5-development-6": "field development",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-25": "studied",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-work-3": "work",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-2-development-3-scenarios-4": "field development scenarios",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-19": "considered",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Different-1": "Different",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-5": "used",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Compositional-1": "Compositional",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fluid-2": "fluid",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-7-model-10": "order model",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-correctly-9": "correctly",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-to-8": "to",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Pressure-1-change-2": "Pressure change",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-7-in-8-facility-11-equipment-12": "considered in facility equipment",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-complexities-2": "complexities",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integrated-21": "integrated",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-included-18": "included",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-multi-user-3": "multi-user",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22": "couple reservoir simulation",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-new-2": "new",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-implicitly-19": "implicitly",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fully-17": "fully",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-15": "used",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-24-facility-25": "surface facility",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Production-1": "Production",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimized-7": "optimized",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-development-10-scenarios-11": "development scenarios",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-different-9": "different",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-approach-4": "approach",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-7": "schemes",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-provided-2": "provided",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operational-6": "operational",
+    "NE-ORGANIZATION-IPSM": "IPSM",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-use-2": "use",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-answers-26": "answers",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-more-24": "more",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-11": "schemes",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-13-assets-14": "offshore assets",
+    "NE-ORGANIZATION-EOR": "EOR",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimizing-9": "optimizing",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-proved-21": "proved",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-robust-25": "robust",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18": "studied",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successfully-17": "successfully",
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-11-models-14": "reservoir models"
+  },
+  "graph": [
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Applicability-5-processes-13",
+      "relation": "is gaining interest in",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-years-22"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-years-22",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-recent-21"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Applicability-5-processes-13",
+      "relation": "is gaining",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-interest-16"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-interest-16",
+      "relation": "of",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operators-19"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-interest-16",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-18"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-CO2-1",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-23"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-16"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-21-by-22-offshore-24-operators-25"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-attractive-17"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-process-11-optimization-12",
+      "relation": "done through",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-16-simulation-17"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-process-11-optimization-12",
+      "relation": "done Due",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-limitations-3"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-process-11-optimization-12",
+      "relation": "imposed by",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-7-facility-8"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-could-18-unreliable-20",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-neglected-29"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-limitations-3",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-7-facility-8"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-limitations-3",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-imposed-4"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-16-simulation-17",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-standalone-15"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18",
+      "relation": "modelling of",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-projects-16"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-projects-16",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-such-15"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18",
+      "relation": "successful modelling of",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-projects-16"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-modelling-11",
+      "relation": "requires",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-modelling-11",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successful-10"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18",
+      "relation": "is with",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimization-13",
+      "relation": "requires",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-2",
+      "relation": "minimize",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-risk-5"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-2",
+      "relation": "reduce",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-uncertainty-8"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-5-development-6",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-25"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-25",
+      "relation": "case",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-work-3"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-2-development-3-scenarios-4",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-19"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-2-development-3-scenarios-4",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Different-1"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-5"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Compositional-1"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fluid-2"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is used in",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-7-model-10"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-7-model-10",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-correctly-9"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-7-model-10",
+      "relation": "mark",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-to-8"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Pressure-1-change-2",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-7-in-8-facility-11-equipment-12"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-complexities-2",
+      "relation": "are included in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integrated-21"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-complexities-2",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-included-18"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-multi-user-3",
+      "relation": "is used to",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-multi-user-3",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-new-2"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-implicitly-19"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fully-17"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-multi-user-3",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-15"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22",
+      "relation": "is with",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22",
+      "relation": "case",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-24-facility-25"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Production-1",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimized-7"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Production-1",
+      "relation": "is optimized for",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-development-10-scenarios-11"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-development-10-scenarios-11",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-different-9"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-approach-4",
+      "relation": "optimized",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-7"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-approach-4",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-provided-2"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-7",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operational-6"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-approach-4",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-IPSM"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-use-2",
+      "relation": "provide",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-answers-26"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-answers-26",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-more-24"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-11",
+      "relation": "is in",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-13-assets-14"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-11",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-EOR"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-11",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimizing-9"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-use-2",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-proved-21"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-answers-26",
+      "relation": "is",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-robust-25"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-complexities-2",
+      "relation": "are",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successfully-17"
+    },
+    {
+      "subject_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18",
+      "relation": "at",
+      "object_id": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-11-models-14"
+    }
+  ],
+  "links": {
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Applicability-5-processes-13": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-years-22": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-recent-21": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-interest-16": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operators-19": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-18": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-CO2-1": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-EOR-18-methods-19": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-23": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-most-16": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-21-by-22-offshore-24-operators-25": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-attractive-17": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-process-11-optimization-12": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-16-simulation-17": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-limitations-3": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-7-facility-8": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-could-18-unreliable-20": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-neglected-29": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-imposed-4": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-standalone-15": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integration-18": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-projects-16": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-such-15": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-modelling-11": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successful-10": [],
+    "NE-TITLE-model": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimization-13": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-risk-5": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-uncertainty-8": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-5-development-6": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-25": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-work-3": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-field-2-development-3-scenarios-4": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-19": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Different-1": [
+      "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-different-9"
+    ],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-5": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Compositional-1": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fluid-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-7-model-10": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-correctly-9": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-to-8": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Pressure-1-change-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-considered-7-in-8-facility-11-equipment-12": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-complexities-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-integrated-21": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-included-18": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-multi-user-3": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-couple-20-reservoir-21-simulation-22": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-new-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-implicitly-19": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-fully-17": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-15": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-surface-24-facility-25": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Production-1": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimized-7": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-development-10-scenarios-11": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-different-9": [
+      "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Different-1"
+    ],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-approach-4": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-7": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-provided-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operational-6": [],
+    "NE-ORGANIZATION-IPSM": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-use-2": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-answers-26": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-more-24": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-schemes-11": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-13-assets-14": [],
+    "NE-ORGANIZATION-EOR": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-optimizing-9": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-proved-21": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-robust-25": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-successfully-17": [],
+    "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-reservoir-11-models-14": []
+  }
+}

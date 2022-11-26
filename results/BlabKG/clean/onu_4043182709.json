@@ -1,0 +1,253 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_4043182709.txt",
+  "entities": {
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-19-Sul-20-floating-21-production-22": "Marlim Sul floating production",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Campos-41-basin-42": "Campos basin",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6": "oil production capacity",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Buoy-11-Moorings-12": "Buoy Moorings",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Single-10": "Single",
+    "NE-COUNTRY-US": "US",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "NE-DATE-January-2003": "January 2003",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3": "platform",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-end-18": "end",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-2004-20": "2004",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-capacity-15": "capacity",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-20,000-8-25,000-10-bpd-11": "20,000 25,000 bpd",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-new-2": "new",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-full-14": "full",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-production-6": "production",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-output-2": "output",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10": "1.2 million bpd",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Total-1": "Total",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-oil-12": "oil",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6": "basin",
+    "NE-CITY-Campos": "Campos",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-country-30": "country",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-production-32": "production",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16": "water depths",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-22-Sul-23": "Marlim Sul",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-state-11": "state",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-110-4-km-6": "110 km",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-151,000-25-bpd-26": "151,000 bpd",
+    "NE-DATE-2003": "2003",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-offshore-7": "offshore",
+    "NE-DATE-1160": "1160",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-m.-19-Production-20": "m. Production",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-platform-2": "platform",
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-17-Sul-18-field-19": "Marlim Sul field"
+  },
+  "graph": [
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-19-Sul-20-floating-21-production-22",
+      "relation": "is in",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Campos-41-basin-42"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "increased",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has leased FPSO from",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Buoy-11-Moorings-12"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Buoy-11-Moorings-12",
+      "relation": "is",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Single-10"
+    },
+    {
+      "subject_id": "NE-COUNTRY-US",
+      "relation": "has",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Buoy-11-Moorings-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has leased",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has leased FPSO since",
+      "object_id": "NE-DATE-January-2003"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3",
+      "relation": "reach capacity by",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-end-18"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-end-18",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-2004-20"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3",
+      "relation": "reach",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-capacity-15"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3",
+      "relation": "should start production at",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-20,000-8-25,000-10-bpd-11"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3",
+      "relation": "is",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-new-2"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-capacity-15",
+      "relation": "is",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-full-14"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3",
+      "relation": "should start",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-production-6"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-output-2",
+      "relation": "averaged",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-output-2",
+      "relation": "is",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Total-1"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-12"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10",
+      "relation": "output in",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-country-30",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-production-32"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-output-2",
+      "relation": "is in",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10",
+      "relation": "Total output in",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "operates at",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-22-Sul-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11",
+      "relation": "of",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-110-4-km-6"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11",
+      "relation": "averaged",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-151,000-25-bpd-26"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11",
+      "relation": "averaged 151,000 bpd in",
+      "object_id": "NE-DATE-2003"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-state-11",
+      "relation": "at",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-offshore-7"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1160"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16",
+      "relation": "of",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-m.-19-Production-20"
+    },
+    {
+      "subject_id": "6c2893f1-9107-4672-832c-d8ec06508db6-platform-2",
+      "relation": "planned for",
+      "object_id": "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-17-Sul-18-field-19"
+    }
+  ],
+  "links": {
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-19-Sul-20-floating-21-production-22": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Campos-41-basin-42": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Buoy-11-Moorings-12": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Single-10": [],
+    "NE-COUNTRY-US": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "NE-DATE-January-2003": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-platform-3": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-end-18": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-2004-20": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-capacity-15": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-20,000-8-25,000-10-bpd-11": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-new-2": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-full-14": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-production-6": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-output-2": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-1.2-8-million-9-bpd-10": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Total-1": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-oil-12": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6": [],
+    "NE-CITY-Campos": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-country-30": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-production-32": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-water-15-depths-16": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-22-Sul-23": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-state-11": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-110-4-km-6": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-151,000-25-bpd-26": [],
+    "NE-DATE-2003": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-offshore-7": [],
+    "NE-DATE-1160": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-m.-19-Production-20": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-platform-2": [],
+    "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-17-Sul-18-field-19": []
+  }
+}

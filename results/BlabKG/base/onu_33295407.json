@@ -1,0 +1,194 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33295407.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-types-5": "types",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-units-7": "units",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-11": "development",
+    "NE-LOCATION-Marlim-Field": "Marlim Field",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-4": "different",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-11-options-12": "different options",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3": "Semi-Submersibles",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-converted-2": "converted",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-many-10": "many",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-made-14": "made",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-turret-5": "turret",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-FPSOs-8": "FPSOs",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-equipped-7": "equipped",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2": "paper",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-reasons-6": "reasons",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-main-5": "main",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-performance-7-of-8-production-10-unit-11": "performance of production unit",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-actual-6": "actual",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-efficiency-28-levels-29": "efficiency levels",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-wells-33": "wells",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4": "paper",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-future-18-units-19": "future units",
+    "NE-TITLE-host": "host",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-new-9": "new",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-applied-11": "applied",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-technologies-10": "technologies",
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-14": "development"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has utilized",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-types-5"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-types-5",
+      "relation": "of",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-units-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has utilized types in",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-11"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-11",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Marlim-Field"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-types-5",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-4"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-11-options-12",
+      "relation": "were made From",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-converted-2"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-11-options-12",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-many-10"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-11-options-12",
+      "relation": "were",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-made-14"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3",
+      "relation": "at",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-turret-5"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3",
+      "relation": "of",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-FPSOs-8"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-equipped-7"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2",
+      "relation": "describes",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-reasons-6"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-reasons-6",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-main-5"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2",
+      "relation": "also presents",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-performance-7-of-8-production-10-unit-11"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2",
+      "relation": "presents",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-performance-7-of-8-production-10-unit-11"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-performance-7-of-8-production-10-unit-11",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-actual-6"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-efficiency-28-levels-29",
+      "relation": "reached by",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-wells-33"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4",
+      "relation": "describes",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-future-18-units-19"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4",
+      "relation": "Finally shows",
+      "object_id": "NE-TITLE-host"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-new-9"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "is",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-applied-11"
+    },
+    {
+      "subject_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4",
+      "relation": "shows",
+      "object_id": "NE-TITLE-host"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "of",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-technologies-10"
+    },
+    {
+      "subject_id": "NE-TITLE-host",
+      "relation": "at",
+      "object_id": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-14"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-types-5": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-units-7": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-11": [],
+    "NE-LOCATION-Marlim-Field": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-4": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-11-options-12": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-converted-2": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-many-10": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-made-14": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-turret-5": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-FPSOs-8": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-equipped-7": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2": [
+      "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4"
+    ],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-reasons-6": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-main-5": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-performance-7-of-8-production-10-unit-11": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-actual-6": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-efficiency-28-levels-29": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-wells-33": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-4": [
+      "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2"
+    ],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-future-18-units-19": [],
+    "NE-TITLE-host": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-new-9": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-applied-11": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-technologies-10": [],
+    "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-development-14": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_242694501.txt",
+  "entities": {
+    "NE-TITLE-leader": "leader",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-area-20": "area",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-E&P-3-technology-4-used-5": "E&P technology used",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-22": "discussed",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-deepwater-2": "deepwater",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-history-2": "history",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-presented-16": "presented",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15": "also",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-strategies-2": "strategies",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-19": "discussed",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-New-1": "New",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-oil-9-fields-10": "oil fields",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-importance-2": "importance",
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-investigated-16": "investigated"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-TITLE-leader",
+      "relation": "is in",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-area-20"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-E&P-3-technology-4-used-5",
+      "relation": "is",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-22"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-E&P-3-technology-4-used-5",
+      "relation": "is",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-deepwater-2"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-history-2",
+      "relation": "are",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-presented-16"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-presented-16",
+      "relation": "at",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-strategies-2",
+      "relation": "are",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-19"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-strategies-2",
+      "relation": "of",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-New-1"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-19",
+      "relation": "at",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-strategies-2",
+      "relation": "development of",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-oil-9-fields-10"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-importance-2",
+      "relation": "are",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-investigated-16"
+    },
+    {
+      "subject_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-investigated-16",
+      "relation": "at",
+      "object_id": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15"
+    }
+  ],
+  "links": {
+    "NE-TITLE-leader": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-area-20": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-E&P-3-technology-4-used-5": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-22": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-deepwater-2": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-history-2": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-presented-16": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-strategies-2": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-discussed-19": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-New-1": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-oil-9-fields-10": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-importance-2": [],
+    "99dd1d4b-cba2-437d-bebf-f7012dc3111a-investigated-16": []
+  }
+}

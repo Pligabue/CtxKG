@@ -1,0 +1,213 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_80052741860.txt",
+  "entities": {
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20": "storage",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-22-unit-23": "regasification unit",
+    "NE-ORGANIZATION-Excelerate": "Excelerate",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32": "VT3",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-advanced-18": "advanced",
+    "NE-TITLE-charter": "charter",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-15-7-yr-9-time-10": "15 yr time",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-floating-19": "floating",
+    "NE-ORGANIZATION-Excelerate-Energy": "Excelerate Energy",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-to-27": "to",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-named-29": "named",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-vessel-9": "vessel",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-20-12-million-13-cu-14-m-15": "20 million cu m",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31": "regasification plant",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-14-40-million-41-to-42-20-43-million-44-cu-45-m-46": "14 million to 20 million cu m",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-Exquisite-25-FSRU-26": "Exquisite FSRU",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20": "terminal",
+    "NE-LOCATION-LNG": "LNG",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "NE-CITY-Bay": "Bay",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-delivery-37-capacity-38": "delivery capacity",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-increased-29": "increased",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-35": "terminal",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-2-newbuilding-3-design-4": "VT3 newbuilding design",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-fleet-11-requirements-14": "fleet requirements",
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-existing-10-fleet-11": "existing fleet"
+  },
+  "graph": [
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20",
+      "relation": "Excelerate",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-22-unit-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "be named by",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20",
+      "relation": "is",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-advanced-18"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has awarded",
+      "object_id": "NE-TITLE-charter"
+    },
+    {
+      "subject_id": "NE-TITLE-charter",
+      "relation": "of",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-15-7-yr-9-time-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "will provide",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20",
+      "relation": "is",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-floating-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has awarded",
+      "object_id": "NE-ORGANIZATION-Excelerate-Energy"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "will provide storage",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32",
+      "relation": "mark",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-to-27"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32",
+      "relation": "case",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-named-29"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-vessel-9",
+      "relation": "will deliver",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-20-12-million-13-cu-14-m-15"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-vessel-9",
+      "relation": "Capable will deliver",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-20-12-million-13-cu-14-m-15"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31",
+      "relation": "expanding terminal 's delivery capacity from",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-14-40-million-41-to-42-20-43-million-44-cu-45-m-46"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31",
+      "relation": "at",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-Exquisite-25-FSRU-26"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "has",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-Exquisite-25-FSRU-26"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20",
+      "relation": "will use",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-Exquisite-25-FSRU-26"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-LNG"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-LOCATION-LNG",
+      "relation": "is Bay of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31",
+      "relation": "expanding",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-delivery-37-capacity-38"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31",
+      "relation": "is",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-increased-29"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-35",
+      "relation": "has",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-delivery-37-capacity-38"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-2-newbuilding-3-design-4",
+      "relation": "is based",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-fleet-11-requirements-14"
+    },
+    {
+      "subject_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-fleet-11-requirements-14",
+      "relation": "is",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-existing-10-fleet-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "has",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-fleet-11-requirements-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Excelerate",
+      "relation": "on",
+      "object_id": "79779a95-9f66-41cc-8f88-c4ffb6057f28-existing-10-fleet-11"
+    }
+  ],
+  "links": {
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-storage-20": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-22-unit-23": [],
+    "NE-ORGANIZATION-Excelerate": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-32": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-advanced-18": [],
+    "NE-TITLE-charter": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-15-7-yr-9-time-10": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-floating-19": [],
+    "NE-ORGANIZATION-Excelerate-Energy": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-to-27": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-named-29": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-vessel-9": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-20-12-million-13-cu-14-m-15": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-regasification-30-plant-31": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-14-40-million-41-to-42-20-43-million-44-cu-45-m-46": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-Exquisite-25-FSRU-26": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-20": [],
+    "NE-LOCATION-LNG": [],
+    "NE-LOCATION-Guanabara": [],
+    "NE-CITY-Bay": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-delivery-37-capacity-38": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-increased-29": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-terminal-35": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-VT3-2-newbuilding-3-design-4": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-fleet-11-requirements-14": [],
+    "79779a95-9f66-41cc-8f88-c4ffb6057f28-existing-10-fleet-11": []
+  }
+}

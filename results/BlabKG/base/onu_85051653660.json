@@ -1,0 +1,290 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85051653660.txt",
+  "entities": {
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-use-2": "use",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-guarantee-13": "guarantee",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-2-industry-3": "drilling industry",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-costs-10": "costs",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wells-7": "wells",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-low-9": "low",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-contributing-16": "contributing",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-an-19": "an",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-fluid-10": "drilling fluid",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-3-problems-4": "drilling problems",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-2": "other",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-formulated-8": "formulated",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wellbore-13-instability-14": "wellbore instability",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-gauge-21-borehole-22": "gauge borehole",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-possible-16-interaction-17": "possible interaction",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilled-20-formation-21": "drilled formation",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-idea-7": "idea",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hand-4": "hand",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-3": "other",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-welcome-26": "welcome",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-very-25": "very",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-rock-18": "rock",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-22-performance-23": "drilling performance",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improving-21": "improving",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-kind-2": "kind",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improvement-16-of-17-overall-19-process-20": "improvement of overall process",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-problems-10": "drilling problems",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-4": "fluid",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5": "advances",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-7-fluid-8-technology-9": "drilling fluid technology",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-work-2": "work",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-challenges-13": "challenges",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-28": "drilling",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hard-44-carbonate-45-rocks-46": "hard carbonate rocks",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-12-fluid-13-design-14": "drilling fluid design",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-17-scenario-18": "drilling scenario",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-theoretical-3-work-6": "theoretical work",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-extensive-2": "extensive",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-3-formulation-4": "fluid formulation",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-carbonate-9-rocks-10": "carbonate rocks",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-special-2": "special",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-presented-16": "presented",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-results-13": "results",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-issues-4-have-5": "issues have",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-preliminary-12": "preliminary",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-potential-17": "potential",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-good-16": "good",
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-important-3": "important"
+  },
+  "graph": [
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-use-2",
+      "relation": "is essential",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-guarantee-13"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-2-industry-3",
+      "relation": "build wells at",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-costs-10"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-2-industry-3",
+      "relation": "build",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wells-7"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-costs-10",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-low-9"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-contributing-16",
+      "relation": "generate",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-an-19"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-fluid-10",
+      "relation": "will prevent wellbore instability Among",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-3-problems-4"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-3-problems-4",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-2"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-fluid-10",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-formulated-8"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-fluid-10",
+      "relation": "will prevent",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wellbore-13-instability-14"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-an-19",
+      "relation": "of",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-gauge-21-borehole-22"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-possible-16-interaction-17",
+      "relation": "is with",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilled-20-formation-21"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-idea-7",
+      "relation": "is welcome On",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hand-4"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hand-4",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-3"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-idea-7",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-welcome-26"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-welcome-26",
+      "relation": "at",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-very-25"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-idea-7",
+      "relation": "is very welcome On",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hand-4"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-rock-18",
+      "relation": "help",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-22-performance-23"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-22-performance-23",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improving-21"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-kind-2",
+      "relation": "also contribute for",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improvement-16-of-17-overall-19-process-20"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-problems-10",
+      "relation": "kind of",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-4"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5",
+      "relation": "is in",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-7-fluid-8-technology-9"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-work-2",
+      "relation": "presents",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5",
+      "relation": "of",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-7-fluid-8-technology-9"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5",
+      "relation": "overcome",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-challenges-13"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-28",
+      "relation": "is in",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hard-44-carbonate-45-rocks-46"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-12-fluid-13-design-14",
+      "relation": "is in",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-17-scenario-18"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-theoretical-3-work-6",
+      "relation": "assist",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-12-fluid-13-design-14"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-theoretical-3-work-6",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-extensive-2"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-12-fluid-13-design-14",
+      "relation": "of",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-17-scenario-18"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-3-formulation-4",
+      "relation": "interact with",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-carbonate-9-rocks-10"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-3-formulation-4",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-special-2"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-3-formulation-4",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-presented-16"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-results-13",
+      "relation": "show potential",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-issues-4-have-5"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-results-13",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-preliminary-12"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-results-13",
+      "relation": "show",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-potential-17"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-potential-17",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-good-16"
+    },
+    {
+      "subject_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-issues-4-have-5",
+      "relation": "is",
+      "object_id": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-important-3"
+    }
+  ],
+  "links": {
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-use-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-guarantee-13": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-2-industry-3": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-costs-10": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wells-7": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-low-9": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-contributing-16": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-an-19": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-fluid-10": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-3-problems-4": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-formulated-8": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-wellbore-13-instability-14": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-gauge-21-borehole-22": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-possible-16-interaction-17": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilled-20-formation-21": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-idea-7": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hand-4": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-other-3": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-welcome-26": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-very-25": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-rock-18": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-22-performance-23": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improving-21": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-kind-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-improvement-16-of-17-overall-19-process-20": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-9-problems-10": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-4": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-advances-5": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-7-fluid-8-technology-9": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-work-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-challenges-13": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-28": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-hard-44-carbonate-45-rocks-46": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-12-fluid-13-design-14": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-drilling-17-scenario-18": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-theoretical-3-work-6": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-extensive-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-fluid-3-formulation-4": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-carbonate-9-rocks-10": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-special-2": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-presented-16": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-results-13": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-issues-4-have-5": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-preliminary-12": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-potential-17": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-good-16": [],
+    "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-important-3": []
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086245971.txt",
+  "entities": {
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3": "Piezocone Penetration Test",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-used-9": "used",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-15-parameters-16": "soil parameters",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-projects-12": "projects",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-11": "offshore",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-widely-8": "widely",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-it-10": "it",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-obtaindata-14": "obtaindata",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-common-12": "common",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-casing-5": "casing",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-onsoil-9-properties-10": "onsoil properties",
+    "NE-TITLE-conductor": "conductor",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-dependent-8": "dependent",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-foundation-17-element-18": "foundation element",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-well-21": "well",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-highly-7": "highly",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Estimation-1": "Estimation",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10": "CPTu data",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-basins-14": "basins",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-deepwater-8": "deepwater",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-13": "offshore",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3": "analytical approaches",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-regressions-12": "regressions",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Three-1": "Three",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-linear-9": "linear",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-thisstudy-7": "thisstudy",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-used-5": "used",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24": "soil behavior.Methodologies",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-applied-26": "applied",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-39-strength-40": "shear strength",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-the-22": "the",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-undrained-38": "undrained",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Artificial-3-Networks-5": "Artificial Networks",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-employed-19": "employed",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Neural-4": "Neural",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1": "Moreover",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Python-1-subroutines-2": "Python subroutines",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8": "sets",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-data-12": "data",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-homogeneous-10": "homogeneous",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-andheterogeneous-11": "andheterogeneous",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-14-tests-15": "CPTu tests",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-developed-4": "developed",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-3-strength-4": "shear strength",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-test-9": "test",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-estimated-6": "estimated",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-groups-6-oftechniques-7": "groups oftechniques",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-error-20-of-24-methodology-26": "error of methodology",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-associated-19": "associated",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6": "we",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8": "data",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-methodsand-11": "methodsand",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-point-3": "point",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10": "analytical",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-making-16-process-17": "making process",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-top-19-holedrilling-21-operations-22": "top holedrilling operations",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-theextrapolation-12-analysis-13": "theextrapolation analysis",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-information-16": "information",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-datasets-2": "datasets",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6": "levels",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-different-5": "different",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-20-behavior-21": "soil behavior",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-additive-15": "additive",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-depths-23": "depths",
+    "NE-DATE-present": "present",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-8-heterogeneity-9": "soil heterogeneity",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Tothe-1-authors-2-knowledge-4": "Tothe authors knowledge",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-performed-10": "performed",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-rarely-9": "rarely",
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-literature-13": "literature"
+  },
+  "graph": [
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-used-9"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3",
+      "relation": "obtain",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-15-parameters-16"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3",
+      "relation": "is used in",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-projects-12"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-projects-12",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-11"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-used-9",
+      "relation": "at",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-widely-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3",
+      "relation": "is widely used in",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-projects-12"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-it-10",
+      "relation": "is common to",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-obtaindata-14"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-it-10",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-common-12"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-casing-5",
+      "relation": "Design of is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-onsoil-9-properties-10"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-casing-5",
+      "relation": "of",
+      "object_id": "NE-TITLE-conductor"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-onsoil-9-properties-10",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-dependent-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-casing-5",
+      "relation": "serves as",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-foundation-17-element-18"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-foundation-17-element-18",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-well-21"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-onsoil-9-properties-10",
+      "relation": "at",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-highly-7"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Estimation-1",
+      "relation": "isbased on",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-basins-14"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-deepwater-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-13"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3",
+      "relation": "are used in",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-regressions-12"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3",
+      "relation": "amount to",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Three-1"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-regressions-12",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-linear-9"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3",
+      "relation": "are used in",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-thisstudy-7"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3",
+      "relation": "are",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-used-5"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24",
+      "relation": "were",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-applied-26"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24",
+      "relation": "accurately estimatethe",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-39-strength-40"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-the-22"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-39-strength-40",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-undrained-38"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Artificial-3-Networks-5",
+      "relation": "are",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-employed-19"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Artificial-3-Networks-5",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Neural-4"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24",
+      "relation": "estimatethe",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-39-strength-40"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Artificial-3-Networks-5",
+      "relation": "predict",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-employed-19",
+      "relation": "at",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Python-1-subroutines-2",
+      "relation": "were developed to",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-12"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-homogeneous-10"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-andheterogeneous-11"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-14-tests-15"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Python-1-subroutines-2",
+      "relation": "were",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-developed-4"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-3-strength-4",
+      "relation": "was estimated beyond",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-test-9"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-3-strength-4",
+      "relation": "was",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-estimated-6"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-3-strength-4",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-undrained-38"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-groups-6-oftechniques-7",
+      "relation": "were validated",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-error-20-of-24-methodology-26"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-error-20-of-24-methodology-26",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-associated-19"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6",
+      "relation": "on compared",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-methodsand-11"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6",
+      "relation": "compared data From",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-point-3"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6",
+      "relation": "on compared data From",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-point-3"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6",
+      "relation": "compared",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-making-16-process-17",
+      "relation": "is in",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-top-19-holedrilling-21-operations-22"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-theextrapolation-12-analysis-13",
+      "relation": "brings",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-information-16"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-datasets-2",
+      "relation": "analyzed",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-different-5"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-information-16",
+      "relation": "understand",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-20-behavior-21"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-information-16",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-additive-15"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-20-behavior-21",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-depths-23"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6",
+      "relation": "of",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-8-heterogeneity-9"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-Tothe-1-authors-2-knowledge-4",
+      "relation": "is",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-performed-10"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-performed-10",
+      "relation": "at",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-rarely-9"
+    },
+    {
+      "subject_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-performed-10",
+      "relation": "at",
+      "object_id": "5b314478-44cb-4cb9-a631-b9e343125cc4-literature-13"
+    }
+  ],
+  "links": {
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Piezocone-1-Penetration-2-Test-3": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-used-9": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-15-parameters-16": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-projects-12": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-11": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-widely-8": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-it-10": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-obtaindata-14": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-common-12": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-casing-5": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-onsoil-9-properties-10": [],
+    "NE-TITLE-conductor": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-dependent-8": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-foundation-17-element-18": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-well-21": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-highly-7": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Estimation-1": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-9-data-10": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-basins-14": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-deepwater-8": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-13": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-2-approaches-3": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-regressions-12": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Three-1": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-linear-9": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-thisstudy-7": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-used-5": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-23-behavior.Methodologies-24": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-applied-26": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-39-strength-40": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-the-22": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-undrained-38": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Artificial-3-Networks-5": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-employed-19": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Neural-4": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Python-1-subroutines-2": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-data-12": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-homogeneous-10": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-andheterogeneous-11": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-CPTu-14-tests-15": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-developed-4": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-shear-3-strength-4": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-test-9": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-estimated-6": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-groups-6-oftechniques-7": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-error-20-of-24-methodology-26": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-associated-19": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-we-6": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-methodsand-11": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-point-3": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-making-16-process-17": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-top-19-holedrilling-21-operations-22": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-theextrapolation-12-analysis-13": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-information-16": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-datasets-2": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-levels-6": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-different-5": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-20-behavior-21": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-additive-15": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-depths-23": [],
+    "NE-DATE-present": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-soil-8-heterogeneity-9": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-Tothe-1-authors-2-knowledge-4": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-performed-10": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-rarely-9": [],
+    "5b314478-44cb-4cb9-a631-b9e343125cc4-literature-13": []
+  }
+}

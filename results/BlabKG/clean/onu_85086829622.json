@@ -1,0 +1,454 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086829622.txt",
+  "entities": {
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-vegetation-17": "vegetation",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-indicators-26": "indicators",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-pedological-23": "pedological",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24": "analysis",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13": "Fernando de Noronha",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-deeper-20": "deeper",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7": "FNI soils",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-11": "chemical",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-changing-21": "changing",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-aiming-27": "aiming",
+    "NE-TITLE-representative": "representative",
+    "NE-ORGANIZATION-Entisol": "Entisol",
+    "NE-PERSON-Mollisol": "Mollisol",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26": "Oxisol ever described",
+    "NE-ORDINAL-first": "first",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-oceanic-30-island-31": "oceanic island",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-profiles-2": "profiles",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-one-8": "one",
+    "NE-PERSON-Vertisol": "Vertisol",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Six-1": "Six",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9": "chemical attributes",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12": "associated",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-parent-15-material-16-composition-17": "parent material composition",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4": "group",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-latter-3": "latter",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-closely-11": "closely",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-P-26-forms-27": "P forms",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-phosphates-36": "phosphates",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-detected-29": "detected",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-amorphous-31": "amorphous",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8": "activity clay minerals",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-nature-22": "nature",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-11-gibbsite-13": "combined gibbsite",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-polygenetic-21": "polygenetic",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c---2": "-",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-4": "analysis",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7": "existence",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-surfaces-19": "surfaces",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-soils-22": "soils",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-erosional-18": "erosional",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-younger-21": "younger",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-pedogeomorphological-3": "pedogeomorphological",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10-paleoweathered-11-plateau-12": "high paleoweathered plateau",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-relict-14-soils-15": "relict soils",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10": "high",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-2": "combined",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-paleoweathered-11": "paleoweathered",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-plateau-12": "plateau",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Results-1": "Results",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4": "succession",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-at-6-least-7-three-8-paleoclimates-11": "at least three paleoclimates",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-main-10": "main",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-distinct-9": "distinct",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-island-34": "island",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-early-36-occupation-37": "early occupation",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-ornithogenic-8-Oxisol-9": "ornithogenic Oxisol",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Report-1": "Report",
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-more-11-500-13-mg-14-kg-16-of-17-bioavailable-18-P.-19": "more 500 mg kg of bioavailable P."
+  },
+  "graph": [
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-vegetation-17",
+      "relation": "coupled with",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-indicators-26"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-indicators-26",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-pedological-23"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "main island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "Brazilian oceanic island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-deeper-20"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "main oceanic island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "main Brazilian oceanic island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "oceanic island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "Brazilian island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "main Brazilian island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24",
+      "relation": "island of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-11"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-changing-21"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-aiming-27"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13",
+      "relation": "select",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7",
+      "relation": "is",
+      "object_id": "NE-TITLE-representative"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Entisol",
+      "relation": "one as",
+      "object_id": "NE-PERSON-Mollisol"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Entisol",
+      "relation": "one as",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26",
+      "relation": "at",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-oceanic-30-island-31"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-profiles-2",
+      "relation": "were classified",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-one-8"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-one-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Entisol"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Entisol",
+      "relation": "one as",
+      "object_id": "NE-PERSON-Vertisol"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-profiles-2",
+      "relation": "amount to",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Six-1"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9",
+      "relation": "are",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9",
+      "relation": "are associated with",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-parent-15-material-16-composition-17"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9",
+      "relation": "are closely associated For",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-latter-3"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9",
+      "relation": "are closely associated with",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-parent-15-material-16-composition-17"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9",
+      "relation": "are associated For",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12",
+      "relation": "at",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-parent-15-material-16-composition-17"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12",
+      "relation": "at",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12",
+      "relation": "at",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-closely-11"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-P-26-forms-27",
+      "relation": "were detected as",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-phosphates-36"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-P-26-forms-27",
+      "relation": "were",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-detected-29"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-phosphates-36",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-amorphous-31"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8",
+      "relation": "indicating",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-nature-22"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8",
+      "relation": "case",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-11-gibbsite-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-nature-22",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-polygenetic-21"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8",
+      "relation": "coexist combined",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-11-gibbsite-13"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c---2"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-nature-22",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-4",
+      "relation": "indicated",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-surfaces-19",
+      "relation": "hosting",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-soils-22"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-surfaces-19",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-erosional-18"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-soils-22",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-younger-21"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-4",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-pedogeomorphological-3"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10-paleoweathered-11-plateau-12"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-relict-14-soils-15"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10-paleoweathered-11-plateau-12",
+      "relation": "is with",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-relict-14-soils-15"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-4",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-2"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-paleoweathered-11"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-plateau-12"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Results-1",
+      "relation": "showed",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-at-6-least-7-three-8-paleoclimates-11"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Results-1",
+      "relation": "showed since",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-main-10"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4",
+      "relation": "is",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-distinct-9"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-island-34",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-early-36-occupation-37"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-ornithogenic-8-Oxisol-9"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-ornithogenic-8-Oxisol-9",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-Report-1",
+      "relation": "is with",
+      "object_id": "b4397664-2f84-441a-a57c-f2048b42eb8c-more-11-500-13-mg-14-kg-16-of-17-bioavailable-18-P.-19"
+    }
+  ],
+  "links": {
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-vegetation-17": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-indicators-26": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-pedological-23": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-24": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Fernando-11-de-12-Noronha-13": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-deeper-20": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-FNI-6-soils-7": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-11": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-changing-21": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-aiming-27": [],
+    "NE-TITLE-representative": [],
+    "NE-ORGANIZATION-Entisol": [],
+    "NE-PERSON-Mollisol": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Oxisol-24-ever-25-described-26": [],
+    "NE-ORDINAL-first": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-oceanic-30-island-31": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-profiles-2": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-one-8": [],
+    "NE-PERSON-Vertisol": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Six-1": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-chemical-6-attributes-9": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-associated-12": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-parent-15-material-16-composition-17": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-group-4": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-latter-3": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-closely-11": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-P-26-forms-27": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-phosphates-36": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-detected-29": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-amorphous-31": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-activity-6-clay-7-minerals-8": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-nature-22": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-11-gibbsite-13": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-polygenetic-21": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c---2": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-analysis-4": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-existence-7": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-surfaces-19": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-soils-22": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-erosional-18": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-younger-21": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-pedogeomorphological-3": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10-paleoweathered-11-plateau-12": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-relict-14-soils-15": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-high-10": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-combined-2": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-paleoweathered-11": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-plateau-12": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Results-1": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-succession-4": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-at-6-least-7-three-8-paleoclimates-11": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-main-10": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-distinct-9": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-island-34": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-early-36-occupation-37": [],
+    "NE-COUNTRY-Brazil": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-ornithogenic-8-Oxisol-9": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-Report-1": [],
+    "b4397664-2f84-441a-a57c-f2048b42eb8c-more-11-500-13-mg-14-kg-16-of-17-bioavailable-18-P.-19": []
+  }
+}

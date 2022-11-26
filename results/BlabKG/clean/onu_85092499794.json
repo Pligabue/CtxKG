@@ -1,0 +1,377 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85092499794.txt",
+  "entities": {
+    "1eac3015-c78b-44b0-a446-b7757d48abba-country-8": "country",
+    "NE-COUNTRY-America": "America",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12": "extension",
+    "NE-LOCATION-South": "South",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-largest-11": "largest",
+    "NE-CITY-Praia": "Praia",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-Sonho-39": "Sonho",
+    "NE-CITY-Santa-Catarina": "Santa Catarina",
+    "NE-LOCATION-Amapá": "Amapá",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-covering-16": "covering",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-do-38": "do",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-departing-21": "departing",
+    "NE-LOCATION-Oiapoque": "Oiapoque",
+    "NE-TITLE-River": "River",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-border-29": "border",
+    "NE-LOCATION-Guiana": "Guiana",
+    "NE-NATIONALITY-French": "French",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-expansion-8": "expansion",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-them-16": "them",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-changes-9": "changes",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-area-17": "area",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-advent-3": "advent",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-sensors-6": "sensors",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangroves-19": "mangroves",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-extensive-16": "extensive",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-years-13": "years",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-remote-5": "remote",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-objective-6": "objective",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-context-3": "context",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-14": "transformations",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-2": "mangrove",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-13": "transformations",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-past-16-28-17-years-18": "past 28 years",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-small-10": "small",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-increase-4": "increase",
+    "NE-DATE-2013": "2013",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-7.17-9-km-10": "7.17 km",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-20": "transformations",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-gain-26": "gain",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-28-area-29": "mangrove area",
+    "NE-PERCENT-55%": "55 %",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-it-7": "it",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-share-13": "share",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-26": "mangrove",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-influence-15": "influence",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-processing-3": "processing",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-images-6": "images",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-biggest-36-changes-39": "biggest changes",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-which-29": "which",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-possible-9": "possible",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-optical-5": "optical",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-18": "transformations",
+    "1eac3015-c78b-44b0-a446-b7757d48abba-natural-20": "natural"
+  },
+  "graph": [
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-country-8",
+      "relation": "is In",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-country-8"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-country-8",
+      "relation": "at",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is country with",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is country In",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "NE-COUNTRY-America",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-largest-11"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-country-8",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "NE-CITY-Praia",
+      "relation": "do",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-Sonho-39"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-Sonho-39",
+      "relation": "of",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-country-8",
+      "relation": "is with",
+      "object_id": "NE-CITY-Praia"
+    },
+    {
+      "subject_id": "NE-CITY-Praia",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12"
+    },
+    {
+      "subject_id": "NE-CITY-Praia",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Amapá"
+    },
+    {
+      "subject_id": "NE-CITY-Praia",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-covering-16"
+    },
+    {
+      "subject_id": "NE-CITY-Praia",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-do-38"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-departing-21"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Oiapoque"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "at",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-border-29"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-Sonho-39",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangroves-19"
+    },
+    {
+      "subject_id": "NE-LOCATION-Guiana",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-French"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-expansion-8",
+      "relation": "is with",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-them-16"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-changes-9",
+      "relation": "detected in",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-area-17"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-changes-9",
+      "relation": "detected With",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-advent-3"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-advent-3",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-sensors-6"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangroves-19",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-area-17",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-extensive-16"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-area-17",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangroves-19"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-changes-9",
+      "relation": "detected over",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-years-13"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-area-17",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-advent-3",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-remote-5"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-objective-6",
+      "relation": "was evaluate transformations In",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-context-3"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-objective-6",
+      "relation": "was evaluate",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-14"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-2",
+      "relation": "has undergone",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-13"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-2",
+      "relation": "has undergone transformations over",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-past-16-28-17-years-18"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-13",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-small-10"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-increase-4",
+      "relation": "is in",
+      "object_id": "NE-DATE-2013"
+    },
+    {
+      "subject_id": "NE-DATE-2013",
+      "relation": "in increase is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-7.17-9-km-10"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-20",
+      "relation": "consisted of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-gain-26"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-gain-26",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-28-area-29"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-gain-26",
+      "relation": "of",
+      "object_id": "NE-PERCENT-55%"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-it-7",
+      "relation": "identify",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-share-13"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-share-13",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-26"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-share-13",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-influence-15"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-it-7",
+      "relation": "was possible From",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-processing-3"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-processing-3",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-images-6"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-biggest-36-changes-39",
+      "relation": "is in",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-which-29"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-it-7",
+      "relation": "was",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-possible-9"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-processing-3",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-optical-5"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-share-13",
+      "relation": "of",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-18"
+    },
+    {
+      "subject_id": "1eac3015-c78b-44b0-a446-b7757d48abba-share-13",
+      "relation": "is",
+      "object_id": "1eac3015-c78b-44b0-a446-b7757d48abba-natural-20"
+    }
+  ],
+  "links": {
+    "1eac3015-c78b-44b0-a446-b7757d48abba-country-8": [],
+    "NE-COUNTRY-America": [],
+    "NE-COUNTRY-Brazil": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-extension-12": [],
+    "NE-LOCATION-South": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-largest-11": [],
+    "NE-CITY-Praia": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-Sonho-39": [],
+    "NE-CITY-Santa-Catarina": [],
+    "NE-LOCATION-Amapá": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-covering-16": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-do-38": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-departing-21": [],
+    "NE-LOCATION-Oiapoque": [],
+    "NE-TITLE-River": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-border-29": [],
+    "NE-LOCATION-Guiana": [],
+    "NE-NATIONALITY-French": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-expansion-8": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-them-16": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-changes-9": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-area-17": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-advent-3": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-sensors-6": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangroves-19": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-extensive-16": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-years-13": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-remote-5": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-objective-6": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-context-3": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-14": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-2": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-13": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-past-16-28-17-years-18": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-small-10": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-increase-4": [],
+    "NE-DATE-2013": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-7.17-9-km-10": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-20": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-gain-26": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-28-area-29": [],
+    "NE-PERCENT-55%": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-it-7": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-share-13": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-mangrove-26": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-influence-15": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-processing-3": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-images-6": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-biggest-36-changes-39": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-which-29": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-possible-9": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-optical-5": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-transformations-18": [],
+    "1eac3015-c78b-44b0-a446-b7757d48abba-natural-20": []
+  }
+}

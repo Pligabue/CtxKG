@@ -1,0 +1,307 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85068049608.txt",
+  "entities": {
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-6": "firms",
+    "198e827a-9847-428e-9646-a76213d2c09d-suppliers-11": "suppliers",
+    "198e827a-9847-428e-9646-a76213d2c09d-lead-5": "lead",
+    "198e827a-9847-428e-9646-a76213d2c09d-stage-14": "stage",
+    "198e827a-9847-428e-9646-a76213d2c09d-center-13": "center",
+    "198e827a-9847-428e-9646-a76213d2c09d-upgrading-10": "upgrading",
+    "198e827a-9847-428e-9646-a76213d2c09d-governments-34": "governments",
+    "198e827a-9847-428e-9646-a76213d2c09d-policies-38": "policies",
+    "198e827a-9847-428e-9646-a76213d2c09d-industrial-37": "industrial",
+    "198e827a-9847-428e-9646-a76213d2c09d-value-21-chains-22": "value chains",
+    "198e827a-9847-428e-9646-a76213d2c09d-development-27": "development",
+    "198e827a-9847-428e-9646-a76213d2c09d-global-20": "global",
+    "198e827a-9847-428e-9646-a76213d2c09d-share-43": "share",
+    "198e827a-9847-428e-9646-a76213d2c09d-found-53": "found",
+    "198e827a-9847-428e-9646-a76213d2c09d-maps-17": "maps",
+    "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26": "have redrawn",
+    "198e827a-9847-428e-9646-a76213d2c09d-key-3": "key",
+    "198e827a-9847-428e-9646-a76213d2c09d-ownership-66": "ownership",
+    "198e827a-9847-428e-9646-a76213d2c09d-increasing-42": "increasing",
+    "198e827a-9847-428e-9646-a76213d2c09d-industry-4": "industry",
+    "198e827a-9847-428e-9646-a76213d2c09d-supply-56": "supply",
+    "198e827a-9847-428e-9646-a76213d2c09d-capital-58-goods-59": "capital goods",
+    "198e827a-9847-428e-9646-a76213d2c09d-developing-6": "developing",
+    "198e827a-9847-428e-9646-a76213d2c09d-economies-7": "economies",
+    "198e827a-9847-428e-9646-a76213d2c09d-industrial-8-policy-9": "industrial policy",
+    "198e827a-9847-428e-9646-a76213d2c09d-regulations-19": "regulations",
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-26": "firms",
+    "198e827a-9847-428e-9646-a76213d2c09d-supply-33-chain-34": "supply chain",
+    "198e827a-9847-428e-9646-a76213d2c09d-form-12-of-13-local-14-content-16-requirements-17": "form of local content requirements",
+    "198e827a-9847-428e-9646-a76213d2c09d-chapter-2": "chapter",
+    "198e827a-9847-428e-9646-a76213d2c09d-conditions-5": "conditions",
+    "198e827a-9847-428e-9646-a76213d2c09d-content-10-regulations-11": "content regulations",
+    "198e827a-9847-428e-9646-a76213d2c09d-value-21-chain-22": "value chain",
+    "198e827a-9847-428e-9646-a76213d2c09d-local-8": "local",
+    "NE-ORGANIZATION-O&G": "O&G",
+    "198e827a-9847-428e-9646-a76213d2c09d-supplier-16-upgrading-17": "supplier upgrading",
+    "198e827a-9847-428e-9646-a76213d2c09d-domestic-15": "domestic",
+    "198e827a-9847-428e-9646-a76213d2c09d-support-2": "support",
+    "198e827a-9847-428e-9646-a76213d2c09d-case-8-study-9": "case study",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "198e827a-9847-428e-9646-a76213d2c09d-country-14": "country",
+    "198e827a-9847-428e-9646-a76213d2c09d-Empirical-1": "Empirical",
+    "198e827a-9847-428e-9646-a76213d2c09d-deep-7": "deep",
+    "198e827a-9847-428e-9646-a76213d2c09d-policies-31": "policies",
+    "198e827a-9847-428e-9646-a76213d2c09d-its-34-supply-35-industry-36": "its supply industry",
+    "198e827a-9847-428e-9646-a76213d2c09d-policy-69-requirements-70": "policy requirements",
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-9": "firms",
+    "198e827a-9847-428e-9646-a76213d2c09d-data-22": "data",
+    "198e827a-9847-428e-9646-a76213d2c09d-diversification-13": "diversification"
+  },
+  "graph": [
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-6",
+      "relation": "will invest in",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-suppliers-11"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-6",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-lead-5"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-6",
+      "relation": "occupy",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-stage-14"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-stage-14",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-center-13"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-suppliers-11",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-upgrading-10"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-governments-34",
+      "relation": "adopt",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-policies-38"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-policies-38",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-industrial-37"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-value-21-chains-22",
+      "relation": "affect",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-development-27"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-value-21-chains-22",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-global-20"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-share-43",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-found-53"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-maps-17",
+      "relation": "have",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-key-3"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-found-53",
+      "relation": "at",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-ownership-66"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-share-43",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-increasing-42"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26",
+      "relation": "case",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-industry-4"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-found-53",
+      "relation": "at",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-supply-56"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-found-53",
+      "relation": "of",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-capital-58-goods-59"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-developing-6"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26",
+      "relation": "of",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-economies-7"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-industrial-8-policy-9",
+      "relation": "for possibilities is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-regulations-19"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-26",
+      "relation": "of",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-supply-33-chain-34"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-26",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-lead-5"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-industrial-8-policy-9",
+      "relation": "is in",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-form-12-of-13-local-14-content-16-requirements-17"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-chapter-2",
+      "relation": "analyzes",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-conditions-5"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-content-10-regulations-11",
+      "relation": "characterizes",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-value-21-chain-22"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-content-10-regulations-11",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-local-8"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-value-21-chain-22",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-O&G"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-content-10-regulations-11",
+      "relation": "can lead to",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-supplier-16-upgrading-17"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-supplier-16-upgrading-17",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-domestic-15"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-support-2",
+      "relation": "is provided by",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-case-8-study-9"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-case-8-study-9",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-support-2",
+      "relation": "is provided by",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-country-14"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-support-2",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-Empirical-1"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-case-8-study-9",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-deep-7"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-policies-31",
+      "relation": "promote",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-its-34-supply-35-industry-36"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of study is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-country-14"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "’s",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-policy-69-requirements-70"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-9",
+      "relation": "were pushed",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-data-22"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-9",
+      "relation": "is",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-local-8"
+    },
+    {
+      "subject_id": "198e827a-9847-428e-9646-a76213d2c09d-firms-9",
+      "relation": "were pushed data towards",
+      "object_id": "198e827a-9847-428e-9646-a76213d2c09d-diversification-13"
+    }
+  ],
+  "links": {
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-6": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-suppliers-11": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-lead-5": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-stage-14": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-center-13": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-upgrading-10": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-governments-34": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-policies-38": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-industrial-37": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-value-21-chains-22": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-development-27": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-global-20": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-share-43": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-found-53": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-maps-17": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-have-24-redrawn-26": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-key-3": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-ownership-66": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-increasing-42": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-industry-4": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-supply-56": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-capital-58-goods-59": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-developing-6": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-economies-7": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-industrial-8-policy-9": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-regulations-19": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-26": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-supply-33-chain-34": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-form-12-of-13-local-14-content-16-requirements-17": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-chapter-2": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-conditions-5": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-content-10-regulations-11": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-value-21-chain-22": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-local-8": [],
+    "NE-ORGANIZATION-O&G": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-supplier-16-upgrading-17": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-domestic-15": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-support-2": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-case-8-study-9": [],
+    "NE-COUNTRY-Brazil": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-country-14": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-Empirical-1": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-deep-7": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-policies-31": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-its-34-supply-35-industry-36": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-policy-69-requirements-70": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-firms-9": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-data-22": [],
+    "198e827a-9847-428e-9646-a76213d2c09d-diversification-13": []
+  }
+}

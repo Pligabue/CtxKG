@@ -1,0 +1,357 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85053770238.txt",
+  "entities": {
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Diapir-1-piercement-2": "Diapir piercement",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10": "stages",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13": "dynamic",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-final-9": "final",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-migration-14-path-15": "migration path",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-5": "diapir",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-exhumed-2": "exhumed",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-9": "seafloor",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-response-4": "response",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11": "has studied",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18": "modifications",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-detailed-14": "detailed",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depositional-15": "depositional",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-hydrodynamic-3": "hydrodynamic",
+    "NE-DATE-previously": "previously",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-understood-26": "understood",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6": "we",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-gap-4": "gap",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-processes-6": "processes",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-unknown-20": "unknown",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-region-3": "region",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Data-1": "Data",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-three-3-stages-5": "three stages",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-main-4": "main",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7-exhumation-8": "diapir exhumation",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-2": "faults",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-6": "diapir",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-pre-exposed-5": "pre-exposed",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-piercement-10": "its piercement",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Extensional-1": "Extensional",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-13": "seafloor",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-top-6": "top",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depressions-13": "depressions",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Ocean-1-currents-3": "Ocean currents",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-bottom-2": "bottom",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-9": "faults",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-elongated-12": "elongated",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3": "currents",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7": "diapir",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-exposure-12": "its exposure",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-interaction-2": "interaction",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-drift-5-pattern-10": "drift pattern",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-morphologies-9": "morphologies",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19": "reflector geometries",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-22-flank-23-deformation-24": "diapir flank deformation",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-other-17": "other",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6-resolution-4-data-5": "we resolution data",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-11-processes-12": "seafloor processes",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-high-2": "high",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-related-20": "related",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-distinction-6": "distinction",
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-geometrical-5": "geometrical"
+  },
+  "graph": [
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Diapir-1-piercement-2",
+      "relation": "marks",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-final-9"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10",
+      "relation": "of",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-migration-14-path-15"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-5",
+      "relation": "extrudes",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-exhumed-2"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-5",
+      "relation": "extrudes from",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-9"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-response-4",
+      "relation": "has",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18",
+      "relation": "are understood",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-detailed-14"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depositional-15"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-response-4",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-hydrodynamic-3"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11",
+      "relation": "at",
+      "object_id": "NE-DATE-previously"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18",
+      "relation": "are",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-understood-26"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6",
+      "relation": "bridge",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-gap-4"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is across",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-processes-6",
+      "relation": "are",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-unknown-20"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-processes-6",
+      "relation": "are unknown In",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-region-3"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Data-1",
+      "relation": "show",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-three-3-stages-5"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-three-3-stages-5",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-main-4"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-three-3-stages-5",
+      "relation": "of",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7-exhumation-8"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-2",
+      "relation": "crown",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-6"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-6",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-pre-exposed-5"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-2",
+      "relation": "crown diapir before",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-piercement-10"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-2",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Extensional-1"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-piercement-10",
+      "relation": "of",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-13"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-top-6",
+      "relation": "form",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depressions-13"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Ocean-1-currents-3",
+      "relation": "rework",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-top-6"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Ocean-1-currents-3",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-bottom-2"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-top-6",
+      "relation": "of",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-9"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depressions-13",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-elongated-12"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3",
+      "relation": "tightly detour",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-bottom-2"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3",
+      "relation": "detour diapir during",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-exposure-12"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-exposure-12",
+      "relation": "of",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-13"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3",
+      "relation": "detour",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3",
+      "relation": "tightly detour diapir during",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-exposure-12"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-interaction-2",
+      "relation": "forms",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-drift-5-pattern-10"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-drift-5-pattern-10",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depositional-15"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-morphologies-9",
+      "relation": "distinguishing morphologies from",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19",
+      "relation": "at",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-22-flank-23-deformation-24"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-other-17"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6-resolution-4-data-5",
+      "relation": "relating morphologies to",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-11-processes-12"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6-resolution-4-data-5",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-high-2"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6-resolution-4-data-5",
+      "relation": "relating",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-morphologies-9"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-related-20"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6",
+      "relation": "use",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-distinction-6"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-distinction-6",
+      "relation": "is",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-geometrical-5"
+    },
+    {
+      "subject_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6",
+      "relation": "further use",
+      "object_id": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-distinction-6"
+    }
+  ],
+  "links": {
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Diapir-1-piercement-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-stages-10": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-final-9": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-migration-14-path-15": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-5": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-exhumed-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-9": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-response-4": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-modifications-18": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-detailed-14": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depositional-15": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-hydrodynamic-3": [],
+    "NE-DATE-previously": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-understood-26": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-gap-4": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-processes-6": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-unknown-20": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-region-3": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Data-1": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-three-3-stages-5": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-main-4": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7-exhumation-8": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-6": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-pre-exposed-5": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-piercement-10": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Extensional-1": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-13": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-top-6": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-depressions-13": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-Ocean-1-currents-3": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-bottom-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-faults-9": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-elongated-12": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-currents-3": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-7": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-its-9-exposure-12": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-interaction-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-drift-5-pattern-10": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-morphologies-9": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-reflector-18-geometries-19": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-diapir-22-flank-23-deformation-24": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-other-17": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-we-6-resolution-4-data-5": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-seafloor-11-processes-12": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-high-2": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-related-20": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-distinction-6": [],
+    "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-geometrical-5": []
+  }
+}

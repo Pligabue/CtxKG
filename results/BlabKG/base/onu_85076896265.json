@@ -1,0 +1,688 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85076896265.txt",
+  "entities": {
+    "NE-CITY-Bay": "Bay",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-impacted-3": "impacted",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-significantly-2": "significantly",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-southeastern-13": "southeastern",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-processes-24": "processes",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-population-34": "population",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2": "Hg contamination",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-20-bioaccumulation-21": "Hg bioaccumulation",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-health-28-risks-29": "health risks",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-consumption-38": "consumption",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-food-41-items-42": "food items",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-public-27": "public",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concern-9": "concern",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-area-12": "area",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-32": "local",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-monitored-17": "monitored",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-human-33": "human",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-contaminated-40": "contaminated",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-regularly-16": "regularly",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6": "aim",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30": "influence",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-41": "beginning",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19": "Hg concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-study-10": "study",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-total-14": "total",
+    "NE-DATE-present": "present",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-biotic-32": "biotic",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-factors-35": "factors",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-37-concentrations-38": "Hg concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-21-crabs-22": "swimming crabs",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-context-3": "context",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Crabs-1": "Crabs",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6": "obtained",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-24": "bay",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-mouth-17": "mouth",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-20": "bay",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-13": "bay",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-8-areas-9": "three areas",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-3-effect-4": "rainfall effect",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-15": "rainfall",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-clear-2": "clear",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-18": "noted",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-increased-14": "increased",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-11": "observed",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3": "correlations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-16-study-17-points-18": "three study points",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-statistical-2": "statistical",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-21": "beginning",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5": "observed",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-7-concentrations-8": "THg concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Significant-1": "Significant",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-3": "season",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10": "THg concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-2": "rainy",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-directly-7": "directly",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-5": "noted",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-affecting-8": "affecting",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2": "concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-14": "higher",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1": "THg",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-opposite-29": "opposite",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sampling-34-point-35": "sampling point",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-17": "beginning",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-21": "season",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-end-25": "end",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-4-crabs-5": "swimming crabs",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-31": "observed",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-20": "rainy",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-38": "bay",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3": "Hg concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-detected-5": "detected",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-relation-14": "relation",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9": "point",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-12": "bay",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Higher-1": "Higher",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-upwelling-25-event-26": "upwelling event",
+    "NE-LOCATION-Cagarras-Islands": "Cagarras Islands",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-24": "local",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-probably-20": "probably",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-outermost-8": "outermost",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1-values-2": "THg values",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9": "concentrations",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-other-12-areas-13": "other areas",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-reported-10": "reported",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sp.-5": "sp.",
+    "NE-LOCATION-Callinectes": "Callinectes",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-areas-13": "areas",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-7": "higher",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-research-2": "research",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-essential-11": "essential",
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Further-1": "Further"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "located in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "located",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-impacted-3"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-impacted-3",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-significantly-2"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-southeastern-13"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-processes-24",
+      "relation": "may lead health risks to",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-population-34"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2",
+      "relation": "be monitored as",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-20-bioaccumulation-21"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2",
+      "relation": "be regularly monitored as",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-20-bioaccumulation-21"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-processes-24",
+      "relation": "may lead",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-health-28-risks-29"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-processes-24",
+      "relation": "may lead health risks due",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-consumption-38"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-consumption-38",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-food-41-items-42"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-health-28-risks-29",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-public-27"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2",
+      "relation": "is of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concern-9"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concern-9",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-area-12"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concern-9",
+      "relation": "is in",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-area-12"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-population-34",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-32"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2",
+      "relation": "be",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-monitored-17"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-population-34",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-human-33"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-consumption-38",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-contaminated-40"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-monitored-17",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-regularly-16"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6",
+      "relation": "investigate",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-41"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19",
+      "relation": "aim of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-study-10"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-total-14"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6",
+      "relation": "was determine",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-study-10",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-biotic-32"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-factors-35"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-37-concentrations-38"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6",
+      "relation": "was determine Hg concentrations in",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-21-crabs-22"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6",
+      "relation": "was determine Hg concentrations In",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-context-3"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Crabs-1",
+      "relation": "were",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-24"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-mouth-17"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-20"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-13"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-8-areas-9"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-3-effect-4",
+      "relation": "was observed with",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-15"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-3-effect-4",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-clear-2"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-15",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-18"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-15",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-increased-14"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-3-effect-4",
+      "relation": "was",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-11"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3",
+      "relation": "were observed at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-16-study-17-points-18"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-statistical-2"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-16-study-17-points-18",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-21"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3",
+      "relation": "were",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-7-concentrations-8"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-16-study-17-points-18"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3",
+      "relation": "were observed between",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-7-concentrations-8"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Significant-1"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-3",
+      "relation": "was noted as",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-3",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-2"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-directly-7"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-3",
+      "relation": "was",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-5"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-affecting-8"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2",
+      "relation": "were",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-14"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-opposite-29",
+      "relation": "was observed for",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sampling-34-point-35"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2",
+      "relation": "were higher at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-17"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-17",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-21"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2",
+      "relation": "were higher compared",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-end-25"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2",
+      "relation": "is in",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-4-crabs-5"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-opposite-29",
+      "relation": "was",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-31"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-31",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sampling-34-point-35"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-17",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-20"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sampling-34-point-35",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-38"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3",
+      "relation": "were",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-detected-5"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-detected-5",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-relation-14"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3",
+      "relation": "were detected at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9",
+      "relation": "of",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-12"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Higher-1"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-detected-5",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3",
+      "relation": "were detected due",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-upwelling-25-event-26"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3",
+      "relation": "were detected in",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-relation-14"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-relation-14",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Cagarras-Islands"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-upwelling-25-event-26",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-24"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-upwelling-25-event-26",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-probably-20"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-outermost-8"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1-values-2",
+      "relation": "were higher than",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-other-12-areas-13"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-reported-10"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1-values-2",
+      "relation": "is in",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sp.-5"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sp.-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Callinectes"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-other-12-areas-13",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9",
+      "relation": "at",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-areas-13"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1-values-2",
+      "relation": "were",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-7"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-research-2",
+      "relation": "are",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-essential-11"
+    },
+    {
+      "subject_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-research-2",
+      "relation": "is",
+      "object_id": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Further-1"
+    }
+  ],
+  "links": {
+    "NE-CITY-Bay": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-LOCATION-Guanabara": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-impacted-3": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-significantly-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-southeastern-13": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-processes-24": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-population-34": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-1-contamination-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-20-bioaccumulation-21": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-health-28-risks-29": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-consumption-38": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-food-41-items-42": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-public-27": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concern-9": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-area-12": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-32": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-monitored-17": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-human-33": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-contaminated-40": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-regularly-16": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-influence-30": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-41": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-37-concentrations-38",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-study-10": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-total-14": [],
+    "NE-DATE-present": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-biotic-32": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-factors-35": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-37-concentrations-38": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-21-crabs-22": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-context-3": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Crabs-1": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-obtained-6": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-24": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-20",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-13"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-mouth-17": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-20": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-24",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-13"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-13": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-24",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-20"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-8-areas-9": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-3-effect-4": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainfall-15": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-clear-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-18": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-increased-14": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-11": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-correlations-3": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-three-16-study-17-points-18": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-statistical-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-21": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-31"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-7-concentrations-8": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Significant-1": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-3": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-9-concentrations-10": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-7-concentrations-8"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-2": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-20"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-directly-7": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-noted-5": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-affecting-8": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-14": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Higher-1"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-opposite-29": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sampling-34-point-35": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-beginning-17": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-season-21": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-end-25": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-swimming-4-crabs-5": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-31": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-5"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-20": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-rainy-2"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-38": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-12"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-2-concentrations-3": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-15-concentrations-19",
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Hg-37-concentrations-38"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-detected-5": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-relation-14": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-point-9": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-12": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-bay-38"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Higher-1": [
+      "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-14"
+    ],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-upwelling-25-event-26": [],
+    "NE-LOCATION-Cagarras-Islands": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-local-24": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-probably-20": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-outermost-8": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-THg-1-values-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-concentrations-9": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-other-12-areas-13": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-reported-10": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-sp.-5": [],
+    "NE-LOCATION-Callinectes": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-areas-13": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-7": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-research-2": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-essential-11": [],
+    "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-Further-1": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_57649139087.txt",
+  "entities": {
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5": "crisis",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12": "officials",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-global-3": "global",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-13-impact-15": "regarding impact",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-issues-8": "issues",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-other-7": "other",
+    "NE-DATE-current": "current",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-financial-4": "financial",
+    "NE-ORGANIZATION-Petroleo-Brasilerio-SA": "Petroleo Brasilerio SA",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-9": "country",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-oil-11-law-12": "oil law",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-interest-27": "interest",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-33": "country",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-delays-3": "delays",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7": "cooperation",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-real-6": "real",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-8": "regarding",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-subsalt-16-oil-17-deposits-18": "subsalt oil deposits"
+  },
+  "graph": [
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5",
+      "relation": "have split",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5",
+      "relation": "is",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-global-3"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12",
+      "relation": "of",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-13-impact-15"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-issues-8",
+      "relation": "have split",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-issues-8",
+      "relation": "is",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-other-7"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5",
+      "relation": "is",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-financial-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petroleo-Brasilerio-SA",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-9",
+      "relation": "of",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-oil-11-law-12"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-interest-27",
+      "relation": "is in",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-33"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-delays-3",
+      "relation": "have impacted",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7",
+      "relation": "is",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-real-6"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-delays-3",
+      "relation": "However have impacted",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7"
+    },
+    {
+      "subject_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7",
+      "relation": "is",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-8"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "672bb03e-fe5c-4375-b8ca-4305ca86562f-subsalt-16-oil-17-deposits-18"
+    }
+  ],
+  "links": {
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-crisis-5": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-officials-12": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-global-3": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-13-impact-15": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-issues-8": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-other-7": [],
+    "NE-DATE-current": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-financial-4": [],
+    "NE-ORGANIZATION-Petroleo-Brasilerio-SA": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-9": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-oil-11-law-12": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-interest-27": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-country-33": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-delays-3": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-cooperation-7": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-real-6": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-regarding-8": [],
+    "NE-COUNTRY-Brazil": [],
+    "672bb03e-fe5c-4375-b8ca-4305ca86562f-subsalt-16-oil-17-deposits-18": []
+  }
+}

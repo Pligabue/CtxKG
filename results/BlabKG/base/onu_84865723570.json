@@ -1,0 +1,624 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84865723570.txt",
+  "entities": {
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5": "oil reservoirs",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8": "have discovered",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-10": "deep",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Mega-1": "Mega",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-offshore-13": "offshore",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3": "discoveries",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-water-8-depths-9": "water depths",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-ranging-10": "ranging",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-located-6": "located",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-2": "Pre-Salt",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remotely-5": "remotely",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6": "conditions",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-1": "Offshore",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-swell-9-periods-10": "swell periods",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-long-8-swell-9-periods-10": "long swell periods",
+    "NE-DATE-present": "present",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-platforms-16": "platforms",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-unique-4": "unique",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-metocean-5": "metocean",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-floating-15": "floating",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12": "cost",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18": "pressure",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-associated-10": "associated",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addition-2": "addition",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15": "vessel mobilization",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-further-17": "further",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remoteness-5": "remoteness",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-high-11": "high",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-location-7": "location",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-integration-2": "integration",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-concept-11": "concept",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-reservoirs-7": "reservoirs",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16": "drilling rig payload",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-21-topsides-22": "large topsides",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-size-25": "size",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-variable-15": "variable",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-10": "large",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-TLPs-3": "TLPs",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12": "only two tree hull forms",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-1": "Spars",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-proven-8": "proven",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12": "two proven dry tree hull forms",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-14-waters-17": "deep waters",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-waters-17": "waters",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-dry-9": "dry",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-GOM-20": "GOM",
+    "NE-ORGANIZATION-TLP": "TLP",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-5": "cost",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-prohibitive-6": "prohibitive",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-payload-3-systems-4-challenge-17": "payload systems challenge",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-8-rig-9": "drilling rig",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-2": "large",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-7": "large",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4": "hull form",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-advantages-9": "advantages",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-known-6": "known",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-11": "Spars",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-semi-submersible-2": "semi-submersible",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-wind-2-tunnel-3-tests-4": "wind tunnel tests",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-completed-19": "completed",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Extensive-1": "Extensive",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-successfully-18": "successfully",
+    "NE-DATE-2010": "2010",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-1-Semi-2-hull-3-configuration-4": "PC Semi hull configuration",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-had-15-validated-18": "had validated",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-fully-17": "fully",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2": "paper",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6": "validation analysis results",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23": "2,400 m ultra-deepwater",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-topsides-30-payloads-31": "topsides payloads",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-same-29": "same",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RPSEA-33": "RPSEA",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RAM-16-style-17-tensioners-18": "RAM style tensioners",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-developed-13": "developed",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-tree-10-PC-11-semi-12": "tree PC semi",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-25": "Offshore",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-27": "Pre-Salt",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conventional-15": "conventional",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-2-analysis-3": "validation analysis",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-9-tools-10": "analysis tools",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-correlated-8": "correlated",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-13-procedures-14": "analysis procedures",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-design-2-efficiencies-3-efficiencies-11": "design efficiencies efficiencies",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addressed-21": "addressed",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-3-Semi-4": "PC Semi",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-has-7-developed-9": "has developed",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-efficient-2": "efficient",
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-market-15-ready-16": "market ready"
+  },
+  "graph": [
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5",
+      "relation": "have",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Mega-1"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-offshore-13"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3",
+      "relation": "are located at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-water-8-depths-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3",
+      "relation": "are remotely located at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-water-8-depths-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-water-8-depths-9",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-ranging-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3",
+      "relation": "are",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-located-6"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-located-6",
+      "relation": "at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remotely-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-1"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-swell-9-periods-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+      "relation": "is with",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-long-8-swell-9-periods-10"
+    },
+    {
+      "subject_id": "NE-DATE-present",
+      "relation": "challenges on",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-platforms-16"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-long-8-swell-9-periods-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-unique-4"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-metocean-5"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-platforms-16",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-floating-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12",
+      "relation": "add",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-associated-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12",
+      "relation": "add pressure In",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addition-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "associated cost of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-further-17"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "high cost of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remoteness-5",
+      "relation": "add pressure In",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addition-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "cost of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "associated high cost of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-high-11"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18",
+      "relation": "remoteness of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-location-7"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remoteness-5",
+      "relation": "add",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-integration-2",
+      "relation": "is desired",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-concept-11"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-reservoirs-7",
+      "relation": "usually require",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-21-topsides-22",
+      "relation": "is in",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-size-25"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-reservoirs-7",
+      "relation": "require",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-variable-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-TLPs-3",
+      "relation": "are",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-1",
+      "relation": "are",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-proven-8"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12",
+      "relation": "amount to",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-14-waters-17"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-waters-17"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-dry-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12",
+      "relation": "is in",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-14-waters-17"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12",
+      "relation": "is in",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-GOM-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-TLP",
+      "relation": "However becomes",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-5"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-5",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-prohibitive-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-TLP",
+      "relation": "becomes",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-5"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-payload-3-systems-4-challenge-17",
+      "relation": "requiring",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-8-rig-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-payload-3-systems-4-challenge-17",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-8-rig-9",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-7"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4",
+      "relation": "offer",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-advantages-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-known-6"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4",
+      "relation": "offer advantages over",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-11"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-semi-submersible-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-wind-2-tunnel-3-tests-4",
+      "relation": "were",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-completed-19"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-wind-2-tunnel-3-tests-4",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Extensive-1"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-completed-19",
+      "relation": "at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-successfully-18"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-completed-19",
+      "relation": "at",
+      "object_id": "NE-DATE-2010"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-1-Semi-2-hull-3-configuration-4",
+      "relation": "had",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-had-15-validated-18"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-had-15-validated-18",
+      "relation": "at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-fully-17"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2",
+      "relation": "presents",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-dry-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "carrying",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-topsides-30-payloads-31"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2",
+      "relation": "presents validation analysis results in",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-topsides-30-payloads-31",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-same-29"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "carrying same topsides payloads as",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RPSEA-33"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6",
+      "relation": "at",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RAM-16-style-17-tensioners-18"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-developed-13"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "carrying topsides payloads as",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RPSEA-33"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-tree-10-PC-11-semi-12"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "case",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-25"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23",
+      "relation": "of",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-27"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conventional-15"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-2-analysis-3",
+      "relation": "was performed by",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-9-tools-10"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-9-tools-10",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-correlated-8"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-2-analysis-3",
+      "relation": "established",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-13-procedures-14"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-design-2-efficiencies-3-efficiencies-11",
+      "relation": "are",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addressed-21"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-3-Semi-4",
+      "relation": "has",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-has-7-developed-9"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-3-Semi-4",
+      "relation": "is",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-efficient-2"
+    },
+    {
+      "subject_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-3-Semi-4",
+      "relation": "became",
+      "object_id": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-market-15-ready-16"
+    }
+  ],
+  "links": {
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-10": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Mega-1": [],
+    "NE-COUNTRY-Brazil": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-offshore-13": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-discoveries-3": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-water-8-depths-9": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-ranging-10": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-located-6": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remotely-5": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-1": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-swell-9-periods-10": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-long-8-swell-9-periods-10": [],
+    "NE-DATE-present": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-platforms-16": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-unique-4": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-metocean-5": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-floating-15": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-12": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-pressure-18": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-associated-10": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addition-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-vessel-14-mobilization-15": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-further-17": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-remoteness-5": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-high-11": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-location-7": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-integration-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-concept-11": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-reservoirs-7": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-8-rig-9"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-21-topsides-22": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-size-25": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-variable-15": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-10": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-7"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-TLPs-3": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-1": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-proven-8": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-two-7-proven-8-dry-9-tree-10-hull-11-forms-12": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-only-6-two-7-tree-10-hull-11-forms-12"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-14-waters-17": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-waters-17": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-dry-9": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-GOM-20": [],
+    "NE-ORGANIZATION-TLP": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-cost-5": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-prohibitive-6": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-payload-3-systems-4-challenge-17": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-8-rig-9": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-drilling-11-rig-12-payload-16"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-7": [
+      "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-large-10"
+    ],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-hull-3-form-4": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-advantages-9": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-known-6": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-11": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-semi-submersible-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-wind-2-tunnel-3-tests-4": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-completed-19": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Extensive-1": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-successfully-18": [],
+    "NE-DATE-2010": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-1-Semi-2-hull-3-configuration-4": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-had-15-validated-18": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-fully-17": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-4-analysis-5-results-6": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-2,400-21-m-22-ultra-deepwater-23": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-topsides-30-payloads-31": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-same-29": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RPSEA-33": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-RAM-16-style-17-tensioners-18": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-developed-13": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-tree-10-PC-11-semi-12": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Offshore-25": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Pre-Salt-27": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conventional-15": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-validation-2-analysis-3": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-9-tools-10": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-correlated-8": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-analysis-13-procedures-14": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-design-2-efficiencies-3-efficiencies-11": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-addressed-21": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-PC-3-Semi-4": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-has-7-developed-9": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-efficient-2": [],
+    "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-market-15-ready-16": []
+  }
+}

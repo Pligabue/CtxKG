@@ -1,0 +1,338 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085778412.txt",
+  "entities": {
+    "NE-ORGANIZATION-RRT": "RRT",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-building-34": "building",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2": "definition",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13": "challenge",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-key-12": "key",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-step-25": "step",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-critical-27": "critical",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16": "evaluation",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-carbonate-20-reservoirs-21": "carbonate reservoirs",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-3D-38-models-39": "3D models",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-constructing-37": "constructing",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Reservoir-4-Rock-5-Types-6": "Reservoir Rock Types",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-43-links-44": "definition links",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-static-46": "static",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2": "paper",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-rock-8-typing-9-process-10": "rock typing process",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-innovative-5": "innovative",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-customization-19": "customization",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Flow-22-Zone-23-Indicator-24": "Flow Zone Indicator",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3": "number",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18": "network",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-determined-12": "determined",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-neural-17": "neural",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-parameters-22": "parameters",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-pressure-21": "pressure",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-optimal-2": "optimal",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unsupervised-16": "unsupervised",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-total-9": "total",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-inputs-24": "inputs",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-effective-28": "effective",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-capillary-20": "capillary",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-classes-3": "classes",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5": "delineated",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-five-2": "five",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-chosen-18": "chosen",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-FZI-7-values-8": "FZI values",
+    "NE-PERCENT-10%": "10 %",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-porosity-12": "porosity",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-core-26": "core",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-EOR-33-treatments-34": "EOR treatments",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-reasons-20": "reasons",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-flow-22-properties-23": "flow properties",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-RRTs-3": "RRTs",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-permeability-7-porosity-9-equation-10": "permeability porosity equation",
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unique-6": "unique"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-RRT",
+      "relation": "define",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-building-34"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-key-12"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-step-25",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-critical-27"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2",
+      "relation": "is key challenge in",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-carbonate-20-reservoirs-21"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2",
+      "relation": "is key",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-RRT",
+      "relation": "blocks for",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-3D-38-models-39"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-3D-38-models-39",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-constructing-37"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Reservoir-4-Rock-5-Types-6",
+      "relation": "definition of is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-RRT",
+      "relation": "define building as",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-43-links-44"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-43-links-44",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-RRT"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2",
+      "relation": "is challenge in",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13",
+      "relation": "is in",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-building-34",
+      "relation": "blocks for",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-3D-38-models-39"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-43-links-44",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-static-46"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2",
+      "relation": "describes",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-rock-8-typing-9-process-10"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-rock-8-typing-9-process-10",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-innovative-5"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2",
+      "relation": "describes rock typing process with",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-customization-19"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-customization-19",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Flow-22-Zone-23-Indicator-24"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3",
+      "relation": "using",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-determined-12"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-neural-17"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-parameters-22"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "case",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-pressure-21"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-optimal-2"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "is with",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-parameters-22"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unsupervised-16"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3",
+      "relation": "five in",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-total-9"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-inputs-24"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-effective-28"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-capillary-20"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-classes-3",
+      "relation": "are",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-classes-3",
+      "relation": "amount to",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-five-2"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-chosen-18"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "by",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-FZI-7-values-8"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "of",
+      "object_id": "NE-PERCENT-10%"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "at",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-porosity-12"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-classes-3",
+      "relation": "are delineated by",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-FZI-7-values-8"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-core-26",
+      "relation": "is in",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-EOR-33-treatments-34"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "at",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-reasons-20"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5",
+      "relation": "of",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-flow-22-properties-23"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-RRTs-3",
+      "relation": "define",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-permeability-7-porosity-9-equation-10"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-RRTs-3",
+      "relation": "amount to",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-five-2"
+    },
+    {
+      "subject_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-permeability-7-porosity-9-equation-10",
+      "relation": "is",
+      "object_id": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unique-6"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-RRT": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-building-34": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-2": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-challenge-13": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-key-12": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-step-25": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-critical-27": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-evaluation-16": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-carbonate-20-reservoirs-21": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-3D-38-models-39": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-constructing-37": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Reservoir-4-Rock-5-Types-6": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-definition-43-links-44": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-static-46": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-rock-8-typing-9-process-10": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-innovative-5": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-customization-19": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-Flow-22-Zone-23-Indicator-24": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-number-3": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-network-18": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-determined-12": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-neural-17": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-parameters-22": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-pressure-21": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-optimal-2": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unsupervised-16": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-total-9": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-inputs-24": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-effective-28": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-capillary-20": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-classes-3": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-delineated-5": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-five-2": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-chosen-18": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-FZI-7-values-8": [],
+    "NE-PERCENT-10%": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-porosity-12": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-core-26": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-EOR-33-treatments-34": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-reasons-20": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-flow-22-properties-23": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-RRTs-3": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-permeability-7-porosity-9-equation-10": [],
+    "4fb375aa-30f3-49a6-9346-70a70e51f8b9-unique-6": []
+  }
+}

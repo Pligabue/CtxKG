@@ -1,0 +1,776 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85037355639.txt",
+  "entities": {
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4": "Group",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13-known-17": "widespread known",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15": "unit",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-2": "Cretaceous",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Bauru-3": "Bauru",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14-known-17": "continental known",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-known-17": "known",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14": "continental",
+    "NE-LOCATION-Paraná-Basin": "Paraná Basin",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-vertebrate-20-content-24": "vertebrate content",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13": "widespread",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-well-16": "well",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-São-2-Carlos-3-Formation-4": "São Carlos Formation",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15": "units",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-distinct-10": "distinct",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-exception-7": "exception",
+    "NE-ORGANIZATION-Cretaceous-Bauru-Group": "Cretaceous Bauru Group",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-siliciclastic-14": "siliciclastic",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-dark-34-grey-35-organic-36-argillaceous-39-rhythmite-40": "dark grey organic argillaceous rhythmite",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-43-palynoflora-44": "rich palynoflora",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-5": "unit",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unique-4": "unique",
+    "NE-MISC-Ibaté-Bed": "Ibaté Bed",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rocks-2": "rocks",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-focus-6": "focus",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-study-9": "study",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-main-5": "main",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Samples-1": "Samples",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-type-6-section-7": "type section",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-collected-3": "collected",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-formation-10": "formation",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynomorph-2-types-3": "palynomorph types",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-follows-6": "follows",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Identified-1": "Identified",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Acritarchs-1": "Acritarchs",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-recognized-8": "recognized",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7": "also",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-new-2-taxa-3": "new taxa",
+    "NE-DATE-nov": "nov",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Seven-1": "Seven",
+    "NE-DATE-nov.": "nov.",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-7-eosenonicus-8-sp.-9": "Anacolosidites eosenonicus sp.",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-pollen-7-grains-8": "pollen grains",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-terms-3": "terms",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-ephedroid-6": "ephedroid",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-quantitative-2": "quantitative",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-predominant-19": "predominant",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Gnetaceaepollenites-14-occurrence-2": "Gnetaceaepollenites occurrence",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-grains-6": "grains",
+    "NE-PERSON-Classopollis": "Classopollis",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-levels-2": "levels",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-5": "rich",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-relatively-4": "relatively",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8": "pteridophyte spores",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggestive-10": "suggestive",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-lakeside-14-vegetation-15": "lakeside vegetation",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-contribution-12": "contribution",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-3": "presence",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-microalgal-10": "microalgal",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-conspicuous-9": "conspicuous",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-permanent-2": "permanent",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10": "episodic",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-eutrophication-19": "eutrophication",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-amounts-2": "amounts",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Significant-1": "Significant",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggest-9": "suggest",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-lake-14": "lake",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-samples-8": "samples",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-scenario-8": "scenario",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-distal-11-lacustrine-12-environment-13": "distal lacustrine environment",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-low-15-oxygen-17-conditions-18": "low oxygen conditions",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-its-20-bottom-21-waters-22": "its bottom waters",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-depositional-7": "depositional",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28": "age",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9": "presence",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6": "basins",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-late-26": "late",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-11-eosenonicus-12-sp.-13": "Anacolosidites eosenonicus sp.",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Santonian-27": "Santonian",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-offshore-4": "offshore",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Steevesipollenites-21-nativensis-22": "Steevesipollenites nativensis",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-absence-19": "absence",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-observed-2": "observed",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-combined-16": "combined",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5": "index palynomorphs",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-time-10-assignment-11": "time assignment",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Other-1": "Other",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-associated-2": "associated",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-compatible-7": "compatible",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-FNSF-2-Mbr-3": "FNSF Mbr",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10": "part",
+    "NE-ORGANIZATION-Bauru-Group": "Bauru Group",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Adamantina-13-formations-16": "Adamantina formations",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-uppermost-9": "uppermost",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-related-6": "related",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-stratigraphically-5": "stratigraphically",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-composition-8": "composition",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-3": "Cretaceous",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21": "ASA Paleophytogeographic Province",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-better-15": "better",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynoflora-13": "palynoflora",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-18": "Cretaceous",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-mid-17": "mid",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-5": "age",
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Late-2": "Late"
+  },
+  "graph": [
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13-known-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-2"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Bauru-3"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14-known-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-known-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "well known for",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraná-Basin"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-vertebrate-20-content-24"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "known for",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-well-16"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13-known-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is of",
+      "object_id": "NE-LOCATION-Paraná-Basin"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14-known-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-São-2-Carlos-3-Formation-4",
+      "relation": "is exception among",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-distinct-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-São-2-Carlos-3-Formation-4",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-exception-7"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Cretaceous-Bauru-Group"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraná-Basin"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-siliciclastic-14"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-dark-34-grey-35-organic-36-argillaceous-39-rhythmite-40",
+      "relation": "is with",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-43-palynoflora-44"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "includes",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Cretaceous-Bauru-Group"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraná-Basin"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-5",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-unique-4"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "includes",
+      "object_id": "NE-MISC-Ibaté-Bed"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rocks-2",
+      "relation": "are",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-focus-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rocks-2",
+      "relation": "are main focus of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-study-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rocks-2",
+      "relation": "are focus of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-study-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-focus-6",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-main-5"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Samples-1",
+      "relation": "were collected from",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-type-6-section-7"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Samples-1",
+      "relation": "were",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-collected-3"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-type-6-section-7",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-formation-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynomorph-2-types-3",
+      "relation": "are as",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-follows-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynomorph-2-types-3",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Identified-1"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Acritarchs-1",
+      "relation": "were",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-recognized-8"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-recognized-8",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-new-2-taxa-3",
+      "relation": "are proposed",
+      "object_id": "NE-DATE-nov"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-new-2-taxa-3",
+      "relation": "amount to",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Seven-1"
+    },
+    {
+      "subject_id": "NE-DATE-nov",
+      "relation": "of",
+      "object_id": "NE-DATE-nov."
+    },
+    {
+      "subject_id": "NE-DATE-nov",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-7-eosenonicus-8-sp.-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pollen-7-grains-8",
+      "relation": "are predominant In",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-terms-3"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pollen-7-grains-8",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ephedroid-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-terms-3",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-quantitative-2"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pollen-7-grains-8",
+      "relation": "are",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-predominant-19"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Gnetaceaepollenites-14-occurrence-2",
+      "relation": "associated with",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-grains-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-grains-6",
+      "relation": "of",
+      "object_id": "NE-PERSON-Classopollis"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-levels-2",
+      "relation": "are",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-5"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-5",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-relatively-4"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-levels-2",
+      "relation": "are rich in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-levels-2",
+      "relation": "are relatively rich in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggestive-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-lakeside-14-vegetation-15"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-contribution-12"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-3",
+      "relation": "is attested by",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-microalgal-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-microalgal-10",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-conspicuous-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-3",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-permanent-2"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10",
+      "relation": "probably induced by",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-eutrophication-19"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-amounts-2",
+      "relation": "remains",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-amounts-2",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Significant-1"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10",
+      "relation": "aux",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggest-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-lake-14"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10",
+      "relation": "blooms in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-lake-14"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-amounts-2",
+      "relation": "remains in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-samples-8"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10",
+      "relation": "induced by",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-eutrophication-19"
+    },
+    {
+      "subject_id": "NE-MISC-Ibaté-Bed",
+      "relation": "corresponds to",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-scenario-8"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-distal-11-lacustrine-12-environment-13",
+      "relation": "is with",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-low-15-oxygen-17-conditions-18"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-low-15-oxygen-17-conditions-18",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-its-20-bottom-21-waters-22"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-scenario-8",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-depositional-7"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-low-15-oxygen-17-conditions-18",
+      "relation": "is in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-its-20-bottom-21-waters-22"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28",
+      "relation": "observed in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28",
+      "relation": "observed in",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-late-26"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9",
+      "relation": "of",
+      "object_id": "NE-DATE-nov."
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9",
+      "relation": "case",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-11-eosenonicus-12-sp.-13"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Santonian-27"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-offshore-4"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Steevesipollenites-21-nativensis-22"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-absence-19"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "presence of",
+      "object_id": "NE-DATE-nov."
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-observed-2",
+      "relation": "indicates",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-combined-16"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5",
+      "relation": "are compatible with",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-time-10-assignment-11"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Other-1"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-associated-2"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5",
+      "relation": "are",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-compatible-7"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-FNSF-2-Mbr-3",
+      "relation": "is related to",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Bauru-Group"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-FNSF-2-Mbr-3",
+      "relation": "is stratigraphically related to",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10",
+      "relation": "of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Adamantina-13-formations-16"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-uppermost-9"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-FNSF-2-Mbr-3",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-related-6"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-related-6",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-stratigraphically-5"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-composition-8",
+      "relation": "reflects ASA Paleophytogeographic Province",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-3"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-composition-8",
+      "relation": "reflects",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-better-15"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21",
+      "relation": "composition of",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynoflora-13"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynoflora-13",
+      "relation": "of",
+      "object_id": "NE-MISC-Ibaté-Bed"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-18"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-mid-17"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-3",
+      "relation": "at",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-5"
+    },
+    {
+      "subject_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-3",
+      "relation": "is",
+      "object_id": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Late-2"
+    }
+  ],
+  "links": {
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Group-4": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13-known-17": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-15": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Bauru-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14-known-17": [],
+    "NE-COUNTRY-Brazil": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-known-17": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-continental-14": [],
+    "NE-LOCATION-Paraná-Basin": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-vertebrate-20-content-24": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-widespread-13": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-well-16": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-São-2-Carlos-3-Formation-4": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-units-15": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-distinct-10": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-exception-7": [],
+    "NE-ORGANIZATION-Cretaceous-Bauru-Group": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-siliciclastic-14": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-dark-34-grey-35-organic-36-argillaceous-39-rhythmite-40": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-43-palynoflora-44": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unit-5": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-unique-4": [],
+    "NE-MISC-Ibaté-Bed": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rocks-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-focus-6": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-study-9": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-main-5": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Samples-1": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-type-6-section-7": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-collected-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-formation-10": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynomorph-2-types-3": [
+      "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5"
+    ],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-follows-6": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Identified-1": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Acritarchs-1": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-recognized-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-new-2-taxa-3": [],
+    "NE-DATE-nov": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Seven-1": [],
+    "NE-DATE-nov.": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-7-eosenonicus-8-sp.-9": [
+      "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-11-eosenonicus-12-sp.-13"
+    ],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-pollen-7-grains-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-terms-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-ephedroid-6": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-quantitative-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-predominant-19": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Gnetaceaepollenites-14-occurrence-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-grains-6": [],
+    "NE-PERSON-Classopollis": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-levels-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-rich-5": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-relatively-4": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-pteridophyte-7-spores-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggestive-10": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-lakeside-14-vegetation-15": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-contribution-12": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-microalgal-10": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-conspicuous-9": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-permanent-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-episodic-10": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-eutrophication-19": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-amounts-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Significant-1": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-suggest-9": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-lake-14": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-samples-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-scenario-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-distal-11-lacustrine-12-environment-13": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-low-15-oxygen-17-conditions-18": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-its-20-bottom-21-waters-22": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-depositional-7": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-28": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-late-26": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-11-eosenonicus-12-sp.-13": [
+      "f2532b6a-23e5-4ee4-b23c-b14a66103885-Anacolosidites-7-eosenonicus-8-sp.-9"
+    ],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Santonian-27": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-offshore-4": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Steevesipollenites-21-nativensis-22": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-absence-19": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-observed-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-combined-16": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-index-3-palynomorphs-5": [
+      "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynomorph-2-types-3"
+    ],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-time-10-assignment-11": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Other-1": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-associated-2": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-compatible-7": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-FNSF-2-Mbr-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-part-10": [],
+    "NE-ORGANIZATION-Bauru-Group": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Adamantina-13-formations-16": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-uppermost-9": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-related-6": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-stratigraphically-5": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-composition-8": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-3": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-ASA-19-Paleophytogeographic-20-Province-21": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-better-15": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-palynoflora-13": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Cretaceous-18": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-mid-17": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-age-5": [],
+    "f2532b6a-23e5-4ee4-b23c-b14a66103885-Late-2": []
+  }
+}

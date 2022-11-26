@@ -1,0 +1,273 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85088763109.txt",
+  "entities": {
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Source-1-rocks-2": "Source rocks",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-TOC-28": "TOC",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-aid-32": "aid",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26": "carbon content",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-total-23": "total",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-their-22": "their",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-acoustic-35-inversion-36": "acoustic inversion",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-basin-6-pre-salt-7": "basin pre-salt",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-PERSON-Santos": "Santos",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-organic-24": "organic",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-characterized-19": "characterized",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-P-3-impedance-5-volume-6": "P impedance volume",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-converted-8": "converted",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-inverted-2": "inverted",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-11-TOC-12-volume-13": "% TOC volume",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-3-TOC-4-volume-5": "% TOC volume",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-compensate-13": "compensate",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-derived-2": "derived",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-effect-16-burial-17": "effect burial",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-to-12": "to",
+    "NE-CAUSE_OF_DEATH-aids": "aids",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-mapping-8-of-9-source-11": "mapping of source",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-data-17": "data",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19": "available",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-where-14": "where",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-well-16": "well",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depth-30": "depth",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-source-5-rocks-6-from-7-within-8-deeper-10-rift-11-section-12-(-13": "source rocks from within deeper rift section (",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-no-15": "no",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-is-18": "is",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-)-20-%-26-TOC-27": ") % TOC",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-It-1": "It",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-found-3": "found",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-rise-2": "rise",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-more-17-anoxic-18-conditions-19": "more anoxic conditions",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-4-TOC-5": "% TOC",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Deposition-1-rates-2": "Deposition rates",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12": "must have higher",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-lower-18": "lower",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depocenter-15": "depocenter",
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-syn-19-rift-21": "syn rift"
+  },
+  "graph": [
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Source-1-rocks-2",
+      "relation": "are characterized based",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-TOC-28"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-aid-32",
+      "relation": "with content is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-TOC-28"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Source-1-rocks-2",
+      "relation": "are characterized based",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-total-23"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-their-22",
+      "relation": "content",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-TOC-28"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-their-22",
+      "relation": "has",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26",
+      "relation": "is with",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-aid-32"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-aid-32",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-acoustic-35-inversion-36"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-basin-6-pre-salt-7",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-basin-6-pre-salt-7",
+      "relation": "of",
+      "object_id": "NE-PERSON-Santos"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-organic-24"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Source-1-rocks-2",
+      "relation": "are",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-characterized-19"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-P-3-impedance-5-volume-6",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-converted-8"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-P-3-impedance-5-volume-6",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-inverted-2"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-P-3-impedance-5-volume-6",
+      "relation": "is converted into",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-11-TOC-12-volume-13"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-3-TOC-4-volume-5",
+      "relation": "is corrected in",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-compensate-13"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-3-TOC-4-volume-5",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-derived-2"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-compensate-13",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-effect-16-burial-17"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-compensate-13",
+      "relation": "mark",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-to-12"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-aids",
+      "relation": "is in",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-mapping-8-of-9-source-11"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-data-17",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "at",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-where-14"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "at",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-well-16"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "increases with",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depth-30"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-data-17"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-source-5-rocks-6-from-7-within-8-deeper-10-rift-11-section-12-(-13"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-no-15"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-is-18"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-)-20-%-26-TOC-27"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-It-1",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-found-3"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-rise-2",
+      "relation": "is indicative of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-more-17-anoxic-18-conditions-19"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-rise-2",
+      "relation": "is in",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-4-TOC-5"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Deposition-1-rates-2",
+      "relation": "must",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12",
+      "relation": "is",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-lower-18"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12",
+      "relation": "at",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depocenter-15"
+    },
+    {
+      "subject_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12",
+      "relation": "of",
+      "object_id": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-syn-19-rift-21"
+    }
+  ],
+  "links": {
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Source-1-rocks-2": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-TOC-28": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-aid-32": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-carbon-25-content-26": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-total-23": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-their-22": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-acoustic-35-inversion-36": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-basin-6-pre-salt-7": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-PERSON-Santos": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-organic-24": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-characterized-19": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-P-3-impedance-5-volume-6": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-converted-8": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-inverted-2": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-11-TOC-12-volume-13": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-3-TOC-4-volume-5": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-compensate-13": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-derived-2": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-effect-16-burial-17": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-to-12": [],
+    "NE-CAUSE_OF_DEATH-aids": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-mapping-8-of-9-source-11": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-data-17": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-available-19": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-where-14": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-well-16": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depth-30": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-source-5-rocks-6-from-7-within-8-deeper-10-rift-11-section-12-(-13": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-no-15": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-is-18": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-)-20-%-26-TOC-27": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-It-1": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-found-3": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-rise-2": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-more-17-anoxic-18-conditions-19": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-%-4-TOC-5": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-Deposition-1-rates-2": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-must-9-have-10-higher-12": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-lower-18": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-depocenter-15": [],
+    "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-syn-19-rift-21": []
+  }
+}

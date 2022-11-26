@@ -1,0 +1,165 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85089199336.txt",
+  "entities": {
+    "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-12-reservoirs-14": "Pre-Salt reservoirs",
+    "f9c39424-c803-446d-9dec-491105a69099-large-16-accumulations-17-of-18-excellent-19-quality-20": "large accumulations of excellent quality",
+    "f9c39424-c803-446d-9dec-491105a69099-called-10": "called",
+    "f9c39424-c803-446d-9dec-491105a69099-oil-32-production-33-site-34": "oil production site",
+    "f9c39424-c803-446d-9dec-491105a69099-concentration-21": "concentration",
+    "f9c39424-c803-446d-9dec-491105a69099-their-30-formations-32": "their formations",
+    "f9c39424-c803-446d-9dec-491105a69099-geological-31": "geological",
+    "f9c39424-c803-446d-9dec-491105a69099-high-20": "high",
+    "f9c39424-c803-446d-9dec-491105a69099-options-7": "options",
+    "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15": "have studied",
+    "f9c39424-c803-446d-9dec-491105a69099-several-6": "several",
+    "NE-LOCATION-Pre-Salt": "Pre-Salt",
+    "f9c39424-c803-446d-9dec-491105a69099-basin-4": "basin",
+    "f9c39424-c803-446d-9dec-491105a69099-salt-5-cavern-6": "salt cavern",
+    "f9c39424-c803-446d-9dec-491105a69099-has-7-constructed-10": "has constructed",
+    "f9c39424-c803-446d-9dec-491105a69099-mined-3": "mined",
+    "f9c39424-c803-446d-9dec-491105a69099-offshore-4": "offshore",
+    "f9c39424-c803-446d-9dec-491105a69099-results-2": "results",
+    "f9c39424-c803-446d-9dec-491105a69099-solution-15": "solution",
+    "f9c39424-c803-446d-9dec-491105a69099-technically-9": "technically",
+    "f9c39424-c803-446d-9dec-491105a69099-storage-19": "storage",
+    "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-17-CO2-18": "Pre-Salt CO2",
+    "f9c39424-c803-446d-9dec-491105a69099-feasible-14": "feasible"
+  },
+  "graph": [
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-12-reservoirs-14",
+      "relation": "is with",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-large-16-accumulations-17-of-18-excellent-19-quality-20"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-12-reservoirs-14",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-called-10"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-12-reservoirs-14",
+      "relation": "have become",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-oil-32-production-33-site-34"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-concentration-21",
+      "relation": "presented in",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-their-30-formations-32"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-their-30-formations-32",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-geological-31"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-concentration-21",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-high-20"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-options-7",
+      "relation": "have",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-options-7",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-several-6"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pre-Salt"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15",
+      "relation": "at",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-basin-4"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-salt-5-cavern-6",
+      "relation": "has",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-has-7-constructed-10"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-salt-5-cavern-6",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-mined-3"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-salt-5-cavern-6",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-offshore-4"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "are",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-solution-15"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-solution-15",
+      "relation": "at",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-technically-9"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "are feasible",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "technically are solution for",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19",
+      "relation": "of",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-17-CO2-18"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "technically are feasible solution for",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "are feasible solution for",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-solution-15",
+      "relation": "is",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-feasible-14"
+    },
+    {
+      "subject_id": "f9c39424-c803-446d-9dec-491105a69099-results-2",
+      "relation": "are solution for",
+      "object_id": "f9c39424-c803-446d-9dec-491105a69099-storage-19"
+    }
+  ],
+  "links": {
+    "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-12-reservoirs-14": [],
+    "f9c39424-c803-446d-9dec-491105a69099-large-16-accumulations-17-of-18-excellent-19-quality-20": [],
+    "f9c39424-c803-446d-9dec-491105a69099-called-10": [],
+    "f9c39424-c803-446d-9dec-491105a69099-oil-32-production-33-site-34": [],
+    "f9c39424-c803-446d-9dec-491105a69099-concentration-21": [],
+    "f9c39424-c803-446d-9dec-491105a69099-their-30-formations-32": [],
+    "f9c39424-c803-446d-9dec-491105a69099-geological-31": [],
+    "f9c39424-c803-446d-9dec-491105a69099-high-20": [],
+    "f9c39424-c803-446d-9dec-491105a69099-options-7": [],
+    "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15": [],
+    "f9c39424-c803-446d-9dec-491105a69099-several-6": [],
+    "NE-LOCATION-Pre-Salt": [],
+    "f9c39424-c803-446d-9dec-491105a69099-basin-4": [],
+    "f9c39424-c803-446d-9dec-491105a69099-salt-5-cavern-6": [],
+    "f9c39424-c803-446d-9dec-491105a69099-has-7-constructed-10": [],
+    "f9c39424-c803-446d-9dec-491105a69099-mined-3": [],
+    "f9c39424-c803-446d-9dec-491105a69099-offshore-4": [],
+    "f9c39424-c803-446d-9dec-491105a69099-results-2": [],
+    "f9c39424-c803-446d-9dec-491105a69099-solution-15": [],
+    "f9c39424-c803-446d-9dec-491105a69099-technically-9": [],
+    "f9c39424-c803-446d-9dec-491105a69099-storage-19": [],
+    "f9c39424-c803-446d-9dec-491105a69099-Pre-Salt-17-CO2-18": [],
+    "f9c39424-c803-446d-9dec-491105a69099-feasible-14": []
+  }
+}

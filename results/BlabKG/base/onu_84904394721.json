@@ -1,0 +1,415 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84904394721.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11": "tests",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-well-10": "well",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-deepwater-16-reservoirs-17": "deepwater reservoirs",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-extended-9": "extended",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reservoirs-17": "reservoirs",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-phase-4": "phase",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-exploratory-3": "exploratory",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-these-4": "these",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-ships-14": "ships",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environments-3-performed-12": "environments performed",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-offshore-2": "offshore",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2": "pursuit",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-friendly-7": "friendly",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environmentally-6": "environmentally",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-liquid-15": "liquid",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-13": "gas",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-more-5": "more",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-alternative-8": "alternative",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-PETROX-29": "PETROX",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-called-28": "called",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reforming-10": "pre-reforming",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-Fischer-16-Tropsch-18-synthesis-19-section-20": "Fischer Tropsch synthesis section",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-12-methane-13": "steam methane",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reforming-14": "reforming",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1": "CO2",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consequence-14": "consequence",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-equilibrium-16-change-17": "equilibrium change",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consumed-3": "consumed",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-20-methane-21-reactions-28": "steam methane reactions",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-6-methane-7-reactor-8": "steam methane reactor",
+    "NE-STATE_OR_PROVINCE-CO": "CO",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-increasing-23-dry-25-reforming-26-reaction-27-extension-28": "increasing dry reforming reaction extension",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-coke-31-formation-32": "coke formation",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-optimization-7-opportunities-8": "optimization opportunities",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12": "catalysts",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reformer-11": "pre-reformer",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-selective-14": "selective",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-16-production-17": "CO2 production",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-less-13": "less",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-capable-21": "capable",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-carbon-25-efficiency-26": "carbon efficiency",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-30-emission-31": "CO2 emission",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-24": "overall",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4": "changes",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-hydrogen-16": "hydrogen",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-14": "gas",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-can-8-done-10": "can done",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-natural-13": "natural",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-combustion-20": "combustion",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-process-7": "process",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-addition-2": "addition",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reformer-19": "reformer",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3": "reduction",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-acceptable-14": "acceptable",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-observed-2": "observed",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-scenario-18": "scenario",
+    "NE-MISC-EWT": "EWT",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-6-syncrude-7-production-8": "overall syncrude production",
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-high-10-CO2-11-content-12": "high CO2 content"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "traditionally performs",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11",
+      "relation": "at",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-well-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "performs",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11",
+      "relation": "is in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-deepwater-16-reservoirs-17"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-extended-9"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11",
+      "relation": "of",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reservoirs-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "traditionally performs tests During",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-phase-4"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-phase-4",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-exploratory-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "performs tests During",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-phase-4"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-these-4",
+      "relation": "are performed by",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-ships-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-these-4",
+      "relation": "are",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environments-3-performed-12"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environments-3-performed-12",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-offshore-2"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environments-3-performed-12",
+      "relation": "by",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-ships-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRAS",
+      "relation": "has researched gas In",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-friendly-7"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2",
+      "relation": "at",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environmentally-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRAS",
+      "relation": "has researched gas to",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-liquid-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRAS",
+      "relation": "has researched",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-13"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2",
+      "relation": "at",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-more-5"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2",
+      "relation": "of",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-alternative-8"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-PETROX-29",
+      "relation": "developed by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-PETROX-29",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-called-28"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reforming-10",
+      "relation": "account",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-Fischer-16-Tropsch-18-synthesis-19-section-20"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reforming-10",
+      "relation": "account",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-12-methane-13"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-12-methane-13",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reforming-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1",
+      "relation": "form CO as",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consequence-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consequence-14",
+      "relation": "of",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-equilibrium-16-change-17"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1",
+      "relation": "was",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consumed-3"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-equilibrium-16-change-17",
+      "relation": "is in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-20-methane-21-reactions-28"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1",
+      "relation": "was consumed in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-6-methane-7-reactor-8"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1",
+      "relation": "form",
+      "object_id": "NE-STATE_OR_PROVINCE-CO"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consequence-14",
+      "relation": "of",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-20-methane-21-reactions-28"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-increasing-23-dry-25-reforming-26-reaction-27-extension-28",
+      "relation": "is with",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-coke-31-formation-32"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-optimization-7-opportunities-8",
+      "relation": "develop",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reformer-11"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-selective-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12",
+      "relation": "at",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-16-production-17"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12",
+      "relation": "at",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-less-13"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-capable-21"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-carbon-25-efficiency-26",
+      "relation": "reduce",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-30-emission-31"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-carbon-25-efficiency-26",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-24"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4",
+      "relation": "replace gas by",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-hydrogen-16"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4",
+      "relation": "replace",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4",
+      "relation": "can",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-can-8-done-10"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-14",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-natural-13"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4",
+      "relation": "replace gas in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-combustion-20"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4",
+      "relation": "is in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-process-7"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-can-8-done-10",
+      "relation": "case",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-addition-2"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-combustion-20",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reformer-19"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-acceptable-14"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3",
+      "relation": "is",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-observed-2"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3",
+      "relation": "is acceptable to",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-scenario-18"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-scenario-18",
+      "relation": "of",
+      "object_id": "NE-MISC-EWT"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3",
+      "relation": "is in",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-6-syncrude-7-production-8"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-6-syncrude-7-production-8",
+      "relation": "of",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-high-10-CO2-11-content-12"
+    },
+    {
+      "subject_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-6-syncrude-7-production-8",
+      "relation": "is with",
+      "object_id": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-high-10-CO2-11-content-12"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [
+      "NE-ORGANIZATION-PETROBRAS"
+    ],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-well-10": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-deepwater-16-reservoirs-17": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-extended-9": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reservoirs-17": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-phase-4": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-exploratory-3": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-these-4": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-ships-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environments-3-performed-12": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-offshore-2": [],
+    "NE-ORGANIZATION-PETROBRAS": [
+      "NE-ORGANIZATION-Petrobras"
+    ],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pursuit-2": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-friendly-7": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environmentally-6": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-liquid-15": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-13": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-more-5": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-alternative-8": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-PETROX-29": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-called-28": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reforming-10": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-Fischer-16-Tropsch-18-synthesis-19-section-20": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-12-methane-13": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reforming-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-1": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consequence-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-equilibrium-16-change-17": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-consumed-3": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-20-methane-21-reactions-28": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-steam-6-methane-7-reactor-8": [],
+    "NE-STATE_OR_PROVINCE-CO": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-increasing-23-dry-25-reforming-26-reaction-27-extension-28": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-coke-31-formation-32": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-optimization-7-opportunities-8": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-catalysts-12": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-pre-reformer-11": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-selective-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-16-production-17": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-less-13": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-capable-21": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-carbon-25-efficiency-26": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-CO2-30-emission-31": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-24": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-changes-4": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-hydrogen-16": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-gas-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-can-8-done-10": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-natural-13": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-combustion-20": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-process-7": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-addition-2": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reformer-19": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reduction-3": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-acceptable-14": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-observed-2": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-scenario-18": [],
+    "NE-MISC-EWT": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-overall-6-syncrude-7-production-8": [],
+    "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-high-10-CO2-11-content-12": []
+  }
+}

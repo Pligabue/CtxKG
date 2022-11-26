@@ -1,0 +1,292 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85043324954.txt",
+  "entities": {
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22": "ocean modeling",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51": "water environment",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shallow-49": "shallow",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45": "speed fields",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-sound-43": "sound",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2": "work",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15": "region",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-predictions-41": "predictions",
+    "NE-CITY-Cabo-Frio": "Cabo Frio",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-reliable-40": "reliable",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-corresponding-48": "corresponding",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-description-5": "description",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-complex-8": "complex",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-9-regime-10": "upwelling regime",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detection-30-probability-31": "detection probability",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41": "detected",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-source-38": "source",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-acoustic-37": "acoustic",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-8": "development",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-low-34": "low",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-regime-15": "regime",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-creation-21": "creation",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-14": "upwelling",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-simulations-10": "simulations",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-responsible-18": "responsible",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-to-39": "to",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-too-33": "too",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shadow-23-zones-25": "shadow zones",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-24": "coastal",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-its-8-validation-9": "its validation",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-real-11-data-12": "real data",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-2": "development",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17": "region",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-particular-16": "particular",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-possibility-27": "possibility",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-20": "upwelling",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-19": "coastal",
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-FORMS-5-technique-6": "FORMS technique"
+  },
+  "graph": [
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "reliable predictions for",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shallow-49"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "predictions of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-sound-43"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "reliable predictions of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2",
+      "relation": "introduces description off",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "produce",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-predictions-41"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "produce",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-predictions-41"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22",
+      "relation": "predictions for",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15",
+      "relation": "of",
+      "object_id": "NE-CITY-Cabo-Frio"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-predictions-41",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-reliable-40"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-corresponding-48"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2",
+      "relation": "introduces",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-description-5"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-description-5",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-complex-8"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-description-5",
+      "relation": "of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-9-regime-10"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detection-30-probability-31",
+      "relation": "is low",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-source-38",
+      "relation": "be",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-source-38",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-acoustic-37"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detection-30-probability-31",
+      "relation": "is too low",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2",
+      "relation": "shows through",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-8"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detection-30-probability-31",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-low-34"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-regime-15",
+      "relation": "be responsible for",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-creation-21"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-regime-15",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-14"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2",
+      "relation": "also shows through",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-8"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-8",
+      "relation": "of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-simulations-10"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-regime-15",
+      "relation": "be",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-responsible-18"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41",
+      "relation": "mark",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-to-39"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-low-34",
+      "relation": "at",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-too-33"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-creation-21",
+      "relation": "of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shadow-23-zones-25"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-creation-21",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-24"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-its-8-validation-9",
+      "relation": "is with",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-real-11-data-12"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-2",
+      "relation": "reveals possibility for",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-particular-16"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-2",
+      "relation": "reveals",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-possibility-27"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17",
+      "relation": "of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-20"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17",
+      "relation": "is",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-19"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-possibility-27",
+      "relation": "development of",
+      "object_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-FORMS-5-technique-6"
+    },
+    {
+      "subject_id": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17",
+      "relation": "of",
+      "object_id": "NE-CITY-Cabo-Frio"
+    }
+  ],
+  "links": {
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-ocean-21-modeling-22": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shallow-49": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-speed-44-fields-45": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-sound-43": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-predictions-41": [],
+    "NE-CITY-Cabo-Frio": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-reliable-40": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-corresponding-48": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-description-5": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-complex-8": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-9-regime-10": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detection-30-probability-31": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-detected-41": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-source-38": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-acoustic-37": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-8": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-low-34": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-regime-15": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-creation-21": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-14": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-simulations-10": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-responsible-18": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-to-39": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-too-33": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shadow-23-zones-25": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-24": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-its-8-validation-9": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-real-11-data-12": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-development-2": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-region-17": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-particular-16": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-possibility-27": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-upwelling-20": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-19": [],
+    "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-FORMS-5-technique-6": []
+  }
+}

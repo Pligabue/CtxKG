@@ -1,0 +1,244 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33751312200.txt",
+  "entities": {
+    "0c8feb86-ed53-4518-8929-20e43783eecc-objective-20-design-31": "objective design",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35": "motion",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-use-2": "use",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-related-10": "related",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-minimum-34": "minimum",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-water-38": "water",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpools-4": "moonpools",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-offshore-6-technology-7": "offshore technology",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-41": "moonpool",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-normally-9": "normally",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-hull-13-opening-14": "hull opening",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-drilling-16-units-17": "drilling units",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-studies-2": "studies",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-water-10-dynamics-11": "water dynamics",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-Several-1": "Several",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-14": "moonpool",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-analytical-4-tools-5": "analytical tools",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17": "evaluation",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8": "have used",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-results-11": "results",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-effects-20": "effects",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-19": "viscous",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-good-16": "good",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-experimental-10": "experimental",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-use-6": "use",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14": "studied",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-partnership-24": "partnership",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-development-17": "development",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-concept-20": "concept",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-monocolumn-10-type-11-platforms-12": "monocolumn type platforms",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-context-3": "context",
+    "NE-PERSON-his": "his",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-data-29": "data",
+    "NE-TITLE-model": "model",
+    "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-28": "viscous"
+  },
+  "graph": [
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-objective-20-design-31",
+      "relation": "aims",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-2",
+      "relation": "are",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-related-10"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-minimum-34"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35",
+      "relation": "of",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-water-38"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-moonpools-4",
+      "relation": "is in",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-offshore-6-technology-7"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35",
+      "relation": "of",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-41"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-related-10",
+      "relation": "at",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-normally-9"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-hull-13-opening-14",
+      "relation": "is in",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-drilling-16-units-17"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studies-2",
+      "relation": "predict",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-water-10-dynamics-11"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studies-2",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-Several-1"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-water-10-dynamics-11",
+      "relation": "of",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-14"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-analytical-4-tools-5",
+      "relation": "obtain",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-analytical-4-tools-5",
+      "relation": "have",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8",
+      "relation": "at",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-results-11"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17",
+      "relation": "of",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-effects-20"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-19"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-good-16"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-experimental-10"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-6",
+      "relation": "was",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14",
+      "relation": "at",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-partnership-24"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-6",
+      "relation": "was studied through",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-partnership-24"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14",
+      "relation": "at",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-development-17"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-6",
+      "relation": "was studied during",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-development-17"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-development-17",
+      "relation": "of",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-concept-20"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-6",
+      "relation": "is in",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-monocolumn-10-type-11-platforms-12"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-use-6",
+      "relation": "was studied In",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-context-3"
+    },
+    {
+      "subject_id": "NE-PERSON-his",
+      "relation": "has",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-context-3"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-partnership-24",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-context-3",
+      "relation": "has",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-data-29",
+      "relation": "complete",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "0c8feb86-ed53-4518-8929-20e43783eecc-data-29",
+      "relation": "is",
+      "object_id": "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-28"
+    }
+  ],
+  "links": {
+    "0c8feb86-ed53-4518-8929-20e43783eecc-objective-20-design-31": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-motion-35": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-use-2": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-related-10": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-minimum-34": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-water-38": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpools-4": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-offshore-6-technology-7": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-41": [
+      "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-14"
+    ],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-normally-9": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-hull-13-opening-14": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-drilling-16-units-17": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-studies-2": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-water-10-dynamics-11": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-Several-1": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-14": [
+      "0c8feb86-ed53-4518-8929-20e43783eecc-moonpool-41"
+    ],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-analytical-4-tools-5": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-evaluation-17": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-results-11": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-effects-20": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-19": [
+      "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-28"
+    ],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-good-16": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-experimental-10": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-use-6": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-studied-14": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-partnership-24": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-development-17": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-concept-20": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-monocolumn-10-type-11-platforms-12": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-context-3": [],
+    "NE-PERSON-his": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-data-29": [],
+    "NE-TITLE-model": [],
+    "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-28": [
+      "0c8feb86-ed53-4518-8929-20e43783eecc-viscous-19"
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84878941411.txt",
+  "entities": {
+    "358ea47e-b418-4525-b65c-3998ab882728-area-9": "area",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-LOCATION-Grande-Cape": "Grande Cape",
+    "NE-CITY-Santa-Marta": "Santa Marta",
+    "358ea47e-b418-4525-b65c-3998ab882728-influence-25": "influence",
+    "NE-DATE-Current": "Current",
+    "358ea47e-b418-4525-b65c-3998ab882728-data-2": "data",
+    "358ea47e-b418-4525-b65c-3998ab882728-used-14": "used",
+    "358ea47e-b418-4525-b65c-3998ab882728-Hydrographic-1": "Hydrographic",
+    "358ea47e-b418-4525-b65c-3998ab882728-simulations-12": "simulations",
+    "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22": "period variability",
+    "NE-ORGANIZATION-CSM": "CSM",
+    "358ea47e-b418-4525-b65c-3998ab882728-seasonal-18": "seasonal",
+    "358ea47e-b418-4525-b65c-3998ab882728-conditions-26": "conditions",
+    "358ea47e-b418-4525-b65c-3998ab882728-area-32": "area",
+    "358ea47e-b418-4525-b65c-3998ab882728-27-34-°-35-S-36": "27 ° S",
+    "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-25": "oceanographic",
+    "358ea47e-b418-4525-b65c-3998ab882728-study-2": "study",
+    "358ea47e-b418-4525-b65c-3998ab882728-upwelling-7-episodes-8": "upwelling episodes",
+    "358ea47e-b418-4525-b65c-3998ab882728-associated-13": "associated",
+    "358ea47e-b418-4525-b65c-3998ab882728-focused-4": "focused",
+    "358ea47e-b418-4525-b65c-3998ab882728-events-16": "events",
+    "358ea47e-b418-4525-b65c-3998ab882728-Field-1-data-2-results-5": "Field data results",
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-9": "changes",
+    "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-12-structure-13": "oceanographic structure",
+    "358ea47e-b418-4525-b65c-3998ab882728-seasonal-8": "seasonal",
+    "358ea47e-b418-4525-b65c-3998ab882728-structure-13": "structure",
+    "358ea47e-b418-4525-b65c-3998ab882728-significant-7": "significant",
+    "358ea47e-b418-4525-b65c-3998ab882728-waters-7": "waters",
+    "358ea47e-b418-4525-b65c-3998ab882728-action-15": "action",
+    "358ea47e-b418-4525-b65c-3998ab882728-deeper-6": "deeper",
+    "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-17": "northeasterly",
+    "358ea47e-b418-4525-b65c-3998ab882728-winds-18": "winds",
+    "NE-TITLE-layer": "layer",
+    "358ea47e-b418-4525-b65c-3998ab882728-surface-10": "surface",
+    "NE-DATE-spring": "spring",
+    "358ea47e-b418-4525-b65c-3998ab882728-Coastal-1-events-3": "Coastal events",
+    "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9": "surface temperature minima",
+    "358ea47e-b418-4525-b65c-3998ab882728-upwelling-2": "upwelling",
+    "358ea47e-b418-4525-b65c-3998ab882728-south-11": "south",
+    "358ea47e-b418-4525-b65c-3998ab882728-observed-10": "observed",
+    "358ea47e-b418-4525-b65c-3998ab882728-events-6": "events",
+    "358ea47e-b418-4525-b65c-3998ab882728-pulses-9": "pulses",
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-12": "changes",
+    "358ea47e-b418-4525-b65c-3998ab882728-wind-15-direction-16": "wind direction",
+    "358ea47e-b418-4525-b65c-3998ab882728-associated-10": "associated",
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-41": "changes",
+    "358ea47e-b418-4525-b65c-3998ab882728-coastline-44-orientation-45": "coastline orientation",
+    "358ea47e-b418-4525-b65c-3998ab882728-location-10": "location",
+    "358ea47e-b418-4525-b65c-3998ab882728-synergy-18": "synergy",
+    "358ea47e-b418-4525-b65c-3998ab882728-induced-29": "induced",
+    "358ea47e-b418-4525-b65c-3998ab882728-particular-9": "particular",
+    "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-32": "northeasterly",
+    "358ea47e-b418-4525-b65c-3998ab882728-winds-33": "winds",
+    "358ea47e-b418-4525-b65c-3998ab882728-shelf-20-break-22-upwelling-23": "shelf break upwelling"
+  },
+  "graph": [
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-area-9",
+      "relation": "shelf off",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-area-9",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Grande-Cape"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-area-9",
+      "relation": "of",
+      "object_id": "NE-CITY-Santa-Marta"
+    },
+    {
+      "subject_id": "NE-LOCATION-Grande-Cape",
+      "relation": "is",
+      "object_id": "NE-CITY-Santa-Marta"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-area-9",
+      "relation": "is under",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-influence-25"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-influence-25",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-influence-25",
+      "relation": "of",
+      "object_id": "NE-DATE-Current"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-data-2",
+      "relation": "are",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-used-14"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-data-2",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-Hydrographic-1"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-simulations-12",
+      "relation": "characterize",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-CSM"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-seasonal-18"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-conditions-26"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-simulations-12",
+      "relation": "characterize period variability in",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-area-32"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-area-32",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-27-34-°-35-S-36"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-25"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-study-2",
+      "relation": "is focused on",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-upwelling-7-episodes-8"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-upwelling-7-episodes-8",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-associated-13"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-study-2",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-focused-4"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-upwelling-7-episodes-8",
+      "relation": "at",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-events-16"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-Field-1-data-2-results-5",
+      "relation": "indicate",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-12-structure-13"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9",
+      "relation": "is in",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-12-structure-13"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-seasonal-8"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-structure-13"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-9",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-significant-7"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-waters-7",
+      "relation": "reach surface layer due",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-action-15"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-waters-7",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-deeper-6"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-action-15",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-17"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-action-15",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-winds-18"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-waters-7",
+      "relation": "reach",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-surface-10"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-waters-7",
+      "relation": "reach surface layer During",
+      "object_id": "NE-DATE-spring"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-Coastal-1-events-3",
+      "relation": "are revealed by",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-Coastal-1-events-3",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-upwelling-2"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9",
+      "relation": "at",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-south-11"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-observed-10"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-CSM"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-events-6",
+      "relation": "occur in",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-pulses-9"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-pulses-9",
+      "relation": "at",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-12"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-pulses-9",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-wind-15-direction-16"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-12",
+      "relation": "is in",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-wind-15-direction-16"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-pulses-9",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-associated-10"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-changes-41",
+      "relation": "is in",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-coastline-44-orientation-45"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-location-10",
+      "relation": "results from",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-synergy-18"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-synergy-18",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-induced-29"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-location-10",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-particular-9"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-synergy-18",
+      "relation": "is",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-32"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-synergy-18",
+      "relation": "at",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-winds-33"
+    },
+    {
+      "subject_id": "358ea47e-b418-4525-b65c-3998ab882728-synergy-18",
+      "relation": "of",
+      "object_id": "358ea47e-b418-4525-b65c-3998ab882728-shelf-20-break-22-upwelling-23"
+    }
+  ],
+  "links": {
+    "358ea47e-b418-4525-b65c-3998ab882728-area-9": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-LOCATION-Grande-Cape": [],
+    "NE-CITY-Santa-Marta": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-influence-25": [],
+    "NE-DATE-Current": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-data-2": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-used-14": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-Hydrographic-1": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-simulations-12": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-period-21-variability-22": [],
+    "NE-ORGANIZATION-CSM": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-seasonal-18": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-conditions-26": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-area-32": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-27-34-°-35-S-36": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-25": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-study-2": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-upwelling-7-episodes-8": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-associated-13": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-focused-4": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-events-16": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-Field-1-data-2-results-5": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-9": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-oceanographic-12-structure-13": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-seasonal-8": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-structure-13": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-significant-7": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-waters-7": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-action-15": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-deeper-6": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-17": [
+      "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-32"
+    ],
+    "358ea47e-b418-4525-b65c-3998ab882728-winds-18": [],
+    "NE-TITLE-layer": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-surface-10": [],
+    "NE-DATE-spring": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-Coastal-1-events-3": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-surface-7-temperature-8-minima-9": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-upwelling-2": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-south-11": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-observed-10": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-events-6": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-pulses-9": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-12": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-wind-15-direction-16": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-associated-10": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-changes-41": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-coastline-44-orientation-45": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-location-10": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-synergy-18": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-induced-29": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-particular-9": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-32": [
+      "358ea47e-b418-4525-b65c-3998ab882728-northeasterly-17"
+    ],
+    "358ea47e-b418-4525-b65c-3998ab882728-winds-33": [],
+    "358ea47e-b418-4525-b65c-3998ab882728-shelf-20-break-22-upwelling-23": []
+  }
+}

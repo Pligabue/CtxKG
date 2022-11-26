@@ -1,0 +1,785 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085776372.txt",
+  "entities": {
+    "c59dc365-dd43-4a22-8bcc-877027142262-Evaluation-1": "Evaluation",
+    "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11": "uncertainties",
+    "c59dc365-dd43-4a22-8bcc-877027142262-geological-15": "geological",
+    "c59dc365-dd43-4a22-8bcc-877027142262-inherent-12": "inherent",
+    "c59dc365-dd43-4a22-8bcc-877027142262-associated-9": "associated",
+    "c59dc365-dd43-4a22-8bcc-877027142262-processes-16": "processes",
+    "c59dc365-dd43-4a22-8bcc-877027142262-one-7": "one",
+    "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-13": "uncertainties",
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-4-data-5": "soil data",
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2": "analysis",
+    "c59dc365-dd43-4a22-8bcc-877027142262-Statistical-1": "Statistical",
+    "c59dc365-dd43-4a22-8bcc-877027142262-work-3": "work",
+    "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7": "recommendations",
+    "NE-DATE-present": "present",
+    "c59dc365-dd43-4a22-8bcc-877027142262-normative-6": "normative",
+    "c59dc365-dd43-4a22-8bcc-877027142262-literature-9-models-10": "literature models",
+    "c59dc365-dd43-4a22-8bcc-877027142262-shear-16-strength-17": "shear strength",
+    "c59dc365-dd43-4a22-8bcc-877027142262-characterization-13": "characterization",
+    "c59dc365-dd43-4a22-8bcc-877027142262-statistical-12-characterization-13": "statistical characterization",
+    "c59dc365-dd43-4a22-8bcc-877027142262-offshore-23-soils-24": "offshore soils",
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2": "methodologies",
+    "c59dc365-dd43-4a22-8bcc-877027142262-selected-4": "selected",
+    "c59dc365-dd43-4a22-8bcc-877027142262-Three-1": "Three",
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-7": "analysis",
+    "c59dc365-dd43-4a22-8bcc-877027142262-value-10": "value",
+    "c59dc365-dd43-4a22-8bcc-877027142262-value-15": "value",
+    "c59dc365-dd43-4a22-8bcc-877027142262-mean-14": "mean",
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9": "characteristic",
+    "c59dc365-dd43-4a22-8bcc-877027142262-DNV-1-RP-3-C207-5": "DNV RP C207",
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11": "methodologies",
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-16-variables-17": "soil variables",
+    "c59dc365-dd43-4a22-8bcc-877027142262-dependent-13": "dependent",
+    "c59dc365-dd43-4a22-8bcc-877027142262-different-10": "different",
+    "c59dc365-dd43-4a22-8bcc-877027142262-data-2": "data",
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-27": "values",
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26": "characteristic",
+    "c59dc365-dd43-4a22-8bcc-877027142262-applied-22": "applied",
+    "c59dc365-dd43-4a22-8bcc-877027142262-Using-1": "Using",
+    "c59dc365-dd43-4a22-8bcc-877027142262-data-7": "data",
+    "c59dc365-dd43-4a22-8bcc-877027142262-abovementioned-17": "abovementioned",
+    "NE-MISC-CPTu": "CPTu",
+    "c59dc365-dd43-4a22-8bcc-877027142262-seventeen-9": "seventeen",
+    "c59dc365-dd43-4a22-8bcc-877027142262-tests-11": "tests",
+    "c59dc365-dd43-4a22-8bcc-877027142262-eight-15-wells-16": "eight wells",
+    "c59dc365-dd43-4a22-8bcc-877027142262-associated-12": "associated",
+    "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11-analysis-12": "comparative analysis",
+    "c59dc365-dd43-4a22-8bcc-877027142262-noted-3": "noted",
+    "c59dc365-dd43-4a22-8bcc-877027142262-NORSOK-6-recommendation-7": "NORSOK recommendation",
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-13": "values",
+    "c59dc365-dd43-4a22-8bcc-877027142262-highest-11": "highest",
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12": "characteristic",
+    "c59dc365-dd43-4a22-8bcc-877027142262-models-2": "models",
+    "NE-ORGANIZATION-DNV": "DNV",
+    "c59dc365-dd43-4a22-8bcc-877027142262-variables-3-methodology-4": "variables methodology",
+    "c59dc365-dd43-4a22-8bcc-877027142262-strength-8": "strength",
+    "c59dc365-dd43-4a22-8bcc-877027142262-dependent-2": "dependent",
+    "c59dc365-dd43-4a22-8bcc-877027142262-undrained-7": "undrained",
+    "c59dc365-dd43-4a22-8bcc-877027142262-strength-5": "strength",
+    "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14": "deviation",
+    "c59dc365-dd43-4a22-8bcc-877027142262-results-27": "results",
+    "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29": "obtained",
+    "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34": "deviation",
+    "c59dc365-dd43-4a22-8bcc-877027142262-described-8": "described",
+    "c59dc365-dd43-4a22-8bcc-877027142262-undrained-4": "undrained",
+    "c59dc365-dd43-4a22-8bcc-877027142262-accurate-26": "accurate",
+    "c59dc365-dd43-4a22-8bcc-877027142262-unit-23-weight-24": "unit weight",
+    "c59dc365-dd43-4a22-8bcc-877027142262-using-31": "using",
+    "c59dc365-dd43-4a22-8bcc-877027142262-better-7": "better",
+    "c59dc365-dd43-4a22-8bcc-877027142262-proportional-15": "proportional",
+    "c59dc365-dd43-4a22-8bcc-877027142262-constant-32": "constant",
+    "c59dc365-dd43-4a22-8bcc-877027142262-depth-18": "depth",
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodology-11": "methodology",
+    "c59dc365-dd43-4a22-8bcc-877027142262-standard-33": "standard",
+    "c59dc365-dd43-4a22-8bcc-877027142262-standard-13": "standard",
+    "c59dc365-dd43-4a22-8bcc-877027142262-procedure-4": "procedure",
+    "c59dc365-dd43-4a22-8bcc-877027142262-bound-3": "bound",
+    "NE-TITLE-general": "general",
+    "c59dc365-dd43-4a22-8bcc-877027142262-lower-2": "lower",
+    "c59dc365-dd43-4a22-8bcc-877027142262-non-conservative-13-results-14": "non-conservative results",
+    "c59dc365-dd43-4a22-8bcc-877027142262-meters-18-along-23-depth-25": "meters along depth",
+    "NE-ORDINAL-first": "first",
+    "c59dc365-dd43-4a22-8bcc-877027142262-differences-7": "differences",
+    "c59dc365-dd43-4a22-8bcc-877027142262-wells-12": "wells",
+    "c59dc365-dd43-4a22-8bcc-877027142262-dispersion-3": "dispersion",
+    "c59dc365-dd43-4a22-8bcc-877027142262-applications-5": "applications",
+    "c59dc365-dd43-4a22-8bcc-877027142262-larger-2": "larger",
+    "c59dc365-dd43-4a22-8bcc-877027142262-different-7": "different",
+    "c59dc365-dd43-4a22-8bcc-877027142262-approaches-11": "approaches",
+    "c59dc365-dd43-4a22-8bcc-877027142262-order-13-to-14-reliably-15-characterize-16": "order to reliably characterize",
+    "c59dc365-dd43-4a22-8bcc-877027142262-based-10": "based",
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-28": "values",
+    "c59dc365-dd43-4a22-8bcc-877027142262-process-39": "process",
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27": "characteristic",
+    "c59dc365-dd43-4a22-8bcc-877027142262-top-41": "top",
+    "NE-TITLE-designer": "designer",
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-10-heterogeneity-11": "soil heterogeneity",
+    "c59dc365-dd43-4a22-8bcc-877027142262-information-20": "information",
+    "c59dc365-dd43-4a22-8bcc-877027142262-additive-19": "additive",
+    "c59dc365-dd43-4a22-8bcc-877027142262-scattering-8": "scattering",
+    "c59dc365-dd43-4a22-8bcc-877027142262-hole-42-drilling-43-applications-44": "hole drilling applications",
+    "c59dc365-dd43-4a22-8bcc-877027142262-decision-36": "decision",
+    "c59dc365-dd43-4a22-8bcc-877027142262-making-38": "making",
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31": "soil properties",
+    "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-17": "recommendations",
+    "c59dc365-dd43-4a22-8bcc-877027142262-statistical-16": "statistical",
+    "c59dc365-dd43-4a22-8bcc-877027142262-papers-8": "papers",
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-12": "analysis",
+    "c59dc365-dd43-4a22-8bcc-877027142262-few-7": "few",
+    "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11": "comparative",
+    "c59dc365-dd43-4a22-8bcc-877027142262-authors-3-knowledge-5": "authors knowledge"
+  },
+  "graph": [
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-Evaluation-1",
+      "relation": "is associated with",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-geological-15"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-inherent-12"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-Evaluation-1",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-associated-9"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-processes-16"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-one-7",
+      "relation": "deal rationally with",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-one-7",
+      "relation": "Statistical analysis of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-4-data-5"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2",
+      "relation": "allows",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-one-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-Statistical-1"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-one-7",
+      "relation": "analysis of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-4-data-5"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-one-7",
+      "relation": "deal with",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-work-3",
+      "relation": "addresses",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-work-3",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-normative-6"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "work",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-literature-9-models-10"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-shear-16-strength-17"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-characterization-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-statistical-12-characterization-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-statistical-12-characterization-13",
+      "relation": "is in",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-offshore-23-soils-24"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7",
+      "relation": "present work",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-literature-9-models-10"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2",
+      "relation": "were",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-selected-4"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2",
+      "relation": "amount to",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-Three-1"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2",
+      "relation": "were selected for",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-value-10",
+      "relation": "be",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-value-15"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-value-15",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-mean-14"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-value-10",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-DNV-1-RP-3-C207-5",
+      "relation": "suggests",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-16-variables-17"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-dependent-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-different-10"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-2",
+      "relation": "obtain",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-27"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-27",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-2",
+      "relation": "were",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-applied-22"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-2",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-Using-1"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2",
+      "relation": "is carried out with",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-abovementioned-17"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "of",
+      "object_id": "NE-MISC-CPTu"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "case",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-seventeen-9"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-tests-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-eight-15-wells-16"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-data-7",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-associated-12"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11-analysis-12",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-noted-3"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-NORSOK-6-recommendation-7",
+      "relation": "leads to",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-13",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-highest-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-13",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-models-2",
+      "relation": "suggested by",
+      "object_id": "NE-ORGANIZATION-DNV"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-variables-3-methodology-4",
+      "relation": "fits",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-8"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-variables-3-methodology-4",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-dependent-2"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-8",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-undrained-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-variables-3-methodology-4",
+      "relation": "fits accurately",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-8"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-5",
+      "relation": "using methodology for",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-results-27",
+      "relation": "are",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29",
+      "relation": "by",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-5",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-described-8"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-5",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-undrained-4"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-results-27",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-accurate-26"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-5",
+      "relation": "using methodology",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-results-27",
+      "relation": "are obtained by",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-unit-23-weight-24"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-using-31"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-described-8",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-better-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-proportional-15"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-constant-32"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-depth-18"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-strength-5",
+      "relation": "using",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-methodology-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-standard-33"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-standard-13"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-procedure-4",
+      "relation": "proposed by",
+      "object_id": "NE-ORGANIZATION-DNV"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-procedure-4",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-bound-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-DNV",
+      "relation": "is",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-procedure-4",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-lower-2"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-non-conservative-13-results-14",
+      "relation": "is in",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-meters-18-along-23-depth-25"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-meters-18-along-23-depth-25",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-differences-7",
+      "relation": "increase for",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-wells-12"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-dispersion-3",
+      "relation": "suggests",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-applications-5"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-dispersion-3",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-larger-2"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-applications-5",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-different-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-applications-5",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-approaches-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-applications-5",
+      "relation": "is in",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-order-13-to-14-reliably-15-characterize-16"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-applications-5",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-based-10"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-28",
+      "relation": "aiming for",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-28",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-top-41"
+    },
+    {
+      "subject_id": "NE-TITLE-designer",
+      "relation": "aiming for",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-10-heterogeneity-11",
+      "relation": "brings",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-information-20"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-information-20",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-additive-19"
+    },
+    {
+      "subject_id": "NE-TITLE-designer",
+      "relation": "set",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-28"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-scattering-8",
+      "relation": "brings",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-information-20"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39",
+      "relation": "of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-hole-42-drilling-43-applications-44"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39",
+      "relation": "at",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-decision-36"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-process-39",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-making-38"
+    },
+    {
+      "subject_id": "NE-TITLE-designer",
+      "relation": "set",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-values-28"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-information-20",
+      "relation": "comparing",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-17"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-17",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-statistical-16"
+    },
+    {
+      "subject_id": "NE-TITLE-designer",
+      "relation": "values of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31"
+    },
+    {
+      "subject_id": "NE-TITLE-designer",
+      "relation": "characteristic values of",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-papers-8",
+      "relation": "perform",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-12"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-papers-8",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-few-7"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-12",
+      "relation": "is",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11"
+    },
+    {
+      "subject_id": "c59dc365-dd43-4a22-8bcc-877027142262-papers-8",
+      "relation": "perform analysis To",
+      "object_id": "c59dc365-dd43-4a22-8bcc-877027142262-authors-3-knowledge-5"
+    }
+  ],
+  "links": {
+    "c59dc365-dd43-4a22-8bcc-877027142262-Evaluation-1": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-geological-15": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-inherent-12": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-associated-9": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-associated-12"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-processes-16": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-one-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-uncertainties-13": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-4-data-5": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-Statistical-1": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-work-3": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-7": [],
+    "NE-DATE-present": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-normative-6": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-literature-9-models-10": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-shear-16-strength-17": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-characterization-13": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-statistical-12-characterization-13": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-offshore-23-soils-24": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-selected-4": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-Three-1": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-value-10": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-value-15": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-mean-14": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-DNV-1-RP-3-C207-5": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-11": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-methodologies-2"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-16-variables-17": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-dependent-13": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-dependent-2"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-different-10": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-different-7"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-data-2": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-27": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-values-13",
+      "c59dc365-dd43-4a22-8bcc-877027142262-values-28"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-applied-22": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-Using-1": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-data-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-abovementioned-17": [],
+    "NE-MISC-CPTu": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-seventeen-9": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-tests-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-eight-15-wells-16": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-associated-12": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-associated-9"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11-analysis-12": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-noted-3": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-NORSOK-6-recommendation-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-13": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-values-27"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-highest-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-models-2": [],
+    "NE-ORGANIZATION-DNV": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-variables-3-methodology-4": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-strength-8": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-dependent-2": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-dependent-13"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-undrained-7": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-undrained-4"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-strength-5": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-results-27": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-obtained-29": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-deviation-34": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-deviation-14"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-described-8": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-undrained-4": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-undrained-7"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-accurate-26": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-unit-23-weight-24": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-using-31": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-better-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-proportional-15": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-constant-32": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-depth-18": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-methodology-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-standard-33": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-standard-13"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-standard-13": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-standard-33"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-procedure-4": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-bound-3": [],
+    "NE-TITLE-general": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-lower-2": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-non-conservative-13-results-14": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-meters-18-along-23-depth-25": [],
+    "NE-ORDINAL-first": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-differences-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-wells-12": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-dispersion-3": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-applications-5": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-larger-2": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-different-7": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-different-10"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-approaches-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-order-13-to-14-reliably-15-characterize-16": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-based-10": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-values-28": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-values-27"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-process-39": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-27": [
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-9",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-26",
+      "c59dc365-dd43-4a22-8bcc-877027142262-characteristic-12"
+    ],
+    "c59dc365-dd43-4a22-8bcc-877027142262-top-41": [],
+    "NE-TITLE-designer": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-10-heterogeneity-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-information-20": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-additive-19": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-scattering-8": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-hole-42-drilling-43-applications-44": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-decision-36": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-making-38": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-soil-30-properties-31": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-recommendations-17": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-statistical-16": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-papers-8": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-analysis-12": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-few-7": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-comparative-11": [],
+    "c59dc365-dd43-4a22-8bcc-877027142262-authors-3-knowledge-5": []
+  }
+}

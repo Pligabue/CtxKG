@@ -1,0 +1,92 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85062607406.txt",
+  "entities": {
+    "NE-CITY-Bay": "Bay",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-cm-1-−1-2": "cm −1",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-Cl-20-Br-22-ratio-23": "Cl Br ratio",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-chemical-17-ratios-18": "chemical ratios",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-hydrogeochemical-25-evolution-26": "hydrogeochemical evolution",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-region-31": "region",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-H-117": "H",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-domestic-131-effluents-132": "domestic effluents",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-salinity-2-origins-3": "salinity origins",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-should-4-explained-6-by-7-4-8-hypotheses-9": "should explained by 4 hypotheses",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-142": "groundwater",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-high-144-salinity-145": "high salinity",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-97": "groundwater",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-low-99-Cl-100-Br-102-ratio-103": "low Cl Br ratio",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-influence-170": "influence",
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-aquifer-176": "aquifer"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of system is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-cm-1-−1-2",
+      "relation": "allied to",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-Cl-20-Br-22-ratio-23"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-cm-1-−1-2",
+      "relation": "allied to",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-chemical-17-ratios-18"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-hydrogeochemical-25-evolution-26",
+      "relation": "is in",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-region-31"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-H-117",
+      "relation": "content of",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-domestic-131-effluents-132"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-salinity-2-origins-3",
+      "relation": "should",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-should-4-explained-6-by-7-4-8-hypotheses-9"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-142",
+      "relation": "is with",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-high-144-salinity-145"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-97",
+      "relation": "is with",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-low-99-Cl-100-Br-102-ratio-103"
+    },
+    {
+      "subject_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-influence-170",
+      "relation": "is in",
+      "object_id": "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-aquifer-176"
+    }
+  ],
+  "links": {
+    "NE-CITY-Bay": [],
+    "NE-COUNTRY-Brazil": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-cm-1-−1-2": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-Cl-20-Br-22-ratio-23": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-chemical-17-ratios-18": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-hydrogeochemical-25-evolution-26": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-region-31": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-H-117": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-domestic-131-effluents-132": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-salinity-2-origins-3": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-should-4-explained-6-by-7-4-8-hypotheses-9": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-142": [
+      "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-97"
+    ],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-high-144-salinity-145": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-97": [
+      "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-groundwater-142"
+    ],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-low-99-Cl-100-Br-102-ratio-103": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-influence-170": [],
+    "fe7fdfd4-92e4-4599-8d5d-a65492ff0c56-aquifer-176": []
+  }
+}

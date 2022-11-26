@@ -1,0 +1,539 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85070704005.txt",
+  "entities": {
+    "b4a8b90d-7253-4581-99da-486e61291b69-Rifting-1-stress-5-regime-6": "Rifting stress regime",
+    "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-9-continental-10-margin-11": "equatorial continental margin",
+    "b4a8b90d-7253-4581-99da-486e61291b69-normal-4": "normal",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-22-regimes-23": "stress regimes",
+    "b4a8b90d-7253-4581-99da-486e61291b69-strike-34-slip-36": "strike slip",
+    "NE-COUNTRY-America": "America",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-18": "Cretaceous",
+    "b4a8b90d-7253-4581-99da-486e61291b69-we-5": "we",
+    "b4a8b90d-7253-4581-99da-486e61291b69-postrift-8": "postrift",
+    "b4a8b90d-7253-4581-99da-486e61291b69-study-3": "study",
+    "NE-LOCATION-Potiguar-Basin": "Potiguar Basin",
+    "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32": "equatorial margin",
+    "b4a8b90d-7253-4581-99da-486e61291b69-easternmost-27-basin-28": "easternmost basin",
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-25-evolution-26": "stress evolution",
+    "b4a8b90d-7253-4581-99da-486e61291b69-role-41": "role",
+    "b4a8b90d-7253-4581-99da-486e61291b69-basin-43-inversion-44": "basin inversion",
+    "b4a8b90d-7253-4581-99da-486e61291b69-sedimentation-46": "sedimentation",
+    "b4a8b90d-7253-4581-99da-486e61291b69-field-3-data-21": "field data",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34": "Cretaceous",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Late-33": "Late",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Quaternary-37": "Quaternary",
+    "b4a8b90d-7253-4581-99da-486e61291b69-we-5-results-2": "we results",
+    "b4a8b90d-7253-4581-99da-486e61291b69-rifting-14": "rifting",
+    "b4a8b90d-7253-4581-99da-486e61291b69-presence-5": "presence",
+    "b4a8b90d-7253-4581-99da-486e61291b69-two-7-strike-8-slip-10-stress-11-regimes-12": "two strike slip stress regimes",
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4": "stress field",
+    "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27": "maximum compression",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11": "Cretaceous",
+    "b4a8b90d-7253-4581-99da-486e61291b69-middle-14": "middle",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Late-10": "Late",
+    "NE-ORDINAL-first": "first",
+    "b4a8b90d-7253-4581-99da-486e61291b69-N-20-S-22": "N S",
+    "NE-MISC-Miocene": "Miocene",
+    "b4a8b90d-7253-4581-99da-486e61291b69-oriented-24": "oriented",
+    "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-26": "subhorizontal",
+    "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21": "E-W",
+    "NE-LOCATION-Miocene": "Miocene",
+    "NE-ORDINAL-second": "second",
+    "b4a8b90d-7253-4581-99da-486e61291b69-combined-27": "combined",
+    "b4a8b90d-7253-4581-99da-486e61291b69-day-17": "day",
+    "b4a8b90d-7253-4581-99da-486e61291b69-present-16": "present",
+    "b4a8b90d-7253-4581-99da-486e61291b69-place-9": "place",
+    "b4a8b90d-7253-4581-99da-486e61291b69-NW-23-SE-25-compression-26": "NW SE compression",
+    "b4a8b90d-7253-4581-99da-486e61291b69-middle-12": "middle",
+    "b4a8b90d-7253-4581-99da-486e61291b69-N-29-S-31": "N S",
+    "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-20": "subhorizontal",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Emplacement-1": "Emplacement",
+    "b4a8b90d-7253-4581-99da-486e61291b69-peak-13": "peak",
+    "b4a8b90d-7253-4581-99da-486e61291b69-SF1-15": "SF1",
+    "b4a8b90d-7253-4581-99da-486e61291b69-faults-8": "faults",
+    "b4a8b90d-7253-4581-99da-486e61291b69-transtensional-7": "transtensional",
+    "NE-TITLE-principal": "principal",
+    "b4a8b90d-7253-4581-99da-486e61291b69-strata-26": "strata",
+    "b4a8b90d-7253-4581-99da-486e61291b69-uplifted-28": "uplifted",
+    "NE-TITLE-marine": "marine",
+    "b4a8b90d-7253-4581-99da-486e61291b69-where-23": "where",
+    "b4a8b90d-7253-4581-99da-486e61291b69-uplift-2": "uplift",
+    "b4a8b90d-7253-4581-99da-486e61291b69-dome-12": "dome",
+    "b4a8b90d-7253-4581-99da-486e61291b69-displacement-5": "displacement",
+    "b4a8b90d-7253-4581-99da-486e61291b69-alluvial-7": "alluvial",
+    "b4a8b90d-7253-4581-99da-486e61291b69-channels-8": "channels",
+    "NE-PERSON-Anticlines": "Anticlines",
+    "b4a8b90d-7253-4581-99da-486e61291b69-SF1-16": "SF1",
+    "b4a8b90d-7253-4581-99da-486e61291b69-faults-13": "faults",
+    "b4a8b90d-7253-4581-99da-486e61291b69-transpression-4": "transpression",
+    "b4a8b90d-7253-4581-99da-486e61291b69-striking-12": "striking",
+    "b4a8b90d-7253-4581-99da-486e61291b69-main-7": "main",
+    "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6": "shifts inversions",
+    "b4a8b90d-7253-4581-99da-486e61291b69-areas-10": "areas",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "b4a8b90d-7253-4581-99da-486e61291b69-consistent-17": "consistent",
+    "b4a8b90d-7253-4581-99da-486e61291b69-Similar-1": "Similar",
+    "b4a8b90d-7253-4581-99da-486e61291b69-rise-21": "rise",
+    "NE-MISC-Neogene": "Neogene",
+    "b4a8b90d-7253-4581-99da-486e61291b69-other-9": "other",
+    "b4a8b90d-7253-4581-99da-486e61291b69-margin-15": "margin",
+    "b4a8b90d-7253-4581-99da-486e61291b69-continental-14": "continental"
+  },
+  "graph": [
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Rifting-1-stress-5-regime-6",
+      "relation": "is in",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-9-continental-10-margin-11"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Rifting-1-stress-5-regime-6",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-normal-4"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-9-continental-10-margin-11",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-22-regimes-23",
+      "relation": "induce",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-strike-34-slip-36"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-22-regimes-23",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Rifting-1-stress-5-regime-6",
+      "relation": "ceased during",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-18"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5",
+      "relation": "explore",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-postrift-8"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5",
+      "relation": "explore postrift In",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-study-3"
+    },
+    {
+      "subject_id": "NE-LOCATION-Potiguar-Basin",
+      "relation": "basin in",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-easternmost-27-basin-28",
+      "relation": "is in",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-25-evolution-26",
+      "relation": "discussing",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-role-41"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-role-41",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-basin-43-inversion-44"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-role-41",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-sedimentation-46"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5",
+      "relation": "use",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-field-3-data-21"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5",
+      "relation": "constrain",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-25-evolution-26"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-25-evolution-26",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Potiguar-Basin"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5",
+      "relation": "constrain stress evolution from",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Late-33"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34",
+      "relation": "at",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Quaternary-37"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5-results-2",
+      "relation": "indicate presence after",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-rifting-14"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-we-5-results-2",
+      "relation": "indicate",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-presence-5"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-presence-5",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-two-7-strike-8-slip-10-stress-11-regimes-12"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "consisted of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "occurred from",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-middle-14"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Late-10"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-N-20-S-22"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11",
+      "relation": "at",
+      "object_id": "NE-MISC-Miocene"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-oriented-24"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-26"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "included",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "took place from",
+      "object_id": "NE-LOCATION-Miocene"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-second"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-combined-27"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "took place to",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-day-17"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-day-17",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-present-16"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4",
+      "relation": "took",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-place-9"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-NW-23-SE-25-compression-26"
+    },
+    {
+      "subject_id": "NE-LOCATION-Miocene",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-middle-12"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21",
+      "relation": "at",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-N-29-S-31"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-20"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Emplacement-1",
+      "relation": "occurred with",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-peak-13"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-peak-13",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-SF1-15"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-Emplacement-1",
+      "relation": "occurred along",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-faults-8"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-faults-8",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-transtensional-7"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-peak-13",
+      "relation": "is",
+      "object_id": "NE-TITLE-principal"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-strata-26",
+      "relation": "were",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-uplifted-28"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-strata-26",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-uplifted-28",
+      "relation": "at",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-where-23"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-strata-26",
+      "relation": "of",
+      "object_id": "NE-MISC-Miocene"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-uplift-2",
+      "relation": "induced displacement away",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-dome-12"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-uplift-2",
+      "relation": "induced",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-displacement-5"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-displacement-5",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-alluvial-7"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-displacement-5",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-channels-8"
+    },
+    {
+      "subject_id": "NE-PERSON-Anticlines",
+      "relation": "formed during",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-SF1-16"
+    },
+    {
+      "subject_id": "NE-PERSON-Anticlines",
+      "relation": "formed along",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-faults-13"
+    },
+    {
+      "subject_id": "NE-PERSON-Anticlines",
+      "relation": "formed by",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-transpression-4"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-faults-13",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-striking-12"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-faults-13",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-main-7"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6",
+      "relation": "documented in",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6",
+      "relation": "are",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-consistent-17"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-Similar-1"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6",
+      "relation": "are consistent with",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-rise-21"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-rise-21",
+      "relation": "of",
+      "object_id": "NE-MISC-Neogene"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-other-9"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+      "relation": "of",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-margin-15"
+    },
+    {
+      "subject_id": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+      "relation": "is",
+      "object_id": "b4a8b90d-7253-4581-99da-486e61291b69-continental-14"
+    }
+  ],
+  "links": {
+    "b4a8b90d-7253-4581-99da-486e61291b69-Rifting-1-stress-5-regime-6": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-9-continental-10-margin-11": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-normal-4": [],
+    "NE-COUNTRY-Brazil": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-22-regimes-23": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-strike-34-slip-36": [],
+    "NE-COUNTRY-America": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-18": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-we-5": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-postrift-8": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-study-3": [],
+    "NE-LOCATION-Potiguar-Basin": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-31-margin-32": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-equatorial-9-continental-10-margin-11"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-easternmost-27-basin-28": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-25-evolution-26": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-role-41": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-basin-43-inversion-44": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-sedimentation-46": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-field-3-data-21": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Late-33": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-Late-10"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Quaternary-37": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-we-5-results-2": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-rifting-14": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-presence-5": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-two-7-strike-8-slip-10-stress-11-regimes-12": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-stress-3-field-4": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-maximum-25-compression-27": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-11": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-Cretaceous-34"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-middle-14": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-middle-12"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Late-10": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-Late-33"
+    ],
+    "NE-ORDINAL-first": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-N-20-S-22": [],
+    "NE-MISC-Miocene": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-oriented-24": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-26": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-20"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-E-W-21": [],
+    "NE-LOCATION-Miocene": [],
+    "NE-ORDINAL-second": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-combined-27": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-day-17": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-present-16": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-place-9": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-NW-23-SE-25-compression-26": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-middle-12": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-middle-14"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-N-29-S-31": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-20": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-subhorizontal-26"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Emplacement-1": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-peak-13": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-SF1-15": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-faults-8": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-faults-13"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-transtensional-7": [],
+    "NE-TITLE-principal": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-strata-26": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-uplifted-28": [],
+    "NE-TITLE-marine": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-where-23": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-uplift-2": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-dome-12": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-displacement-5": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-alluvial-7": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-channels-8": [],
+    "NE-PERSON-Anticlines": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-SF1-16": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-faults-13": [
+      "b4a8b90d-7253-4581-99da-486e61291b69-faults-8"
+    ],
+    "b4a8b90d-7253-4581-99da-486e61291b69-transpression-4": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-striking-12": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-main-7": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-shifts-2-inversions-6": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-areas-10": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-consistent-17": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-Similar-1": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-rise-21": [],
+    "NE-MISC-Neogene": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-other-9": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-margin-15": [],
+    "b4a8b90d-7253-4581-99da-486e61291b69-continental-14": []
+  }
+}

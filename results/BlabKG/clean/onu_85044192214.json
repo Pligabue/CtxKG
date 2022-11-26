@@ -1,0 +1,231 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85044192214.txt",
+  "entities": {
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-exception-22": "exception",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-global-3-onset-4-of-5-more-6-complex-7-drilling-10-conditions-11": "global onset of more complex drilling conditions",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-asset-7-development-8": "asset development",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-integrity-12-assurance-13": "integrity assurance",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-well-11": "well",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-government-2-oversight-3": "government oversight",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Increased-1": "Increased",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-intervention-4-tools-5": "intervention tools",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-are-6-re-engineered-8": "are re-engineered",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-turn-2": "turn",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-challenges-13": "challenges",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Ultrasonic-1-pulse-2-echo-4-technology-5": "Ultrasonic pulse echo technology",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9": "has used",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-successfully-8": "successfully",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-14-evaluation-15-behind-16-casing-17": "cement evaluation behind casing",
+    "NE-DURATION-years": "years",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-many-11": "many",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5": "technology",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-issue-9": "issue",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-advanced-3": "advanced",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-ultrasonic-4": "ultrasonic",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-5-impedance-6": "cement impedance",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12": "casing",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-up-14": "up",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-1.2-16": "1.2",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Laboratory-1": "Laboratory",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-indicate-3": "indicate",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-obtained-10": "obtained",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-reliably-9": "reliably",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-service-6": "service",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-can-7-benefit-11": "can benefit",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-particular-10": "particular",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-novel-5": "novel",
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-application-2": "application",
+    "NE-LOCATION-Gulf-of": "Gulf",
+    "NE-COUNTRY-Mexico": "Mexico"
+  },
+  "graph": [
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-exception-22",
+      "relation": "is With",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-global-3-onset-4-of-5-more-6-complex-7-drilling-10-conditions-11"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-asset-7-development-8",
+      "relation": "emphasizing",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-integrity-12-assurance-13"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-integrity-12-assurance-13",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-well-11"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-government-2-oversight-3",
+      "relation": "has also impacted",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-asset-7-development-8"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-government-2-oversight-3",
+      "relation": "has impacted",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-asset-7-development-8"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-government-2-oversight-3",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Increased-1"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-intervention-4-tools-5",
+      "relation": "are",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-are-6-re-engineered-8"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-are-6-re-engineered-8",
+      "relation": "case",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-turn-2"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-intervention-4-tools-5",
+      "relation": "cater to",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-challenges-13"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Ultrasonic-1-pulse-2-echo-4-technology-5",
+      "relation": "has",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-successfully-8"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-14-evaluation-15-behind-16-casing-17"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9",
+      "relation": "at",
+      "object_id": "NE-DURATION-years"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-many-11"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5",
+      "relation": "However can resolve",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-issue-9"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5",
+      "relation": "can resolve",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-issue-9"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-advanced-3"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-ultrasonic-4"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-5-impedance-6",
+      "relation": "be reliably obtained behind",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-up-14"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-5-impedance-6",
+      "relation": "be obtained behind",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-1.2-16"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Laboratory-1",
+      "relation": "results",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-indicate-3"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-5-impedance-6",
+      "relation": "be",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-obtained-10"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-obtained-10",
+      "relation": "at",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-reliably-9"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-service-6",
+      "relation": "application of be",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-can-7-benefit-11"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-can-7-benefit-11",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-particular-10"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-service-6",
+      "relation": "is",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-novel-5"
+    },
+    {
+      "subject_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-application-2",
+      "relation": "can of",
+      "object_id": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-can-7-benefit-11"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Mexico"
+    }
+  ],
+  "links": {
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-exception-22": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-global-3-onset-4-of-5-more-6-complex-7-drilling-10-conditions-11": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-asset-7-development-8": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-integrity-12-assurance-13": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-well-11": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-government-2-oversight-3": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Increased-1": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-intervention-4-tools-5": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-are-6-re-engineered-8": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-turn-2": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-challenges-13": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Ultrasonic-1-pulse-2-echo-4-technology-5": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-has-6-used-9": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-successfully-8": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-14-evaluation-15-behind-16-casing-17": [],
+    "NE-DURATION-years": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-many-11": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-technology-5": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-issue-9": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-advanced-3": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-ultrasonic-4": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-cement-5-impedance-6": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-casing-12": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-up-14": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-1.2-16": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-Laboratory-1": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-indicate-3": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-obtained-10": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-reliably-9": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-service-6": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-can-7-benefit-11": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-particular-10": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-novel-5": [],
+    "02ca6c41-1c18-40a7-87f2-042cfa1083d4-application-2": [],
+    "NE-LOCATION-Gulf-of": [],
+    "NE-COUNTRY-Mexico": []
+  }
+}

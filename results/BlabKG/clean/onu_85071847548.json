@@ -1,0 +1,370 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85071847548.txt",
+  "entities": {
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-Mapping-1": "Mapping",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9": "has performed",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-successfully-10": "successfully",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-past-13": "past",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-method-2": "method",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10": "gas",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-highly-7": "highly",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-differentiating-5": "differentiating",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturated-8": "saturated",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-free-9": "free",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistive-6": "resistive",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrates-20": "hydrates",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-crucial-22": "crucial",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-host-19": "host",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4": "CSEM survey",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9": "acquired",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-3D-2": "3D",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22": "hydrate resistivity mapping",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-objective-26": "objective",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Pelotas": "Pelotas",
+    "NE-DATE-2014": "2014",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-offshore-16": "offshore",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-main-25": "main",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-survey-2": "survey",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-4": "acquired",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-context-7": "context",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CONEGAS-10-research-11-project-12": "CONEGAS research project",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-We-1": "We",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-data-5": "data",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-a-priori-15-information-16": "a-priori information",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-process-19": "process",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3": "CSEM",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-near-7-surface-9-geophysical-10-data-11-including-12-2D-13-seismic-14": "near surface geophysical data including 2D seismic",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-13": "interpretation",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2": "integration",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17": "correlation",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-excellent-15": "excellent",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-spatial-16": "spatial",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-same-5": "same",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-derived-8": "derived",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-22": "features",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2": "interpretation",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-6": "features",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-new-5": "new",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-possible-8-hydrate-9-presence-10": "possible hydrate presence",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7": "resistivity volume",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturation-10-volume-11": "saturation volume",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-subsurface-14": "subsurface",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5": "inverted",
+    "NE-PERSON-Archie": "Archie",
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-equation-18": "equation"
+  },
+  "graph": [
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-Mapping-1",
+      "relation": "has",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9",
+      "relation": "at",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-successfully-10"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9",
+      "relation": "at",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-past-13"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-method-2",
+      "relation": "relies on",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+      "relation": "at",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-highly-7"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-differentiating-5"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturated-8"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-free-9"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistive-6"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrates-20",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-crucial-22"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrates-20",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-host-19"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "was acquired in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "was",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-3D-2"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9",
+      "relation": "at",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "was acquired with",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22",
+      "relation": "of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-objective-26"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "was acquired in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Pelotas"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9",
+      "relation": "at",
+      "object_id": "NE-DATE-2014"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-offshore-16"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4",
+      "relation": "was acquired in",
+      "object_id": "NE-DATE-2014"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-main-25"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Pelotas"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-survey-2",
+      "relation": "was",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-4"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-survey-2",
+      "relation": "was acquired within",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-context-7"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-context-7",
+      "relation": "of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CONEGAS-10-research-11-project-12"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-We-1",
+      "relation": "inverted",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-data-5"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-data-5",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-4"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-a-priori-15-information-16",
+      "relation": "is in",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-process-19"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3",
+      "relation": "interpretation of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-near-7-surface-9-geophysical-10-data-11-including-12-2D-13-seismic-14"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-13",
+      "relation": "revealed correlation Upon",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-13",
+      "relation": "revealed",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-excellent-15"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2",
+      "relation": "of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-spatial-16"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2",
+      "relation": "of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-same-5"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-derived-8"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17",
+      "relation": "is with",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-22"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2",
+      "relation": "revealed",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-6"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2",
+      "relation": "further revealed",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-6"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-6",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-new-5"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2",
+      "relation": "further revealed features with",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-possible-8-hydrate-9-presence-10"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2",
+      "relation": "revealed features with",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-possible-8-hydrate-9-presence-10"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7",
+      "relation": "derive",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturation-10-volume-11"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturation-10-volume-11",
+      "relation": "of",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-subsurface-14"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-We-1",
+      "relation": "used",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7",
+      "relation": "is",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5"
+    },
+    {
+      "subject_id": "NE-PERSON-Archie",
+      "relation": "has",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-equation-18"
+    },
+    {
+      "subject_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-We-1",
+      "relation": "further used",
+      "object_id": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7"
+    }
+  ],
+  "links": {
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-Mapping-1": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-successfully-10": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-past-13": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-method-2": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-highly-7": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-differentiating-5": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturated-8": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-free-9": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistive-6": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrates-20": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-crucial-22": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-host-19": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3-survey-4": [],
+    "NE-COUNTRY-Brazil": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-9": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-3D-2": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-hydrate-20-resistivity-21-mapping-22": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-objective-26": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Pelotas": [],
+    "NE-DATE-2014": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-offshore-16": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-main-25": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-survey-2": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-4": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-context-7": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CONEGAS-10-research-11-project-12": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-We-1": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-data-5": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-a-priori-15-information-16": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-process-19": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-CSEM-3": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-near-7-surface-9-geophysical-10-data-11-including-12-2D-13-seismic-14": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-13": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-integration-2": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-correlation-17": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-excellent-15": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-spatial-16": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-same-5": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-derived-8": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-22": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-interpretation-2": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-features-6": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-new-5": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-possible-8-hydrate-9-presence-10": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-resistivity-6-volume-7": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-saturation-10-volume-11": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-subsurface-14": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5": [],
+    "NE-PERSON-Archie": [],
+    "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-equation-18": []
+  }
+}

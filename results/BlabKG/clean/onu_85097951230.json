@@ -1,0 +1,523 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097951230.txt",
+  "entities": {
+    "d6883d36-bf69-406e-b609-e85a3744a46f-composition-2": "composition",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-dynamic-8": "dynamic",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3": "variation",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6": "fish fauna",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-it-10": "it",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-microhabitats-19": "microhabitats",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-estuaries-8": "estuaries",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-associated-17": "associated",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-possible-12": "possible",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-assemblage-2-composition-3": "assemblage composition",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-derived-9": "derived",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-habitat-11-selection-12": "habitat selection",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-apparently-8": "apparently",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-aim-2": "aim",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10": "structure",
+    "NE-LOCATION-Paranaguá": "Paranaguá",
+    "NE-CITY-Bay": "Bay",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-its-21-relationship-22": "its relationship",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-biotic-24-factors-27": "biotic factors",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-demersal-13": "demersal",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-collections-6": "collections",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-conducted-8": "conducted",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-end-3": "end",
+    "NE-SET-monthly": "monthly",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-five-22-sites-23": "five sites",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-26-infralittoral-27": "shallow infralittoral",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-matter-4": "matter",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-recorded-28": "recorded",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-organic-3": "organic",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Biotic-1": "Biotic",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-sampling-30": "sampling",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-individuals-5": "individuals",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-captured-7": "captured",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-6,623-4": "6,623",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1": "Sciaenidae",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-11-12-species-13": "11 species",
+    "NE-TITLE-representative": "representative",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Ariidae-16": "Ariidae",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abundance-24": "abundance",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7": "terms",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-most-19": "most",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-richness-9": "richness",
+    "NE-MISC-catfish-Cathorops-spixii": "catfish Cathorops spixii",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-species-9": "species",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-most-7": "most",
+    "NE-PERCENT-21-%": "21 %",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-entire-16": "entire",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abundant-8": "abundant",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-catch-17": "catch",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-differences-4": "differences",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-areas-17": "areas",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-studied-16": "studied",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-significant-3": "significant",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-composition-7-of-10-fish-12-fauna-13": "composition of fish fauna",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-variables-3": "variables",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6": "influence",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abiotic-2": "abiotic",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-little-5": "little",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-structure-9": "structure",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-fish-12-assembly-13": "fish assembly",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-results-2": "results",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7": "understanding",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30": "implementation",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-decision-26-makers-27": "decision makers",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-management-32": "management",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-measures-35": "measures",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-14": "shallow",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-better-29": "better",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-data-24": "data",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-areas-16": "areas",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-infralittoral-15": "infralittoral",
+    "d6883d36-bf69-406e-b609-e85a3744a46f-better-6": "better"
+  },
+  "graph": [
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-composition-2",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-dynamic-8"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3",
+      "relation": "is in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-it-10",
+      "relation": "observe",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-microhabitats-19"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-it-10",
+      "relation": "is possible Despite",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3",
+      "relation": "is in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-estuaries-8"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-associated-17"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-it-10",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-possible-12"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-estuaries-8"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-assemblage-2-composition-3",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-derived-9"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-assemblage-2-composition-3",
+      "relation": "is derived from",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-habitat-11-selection-12"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-assemblage-2-composition-3",
+      "relation": "is apparently derived from",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-habitat-11-selection-12"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-derived-9",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-apparently-8"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-aim-2",
+      "relation": "was assess",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paranaguá"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-its-21-relationship-22",
+      "relation": "is with",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-biotic-24-factors-27"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-demersal-13"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-collections-6",
+      "relation": "were",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-conducted-8"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-collections-6",
+      "relation": "were conducted To",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-end-3"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-collections-6",
+      "relation": "is",
+      "object_id": "NE-SET-monthly"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-five-22-sites-23",
+      "relation": "is in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-26-infralittoral-27"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-matter-4",
+      "relation": "were",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-recorded-28"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-matter-4",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-organic-3"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-matter-4",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Biotic-1"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-recorded-28",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-sampling-30"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-individuals-5",
+      "relation": "were",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-captured-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-individuals-5",
+      "relation": "amount to",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-6,623-4"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1",
+      "relation": "was representative with",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-11-12-species-13"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1",
+      "relation": "was",
+      "object_id": "NE-TITLE-representative"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1",
+      "relation": "was most representative with",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-11-12-species-13"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Ariidae-16",
+      "relation": "was most representative in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-abundance-24"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Ariidae-16",
+      "relation": "was representative in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1",
+      "relation": "was most representative in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Ariidae-16",
+      "relation": "was",
+      "object_id": "NE-TITLE-representative"
+    },
+    {
+      "subject_id": "NE-TITLE-representative",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-most-19"
+    },
+    {
+      "subject_id": "NE-TITLE-representative",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-richness-9"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1",
+      "relation": "was representative in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7"
+    },
+    {
+      "subject_id": "NE-TITLE-representative",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-11-12-species-13"
+    },
+    {
+      "subject_id": "NE-MISC-catfish-Cathorops-spixii",
+      "relation": "was",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9",
+      "relation": "at",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-most-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9",
+      "relation": "representing",
+      "object_id": "NE-PERCENT-21-%"
+    },
+    {
+      "subject_id": "NE-PERCENT-21-%",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-entire-16"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-species-9",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-abundant-8"
+    },
+    {
+      "subject_id": "NE-PERCENT-21-%",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-catch-17"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-differences-4",
+      "relation": "were among",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-areas-17"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-areas-17",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-studied-16"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-differences-4",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-significant-3"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-differences-4",
+      "relation": "is in",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-composition-7-of-10-fish-12-fauna-13"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variables-3",
+      "relation": "indicated",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-variables-3",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-abiotic-2"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-little-5"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-structure-9"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-fish-12-assembly-13"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "contribute to",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide measures for",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide data for",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide data to",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-decision-26-makers-27"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-management-32"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide measures to",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-decision-26-makers-27"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-measures-35"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-14"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-better-29"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-results-2",
+      "relation": "provide",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-data-24"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paranaguá"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "of",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-areas-16"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-infralittoral-15"
+    },
+    {
+      "subject_id": "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7",
+      "relation": "is",
+      "object_id": "d6883d36-bf69-406e-b609-e85a3744a46f-better-6"
+    }
+  ],
+  "links": {
+    "d6883d36-bf69-406e-b609-e85a3744a46f-composition-2": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-dynamic-8": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-variation-3": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-fish-5-fauna-6": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-it-10": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-microhabitats-19": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-estuaries-8": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-associated-17": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-possible-12": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-assemblage-2-composition-3": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-derived-9": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-habitat-11-selection-12": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-apparently-8": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-aim-2": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-structure-10": [],
+    "NE-LOCATION-Paranaguá": [],
+    "NE-CITY-Bay": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-its-21-relationship-22": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-biotic-24-factors-27": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-demersal-13": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-collections-6": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-conducted-8": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-end-3": [],
+    "NE-SET-monthly": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-five-22-sites-23": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-26-infralittoral-27": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-matter-4": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-recorded-28": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-organic-3": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Biotic-1": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-sampling-30": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-individuals-5": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-captured-7": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-6,623-4": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Sciaenidae-1": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-11-12-species-13": [],
+    "NE-TITLE-representative": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-Ariidae-16": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abundance-24": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-most-19": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-richness-9": [],
+    "NE-MISC-catfish-Cathorops-spixii": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-species-9": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-most-7": [],
+    "NE-PERCENT-21-%": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-entire-16": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abundant-8": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-catch-17": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-differences-4": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-areas-17": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-studied-16": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-significant-3": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-composition-7-of-10-fish-12-fauna-13": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-variables-3": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-abiotic-2": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-little-5": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-structure-9": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-fish-12-assembly-13": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-results-2": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-understanding-7": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-implementation-30": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-decision-26-makers-27": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-management-32": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-measures-35": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-14": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-better-29": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-data-24": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-areas-16": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-infralittoral-15": [],
+    "d6883d36-bf69-406e-b609-e85a3744a46f-better-6": []
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84893090004.txt",
+  "entities": {
+    "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6": "Peregrino field",
+    "108bb058-270a-4059-b632-02b04115a0a7-wealth-19": "wealth",
+    "108bb058-270a-4059-b632-02b04115a0a7-operated-4": "operated",
+    "108bb058-270a-4059-b632-02b04115a0a7-resources-21": "resources",
+    "108bb058-270a-4059-b632-02b04115a0a7-Norwegian-24": "Norwegian",
+    "108bb058-270a-4059-b632-02b04115a0a7-developed-26": "developed",
+    "108bb058-270a-4059-b632-02b04115a0a7-most-12-significant-13-offshore-14-producers-15": "most significant offshore producers",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "108bb058-270a-4059-b632-02b04115a0a7-including-23-technology-27": "including technology",
+    "NE-ORGANIZATION-Continental-Shelf": "Continental Shelf",
+    "NE-ORGANIZATION-NCS": "NCS",
+    "NE-NATIONALITY-Norwegian": "Norwegian",
+    "NE-ORGANIZATION-Statoil": "Statoil",
+    "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5": "emphasis",
+    "108bb058-270a-4059-b632-02b04115a0a7-increased-7": "increased",
+    "108bb058-270a-4059-b632-02b04115a0a7-field-33": "field",
+    "108bb058-270a-4059-b632-02b04115a0a7-production-30": "production",
+    "108bb058-270a-4059-b632-02b04115a0a7-heavy-4": "heavy",
+    "108bb058-270a-4059-b632-02b04115a0a7-oil-8-recovery-9": "oil recovery",
+    "108bb058-270a-4059-b632-02b04115a0a7-water-12": "water",
+    "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23": "viscosity oil",
+    "NE-ORGANIZATION-AICD": "AICD",
+    "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7": "viscosity oil",
+    "108bb058-270a-4059-b632-02b04115a0a7-allow-16": "allow",
+    "108bb058-270a-4059-b632-02b04115a0a7-gas-14": "gas",
+    "108bb058-270a-4059-b632-02b04115a0a7-only-18": "only",
+    "108bb058-270a-4059-b632-02b04115a0a7-high-20": "high",
+    "108bb058-270a-4059-b632-02b04115a0a7-high-4": "high",
+    "108bb058-270a-4059-b632-02b04115a0a7-to-15": "to",
+    "108bb058-270a-4059-b632-02b04115a0a7-water-2": "water",
+    "108bb058-270a-4059-b632-02b04115a0a7-sea-7-water-8": "sea water",
+    "108bb058-270a-4059-b632-02b04115a0a7-Produced-1": "Produced",
+    "108bb058-270a-4059-b632-02b04115a0a7-reservoir-14": "reservoir",
+    "108bb058-270a-4059-b632-02b04115a0a7-treated-6": "treated",
+    "108bb058-270a-4059-b632-02b04115a0a7-combined-4": "combined",
+    "108bb058-270a-4059-b632-02b04115a0a7-method-20": "method",
+    "108bb058-270a-4059-b632-02b04115a0a7-water-23-reinjection-24": "water reinjection",
+    "108bb058-270a-4059-b632-02b04115a0a7-produced-22": "produced",
+    "108bb058-270a-4059-b632-02b04115a0a7-oil-9-brings-13": "oil brings",
+    "108bb058-270a-4059-b632-02b04115a0a7-water-16": "water",
+    "108bb058-270a-4059-b632-02b04115a0a7-heavy-8": "heavy",
+    "108bb058-270a-4059-b632-02b04115a0a7-difficulties-6": "difficulties"
+  },
+  "graph": [
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-wealth-19"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-operated-4"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6",
+      "relation": "is wealth of",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-resources-21"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-resources-21",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-Norwegian-24"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-resources-21",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-developed-26"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6",
+      "relation": "one of",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-most-12-significant-13-offshore-14-producers-15"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-most-12-significant-13-offshore-14-producers-15"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-resources-21",
+      "relation": "of",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-including-23-technology-27"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-most-12-significant-13-offshore-14-producers-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Continental-Shelf",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-NCS"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Continental-Shelf",
+      "relation": "is in",
+      "object_id": "NE-NATIONALITY-Norwegian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "places",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-increased-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "boost production at",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-field-33"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "boost",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-production-30"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-heavy-4"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5",
+      "relation": "of",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-oil-8-recovery-9"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-12",
+      "relation": "allow in",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-AICD",
+      "relation": "distinguishes between",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7",
+      "relation": "at",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-water-12"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-allow-16"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-gas-14",
+      "relation": "allow in",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23",
+      "relation": "at",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-only-18"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-high-20"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-high-4"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7",
+      "relation": "at",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-gas-14"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7",
+      "relation": "mark",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-to-15"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-2",
+      "relation": "is combined with",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-sea-7-water-8"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-2",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-Produced-1"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-2",
+      "relation": "pumped into",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-reservoir-14"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-sea-7-water-8",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-treated-6"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-2",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-combined-4"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-method-20",
+      "relation": "called",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-water-23-reinjection-24"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-2",
+      "relation": "pumped back into",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-reservoir-14"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-water-23-reinjection-24",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-produced-22"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-oil-9-brings-13",
+      "relation": "is through",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-water-16"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-oil-9-brings-13",
+      "relation": "is",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-heavy-8"
+    },
+    {
+      "subject_id": "108bb058-270a-4059-b632-02b04115a0a7-difficulties-6",
+      "relation": "is through",
+      "object_id": "108bb058-270a-4059-b632-02b04115a0a7-water-16"
+    }
+  ],
+  "links": {
+    "108bb058-270a-4059-b632-02b04115a0a7-Peregrino-5-field-6": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-wealth-19": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-operated-4": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-resources-21": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-Norwegian-24": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-developed-26": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-most-12-significant-13-offshore-14-producers-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-including-23-technology-27": [],
+    "NE-ORGANIZATION-Continental-Shelf": [],
+    "NE-ORGANIZATION-NCS": [],
+    "NE-NATIONALITY-Norwegian": [],
+    "NE-ORGANIZATION-Statoil": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-emphasis-5": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-increased-7": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-field-33": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-production-30": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-heavy-4": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-oil-8-recovery-9": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-water-12": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23": [
+      "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7"
+    ],
+    "NE-ORGANIZATION-AICD": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-viscosity-6-oil-7": [
+      "108bb058-270a-4059-b632-02b04115a0a7-viscosity-22-oil-23"
+    ],
+    "108bb058-270a-4059-b632-02b04115a0a7-allow-16": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-gas-14": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-only-18": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-high-20": [
+      "108bb058-270a-4059-b632-02b04115a0a7-high-4"
+    ],
+    "108bb058-270a-4059-b632-02b04115a0a7-high-4": [
+      "108bb058-270a-4059-b632-02b04115a0a7-high-20"
+    ],
+    "108bb058-270a-4059-b632-02b04115a0a7-to-15": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-water-2": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-sea-7-water-8": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-Produced-1": [
+      "108bb058-270a-4059-b632-02b04115a0a7-produced-22"
+    ],
+    "108bb058-270a-4059-b632-02b04115a0a7-reservoir-14": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-treated-6": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-combined-4": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-method-20": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-water-23-reinjection-24": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-produced-22": [
+      "108bb058-270a-4059-b632-02b04115a0a7-Produced-1"
+    ],
+    "108bb058-270a-4059-b632-02b04115a0a7-oil-9-brings-13": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-water-16": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-heavy-8": [],
+    "108bb058-270a-4059-b632-02b04115a0a7-difficulties-6": []
+  }
+}

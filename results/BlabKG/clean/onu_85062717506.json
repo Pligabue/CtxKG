@@ -1,0 +1,530 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85062717506.txt",
+  "entities": {
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2": "Several authors",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6": "contributions",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20": "authors conception",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-original-19": "original",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-extractive-11": "extractive",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-evolution-9": "evolution",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reserves-12": "reserves",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutionalization-23": "institutionalization",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-policy-27": "policy",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-elucidative-5": "elucidative",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2": "authors",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-State-21": "State",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1": "Part",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-11": "arrangements",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-10": "institutional",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1": "Several",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-when-13-formalized-16": "when formalized",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-transformations-7": "transformations",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-literature-4": "literature",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6": "co-management instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14": "analysis",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-article-2": "article",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-data-24": "data",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-secondary-23": "secondary",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-arrangements-18-evolution-19": "authors arrangements evolution",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-TITLE-Marine": "Marine",
+    "NE-MISC-Extractive-Reserves": "Extractive Reserves",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-17": "formal",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5": "interviews",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-21-9-managers-10": "21 managers",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-semi-structured-4": "semi-structured",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-conducted-7": "conducted",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-addition-2": "addition",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Coastal-12": "Coastal",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15": "stage",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-managers-22-perception-24": "managers perception",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-27": "instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-11": "procedures",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arenas-16": "arenas",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-decision-18-making-20": "decision making",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-We-1": "We",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-4": "instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-participatory-10": "participatory",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-7": "arrangements",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-6": "formal",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-3": "co-management",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-legacy-6": "legacy",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-presented-26": "presented",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-tappers-10-social-11-movement-12": "tappers social movement",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-80’s-14": "80’s",
+    "NE-TITLE-rubber": "rubber",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-30": "arrangements",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-2": "instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-divided-6": "divided",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-8": "instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-territorial-10": "territorial",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-11": "recognition",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3": "framework",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-improved-17": "improved",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-2": "institutional",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-to-15": "to",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-time-9": "time",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-needs-14": "needs",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-robust-7": "robust",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-still-13": "still",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-increasingly-6": "increasingly",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7": "reduction",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-14": "recognition",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-17": "instruments",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-bureaucratic-9": "bureaucratic",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-10": "procedures",
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-challenges-4": "challenges"
+  },
+  "graph": [
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2",
+      "relation": "have made",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2",
+      "relation": "have made contributions from",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-original-19"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-extractive-11"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-evolution-9"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reserves-12"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20",
+      "relation": "has",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutionalization-23"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-policy-27"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-elucidative-5"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2",
+      "relation": "are formalized by",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-State-21"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1",
+      "relation": "points out transformations on",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-11"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-11",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2",
+      "relation": "are",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-when-13-formalized-16"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-when-13-formalized-16",
+      "relation": "by",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-State-21"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1",
+      "relation": "points out",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-transformations-7"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-transformations-7",
+      "relation": "Part of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-literature-4"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6",
+      "relation": "article",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-article-2",
+      "relation": "presents",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-article-2",
+      "relation": "presents co-management instruments based",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-data-24"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-data-24",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-secondary-23"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-arrangements-18-evolution-19"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6",
+      "relation": "of",
+      "object_id": "NE-TITLE-Marine"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6",
+      "relation": "of",
+      "object_id": "NE-MISC-Extractive-Reserves"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-17"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5",
+      "relation": "were conducted with",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-21-9-managers-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-semi-structured-4"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5",
+      "relation": "were",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-conducted-7"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-conducted-7",
+      "relation": "at",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-21-9-managers-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5",
+      "relation": "were conducted In",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-addition-2"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-21-9-managers-10",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Coastal-12"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-conducted-7",
+      "relation": "at",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-addition-2"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15",
+      "relation": "co-management instruments",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-managers-22-perception-24"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15",
+      "relation": "of",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-Marine"
+    },
+    {
+      "subject_id": "NE-MISC-Extractive-Reserves",
+      "relation": "has",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-managers-22-perception-24",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-27"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-11",
+      "relation": "act as",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arenas-16"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arenas-16",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-decision-18-making-20"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-We-1",
+      "relation": "consider",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-4"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-11",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-participatory-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-We-1",
+      "relation": "consider instruments as",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-7"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-7",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-11",
+      "relation": "that act as",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arenas-16"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-4",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-3"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-legacy-6",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-presented-26"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-tappers-10-social-11-movement-12",
+      "relation": "is in",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-80’s-14"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-tappers-10-social-11-movement-12",
+      "relation": "of",
+      "object_id": "NE-TITLE-rubber"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-legacy-6",
+      "relation": "is presented in",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-30"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-2",
+      "relation": "are",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-divided-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-2",
+      "relation": "are divided into",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-8"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-8",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-territorial-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-8",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-11"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "still needs",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-improved-17"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-2"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "needs",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-improved-17"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-improved-17",
+      "relation": "mark",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-to-15"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "has become over",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-time-9"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "has become",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-needs-14"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3",
+      "relation": "has become",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-robust-7"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-needs-14",
+      "relation": "at",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-still-13"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-robust-7",
+      "relation": "at",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-increasingly-6"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1",
+      "relation": "include",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-14"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-17"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-17"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "is",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-bureaucratic-9"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-10"
+    },
+    {
+      "subject_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7",
+      "relation": "Part of",
+      "object_id": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-challenges-4"
+    }
+  ],
+  "links": {
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1-authors-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-contributions-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-conception-20": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-original-19": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-extractive-11": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-evolution-9": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reserves-12": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutionalization-23": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-policy-27": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-elucidative-5": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-State-21": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-11": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-10": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Several-1": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-when-13-formalized-16": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-transformations-7": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-literature-4": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-5-instruments-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-analysis-14": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-article-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-data-24": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-secondary-23": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-authors-2-arrangements-18-evolution-19": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-TITLE-Marine": [],
+    "NE-MISC-Extractive-Reserves": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-17": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-interviews-5": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-21-9-managers-10": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-semi-structured-4": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-conducted-7": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-addition-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Coastal-12": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-stage-15": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-managers-22-perception-24": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-27": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-11": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arenas-16": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-decision-18-making-20": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-We-1": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-4": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-participatory-10": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-7": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-co-management-3": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-legacy-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-presented-26": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-tappers-10-social-11-movement-12": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-80’s-14": [],
+    "NE-TITLE-rubber": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-arrangements-30": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-divided-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-8": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-territorial-10": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-11": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-framework-3": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-improved-17": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-2": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-to-15": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-time-9": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-needs-14": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-robust-7": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-still-13": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-increasingly-6": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-reduction-7": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-recognition-14": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-instruments-17": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-bureaucratic-9": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-procedures-10": [],
+    "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-challenges-4": []
+  }
+}

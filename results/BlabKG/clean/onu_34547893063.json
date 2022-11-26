@@ -1,0 +1,372 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_34547893063.txt",
+  "entities": {
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2": "paper",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5": "overview",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-hole-12-gravel-13": "hole gravel",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-well-20": "well",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24": "has completed",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-evolution-8": "evolution",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-200th-19": "200th",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-technique-27": "technique",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-open-11": "open",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-successfully-23": "successfully",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-milestone-36": "milestone",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-history-39": "history",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-42-practices-43": "completion practices",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7": "description",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-comprehensive-6": "comprehensive",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-steps-11": "steps",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-taken-12": "taken",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-main-10": "main",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-best-28-status-33": "best status",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-unconsolidated-35-oil-36-bearing-38-turbidites-39": "unconsolidated oil bearing turbidites",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9": "we",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5": "HOHGP job",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-18-scenarios-19": "completion scenarios",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-shallow-15": "shallow",
+    "NE-DATE-1988": "1988",
+    "NE-ORDINAL-first": "first",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-innovations-7": "innovations",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completed-34": "completed",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-necessity-55": "necessity",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-capital-72-expenditures-73": "capital expenditures",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-developed-41": "developed",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-39": "to",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-skyrocketing-71": "skyrocketing",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-strong-40-cooperation-41": "strong cooperation",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-gravel-43-packing-44-tools-45": "gravel packing tools",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-research-65": "research",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-cutting-69-edge-71-technologies-72": "cutting edge technologies",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-strategy-2": "strategy",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-enhance-6": "enhance",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-continuously-5": "continuously",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-subjects-17": "subjects",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-interrelated-16": "interrelated",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-following-15": "following",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1": "Discussions",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-ultra-deepwaters-10": "ultra-deepwaters",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-years-13": "years",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-come-15": "come",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-14": "to",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-7-operations-8": "HOHGP operations",
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-Copyright-1": "Copyright",
+    "NE-ORGANIZATION-Society-of-Petroleum-Engineers": "Society of Petroleum Engineers"
+  },
+  "graph": [
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2",
+      "relation": "presents",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5",
+      "relation": "of",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-hole-12-gravel-13"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-well-20",
+      "relation": "has",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5",
+      "relation": "of",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-evolution-8"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-well-20",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-200th-19"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24",
+      "relation": "at",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-technique-27"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-open-11"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-technique-27",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24",
+      "relation": "at",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-successfully-23"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-milestone-36",
+      "relation": "is in",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-history-39"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-history-39",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-history-39",
+      "relation": "of",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-42-practices-43"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2",
+      "relation": "presents",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-comprehensive-6"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2",
+      "relation": "also presents",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7",
+      "relation": "of",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-steps-11"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-taken-12"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-main-10"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-best-28-status-33",
+      "relation": "is in",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-unconsolidated-35-oil-36-bearing-38-turbidites-39"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move progressively",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move to",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-18-scenarios-19"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move from",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-shallow-15"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move progressively from",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-shallow-15"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5",
+      "relation": "at",
+      "object_id": "NE-DATE-1988"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5",
+      "relation": "done in",
+      "object_id": "NE-DATE-1988"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9",
+      "relation": "had move progressively to",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-18-scenarios-19"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-innovations-7",
+      "relation": "be",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-completed-34"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-necessity-55",
+      "relation": "cope with",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-capital-72-expenditures-73"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-innovations-7",
+      "relation": "be completed",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-developed-41"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-developed-41",
+      "relation": "mark",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-39"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-capital-72-expenditures-73",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-skyrocketing-71"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-strong-40-cooperation-41",
+      "relation": "is with",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-gravel-43-packing-44-tools-45"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-research-65",
+      "relation": "is in",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-cutting-69-edge-71-technologies-72"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-strategy-2",
+      "relation": "conceived subjects to",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-enhance-6"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-strategy-2",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-enhance-6",
+      "relation": "at",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-continuously-5"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-strategy-2",
+      "relation": "conceived",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-subjects-17"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-subjects-17",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-interrelated-16"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-subjects-17",
+      "relation": "is",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-following-15"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1",
+      "relation": "envisioned in",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-ultra-deepwaters-10"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1",
+      "relation": "envisioned in",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-years-13"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1",
+      "relation": "envisioned",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-come-15"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-come-15",
+      "relation": "mark",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-14"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1",
+      "relation": "envisioned for",
+      "object_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-7-operations-8"
+    },
+    {
+      "subject_id": "be5ea7f2-eaf1-4194-82d5-01264cdce152-Copyright-1",
+      "relation": "Society of",
+      "object_id": "NE-ORGANIZATION-Society-of-Petroleum-Engineers"
+    }
+  ],
+  "links": {
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-overview-5": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-hole-12-gravel-13": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-well-20": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-has-21-completed-24": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-evolution-8": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-200th-19": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-technique-27": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-open-11": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-successfully-23": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-milestone-36": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-history-39": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-42-practices-43": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-description-7": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-comprehensive-6": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-steps-11": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-taken-12": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-main-10": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-best-28-status-33": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-unconsolidated-35-oil-36-bearing-38-turbidites-39": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-we-9": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-4-job-5": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completion-18-scenarios-19": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-shallow-15": [],
+    "NE-DATE-1988": [],
+    "NE-ORDINAL-first": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-innovations-7": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-completed-34": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-necessity-55": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-capital-72-expenditures-73": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-developed-41": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-39": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-skyrocketing-71": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-strong-40-cooperation-41": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-gravel-43-packing-44-tools-45": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-research-65": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-cutting-69-edge-71-technologies-72": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-strategy-2": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-enhance-6": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-continuously-5": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-subjects-17": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-interrelated-16": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-following-15": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-Discussions-1": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-ultra-deepwaters-10": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-years-13": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-come-15": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-14": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-HOHGP-7-operations-8": [],
+    "be5ea7f2-eaf1-4194-82d5-01264cdce152-Copyright-1": [],
+    "NE-ORGANIZATION-Society-of-Petroleum-Engineers": []
+  }
+}

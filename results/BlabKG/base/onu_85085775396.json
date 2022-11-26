@@ -1,0 +1,817 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085775396.txt",
+  "entities": {
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6": ")",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-5": "technology",
+    "NE-ORGANIZATION-TCP": "TCP",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-1-Composite-2-Pipe-3-(-4": "Thermoplastic Composite Pipe (",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-disruptive-4": "disruptive",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-increasing-27-acceptance-28": "increasing acceptance",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-market-36": "market",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21": "20 years",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24": "parallel",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-review-7": "review",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-6": "historical",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-acceptance-28": "acceptance",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-30-Composite-31-Pipe-32": "Thermoplastic Composite Pipe",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-15": "offshore",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-last-19": "last",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-strategy-11": "strategy",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22": "catenary systems discussed",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-7": "technology",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-review-4": "review",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-3": "historical",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-water-20-environments-21": "water environments",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-presented-9": "presented",
+    "NE-CAUSE_OF_DEATH-hanging": "hanging",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-14": "free",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ultra-deep-19": "ultra-deep",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2": "basis",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12": "field",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-study-5": "study",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-9": "offshore",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-11": "pre-salt",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-TCP-23-risers-24": "TCP risers",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-assessed-26": "assessed",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-typical-8": "typical",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-21": "free",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Study-1": "Study",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6": "cooperation",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-major-9": "major",
+    "NE-TITLE-contractor": "contractor",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-performed-3": "performed",
+    "NE-TITLE-operator": "operator",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-close-5": "close",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15": "feasibility",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11": "Riser system",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21": "operations",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27": "catenary configuration",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6": "analyses",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Global-1": "Global",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-installation-17": "installation",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-24": "free",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6": "study",
+    "NE-DATE-2017": "2017",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8": "used",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-FEED-5": "pre-FEED",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-10": "basis",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-13": "FMECA",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-2-exercise-3": "FMECA exercise",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14": "party certification body",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-active-23": "active",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-third-10": "third",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18": "technology",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32": "fields",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27": "wave systems",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-31": "pre-salt",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-business-3-case-4-study-5": "business case study",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-lazy-25": "lazy",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-low-24": "low",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-installed-29": "installed",
+    "NE-DATE-currently": "currently",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-detailed-2": "detailed",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-savings-17": "savings",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7": "adopted",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-significant-16": "significant",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-10": "technology",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Risers-12": "Risers",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-expected-19": "expected",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-primary-9": "primary",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13": "technology",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18": "catenary configuration",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-hanging-16": "hanging",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21": "purchase",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ancillary-7": "ancillary",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-procurement-9-costs-10": "procurement costs",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-avoiding-20": "avoiding",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-15": "free",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-buoyancy-24-modules-25": "buoyancy modules",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-expensive-23-buoyancy-24-modules-25": "expensive buoyancy modules",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-outcome-2": "outcome",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-9-program-10": "qualification program",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ultimate-9-goal-10": "ultimate goal",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-phases-6": "phases",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Technology-1-Roadmap-2": "Technology Roadmap",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-established-4": "established",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-12": "qualification",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-production-17-lines-18": "production lines",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-2": "qualification",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16": "standard",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-design-19": "design",
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-dedicated-15": "dedicated"
+  },
+  "graph": [
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-5"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-1-Composite-2-Pipe-3-(-4"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-disruptive-4"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-5",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-disruptive-4"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-increasing-27-acceptance-28",
+      "relation": "is in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-market-36"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-market-36",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21",
+      "relation": "making",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-market-36"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-increasing-27-acceptance-28"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-review-7",
+      "relation": "applied Brazil over",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-review-7",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-6"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-acceptance-28"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-30-Composite-31-Pipe-32"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-review-7",
+      "relation": "applied",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-15"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-last-19"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-strategy-11",
+      "relation": "enable",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-7",
+      "relation": "is presented Following",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-review-4"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-review-4",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-3"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-water-20-environments-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-7",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-presented-9"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-hanging"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-free-14"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-ultra-deep-19"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-5",
+      "relation": "basis of is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-9"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-TCP-23-risers-24",
+      "relation": "were",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-assessed-26"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-TCP-23-risers-24",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-hanging"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-typical-8"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-TCP-23-risers-24",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-free-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-typical-8"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-9"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Study-1",
+      "relation": "was performed in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-major-9"
+    },
+    {
+      "subject_id": "NE-TITLE-contractor",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Study-1",
+      "relation": "was",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-performed-3"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6",
+      "relation": "is with",
+      "object_id": "NE-TITLE-operator"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-close-5"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6",
+      "relation": "of",
+      "object_id": "NE-TITLE-operator"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global analyses of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global analyses",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "have",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6",
+      "relation": "have shown",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Global-1"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "analyses of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-installation-17"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global and local analyses of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "analyses",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global installation and local analyses",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-hanging"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global and local analyses",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15",
+      "relation": "Global installation and local analyses of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21",
+      "relation": "is in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-hanging"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-free-24"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6",
+      "relation": "was used In",
+      "object_id": "NE-DATE-2017"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6",
+      "relation": "was",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-FEED-5"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8",
+      "relation": "at",
+      "object_id": "NE-DATE-2017"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8",
+      "relation": "at",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6",
+      "relation": "was used as",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-10",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-13"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-2-exercise-3",
+      "relation": "was carried out with",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-active-23"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-2-exercise-3",
+      "relation": "was carried out together with",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-third-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "currently installed in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-31"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "can bring compared",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27",
+      "relation": "at",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-business-3-case-4-study-5",
+      "relation": "was performed in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18",
+      "relation": "installed in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-lazy-25"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-low-24"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-installed-29"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27",
+      "relation": "at",
+      "object_id": "NE-DATE-currently"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-business-3-case-4-study-5",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-detailed-2"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-savings-17",
+      "relation": "are expected",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-savings-17",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-significant-16"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7",
+      "relation": "at",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7",
+      "relation": "at",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Risers-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-TCP",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-savings-17",
+      "relation": "are",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-expected-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-TCP",
+      "relation": "is adopted as",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-10",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-primary-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-TCP",
+      "relation": "is adopted for",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Risers-12"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13",
+      "relation": "enables",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-hanging-16"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13",
+      "relation": "enables",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-ancillary-7",
+      "relation": "has",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-procurement-9-costs-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-avoiding-20"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-free-15"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-buoyancy-24-modules-25"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-expensive-23-buoyancy-24-modules-25"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18",
+      "relation": "purchase of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-expensive-23-buoyancy-24-modules-25"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-outcome-2",
+      "relation": "lead to",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-9-program-10"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-ultimate-9-goal-10",
+      "relation": "is in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-phases-6"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-Technology-1-Roadmap-2",
+      "relation": "was",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-established-4"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-12",
+      "relation": "is in",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-production-17-lines-18"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-2",
+      "relation": "is driven by",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-TCP"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16",
+      "relation": "of",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-design-19"
+    },
+    {
+      "subject_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16",
+      "relation": "is",
+      "object_id": "ee817b7d-8183-4633-9141-28578ef8eeaa-dedicated-15"
+    }
+  ],
+  "links": {
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-)-6": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-5": [],
+    "NE-ORGANIZATION-TCP": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-1-Composite-2-Pipe-3-(-4": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-30-Composite-31-Pipe-32"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-disruptive-4": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-increasing-27-acceptance-28": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-market-36": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-20-20-years-21": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-parallel-24": [],
+    "NE-COUNTRY-Brazil": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-review-7": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-6": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-3"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-acceptance-28": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-30-Composite-31-Pipe-32": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-Thermoplastic-1-Composite-2-Pipe-3-(-4"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-15": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-last-19": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-strategy-11": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-16-systems-17-discussed-22": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-7": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-review-4": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-3": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-historical-6"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-water-20-environments-21": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-presented-9": [],
+    "NE-CAUSE_OF_DEATH-hanging": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-14": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ultra-deep-19": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-2": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-field-12": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-study-5": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-offshore-9": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-11": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-31"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-TCP-23-risers-24": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-assessed-26": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-typical-8": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-21": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Study-1": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-cooperation-6": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-major-9": [],
+    "NE-TITLE-contractor": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-performed-3": [],
+    "NE-TITLE-operator": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-close-5": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-feasibility-15": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-operations-21": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Global-1": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-installation-17": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-24": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-free-15"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6": [],
+    "NE-DATE-2017": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-FEED-5": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-basis-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-13": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-FMECA-2-exercise-3": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-party-12-certification-13-body-14": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-active-23": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-third-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-fields-32": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-wave-26-systems-27": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-31": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-pre-salt-11"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-business-3-case-4-study-5": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-lazy-25": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-low-24": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-installed-29": [],
+    "NE-DATE-currently": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-detailed-2": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-savings-17": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-adopted-7": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-significant-16": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Risers-12": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-expected-19": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-primary-9": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-13": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-technology-18"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-17-configuration-18": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-catenary-26-configuration-27"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-hanging-16": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-purchase-21": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ancillary-7": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-procurement-9-costs-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-avoiding-20": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-free-15": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-free-24"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-buoyancy-24-modules-25": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-expensive-23-buoyancy-24-modules-25"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-expensive-23-buoyancy-24-modules-25": [
+      "ee817b7d-8183-4633-9141-28578ef8eeaa-buoyancy-24-modules-25"
+    ],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-outcome-2": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-9-program-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-ultimate-9-goal-10": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-phases-6": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-Technology-1-Roadmap-2": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-established-4": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-12": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-production-17-lines-18": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-qualification-2": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-standard-16": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-design-19": [],
+    "ee817b7d-8183-4633-9141-28578ef8eeaa-dedicated-15": []
+  }
+}

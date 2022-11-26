@@ -1,0 +1,217 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097539519.txt",
+  "entities": {
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-2": "paper",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-solutions-5": "solutions",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-weight-10": "weight",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-conserving-9": "conserving",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28": "paper",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-applications-10": "applications",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-offshore-9": "offshore",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-dry-14-low-16-emissions-17-technology-18": "dry low emissions technology",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lightweight-22-components-23": "lightweight components",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-capital-44-expenses-47": "capital expenses",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-50-development-51-cycles-52": "project development cycles",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-34-approach-35": "lifecycle approach",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-purposes-3": "purposes",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-illustrative-2": "illustrative",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-specific-8": "specific",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-operators-8": "operators",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-horsepower-10-requirements-11": "horsepower requirements",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8": "transformation",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-leveraged-11": "leveraged",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-digital-7": "digital",
+    "NE-ORGANIZATION-CAPEX": "CAPEX",
+    "NE-MONEY-$7-million": "$ 7 million",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-how-6": "how",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-15-performance-16": "lifecycle performance",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47": "reduction",
+    "NE-ORGANIZATION-OPEX": "OPEX",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-60-42": "60",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-benefits-19": "benefits",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-delivering-18": "delivering",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26": "reduction",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-28-cycle-29-times-30": "project cycle times",
+    "NE-DURATION-week": "week",
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-4-22-12-24": "4 12"
+  },
+  "graph": [
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-2",
+      "relation": "focuses on",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-solutions-5"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-solutions-5",
+      "relation": "of",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-weight-10"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-solutions-5",
+      "relation": "is",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-conserving-9"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28",
+      "relation": "outlines lifecycle approach in",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-applications-10"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-applications-10",
+      "relation": "is",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-offshore-9"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-dry-14-low-16-emissions-17-technology-18",
+      "relation": "use of",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lightweight-22-components-23"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-capital-44-expenses-47",
+      "relation": "shorten",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-50-development-51-cycles-52"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28",
+      "relation": "outlines",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-34-approach-35"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28",
+      "relation": "discusses For",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-purposes-3"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-purposes-3",
+      "relation": "is",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-illustrative-2"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28",
+      "relation": "discusses",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-specific-8"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-operators-8",
+      "relation": "meet",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-horsepower-10-requirements-11"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8",
+      "relation": "be",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-leveraged-11"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8",
+      "relation": "is",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-digital-7"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47",
+      "relation": "is in",
+      "object_id": "NE-ORGANIZATION-CAPEX"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47",
+      "relation": "amount to",
+      "object_id": "NE-MONEY-$7-million"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-leveraged-11",
+      "relation": "at",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-how-6"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8",
+      "relation": "optimize",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-15-performance-16"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-15-performance-16",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47",
+      "relation": "is in",
+      "object_id": "NE-ORGANIZATION-OPEX"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47",
+      "relation": "of",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-60-42"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8",
+      "relation": "optimize",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-benefits-19"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-benefits-19",
+      "relation": "is",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-delivering-18"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26",
+      "relation": "is in",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-28-cycle-29-times-30"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26",
+      "relation": "of",
+      "object_id": "NE-DURATION-week"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26",
+      "relation": "of",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-4-22-12-24"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-15-performance-16",
+      "relation": "benefits such",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26"
+    },
+    {
+      "subject_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26",
+      "relation": "of",
+      "object_id": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-28-cycle-29-times-30"
+    }
+  ],
+  "links": {
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-2": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-solutions-5": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-weight-10": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-conserving-9": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-applications-10": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-offshore-9": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-dry-14-low-16-emissions-17-technology-18": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lightweight-22-components-23": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-capital-44-expenses-47": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-50-development-51-cycles-52": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-34-approach-35": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-purposes-3": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-illustrative-2": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-specific-8": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-operators-8": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-horsepower-10-requirements-11": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-transformation-8": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-leveraged-11": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-digital-7": [],
+    "NE-ORGANIZATION-CAPEX": [],
+    "NE-MONEY-$7-million": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-how-6": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-lifecycle-15-performance-16": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-47": [],
+    "NE-ORGANIZATION-OPEX": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-60-42": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-benefits-19": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-delivering-18": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-reduction-26": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-project-28-cycle-29-times-30": [],
+    "NE-DURATION-week": [],
+    "ce0c83fa-5bf7-4707-9350-83eb2f73e209-4-22-12-24": []
+  }
+}

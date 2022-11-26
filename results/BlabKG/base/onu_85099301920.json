@@ -1,0 +1,271 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85099301920.txt",
+  "entities": {
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-development-2": "development",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-has-8-performed-10": "has performed",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipe-16-technology-17": "pipe technology",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-movement-25": "movement",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-time-33": "time",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-lead-32": "lead",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-wells-29": "wells",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-a-36": "a",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-flexibility-21": "flexibility",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-significantly-19": "significantly",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Offshore-6-fields-7": "Offshore fields",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-27": "pipes",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-20": "increased",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-3-activity-4": "increased activity",
+    "NE-LOCATION-Pre-Salt": "Pre-Salt",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-contaminants-13": "contaminants",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23": "Stress Corrosion failure modes",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-new-15": "new",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Cracking-18": "Cracking",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-failure-7": "failure",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-10-metallic-12-layers-13": "pipes metallic layers",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-flooded-19": "flooded",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-adopted-31": "adopted",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-to-29": "to",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-technology-2": "technology",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9": "system",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-sensing-8": "sensing",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-based-4": "based",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-embedded-7": "embedded",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-together-10": "together",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-topside-12-equipment-13-to-14-read-15": "topside equipment to read",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6": "use of such system",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24": "fleet",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21": "management",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29": "measurements",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-need-37-of-38-support-40-vessel-41": "need of support vessel",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-better-20": "better",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-required-28": "required",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-performed-30": "performed",
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-production-33-unit-34": "production unit"
+  },
+  "graph": [
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-development-2",
+      "relation": "has",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-has-8-performed-10"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-pipe-16-technology-17",
+      "relation": "enabling",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-movement-25"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-pipe-16-technology-17",
+      "relation": "reducing",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-time-33"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-time-33",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-lead-32"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-movement-25",
+      "relation": "of",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-wells-29"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-time-33",
+      "relation": "bring",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-a-36"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-pipe-16-technology-17",
+      "relation": "offers",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-flexibility-21"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-flexibility-21",
+      "relation": "at",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-significantly-19"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Offshore-6-fields-7"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-movement-25",
+      "relation": "of",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-27"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-flexibility-21",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-20"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-3-activity-4",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Pre-Salt"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-contaminants-13",
+      "relation": "found create",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-contaminants-13",
+      "relation": "create",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-new-15"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-Cracking-18"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-failure-7",
+      "relation": "is in",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-10-metallic-12-layers-13"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-flooded-19",
+      "relation": "be",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-adopted-31"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-adopted-31",
+      "relation": "mark",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-to-29"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-technology-2",
+      "relation": "is based on",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-sensing-8"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-technology-2",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-based-4"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-embedded-7"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9",
+      "relation": "at",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-together-10"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9",
+      "relation": "is with",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-topside-12-equipment-13-to-14-read-15"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6",
+      "relation": "will allow",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6",
+      "relation": "will allow management with",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29",
+      "relation": "at",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-need-37-of-38-support-40-vessel-41"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6",
+      "relation": "will allow",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-better-20"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6",
+      "relation": "management of",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6",
+      "relation": "better management of",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-required-28"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29",
+      "relation": "is",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-performed-30"
+    },
+    {
+      "subject_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29",
+      "relation": "at",
+      "object_id": "7548607a-2b9a-4332-9ee4-f4344220c57a-production-33-unit-34"
+    }
+  ],
+  "links": {
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-development-2": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-has-8-performed-10": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipe-16-technology-17": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-movement-25": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-time-33": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-lead-32": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-wells-29": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-a-36": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-flexibility-21": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-significantly-19": [],
+    "NE-COUNTRY-Brazil": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Offshore-6-fields-7": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-27": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-20": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-increased-3-activity-4": [],
+    "NE-LOCATION-Pre-Salt": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-contaminants-13": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Stress-16-Corrosion-17-failure-22-modes-23": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-new-15": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-Cracking-18": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-failure-7": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-pipes-10-metallic-12-layers-13": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-flooded-19": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-adopted-31": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-to-29": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-technology-2": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-system-9": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-sensing-8": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-based-4": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-embedded-7": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-together-10": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-topside-12-equipment-13-to-14-read-15": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-use-2-of-3-such-4-system-6": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-fleet-24": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-measurements-29": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-need-37-of-38-support-40-vessel-41": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-better-20": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-required-28": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-performed-30": [],
+    "7548607a-2b9a-4332-9ee4-f4344220c57a-production-33-unit-34": []
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_10228776.txt",
+  "entities": {
+    "8ccf6711-4359-43f1-af56-bff91be221df-paper-2": "paper",
+    "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6": "knowledge",
+    "8ccf6711-4359-43f1-af56-bff91be221df-Foz-9": "Foz",
+    "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12": "Amazonas basin",
+    "8ccf6711-4359-43f1-af56-bff91be221df-geologic-5": "geologic",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-LOCATION-Northern": "Northern",
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-2": "basin",
+    "8ccf6711-4359-43f1-af56-bff91be221df-area-5": "area",
+    "8ccf6711-4359-43f1-af56-bff91be221df-coastal-15": "coastal",
+    "8ccf6711-4359-43f1-af56-bff91be221df-including-12-zone-16": "including zone",
+    "8ccf6711-4359-43f1-af56-bff91be221df-about-7-200,000-8-km-9-2-10": "about 200,000 km 2",
+    "NE-DATE-present": "present",
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-4": "basin",
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-33": "basin",
+    "8ccf6711-4359-43f1-af56-bff91be221df-prospective-3": "prospective",
+    "8ccf6711-4359-43f1-af56-bff91be221df-deep-32": "deep",
+    "8ccf6711-4359-43f1-af56-bff91be221df-14-15-km-16": "14 km",
+    "8ccf6711-4359-43f1-af56-bff91be221df-sediments-18": "sediments",
+    "8ccf6711-4359-43f1-af56-bff91be221df-two-36-platforms-38": "two platforms",
+    "8ccf6711-4359-43f1-af56-bff91be221df-flanked-34": "flanked",
+    "8ccf6711-4359-43f1-af56-bff91be221df-central-31": "central",
+    "8ccf6711-4359-43f1-af56-bff91be221df-has-5-filled-7": "has filled",
+    "8ccf6711-4359-43f1-af56-bff91be221df-marginal-37": "marginal",
+    "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19": "potentially prospective basin trends",
+    "8ccf6711-4359-43f1-af56-bff91be221df-related-21": "related",
+    "8ccf6711-4359-43f1-af56-bff91be221df-structural-18": "structural",
+    "8ccf6711-4359-43f1-af56-bff91be221df-its-10-beginning-11": "its beginning",
+    "NE-MISC-Albian": "Albian",
+    "8ccf6711-4359-43f1-af56-bff91be221df-three-6-stages-8": "three stages",
+    "8ccf6711-4359-43f1-af56-bff91be221df-fracture-23-zones-24": "fracture zones",
+    "8ccf6711-4359-43f1-af56-bff91be221df-tectonic-7": "tectonic",
+    "8ccf6711-4359-43f1-af56-bff91be221df-main-17": "main",
+    "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-beginning-11": "potentially prospective basin beginning"
+  },
+  "graph": [
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-paper-2",
+      "relation": "summarizes",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6",
+      "relation": "of",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-Foz-9"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6",
+      "relation": "do",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-geologic-5"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Northern"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-2",
+      "relation": "covers",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-area-5"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-area-5",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-coastal-15"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-area-5",
+      "relation": "of",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-including-12-zone-16"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-area-5",
+      "relation": "of",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-about-7-200,000-8-km-9-2-10"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-area-5",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-4",
+      "relation": "consists of",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-4",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-prospective-3"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-deep-32"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-4",
+      "relation": "contain",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-14-15-km-16"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-14-15-km-16",
+      "relation": "of",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-sediments-18"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+      "relation": "at",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-two-36-platforms-38"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-flanked-34"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-central-31"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-4",
+      "relation": "has",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-has-5-filled-7"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-marginal-37"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19",
+      "relation": "are",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-related-21"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-structural-18"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-its-10-beginning-11",
+      "relation": "is in",
+      "object_id": "NE-MISC-Albian"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-2",
+      "relation": "has passed through",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-three-6-stages-8"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19",
+      "relation": "are related to",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-fracture-23-zones-24"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-three-6-stages-8",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-tectonic-7"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19",
+      "relation": "is",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-main-17"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-basin-2",
+      "relation": "has passed since",
+      "object_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-beginning-11"
+    },
+    {
+      "subject_id": "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-beginning-11",
+      "relation": "of",
+      "object_id": "NE-MISC-Albian"
+    }
+  ],
+  "links": {
+    "8ccf6711-4359-43f1-af56-bff91be221df-paper-2": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-knowledge-6": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-Foz-9": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-Amazonas-11-basin-12": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-geologic-5": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-LOCATION-Northern": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-2": [
+      "8ccf6711-4359-43f1-af56-bff91be221df-basin-4"
+    ],
+    "8ccf6711-4359-43f1-af56-bff91be221df-area-5": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-coastal-15": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-including-12-zone-16": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-about-7-200,000-8-km-9-2-10": [],
+    "NE-DATE-present": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-4": [
+      "8ccf6711-4359-43f1-af56-bff91be221df-basin-2",
+      "8ccf6711-4359-43f1-af56-bff91be221df-basin-33"
+    ],
+    "8ccf6711-4359-43f1-af56-bff91be221df-basin-33": [
+      "8ccf6711-4359-43f1-af56-bff91be221df-basin-4"
+    ],
+    "8ccf6711-4359-43f1-af56-bff91be221df-prospective-3": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-deep-32": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-14-15-km-16": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-sediments-18": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-two-36-platforms-38": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-flanked-34": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-central-31": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-has-5-filled-7": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-marginal-37": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-trends-19": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-related-21": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-structural-18": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-its-10-beginning-11": [],
+    "NE-MISC-Albian": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-three-6-stages-8": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-fracture-23-zones-24": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-tectonic-7": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-main-17": [],
+    "8ccf6711-4359-43f1-af56-bff91be221df-potentially-2-prospective-3-basin-4-beginning-11": []
+  }
+}

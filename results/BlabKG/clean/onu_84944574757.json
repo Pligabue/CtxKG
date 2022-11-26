@@ -1,0 +1,410 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84944574757.txt",
+  "entities": {
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4": "completion",
+    "NE-DATE-1997": "1997",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-achieved-6": "achieved",
+    "NE-ORDINAL-first": "first",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-intelligent-3": "intelligent",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-reliability-13-assurance-14": "reliability assurance",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-then-12": "then",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-regarded-16": "regarded",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-Intelligent-1-completion-2-technology-3": "Intelligent completion technology",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10": "return",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-field-18": "field",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-has-4-applied-6": "has applied",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-life-15": "life",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-investment-12": "investment",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-intelligent-6-completion-7-installations-8": "all intelligent completion installations",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-11": "world",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10": "electric intelligent completion installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-land-22": "land",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-2": "world",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-CITY-Mossoro": "Mossoro",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-DATE-May-2001": "May 2001",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-electric-7-intelligent-8-completion-9-installation-10": "all electric intelligent completion installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-24---25-VRG-26---27-7D-28---29-RN-30": "8 - VRG - 7D - RN",
+    "NE-LOCATION-State": "State",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-installation-11": "subsea installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-about-40-100-41-Km-42": "about 100 Km",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-deepwater-9": "deepwater",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-21---22-MLS-23---24-67HA-25---26-RJS-27": "8 - MLS - 67HA - RJS",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-water-30-depth-31": "water depth",
+    "NE-DATE-1180": "1180",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-m-34": "m",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-MarlimSul-37-field-38": "MarlimSul field",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-2": "installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-present-8-day-9": "present day",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5": "operational",
+    "NE-DURATION-ten-years": "ten years",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-almost-11": "almost",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-still-4": "still",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-deepwater-9-well-10-installation-11": "subsea deepwater well installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-difficult-5": "difficult",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-Consequently-1": "Consequently",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-paper-2": "paper",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6": "comparison",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-hydraulic-8": "hydraulic",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-systems-17": "systems",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-advantages-22-of-23-system-25": "advantages of system",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-brief-5": "brief",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-focusing-19": "focusing",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-review-17": "review",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-made-19": "made",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-explanation-2": "explanation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-apparent-7-suspicion-8": "apparent suspicion",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-prognosis-22": "prognosis",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-12-technology-13": "electric technology",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-offered-4": "offered",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29": "installation",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world5-32": "world5",
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-system-25": "system"
+  },
+  "graph": [
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4",
+      "relation": "was achieved in",
+      "object_id": "NE-DATE-1997"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4",
+      "relation": "was",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-achieved-6"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-intelligent-3"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-reliability-13-assurance-14",
+      "relation": "is regarded since",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-then-12"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-reliability-13-assurance-14",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-regarded-16"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-Intelligent-1-completion-2-technology-3",
+      "relation": "improve",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-field-18"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-Intelligent-1-completion-2-technology-3",
+      "relation": "has",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-has-4-applied-6"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-life-15"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-investment-12"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-intelligent-6-completion-7-installations-8",
+      "relation": "is in",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-11"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10",
+      "relation": "was carried out in",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-land-22"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-2",
+      "relation": "has",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10",
+      "relation": "was carried out in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-CITY-Mossoro",
+      "relation": "in RN is",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10",
+      "relation": "was carried out in",
+      "object_id": "NE-DATE-May-2001"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-2",
+      "relation": "has",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-electric-7-intelligent-8-completion-9-installation-10"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-electric-7-intelligent-8-completion-9-installation-10",
+      "relation": "at",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-24---25-VRG-26---27-7D-28---29-RN-30",
+      "relation": "is in",
+      "object_id": "NE-CITY-Mossoro"
+    },
+    {
+      "subject_id": "NE-LOCATION-State",
+      "relation": "is",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-installation-11",
+      "relation": "was carried out",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-about-40-100-41-Km-42"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-installation-11",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-deepwater-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-21---22-MLS-23---24-67HA-25---26-RJS-27",
+      "relation": "is in",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-water-30-depth-31"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-water-30-depth-31",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1180"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-water-30-depth-31",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-m-34"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-21---22-MLS-23---24-67HA-25---26-RJS-27",
+      "relation": "is in",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-MarlimSul-37-field-38"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-2",
+      "relation": "is operational until",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-present-8-day-9"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-2",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-present-8-day-9"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5",
+      "relation": "at",
+      "object_id": "NE-DURATION-ten-years"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-almost-11"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-still-4"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-2",
+      "relation": "is still operational until",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-present-8-day-9"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-deepwater-9-well-10-installation-11",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-difficult-5"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-difficult-5",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-Consequently-1"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-paper-2",
+      "relation": "does",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-hydraulic-8"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-systems-17"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-advantages-22-of-23-system-25"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-brief-5"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-focusing-19"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-review-17",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-made-19"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-explanation-2",
+      "relation": "is offered for",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-apparent-7-suspicion-8"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-review-17",
+      "relation": "is made on",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-prognosis-22"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-apparent-7-suspicion-8",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-12-technology-13"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-explanation-2",
+      "relation": "is",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-offered-4"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-review-17",
+      "relation": "is made after",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-made-19",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29",
+      "relation": "is in",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-world5-32"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-made-19",
+      "relation": "at",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-prognosis-22"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-prognosis-22",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-system-25"
+    },
+    {
+      "subject_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29",
+      "relation": "of",
+      "object_id": "d0d3f522-daa5-46df-9fd9-95491816b5d6-world5-32"
+    }
+  ],
+  "links": {
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-completion-4": [],
+    "NE-DATE-1997": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-achieved-6": [],
+    "NE-ORDINAL-first": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-intelligent-3": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-reliability-13-assurance-14": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-then-12": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-regarded-16": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-Intelligent-1-completion-2-technology-3": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-return-10": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-field-18": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-has-4-applied-6": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-life-15": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-investment-12": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-intelligent-6-completion-7-installations-8": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-11": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-7-intelligent-8-completion-9-installation-10": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-land-22": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world-2": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-CITY-Mossoro": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-DATE-May-2001": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-all-5-electric-7-intelligent-8-completion-9-installation-10": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-24---25-VRG-26---27-7D-28---29-RN-30": [],
+    "NE-LOCATION-State": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-installation-11": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-about-40-100-41-Km-42": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-deepwater-9": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-8-21---22-MLS-23---24-67HA-25---26-RJS-27": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-water-30-depth-31": [],
+    "NE-DATE-1180": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-m-34": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-MarlimSul-37-field-38": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-2": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-present-8-day-9": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-operational-5": [],
+    "NE-DURATION-ten-years": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-almost-11": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-still-4": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-deepwater-9-well-10-installation-11": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-difficult-5": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-Consequently-1": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-paper-2": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-comparison-6": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-hydraulic-8": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-systems-17": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-advantages-22-of-23-system-25": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-brief-5": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-focusing-19": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-review-17": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-made-19": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-explanation-2": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-apparent-7-suspicion-8": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-prognosis-22": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-electric-12-technology-13": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-offered-4": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-installation-29": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-world5-32": [],
+    "d0d3f522-daa5-46df-9fd9-95491816b5d6-system-25": []
+  }
+}

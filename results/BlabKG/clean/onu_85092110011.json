@@ -1,0 +1,508 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85092110011.txt",
+  "entities": {
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6": "air sea heat fluxes",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16": "frequency data",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20": "two research cruises",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-Turbulent-1": "Turbulent",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-computed-8": "computed",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-micrometeorological-15": "micrometeorological",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-performed-21": "performed",
+    "NE-LOCATION-Atlantic-Ocean": "Atlantic Ocean",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-in-10": "in",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-high-12": "high",
+    "NE-ORGANIZATION-Continental-Shelf": "Continental Shelf",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-eddy-2-covariance-3": "eddy covariance",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-16": "sensible",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-used-9": "used",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-8-estimates-9": "frequency estimates",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-location-20": "location",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-same-19": "same",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-novel-5": "novel",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-11-fluxes-12": "heat fluxes",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-bulk-14-parametrizations-15": "bulk parametrizations",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17": "we",
+    "NE-ORGANIZATION-EC": "EC",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-14-fluxes-15": "heat fluxes",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21": "agreement",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-their-24-magnitude-25": "their magnitude",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-good-20": "good",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-12": "sensible",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-46-study-47-areas-48": "two study areas",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-SWAO-51": "SWAO",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-comparisons-11": "comparisons",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14": "biases",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ranging-15": "ranging",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-75-17-W-18-m-20-−2-21": "75 W m −2",
+    "NE-ORGANIZATION-SBCS": "SBCS",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-13": "large",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2": "biases",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15": "term perturbations",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmosphere-20": "atmosphere",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-events-33": "events",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-7": "short",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-28": "related",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-environmental-14": "environmental",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ocean-24": "ocean",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-majority-27": "majority",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4": "period changes",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13": "passage",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-20-study-21-areas-22": "two study areas",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-2": "short",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-transient-15": "transient",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-10": "related",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-synoptic-16-systems-17": "synoptic systems",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-mostly-9": "mostly",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmospheric-6-conditions-7": "atmospheric conditions",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-fronts-25": "fronts",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-located-27": "located",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sharp-23": "sharp",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-where-22": "where",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7": "air sea temperature gradients",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14": "surface characteristics",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-2": "large",
+    "NE-LOCATION-BMC": "BMC",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-regions-20": "regions",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-oceanographic-24": "oceanographic",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-linked-10": "linked",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17-results-2": "we results",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-weather-9": "weather",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sea-30-surface-32-temperature-33-patterns-34": "sea surface temperature patterns",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-combination-39": "combination",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequent-42-propagation-43-of-44-transient-45-atmospheric-46-systems-47": "frequent propagation of transient atmospheric systems",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-improving-8": "improving",
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-able-4": "able"
+  },
+  "graph": [
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6",
+      "relation": "were computed from",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6",
+      "relation": "were computed during",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-Turbulent-1"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6",
+      "relation": "were",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-computed-8"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-computed-8",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-computed-8",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-micrometeorological-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-performed-21"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Atlantic-Ocean"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-in-10"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-high-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Continental-Shelf",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-eddy-2-covariance-3",
+      "relation": "estimate",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-16"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-eddy-2-covariance-3",
+      "relation": "was",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-used-9"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-8-estimates-9",
+      "relation": "made at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-location-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-location-20",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-same-19"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-8-estimates-9",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-novel-5"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-8-estimates-9",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-high-12"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-11-fluxes-12",
+      "relation": "is with",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-bulk-14-parametrizations-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17",
+      "relation": "comparing",
+      "object_id": "NE-ORGANIZATION-EC"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-EC",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-14-fluxes-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21",
+      "relation": "is in",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-their-24-magnitude-25"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-good-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17",
+      "relation": "found",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-EC",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-12"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-46-study-47-areas-48",
+      "relation": "is in",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-SWAO-51"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-their-24-magnitude-25"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-comparisons-11",
+      "relation": "show",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-comparisons-11",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-EC"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-comparisons-11",
+      "relation": "However show",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ranging-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-75-17-W-18-m-20-−2-21",
+      "relation": "is in",
+      "object_id": "NE-ORGANIZATION-SBCS"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-75-17-W-18-m-20-−2-21"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-13"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2",
+      "relation": "were associated events",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmosphere-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2",
+      "relation": "were associated",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-events-33"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2",
+      "relation": "were always associated events",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15",
+      "relation": "occurring in",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmosphere-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-7"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmosphere-20",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-28"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-environmental-14"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2",
+      "relation": "were always associated",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-events-33"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ocean-24",
+      "relation": "is with",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-majority-27"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4",
+      "relation": "were mostly related to",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-20-study-21-areas-22"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4",
+      "relation": "were related to",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-2"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-transient-15"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4",
+      "relation": "were",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-10"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-synoptic-16-systems-17"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-10",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-mostly-9"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4",
+      "relation": "is in",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmospheric-6-conditions-7"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-fronts-25",
+      "relation": "are",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-located-27"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-fronts-25",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sharp-23"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-located-27",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-where-22"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7",
+      "relation": "were linked to",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-2"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14",
+      "relation": "of",
+      "object_id": "NE-LOCATION-BMC"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-regions-20"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7",
+      "relation": "were mostly linked to",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-fronts-25",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-oceanographic-24"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7",
+      "relation": "were",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-linked-10"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-linked-10",
+      "relation": "at",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-mostly-9"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17-results-2",
+      "relation": "contribute to",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-weather-9"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sea-30-surface-32-temperature-33-patterns-34",
+      "relation": "is in",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-combination-39"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-combination-39",
+      "relation": "of",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequent-42-propagation-43-of-44-transient-45-atmospheric-46-systems-47"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-combination-39",
+      "relation": "is with",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequent-42-propagation-43-of-44-transient-45-atmospheric-46-systems-47"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-weather-9",
+      "relation": "is",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-improving-8"
+    },
+    {
+      "subject_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17-results-2",
+      "relation": "are",
+      "object_id": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-able-4"
+    }
+  ],
+  "links": {
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-2-sea-4-heat-5-fluxes-6": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-14-data-16": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-18-research-19-cruises-20": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-Turbulent-1": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-computed-8": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-micrometeorological-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-performed-21": [],
+    "NE-LOCATION-Atlantic-Ocean": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-in-10": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-high-12": [],
+    "NE-ORGANIZATION-Continental-Shelf": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-eddy-2-covariance-3": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-16": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-used-9": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequency-8-estimates-9": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-location-20": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-same-19": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-novel-5": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-11-fluxes-12": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-bulk-14-parametrizations-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17": [],
+    "NE-ORGANIZATION-EC": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-heat-14-fluxes-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-agreement-21": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-their-24-magnitude-25": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-good-20": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sensible-12": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-46-study-47-areas-48": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-SWAO-51": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-comparisons-11": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-14": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ranging-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-75-17-W-18-m-20-−2-21": [],
+    "NE-ORGANIZATION-SBCS": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-13": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-biases-2": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-term-9-perturbations-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmosphere-20": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-events-33": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-7": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-28": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-environmental-14": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-ocean-24": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-majority-27": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-period-3-changes-4": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-passage-13": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-two-20-study-21-areas-22": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-short-2": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-transient-15": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-related-10": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-synoptic-16-systems-17": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-mostly-9": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-atmospheric-6-conditions-7": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-fronts-25": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-located-27": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sharp-23": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-where-22": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-air-3-sea-5-temperature-6-gradients-7": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-surface-13-characteristics-14": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-2": [],
+    "NE-LOCATION-BMC": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-regions-20": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-oceanographic-24": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-linked-10": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-we-17-results-2": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-weather-9": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sea-30-surface-32-temperature-33-patterns-34": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-combination-39": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-frequent-42-propagation-43-of-44-transient-45-atmospheric-46-systems-47": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-improving-8": [],
+    "65819ad9-23ea-4aef-a8e9-6242bf47c12d-able-4": []
+  }
+}

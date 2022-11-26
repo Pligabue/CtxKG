@@ -1,0 +1,313 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85017468089.txt",
+  "entities": {
+    "08c3852e-194c-4498-b732-46cf26512128-study-17": "study",
+    "08c3852e-194c-4498-b732-46cf26512128-influence-20": "influence",
+    "08c3852e-194c-4498-b732-46cf26512128-approach-4": "approach",
+    "NE-DATE-present": "present",
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-simulation-7": "reservoir simulation",
+    "08c3852e-194c-4498-b732-46cf26512128-changes-22": "changes",
+    "08c3852e-194c-4498-b732-46cf26512128-integrated-3": "integrated",
+    "08c3852e-194c-4498-b732-46cf26512128-pressure-24": "pressure",
+    "08c3852e-194c-4498-b732-46cf26512128-changes-8": "changes",
+    "08c3852e-194c-4498-b732-46cf26512128-characterization-22": "characterization",
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-29": "reservoir",
+    "08c3852e-194c-4498-b732-46cf26512128-can-9-detected-11": "can detected",
+    "08c3852e-194c-4498-b732-46cf26512128-4D-13": "4D",
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-14": "seismic",
+    "08c3852e-194c-4498-b732-46cf26512128-studied-16": "studied",
+    "08c3852e-194c-4498-b732-46cf26512128-fluid-25-flow-26": "fluid flow",
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-production-7-simulations-8": "reservoir production simulations",
+    "08c3852e-194c-4498-b732-46cf26512128-effects-4": "effects",
+    "NE-TITLE-model": "model",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "08c3852e-194c-4498-b732-46cf26512128-sandstone-17-reservoir-18": "sandstone reservoir",
+    "NE-CITY-Campos": "Campos",
+    "08c3852e-194c-4498-b732-46cf26512128-conducted-10": "conducted",
+    "08c3852e-194c-4498-b732-46cf26512128-geological-13": "geological",
+    "08c3852e-194c-4498-b732-46cf26512128-simulation-16-results-17": "simulation results",
+    "08c3852e-194c-4498-b732-46cf26512128-volumes-23": "volumes",
+    "08c3852e-194c-4498-b732-46cf26512128-synthetic-21": "synthetic",
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-22": "seismic",
+    "08c3852e-194c-4498-b732-46cf26512128-4D-10-impedance-11-volumes-12": "4D impedance volumes",
+    "08c3852e-194c-4498-b732-46cf26512128-modeling-8": "modeling",
+    "08c3852e-194c-4498-b732-46cf26512128-direct-2": "direct",
+    "08c3852e-194c-4498-b732-46cf26512128-created-14": "created",
+    "08c3852e-194c-4498-b732-46cf26512128-petro-3-elastic-5": "petro elastic",
+    "08c3852e-194c-4498-b732-46cf26512128-Simulations-1-scenarios-9": "Simulations scenarios",
+    "08c3852e-194c-4498-b732-46cf26512128-oil-19---20-water-21-and-22-oil-23---24-gas-25-substitutions-26": "oil - water and oil - gas substitutions",
+    "08c3852e-194c-4498-b732-46cf26512128-amplitudes-34": "amplitudes",
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-33": "seismic",
+    "08c3852e-194c-4498-b732-46cf26512128-sandstone-37-reservoir-38": "sandstone reservoir",
+    "08c3852e-194c-4498-b732-46cf26512128-pressure-10": "pressure",
+    "08c3852e-194c-4498-b732-46cf26512128-anomalies-14": "anomalies",
+    "08c3852e-194c-4498-b732-46cf26512128-related-13": "related",
+    "08c3852e-194c-4498-b732-46cf26512128-interpretations-2": "interpretations",
+    "08c3852e-194c-4498-b732-46cf26512128-definition-5": "definition",
+    "08c3852e-194c-4498-b732-46cf26512128-areas-18": "areas",
+    "08c3852e-194c-4498-b732-46cf26512128-water-20-injection-23": "water injection",
+    "08c3852e-194c-4498-b732-46cf26512128-patterns-7": "patterns"
+  },
+  "graph": [
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-study-17",
+      "relation": "analyzes",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-influence-20"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-study-17",
+      "relation": "Using",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-approach-4"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-study-17",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-approach-4",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-simulation-7"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-influence-20",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-changes-22"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-approach-4",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-integrated-3"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-influence-20",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-pressure-24"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-changes-22",
+      "relation": "is in",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-pressure-24"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-changes-8",
+      "relation": "help in",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-characterization-22"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-characterization-22",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-reservoir-29"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-changes-8",
+      "relation": "can",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-can-9-detected-11"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-can-9-detected-11",
+      "relation": "at",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-4D-13"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-seismic-14",
+      "relation": "are",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-studied-16"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-characterization-22",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-fluid-25-flow-26"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-production-7-simulations-8",
+      "relation": "analyze",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-effects-4"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-production-7-simulations-8",
+      "relation": "were conducted in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "in reservoir is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-sandstone-17-reservoir-18",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-production-7-simulations-8",
+      "relation": "were",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-conducted-10"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-geological-13"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-sandstone-17-reservoir-18"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-simulation-16-results-17",
+      "relation": "corresponding",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-volumes-23"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-volumes-23",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-synthetic-21"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-volumes-23",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-seismic-22"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-4D-10-impedance-11-volumes-12",
+      "relation": "were created Through",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-modeling-8"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-modeling-8",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-direct-2"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-4D-10-impedance-11-volumes-12",
+      "relation": "were",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-created-14"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-modeling-8",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-petro-3-elastic-5"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-Simulations-1-scenarios-9",
+      "relation": "were",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-conducted-10"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-oil-19---20-water-21-and-22-oil-23---24-gas-25-substitutions-26",
+      "relation": "affect",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-amplitudes-34"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-amplitudes-34",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-seismic-33"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-oil-19---20-water-21-and-22-oil-23---24-gas-25-substitutions-26",
+      "relation": "affect amplitudes in",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-sandstone-37-reservoir-38"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-pressure-10",
+      "relation": "distinguish",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-anomalies-14"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-anomalies-14",
+      "relation": "is",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-related-13"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-interpretations-2",
+      "relation": "allow",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-definition-5"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-pressure-10",
+      "relation": "distinguish",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-areas-18"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-areas-18",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-water-20-injection-23"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-definition-5",
+      "relation": "of",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-patterns-7"
+    },
+    {
+      "subject_id": "08c3852e-194c-4498-b732-46cf26512128-definition-5",
+      "relation": "identify",
+      "object_id": "08c3852e-194c-4498-b732-46cf26512128-pressure-10"
+    }
+  ],
+  "links": {
+    "08c3852e-194c-4498-b732-46cf26512128-study-17": [],
+    "08c3852e-194c-4498-b732-46cf26512128-influence-20": [],
+    "08c3852e-194c-4498-b732-46cf26512128-approach-4": [],
+    "NE-DATE-present": [],
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-simulation-7": [],
+    "08c3852e-194c-4498-b732-46cf26512128-changes-22": [],
+    "08c3852e-194c-4498-b732-46cf26512128-integrated-3": [],
+    "08c3852e-194c-4498-b732-46cf26512128-pressure-24": [],
+    "08c3852e-194c-4498-b732-46cf26512128-changes-8": [],
+    "08c3852e-194c-4498-b732-46cf26512128-characterization-22": [],
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-29": [],
+    "08c3852e-194c-4498-b732-46cf26512128-can-9-detected-11": [],
+    "08c3852e-194c-4498-b732-46cf26512128-4D-13": [],
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-14": [],
+    "08c3852e-194c-4498-b732-46cf26512128-studied-16": [],
+    "08c3852e-194c-4498-b732-46cf26512128-fluid-25-flow-26": [],
+    "08c3852e-194c-4498-b732-46cf26512128-reservoir-6-production-7-simulations-8": [],
+    "08c3852e-194c-4498-b732-46cf26512128-effects-4": [],
+    "NE-TITLE-model": [],
+    "NE-LOCATION-Basin": [],
+    "NE-COUNTRY-Brazil": [],
+    "08c3852e-194c-4498-b732-46cf26512128-sandstone-17-reservoir-18": [],
+    "NE-CITY-Campos": [],
+    "08c3852e-194c-4498-b732-46cf26512128-conducted-10": [],
+    "08c3852e-194c-4498-b732-46cf26512128-geological-13": [],
+    "08c3852e-194c-4498-b732-46cf26512128-simulation-16-results-17": [],
+    "08c3852e-194c-4498-b732-46cf26512128-volumes-23": [],
+    "08c3852e-194c-4498-b732-46cf26512128-synthetic-21": [],
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-22": [],
+    "08c3852e-194c-4498-b732-46cf26512128-4D-10-impedance-11-volumes-12": [],
+    "08c3852e-194c-4498-b732-46cf26512128-modeling-8": [],
+    "08c3852e-194c-4498-b732-46cf26512128-direct-2": [],
+    "08c3852e-194c-4498-b732-46cf26512128-created-14": [],
+    "08c3852e-194c-4498-b732-46cf26512128-petro-3-elastic-5": [],
+    "08c3852e-194c-4498-b732-46cf26512128-Simulations-1-scenarios-9": [],
+    "08c3852e-194c-4498-b732-46cf26512128-oil-19---20-water-21-and-22-oil-23---24-gas-25-substitutions-26": [],
+    "08c3852e-194c-4498-b732-46cf26512128-amplitudes-34": [],
+    "08c3852e-194c-4498-b732-46cf26512128-seismic-33": [],
+    "08c3852e-194c-4498-b732-46cf26512128-sandstone-37-reservoir-38": [],
+    "08c3852e-194c-4498-b732-46cf26512128-pressure-10": [],
+    "08c3852e-194c-4498-b732-46cf26512128-anomalies-14": [],
+    "08c3852e-194c-4498-b732-46cf26512128-related-13": [],
+    "08c3852e-194c-4498-b732-46cf26512128-interpretations-2": [],
+    "08c3852e-194c-4498-b732-46cf26512128-definition-5": [],
+    "08c3852e-194c-4498-b732-46cf26512128-areas-18": [],
+    "08c3852e-194c-4498-b732-46cf26512128-water-20-injection-23": [],
+    "08c3852e-194c-4498-b732-46cf26512128-patterns-7": []
+  }
+}

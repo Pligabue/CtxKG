@@ -1,0 +1,557 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085773523.txt",
+  "entities": {
+    "ab307ab9-374d-477f-9d96-1a0fda460239-set-5": "set",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-results-9": "results",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-2": "article",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-analysis-7": "analysis",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-valves-26": "valves",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29": "subsea manifolds",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-Shared-11-Actuation-13-Control-14": "Shared Actuation Control",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2": "discussion",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5": "aspects",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-cases-11": "cases",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16": "fields",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-presentation-8": "presentation",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-including-7": "including",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-historical-4": "historical",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-real-10": "real",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-13": "SAC",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-concepts-3": "concepts",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-used-5": "used",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-formulated-2": "formulated",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-4": "based",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-part-6": "part",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-application-55": "application",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-20-17-years-18": "20 years",
+    "NE-DATE-last-20-years": "last 20 years",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-development-22": "development",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-30-manifold-31": "subsea manifold",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-unique-9": "unique",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-29-subsea-30-manifold-31": "based subsea manifold",
+    "NE-LOCATION-Basin": "Basin",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-accumulated-11": "accumulated",
+    "NE-CITY-Santos": "Santos",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-experience-10": "experience",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2": "methodology",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-8": "based",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-approach-12": "approach",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-comparative-11": "comparative",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-6": "article",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-it-17": "it",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-19": "based",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-application-22": "application",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-We-1": "We",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-two-24-principles-26": "two principles",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-approach-5": "approach",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-specific-25": "specific",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-such-4": "such",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-principles-2": "principles",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-4": "proposed",
+    "NE-MISC-I&C-Principles": "I&C Principles",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-set-6": "set",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCSs-11": "EHMCSs",
+    "NE-ORGANIZATION-SAC": "SAC",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCS-42": "EHMCS",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-characteristic-43": "characteristic",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-point-4": "point",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-given-41": "given",
+    "NE-TITLE-engineer": "engineer",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-employment-15": "employment",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-technical-8": "technical",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-characteristics-9": "characteristics",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-starting-3": "starting",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-obtain-14": "obtain",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-to-13": "to",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-previous-22-applications-23": "previous applications",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-27-control-28-systems-29": "subsea control systems",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-table-3": "table",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-engineering-12-aspects-13": "engineering aspects",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-presented-5": "presented",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-2": "proposed",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-several-11": "several",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-8": "article",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-applications-2": "applications",
+    "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-5-schemes-6": "SAC schemes"
+  },
+  "graph": [
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-5",
+      "relation": "article",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-results-9"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-article-2",
+      "relation": "presents",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-5"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-5",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-analysis-7"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-valves-26",
+      "relation": "is in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-results-9",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-Shared-11-Actuation-13-Control-14"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2",
+      "relation": "covers",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-cases-11"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-presentation-8"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "case",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-including-7"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-historical-4"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-presentation-8",
+      "relation": "is in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-real-10"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-13"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-concepts-3",
+      "relation": "are",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-used-5"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-concepts-3",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-formulated-2"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-4"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-4",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2",
+      "relation": "is based in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-55",
+      "relation": "is in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-20-17-years-18"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "at",
+      "object_id": "NE-DATE-last-20-years"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2",
+      "relation": "is based with",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-development-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-development-22",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-30-manifold-31"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-4",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-development-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-unique-9"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-29-subsea-30-manifold-31",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-accumulated-11"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-experience-10"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2",
+      "relation": "proposed",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-8"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-8",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-12"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2",
+      "relation": "is based on",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-12"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-12",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-comparative-11"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2",
+      "relation": "proposed in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-article-6"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-8"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-it-17",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-19"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-it-17",
+      "relation": "is based on",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-it-17",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "refer",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-two-24-principles-26"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "refer to",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-5"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-specific-25"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-5",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-such-4"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "refer",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-19"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-19",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22",
+      "relation": "mark",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-19"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-application-22",
+      "relation": "at",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-based-19"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-approach-5",
+      "relation": "of",
+      "object_id": "NE-MISC-I&C-Principles"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-principles-2",
+      "relation": "are",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-4"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-principles-2",
+      "relation": "are proposed in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-article-6"
+    },
+    {
+      "subject_id": "NE-MISC-I&C-Principles",
+      "relation": "Taking",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-6"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-6",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCSs-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-SAC",
+      "relation": "should inherit",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCS-42"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCS-42",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-characteristic-43"
+    },
+    {
+      "subject_id": "NE-MISC-I&C-Principles",
+      "relation": "Taking set as",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-point-4"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCS-42",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-given-41"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCSs-11",
+      "relation": "of characteristics is",
+      "object_id": "NE-TITLE-engineer"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-employment-15",
+      "relation": "such characteristics is",
+      "object_id": "NE-TITLE-engineer"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-6",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-technical-8"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-set-6",
+      "relation": "of",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-characteristics-9"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-point-4",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-starting-3"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "effectively applying",
+      "object_id": "NE-MISC-I&C-Principles"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "applying",
+      "object_id": "NE-MISC-I&C-Principles"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "effectively applying I&C Methodology",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-obtain-14"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-obtain-14",
+      "relation": "mark",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-to-13"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-We-1",
+      "relation": "applying I&C Methodology",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-obtain-14"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-previous-22-applications-23",
+      "relation": "is in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-27-control-28-systems-29"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-table-3",
+      "relation": "incorporates",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-engineering-12-aspects-13"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-table-3",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-presented-5"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-table-3",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-2"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-engineering-12-aspects-13",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-several-11"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-table-3",
+      "relation": "is presented in",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-article-8"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-applications-2",
+      "relation": "include",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-5-schemes-6"
+    },
+    {
+      "subject_id": "ab307ab9-374d-477f-9d96-1a0fda460239-applications-2",
+      "relation": "is",
+      "object_id": "ab307ab9-374d-477f-9d96-1a0fda460239-such-4"
+    }
+  ],
+  "links": {
+    "ab307ab9-374d-477f-9d96-1a0fda460239-set-5": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-results-9": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-analysis-7": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-valves-26": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-Shared-11-Actuation-13-Control-14": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-cases-11": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-fields-16": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-presentation-8": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-including-7": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-historical-4": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-real-10": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-13": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-concepts-3": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-used-5": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-formulated-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-4": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-part-6": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-application-55": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-20-17-years-18": [],
+    "NE-DATE-last-20-years": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-development-22": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-30-manifold-31": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-unique-9": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-29-subsea-30-manifold-31": [],
+    "NE-LOCATION-Basin": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-accumulated-11": [],
+    "NE-CITY-Santos": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-experience-10": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-methodology-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-8": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-approach-12": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-comparative-11": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-6": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-it-17": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-based-19": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-application-22": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-We-1": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-two-24-principles-26": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-approach-5": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-specific-25": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-such-4": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-principles-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-4": [],
+    "NE-MISC-I&C-Principles": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-set-6": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCSs-11": [],
+    "NE-ORGANIZATION-SAC": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-EHMCS-42": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-characteristic-43": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-point-4": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-given-41": [],
+    "NE-TITLE-engineer": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-employment-15": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-technical-8": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-characteristics-9": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-starting-3": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-obtain-14": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-to-13": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-previous-22-applications-23": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-27-control-28-systems-29": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-table-3": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-engineering-12-aspects-13": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-presented-5": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-proposed-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-several-11": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-article-8": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-applications-2": [],
+    "ab307ab9-374d-477f-9d96-1a0fda460239-SAC-5-schemes-6": []
+  }
+}

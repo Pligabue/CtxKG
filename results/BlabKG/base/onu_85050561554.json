@@ -1,0 +1,343 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85050561554.txt",
+  "entities": {
+    "NE-LOCATION-Basin-Pre-Salt": "Basin Pre-Salt",
+    "NE-CITY-Santos": "Santos",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-November-2": "November",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2010-4": "2010",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23": "capacity",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-objectives-32": "objectives",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8": "necessity",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19": "area",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-additional-11-gas-12-export-13-pipeline-14": "one additional gas export pipeline",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-export-26-gas-27-network-28": "export gas network",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-defined-33": "defined",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Strategic-36-Plan-37": "Strategic Plan",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-gas-12-export-13-pipeline-14": "one gas export pipeline",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-two-4-gas-5-export-6-pipelines-7": "two gas export pipelines",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-operation-9": "operation",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-facilities-42": "facilities",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-RJ-46": "RJ",
+    "NE-LOCATION-Cabiunas": "Cabiunas",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-field-25": "field",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-PERSON-Lula-Norte": "Lula Norte",
+    "NE-ORGANIZATION-Rota": "Rota",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-interconnected-6": "interconnected",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-3-4": "3",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-gas-9-pipeline-10": "gas pipeline",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2-12": "2",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1": "Also",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2": "paper",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19": "consulting",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-national-21": "national",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-DNV-11-0S-13-F101-15": "DNV 0S F101",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-standard-10": "standard",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipe-24-suppliers-25": "pipe suppliers",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-several-18": "several",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipeline-5-design-6-optimizations-7": "pipeline design optimizations",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-scale-2-qualifications-3-tests-4": "scale qualifications tests",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-performed-6": "performed",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Full-1": "Full",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-qualification-2-process-3": "qualification process",
+    "NE-ORGANIZATION-DNV": "DNV",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-2": "simplifications",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-introduced-4": "introduced",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Additional-1": "Additional",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Installation-1-contractors-2": "Installation contractors",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-invited-4": "invited",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-7": "simplifications",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-project-10": "project",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Lessons-1-learned-2": "Lessons learned",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-envisaged-17": "envisaged",
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-also-16": "also"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-LOCATION-Basin-Pre-Salt",
+      "relation": "is",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "defined necessity On",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-November-2"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "amount to",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2010-4"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23",
+      "relation": "assure",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-objectives-32"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "defined",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-additional-11-gas-12-export-13-pipeline-14",
+      "relation": "is in",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin-Pre-Salt"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-additional-11-gas-12-export-13-pipeline-14"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8",
+      "relation": "improve",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-export-26-gas-27-network-28"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-objectives-32",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-defined-33"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-objectives-32",
+      "relation": "at",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Strategic-36-Plan-37"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-gas-12-export-13-pipeline-14"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-two-4-gas-5-export-6-pipelines-7",
+      "relation": "is in",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-operation-9"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-facilities-42",
+      "relation": "is in",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-RJ-46"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-RJ-46",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Cabiunas"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-field-25",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-field-25",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula-Norte"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Rota",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-interconnected-6"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Rota",
+      "relation": "amount to",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-3-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Rota",
+      "relation": "export",
+      "object_id": "NE-ORGANIZATION-Rota"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Rota",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-gas-9-pipeline-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Rota",
+      "relation": "amount to",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2-12"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-interconnected-6",
+      "relation": "at",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2",
+      "relation": "addresses pipeline design optimizations on",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-national-21"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2",
+      "relation": "addresses pipeline design optimizations based",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-DNV-11-0S-13-F101-15"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-DNV-11-0S-13-F101-15",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-standard-10"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipe-24-suppliers-25"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-several-18"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2",
+      "relation": "addresses",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipeline-5-design-6-optimizations-7"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-scale-2-qualifications-3-tests-4",
+      "relation": "were",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-performed-6"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-scale-2-qualifications-3-tests-4",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Full-1"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-qualification-2-process-3",
+      "relation": "was witnessed by",
+      "object_id": "NE-ORGANIZATION-DNV"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-2",
+      "relation": "were",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-introduced-4"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-2",
+      "relation": "is",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Additional-1"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Installation-1-contractors-2",
+      "relation": "were",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-invited-4"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Installation-1-contractors-2",
+      "relation": "suggest",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-7"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-7",
+      "relation": "of",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-project-10"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Lessons-1-learned-2",
+      "relation": "are",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-envisaged-17"
+    },
+    {
+      "subject_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-envisaged-17",
+      "relation": "at",
+      "object_id": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-also-16"
+    }
+  ],
+  "links": {
+    "NE-LOCATION-Basin-Pre-Salt": [],
+    "NE-CITY-Santos": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-November-2": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2010-4": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-objectives-32": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-necessity-8": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-area-19": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-additional-11-gas-12-export-13-pipeline-14": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-gas-12-export-13-pipeline-14"
+    ],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-export-26-gas-27-network-28": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-defined-33": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Strategic-36-Plan-37": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-gas-12-export-13-pipeline-14": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-one-10-additional-11-gas-12-export-13-pipeline-14"
+    ],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-two-4-gas-5-export-6-pipelines-7": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-operation-9": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-facilities-42": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-RJ-46": [],
+    "NE-LOCATION-Cabiunas": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-field-25": [],
+    "NE-LOCATION-Basin": [],
+    "NE-PERSON-Lula-Norte": [],
+    "NE-ORGANIZATION-Rota": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-interconnected-6": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-3-4": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-gas-9-pipeline-10": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2-12": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-also-16"
+    ],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-consulting-19": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-national-21": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-DNV-11-0S-13-F101-15": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-standard-10": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipe-24-suppliers-25": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-several-18": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-pipeline-5-design-6-optimizations-7": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-scale-2-qualifications-3-tests-4": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-performed-6": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Full-1": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-qualification-2-process-3": [],
+    "NE-ORGANIZATION-DNV": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-2": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-7"
+    ],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-introduced-4": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Additional-1": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Installation-1-contractors-2": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-invited-4": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-7": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-simplifications-2"
+    ],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-project-10": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Lessons-1-learned-2": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-envisaged-17": [],
+    "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-also-16": [
+      "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1"
+    ]
+  }
+}

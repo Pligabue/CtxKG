@@ -1,0 +1,272 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84949266932.txt",
+  "entities": {
+    "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4": "industries",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14": "potential sources",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-area-19": "area",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11": "activities",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-pollution-16": "pollution",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-urban-8": "urban",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2": "addition",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sterols-2": "sterols",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-identified-4": "identified",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Eight-1": "Eight",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Concentrations-1": "Concentrations",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8": "tools",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-used-9": "used",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-coprostanol-27-concentrations-28": "coprostanol concentrations",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-observed-35": "observed",
+    "NE-PERCENT-42%": "42 %",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sterol-4-ratios-5": "sterol ratios",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-selected-3": "selected",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-analyzed-42": "analyzed",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-where-26": "where",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-useful-7": "useful",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-stations-41": "stations",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Factor-1-analysis-2": "Factor analysis",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-component-5-analysis-6": "component analysis",
+    "NE-TITLE-principal": "principal",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-two-14-groups-16": "two groups",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-different-15": "different",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-samples-18": "samples",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14": "stations along estuarine system",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sewage-23": "sewage",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-12-9": "12",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-contaminated-21": "contaminated",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-clearly-20": "clearly",
+    "42b505ba-f41a-4c4d-afef-28084be680c7-the-12": "the"
+  },
+  "graph": [
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4",
+      "relation": "are",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-area-19"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11",
+      "relation": "are",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4",
+      "relation": "are potential sources in",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-area-19"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-pollution-16"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-urban-8"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11",
+      "relation": "are potential sources In",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4",
+      "relation": "are potential sources In",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14",
+      "relation": "is in",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-area-19"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11",
+      "relation": "are potential sources of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-pollution-16"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14",
+      "relation": "is In",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11",
+      "relation": "are potential sources in",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-area-19"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14",
+      "relation": "at",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4",
+      "relation": "are potential sources of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-pollution-16"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sterols-2",
+      "relation": "were",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-identified-4"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sterols-2",
+      "relation": "amount to",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-Eight-1"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-Concentrations-1",
+      "relation": "were",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-used-9"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-coprostanol-27-concentrations-28",
+      "relation": "were",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-observed-35"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-observed-35",
+      "relation": "at",
+      "object_id": "NE-PERCENT-42%"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sterol-4-ratios-5",
+      "relation": "were",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sterol-4-ratios-5",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-selected-3"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-coprostanol-27-concentrations-28",
+      "relation": "were observed in",
+      "object_id": "NE-PERCENT-42%"
+    },
+    {
+      "subject_id": "NE-PERCENT-42%",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-analyzed-42"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-observed-35",
+      "relation": "at",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-where-26"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-useful-7"
+    },
+    {
+      "subject_id": "NE-PERCENT-42%",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-41"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-Factor-1-analysis-2",
+      "relation": "is with",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-component-5-analysis-6"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-component-5-analysis-6",
+      "relation": "is",
+      "object_id": "NE-TITLE-principal"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-Factor-1-analysis-2",
+      "relation": "has distinguished",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-two-14-groups-16"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-two-14-groups-16",
+      "relation": "is",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-different-15"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-two-14-groups-16",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-samples-18"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14",
+      "relation": "are contaminated by",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sewage-23"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-12-9"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14",
+      "relation": "are",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-contaminated-21"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-contaminated-21",
+      "relation": "at",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-clearly-20"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-contaminated-21",
+      "relation": "by",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sewage-23"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14",
+      "relation": "are clearly contaminated by",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-sewage-23"
+    },
+    {
+      "subject_id": "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14",
+      "relation": "of",
+      "object_id": "42b505ba-f41a-4c4d-afef-28084be680c7-the-12"
+    }
+  ],
+  "links": {
+    "42b505ba-f41a-4c4d-afef-28084be680c7-industries-4": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-area-19": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-activities-11": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-pollution-16": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-urban-8": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-addition-2": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sterols-2": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-identified-4": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Eight-1": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Concentrations-1": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-tools-8": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-used-9": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-coprostanol-27-concentrations-28": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-observed-35": [],
+    "NE-PERCENT-42%": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sterol-4-ratios-5": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-selected-3": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-analyzed-42": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-where-26": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-useful-7": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-stations-41": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-Factor-1-analysis-2": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-component-5-analysis-6": [],
+    "NE-TITLE-principal": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-two-14-groups-16": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-different-15": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-samples-18": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-stations-10-along-11-estuarine-13-system-14": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-sewage-23": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-12-9": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-contaminated-21": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-clearly-20": [],
+    "42b505ba-f41a-4c4d-afef-28084be680c7-the-12": []
+  }
+}

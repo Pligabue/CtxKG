@@ -1,0 +1,168 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85088892946.txt",
+  "entities": {
+    "03163d01-a984-4a93-b405-5621c6de58e3-study-2": "study",
+    "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10": "mangroves areas",
+    "03163d01-a984-4a93-b405-5621c6de58e3-mangrove-24": "mangrove",
+    "03163d01-a984-4a93-b405-5621c6de58e3-wetting-15": "wetting",
+    "03163d01-a984-4a93-b405-5621c6de58e3-processes-18": "processes",
+    "03163d01-a984-4a93-b405-5621c6de58e3-including-11-effects-13": "including effects",
+    "03163d01-a984-4a93-b405-5621c6de58e3-modeling-5-water-6-quality-7": "modeling water quality",
+    "03163d01-a984-4a93-b405-5621c6de58e3-biogeochemistry-21": "biogeochemistry",
+    "03163d01-a984-4a93-b405-5621c6de58e3-we-5": "we",
+    "03163d01-a984-4a93-b405-5621c6de58e3-achieve-2": "achieve",
+    "03163d01-a984-4a93-b405-5621c6de58e3-To-1": "To",
+    "NE-TITLE-model": "model",
+    "03163d01-a984-4a93-b405-5621c6de58e3-water-9-hydrodynamics-10": "water hydrodynamics",
+    "03163d01-a984-4a93-b405-5621c6de58e3-capable-12": "capable",
+    "03163d01-a984-4a93-b405-5621c6de58e3-shallow-8": "shallow",
+    "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-4": "capabilities",
+    "03163d01-a984-4a93-b405-5621c6de58e3-region-13": "region",
+    "03163d01-a984-4a93-b405-5621c6de58e3-estuary-12": "estuary",
+    "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-21": "capabilities",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "03163d01-a984-4a93-b405-5621c6de58e3-water-14-quality-15-parameters-16": "water quality parameters",
+    "03163d01-a984-4a93-b405-5621c6de58e3-complex-19-tidal-20-system-21-comprised-22-of-23-extensive-24-mangrove-25-flats-26": "complex tidal system comprised of extensive mangrove flats"
+  },
+  "graph": [
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-study-2",
+      "relation": "focuses in",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10",
+      "relation": "of",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangrove-24"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10",
+      "relation": "is",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-wetting-15"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10",
+      "relation": "of",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-processes-18"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10",
+      "relation": "of",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-including-11-effects-13"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-study-2",
+      "relation": "focuses on",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-modeling-5-water-6-quality-7"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10",
+      "relation": "of",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-biogeochemistry-21"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-we-5",
+      "relation": "use water hydrodynamics model",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-achieve-2"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-achieve-2",
+      "relation": "mark",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-To-1"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-we-5",
+      "relation": "use",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-water-9-hydrodynamics-10"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-capable-12"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-shallow-8"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-we-5",
+      "relation": "evaluate",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-4"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-4",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-we-5",
+      "relation": "consider",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-region-13"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-region-13",
+      "relation": "is",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-estuary-12"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-region-13",
+      "relation": "evaluate",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-21"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "has",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-21"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-region-13",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-region-13",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "’s",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-21"
+    },
+    {
+      "subject_id": "03163d01-a984-4a93-b405-5621c6de58e3-water-14-quality-15-parameters-16",
+      "relation": "is in",
+      "object_id": "03163d01-a984-4a93-b405-5621c6de58e3-complex-19-tidal-20-system-21-comprised-22-of-23-extensive-24-mangrove-25-flats-26"
+    }
+  ],
+  "links": {
+    "03163d01-a984-4a93-b405-5621c6de58e3-study-2": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-mangroves-9-areas-10": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-mangrove-24": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-wetting-15": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-processes-18": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-including-11-effects-13": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-modeling-5-water-6-quality-7": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-biogeochemistry-21": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-we-5": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-achieve-2": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-To-1": [],
+    "NE-TITLE-model": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-water-9-hydrodynamics-10": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-capable-12": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-shallow-8": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-4": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-region-13": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-estuary-12": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-capabilities-21": [],
+    "NE-COUNTRY-Brazil": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-water-14-quality-15-parameters-16": [],
+    "03163d01-a984-4a93-b405-5621c6de58e3-complex-19-tidal-20-system-21-comprised-22-of-23-extensive-24-mangrove-25-flats-26": []
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85055864923.txt",
+  "entities": {
+    "c183a578-8a5f-4228-b35b-5651f319641f-Production-4-Department-5": "Production Department",
+    "c183a578-8a5f-4228-b35b-5651f319641f-m-20-water-21-depth-22": "m water depth",
+    "NE-DATE-1800": "1800",
+    "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7": "Petrobras",
+    "c183a578-8a5f-4228-b35b-5651f319641f-development-13": "development",
+    "c183a578-8a5f-4228-b35b-5651f319641f-installation-32": "installation",
+    "c183a578-8a5f-4228-b35b-5651f319641f-starboard-42-side-43-of-44-production-46-platform-47": "starboard side of production platform",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "c183a578-8a5f-4228-b35b-5651f319641f-production-16-system-17": "production system",
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-3-concept-4": "buoy concept",
+    "c183a578-8a5f-4228-b35b-5651f319641f-chosen-6": "chosen",
+    "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2": "subsurface",
+    "c183a578-8a5f-4228-b35b-5651f319641f-studies-9": "studies",
+    "c183a578-8a5f-4228-b35b-5651f319641f-phase-14": "phase",
+    "c183a578-8a5f-4228-b35b-5651f319641f-preliminary-8": "preliminary",
+    "NE-ORDINAL-first": "first",
+    "c183a578-8a5f-4228-b35b-5651f319641f-concept-2": "concept",
+    "c183a578-8a5f-4228-b35b-5651f319641f-has-3-developed-5": "has developed",
+    "c183a578-8a5f-4228-b35b-5651f319641f-JIP-16-Deepstar-17": "JIP Deepstar",
+    "c183a578-8a5f-4228-b35b-5651f319641f-risers-23": "risers",
+    "c183a578-8a5f-4228-b35b-5651f319641f-platform-26": "platform",
+    "c183a578-8a5f-4228-b35b-5651f319641f-advantage-5": "advantage",
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-9": "buoy",
+    "c183a578-8a5f-4228-b35b-5651f319641f-results-14": "results",
+    "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6": "characteristics",
+    "c183a578-8a5f-4228-b35b-5651f319641f-structural-16-analyses-17-for-21-buoy-23": "structural analyses for buoy",
+    "c183a578-8a5f-4228-b35b-5651f319641f-main-5": "main",
+    "c183a578-8a5f-4228-b35b-5651f319641f-article-2": "article",
+    "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2-buoy-3-concept-4-sizes-12": "subsurface buoy concept sizes",
+    "c183a578-8a5f-4228-b35b-5651f319641f-its-11": "its",
+    "c183a578-8a5f-4228-b35b-5651f319641f-analyses-17": "analyses",
+    "c183a578-8a5f-4228-b35b-5651f319641f-structural-16": "structural",
+    "c183a578-8a5f-4228-b35b-5651f319641f-same-40-5-41-umblicals-42": "same 5 umblicals",
+    "c183a578-8a5f-4228-b35b-5651f319641f-opposite-45-side-46": "opposite side",
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-23": "buoy",
+    "c183a578-8a5f-4228-b35b-5651f319641f-tested-4": "tested",
+    "c183a578-8a5f-4228-b35b-5651f319641f-verified-14": "verified",
+    "c183a578-8a5f-4228-b35b-5651f319641f-concept-17": "concept",
+    "c183a578-8a5f-4228-b35b-5651f319641f-feasible-19": "feasible",
+    "c183a578-8a5f-4228-b35b-5651f319641f-test-8-tanks-9": "test tanks",
+    "NE-TITLE-model": "model",
+    "c183a578-8a5f-4228-b35b-5651f319641f-two-6": "two",
+    "c183a578-8a5f-4228-b35b-5651f319641f-where-11": "where",
+    "c183a578-8a5f-4228-b35b-5651f319641f-field-7-trial-8": "field trial",
+    "c183a578-8a5f-4228-b35b-5651f319641f-prototype-11-installed-12": "prototype installed",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "c183a578-8a5f-4228-b35b-5651f319641f-waters-15": "waters",
+    "c183a578-8a5f-4228-b35b-5651f319641f-information-3": "information",
+    "c183a578-8a5f-4228-b35b-5651f319641f-will-16-presented-18": "will presented",
+    "c183a578-8a5f-4228-b35b-5651f319641f-related-4": "related",
+    "c183a578-8a5f-4228-b35b-5651f319641f-Also-1": "Also"
+  },
+  "graph": [
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-Production-4-Department-5",
+      "relation": "development for",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-m-20-water-21-depth-22"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-m-20-water-21-depth-22",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1800"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-Production-4-Department-5",
+      "relation": "Exploration of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-development-13",
+      "relation": "Exploration of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-installation-32",
+      "relation": "is in",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-starboard-42-side-43-of-44-production-46-platform-47"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-Production-4-Department-5",
+      "relation": "development of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-production-16-system-17"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-buoy-3-concept-4",
+      "relation": "was",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-chosen-6"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-buoy-3-concept-4",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-studies-9",
+      "relation": "conducted in",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-phase-14"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-studies-9",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-preliminary-8"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-phase-14",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-concept-2",
+      "relation": "has",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-has-3-developed-5"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-phase-14",
+      "relation": "of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-JIP-16-Deepstar-17"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-risers-23",
+      "relation": "is in",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-platform-26"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-concept-2",
+      "relation": "has",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-advantage-5"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-buoy-9",
+      "relation": "of characteristics is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6",
+      "relation": "results of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-structural-16-analyses-17-for-21-buoy-23"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-main-5"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-article-2",
+      "relation": "shows",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2-buoy-3-concept-4-sizes-12"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6",
+      "relation": "sizes",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-its-11"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-article-2",
+      "relation": "shows",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14",
+      "relation": "of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-analyses-17"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-article-2",
+      "relation": "shows",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-structural-16"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-same-40-5-41-umblicals-42",
+      "relation": "is in",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-opposite-45-side-46"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6",
+      "relation": "of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-buoy-9"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14",
+      "relation": "of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-structural-16-analyses-17-for-21-buoy-23"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-results-14",
+      "relation": "of",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-buoy-23"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-concept-2",
+      "relation": "was",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-tested-4"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2-buoy-3-concept-4-sizes-12",
+      "relation": "was",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-verified-14"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-concept-17",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-feasible-19"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-concept-2",
+      "relation": "was tested in",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-test-8-tanks-9"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-test-8-tanks-9",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-test-8-tanks-9",
+      "relation": "amount to",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-two-6"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-verified-14",
+      "relation": "at",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-where-11"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-field-7-trial-8",
+      "relation": "is with",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-prototype-11-installed-12"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-prototype-11-installed-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-prototype-11-installed-12",
+      "relation": "at",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-waters-15"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-information-3",
+      "relation": "will",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-will-16-presented-18"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-information-3",
+      "relation": "is",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-related-4"
+    },
+    {
+      "subject_id": "c183a578-8a5f-4228-b35b-5651f319641f-will-16-presented-18",
+      "relation": "at",
+      "object_id": "c183a578-8a5f-4228-b35b-5651f319641f-Also-1"
+    }
+  ],
+  "links": {
+    "c183a578-8a5f-4228-b35b-5651f319641f-Production-4-Department-5": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-m-20-water-21-depth-22": [],
+    "NE-DATE-1800": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-development-13": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-installation-32": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-starboard-42-side-43-of-44-production-46-platform-47": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-production-16-system-17": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-3-concept-4": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-chosen-6": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-studies-9": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-phase-14": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-preliminary-8": [],
+    "NE-ORDINAL-first": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-concept-2": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-has-3-developed-5": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-JIP-16-Deepstar-17": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-risers-23": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-platform-26": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-advantage-5": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-9": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-results-14": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-characteristics-6": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-structural-16-analyses-17-for-21-buoy-23": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-main-5": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-article-2": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-subsurface-2-buoy-3-concept-4-sizes-12": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-its-11": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-analyses-17": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-structural-16": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-same-40-5-41-umblicals-42": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-opposite-45-side-46": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-buoy-23": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-tested-4": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-verified-14": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-concept-17": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-feasible-19": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-test-8-tanks-9": [],
+    "NE-TITLE-model": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-two-6": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-where-11": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-field-7-trial-8": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-prototype-11-installed-12": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-waters-15": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-information-3": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-will-16-presented-18": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-related-4": [],
+    "c183a578-8a5f-4228-b35b-5651f319641f-Also-1": []
+  }
+}

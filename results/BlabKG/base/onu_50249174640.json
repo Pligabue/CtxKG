@@ -1,0 +1,670 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_50249174640.txt",
+  "entities": {
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20": "investments",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8": "increase",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-new-19": "new",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10-for-11-energy-12": "demand for energy",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-expectation-4": "expectation",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10": "demand",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-decades-16": "decades",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-7": "large",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-15": "coming",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-22-companies-23": "oil companies",
+    "NE-DATE-the-coming-decades": "the coming decades",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-matter-3": "matter",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-participation-18": "participation",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-international-17": "international",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-frontiers-22": "frontiers",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-unexplored-21": "unexplored",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-marginal-16": "marginal",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-scene-7": "scene",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-3-industry-4": "oil industry",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10": "60,000 million bbl",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-global-2": "global",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-12": "petroleum",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-15": "waters",
+    "NE-LOCATION-Gulf-of": "Gulf",
+    "NE-COUNTRY-Mexico": "Mexico",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-14-waters-15": "deep waters",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-global-13-reserves-14": "global reserves",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-18-waters-19-of-20-about-21-50,000-22-million-23-bbl-24": "deep waters of about 50,000 million bbl",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-38-industry-39": "petroleum industry",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15": "exploration",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-19-waters-20": "deep waters",
+    "NE-LOCATION-Latin": "Latin",
+    "NE-COUNTRY-America": "America",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-reserves-28": "reserves",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-region-31": "region",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-prices-8": "prices",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-indication-13": "indication",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-high-7": "high",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-world-2": "world",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7": "75,000 million bpd",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-10": "oil",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-crude-9": "crude",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7": "demand",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-two-15-thirds-16": "two thirds",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-13": "increase",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-production-23": "production",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-25-waters-26": "deep waters",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-to-12": "to",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-expected-11": "expected",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-three-4-decades-5": "three decades",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-3": "coming",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-16-19": "16",
+    "NE-DATE-now": "now",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-23-16-countries-17": "23 countries",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-operating-14": "operating",
+    "NE-ORGANIZATION-Offshore-Magazine": "Offshore Magazine",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5": "study",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-106-11": "106",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-13-6": "13",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-106-3": "106",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-greater-11-than-12-1,000-13-m-14-depth-15": "greater than 1,000 m depth",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-9": "waters",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-7-5": "7",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-13-3": "13",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-are-6-built-8": "are built",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-bid-25": "bid",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-21-4": "21",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-converted-11": "converted",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-world-14": "world",
+    "NE-DATE-2006": "2006",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-part-3": "part",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-2": "large",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-new-7-underwater-8-production-9-projects-10": "new underwater production projects",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-will-11-initiated-13": "will initiated",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-2,011-6": "2,011",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19": "companies",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24": "waters",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-4": "offshore",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-18": "large",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-Gulf-27": "Gulf",
+    "NE-COUNTRY-Argentina": "Argentina",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-to-20": "to",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-23": "deep",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-10": "offshore",
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-active-9": "active"
+  },
+  "graph": [
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20",
+      "relation": "expectation of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-new-19"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10-for-11-energy-12"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-expectation-4",
+      "relation": "However is attracting",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-decades-16"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "is in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10-for-11-energy-12"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-large-7"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-15"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-expectation-4",
+      "relation": "is attracting",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-22-companies-23"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8",
+      "relation": "is in",
+      "object_id": "NE-DATE-the-coming-decades"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-matter-3",
+      "relation": "has",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-participation-18"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-participation-18",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-international-17"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-matter-3",
+      "relation": "encounters",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-frontiers-22"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-frontiers-22",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-unexplored-21"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-participation-18",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-marginal-16"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-scene-7",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-3-industry-4",
+      "relation": "has discovered",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-3-industry-4",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-global-2"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-12"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-15"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-14-waters-15"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10",
+      "relation": "is in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-14-waters-15"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-global-13-reserves-14",
+      "relation": "is in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-18-waters-19-of-20-about-21-50,000-22-million-23-bbl-24"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-38-industry-39",
+      "relation": "of Triangle is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15",
+      "relation": "is in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-19-waters-20"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-19-waters-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Latin"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-19-waters-20",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15",
+      "relation": "increase",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-reserves-28"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-reserves-28",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-region-31"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15",
+      "relation": "significantly increase",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-reserves-28"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-prices-8",
+      "relation": "are",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-indication-13"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-prices-8",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-high-7"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15",
+      "relation": "reserves of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-region-31"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-world-2",
+      "relation": "consumes",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-10"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-crude-9"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+      "relation": "is expected",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-two-15-thirds-16"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-two-15-thirds-16",
+      "relation": "mark",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-13"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+      "relation": "increase by",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-two-15-thirds-16"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-production-23",
+      "relation": "is in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-25-waters-26"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+      "relation": "is expected",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-13"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-13",
+      "relation": "mark",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-to-12"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-expected-11"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+      "relation": "is expected In",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-three-4-decades-5"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-three-4-decades-5",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-3"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-16-19",
+      "relation": "are in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "NE-DATE-now"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-23-16-countries-17"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-operating-14"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Offshore-Magazine"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "case",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-106-11"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is In",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Offshore-Magazine"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-13-6",
+      "relation": "operate Of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "amount to",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-106-3"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-13-6",
+      "relation": "operate at",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-greater-11-than-12-1,000-13-m-14-depth-15"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-13-6",
+      "relation": "operate in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-9"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-7-5",
+      "relation": "are in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "case",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-13-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "are",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-are-6-built-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "be",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-bid-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "amount to",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-21-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "being",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-converted-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "being converted in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-world-14"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-are-6-built-8",
+      "relation": "at",
+      "object_id": "NE-DATE-2006"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-part-3",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-part-3",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-large-2"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-new-7-underwater-8-production-9-projects-10",
+      "relation": "will",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-will-11-initiated-13"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-new-7-underwater-8-production-9-projects-10",
+      "relation": "amount to",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-2,011-6"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-will-11-initiated-13",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "joined",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19",
+      "relation": "explore in",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Gulf-of"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19",
+      "relation": "at",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is active offshore Argentina In",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-4"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-large-18"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24",
+      "relation": "of",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-Gulf-27"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is",
+      "object_id": "NE-COUNTRY-Argentina"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19",
+      "relation": "mark",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-to-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is active Argentina In",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is Argentina In",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is offshore Argentina In",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Argentina",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-10"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Argentina",
+      "relation": "is",
+      "object_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-active-9"
+    },
+    {
+      "subject_id": "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Gulf-of"
+    }
+  ],
+  "links": {
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-investments-20": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-8": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-new-19": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10-for-11-energy-12": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-expectation-4": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-10": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-decades-16": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-7": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-15": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-22-companies-23": [],
+    "NE-DATE-the-coming-decades": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-matter-3": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-participation-18": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-international-17": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-frontiers-22": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-unexplored-21": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-marginal-16": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-scene-7": [],
+    "NE-COUNTRY-Brazil": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-3-industry-4": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-60,000-8-million-9-bbl-10": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-global-2": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-12": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-15": [],
+    "NE-LOCATION-Gulf-of": [
+      "8fde804f-0525-4f0e-8503-d2317096c0a8-Gulf-27"
+    ],
+    "NE-COUNTRY-Mexico": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-14-waters-15": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-global-13-reserves-14": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-18-waters-19-of-20-about-21-50,000-22-million-23-bbl-24": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-petroleum-38-industry-39": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-exploration-15": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-19-waters-20": [],
+    "NE-LOCATION-Latin": [],
+    "NE-COUNTRY-America": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-reserves-28": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-region-31": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-prices-8": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-indication-13": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-high-7": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-world-2": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-10": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-crude-9": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-two-15-thirds-16": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-increase-13": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-production-23": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-25-waters-26": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-to-12": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-expected-11": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-three-4-decades-5": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-coming-3": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-16-19": [],
+    "NE-DATE-now": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-23-16-countries-17": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-operating-14": [],
+    "NE-ORGANIZATION-Offshore-Magazine": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-study-5": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-106-11": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-13-6": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-106-3": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-greater-11-than-12-1,000-13-m-14-depth-15": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-9": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-7-5": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-13-3": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-are-6-built-8": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-bid-25": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-21-4": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-converted-11": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-world-14": [],
+    "NE-DATE-2006": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-part-3": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-2": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-new-7-underwater-8-production-9-projects-10": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-will-11-initiated-13": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-2,011-6": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-waters-24": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-4": [
+      "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-10"
+    ],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-large-18": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-Gulf-27": [
+      "NE-LOCATION-Gulf-of"
+    ],
+    "NE-COUNTRY-Argentina": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-to-20": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-23": [],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-10": [
+      "8fde804f-0525-4f0e-8503-d2317096c0a8-offshore-4"
+    ],
+    "8fde804f-0525-4f0e-8503-d2317096c0a8-active-9": []
+  }
+}

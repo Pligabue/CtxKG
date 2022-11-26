@@ -1,0 +1,233 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84879955769.txt",
+  "entities": {
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-simplified-30-methodology-31": "simplified methodology",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-39-study-40-performed-41-with-42-application-44-of-45-wind-46-turbines-47": "case study performed with application of wind turbines",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-work-2": "work",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8": "feasibility",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-preliminary-16-estimate-17": "preliminary estimate",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26": "environment",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-TITLE-marine": "marine",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-technical-7": "technical",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-offshore-10": "offshore",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-11-projects-12": "wind projects",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-Exclusive-2-Economic-3-Zone-4": "Exclusive Economic Zone",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-about-8-3.6-9-million-10-kmÂ2-11": "about 3.6 million kmÂ2",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-2-study-3": "case study",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-conducted-5": "conducted",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11": "state",
+    "NE-LOCATION-Itamaracá-Island": "Itamaracá Island",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14-of-15-supplying-16": "aim of supplying",
+    "NE-LOCATION-Pernambuco": "Pernambuco",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14": "aim",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-28-speed-29": "wind speed",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-90-33-m-34": "90 m",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-analysis-2": "analysis",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15": "ocean wind map",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-measured-16": "measured",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-9-conditions-10": "wind conditions",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-local-8": "local",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-height-19": "height",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-extrapolated-31": "extrapolated",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25": "therefore",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-10-21-m-22": "10 m",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-frequency-3-distribution-4": "frequency distribution",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-calculated-11": "calculated",
+    "NE-PERSON-Weibull": "Weibull",
+    "NE-DATE-the-year": "the year",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-results-2": "results",
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-showed-4": "showed"
+  },
+  "graph": [
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-simplified-30-methodology-31",
+      "relation": "is in",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-39-study-40-performed-41-with-42-application-44-of-45-wind-46-turbines-47"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-work-2",
+      "relation": "demonstrate",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-preliminary-16-estimate-17",
+      "relation": "is in",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8",
+      "relation": "is",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-technical-7"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8",
+      "relation": "is",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-offshore-10"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8",
+      "relation": "of",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-11-projects-12"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-Exclusive-2-Economic-3-Zone-4",
+      "relation": "is",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-about-8-3.6-9-million-10-kmÂ2-11"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-2-study-3",
+      "relation": "was",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-conducted-5"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-2-study-3",
+      "relation": "was conducted in",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11"
+    },
+    {
+      "subject_id": "NE-LOCATION-Itamaracá-Island",
+      "relation": "state with",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14-of-15-supplying-16"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pernambuco"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-2-study-3",
+      "relation": "was conducted in",
+      "object_id": "NE-LOCATION-Itamaracá-Island"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11",
+      "relation": "is with",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14-of-15-supplying-16"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11",
+      "relation": "of",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-28-speed-29",
+      "relation": "therefore was extrapolated to",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-90-33-m-34"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-28-speed-29",
+      "relation": "was extrapolated to",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-90-33-m-34"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-analysis-2",
+      "relation": "was carried out through",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15",
+      "relation": "is",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-measured-16"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-analysis-2",
+      "relation": "was carried out on",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-9-conditions-10"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-9-conditions-10",
+      "relation": "is",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-local-8"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15",
+      "relation": "at",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-height-19"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-28-speed-29",
+      "relation": "was",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-extrapolated-31"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-extrapolated-31",
+      "relation": "at",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15",
+      "relation": "of",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-10-21-m-22"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-frequency-3-distribution-4",
+      "relation": "were",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-calculated-11"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-frequency-3-distribution-4",
+      "relation": "of",
+      "object_id": "NE-PERSON-Weibull"
+    },
+    {
+      "subject_id": "NE-DATE-the-year",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Itamaracá-Island"
+    },
+    {
+      "subject_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-results-2",
+      "relation": "presented",
+      "object_id": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-showed-4"
+    }
+  ],
+  "links": {
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-simplified-30-methodology-31": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-39-study-40-performed-41-with-42-application-44-of-45-wind-46-turbines-47": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-work-2": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-feasibility-8": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-preliminary-16-estimate-17": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-TITLE-marine": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-technical-7": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-offshore-10": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-11-projects-12": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-Exclusive-2-Economic-3-Zone-4": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-about-8-3.6-9-million-10-kmÂ2-11": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-case-2-study-3": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-conducted-5": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11": [],
+    "NE-LOCATION-Itamaracá-Island": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14-of-15-supplying-16": [],
+    "NE-LOCATION-Pernambuco": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-aim-14": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-28-speed-29": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-90-33-m-34": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-analysis-2": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-ocean-13-wind-14-map-15": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-measured-16": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-9-conditions-10": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-local-8": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-height-19": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-extrapolated-31": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-10-21-m-22": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-frequency-3-distribution-4": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-calculated-11": [],
+    "NE-PERSON-Weibull": [],
+    "NE-DATE-the-year": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-results-2": [],
+    "bd8c4b54-df1d-43f0-9195-6d54c4148a62-showed-4": []
+  }
+}

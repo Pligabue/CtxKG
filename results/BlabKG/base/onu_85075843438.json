@@ -1,0 +1,406 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075843438.txt",
+  "entities": {
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-5": "methodology",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-9-loss-10": "thickness loss",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-paper-2": "paper",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-hulls-12": "hulls",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-purpose-3": "purpose",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9": "corrosion rates",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-main-2": "main",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-FPSOs-19": "FPSOs",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-7": "characteristic",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11": "structural",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-15": "extension",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-life-17": "life",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-12": "reassessment",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6": "loss",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-failure-15": "failure",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-14": "structural",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-steel-2-wear-3": "steel wear",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-sectional-5": "sectional",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-capacity-8-reduction-9": "capacity reduction",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-capable-2": "capable",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20": "would safety improvement",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-industry-24": "industry",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-considerable-18": "considerable",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-whole-23": "whole",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6": "models",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-investigated-8": "investigated",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-13": "methodology",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-proposed-12": "proposed",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-research-3": "research",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-different-5": "different",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-results-17": "results",
+    "NE-TITLE-model": "model",
+    "NE-PERSON-Weibull": "Weibull",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-19-loss-20-readings-21": "thickness loss readings",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-inspections-23": "inspections",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12": "corrosion rate",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-19-life-20": "extension life",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-15": "structural",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-applied-6": "applied",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-Then-1": "Then",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-16": "reassessment",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-10": "characteristic",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-Results-1": "Results",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11": "four components",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-operation-20": "operation",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14": "typical",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18": "single hull",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14-converted-15": "typical converted",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-presented-7": "presented",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17": "single",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-hull-18": "hull",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-10": "structural",
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-converted-15": "converted"
+  },
+  "graph": [
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-5",
+      "relation": "estimate",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-9-loss-10"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-paper-2",
+      "relation": "presents",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-5"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-9-loss-10",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-hulls-12"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-purpose-3",
+      "relation": "is define",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-purpose-3",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-main-2"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-FPSOs-19"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-7"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-15"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-life-17"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-12"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "possibly leading to",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-failure-15"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-failure-15",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-14"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-steel-2-wear-3",
+      "relation": "generates",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "leading to",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-failure-15"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-sectional-5"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "wear",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-capacity-8-reduction-9"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "possibly leading",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-capacity-8-reduction-9"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6",
+      "relation": "leading",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-capacity-8-reduction-9"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-capable-2",
+      "relation": "would",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-industry-24"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-considerable-18"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-whole-23"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6",
+      "relation": "were",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-investigated-8"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6",
+      "relation": "define",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-13"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-13",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-proposed-12"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6",
+      "relation": "were investigated During",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-research-3"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-different-5"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-results-17",
+      "relation": "be modeled by",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "NE-PERSON-Weibull"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-19-loss-20-readings-21",
+      "relation": "is in",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-inspections-23"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "estimate",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-19-life-20"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-15"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-applied-6"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-applied-6",
+      "relation": "at",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-Then-1"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-16"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-10"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-Results-1",
+      "relation": "are presented for",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-operation-20"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is at",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18",
+      "relation": "is in",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-operation-20"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14-converted-15"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-Results-1",
+      "relation": "are",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-presented-7"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "of",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-hull-18"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-10"
+    },
+    {
+      "subject_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11",
+      "relation": "is",
+      "object_id": "b11303f1-e8e0-4420-9932-569d3ac87ff2-converted-15"
+    }
+  ],
+  "links": {
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-5": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-9-loss-10": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-paper-2": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-hulls-12": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-purpose-3": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-main-2": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-FPSOs-19": [
+      "NE-ORGANIZATION-FPSO"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-7": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-10"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-15"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-15": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-life-17": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-12": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-16"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-loss-6": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-failure-15": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-14": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-steel-2-wear-3": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-sectional-5": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-capacity-8-reduction-9": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-capable-2": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-would-15-safety-19-improvement-20": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-industry-24": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-considerable-18": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-whole-23": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-models-6": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-investigated-8": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-methodology-13": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-proposed-12": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-research-3": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-different-5": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-results-17": [],
+    "NE-TITLE-model": [],
+    "NE-PERSON-Weibull": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-thickness-19-loss-20-readings-21": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-inspections-23": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-11-rate-12": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-corrosion-8-rates-9"
+    ],
+    "NE-ORGANIZATION-FPSO": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-FPSOs-19"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-extension-19-life-20": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-15": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-applied-6": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-Then-1": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-16": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-reassessment-12"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-10": [
+      "b11303f1-e8e0-4420-9932-569d3ac87ff2-characteristic-7"
+    ],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-Results-1": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-four-9-components-11": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-operation-20": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17-hull-18": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-typical-14-converted-15": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-presented-7": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-single-17": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-hull-18": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-10": [],
+    "b11303f1-e8e0-4420-9932-569d3ac87ff2-converted-15": []
+  }
+}

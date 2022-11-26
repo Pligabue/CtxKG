@@ -1,0 +1,430 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_77955388680.txt",
+  "entities": {
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-lastest-2-discoveries-3": "lastest discoveries",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-12-area-13": "offshore area",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-units-13": "units",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18": "may solution",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-natural-21": "natural",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-production-24": "production",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-gas-22-volume-23": "gas volume",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-2.5-26-MTPA-27": "2.5 MTPA",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-4": "scenarios",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-good-17": "good",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-new-3": "new",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-It-1": "It",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-worth-3": "worth",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6": "challenges",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19": "solution",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-many-5": "many",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-23": "scenarios",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-economically-15": "economically",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12": "FLNG",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-differences-27": "differences",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-are-31-identified-33": "are identified",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-Characteristics-1": "Characteristics",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-must-21-considered-23": "must considered",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-when-24": "when",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-main-26": "main",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-liquefaction-9-processes-10": "liquefaction processes",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-hydrocarbon-13-refrigerant-14-mixtures-15": "hydrocarbon refrigerant mixtures",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-LNG-3": "LNG",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8": "would achieved",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offloading-4": "offloading",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1": "Therefore",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-tandem-11-mode-13": "tandem mode",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-only-6": "only",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-operational-12": "operational",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-technology-3": "technology",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7": "kind",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-operation-9": "operation",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-loading-22-system-23": "loading system",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-bow-21": "bow",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-will-15-necessary-17": "will necessary",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21": "deck area",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-track-39-record-40": "track record",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-upper-19": "upper",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-constraints-15": "constraints",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-topsides-23-facilities-24": "topsides facilities",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-free-18": "free",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-good-38": "good",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-its-43-configuration-44": "its configuration",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47": "inspection",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-environment-53": "environment",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-52": "offshore",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-maintenance-49": "maintenance",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-cargo-6-containment-7-system-8": "cargo containment system",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-paper-2": "paper",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6": "findings",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-evaluating-9": "evaluating",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12-technology-13": "FLNG technology",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5": "unit",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-attractive-7": "attractive",
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11": "scenario",
+    "NE-ORGANIZATION-FLNG": "FLNG"
+  },
+  "graph": [
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-lastest-2-discoveries-3",
+      "relation": "is in",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-12-area-13"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-12-area-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-units-13",
+      "relation": "may",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-units-13",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FLNG"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-natural-21"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-units-13",
+      "relation": "be good",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-production-24"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-production-24"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "case",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-gas-22-volume-23"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-2.5-26-MTPA-27"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "case",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-4"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-good-17"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-new-3"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-It-1",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-worth-3"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6",
+      "relation": "turn FLNG into",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-many-5"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-23"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-new-3"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-economically-15"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6",
+      "relation": "turn",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-differences-27",
+      "relation": "are",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-are-31-identified-33"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-Characteristics-1",
+      "relation": "must",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-must-21-considered-23"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-are-31-identified-33",
+      "relation": "at",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-when-24"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-differences-27",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-main-26"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-liquefaction-9-processes-10",
+      "relation": "use",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-hydrocarbon-13-refrigerant-14-mixtures-15"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-LNG-3",
+      "relation": "would",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-LNG-3",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-offloading-4"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8",
+      "relation": "at",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8",
+      "relation": "at",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-tandem-11-mode-13"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8",
+      "relation": "at",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-only-6"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-operational-12"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-technology-3",
+      "relation": "available for",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-operation-9"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7",
+      "relation": "provide",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-loading-22-system-23"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-loading-22-system-23",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-bow-21"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7",
+      "relation": "will",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-will-15-necessary-17"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21",
+      "relation": "have",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-track-39-record-40"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-upper-19"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-constraints-15",
+      "relation": "let",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-topsides-23-facilities-24"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-free-18"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-track-39-record-40",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-good-38"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-its-43-configuration-44",
+      "relation": "should allow",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-its-43-configuration-44",
+      "relation": "should allow inspection in",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-environment-53"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-environment-53",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-52"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47",
+      "relation": "offshore environment",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-maintenance-49"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-cargo-6-containment-7-system-8",
+      "relation": "fulfill",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-constraints-15"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47",
+      "relation": "environment",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-maintenance-49"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47",
+      "relation": "configuration",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-maintenance-49"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-paper-2",
+      "relation": "reports",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-evaluating-9"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12-technology-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "considers",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5",
+      "relation": "is",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-attractive-7"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5",
+      "relation": "option for",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FLNG"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5",
+      "relation": "of",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11"
+    },
+    {
+      "subject_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5",
+      "relation": "attractive option for",
+      "object_id": "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11"
+    }
+  ],
+  "links": {
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-lastest-2-discoveries-3": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-12-area-13": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-units-13": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-may-14-solution-18": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-natural-21": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-production-24": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-gas-22-volume-23": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-2.5-26-MTPA-27": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-4": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-good-17": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-new-3": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-It-1": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-worth-3": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-solution-19": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-many-5": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenarios-23": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-economically-15": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-differences-27": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-are-31-identified-33": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-Characteristics-1": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-must-21-considered-23": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-when-24": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-main-26": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-liquefaction-9-processes-10": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-hydrocarbon-13-refrigerant-14-mixtures-15": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-LNG-3": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-would-5-achieved-8": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offloading-4": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-tandem-11-mode-13": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-only-6": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-operational-12": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-technology-3": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-kind-7": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-operation-9": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-loading-22-system-23": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-bow-21": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-will-15-necessary-17": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-deck-20-area-21": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-track-39-record-40": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-upper-19": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-constraints-15": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-topsides-23-facilities-24": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-free-18": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-good-38": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-its-43-configuration-44": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-inspection-47": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-environment-53": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-52": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-maintenance-49": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-cargo-6-containment-7-system-8": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-paper-2": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-findings-6": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-evaluating-9": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-FLNG-12-technology-13": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-unit-5": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-attractive-7": [],
+    "6853be13-f2b8-4273-b0f4-b628a386d69b-scenario-11": [],
+    "NE-ORGANIZATION-FLNG": []
+  }
+}

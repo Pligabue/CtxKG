@@ -1,0 +1,443 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85073705401.txt",
+  "entities": {
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3": "drivers",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-8-communities-10": "mangrove communities",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-environmental-2": "environmental",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbial-9": "microbial",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23": "elucidation",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-exact-13": "exact",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-further-22": "further",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-extent-17": "extent",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-structure-6": "structure",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-absence-59": "absence",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Rhizophora-71-mangle-72": "Rhizophora mangle",
+    "NE-ORGANIZATION-PSU": "PSU",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16": "profiles",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-taxonomic-15": "taxonomic",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-sequencing-9": "sequencing",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-based-8": "based",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangroves-18": "mangroves",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-37-sectors-38": "two sectors",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-extremes-41-of-42-salinity-44-gradient-45": "extremes of salinity gradient",
+    "NE-CITY-Bay": "Bay",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-16S-4-rRNA-5-gene-6": "16S rRNA gene",
+    "NE-LOCATION-Paranaguá": "Paranaguá",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Avicennia-65-schaueriana-66": "Avicennia schaueriana",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Laguncularia-68-racemosa-69": "Laguncularia racemosa",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-subtropical-21": "subtropical",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-influence-9": "influence",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-important-17": "important",
+    "NE-COUNTRY-pH": "pH",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-20-communities-21": "two communities",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-strongest-8": "strongest",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-chemical-27-profile-28": "chemical profile",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-salinity-33": "salinity",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-related-31": "related",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30": "also",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-prevalent-3-bacterial-4-phyla-5": "prevalent bacterial phyla",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-9-soils-10": "mangrove soils",
+    "NE-ORGANIZATION-Proteobacteria": "Proteobacteria",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Cyanobacteria-24": "Cyanobacteria",
+    "NE-LOCATION-Chloroflexi": "Chloroflexi",
+    "NE-LOCATION-Acidobacteria": "Acidobacteria",
+    "NE-LOCATION-Bacteroidetes": "Bacteroidetes",
+    "NE-LOCATION-Actinobacteria": "Actinobacteria",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23": "microbiomes",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-matrix-33-type-34": "matrix type",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-biome-28-type-29": "biome type",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-studied-22": "studied",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-whole-9-genome-11-sequencing-12": "whole genome sequencing",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-available-14-data-15-from-16-other-17-biomes-18": "available data from other biomes",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-then-31": "then",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2": "functions",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9": "conserved within mangroves",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-more-4": "more",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7": "conserved than organisms",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13": "biomes",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1": "Metabolic",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-core-17-functions-18": "core functions",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-preserved-20": "preserved",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-any-22": "any",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conditions-26": "conditions",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-organisms-31": "organisms",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-specific-30": "specific",
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-given-25": "given"
+  },
+  "graph": [
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "structure of",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-8-communities-10"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-environmental-2"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-8-communities-10",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbial-9"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "require",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-exact-13"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23",
+      "relation": "extent of",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-further-22"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "regulate",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-8-communities-10"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-extent-17",
+      "relation": "require",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3",
+      "relation": "regulate",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-structure-6"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-absence-59",
+      "relation": "to proximity is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Rhizophora-71-mangle-72"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PSU",
+      "relation": "determined",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-taxonomic-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PSU",
+      "relation": "determined profiles By",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-sequencing-9"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-sequencing-9",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-based-8"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "of",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangroves-18"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-37-sectors-38",
+      "relation": "is in",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-extremes-41-of-42-salinity-44-gradient-45"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "is in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-sequencing-9",
+      "relation": "of",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-16S-4-rRNA-5-gene-6"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paranaguá"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-absence-59",
+      "relation": "to proximity is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Avicennia-65-schaueriana-66"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-absence-59",
+      "relation": "to proximity is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Laguncularia-68-racemosa-69"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-subtropical-21"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbial-9"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-influence-9",
+      "relation": "was",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-important-17"
+    },
+    {
+      "subject_id": "NE-COUNTRY-pH",
+      "relation": "separate",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-20-communities-21"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-influence-9",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-strongest-8"
+    },
+    {
+      "subject_id": "NE-COUNTRY-pH",
+      "relation": "was",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-important-17"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-chemical-27-profile-28",
+      "relation": "was also related to",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-salinity-33"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-chemical-27-profile-28",
+      "relation": "was",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-related-31"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-related-31",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-chemical-27-profile-28",
+      "relation": "was related to",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-salinity-33"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-prevalent-3-bacterial-4-phyla-5",
+      "relation": "associated with",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-9-soils-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Proteobacteria",
+      "relation": "analyzed",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Cyanobacteria-24"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Proteobacteria",
+      "relation": "analyzed",
+      "object_id": "NE-LOCATION-Chloroflexi"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Proteobacteria",
+      "relation": "analyzed",
+      "object_id": "NE-LOCATION-Acidobacteria"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Proteobacteria",
+      "relation": "analyzed",
+      "object_id": "NE-LOCATION-Bacteroidetes"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Proteobacteria",
+      "relation": "analyzed",
+      "object_id": "NE-LOCATION-Actinobacteria"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23",
+      "relation": "cluster first to",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-matrix-33-type-34"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23",
+      "relation": "cluster according",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biome-28-type-29"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23",
+      "relation": "cluster to",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-matrix-33-type-34"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-studied-22"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23",
+      "relation": "cluster first according",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biome-28-type-29"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-whole-9-genome-11-sequencing-12",
+      "relation": "is with",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-available-14-data-15-from-16-other-17-biomes-18"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-matrix-33-type-34",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-then-31"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2",
+      "relation": "were",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-more-4"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2",
+      "relation": "were",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-core-17-functions-18",
+      "relation": "are",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-preserved-20"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2",
+      "relation": "were conserved across",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-core-17-functions-18",
+      "relation": "are preserved in",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-any-22"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-more-4"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-any-22",
+      "relation": "of",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conditions-26"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2",
+      "relation": "were more conserved across",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9",
+      "relation": "at",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-core-17-functions-18",
+      "relation": "are preserved regardless",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-organisms-31"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-organisms-31",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-specific-30"
+    },
+    {
+      "subject_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-any-22",
+      "relation": "is",
+      "object_id": "9ba582b4-4671-4d5f-a00e-72d8370658d2-given-25"
+    }
+  ],
+  "links": {
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-drivers-3": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-8-communities-10": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-environmental-2": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbial-9": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-elucidation-23": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-exact-13": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-further-22": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-extent-17": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-structure-6": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-absence-59": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Rhizophora-71-mangle-72": [],
+    "NE-ORGANIZATION-PSU": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-profiles-16": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-taxonomic-15": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-sequencing-9": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-based-8": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangroves-18": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-37-sectors-38": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-extremes-41-of-42-salinity-44-gradient-45": [],
+    "NE-CITY-Bay": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-16S-4-rRNA-5-gene-6": [],
+    "NE-LOCATION-Paranaguá": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Avicennia-65-schaueriana-66": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Laguncularia-68-racemosa-69": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-subtropical-21": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-influence-9": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-important-17": [],
+    "NE-COUNTRY-pH": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-two-20-communities-21": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-strongest-8": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-chemical-27-profile-28": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-salinity-33": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-related-31": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-prevalent-3-bacterial-4-phyla-5": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-mangrove-9-soils-10": [],
+    "NE-ORGANIZATION-Proteobacteria": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Cyanobacteria-24": [],
+    "NE-LOCATION-Chloroflexi": [],
+    "NE-LOCATION-Acidobacteria": [],
+    "NE-LOCATION-Bacteroidetes": [],
+    "NE-LOCATION-Actinobacteria": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-microbiomes-23": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-matrix-33-type-34": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-biome-28-type-29": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-studied-22": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-whole-9-genome-11-sequencing-12": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-available-14-data-15-from-16-other-17-biomes-18": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-then-31": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-functions-2": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-within-8-mangroves-9": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-more-4": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conserved-5-than-6-organisms-7": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-biomes-13": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-core-17-functions-18": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-preserved-20": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-any-22": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-conditions-26": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-organisms-31": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-specific-30": [],
+    "9ba582b4-4671-4d5f-a00e-72d8370658d2-given-25": []
+  }
+}

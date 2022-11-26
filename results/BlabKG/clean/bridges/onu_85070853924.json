@@ -1,0 +1,1546 @@
+{
+  "onu_10228776.json": {
+    "NE-LOCATION-Basin": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "8ccf6711-4359-43f1-af56-bff91be221df-central-31"
+  },
+  "onu_11244281653.json": {},
+  "onu_14467639.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-average-54",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-strong-20"
+  },
+  "onu_14928592.json": {},
+  "onu_1642522078.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_16964104.json": {},
+  "onu_17044389842.json": {},
+  "onu_17144436283.json": {},
+  "onu_17344364742.json": {
+    "NE-SET-monthly": "NE-SET-annual",
+    "NE-PERCENT-72.7%": "NE-PERCENT-80%",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "9904aa2e-63e4-415c-ba81-2791b35da710-lighter-15"
+  },
+  "onu_1842589247.json": {
+    "NE-PERCENT-72.7%": "NE-PERCENT-1.9%",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "86ce1fc3-c8bf-4c6a-a95c-3d6327b9cd9e-Foreign-1",
+    "NE-DATE-December": "NE-DATE-December"
+  },
+  "onu_18944382016.json": {},
+  "onu_19586421.json": {},
+  "onu_20736039.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic"
+  },
+  "onu_21575939.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_2342418572.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-long-17",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-collected-11",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_2342623297.json": {},
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {
+    "NE-LOCATION-Basin": "738463bf-612b-462d-abc4-dde0497711de-basin-38",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_24044508291.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_24050293.json": {
+    "NE-DATE-December": "NE-DATE-December"
+  },
+  "onu_242694501.json": {},
+  "onu_24662461.json": {},
+  "onu_24769642.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "42f39395-5b68-4c17-9005-43fdaf9b688d-15-6",
+    "NE-LOCATION-Basin": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+    "NE-CITY-Campos": "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "42f39395-5b68-4c17-9005-43fdaf9b688d-passive-14"
+  },
+  "onu_24867907.json": {},
+  "onu_25054779.json": {},
+  "onu_25144481375.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-central-9"
+  },
+  "onu_25444510078.json": {},
+  "onu_26244445255.json": {},
+  "onu_26850121.json": {},
+  "onu_27744595461.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_30311937.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_30706349.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-smaller-20"
+  },
+  "onu_31206995.json": {},
+  "onu_31375269.json": {},
+  "onu_32444448833.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "5988fd69-592d-47e1-9aa6-df9d282706cb-average-22",
+    "NE-PERCENT-72.7%": "NE-PERCENT-3.5%"
+  },
+  "onu_33293728.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-used-25",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_33295123.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean"
+  },
+  "onu_33295407.json": {},
+  "onu_33644613229.json": {},
+  "onu_33645422493.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-LOCATION-Espirito-Santo",
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "f8ba7747-a203-4391-9a8f-d06b3caf167c-1-4"
+  },
+  "onu_33646023976.json": {},
+  "onu_33646035823.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1-4"
+  },
+  "onu_33646043488.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "39c4c261-18a8-4b03-aca4-45d607c671ce-more-7"
+  },
+  "onu_33646056106.json": {},
+  "onu_33646056405.json": {},
+  "onu_33646073069.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-Data-1"
+  },
+  "onu_33646452775.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-5.3-14-m-15-s-16-1-18": "3e889ffb-ffea-4a6d-ada5-81e76867be02-1.9-7-M-8-b-9-d-11"
+  },
+  "onu_33745228406.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-used-4"
+  },
+  "onu_33745354316.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "f284c30b-4d86-45b4-b48d-6a65d84ee416-used-12"
+  },
+  "onu_33745713604.json": {},
+  "onu_33746039693.json": {},
+  "onu_33748460104.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_33749265496.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-LOCATION-Espirito-Santo"
+  },
+  "onu_33751312200.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "0c8feb86-ed53-4518-8929-20e43783eecc-data-29"
+  },
+  "onu_33751315219.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_34250708084.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-LOCATION-Espirito-Santo-Basin"
+  },
+  "onu_344309110.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "8fb8097e-c81f-447a-a4d8-43a43dba6438-wind-30-Profiles-39",
+    "6dc1853a-1825-449e-9547-d497b3114adb-systems-13": "8fb8097e-c81f-447a-a4d8-43a43dba6438-systems-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "8fb8097e-c81f-447a-a4d8-43a43dba6438-used-17"
+  },
+  "onu_344741441.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "1de3c47d-c84d-4a38-b042-489e5b30b72e-more-5"
+  },
+  "onu_345171568.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-more-12"
+  },
+  "onu_34531605.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-North-Sea"
+  },
+  "onu_34547893063.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_345603133.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "83f8226e-eaff-474f-8c4b-070d79533224-observed-6"
+  },
+  "onu_345603650.json": {},
+  "onu_34686357.json": {},
+  "onu_34984147.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_35573581.json": {},
+  "onu_36768397.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10"
+  },
+  "onu_37304895.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_40349089123.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_4043182709.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_41849140524.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "d5ee487c-3b46-46fc-a521-837aed5b9969-coastal-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "d5ee487c-3b46-46fc-a521-837aed5b9969-observed-80",
+    "NE-DATE-summer": "NE-DATE-summer"
+  },
+  "onu_47849110025.json": {},
+  "onu_50249174640.json": {},
+  "onu_50249181836.json": {
+    "NE-CITY-Campos": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_51649098845.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "c91d7476-abfd-4667-90fd-c69e0100550c-sea-16-level-18-rise-19",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "c91d7476-abfd-4667-90fd-c69e0100550c-mean-15"
+  },
+  "onu_52049093008.json": {},
+  "onu_52249116622.json": {
+    "NE-PERCENT-72.7%": "NE-PERCENT-10.46%"
+  },
+  "onu_52349109473.json": {},
+  "onu_52849106027.json": {},
+  "onu_57649139087.json": {},
+  "onu_58849128774.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-finely-32"
+  },
+  "onu_59649088185.json": {},
+  "onu_68649086917.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "452ca893-25f2-4bf0-ae58-16ca549811cd-eastern-6",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Espírito-Santo": "452ca893-25f2-4bf0-ae58-16ca549811cd-Espírito-3-Santobasin-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "452ca893-25f2-4bf0-ae58-16ca549811cd-average-2"
+  },
+  "onu_68649124056.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-basin",
+    "NE-CITY-Campos": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-Campos-18-basin-19"
+  },
+  "onu_68649126570.json": {
+    "NE-LOCATION-Basin": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22",
+    "NE-CITY-Campos": "NE-PERSON-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11"
+  },
+  "onu_70449127482.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-objective-4"
+  },
+  "onu_70449650835.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-much-8"
+  },
+  "onu_72449143175.json": {},
+  "onu_73349086227.json": {
+    "NE-LOCATION-Basin": "00339ccb-f0dd-47c7-aecb-ae379e27d109-basin-30",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_77449138097.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_77955388680.json": {},
+  "onu_77955408815.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "3fbbdd88-8638-4b37-a689-c218c2b9f313-objective-2",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_77956543361.json": {},
+  "onu_77956858304.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "18d1470d-7707-4546-87ab-5615cd0aeaf8-more-37"
+  },
+  "onu_77958012173.json": {},
+  "onu_78049320828.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_78649387727.json": {},
+  "onu_78650855754.json": {},
+  "onu_79952546010.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "b40df2ca-cdf7-4284-8597-8f166cac093a-used-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "b40df2ca-cdf7-4284-8597-8f166cac093a-sea-27-level-28-variations-29"
+  },
+  "onu_79952620223.json": {
+    "NE-LOCATION-Basin": "c65b6b38-5933-4677-bdf7-2b10f3833625-basin-2",
+    "NE-CITY-Campos": "NE-NATIONALITY-Brazilian",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "c65b6b38-5933-4677-bdf7-2b10f3833625-used-9"
+  },
+  "onu_79953006622.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "6e0ae093-c13e-410d-9aa0-41775ea6f017-water-25-depth-26"
+  },
+  "onu_79955374293.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-2-25",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_79955828033.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "070900c0-3683-4838-8adf-7fc9280ff95b-northern-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "070900c0-3683-4838-8adf-7fc9280ff95b-1-3",
+    "NE-LOCATION-Espírito-Santo": "070900c0-3683-4838-8adf-7fc9280ff95b-FPSO-2-Espirito-3"
+  },
+  "onu_79959789184.json": {},
+  "onu_80052069671.json": {},
+  "onu_80052571318.json": {},
+  "onu_80052582062.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "7a7f6f9c-3356-4943-af08-ffb5a792d414-data-10",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "7a7f6f9c-3356-4943-af08-ffb5a792d414-used-4"
+  },
+  "onu_80052741860.json": {},
+  "onu_80053430040.json": {},
+  "onu_80053904380.json": {
+    "NE-LOCATION-Basin": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-basin-25",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_80053909062.json": {},
+  "onu_80053931244.json": {},
+  "onu_80053961084.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-used-3"
+  },
+  "onu_80054757255.json": {},
+  "onu_81855167522.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-4"
+  },
+  "onu_82555187024.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "eb9c758a-7531-4399-b6bc-8350a275ef69-tested-5"
+  },
+  "onu_83155193342.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-m-23-air-24-temperature-25": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-air-6-temperature-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sea-7-level-8"
+  },
+  "onu_84856625676.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-sea-6-water-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-attempted-22",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-used-3"
+  },
+  "onu_84856741449.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "6776ee78-01b1-4f8a-8af9-5284efe9468d-regional-4"
+  },
+  "onu_84857305090.json": {},
+  "onu_84857324711.json": {},
+  "onu_84857483294.json": {},
+  "onu_84861595246.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84864615590.json": {},
+  "onu_84864936265.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "5635ba94-7921-4b3b-8f49-dd87f763feb9-subtropical-17"
+  },
+  "onu_84865218536.json": {},
+  "onu_84865723570.json": {},
+  "onu_84869199462.json": {},
+  "onu_84870604908.json": {},
+  "onu_84877857340.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "77b503bf-c04b-4c2f-81df-35c44d2f8f36-studied-10"
+  },
+  "onu_84878941411.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "358ea47e-b418-4525-b65c-3998ab882728-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "358ea47e-b418-4525-b65c-3998ab882728-used-14",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "358ea47e-b418-4525-b65c-3998ab882728-deeper-6",
+    "NE-DATE-autumn": "NE-DATE-spring",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "358ea47e-b418-4525-b65c-3998ab882728-observed-10"
+  },
+  "onu_84879432080.json": {},
+  "onu_84879955769.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-wind-9-conditions-10"
+  },
+  "onu_84880007809.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "d4de0e22-c401-432d-9110-81f5c296679b-found-10"
+  },
+  "onu_84883765236.json": {},
+  "onu_84883765292.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "afb5c7d8-4be9-4783-93d0-e20924ca5129-Data-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "afb5c7d8-4be9-4783-93d0-e20924ca5129-analyzed-3"
+  },
+  "onu_84887507211.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-North-6"
+  },
+  "onu_84888845935.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "NE-MISC-West",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "08983aea-212e-4ede-98cd-be137c97ff19-work-8"
+  },
+  "onu_84888934569.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84888954344.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "bede67c1-2219-4ecb-94db-aba0e79b294c-obtained-19"
+  },
+  "onu_84888967977.json": {},
+  "onu_84889840418.json": {},
+  "onu_84891320656.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "1309746e-bd51-453c-8893-8fb38d7af7ab-used-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "1309746e-bd51-453c-8893-8fb38d7af7ab-bending-11",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "1309746e-bd51-453c-8893-8fb38d7af7ab-much-9"
+  },
+  "onu_84891344152.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-12": "295c9de1-de4f-46df-baf3-c289fa395145-average-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "295c9de1-de4f-46df-baf3-c289fa395145-Average-1"
+  },
+  "onu_84892632570.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-objective-9"
+  },
+  "onu_84892860778.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-2.5-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-weak-2"
+  },
+  "onu_84893052541.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_84893062958.json": {},
+  "onu_84893067779.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-used-11"
+  },
+  "onu_84893090004.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "108bb058-270a-4059-b632-02b04115a0a7-sea-7-water-8"
+  },
+  "onu_84893361208.json": {},
+  "onu_84893407222.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-north-2-wind-3": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-northeast-8-winds-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-constant-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-more-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-prolonged-11"
+  },
+  "onu_84893805098.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-reproductive-10",
+    "NE-DATE-May": "NE-DATE-May",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-data-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-DATE-September": "NE-DATE-September"
+  },
+  "onu_84894453276.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-legacy-2-data-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-available-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-detected-6"
+  },
+  "onu_84894470550.json": {},
+  "onu_84896824358.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "a674b86c-95d0-4e2a-aca6-37744b347071-paper-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "a674b86c-95d0-4e2a-aca6-37744b347071-aim-2"
+  },
+  "onu_84897376128.json": {},
+  "onu_84897381844.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-minimum-47": "607e16a2-24ab-44ad-a4a3-8273a81253f6-minimum-20"
+  },
+  "onu_84897392529.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "21b0b660-404f-436a-867e-af9cbe7f0918-data-15",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "21b0b660-404f-436a-867e-af9cbe7f0918-used-4"
+  },
+  "onu_84897399429.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-northern-10",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-17",
+    "NE-LOCATION-South-Atlantic": "NE-ORGANIZATION-South-Atlantic-Equatorial-Margin"
+  },
+  "onu_84897408330.json": {},
+  "onu_84897441267.json": {},
+  "onu_84897448998.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strongest-38",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ebed93b1-9b44-42bf-a267-aebdc3f48887-used-5"
+  },
+  "onu_84897449140.json": {},
+  "onu_84897461830.json": {},
+  "onu_84897465328.json": {},
+  "onu_84897470967.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "7f6f47ca-cfad-4483-ba7b-011e5564f245-sedimentary-9"
+  },
+  "onu_84900305359.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-34",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "97531c44-64fa-4fe3-bfde-d9c5843dc485-used-10"
+  },
+  "onu_84901784680.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "cd83b05b-1642-49b5-9046-3569fd6386de-aim-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "cd83b05b-1642-49b5-9046-3569fd6386de-larger-10"
+  },
+  "onu_84904394721.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-less-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-observed-2"
+  },
+  "onu_84905748711.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-Using-1"
+  },
+  "onu_84907991224.json": {},
+  "onu_84918528762.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-12": "521f5922-1c3e-4c36-9fd5-536f42356eaf-average-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "521f5922-1c3e-4c36-9fd5-536f42356eaf-data-29"
+  },
+  "onu_84925638296.json": {},
+  "onu_84930513772.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "fc8b94b7-0e5d-450a-9054-6f9bf272ae34-average-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "fc8b94b7-0e5d-450a-9054-6f9bf272ae34-polycyclic-2"
+  },
+  "onu_84940864746.json": {},
+  "onu_84943289484.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-LOCATION-Espirito-Santo",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "a318701e-6951-43b5-ab6d-2b3deb57fa16-data-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "a318701e-6951-43b5-ab6d-2b3deb57fa16-generated-5"
+  },
+  "onu_84943328375.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_84943338721.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "83c12324-c60f-4651-9cfb-69111aaba3ef-information-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "83c12324-c60f-4651-9cfb-69111aaba3ef-used-4"
+  },
+  "onu_84943339436.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-northern-11",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ranging-21"
+  },
+  "onu_84944574757.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84944593501.json": {},
+  "onu_84947326315.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "c9348211-c72e-4ea1-9eb9-711dc0c65800-obtained-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "c9348211-c72e-4ea1-9eb9-711dc0c65800-wind-7-quality-8"
+  },
+  "onu_84947757002.json": {},
+  "onu_84949266932.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "42b505ba-f41a-4c4d-afef-28084be680c7-useful-7"
+  },
+  "onu_84951918487.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "6d96e98c-77ad-4954-b07a-14307ad74b11-used-28",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84954454797.json": {},
+  "onu_84955127995.json": {},
+  "onu_84958666405.json": {},
+  "onu_84959478227.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-central-26"
+  },
+  "onu_84959561430.json": {},
+  "onu_84963819657.json": {
+    "NE-LOCATION-Basin": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-2",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-striking-19"
+  },
+  "onu_84964700375.json": {},
+  "onu_84974574825.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "bd331931-0124-4a50-84bf-199162a52f3f-used-8"
+  },
+  "onu_84975761253.json": {},
+  "onu_84979574362.json": {
+    "NE-DATE-summer": "NE-DATE-summer",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "6cc2891a-f7a7-4b12-a67e-029947346f7a-more-33"
+  },
+  "onu_84983465797.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "29e71a86-d6f9-4b04-935d-d2cff0962e21-4-2"
+  },
+  "onu_84984596158.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-sea-25-level-26",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-relative-24"
+  },
+  "onu_84987760544.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-work-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-data-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-coastal-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-mass-8"
+  },
+  "onu_84987762471.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "840af40f-bba4-4cee-94e2-23552f1a02dd-more-9"
+  },
+  "onu_84987763922.json": {},
+  "onu_84990861431.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "668f68ee-8de7-45d9-9784-b0893545fc9d-data-14"
+  },
+  "onu_84990898401.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "9d3f7157-a5f4-4c28-968c-5311617f432d-southern-11"
+  },
+  "onu_84996602559.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-weak-8"
+  },
+  "onu_85006339618.json": {},
+  "onu_85007282651.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-intense-6": "21eb6ecf-d102-40bb-a054-1b519100613e-intense-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "21eb6ecf-d102-40bb-a054-1b519100613e-data-2"
+  },
+  "onu_85008198009.json": {},
+  "onu_85009177497.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-saved-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-Data-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-Average-1"
+  },
+  "onu_85009192413.json": {
+    "NE-CITY-Campos": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85009433339.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-ORGANIZATION-Southern-Espírito-Santo-State",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic"
+  },
+  "onu_85012910163.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "be4b33fc-ea24-431e-800e-9069afec7afe-thicker-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "be4b33fc-ea24-431e-800e-9069afec7afe-monocline-25",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "be4b33fc-ea24-431e-800e-9069afec7afe-used-13",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85013296221.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "68be832a-27b4-49e7-8b72-dcc340ca62d8-mean-25"
+  },
+  "onu_85013858173.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-PERSON-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "9f50d251-7e41-4765-8a72-6be967b48838-data-2"
+  },
+  "onu_85016298905.json": {},
+  "onu_85016958402.json": {},
+  "onu_85017468089.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85020183362.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-data-2",
+    "NE-CITY-Campos": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-Campos-36-basin-37"
+  },
+  "onu_85026803842.json": {},
+  "onu_85027233889.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "b47c20ef-5393-406f-b497-6f1838f49422-coastal-16"
+  },
+  "onu_85027401053.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "53d0784c-6881-46a8-8607-8473e2e87675-shallow-18"
+  },
+  "onu_85028240731.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "acaa2c9d-be80-416b-98b2-8bc5effea785-Polycyclic-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "acaa2c9d-be80-416b-98b2-8bc5effea785-used-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "acaa2c9d-be80-416b-98b2-8bc5effea785-higher-34"
+  },
+  "onu_85028278319.json": {},
+  "onu_85028950368.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "e4dae957-4d94-4311-82ad-250e750ae287-reported-7"
+  },
+  "onu_85029591872.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-12": "b236a4b6-2727-41c8-8cef-67a669027e7b-average-27",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "b236a4b6-2727-41c8-8cef-67a669027e7b-sea-2-level-3-rise-4"
+  },
+  "onu_85030830298.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "7c4c08d7-08a1-49b5-9442-d72738d202b1-aim-3",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85030842598.json": {},
+  "onu_85031996233.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-requiring-30",
+    "6dc1853a-1825-449e-9547-d497b3114adb-minimum-47": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-minimum-31",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-used-12"
+  },
+  "onu_85032863710.json": {},
+  "onu_85033225585.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "7de64ed0-3f58-45d8-9cc8-eef825191710-shallow-9"
+  },
+  "onu_85033604891.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "19e83c8d-6a15-405b-9872-15221efe1cac-used-14",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "19e83c8d-6a15-405b-9872-15221efe1cac-observed-4"
+  },
+  "onu_85034042710.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-data-23",
+    "NE-SET-monthly": "NE-SET-annual",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-more-24"
+  },
+  "onu_85035340277.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "fadde164-41d0-44e5-aec4-1fa2a5359b66-tropical-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "fadde164-41d0-44e5-aec4-1fa2a5359b66-coastal-13",
+    "NE-DATE-summer": "NE-DATE-summer"
+  },
+  "onu_85037355639.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "f2532b6a-23e5-4ee4-b23c-b14a66103885-Identified-1"
+  },
+  "onu_85037590262.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-northern-6"
+  },
+  "onu_85039546750.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Lagoon",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "1b5c2e54-dca5-4773-b611-862793e6f292-predicted-7"
+  },
+  "onu_85040381710.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "342a0635-fe75-43e7-baff-7051c191187f-data-2-data-12"
+  },
+  "onu_85040498521.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "4372788a-b01b-4c08-a40d-5e901fddf4a5-used-6"
+  },
+  "onu_85040888184.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-systems-13": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-north-2-wind-3": "NE-LOCATION-North-Sea"
+  },
+  "onu_85041142849.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "6b251826-cf79-4973-a63d-ae11b18be0c9-weak-19"
+  },
+  "onu_85041154400.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85041277142.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "fb2fb4b5-91ee-4dc3-af16-1bd93d9503ce-more-10",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "fb2fb4b5-91ee-4dc3-af16-1bd93d9503ce-observed-10"
+  },
+  "onu_85041698761.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-more-8"
+  },
+  "onu_85043311576.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-objective-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-study-7",
+    "NE-DATE-summer": "NE-DATE-summer",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-demonstrated-26"
+  },
+  "onu_85043324954.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shallow-49",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-too-33",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-coastal-19"
+  },
+  "onu_85044192214.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-1.2-16"
+  },
+  "onu_85044397080.json": {},
+  "onu_85044462127.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "77be762f-bb9c-4142-a04f-af0145a57575-Data-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "77be762f-bb9c-4142-a04f-af0145a57575-obtained-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "77be762f-bb9c-4142-a04f-af0145a57575-observed-13",
+    "NE-PERCENT-72.7%": "NE-PERCENT-82%"
+  },
+  "onu_85044530973.json": {
+    "NE-LOCATION-Basin": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+    "NE-CITY-Campos": "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2",
+    "NE-LOCATION-South-Atlantic": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "2d2c9121-9db0-47fd-913b-f722bc62e245-used-29"
+  },
+  "onu_85044596303.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-PERSON-Espírito-Santo",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "99512cc4-b35c-4f65-be28-93092a3cf0fc-northern-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "99512cc4-b35c-4f65-be28-93092a3cf0fc-available-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "99512cc4-b35c-4f65-be28-93092a3cf0fc-data-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-intense-6": "99512cc4-b35c-4f65-be28-93092a3cf0fc-intense-14"
+  },
+  "onu_85045186297.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "b0e39309-9053-480f-94c5-a92d9375374d-observed-7",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85046290497.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85046379273.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-lateral-15"
+  },
+  "onu_85047299670.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "7e13bfab-9226-403e-bf1d-cce401dd3b64-more-41"
+  },
+  "onu_85047354188.json": {},
+  "onu_85047409861.json": {},
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "ce5ac8f6-f3ea-41f4-9b38-2b3858cfc4b8-coastal-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-5.3-14-m-15-s-16-1-18": "ce5ac8f6-f3ea-41f4-9b38-2b3858cfc4b8-5.3-18-m3-19",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ce5ac8f6-f3ea-41f4-9b38-2b3858cfc4b8-used-3"
+  },
+  "onu_85049552088.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "85bb1f29-6fcb-426b-abc6-5be02b46d922-sea-19-level-20",
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "85bb1f29-6fcb-426b-abc6-5be02b46d922-objective-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "85bb1f29-6fcb-426b-abc6-5be02b46d922-topographic-20"
+  },
+  "onu_85050512775.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "d456d187-3df8-4b64-8a11-6d3acdc976bf-much-22",
+    "6dc1853a-1825-449e-9547-d497b3114adb-north-2-wind-3": "NE-LOCATION-North-Sea"
+  },
+  "onu_85050528173.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85050539655.json": {},
+  "onu_85050551470.json": {},
+  "onu_85050561554.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2-12"
+  },
+  "onu_85050643252.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-2-40": "16159eb1-d977-41b1-977d-b5a0d90c3d46-1-2"
+  },
+  "onu_85050674553.json": {},
+  "onu_85050680089.json": {},
+  "onu_85051633827.json": {
+    "NE-LOCATION-Basin": "c685c5a5-bc59-4451-bee6-87f7a8810b95-basin-2"
+  },
+  "onu_85051644896.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85051649253.json": {},
+  "onu_85051653660.json": {},
+  "onu_85051673888.json": {},
+  "onu_85052069920.json": {},
+  "onu_85052748036.json": {},
+  "onu_85052916893.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "390e8152-252c-4c33-856b-035e5f48ed3e-objective-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "390e8152-252c-4c33-856b-035e5f48ed3e-used-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "390e8152-252c-4c33-856b-035e5f48ed3e-more-11"
+  },
+  "onu_85053143769.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-used-16"
+  },
+  "onu_85053593980.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "8db3c934-1816-4c07-9f83-706b0c2a1f16-western-11",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6"
+  },
+  "onu_85053770238.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85054086297.json": {},
+  "onu_85054504118.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054783545.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "54174e41-4460-4ede-8ffd-225b7817ab76-used-17",
+    "NE-CITY-Campos": "NE-ORGANIZATION-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "NE-MISC-Cretaceous",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054941296.json": {},
+  "onu_85055025955.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-shallow-22"
+  },
+  "onu_85055027444.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055027692.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055036761.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055255571.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-North-Sea"
+  },
+  "onu_85055263465.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic"
+  },
+  "onu_85055528846.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "2970e996-64cc-47e6-bc5c-fb3d99195396-work-7"
+  },
+  "onu_85055864923.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-m-23-air-24-temperature-25": "c183a578-8a5f-4228-b35b-5651f319641f-m-20-water-21-depth-22",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "c183a578-8a5f-4228-b35b-5651f319641f-information-3"
+  },
+  "onu_85055908781.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85056094176.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "0ddfca10-cdbf-4166-ae46-860624694346-work-16"
+  },
+  "onu_85056110569.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "1a82d70b-0282-4199-a560-d0aab9c27373-work-7",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85056183083.json": {},
+  "onu_85056566136.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "0f98ad10-7fd1-45a1-89ad-5f39f225e33c-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-climate-10": "0f98ad10-7fd1-45a1-89ad-5f39f225e33c-climate-12"
+  },
+  "onu_85056605886.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "15cdb331-caf0-496d-9b06-1af75ece78c3-used-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "15cdb331-caf0-496d-9b06-1af75ece78c3-analyzed-3"
+  },
+  "onu_85056605922.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-objective-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-used-26"
+  },
+  "onu_85056794099.json": {},
+  "onu_85057560805.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "bb2572d0-017a-4510-9d70-32e7ab55c722-data-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "bb2572d0-017a-4510-9d70-32e7ab55c722-oceanic-12"
+  },
+  "onu_85057883234.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "14e946a7-3108-404c-a068-13eb8cc66620-analyzed-7"
+  },
+  "onu_85059143234.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "c547213a-e858-4f59-a98b-991221b44a08-brittle-11",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean"
+  },
+  "onu_85059218520.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85059436090.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85060083816.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-data-8",
+    "NE-LOCATION-Basin": "NE-LOCATION-basin"
+  },
+  "onu_85060443361.json": {},
+  "onu_85061179665.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "17e2d2d4-078d-47cf-b582-655e5774143c-mean-8"
+  },
+  "onu_85061498967.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-higher-40",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-39"
+  },
+  "onu_85061767810.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85061823653.json": {},
+  "onu_85062013573.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "28afef62-c426-44a2-9215-bf6b45551070-used-10"
+  },
+  "onu_85062607406.json": {},
+  "onu_85062717506.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-data-24",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-increasingly-6"
+  },
+  "onu_85063263863.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-used-25",
+    "NE-DATE-autumn": "NE-DATE-autumn",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-higher-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-more-12"
+  },
+  "onu_85063689284.json": {},
+  "onu_85064764902.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-sea-17-surface-18-temperature-19",
+    "6dc1853a-1825-449e-9547-d497b3114adb-23.2-28-°C-29": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-0.88-12-°C-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-12": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-average-10"
+  },
+  "onu_85064808857.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "4879b8b6-7193-4b71-96e2-28fc820267e0-objective-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "4879b8b6-7193-4b71-96e2-28fc820267e0-work-6"
+  },
+  "onu_85064983703.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11"
+  },
+  "onu_85065180012.json": {},
+  "onu_85065623080.json": {},
+  "onu_85065912337.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "2143f721-d959-4556-9126-5be2b6ca65c9-data-14",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85066600751.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-larger-10"
+  },
+  "onu_85066617192.json": {},
+  "onu_85066623384.json": {},
+  "onu_85067965170.json": {},
+  "onu_85068049608.json": {},
+  "onu_85068387773.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "a5cffccf-1536-473d-9270-6167576d70ec-required-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "a5cffccf-1536-473d-9270-6167576d70ec-used-19"
+  },
+  "onu_85068453742.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-used-10",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-observed-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Research-24"
+  },
+  "onu_85070554647.json": {},
+  "onu_85070704005.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "NE-PERSON-Anticlines",
+    "NE-CITY-Campos": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85070991202.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-5.3-14-m-15-s-16-1-18": "e4582df4-682d-4820-a6cd-b5346f3f75b5-31.5-17-°-18-S-19",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "e4582df4-682d-4820-a6cd-b5346f3f75b5-upper-26"
+  },
+  "onu_85071023764.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-southern-25"
+  },
+  "onu_85071488896.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-objective-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7",
+    "NE-PERCENT-72.7%": "NE-PERCENT-72.7%",
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-59.1-5"
+  },
+  "onu_85071542084.json": {},
+  "onu_85071847548.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-data-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-acquired-4"
+  },
+  "onu_85072725932.json": {},
+  "onu_85072834829.json": {},
+  "onu_85073705401.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "9ba582b4-4671-4d5f-a00e-72d8370658d2-more-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "9ba582b4-4671-4d5f-a00e-72d8370658d2-subtropical-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "9ba582b4-4671-4d5f-a00e-72d8370658d2-strongest-8"
+  },
+  "onu_85073706024.json": {
+    "NE-PERCENT-72.7%": "NE-PERCENT-10%"
+  },
+  "onu_85073935907.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "bc946871-1090-4025-8672-8089752cc34e-water-4-temperatures-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-m-23-air-24-temperature-25": "bc946871-1090-4025-8672-8089752cc34e-water-4-temperatures-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-23.2-28-°C-29": "bc946871-1090-4025-8672-8089752cc34e-up-22-to-23-1.5-24-°C-25",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "bc946871-1090-4025-8672-8089752cc34e-bottom-3"
+  },
+  "onu_85074489503.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "e9b97ebc-e3cf-4546-849d-66298a1876a5-data-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "e9b97ebc-e3cf-4546-849d-66298a1876a5-continental-43"
+  },
+  "onu_85074632793.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "e96160f9-afe1-4286-9ca9-11f35229455a-data-23",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "e96160f9-afe1-4286-9ca9-11f35229455a-used-25",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "e96160f9-afe1-4286-9ca9-11f35229455a-wind-20-stress-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "e96160f9-afe1-4286-9ca9-11f35229455a-strong-18",
+    "NE-SET-monthly": "NE-SET-monthly",
+    "6dc1853a-1825-449e-9547-d497b3114adb-minimum-47": "e96160f9-afe1-4286-9ca9-11f35229455a-maximum-21-minimum-23",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "e96160f9-afe1-4286-9ca9-11f35229455a-southeastern-35"
+  },
+  "onu_85074778611.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-intense-6": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-intense-29",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-more-26"
+  },
+  "onu_85075350522.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-used-46",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-sea-3-level-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-global-21"
+  },
+  "onu_85075421341.json": {},
+  "onu_85075661667.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "8eb22610-755f-4d77-aaca-50d08c2064c5-More-1",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-Southwest-Atlantic",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "8eb22610-755f-4d77-aaca-50d08c2064c5-southeastern-44",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85075827903.json": {},
+  "onu_85075828327.json": {},
+  "onu_85075831363.json": {
+    "NE-SET-monthly": "NE-SET-daily",
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "c6187c05-69fa-4993-ac86-f7154dd67053-4.0-3"
+  },
+  "onu_85075835330.json": {},
+  "onu_85075843438.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85075879935.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-mean-12"
+  },
+  "onu_85075941856.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-mean-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-northeastern-2"
+  },
+  "onu_85075951728.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-used-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-continental-16"
+  },
+  "onu_85075997043.json": {},
+  "onu_85076246665.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "e0b07107-d3d9-440f-ac94-05597132db4b-strong-17",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "e0b07107-d3d9-440f-ac94-05597132db4b-northern-13"
+  },
+  "onu_85076560202.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7",
+    "NE-PERCENT-72.7%": "NE-PERCENT-15.9%",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tidal-28-sea-29-level-30"
+  },
+  "onu_85076775401.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "3fa508a4-4944-4cc2-a966-5bc0da835729-observed-19"
+  },
+  "onu_85076896265.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-aim-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-observed-11",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-affecting-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-southeastern-13"
+  },
+  "onu_85077234208.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "3bce63f2-6438-4309-b24d-2dcad2a582a1-more-16"
+  },
+  "onu_85077945350.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "e5183355-b1b6-474b-bef3-dcc000293be4-data-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "e5183355-b1b6-474b-bef3-dcc000293be4-more-9",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean"
+  },
+  "onu_85078010553.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Reservoir"
+  },
+  "onu_85078233209.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-used-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-dipping-6"
+  },
+  "onu_85079351203.json": {},
+  "onu_85079784581.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-ORGANIZATION-Espírito-Santo-Continental-Shelf",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-available-17"
+  },
+  "onu_85080813467.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "NE-MISC-Southern"
+  },
+  "onu_85083240666.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-used-37"
+  },
+  "onu_85083341760.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "9393b61e-5555-44d0-943e-1eb43fe808ac-analyzed-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "9393b61e-5555-44d0-943e-1eb43fe808ac-analyzed-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "9393b61e-5555-44d0-943e-1eb43fe808ac-younger-6"
+  },
+  "onu_85084024263.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-work-5": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-work-5"
+  },
+  "onu_85084454298.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-used-12"
+  },
+  "onu_85084634006.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "a407c16e-080e-4100-9fc2-914500db52e5-used-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "a407c16e-080e-4100-9fc2-914500db52e5-observed-13"
+  },
+  "onu_85084667903.json": {},
+  "onu_85084945361.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "bb0ac139-3982-432a-8400-729a5c19c126-used-6"
+  },
+  "onu_85085054148.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085298469.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-described-18"
+  },
+  "onu_85085408490.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085473397.json": {},
+  "onu_85085492342.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-analyzed-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-smaller-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-99.6-11"
+  },
+  "onu_85085773523.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ab307ab9-374d-477f-9d96-1a0fda460239-used-5"
+  },
+  "onu_85085773731.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-observed-11"
+  },
+  "onu_85085773745.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "21225434-c8fc-441d-b277-65da424c77e7-used-9"
+  },
+  "onu_85085773825.json": {},
+  "onu_85085773875.json": {},
+  "onu_85085774498.json": {},
+  "onu_85085774511.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "07bf9801-f530-468c-9921-66afca9b2b91-wind-15-direction-16",
+    "NE-PERCENT-72.7%": "NE-PERCENT-99.99952%"
+  },
+  "onu_85085774766.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-used-4"
+  },
+  "onu_85085775194.json": {},
+  "onu_85085775396.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "ee817b7d-8183-4633-9141-28578ef8eeaa-used-8"
+  },
+  "onu_85085775562.json": {
+    "NE-SET-monthly": "NE-SET-daily"
+  },
+  "onu_85085775753.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-less-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-average-8"
+  },
+  "onu_85085775962.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "be473474-e9c1-4908-947b-6970a8bfa756-medium-26"
+  },
+  "onu_85085776151.json": {},
+  "onu_85085776159.json": {},
+  "onu_85085776356.json": {},
+  "onu_85085776372.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "c59dc365-dd43-4a22-8bcc-877027142262-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "c59dc365-dd43-4a22-8bcc-877027142262-Using-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "c59dc365-dd43-4a22-8bcc-877027142262-noted-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "c59dc365-dd43-4a22-8bcc-877027142262-larger-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "c59dc365-dd43-4a22-8bcc-877027142262-mean-14"
+  },
+  "onu_85085776540.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "544389f0-af01-489c-a71e-5e23542d32c5-objective-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "544389f0-af01-489c-a71e-5e23542d32c5-cumulative-16"
+  },
+  "onu_85085776958.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "6dbb2a6b-d66e-49c3-a7f3-450475d69123-presented-8"
+  },
+  "onu_85085777009.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "d32271d8-792a-4672-97e1-b4c138d6d351-more-11"
+  },
+  "onu_85085777884.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085778037.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-used-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085778412.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85085778651.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "42684b28-71f8-41aa-ada5-b427f3c87f94-observed-16",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "42684b28-71f8-41aa-ada5-b427f3c87f94-excessive-16"
+  },
+  "onu_85085778850.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "aefa100b-fd33-476c-8121-310d23ec4cbc-used-12"
+  },
+  "onu_85085778895.json": {},
+  "onu_85085779136.json": {},
+  "onu_85085779144.json": {},
+  "onu_85085780309.json": {},
+  "onu_85085850094.json": {},
+  "onu_85086232639.json": {},
+  "onu_85086245971.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "5b314478-44cb-4cb9-a631-b9e343125cc4-used-5"
+  },
+  "onu_85086248840.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85086257600.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-more-24"
+  },
+  "onu_85086355916.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-data-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "NE-LOCATION-Northeastern"
+  },
+  "onu_85086628030.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "a73dc049-c132-4e65-b2aa-4a929784f44d-less-13"
+  },
+  "onu_85086649140.json": {},
+  "onu_85086667338.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "c26fa3b4-e85d-44f5-a212-fecb246d8968-studied-21"
+  },
+  "onu_85086808985.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "bf917e90-7343-4ac5-9605-4309e100073a-deeper-28"
+  },
+  "onu_85086809805.json": {},
+  "onu_85086829622.json": {},
+  "onu_85086929987.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-Data-1",
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-tropical-16-clam-17-Anomalocardia-18-flexuosa-19"
+  },
+  "onu_85087227840.json": {},
+  "onu_85087228205.json": {},
+  "onu_85087345946.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "ecbc98e9-efbb-4ae9-83bd-05ad8cc1b6e9-Sea-1-level-2-rise-3"
+  },
+  "onu_85087348432.json": {
+    "NE-LOCATION-Espírito-Santo": "NE-LOCATION-Espírito-Santo"
+  },
+  "onu_85087970879.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85088133476.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "931afc26-ec02-4974-9270-dba41591d2d1-observed-21"
+  },
+  "onu_85088202607.json": {},
+  "onu_85088697920.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "63abed40-4d25-436b-bea5-6b97388825c3-more-11",
+    "NE-PERCENT-72.7%": "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "63abed40-4d25-436b-bea5-6b97388825c3-sea-46-level-47-changes-48",
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "63abed40-4d25-436b-bea5-6b97388825c3-northeastern-8"
+  },
+  "onu_85088709907.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "9525f0b3-641e-4716-8a1f-9fd6ad9440fb-objective-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "9525f0b3-641e-4716-8a1f-9fd6ad9440fb-wind-2-circulation-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "9525f0b3-641e-4716-8a1f-9fd6ad9440fb-coastal-6"
+  },
+  "onu_85088763109.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-data-17"
+  },
+  "onu_85088793210.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "36cf26a9-49e9-4151-9e5e-0835540d9f61-stronger-19"
+  },
+  "onu_85088799870.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic"
+  },
+  "onu_85088892946.json": {},
+  "onu_85088978023.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-eastern-26"
+  },
+  "onu_85089199336.json": {},
+  "onu_85089245637.json": {},
+  "onu_85089527352.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "3e605179-b368-4602-b44b-ceaa04c453c2-used-3",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "3e605179-b368-4602-b44b-ceaa04c453c2-more-28"
+  },
+  "onu_85089654013.json": {
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean"
+  },
+  "onu_85090201621.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "f9f900c7-5742-455e-b3dc-60b4fee023c9-used-10"
+  },
+  "onu_85090367193.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "026bc1df-a0cf-433b-b29b-2c16bf35150d-used-35",
+    "NE-PERCENT-72.7%": "NE-PERCENT-99.8%"
+  },
+  "onu_85090483755.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-climate-10": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-climate-27",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-southern-19"
+  },
+  "onu_85090507698.json": {},
+  "onu_85090509939.json": {},
+  "onu_85090511016.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-5"
+  },
+  "onu_85090646059.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36"
+  },
+  "onu_85090693617.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "5d225a40-54e2-4e02-a17e-ecea919142b6-aim-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "5d225a40-54e2-4e02-a17e-ecea919142b6-more-17"
+  },
+  "onu_85090982605.json": {},
+  "onu_85091197319.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24"
+  },
+  "onu_85091725112.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "68839359-bf76-4868-9d75-bcfd19d0c220-data-22",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "68839359-bf76-4868-9d75-bcfd19d0c220-analyzed-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "68839359-bf76-4868-9d75-bcfd19d0c220-analyzed-2"
+  },
+  "onu_85091986329.json": {},
+  "onu_85092100205.json": {},
+  "onu_85092110011.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-sea-30-surface-32-temperature-33-patterns-34",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-Turbulent-1"
+  },
+  "onu_85092499794.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "1eac3015-c78b-44b0-a446-b7757d48abba-objective-6"
+  },
+  "onu_85093942688.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "1be9b63b-f885-4cce-860e-7e7356ee91ae-recorded-16",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "1be9b63b-f885-4cce-860e-7e7356ee91ae-warmer-30",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "1be9b63b-f885-4cce-860e-7e7356ee91ae-southeastern-22"
+  },
+  "onu_85094168812.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-used-17",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-analyzed-18"
+  },
+  "onu_85095686213.json": {
+    "NE-LOCATION-South-Atlantic": "2b71d4fa-56c5-4102-8a03-0d5151874d42-North-21-Atlantic-24-oceans-25",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "2b71d4fa-56c5-4102-8a03-0d5151874d42-southern-11"
+  },
+  "onu_85095886757.json": {
+    "NE-LOCATION-Espírito-Santo": "1edc4e88-1827-492e-afa5-bfc84ccab13a-Espírito-15-Santo-16"
+  },
+  "onu_85095967333.json": {},
+  "onu_85096027479.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-studied-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-sea-32-level-34-conditions-35"
+  },
+  "onu_85096104148.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-more-5": "ae1a2359-6ac6-4b39-9948-774de2ff206e-more-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "ae1a2359-6ac6-4b39-9948-774de2ff206e-Clinopyroxene-1-geothermobarometry-2-data-3"
+  },
+  "onu_85096519364.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-2-level-4-change-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-systems-13": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-24"
+  },
+  "onu_85096833213.json": {
+    "NE-PERCENT-72.7%": "NE-PERCENT-75%"
+  },
+  "onu_85097322074.json": {},
+  "onu_85097480849.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "0df1d217-fa26-413d-aa69-6ede9c54686e-data-6",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "0df1d217-fa26-413d-aa69-6ede9c54686e-subtropical-23",
+    "NE-PERCENT-72.7%": "0df1d217-fa26-413d-aa69-6ede9c54686e-0.94-12-ng-13"
+  },
+  "onu_85097539519.json": {},
+  "onu_85097552901.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85097570159.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-data-6"
+  },
+  "onu_85097598677.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "a5d7be57-57d4-47ac-899e-025b964bbac8-Recorded-1",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-North-Sea"
+  },
+  "onu_85097758556.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-2": "ea95441f-c561-441f-9bf8-9f6102051745-average-19",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "ea95441f-c561-441f-9bf8-9f6102051745-continental-13",
+    "6dc1853a-1825-449e-9547-d497b3114adb-average-12": "ea95441f-c561-441f-9bf8-9f6102051745-average-19",
+    "NE-PERCENT-72.7%": "NE-PERCENT-70%",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "ea95441f-c561-441f-9bf8-9f6102051745-continental-21",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "NE-LOCATION-Northeastern"
+  },
+  "onu_85097770989.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "2cc98001-f232-4675-9305-a2fed963fe2c-used-22",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "2cc98001-f232-4675-9305-a2fed963fe2c-wind-15-speed-16",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic-Ocean"
+  },
+  "onu_85097876795.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-maritime-15"
+  },
+  "onu_85097889884.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "8876b26c-9469-4d0a-8688-55977469fef5-data-8",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "8876b26c-9469-4d0a-8688-55977469fef5-used-4"
+  },
+  "onu_85097914346.json": {},
+  "onu_85097951230.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "d6883d36-bf69-406e-b609-e85a3744a46f-aim-2",
+    "NE-SET-monthly": "NE-SET-monthly"
+  },
+  "onu_85098462600.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "38a83013-53f0-4289-9d52-d397020aee69-aim-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4": "38a83013-53f0-4289-9d52-d397020aee69-wind-3-energy-4"
+  },
+  "onu_85099021856.json": {},
+  "onu_85099211729.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-climate-10": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-used-12",
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-mean-13"
+  },
+  "onu_85099279592.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85099301920.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "7548607a-2b9a-4332-9ee4-f4344220c57a-performed-30"
+  },
+  "onu_85099313369.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-used-5"
+  },
+  "onu_85099520347.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-30.2-12": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-35.2-1"
+  },
+  "onu_85100594780.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-used-7",
+    "6dc1853a-1825-449e-9547-d497b3114adb-5.3-14-m-15-s-16-1-18": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-2.8-22-m-23",
+    "6dc1853a-1825-449e-9547-d497b3114adb-sea-3-level-4-pressure-5": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-sea-19-level-20",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-14"
+  },
+  "onu_85100847459.json": {},
+  "onu_85101031678.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-observed-2": "df4e7525-7180-4e43-bced-ab6436efb468-identified-3"
+  },
+  "onu_85101067912.json": {},
+  "onu_85101344072.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-LOCATION-South-Atlantic": "NE-LOCATION-South-Atlantic"
+  },
+  "onu_85101359309.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "65c99a63-593c-45ac-822d-f42c46ce46bd-extracted-20"
+  },
+  "onu_85101493235.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-mean-2": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "ef158461-f75c-4fd6-954c-3e8db41d439b-eastern-16"
+  },
+  "onu_85101961666.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "24e932fe-ae8c-44e6-87a2-382dde69c66c-larger-20"
+  },
+  "onu_85102272621.json": {
+    "NE-DATE-autumn": "NE-DATE-summer",
+    "NE-DATE-summer": "NE-DATE-summer",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "NE-MISC-South"
+  },
+  "onu_85103445741.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-used-28": "89db4da0-8f31-4057-95ec-8006cb31c9fb-used-14"
+  },
+  "onu_85103489384.json": {},
+  "onu_85103521288.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-data-3": "20734208-feb1-4173-9fdd-e0817c128dc2-data-7"
+  },
+  "onu_85103724572.json": {},
+  "onu_85104343927.json": {
+    "6dc1853a-1825-449e-9547-d497b3114adb-objective-2": "d2f57460-27c6-4be0-be1f-83c515125f60-objective-4",
+    "6dc1853a-1825-449e-9547-d497b3114adb-anticyclone-11-position-12": "d2f57460-27c6-4be0-be1f-83c515125f60-cyclogenesis-15",
+    "6dc1853a-1825-449e-9547-d497b3114adb-subtropical-10": "d2f57460-27c6-4be0-be1f-83c515125f60-tropical-14",
+    "6dc1853a-1825-449e-9547-d497b3114adb-weaker-4": "d2f57460-27c6-4be0-be1f-83c515125f60-weak-5",
+    "6dc1853a-1825-449e-9547-d497b3114adb-southern-16": "d2f57460-27c6-4be0-be1f-83c515125f60-south-17",
+    "NE-DATE-February": "NE-DATE-February"
+  },
+  "onu_85104631395.json": {},
+  "onu_85104732272.json": {}
+}

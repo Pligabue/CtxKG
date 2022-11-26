@@ -1,0 +1,526 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85090511016.txt",
+  "entities": {
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2": "production",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-4-fields-5": "oil fields",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dynamic-8": "dynamic",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-activity-11": "activity",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-patterns-2": "patterns",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-21-time-22": "production time",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-inherent-5": "inherent",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-characteristics-4": "characteristics",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-3": "it",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-behavior-9": "behavior",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-well-8": "well",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-12-tests-13": "production tests",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-periodic-11": "periodic",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-necessary-5": "necessary",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Thus-1": "Thus",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-paper-2": "paper",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6": "tool",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-manner-22": "manner",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-automatic-5": "automatic",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-quick-21": "quick",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-15-tests-16-validation-17-process-18": "production tests validation process",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-methodology-3": "methodology",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9": "13 wells",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-developed-2": "developed",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-offshore-13": "offshore",
+    "NE-TITLE-representative": "representative",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-14-field-15": "oil field",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-applied-5": "applied",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7": "dataset",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-created-9": "created",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12": "operation variables",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-13": "obtained",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-18-tests-19": "production tests",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-valid-15": "valid",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-classification-2-algorithms-3": "classification algorithms",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Regression-8": "Regression",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Six-1": "Six",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Logistic-7": "Logistic",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-reason-32-to-33-automatically-34-label-35": "reason to automatically label",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-6": "training",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-divided-4": "divided",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-2-set-3": "training set",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-5": "used",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-feature-8-selection-9": "feature selection",
+    "NE-TITLE-model": "model",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-proper-16": "proper",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-calibrate-12": "calibrate",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-output-23": "output",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-real-25-test-26-labels-27": "real test labels",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-validation-2-set-3": "validation set",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-6": "used",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-end-9": "end",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-16": "results",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-15": "obtained",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-procedure-12": "procedure",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-then-5": "then",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-10": "it",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-3": "results",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-case-7-study-8": "case study",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-variables-48": "variables",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-influence-52": "influence",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-huge-51": "huge",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-55": "production",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-IGLR-16": "IGLR",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-possible-12": "possible",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-representatives-37": "representatives",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-regression-11": "regression",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18": "performance",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-best-17": "best",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-SVM-8": "SVM",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14": "models",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-5": "results",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-that-2": "that",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-accurate-4": "accurate",
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-achieved-7": "achieved"
+  },
+  "graph": [
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2",
+      "relation": "is in",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-4-fields-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dynamic-8"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-activity-11"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-patterns-2",
+      "relation": "are changing based",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-21-time-22"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-patterns-2",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-inherent-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-characteristics-4",
+      "relation": "are changing based",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-21-time-22"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-3",
+      "relation": "evaluate",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-behavior-9"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-behavior-9",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-well-8"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-3",
+      "relation": "evaluate behavior with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-12-tests-13"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-12-tests-13",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-periodic-11"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-3",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-necessary-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-necessary-5",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Thus-1"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-paper-2",
+      "relation": "proposes",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6",
+      "relation": "assist production tests validation process in",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-manner-22"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-automatic-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-manner-22",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-quick-21"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6",
+      "relation": "assist",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-15-tests-16-validation-17-process-18"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-methodology-3",
+      "relation": "was applied to",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-methodology-3",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-developed-2"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-offshore-13"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9",
+      "relation": "is",
+      "object_id": "NE-TITLE-representative"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9",
+      "relation": "of",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-14-field-15"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-methodology-3",
+      "relation": "was",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-applied-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-created-9"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-created-9",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7",
+      "relation": "is created with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-13"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-18-tests-19"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-valid-15"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-classification-2-algorithms-3",
+      "relation": "are analyzed",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Regression-8"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-classification-2-algorithms-3",
+      "relation": "amount to",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Six-1"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Regression-8",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Logistic-7"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Regression-8",
+      "relation": "is in",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-reason-32-to-33-automatically-34-label-35"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7",
+      "relation": "was divided into",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-6"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7",
+      "relation": "was",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-divided-4"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-2-set-3",
+      "relation": "was",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-feature-8-selection-9",
+      "relation": "choose",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-2-set-3",
+      "relation": "perform",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-feature-8-selection-9"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-proper-16"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-2-set-3",
+      "relation": "perform feature selection to",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-calibrate-12"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-output-23",
+      "relation": "is with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-real-25-test-26-labels-27"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "has",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-output-23"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-validation-2-set-3",
+      "relation": "was",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-6"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-6",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-end-9"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-output-23",
+      "relation": "of",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-real-25-test-26-labels-27"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-validation-2-set-3",
+      "relation": "evaluate",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-16"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-16",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-15"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-validation-2-set-3",
+      "relation": "was used at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-end-9"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-end-9",
+      "relation": "of",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-procedure-12"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-6",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-then-5"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-10",
+      "relation": "was possible From",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-3"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-3",
+      "relation": "at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-case-7-study-8"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-3",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-15"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-variables-48",
+      "relation": "have",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-influence-52"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-influence-52",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-huge-51"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-variables-48",
+      "relation": "huge influence at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-55"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-10",
+      "relation": "identify",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-IGLR-16"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-possible-12",
+      "relation": "were",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-representatives-37"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-variables-48",
+      "relation": "influence at",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-55"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-10",
+      "relation": "was",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-possible-12"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-influence-52",
+      "relation": "of",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-55"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-regression-11",
+      "relation": "were models with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-best-17"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-SVM-8",
+      "relation": "were",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14",
+      "relation": "of",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-SVM-8",
+      "relation": "were models with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-regression-11",
+      "relation": "were",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-regression-11",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Logistic-7"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14",
+      "relation": "is with",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-5",
+      "relation": "were achieved Besides",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-that-2"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-5",
+      "relation": "is",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-accurate-4"
+    },
+    {
+      "subject_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-5",
+      "relation": "were",
+      "object_id": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-achieved-7"
+    }
+  ],
+  "links": {
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-4-fields-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dynamic-8": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-activity-11": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-patterns-2": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-21-time-22": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-inherent-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-characteristics-4": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-behavior-9": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-well-8": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-12-tests-13": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-periodic-11": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-necessary-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Thus-1": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-paper-2": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-tool-6": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-manner-22": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-automatic-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-quick-21": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-15-tests-16-validation-17-process-18": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-methodology-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-13-7-wells-9": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-developed-2": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-offshore-13": [],
+    "NE-TITLE-representative": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-oil-14-field-15": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-applied-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dataset-7": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-created-9": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-operation-11-variables-12": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-13": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-18-tests-19": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-valid-15": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-classification-2-algorithms-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Regression-8": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Six-1": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Logistic-7": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-reason-32-to-33-automatically-34-label-35": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-6": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-divided-4": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-training-2-set-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-feature-8-selection-9": [],
+    "NE-TITLE-model": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-proper-16": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-calibrate-12": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-output-23": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-real-25-test-26-labels-27": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-validation-2-set-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-used-6": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-end-9": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-16": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-obtained-15": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-procedure-12": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-then-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-it-10": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-3": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-case-7-study-8": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-variables-48": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-influence-52": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-huge-51": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-55": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-IGLR-16": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-possible-12": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-representatives-37": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-regression-11": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-best-17": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-SVM-8": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-models-14": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-5": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-that-2": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-accurate-4": [],
+    "2a7ad20c-6a88-421a-a937-fdbf2543b0df-achieved-7": []
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84958666405.txt",
+  "entities": {
+    "0f3d745d-6980-4396-973f-ab7c18b13380-energy-2-sector-3": "energy sector",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-has-4-global-6": "has global",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-globalization-8": "globalization",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-household-11-word-12": "household word",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-investments-16": "investments",
+    "NE-MONEY-$105-billion": "$ 105 billion",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-alone-17": "alone",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-FDI-23": "FDI",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-investment-5": "investment",
+    "NE-DATE-2011": "2011",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-Globalization-1": "Globalization",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-sector-5": "sector",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7": "oil companies",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-years-3": "years",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-recent-2": "recent",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-role-21": "role",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-national-5": "national",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-major-20": "major",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-projects-23": "projects",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46": "developed world",
+    "NE-ORGANIZATION-National-Petroleum-Company": "National Petroleum Company",
+    "NE-COUNTRY-Venezuela": "Venezuela",
+    "NE-ORGANIZATION-Sonangol": "Sonangol",
+    "NE-COUNTRY-Angola": "Angola",
+    "NE-COUNTRY-Norway": "Norway",
+    "NE-ORGANIZATION-Statoil": "Statoil",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-ORGANIZATION-NNPC": "NNPC",
+    "NE-NATIONALITY-Nigerian": "Nigerian",
+    "NE-ORGANIZATION-CNPC": "CNPC",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27": "benefits",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-government-32": "government",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-local-26": "local",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15": "terms",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-increasing-25": "increasing",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-48": "benefits",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-projects-52": "projects",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-financial-47": "financial",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-resources-6": "resources",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-concessions-17": "concessions",
+    "0f3d745d-6980-4396-973f-ab7c18b13380-pre-salt-21-deposits-23": "pre-salt deposits"
+  },
+  "graph": [
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-energy-2-sector-3",
+      "relation": "has",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-has-4-global-6"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-has-4-global-6",
+      "relation": "at",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-globalization-8"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-has-4-global-6",
+      "relation": "became",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-household-11-word-12"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-investments-16",
+      "relation": "traceable represented",
+      "object_id": "NE-MONEY-$105-billion"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-investments-16",
+      "relation": "represented",
+      "object_id": "NE-MONEY-$105-billion"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-investments-16",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-alone-17"
+    },
+    {
+      "subject_id": "NE-MONEY-$105-billion",
+      "relation": "of",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-FDI-23"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-investment-5",
+      "relation": "flows In",
+      "object_id": "NE-DATE-2011"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-Globalization-1",
+      "relation": "has changed however",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-sector-5"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-Globalization-1",
+      "relation": "has changed",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-sector-5"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7",
+      "relation": "have taken role In",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-years-3"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-years-3",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-recent-2"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7",
+      "relation": "have increasingly taken role In",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-years-3"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7",
+      "relation": "have increasingly taken",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-role-21"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-national-5"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-role-21",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-major-20"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7",
+      "relation": "have taken",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-role-21"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-role-21",
+      "relation": "is in",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-projects-23"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46",
+      "relation": "throughout Statoil is",
+      "object_id": "NE-ORGANIZATION-National-Petroleum-Company"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46",
+      "relation": "throughout Statoil is",
+      "object_id": "NE-COUNTRY-Venezuela"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Sonangol",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Angola"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46",
+      "relation": "throughout Statoil is",
+      "object_id": "NE-ORGANIZATION-Sonangol"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Norway",
+      "relation": "of Statoil is",
+      "object_id": "NE-ORGANIZATION-National-Petroleum-Company"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Norway",
+      "relation": "of Statoil is",
+      "object_id": "NE-ORGANIZATION-Sonangol"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "Petrobras of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "Sonangol of",
+      "object_id": "NE-COUNTRY-Angola"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Statoil",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Norway"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Company",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-NNPC"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Company",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Nigerian"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Norway",
+      "relation": "of Statoil is",
+      "object_id": "NE-COUNTRY-Venezuela"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46",
+      "relation": "throughout Statoil is",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Company",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-CNPC"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27",
+      "relation": "take",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-government-32"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-local-26"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15",
+      "relation": "mandate take",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15",
+      "relation": "mandate",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-increasing-25"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-48",
+      "relation": "flowing from",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-projects-52"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-48",
+      "relation": "is",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-financial-47"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-resources-6",
+      "relation": "dictate",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15",
+      "relation": "of",
+      "object_id": "0f3d745d-6980-4396-973f-ab7c18b13380-concessions-17"
+    },
+    {
+      "subject_id": "0f3d745d-6980-4396-973f-ab7c18b13380-pre-salt-21-deposits-23",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    }
+  ],
+  "links": {
+    "0f3d745d-6980-4396-973f-ab7c18b13380-energy-2-sector-3": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-has-4-global-6": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-globalization-8": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-household-11-word-12": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-investments-16": [],
+    "NE-MONEY-$105-billion": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-alone-17": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-FDI-23": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-investment-5": [],
+    "NE-DATE-2011": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-Globalization-1": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-sector-5": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-oil-6-companies-7": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-years-3": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-recent-2": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-role-21": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-national-5": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-major-20": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-projects-23": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-developed-43-world-46": [],
+    "NE-ORGANIZATION-National-Petroleum-Company": [],
+    "NE-COUNTRY-Venezuela": [],
+    "NE-ORGANIZATION-Sonangol": [],
+    "NE-COUNTRY-Angola": [],
+    "NE-COUNTRY-Norway": [],
+    "NE-ORGANIZATION-Statoil": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-ORGANIZATION-NNPC": [],
+    "NE-NATIONALITY-Nigerian": [],
+    "NE-ORGANIZATION-CNPC": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-27": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-government-32": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-local-26": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-terms-15": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-increasing-25": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-48": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-projects-52": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-financial-47": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-resources-6": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-concessions-17": [],
+    "0f3d745d-6980-4396-973f-ab7c18b13380-pre-salt-21-deposits-23": []
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85059218520.txt",
+  "entities": {
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38": "fields",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-completed-43": "completed",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-when-34": "when",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-gravel-19-technique-21": "gravel technique",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27": "has used",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-associated-8": "associated",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-packing-20": "packing",
+    "NE-SET-seventies": "seventies",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-46": "technique",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-small-36": "small",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-5-production-6-problems-7": "sand production problems",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-37": "offshore",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-hydrocarbons-13": "hydrocarbons",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sandstone-15-reservoirs-16": "sandstone reservoirs",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-solution-3": "solution",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-early-32": "early",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-northeast-40": "northeast",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-production-11": "production",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-turbidite-12-sandstones-13": "turbidite sandstones",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17": "area",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7": "discoveries",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-important-6": "important",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-friable-11-turbidite-12-sandstones-13": "friable turbidite sandstones",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-19": "offshore",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-unconsolidated-9": "unconsolidated",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-Albacora-20": "Albacora",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-waters-29": "waters",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-deep-28": "deep",
+    "NE-ORGANIZATION-GPT": "GPT",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5": "has elected",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-suitable-12": "suitable",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-15": "wells",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-9-control-10-technique-11": "sand control technique",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-only-8": "only",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7": "improvement",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-complete-12": "complete",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-suitably-11": "suitably",
+    "NE-ORGANIZATION-NP": "NP",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-18": "wells",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-21": "technique",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-use-2": "use",
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-unique-11": "unique"
+  },
+  "graph": [
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38",
+      "relation": "were",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-completed-43"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-completed-43",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-when-34"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-gravel-19-technique-21",
+      "relation": "has",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-associated-8"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-gravel-19-technique-21",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-packing-20"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "at",
+      "object_id": "NE-SET-seventies"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38",
+      "relation": "were completed with",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-46"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-small-36"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "of",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-5-production-6-problems-7"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-37"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-completed-43",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-46"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "of",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-hydrocarbons-13"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "of",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-sandstone-15-reservoirs-16"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "case",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-solution-3"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-early-32"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38",
+      "relation": "is in",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-northeast-40"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-northeast-40",
+      "relation": "in fields is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-production-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "More recently has made discoveries in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "NE-CITY-Rio-de-Janeiro",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-turbidite-12-sandstones-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "recently has made discoveries in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "NE-CITY-Rio-de-Janeiro",
+      "relation": "of",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has made discoveries in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "recently has made",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-important-6"
+    },
+    {
+      "subject_id": "NE-CITY-Rio-de-Janeiro",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-friable-11-turbidite-12-sandstones-13"
+    },
+    {
+      "subject_id": "NE-CITY-Rio-de-Janeiro",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has made",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "More recently has made",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-friable-11-turbidite-12-sandstones-13",
+      "relation": "is in",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-CITY-Rio-de-Janeiro",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-unconsolidated-9"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-Albacora-20",
+      "relation": "located in",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-waters-29"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-waters-29",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-deep-28"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-GPT",
+      "relation": "has",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-suitable-12"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-15"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-9-control-10-technique-11"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-only-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "search for",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-complete-12"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7",
+      "relation": "at",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-suitably-11"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-NP"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-18",
+      "relation": "is with",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-21"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-GPT"
+    },
+    {
+      "subject_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-use-2",
+      "relation": "is",
+      "object_id": "3b82b426-f976-4040-80bc-6950dc12d3c9-unique-11"
+    }
+  ],
+  "links": {
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-fields-38": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-completed-43": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-when-34": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-gravel-19-technique-21": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-has-25-used-27": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-associated-8": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-packing-20": [],
+    "NE-SET-seventies": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-46": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-small-36": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-5-production-6-problems-7": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-37": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-hydrocarbons-13": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sandstone-15-reservoirs-16": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-solution-3": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-early-32": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-northeast-40": [],
+    "NE-COUNTRY-Brazil": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-production-11": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-turbidite-12-sandstones-13": [
+      "3b82b426-f976-4040-80bc-6950dc12d3c9-friable-11-turbidite-12-sandstones-13"
+    ],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-area-17": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-discoveries-7": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-important-6": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-friable-11-turbidite-12-sandstones-13": [
+      "3b82b426-f976-4040-80bc-6950dc12d3c9-turbidite-12-sandstones-13"
+    ],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-offshore-19": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-unconsolidated-9": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-Albacora-20": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-waters-29": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-deep-28": [],
+    "NE-ORGANIZATION-GPT": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-has-3-elected-5": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-suitable-12": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-15": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-sand-9-control-10-technique-11": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-only-8": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-improvement-7": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-complete-12": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-suitably-11": [],
+    "NE-ORGANIZATION-NP": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-wells-18": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-technique-21": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-use-2": [],
+    "3b82b426-f976-4040-80bc-6950dc12d3c9-unique-11": []
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84996602559.txt",
+  "entities": {
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-study-2": "study",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5": "characteristics",
+    "NE-CITY-Manaus": "Manaus",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-69-season-70": "dry season",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7": "large",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-vertical-10": "vertical",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-9-velocity-11": "scale velocity",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-26-observed-36": "profiles observed",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6": "scale fields",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variations-10": "variations",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14": "activity",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-22": "profiles",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25": "differences",
+    "NE-TIME-morning": "morning",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-derived-2": "derived",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-3": "large",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-diurnal-9": "diurnal",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-convective-13": "convective",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-28": "dry",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-distinct-24": "distinct",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-GoAmazon-17-region-18": "GoAmazon region",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-31": "seasons",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14": "originating far from GoAmazon region",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27": "season",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8": "systems",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31": "observed",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-rarely-30": "rarely",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-propagating-6": "propagating",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-26": "dry",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-13": "seasons",
+    "NE-TIME-Afternoon": "Afternoon",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seen-10": "seen",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-frequently-9": "frequently",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-motion-11": "motion",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-strong-9": "strong",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-entire-19-troposphere-20": "entire troposphere",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-wet-23-season-24": "wet season",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-lower-30-levels-31": "lower levels",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-34-season-35": "dry season",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9": "heating",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-moistening-12": "moistening",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-6": "seasons",
+    "NE-TITLE-layer": "layer",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-boundary-15": "boundary",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-weak-8": "weak",
+    "NE-TIME-afternoon": "afternoon",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-related-17": "related",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-set-2": "set",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39": "variability",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-51": "systems",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-conducted-35": "conducted",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-types-48": "types",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-44-environment-45": "scale environment",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47-types-48-of-49-convective-50-systems-51": "different types of convective systems",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34": "also",
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47": "different"
+  },
+  "graph": [
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-study-2",
+      "relation": "describes",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5"
+    },
+    {
+      "subject_id": "NE-CITY-Manaus",
+      "relation": "near September is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-69-season-70"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-vertical-10"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-9-velocity-11"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-26-observed-36"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6",
+      "relation": "have",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variations-10"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6",
+      "relation": "have variations according",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-22",
+      "relation": "show",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-22",
+      "relation": "of",
+      "object_id": "NE-TIME-morning"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-derived-2"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-3"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variations-10",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variations-10",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-diurnal-9"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-convective-13"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-28"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-distinct-24"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-GoAmazon-17-region-18"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14",
+      "relation": "is in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-GoAmazon-17-region-18"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-31"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14",
+      "relation": "are observed in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14",
+      "relation": "are rarely observed in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14",
+      "relation": "are",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31",
+      "relation": "at",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31",
+      "relation": "at",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-rarely-30"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "are often seen",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-propagating-6"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "are seen",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-26"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-convective-13"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "are seen in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-13"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "of",
+      "object_id": "NE-TIME-Afternoon"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "are",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seen-10"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seen-10",
+      "relation": "at",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-frequently-9"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8",
+      "relation": "are frequently seen in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-13"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-motion-11",
+      "relation": "Accordingly is in",
+      "object_id": "NE-TIME-morning"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-motion-11",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-strong-9"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-motion-11",
+      "relation": "is in",
+      "object_id": "NE-TIME-morning"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-entire-19-troposphere-20",
+      "relation": "is in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-wet-23-season-24"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-lower-30-levels-31",
+      "relation": "is in",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-34-season-35"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9",
+      "relation": "afternoon",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-moistening-12"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-moistening-12",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-strong-9"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-6",
+      "relation": "exhibit heating in",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-boundary-15"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-6",
+      "relation": "exhibit",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-weak-8"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-6",
+      "relation": "exhibit heating In",
+      "object_id": "NE-TIME-afternoon"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9",
+      "relation": "seasons",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-moistening-12"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-related-17"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-set-2",
+      "relation": "investigate",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-51"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-set-2",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-conducted-35"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-types-48"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-convective-13"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-44-environment-45"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "is with",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47-types-48-of-49-convective-50-systems-51"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "of",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47-types-48-of-49-convective-50-systems-51"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-conducted-35",
+      "relation": "at",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34"
+    },
+    {
+      "subject_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39",
+      "relation": "is",
+      "object_id": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47"
+    }
+  ],
+  "links": {
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-study-2": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5": [],
+    "NE-CITY-Manaus": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-69-season-70": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-vertical-10": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-9-velocity-11": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-26-observed-36": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-5-fields-6": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variations-10": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-activity-14": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-profiles-22": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-differences-25": [],
+    "NE-TIME-morning": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-derived-2": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-3": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-diurnal-9": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-convective-13": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-28": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-distinct-24": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-GoAmazon-17-region-18": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-31": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-originating-9-far-10-from-11-GoAmazon-13-region-14": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-season-27": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-8": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-observed-31": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-rarely-30": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-propagating-6": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-26": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-13": [],
+    "NE-TIME-Afternoon": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seen-10": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-frequently-9": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-motion-11": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-strong-9": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-entire-19-troposphere-20": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-wet-23-season-24": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-lower-30-levels-31": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-dry-34-season-35": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-heating-9": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-moistening-12": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-seasons-6": [],
+    "NE-TITLE-layer": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-boundary-15": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-weak-8": [],
+    "NE-TIME-afternoon": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-related-17": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-set-2": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-variability-39": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-systems-51": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-conducted-35": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-types-48": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-scale-44-environment-45": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47-types-48-of-49-convective-50-systems-51": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34": [],
+    "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47": []
+  }
+}

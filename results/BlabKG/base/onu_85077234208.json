@@ -1,0 +1,542 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85077234208.txt",
+  "entities": {
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-ecosystems-2": "ecosystems",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8": "are affected by pollution",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-1": "Estuarine",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-increasingly-4": "increasingly",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-caused-9": "caused",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-anthropogenic-11": "anthropogenic",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-activities-12": "activities",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-three-16-sites-17": "three sites",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-29-System-30": "Estuarine System",
+    "NE-CITY-Laguna": "Laguna",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S1-19": "S1",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7": "Crassostrea gasar oysters",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9": "transplanted",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-study-3": "study",
+    "NE-DURATION-seven-days": "seven days",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-we-15": "we",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19": "variations",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-29": "concentration",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3": "basis",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-metal-8-pollutants-11": "metal pollutants",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-6": "concentrations",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-oysters-13": "oysters",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-25": "S3",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18": "spatial",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-21-levels-22": "pollutant levels",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Ag-31": "Ag",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-marked-17": "marked",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-highest-28": "highest",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-set-9": "set",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-4": "concentrations",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutants-6": "pollutants",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-analyzed-13": "analyzed",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1": "Oysters",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8": "defenses",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13": "observed",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-levels-17": "levels",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-protective-7": "protective",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-4": "S3",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-gills-10": "gills",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-superoxide-19-dismutase-20": "superoxide dismutase",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-SOD-22-like-24": "SOD like",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-enhanced-6": "enhanced",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-increased-16": "increased",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-antioxidant-2-activities-3": "antioxidant activities",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10": "indicative",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Decreased-1": "Decreased",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-damage-23": "damage",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-gland-14": "gland",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-digestive-13": "digestive",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-induced-21": "induced",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-19": "pollutant",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-more-16": "more",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-susceptible-17": "susceptible",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-LES-4": "LES",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-GST-27-enzyme-29-activity-30": "GST enzyme activity",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biotransformation-34-capacity-35": "biotransformation capacity",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-lower-33": "lower",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-insights-26": "insights",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34": "potential impacts",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-novel-25": "novel",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-exposure-37": "exposure",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-organisms-40": "organisms",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-our-22-study-23": "our study",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3": "information",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-6": "concentration",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-regarding-4": "regarding",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-estuarine-39-organisms-40": "estuarine organisms",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biological-33": "biological",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-such-36": "such",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-integrating-2": "integrating",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13-of-14-molecular-15-biomarkers-20": "that of molecular biomarkers",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biomarkers-20": "biomarkers",
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13": "that",
+    "NE-COUNTRY-Brazil": "Brazil"
+  },
+  "graph": [
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-ecosystems-2",
+      "relation": "are",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-ecosystems-2",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-1"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-increasingly-4"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-caused-9"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-anthropogenic-11"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-activities-12"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-three-16-sites-17",
+      "relation": "is in",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-29-System-30"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-29-System-30",
+      "relation": "of",
+      "object_id": "NE-CITY-Laguna"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-29-System-30",
+      "relation": "in sites is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-S1-19"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7",
+      "relation": "were",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-study-3"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9",
+      "relation": "at",
+      "object_id": "NE-DURATION-seven-days"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-three-16-sites-17"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7",
+      "relation": "were transplanted at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-three-16-sites-17"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7",
+      "relation": "were transplanted In",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-study-3"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7",
+      "relation": "were transplanted at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-S1-19"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7",
+      "relation": "were transplanted for",
+      "object_id": "NE-DURATION-seven-days"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-we-15",
+      "relation": "identified",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19",
+      "relation": "showing",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-29"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-we-15",
+      "relation": "identified variations On",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-metal-8-pollutants-11"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-6",
+      "relation": "is in",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-oysters-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-we-15",
+      "relation": "identified variations with",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-25"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19",
+      "relation": "is in",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-21-levels-22"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-21-levels-22"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-29",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Ag-31"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-marked-17"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-29",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-highest-28"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-oysters-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-6"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-set-9",
+      "relation": "was analyzed Along",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-4"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-4",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutants-6"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-set-9",
+      "relation": "was",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-analyzed-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1",
+      "relation": "showed",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1",
+      "relation": "showed defenses as",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-levels-17"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-protective-7"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1",
+      "relation": "maintained at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-4"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8",
+      "relation": "is in",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-gills-10"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-superoxide-19-dismutase-20"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-gills-10"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-SOD-22-like-24"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-enhanced-6"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-increased-16"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-antioxidant-2-activities-3",
+      "relation": "are",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-antioxidant-2-activities-3",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Decreased-1"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-damage-23"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-antioxidant-2-activities-3",
+      "relation": "are indicative of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-gland-14"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-gland-14",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-digestive-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-induced-21"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-19"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-more-16"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "at",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-gland-14"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-susceptible-17"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1",
+      "relation": "transplanted into",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-LES-4"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-GST-27-enzyme-29-activity-30",
+      "relation": "suggesting",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-biotransformation-34-capacity-35"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1",
+      "relation": "decreased",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-GST-27-enzyme-29-activity-30"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-biotransformation-34-capacity-35",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-lower-33"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-insights-26",
+      "relation": "study",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-insights-26",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-novel-25"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-exposure-37"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-organisms-40"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-our-22-study-23",
+      "relation": "provides insights By",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-6"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "case",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-regarding-4"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-estuarine-39-organisms-40"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-biological-33"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-such-36"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "is",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-integrating-2"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-our-22-study-23",
+      "relation": "provides",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-insights-26"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-6",
+      "relation": "is with",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13-of-14-molecular-15-biomarkers-20"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-biomarkers-20"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-metal-8-pollutants-11"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-estuarine-39-organisms-40",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3",
+      "relation": "of",
+      "object_id": "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13-of-14-molecular-15-biomarkers-20"
+    }
+  ],
+  "links": {
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-ecosystems-2": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-are-3-affected-6-by-7-pollution-8": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-1": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-increasingly-4": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-caused-9": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-anthropogenic-11": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-activities-12": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-three-16-sites-17": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Estuarine-29-System-30": [],
+    "NE-CITY-Laguna": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S1-19": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Crassostrea-5-gasar-6-oysters-7": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-transplanted-9": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-study-3": [],
+    "NE-DURATION-seven-days": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-we-15": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-variations-19": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-29": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-basis-3": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-metal-8-pollutants-11": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-6": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-oysters-13": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-25": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-21-levels-22": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Ag-31": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-marked-17": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-highest-28": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-set-9": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentrations-4": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutants-6": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-analyzed-13": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Oysters-1": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-defenses-8": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-observed-13": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-levels-17": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-protective-7": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-S3-4": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-gills-10": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-superoxide-19-dismutase-20": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-SOD-22-like-24": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-enhanced-6": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-increased-16": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-antioxidant-2-activities-3": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-indicative-10": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-Decreased-1": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-damage-23": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-gland-14": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-digestive-13": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-induced-21": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-pollutant-19": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-more-16": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-susceptible-17": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-LES-4": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-GST-27-enzyme-29-activity-30": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biotransformation-34-capacity-35": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-lower-33": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-insights-26": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-potential-32-impacts-34": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-novel-25": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-exposure-37": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-organisms-40": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-our-22-study-23": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-information-3": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-concentration-6": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-regarding-4": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-estuarine-39-organisms-40": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biological-33": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-such-36": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-integrating-2": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13-of-14-molecular-15-biomarkers-20": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-biomarkers-20": [],
+    "3bce63f2-6438-4309-b24d-2dcad2a582a1-that-13": [],
+    "NE-COUNTRY-Brazil": []
+  }
+}

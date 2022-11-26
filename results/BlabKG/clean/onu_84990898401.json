@@ -1,0 +1,353 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84990898401.txt",
+  "entities": {
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mixture-2": "mixture",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13": "reservoir effect",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6": "water masses",
+    "NE-TITLE-marine": "marine",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-different-4": "different",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4": "region",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14": "known",
+    "NE-CITY-Cabo-Frio": "Cabo Frio",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10": "coast",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19": "its upwelling",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-seasonal-17": "seasonal",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-southeastern-8": "southeastern",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-well-13": "well",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19": "mollusk shells",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22": "used",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3": "kind",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-settlement-6": "settlement",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-frequently-21": "frequently",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-southern-11": "southern",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-5": "archaeological",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-study-34": "study",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-MRE-36": "MRE",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-common-8": "common",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-tool-31": "tool",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-valuable-30": "valuable",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-coasts-15": "coasts",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusks-7": "mollusks",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-hand-4": "hand",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-other-3": "other",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-terrestrial-6": "terrestrial",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-represent-16": "represent",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-we-4": "we",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-Usiminas-16-shellmound-17": "Usiminas shellmound",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-frequent-8": "frequent",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-most-7": "most",
+    "NE-LOCATION-Island": "Island",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-work-3": "work",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-73-layers-74": "archaeological layers",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-sequence-77": "sequence",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-effect-2": "effect",
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-discussed-14": "discussed"
+  },
+  "graph": [
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mixture-2",
+      "relation": "can strongly influence",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13",
+      "relation": "mixture of",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-different-4"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mixture-2",
+      "relation": "can influence",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "of",
+      "object_id": "NE-CITY-Cabo-Frio"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "is known on",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "is well known for",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-seasonal-17"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "is well known on",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-southeastern-8"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4",
+      "relation": "is known for",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-well-13"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "are",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "common are used In",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3",
+      "relation": "of",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-settlement-6"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-frequently-21"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "are frequently used In",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "common are frequently used In",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "are used In",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "of",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-southern-11"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-5"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "represent tool in",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-study-34"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-study-34",
+      "relation": "of",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-MRE-36"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-common-8"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "represent",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-tool-31"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-tool-31",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-valuable-30"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-coasts-15"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusks-7",
+      "relation": "have proven On",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-hand-4"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-hand-4",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-other-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusks-7",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-terrestrial-6"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusks-7",
+      "relation": "be important",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-represent-16"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-we-4",
+      "relation": "analysed",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "of",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-Usiminas-16-shellmound-17"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-frequent-8"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "at",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-most-7"
+    },
+    {
+      "subject_id": "NE-LOCATION-Island",
+      "relation": "is on",
+      "object_id": "NE-CITY-Cabo-Frio"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-we-4",
+      "relation": "analysed mollusk shells In",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-work-3"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-terrestrial-6"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-we-4",
+      "relation": "analysed mollusk shells on",
+      "object_id": "NE-LOCATION-Island"
+    },
+    {
+      "subject_id": "NE-LOCATION-Island",
+      "relation": "of",
+      "object_id": "NE-CITY-Cabo-Frio"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-73-layers-74",
+      "relation": "is in",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-sequence-77"
+    },
+    {
+      "subject_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-effect-2",
+      "relation": "is",
+      "object_id": "9d3f7157-a5f4-4c28-968c-5311617f432d-discussed-14"
+    }
+  ],
+  "links": {
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mixture-2": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-reservoir-12-effect-13": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6": [],
+    "NE-TITLE-marine": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-different-4": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-region-4": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-known-14": [],
+    "NE-CITY-Cabo-Frio": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-coast-10": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-its-16-upwelling-19": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-seasonal-17": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-southeastern-8": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-well-13": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusk-18-shells-19": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-used-22": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-kind-3": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-settlement-6": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-frequently-21": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-southern-11": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-5": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-study-34": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-MRE-36": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-common-8": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-tool-31": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-valuable-30": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-coasts-15": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-mollusks-7": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-hand-4": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-other-3": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-terrestrial-6": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-represent-16": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-we-4": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-Usiminas-16-shellmound-17": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-frequent-8": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-most-7": [],
+    "NE-LOCATION-Island": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-work-3": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-archaeological-73-layers-74": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-sequence-77": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-effect-2": [],
+    "9d3f7157-a5f4-4c28-968c-5311617f432d-discussed-14": []
+  }
+}

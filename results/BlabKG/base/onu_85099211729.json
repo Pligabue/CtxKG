@@ -1,0 +1,380 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85099211729.txt",
+  "entities": {
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3": "temperature",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11": "climate variable",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Sea-1-surface-2": "Sea surface",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-essential-9": "essential",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-used-12": "used",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ocean-14": "ocean",
+    "NE-ORGANIZATION-NOAA": "NOAA",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-next-4-generation-5": "next generation",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-we-6": "we",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13": "ABI SST product",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-10": "operational",
+    "NE-ORDINAL-first": "first",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Tropical-33": "Tropical",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-MDB-29": "MDB",
+    "NE-ORGANIZATION-OSI-SAF": "OSI SAF",
+    "NE-DATE-the-year-of-2018": "the year of 2018",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-42": "coast",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-ORGANIZATION-MDB": "MDB",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-two-6-term-9-programs-10": "two term programs",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-obtained-4": "obtained",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-long-7": "long",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-comparisons-2": "comparisons",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-data-7-set-8": "data set",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Separate-1": "Separate",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1": "We",
+    "NE-PERSON-DONLON": "DONLON",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-et-15-al.-16": "et al.",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-increment-21": "increment",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSTIA-9-analysis-10-L4-11-SST-12": "OSTIA analysis L4 SST",
+    "NE-DATE-2012": "2012",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-5-product-6": "ABI product",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36": "exception",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-RMSE-23": "RMSE",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSI-6-SAF-7-ABI-8-SST-9-L3C-10": "OSI SAF ABI SST L3C",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-standards-32": "standards",
+    "NE-MISC-GHRSST": "GHRSST",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-bias-14": "bias",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-error-21": "error",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coastal-38-waters-39-off-40-southeast-42": "coastal waters off southeast",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-44": "coast",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-mean-13": "mean",
+    "NE-LOCATION-Malvinas-Confluence-Zone": "Malvinas Confluence Zone",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-seasons-8": "seasons",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-cloud-12-coverage-13": "cloud coverage",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-persistent-11": "persistent",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-biases-3": "biases",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-regions-6": "regions",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-highest-2": "highest",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-2-SST-3-product-4": "ABI SST product",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-use-9": "use",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-suitable-6": "suitable",
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-8": "operational"
+  },
+  "graph": [
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3",
+      "relation": "of",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Sea-1-surface-2"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-essential-9"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-essential-9"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-used-12"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-used-12"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11",
+      "relation": "at",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ocean-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-NOAA",
+      "relation": "’s",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-next-4-generation-5"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-we-6",
+      "relation": "compare",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-10"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Tropical-33",
+      "relation": "across database is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-MDB-29"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-we-6",
+      "relation": "compare",
+      "object_id": "NE-ORGANIZATION-OSI-SAF"
+    },
+    {
+      "subject_id": "NE-DATE-the-year-of-2018",
+      "relation": "throughout database is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-MDB-29"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-42",
+      "relation": "off database is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-MDB-29"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-42",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MDB",
+      "relation": "was obtained from",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-two-6-term-9-programs-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MDB",
+      "relation": "was",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-obtained-4"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-two-6-term-9-programs-10",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-long-7"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-comparisons-2",
+      "relation": "were made satellite SST quality level for",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-data-7-set-8"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-comparisons-2",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Separate-1"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "also compare ABI product with",
+      "object_id": "NE-PERSON-DONLON"
+    },
+    {
+      "subject_id": "NE-PERSON-DONLON",
+      "relation": "at",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-et-15-al.-16"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "also compare ABI product to",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-increment-21"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "also compare ABI product with",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSTIA-9-analysis-10-L4-11-SST-12"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "compare ABI product with",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSTIA-9-analysis-10-L4-11-SST-12"
+    },
+    {
+      "subject_id": "NE-PERSON-DONLON",
+      "relation": "at",
+      "object_id": "NE-DATE-2012"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "compare",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-5-product-6"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "compare ABI product with",
+      "object_id": "NE-PERSON-DONLON"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSTIA-9-analysis-10-L4-11-SST-12",
+      "relation": "DONLON is at_time",
+      "object_id": "NE-DATE-2012"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "also compare",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-5-product-6"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1",
+      "relation": "compare ABI product to",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-increment-21"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36",
+      "relation": "with error is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-RMSE-23"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSI-6-SAF-7-ABI-8-SST-9-L3C-10",
+      "relation": "error within",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-standards-32"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-standards-32",
+      "relation": "of",
+      "object_id": "NE-MISC-GHRSST"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSI-6-SAF-7-ABI-8-SST-9-L3C-10",
+      "relation": "has",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-bias-14"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-standards-32",
+      "relation": "within error is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-RMSE-23"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSI-6-SAF-7-ABI-8-SST-9-L3C-10",
+      "relation": "error with",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-error-21",
+      "relation": "is with",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coastal-38-waters-39-off-40-southeast-42"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36",
+      "relation": "of",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-44"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-bias-14",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-mean-13"
+    },
+    {
+      "subject_id": "NE-LOCATION-Malvinas-Confluence-Zone",
+      "relation": "is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-seasons-8",
+      "relation": "subjected to",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-cloud-12-coverage-13"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-cloud-12-coverage-13",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-persistent-11"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-biases-3",
+      "relation": "are for",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-regions-6"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-biases-3",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-highest-2"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-2-SST-3-product-4",
+      "relation": "is suitable for",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-use-9"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-2-SST-3-product-4",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-suitable-6"
+    },
+    {
+      "subject_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-use-9",
+      "relation": "is",
+      "object_id": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-8"
+    }
+  ],
+  "links": {
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-temperature-3": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-climate-10-variable-11": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Sea-1-surface-2": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-essential-9": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-used-12": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ocean-14": [],
+    "NE-ORGANIZATION-NOAA": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-next-4-generation-5": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-we-6": [
+      "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1"
+    ],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13": [
+      "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-2-SST-3-product-4"
+    ],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-10": [],
+    "NE-ORDINAL-first": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Tropical-33": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-MDB-29": [],
+    "NE-ORGANIZATION-OSI-SAF": [],
+    "NE-DATE-the-year-of-2018": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-42": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-ORGANIZATION-MDB": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-two-6-term-9-programs-10": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-obtained-4": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-long-7": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-comparisons-2": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-data-7-set-8": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Separate-1": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-We-1": [
+      "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-we-6"
+    ],
+    "NE-PERSON-DONLON": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-et-15-al.-16": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-increment-21": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSTIA-9-analysis-10-L4-11-SST-12": [],
+    "NE-DATE-2012": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-5-product-6": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-exception-36": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-RMSE-23": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-OSI-6-SAF-7-ABI-8-SST-9-L3C-10": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-standards-32": [],
+    "NE-MISC-GHRSST": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-bias-14": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-error-21": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coastal-38-waters-39-off-40-southeast-42": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-coast-44": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-mean-13": [],
+    "NE-LOCATION-Malvinas-Confluence-Zone": [],
+    "NE-COUNTRY-Brazil": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-seasons-8": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-cloud-12-coverage-13": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-persistent-11": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-biases-3": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-regions-6": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-highest-2": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-2-SST-3-product-4": [
+      "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-ABI-11-SST-12-product-13"
+    ],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-use-9": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-suitable-6": [],
+    "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-8": []
+  }
+}

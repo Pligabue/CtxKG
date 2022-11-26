@@ -1,0 +1,457 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097570159.txt",
+  "entities": {
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-distribution-13": "distribution",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-view-37": "view",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-carbon-40-cycle-41": "carbon cycle",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3": "understanding",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-essential-32": "essential",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-global-36": "global",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-better-2": "better",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelf-21-sediments-22-of-23-areas-24-under-25-distinct-26-natural-27-forces-30": "shelf sediments of areas under distinct natural forces",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-8": "continental",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-we-5": "we",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8": "influence",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19": "portion",
+    "NE-TITLE-river": "river",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-discharge-11": "discharge",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-STATE_OR_PROVINCE-NE": "NE",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24-margin-25": "continental margin",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24": "continental",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-study-3": "study",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-suite-36": "suite",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-surface-52-sediments-53": "surface sediments",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-margin-25": "margin",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-OM-14-accumulation-15-pattern-16": "OM accumulation pattern",
+    "NE-LOCATION-São-Francisco": "São Francisco",
+    "NE-PERSON-Vaza-Barris": "Vaza Barris",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-samples-5": "samples",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-collected-7": "collected",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-36-4": "36",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-adjacent-8": "adjacent",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-mouths-11": "mouths",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-3.77-10-1.93-12-µg-13-g-14-−1-15": "3.77 1.93 µg g −1",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21": "lowest values detected",
+    "NE-TITLE-River": "River",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-pro-delta-27": "pro-delta",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-result-2": "result",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7": "reductions",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-21": "interventions",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-caused-18": "caused",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-decades-17": "decades",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-last-16": "last",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-20": "human",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6": "interventions",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12": "drivers",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-5": "human",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9": "climate change",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15": "processes",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18": "shelves",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-relevant-11": "relevant",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-medium-25-rivers-26": "medium rivers",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-biogeochemical-14": "biogeochemical",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-even-16": "even",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-receiving-19": "receiving",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-data-6": "data",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-development-12": "development",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-ocean-23-scaling-24": "ocean scaling",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-watershed-20": "watershed",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-management-15-system-16": "management system",
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-coastal-22": "coastal"
+  },
+  "graph": [
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-distribution-13",
+      "relation": "obtain",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-view-37"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-view-37",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-carbon-40-cycle-41"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-essential-32"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-view-37",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-global-36"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-better-2"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3",
+      "relation": "is in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelf-21-sediments-22-of-23-areas-24-under-25-distinct-26-natural-27-forces-30"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-8"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-we-5",
+      "relation": "evaluated",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-discharge-11"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "is in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24-margin-25"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-we-5",
+      "relation": "evaluated influence In",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-study-3"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-suite-36",
+      "relation": "is in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-surface-52-sediments-53"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-margin-25"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-OM-14-accumulation-15-pattern-16"
+    },
+    {
+      "subject_id": "NE-LOCATION-São-Francisco",
+      "relation": "is",
+      "object_id": "NE-PERSON-Vaza-Barris"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-samples-5",
+      "relation": "were",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-collected-7"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-samples-5",
+      "relation": "amount to",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-36-4"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-samples-5",
+      "relation": "were collected",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-adjacent-8"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-adjacent-8",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-adjacent-8",
+      "relation": "at",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-mouths-11"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-3.77-10-1.93-12-µg-13-g-14-−1-15",
+      "relation": "is with",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Francisco"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21",
+      "relation": "at",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-pro-delta-27"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-result-2",
+      "relation": "reflect",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "at",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-21"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-caused-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-decades-17"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Francisco"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-last-16"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-20"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-São-Francisco"
+    },
+    {
+      "subject_id": "NE-LOCATION-São-Francisco",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "are",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-5"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9",
+      "relation": "are drivers for",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12",
+      "relation": "at",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-relevant-11"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-medium-25-rivers-26",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9",
+      "relation": "are",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-biogeochemical-14"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9",
+      "relation": "are drivers in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "are relevant drivers for",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12",
+      "relation": "at",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-even-16"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "are drivers for",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "are relevant drivers in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12",
+      "relation": "is in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18",
+      "relation": "at",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-even-16"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-receiving-19"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9",
+      "relation": "are relevant drivers for",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9",
+      "relation": "are relevant drivers in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6",
+      "relation": "are drivers in",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-data-6",
+      "relation": "contribute to",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-development-12"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-data-6",
+      "relation": "contribute based",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-ocean-23-scaling-24"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-ocean-23-scaling-24",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-watershed-20"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-development-12",
+      "relation": "of",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-management-15-system-16"
+    },
+    {
+      "subject_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-ocean-23-scaling-24",
+      "relation": "is",
+      "object_id": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-coastal-22"
+    }
+  ],
+  "links": {
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-distribution-13": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-view-37": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-carbon-40-cycle-41": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-understanding-3": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-essential-32": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-global-36": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-better-2": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelf-21-sediments-22-of-23-areas-24-under-25-distinct-26-natural-27-forces-30": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-8": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-we-5": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-portion-19": [],
+    "NE-TITLE-river": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-discharge-11": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-STATE_OR_PROVINCE-NE": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24-margin-25": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-continental-24": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-study-3": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-suite-36": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-surface-52-sediments-53": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-margin-25": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-OM-14-accumulation-15-pattern-16": [],
+    "NE-LOCATION-São-Francisco": [],
+    "NE-PERSON-Vaza-Barris": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-samples-5": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-collected-7": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-36-4": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-adjacent-8": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-mouths-11": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-3.77-10-1.93-12-µg-13-g-14-−1-15": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-lowest-19-values-20-detected-21": [],
+    "NE-TITLE-River": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-pro-delta-27": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-result-2": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-reductions-7": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-21": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-caused-18": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-decades-17": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-last-16": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-20": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-interventions-6": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-drivers-12": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-5": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-climate-8-change-9": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-processes-15": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-shelves-18": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-relevant-11": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-medium-25-rivers-26": [],
+    "NE-COUNTRY-Brazil": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-biogeochemical-14": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-even-16": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-receiving-19": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-data-6": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-development-12": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-ocean-23-scaling-24": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-watershed-20": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-management-15-system-16": [],
+    "14c6eb44-ef72-45a1-b03e-cd2275e92fed-coastal-22": []
+  }
+}

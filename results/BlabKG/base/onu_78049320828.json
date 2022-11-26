@@ -1,0 +1,367 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_78049320828.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10": "pre-salt reservoirs",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2": "company",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-8": "deepwater",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-6": "various",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-new-7": "new",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-output-12": "output",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17": "could source",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-11": "pre-salt",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-biggest-16": "biggest",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-1.24-24-million-25-bpd-26": "1.24 million bpd",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-20-growth-21": "production growth",
+    "NE-MISC-Strategic-Plan": "Strategic Plan",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-domestic-19": "domestic",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4": "basins",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-Santos-28-Basin-29-subsalt-30": "Santos Basin subsalt",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-PERCENT-85%": "85 %",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-term-34-oil-35-production-36-growth-37": "term oil production growth",
+    "NE-PERSON-Santos": "Santos",
+    "NE-PERSON-Campos": "Campos",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-offshore-3-basins-4": "offshore basins",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-country-19": "country",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-21-reserves-22": "oil reserves",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-long-33": "long",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-efforts-6": "efforts",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-5": "various",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22": "acquisition program",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10": "potential",
+    "NE-LOCATION-Tupi": "Tupi",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-area-14": "area",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-seismic-20": "seismic",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-large-18": "large",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-well-13": "well",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-19": "deepwater",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-direction-25": "direction",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7": "oil discovery",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24": "648 m",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17": "production concession",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-LOCATION-Marlim-Field": "Marlim Field",
+    "NE-TITLE-layer": "layer",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-light-5": "light",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24-of-25-water-26": "648 m of water",
+    "NE-CITY-Campos": "Campos",
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-10": "pre-salt"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has discovered",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-8"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-6"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-new-7"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-output-12",
+      "relation": "could",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-output-12",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-11"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-biggest-16"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17",
+      "relation": "adding",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-1.24-24-million-25-bpd-26"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-20-growth-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "According",
+      "object_id": "NE-MISC-Strategic-Plan"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-domestic-19"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4",
+      "relation": "development of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-Santos-28-Basin-29-subsalt-30"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4"
+    },
+    {
+      "subject_id": "NE-PERCENT-85%",
+      "relation": "drive",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-term-34-oil-35-production-36-growth-37"
+    },
+    {
+      "subject_id": "NE-PERSON-Santos",
+      "relation": "is",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "'s basins is",
+      "object_id": "NE-PERSON-Santos"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4",
+      "relation": "contain",
+      "object_id": "NE-PERCENT-85%"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-offshore-3-basins-4"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-country-19",
+      "relation": "has",
+      "object_id": "NE-PERCENT-85%"
+    },
+    {
+      "subject_id": "NE-PERCENT-85%",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-21-reserves-22"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-term-34-oil-35-production-36-growth-37",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-long-33"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-country-19",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-21-reserves-22"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-offshore-3-basins-4"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2",
+      "relation": "has made",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-efforts-6"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-efforts-6",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-5"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2",
+      "relation": "conducted",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-efforts-6",
+      "relation": "identify",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Tupi"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-area-14"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-seismic-20"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-large-18"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10",
+      "relation": "at",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-well-13"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-19"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2",
+      "relation": "conducted acquisition program in",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-direction-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "also announced",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "announced",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Marlim-Field"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "is in",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-light-5"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24-of-25-water-26"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "is in",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24-of-25-water-26"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is in",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+      "relation": "is",
+      "object_id": "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-9-reservoirs-10": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-8": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-6": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-new-7": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-output-12": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-could-13-source-17": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-11": [
+      "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-10"
+    ],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-biggest-16": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-1.24-24-million-25-bpd-26": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-20-growth-21": [],
+    "NE-MISC-Strategic-Plan": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-domestic-19": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-basins-4": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-Santos-28-Basin-29-subsalt-30": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-PERCENT-85%": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-term-34-oil-35-production-36-growth-37": [],
+    "NE-PERSON-Santos": [],
+    "NE-PERSON-Campos": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-offshore-3-basins-4": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-country-19": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-21-reserves-22": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-long-33": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-efforts-6": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-various-5": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-acquisition-21-program-22": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-potential-10": [],
+    "NE-LOCATION-Tupi": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-area-14": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-seismic-20": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-large-18": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-well-13": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-deepwater-19": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-direction-25": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-production-16-concession-17": [],
+    "NE-LOCATION-Basin": [],
+    "NE-LOCATION-Marlim-Field": [],
+    "NE-TITLE-layer": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-light-5": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-648-23-m-24-of-25-water-26": [],
+    "NE-CITY-Campos": [],
+    "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-10": [
+      "b0408dc9-8c82-423c-98ff-ebbb41b36282-pre-salt-11"
+    ]
+  }
+}

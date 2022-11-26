@@ -1,0 +1,125 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_34250708084.txt",
+  "entities": {
+    "NE-ORGANIZATION-Global-Industries": "Global Industries",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9": "letter",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-subsea-2": "subsea",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-intent-11": "intent",
+    "NE-TITLE-engineer": "engineer",
+    "NE-COUNTRY-US": "US",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-the-16": "the",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-Camarupim-1-gas-2-pipeline-3": "Camarupim gas pipeline",
+    "NE-LOCATION-Espirito-Santo-Basin": "Espirito Santo Basin",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-project-2": "project",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-project-12-planning-13": "project planning",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-installation-3": "installation",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6": "will performed",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-offshore-2": "offshore",
+    "NE-ORGANIZATION-Global": "Global",
+    "NE-MISC-Iroquois": "Iroquois",
+    "e644eed9-934d-4395-bd32-6726e3dee36b-pipelay-10-barge-11": "pipelay barge"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Global-Industries",
+      "relation": "has received",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global-Industries",
+      "relation": "is",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-subsea-2"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9",
+      "relation": "of",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-intent-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global-Industries",
+      "relation": "of",
+      "object_id": "NE-TITLE-engineer"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global-Industries",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-US"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global-Industries",
+      "relation": "is",
+      "object_id": "NE-TITLE-engineer"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9",
+      "relation": "install",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-the-16"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-Camarupim-1-gas-2-pipeline-3",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Espirito-Santo-Basin"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-project-2",
+      "relation": "valued at",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-project-12-planning-13"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-installation-3",
+      "relation": "will",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-installation-3",
+      "relation": "is",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-offshore-2"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global",
+      "relation": "has",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6",
+      "relation": "by",
+      "object_id": "NE-MISC-Iroquois"
+    },
+    {
+      "subject_id": "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6",
+      "relation": "of",
+      "object_id": "e644eed9-934d-4395-bd32-6726e3dee36b-pipelay-10-barge-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Global",
+      "relation": "by",
+      "object_id": "NE-MISC-Iroquois"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Global-Industries": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-letter-9": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-subsea-2": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-intent-11": [],
+    "NE-TITLE-engineer": [],
+    "NE-COUNTRY-US": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-the-16": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-Camarupim-1-gas-2-pipeline-3": [],
+    "NE-LOCATION-Espirito-Santo-Basin": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-project-2": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-project-12-planning-13": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-installation-3": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-offshore-2": [],
+    "NE-ORGANIZATION-Global": [],
+    "NE-MISC-Iroquois": [],
+    "e644eed9-934d-4395-bd32-6726e3dee36b-pipelay-10-barge-11": []
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85032863710.txt",
+  "entities": {
+    "59d300b8-aa39-45a5-a859-541819eebb68-Oil-1-exploration-2": "Oil exploration",
+    "59d300b8-aa39-45a5-a859-541819eebb68-pre-salt-5-mainly-7-in-8-SANTOS-10-BASIN-11": "pre-salt mainly in SANTOS BASIN",
+    "59d300b8-aa39-45a5-a859-541819eebb68-offshore-28-platforms-29": "offshore platforms",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "59d300b8-aa39-45a5-a859-541819eebb68-shipment-23-costs-24": "shipment costs",
+    "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6": "terminal",
+    "59d300b8-aa39-45a5-a859-541819eebb68-presence-2": "presence",
+    "59d300b8-aa39-45a5-a859-541819eebb68-speed-30-of-31-commuting-32": "speed of commuting",
+    "59d300b8-aa39-45a5-a859-541819eebb68-adjacent-14": "adjacent",
+    "59d300b8-aa39-45a5-a859-541819eebb68-remote-5": "remote",
+    "59d300b8-aa39-45a5-a859-541819eebb68-so-9-called-11-HUB-12": "so called HUB",
+    "59d300b8-aa39-45a5-a859-541819eebb68-work-3": "work",
+    "59d300b8-aa39-45a5-a859-541819eebb68-body-10": "body",
+    "59d300b8-aa39-45a5-a859-541819eebb68-floating-19-breakwater-20": "floating breakwater",
+    "59d300b8-aa39-45a5-a859-541819eebb68-deep-22-water-23": "deep water",
+    "59d300b8-aa39-45a5-a859-541819eebb68-waves-14": "waves",
+    "59d300b8-aa39-45a5-a859-541819eebb68-hull-6": "hull",
+    "59d300b8-aa39-45a5-a859-541819eebb68-mostly-12": "mostly",
+    "NE-DATE-present": "present",
+    "59d300b8-aa39-45a5-a859-541819eebb68-rigid-9": "rigid",
+    "59d300b8-aa39-45a5-a859-541819eebb68-transversal-13": "transversal",
+    "59d300b8-aa39-45a5-a859-541819eebb68-central-26-turret-27": "central turret",
+    "59d300b8-aa39-45a5-a859-541819eebb68-crew-2-boat-3": "crew boat",
+    "59d300b8-aa39-45a5-a859-541819eebb68-HSV-6": "HSV",
+    "59d300b8-aa39-45a5-a859-541819eebb68-previous-6-study-7": "previous study",
+    "NE-DATE-2015": "2015",
+    "59d300b8-aa39-45a5-a859-541819eebb68-panel-36-method-37-code-38": "panel method code",
+    "59d300b8-aa39-45a5-a859-541819eebb68-frequency-40-domain-41": "frequency domain",
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-11-probabilities-12": "operation probabilities",
+    "59d300b8-aa39-45a5-a859-541819eebb68-having-3-evaluated-14": "having evaluated",
+    "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1": "Finally",
+    "59d300b8-aa39-45a5-a859-541819eebb68-mind-5-operation-6-limits-7": "mind operation limits",
+    "59d300b8-aa39-45a5-a859-541819eebb68-two-15-bodies-16": "two bodies",
+    "NE-MISC-Configurations": "Configurations",
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-3-probabilities-4": "operation probabilities",
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-10-limits-11": "operation limits",
+    "59d300b8-aa39-45a5-a859-541819eebb68-studied-6": "studied"
+  },
+  "graph": [
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-Oil-1-exploration-2",
+      "relation": "is in",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-pre-salt-5-mainly-7-in-8-SANTOS-10-BASIN-11"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-offshore-28-platforms-29",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-shipment-23-costs-24",
+      "relation": "presence of",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-presence-2",
+      "relation": "also increases",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-speed-30-of-31-commuting-32"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-presence-2",
+      "relation": "is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-adjacent-14"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6",
+      "relation": "is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-remote-5"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-shipment-23-costs-24",
+      "relation": "presence adjacent of",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6",
+      "relation": "of presence is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-so-9-called-11-HUB-12"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-work-3",
+      "relation": "analyzes hull as",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-body-10"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-floating-19-breakwater-20",
+      "relation": "is in",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-deep-22-water-23"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-body-10",
+      "relation": "receiving",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-waves-14"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-body-10",
+      "relation": "at",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-hull-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-waves-14",
+      "relation": "at",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-mostly-12"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-work-3",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-body-10",
+      "relation": "is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-rigid-9"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-work-3",
+      "relation": "analyzes",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-hull-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-waves-14",
+      "relation": "is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-transversal-13"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-floating-19-breakwater-20",
+      "relation": "is with",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-central-26-turret-27"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-crew-2-boat-3",
+      "relation": "is",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-HSV-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-previous-6-study-7",
+      "relation": "is in",
+      "object_id": "NE-DATE-2015"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-panel-36-method-37-code-38",
+      "relation": "is in",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-frequency-40-domain-41"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-11-probabilities-12",
+      "relation": "having",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-having-3-evaluated-14"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-having-3-evaluated-14",
+      "relation": "at",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-having-3-evaluated-14",
+      "relation": "at",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-mind-5-operation-6-limits-7"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-two-15-bodies-16",
+      "relation": "is in",
+      "object_id": "NE-MISC-Configurations"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-3-probabilities-4",
+      "relation": "are studied according",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-10-limits-11"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-3-probabilities-4",
+      "relation": "are",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-studied-6"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-3-probabilities-4",
+      "relation": "Finally are studied according",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-operation-10-limits-11"
+    },
+    {
+      "subject_id": "59d300b8-aa39-45a5-a859-541819eebb68-studied-6",
+      "relation": "at",
+      "object_id": "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1"
+    }
+  ],
+  "links": {
+    "59d300b8-aa39-45a5-a859-541819eebb68-Oil-1-exploration-2": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-pre-salt-5-mainly-7-in-8-SANTOS-10-BASIN-11": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-offshore-28-platforms-29": [],
+    "NE-COUNTRY-Brazil": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-shipment-23-costs-24": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-terminal-6": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-presence-2": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-speed-30-of-31-commuting-32": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-adjacent-14": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-remote-5": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-so-9-called-11-HUB-12": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-work-3": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-body-10": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-floating-19-breakwater-20": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-deep-22-water-23": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-waves-14": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-hull-6": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-mostly-12": [],
+    "NE-DATE-present": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-rigid-9": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-transversal-13": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-central-26-turret-27": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-crew-2-boat-3": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-HSV-6": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-previous-6-study-7": [],
+    "NE-DATE-2015": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-panel-36-method-37-code-38": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-frequency-40-domain-41": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-11-probabilities-12": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-having-3-evaluated-14": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-mind-5-operation-6-limits-7": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-two-15-bodies-16": [],
+    "NE-MISC-Configurations": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-3-probabilities-4": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-operation-10-limits-11": [],
+    "59d300b8-aa39-45a5-a859-541819eebb68-studied-6": []
+  }
+}

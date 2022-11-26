@@ -1,0 +1,498 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85065180012.txt",
+  "entities": {
+    "NE-PERSON-Sambaquis": "Sambaquis",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5": "shell mounds",
+    "NE-MISC-pre-Columbian": "pre-Columbian",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-3": "archaeological",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-formed-8": "formed",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-populations-11": "populations",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7": "sambaquis",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14": "changes",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-17": "biodiversity",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11": "archives",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5": "their values",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-recognized-3": "recognized",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-tracking-13": "tracking",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biological-10": "biological",
+    "NE-DATE-past": "past",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-cultural-4": "cultural",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-valuable-9": "valuable",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4": "we",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8": "record",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14": "sites",
+    "NE-CITY-Bay": "Bay",
+    "NE-LOCATION-Babitonga": "Babitonga",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-remains-11": "remains",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-3": "contribution",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-published-7": "published",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-faunal-10": "faunal",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-located-15": "located",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-state-22": "state",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-13": "archaeological",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13": "survey",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-literature-3-review-4": "literature review",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-human-21-groups-22": "human groups",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-area-25": "area",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-groups-22": "groups",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-comprehensive-12": "comprehensive",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-taxa-18": "taxa",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-terrestrial-15": "terrestrial",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-110-6-sites-7": "110 sites",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-exploited-19": "exploited",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-species-5": "species",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-recorded-7": "recorded",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16": "12",
+    "NE-DATE-present": "present",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-longer-19": "longer",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-no-18": "no",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-244-4": "244",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5": "snapshots",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13": "contribution",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-synthesis-3": "synthesis",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-zooarchaeological-2": "zooarchaeological",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-debates-16": "debates",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-world-25": "world",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27-threatened-28-tropical-29-biomes-30": "most threatened tropical biomes",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-novel-12": "novel",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-8": "biodiversity",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-conservation-19-biology-20": "conservation biology",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27": "most",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-tropical-29": "tropical",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-threatened-28": "threatened",
+    "NE-DATE-current": "current",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-one-22": "one",
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biomes-30": "biomes"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-PERSON-Sambaquis",
+      "relation": "are",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5",
+      "relation": "is",
+      "object_id": "NE-MISC-pre-Columbian"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-3"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-formed-8"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-populations-11"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are valuable archives for",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-17"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are archives Beyond",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are valuable archives Beyond",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-recognized-3"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5",
+      "relation": "has",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are archives for",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-tracking-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biological-10"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are biological archives Beyond",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are valuable biological archives Beyond",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14",
+      "relation": "is in",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-17"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-17",
+      "relation": "is",
+      "object_id": "NE-DATE-past"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are biological archives for",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7",
+      "relation": "are valuable biological archives for",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-cultural-4"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-valuable-9"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "reviewed",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14",
+      "relation": "located in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Babitonga"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "reviewed record from",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-remains-11"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14",
+      "relation": "at",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "reviewed record In",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-3"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-published-7"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-faunal-10"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-located-15"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "reviewed record in",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-state-22"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "assembled",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4",
+      "relation": "assembled survey Through",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-literature-3-review-4"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-human-21-groups-22",
+      "relation": "is in",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-area-25"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-groups-22"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-comprehensive-12"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-taxa-18"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-terrestrial-15"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-literature-3-review-4",
+      "relation": "covering",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-110-6-sites-7"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-literature-3-review-4",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-exploited-19"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-human-21-groups-22"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-species-5",
+      "relation": "were",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-recorded-7"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16",
+      "relation": "are",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "NE-DATE-present",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-longer-19"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16",
+      "relation": "are longer present in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-DATE-present",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-no-18"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16",
+      "relation": "are no longer present in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-species-5",
+      "relation": "amount to",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-244-4"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16",
+      "relation": "are present in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5",
+      "relation": "adding",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-synthesis-3",
+      "relation": "provides",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-synthesis-3",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-zooarchaeological-2"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-debates-16"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-world-25",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27-threatened-28-tropical-29-biomes-30"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-novel-12"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5",
+      "relation": "is",
+      "object_id": "NE-DATE-past"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-8"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-conservation-19-biology-20"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "at",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27-threatened-28-tropical-29-biomes-30"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-tropical-29"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "is",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-threatened-28"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-world-25",
+      "relation": "has",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-one-22"
+    },
+    {
+      "subject_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13",
+      "relation": "of",
+      "object_id": "13f75155-d6c6-4b97-9145-c113a876f2e7-biomes-30"
+    }
+  ],
+  "links": {
+    "NE-PERSON-Sambaquis": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-shell-4-mounds-5": [],
+    "NE-MISC-pre-Columbian": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-3": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-formed-8": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-populations-11": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-sambaquis-7": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-changes-14": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-17": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archives-11": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-their-2-values-5": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-recognized-3": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-tracking-13": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biological-10": [],
+    "NE-DATE-past": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-cultural-4": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-valuable-9": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-we-4": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-record-8": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-sites-14": [],
+    "NE-CITY-Bay": [],
+    "NE-LOCATION-Babitonga": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-remains-11": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-3": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-published-7": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-faunal-10": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-located-15": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-state-22": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-archaeological-13": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-survey-13": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-literature-3-review-4": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-human-21-groups-22": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-area-25": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-groups-22": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-comprehensive-12": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-taxa-18": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-terrestrial-15": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-110-6-sites-7": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-exploited-19": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-species-5": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-recorded-7": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-12-16": [],
+    "NE-DATE-present": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-longer-19": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-no-18": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-244-4": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-snapshots-5": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-synthesis-3": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-zooarchaeological-2": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-debates-16": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-world-25": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27-threatened-28-tropical-29-biomes-30": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-novel-12": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biodiversity-8": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-conservation-19-biology-20": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-most-27": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-tropical-29": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-threatened-28": [],
+    "NE-DATE-current": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-one-22": [],
+    "13f75155-d6c6-4b97-9145-c113a876f2e7-biomes-30": []
+  }
+}

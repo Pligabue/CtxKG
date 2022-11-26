@@ -1,0 +1,43 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_23699043.txt",
+  "entities": {
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-feasibility-2": "feasibility",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-investigated-21": "investigated",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-construction-17-method-18": "construction method",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-devised-20": "devised",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-difficulty-24": "difficulty",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-design-2": "design",
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-storage-4-tanks-5": "storage tanks"
+  },
+  "graph": [
+    {
+      "subject_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-feasibility-2",
+      "relation": "was",
+      "object_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-investigated-21"
+    },
+    {
+      "subject_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-construction-17-method-18",
+      "relation": "was",
+      "object_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-devised-20"
+    },
+    {
+      "subject_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-construction-17-method-18",
+      "relation": "overcome",
+      "object_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-difficulty-24"
+    },
+    {
+      "subject_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-design-2",
+      "relation": "incorporates",
+      "object_id": "27ebf046-bcf2-420b-91df-6fb5d91c9044-storage-4-tanks-5"
+    }
+  ],
+  "links": {
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-feasibility-2": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-investigated-21": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-construction-17-method-18": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-devised-20": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-difficulty-24": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-design-2": [],
+    "27ebf046-bcf2-420b-91df-6fb5d91c9044-storage-4-tanks-5": []
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85084024263.txt",
+  "entities": {
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3": "carbonate reservoirs",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-offshore-6": "offshore",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-depths-18": "depths",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reaching-17": "reaching",
+    "NE-ORGANIZATION-Santos": "Santos",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Pre-salt-1": "Pre-salt",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Part-1": "Part",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9": "scenarios",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-permo-12-porous-14": "permo porous",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-their-19-injection-20-rates-21": "their injection rates",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoirs-31": "reservoirs",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-inferior-11": "inferior",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-27-propagation-28": "fracture propagation",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-characteristic-15": "characteristic",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-located-7": "located",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-field-10-tests-11": "field tests",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-minimum-17-stress-20": "minimum stress",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-22-propagation-23-pressure-24": "fracture propagation pressure",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-in-18": "in",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoir-27": "reservoir",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-models-5": "models",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-geomechanical-4": "geomechanical",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-2": "tests",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6": "change",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-criterion-9": "criterion",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injection-15-pressure-16": "injection pressure",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-definition-11": "definition",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-maximum-14-injection-15-pressure-16": "maximum injection pressure",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injector-18-wells-19": "injector wells",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20": "problems",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-rig-27-time-28": "rig time",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-shortest-26": "shortest",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-operational-19": "operational",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-10-results-11": "tests results",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-work-5": "work",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-objective-2": "objective",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-results-2": "results",
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-understanding-5": "understanding"
+  },
+  "graph": [
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3",
+      "relation": "are located",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-offshore-6"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3",
+      "relation": "are located",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-depths-18"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-depths-18",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reaching-17"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3",
+      "relation": "are located Brazil at",
+      "object_id": "NE-ORGANIZATION-Santos"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Pre-salt-1"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3",
+      "relation": "are located depths at",
+      "object_id": "NE-ORGANIZATION-Santos"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Part-1",
+      "relation": "are located in",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-permo-12-porous-14"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-their-19-injection-20-rates-21",
+      "relation": "avoid fracture propagation in",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoirs-31"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-inferior-11"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-their-19-injection-20-rates-21",
+      "relation": "avoid",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-27-propagation-28"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-characteristic-15"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Part-1",
+      "relation": "are",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-located-7"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-field-10-tests-11",
+      "relation": "estimate",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-minimum-17-stress-20"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-minimum-17-stress-20",
+      "relation": "reservoir",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-22-propagation-23-pressure-24"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-minimum-17-stress-20",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-in-18"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-field-10-tests-11",
+      "relation": "estimate minimum stress in",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoir-27"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-field-10-tests-11",
+      "relation": "improve",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-models-5"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-models-5",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-geomechanical-4"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-2",
+      "relation": "allowed",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-criterion-9"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injection-15-pressure-16"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-definition-11"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "is in",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-criterion-9"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-maximum-14-injection-15-pressure-16"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-maximum-14-injection-15-pressure-16",
+      "relation": "is in",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injector-18-wells-19"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6",
+      "relation": "of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injector-18-wells-19"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20",
+      "relation": "seeking",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-rig-27-time-28"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-rig-27-time-28",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-shortest-26"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20",
+      "relation": "is",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-operational-19"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-10-results-11",
+      "relation": "objective of",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-work-5"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20",
+      "relation": "always seeking",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-rig-27-time-28"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-objective-2",
+      "relation": "is present",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-10-results-11"
+    },
+    {
+      "subject_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-results-2",
+      "relation": "favored",
+      "object_id": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-understanding-5"
+    }
+  ],
+  "links": {
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-carbonate-2-reservoirs-3": [],
+    "NE-COUNTRY-Brazil": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-offshore-6": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-depths-18": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reaching-17": [],
+    "NE-ORGANIZATION-Santos": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Pre-salt-1": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-Part-1": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-scenarios-9": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-permo-12-porous-14": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-their-19-injection-20-rates-21": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoirs-31": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-inferior-11": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-27-propagation-28": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-characteristic-15": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-located-7": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-field-10-tests-11": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-minimum-17-stress-20": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-fracture-22-propagation-23-pressure-24": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-in-18": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoir-27": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-models-5": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-geomechanical-4": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-2": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-change-6": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-criterion-9": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injection-15-pressure-16": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-definition-11": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-maximum-14-injection-15-pressure-16": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-injector-18-wells-19": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-rig-27-time-28": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-shortest-26": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-operational-19": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-tests-10-results-11": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-work-5": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-objective-2": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-results-2": [],
+    "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-understanding-5": []
+  }
+}

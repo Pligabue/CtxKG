@@ -1,0 +1,333 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85050551470.txt",
+  "entities": {
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-6-field-8": "BC10 field",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-reservoir-25-conditions-26": "reservoir conditions",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-%-18": "%",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23": "subsea",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-boosting-24": "boosting",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-Several-1-subsea-2-fields-3": "Several subsea fields",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-viscosities-5-ranging-6": "viscosities ranging",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-5-17": "5",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3": "oil",
+    "NE-DATE-2009": "2009",
+    "NE-ORDINAL-first": "first",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-method-9": "method",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17": "has deployed",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-unique-8": "unique",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC-19-10-21": "BC 10",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-Maintenance-1": "Maintenance",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-intervention-8": "intervention",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-ESP-4-assemblies-5": "ESP assemblies",
+    "NE-ORGANIZATION-Shell": "Shell",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-5": "subsea",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-objective-18": "objective",
+    "NE-MISC-Opex": "Opex",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-field-21": "field",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-alternative-4": "alternative",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-redundancy-25": "redundancy",
+    "NE-ORGANIZATION-MLP": "MLP",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-conceived-4": "conceived",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-module-8": "module",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-retrofit-7": "retrofit",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-specifics-19": "specifics",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-4": "development",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-prior-3": "prior",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-26": "development",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-qualification-28": "qualification",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-further-25": "further",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-22-application-23": "BC10 application",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-MK1-15": "MK1",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-design-2-pressure-3": "design pressure",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-5,000-7-psi-8": "5,000 psi",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-increased-5": "increased",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11": "7,500 psi",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-motor-17-fluid-20-circuit-21-components-22": "motor fluid circuit components",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7": "multiphase flow conditions",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-11": "development",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-innovative-14": "innovative",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-control-15-strategy-16": "control strategy",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-challenging-4": "challenging",
+    "54866368-b614-4ef4-9fab-faa48a38f22d-production-20-window-21": "production window"
+  },
+  "graph": [
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-6-field-8",
+      "relation": "has",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-reservoir-25-conditions-26"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-%-18",
+      "relation": "require",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-boosting-24"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-Several-1-subsea-2-fields-3",
+      "relation": "is with",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-viscosities-5-ranging-6"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-%-18",
+      "relation": "amount to",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-5-17"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3",
+      "relation": "is in",
+      "object_id": "NE-DATE-2009"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-method-9",
+      "relation": "has",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-method-9",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-unique-8"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17",
+      "relation": "of",
+      "object_id": "NE-DATE-2009"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17",
+      "relation": "at",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-BC-19-10-21"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17",
+      "relation": "case",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-Maintenance-1",
+      "relation": "requires",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-intervention-8"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-intervention-8",
+      "relation": "Maintenance of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-ESP-4-assemblies-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Shell",
+      "relation": "pursued",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-5"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-objective-18",
+      "relation": "reduce",
+      "object_id": "NE-MISC-Opex"
+    },
+    {
+      "subject_id": "NE-MISC-Opex",
+      "relation": "of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-field-21"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-5",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-alternative-4"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-objective-18",
+      "relation": "increase",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-redundancy-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MLP",
+      "relation": "was",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-conceived-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MLP",
+      "relation": "was conceived as",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-module-8"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-module-8",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-retrofit-7"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-specifics-19",
+      "relation": "required development Despite",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-4"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-4",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-prior-3"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26",
+      "relation": "specifics",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-qualification-28"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26",
+      "relation": "prior development",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-qualification-28"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-specifics-19",
+      "relation": "required",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26",
+      "relation": "at",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-further-25"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26",
+      "relation": "specifics of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-22-application-23"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-26",
+      "relation": "development",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-qualification-28"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-4",
+      "relation": "of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-MK1-15"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-design-2-pressure-3",
+      "relation": "was increased from",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-5,000-7-psi-8"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-design-2-pressure-3",
+      "relation": "was",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-increased-5"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-design-2-pressure-3",
+      "relation": "was increased to",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-increased-5",
+      "relation": "at",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-5,000-7-psi-8"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-increased-5",
+      "relation": "at",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11",
+      "relation": "requalification of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-motor-17-fluid-20-circuit-21-components-22"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7",
+      "relation": "Additionally led to",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-11"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-11",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-innovative-14"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-11",
+      "relation": "of",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-control-15-strategy-16"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7",
+      "relation": "is",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-challenging-4"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7",
+      "relation": "led to",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-development-11"
+    },
+    {
+      "subject_id": "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7",
+      "relation": "maximise",
+      "object_id": "54866368-b614-4ef4-9fab-faa48a38f22d-production-20-window-21"
+    }
+  ],
+  "links": {
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-6-field-8": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-reservoir-25-conditions-26": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-%-18": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23": [
+      "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-5"
+    ],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-boosting-24": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-Several-1-subsea-2-fields-3": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-viscosities-5-ranging-6": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-5-17": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3": [],
+    "NE-DATE-2009": [],
+    "NE-ORDINAL-first": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-method-9": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-has-15-deployed-17": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-unique-8": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC-19-10-21": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-Maintenance-1": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-intervention-8": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-ESP-4-assemblies-5": [],
+    "NE-ORGANIZATION-Shell": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-5": [
+      "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23"
+    ],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-objective-18": [],
+    "NE-MISC-Opex": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-field-21": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-alternative-4": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-redundancy-25": [],
+    "NE-ORGANIZATION-MLP": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-conceived-4": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-module-8": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-retrofit-7": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-specifics-19": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-4": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-prior-3": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-26": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-qualification-28": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-further-25": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-BC10-22-application-23": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-MK1-15": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-design-2-pressure-3": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-5,000-7-psi-8": [
+      "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11"
+    ],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-increased-5": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-7,500-10-psi-11": [
+      "54866368-b614-4ef4-9fab-faa48a38f22d-5,000-7-psi-8"
+    ],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-motor-17-fluid-20-circuit-21-components-22": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-multiphase-5-flow-6-conditions-7": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-development-11": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-innovative-14": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-control-15-strategy-16": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-challenging-4": [],
+    "54866368-b614-4ef4-9fab-faa48a38f22d-production-20-window-21": []
+  }
+}

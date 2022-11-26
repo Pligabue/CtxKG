@@ -1,0 +1,151 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85061823653.txt",
+  "entities": {
+    "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2": "monitoring",
+    "7ea51696-389a-44d4-ba97-778d27509475-purposes-10": "purposes",
+    "7ea51696-389a-44d4-ba97-778d27509475-several-9": "several",
+    "NE-MISC-Acoustic": "Acoustic",
+    "7ea51696-389a-44d4-ba97-778d27509475-oceans-4": "oceans",
+    "7ea51696-389a-44d4-ba97-778d27509475-called-25-SAASS-26": "called SAASS",
+    "7ea51696-389a-44d4-ba97-778d27509475-acquisition-33-of-34-submarine-35-signals-36": "acquisition of submarine signals",
+    "7ea51696-389a-44d4-ba97-778d27509475-development-9-period-10": "development period",
+    "7ea51696-389a-44d4-ba97-778d27509475-researches-13": "researches",
+    "7ea51696-389a-44d4-ba97-778d27509475-work-2": "work",
+    "7ea51696-389a-44d4-ba97-778d27509475-experience-8": "experience",
+    "7ea51696-389a-44d4-ba97-778d27509475-area-16": "area",
+    "7ea51696-389a-44d4-ba97-778d27509475-hydrophone-18-development-19": "hydrophone development",
+    "7ea51696-389a-44d4-ba97-778d27509475-very-6": "very",
+    "7ea51696-389a-44d4-ba97-778d27509475-promising-7": "promising",
+    "7ea51696-389a-44d4-ba97-778d27509475-article-2": "article",
+    "7ea51696-389a-44d4-ba97-778d27509475-aspects-8": "aspects",
+    "7ea51696-389a-44d4-ba97-778d27509475-relevant-7": "relevant",
+    "7ea51696-389a-44d4-ba97-778d27509475-development-11": "development",
+    "7ea51696-389a-44d4-ba97-778d27509475-most-6": "most",
+    "7ea51696-389a-44d4-ba97-778d27509475-SAASS-13": "SAASS"
+  },
+  "graph": [
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2",
+      "relation": "has grown greatly for",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-purposes-10"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-purposes-10",
+      "relation": "is",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-several-9"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2",
+      "relation": "has grown for",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-purposes-10"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2",
+      "relation": "is",
+      "object_id": "NE-MISC-Acoustic"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2",
+      "relation": "is in",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-oceans-4"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-called-25-SAASS-26",
+      "relation": "system for",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-acquisition-33-of-34-submarine-35-signals-36"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-development-9-period-10",
+      "relation": "allowed",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-researches-13"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-work-2",
+      "relation": "has become",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-experience-8"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-development-9-period-10",
+      "relation": "also allowed",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-researches-13"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-researches-13",
+      "relation": "of",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-area-16"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-development-9-period-10",
+      "relation": "researches in",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-area-16"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-researches-13",
+      "relation": "is in",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-area-16"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-area-16",
+      "relation": "of",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-hydrophone-18-development-19"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-experience-8",
+      "relation": "at",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-very-6"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-experience-8",
+      "relation": "is",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-promising-7"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-article-2",
+      "relation": "will describe",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8",
+      "relation": "is",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-relevant-7"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8",
+      "relation": "of",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-development-11"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8",
+      "relation": "at",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-most-6"
+    },
+    {
+      "subject_id": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8",
+      "relation": "of",
+      "object_id": "7ea51696-389a-44d4-ba97-778d27509475-SAASS-13"
+    }
+  ],
+  "links": {
+    "7ea51696-389a-44d4-ba97-778d27509475-monitoring-2": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-purposes-10": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-several-9": [],
+    "NE-MISC-Acoustic": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-oceans-4": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-called-25-SAASS-26": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-acquisition-33-of-34-submarine-35-signals-36": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-development-9-period-10": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-researches-13": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-work-2": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-experience-8": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-area-16": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-hydrophone-18-development-19": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-very-6": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-promising-7": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-article-2": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-aspects-8": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-relevant-7": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-development-11": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-most-6": [],
+    "7ea51696-389a-44d4-ba97-778d27509475-SAASS-13": []
+  }
+}

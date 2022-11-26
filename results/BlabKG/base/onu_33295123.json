@@ -1,0 +1,351 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33295123.txt",
+  "entities": {
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4": "oil fields",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13": "oil region",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-new-2": "new",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-largest-10": "largest",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-downslope-7": "downslope",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oceanographers-38": "oceanographers",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-surface-2-flow-3": "surface flow",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15": "counterpart",
+    "NE-DATE-Current": "Current",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Gulf-18-Stream-19": "Gulf Stream",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-boundary-23": "boundary",
+    "NE-DATE-current": "current",
+    "NE-LOCATION-South-Atlantic": "South Atlantic",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-gyre-29": "gyre",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-western-22": "western",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-6": "region",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4": "water flow",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10": "layers",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-rich-17": "rich",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-2": "deep",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-different-9": "different",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-20-masses-21": "water masses",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counter-12-currents-13": "counter currents",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-structure-18": "structure",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-associated-14": "associated",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-7": "complex",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-very-6": "very",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-24": "region",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-12-flow-13": "complex flow",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23": "environment",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-slope-27-regions-28": "slope regions",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-25": "deep",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-paper-2": "paper",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-attempts-5": "attempts",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-16": "region",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-19": "oil",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-harsh-22": "harsh",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-continental-26": "continental",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-made-6": "made",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Results-1": "Results",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13": "metocean design basis",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-reliable-10": "reliable",
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-presented-6": "presented",
+    "NE-LOCATION-South-Atlantic-Ocean": "South Atlantic Ocean"
+  },
+  "graph": [
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4",
+      "relation": "are discovered",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-new-2"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4",
+      "relation": "downslope on",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-largest-10"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4",
+      "relation": "are discovered",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-downslope-7"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "are encountered by",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oceanographers-38"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-surface-2-flow-3",
+      "relation": "is dominated by",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15"
+    },
+    {
+      "subject_id": "NE-DATE-Current",
+      "relation": "counterpart of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Gulf-18-Stream-19"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-boundary-23"
+    },
+    {
+      "subject_id": "NE-DATE-Current",
+      "relation": "counterpart as",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South-Atlantic"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-gyre-29"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-western-22"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-surface-2-flow-3",
+      "relation": "is in",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-6"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Gulf-18-Stream-19"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-surface-2-flow-3",
+      "relation": "is dominated by",
+      "object_id": "NE-DATE-Current"
+    },
+    {
+      "subject_id": "NE-DATE-Current",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15",
+      "relation": "of",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4",
+      "relation": "is complex with",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4",
+      "relation": "is very complex with",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-rich-17"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-2"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-different-9"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-20-masses-21"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counter-12-currents-13"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "at",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-structure-18"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-associated-14"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-7"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-7",
+      "relation": "at",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-very-6"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-24"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-12-flow-13",
+      "relation": "produce oil under",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-slope-27-regions-28"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-25"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-paper-2",
+      "relation": "discusses",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-attempts-5"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-12-flow-13",
+      "relation": "is in",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-16"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-12-flow-13",
+      "relation": "produce",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-19"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-harsh-22"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-attempts-5",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-continental-26"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-attempts-5",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-made-6"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Results-1",
+      "relation": "build",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13",
+      "relation": "of",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-16"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13",
+      "relation": "is",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-reliable-10"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Results-1",
+      "relation": "are",
+      "object_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-presented-6"
+    },
+    {
+      "subject_id": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South-Atlantic-Ocean"
+    }
+  ],
+  "links": {
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-12-region-13": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-new-2": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-largest-10": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-downslope-7": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oceanographers-38": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-surface-2-flow-3": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counterpart-15": [],
+    "NE-DATE-Current": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Gulf-18-Stream-19": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-boundary-23": [],
+    "NE-DATE-current": [],
+    "NE-LOCATION-South-Atlantic": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-gyre-29": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-western-22": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-6": [
+      "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-16"
+    ],
+    "NE-COUNTRY-Brazil": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-layers-10": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-rich-17": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-2": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-different-9": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-20-masses-21": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-counter-12-currents-13": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-structure-18": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-associated-14": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-7": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-very-6": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-24": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-complex-12-flow-13": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-slope-27-regions-28": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-25": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-paper-2": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-attempts-5": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-16": [
+      "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-region-6"
+    ],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-19": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-harsh-22": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-continental-26": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-made-6": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-Results-1": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-metocean-11-design-12-basis-13": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-reliable-10": [],
+    "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-presented-6": [],
+    "NE-LOCATION-South-Atlantic-Ocean": []
+  }
+}

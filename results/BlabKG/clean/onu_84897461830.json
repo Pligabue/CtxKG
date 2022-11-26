@@ -1,0 +1,262 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897461830.txt",
+  "entities": {
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-boost-19": "boost",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-orders-22-of-23-offshore-24-units-25-such-27-exploration-29-platforms-32": "orders of offshore units such exploration platforms",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-significant-18": "significant",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-heating-3": "heating",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-remarkable-2": "remarkable",
+    "NE-DURATION-recent-years": "recent years",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-funding-19-entities-20": "funding entities",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-context-3": "context",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-governmental-18": "governmental",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30": "challenges",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-their-44-degree-45": "their degree",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-commensurate-32": "commensurate",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-innovation-47": "innovation",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-entrepreneurs-5": "entrepreneurs",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-new-29": "new",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-care-14": "care",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17": "should given",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involving-20-business-22-decisions-23": "involving business decisions",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-critical-21": "critical",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-special-13": "special",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-those-19": "those",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-physical-59-progress-62": "physical progress",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-markets-70": "markets",
+    "NE-TITLE-marine": "marine",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2": "paper",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11": "aspects",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-approaches-30": "approaches",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-mechanisms-32": "mechanisms",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involved-12": "involved",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-technical-8": "technical",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-different-29": "different",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-important-7": "important",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-authors-2": "authors",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-contribute-5": "contribute",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-identification-8": "identification",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-to-4": "to",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5": "suggestions",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-methodologies-12": "methodologies",
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-improvement-8": "improvement"
+  },
+  "graph": [
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-boost-19",
+      "relation": "is in",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-orders-22-of-23-offshore-24-units-25-such-27-exploration-29-platforms-32"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-boost-19",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-significant-18"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-heating-3",
+      "relation": "has led to",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-boost-19"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-heating-3",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-remarkable-2"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-heating-3",
+      "relation": "is in",
+      "object_id": "NE-DURATION-recent-years"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-funding-19-entities-20",
+      "relation": "face challenges In",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-context-3"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-funding-19-entities-20",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-governmental-18"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30",
+      "relation": "context",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-their-44-degree-45"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-commensurate-32"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-their-44-degree-45",
+      "relation": "of",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-innovation-47"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-entrepreneurs-5",
+      "relation": "face challenges In",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-context-3"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-new-29"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-funding-19-entities-20",
+      "relation": "face",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-entrepreneurs-5",
+      "relation": "face",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-care-14",
+      "relation": "should",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17",
+      "relation": "of",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involving-20-business-22-decisions-23"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-critical-21"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-care-14",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-special-13"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17",
+      "relation": "at",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-those-19"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-physical-59-progress-62",
+      "relation": "is in",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-markets-70"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-markets-70",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2",
+      "relation": "presents",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-approaches-30",
+      "relation": "evaluating",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-mechanisms-32"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involved-12"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-technical-8"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-approaches-30",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-different-29"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11",
+      "relation": "is",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-important-7"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-authors-2",
+      "relation": "intend",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-contribute-5"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-authors-2",
+      "relation": "contribute to",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-identification-8"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-contribute-5",
+      "relation": "mark",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-to-4"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-contribute-5",
+      "relation": "at",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-identification-8"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2",
+      "relation": "presents",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2",
+      "relation": "also presents",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5",
+      "relation": "of",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-methodologies-12"
+    },
+    {
+      "subject_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5",
+      "relation": "of",
+      "object_id": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-improvement-8"
+    }
+  ],
+  "links": {
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-boost-19": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-orders-22-of-23-offshore-24-units-25-such-27-exploration-29-platforms-32": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-significant-18": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-heating-3": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-remarkable-2": [],
+    "NE-DURATION-recent-years": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-funding-19-entities-20": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-context-3": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-governmental-18": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-challenges-30": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-their-44-degree-45": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-commensurate-32": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-innovation-47": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-entrepreneurs-5": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-new-29": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-care-14": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-should-15-given-17": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involving-20-business-22-decisions-23": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-critical-21": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-special-13": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-those-19": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-physical-59-progress-62": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-markets-70": [],
+    "NE-TITLE-marine": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-aspects-11": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-approaches-30": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-mechanisms-32": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-involved-12": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-technical-8": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-different-29": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-important-7": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-authors-2": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-contribute-5": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-identification-8": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-to-4": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-suggestions-5": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-methodologies-12": [],
+    "6d4e9725-03d3-4734-9822-6feb56c5d4d5-improvement-8": []
+  }
+}

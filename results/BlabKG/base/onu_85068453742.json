@@ -1,0 +1,400 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85068453742.txt",
+  "entities": {
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18": "need",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14": "Margin",
+    "NE-MISC-Equatorial-Margin": "Equatorial Margin",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-growth-2": "growth",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-25": "region",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-knowledge-22": "knowledge",
+    "NE-ORGANIZATION-Petroleum-Industry": "Petroleum Industry",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-environmental-21": "environmental",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-activities-5": "activities",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-9": "need",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-6": "region",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Costa-2-Norte-3-Project-4": "Costa Norte Project",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-can-5-identified-7": "can identified",
+    "NE-TITLE-model": "model",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-used-10": "used",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7": "computational",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hindcast-17-simulation-18": "hindcast simulation",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-6": "ocean",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-inedited-14": "inedited",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-regional-5": "regional",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-paper-3": "paper",
+    "NE-DURATION-ten-year": "ten year",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-article-2": "article",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7": "methodology",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-cited-17": "cited",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-associated-14": "associated",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-19": "computational",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-simulation-20": "simulation",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hydrodynamic-18": "hydrodynamic",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9": "potential",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17": "ocean variables space",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-7": "ocean",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-results-3": "results",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-obtained-2": "obtained",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-studied-23": "studied",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-24": "region",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-important-14": "important",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-most-13": "most",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8": "agreement",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5": "data",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-good-7": "good",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-observed-4": "observed",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2": "analysis",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Comparative-1": "Comparative",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-temperature-10": "temperature",
+    "NE-ORGANIZATION-National-Petroleum-Agency": "National Petroleum Agency",
+    "NE-ORGANIZATION-Costa-Norte-Project": "Costa Norte Project",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Investment-21-Commitment-22": "Investment Commitment",
+    "NE-ORGANIZATION-ANP": "ANP",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Research-24": "Research",
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Enauta-33-O&G-34-company-35": "Enauta O&G company"
+  },
+  "graph": [
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "growth of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14",
+      "relation": "of",
+      "object_id": "NE-MISC-Equatorial-Margin"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-growth-2",
+      "relation": "reinforces",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-25"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-knowledge-22"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "growth of",
+      "object_id": "NE-ORGANIZATION-Petroleum-Industry"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petroleum-Industry",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-environmental-21"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-activities-5",
+      "relation": "is in",
+      "object_id": "NE-MISC-Equatorial-Margin"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18",
+      "relation": "growth of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-activities-5"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-9",
+      "relation": "importance of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-6"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-9",
+      "relation": "environmental importance of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-6"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Costa-2-Norte-3-Project-4",
+      "relation": "can",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-can-5-identified-7"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-used-10"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "produce",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hindcast-17-simulation-18"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-6"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hindcast-17-simulation-18",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-inedited-14"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-regional-5"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was used In",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-paper-3"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hindcast-17-simulation-18",
+      "relation": "of",
+      "object_id": "NE-DURATION-ten-year"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-article-2",
+      "relation": "present",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-cited-17"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-associated-14"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-19"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7",
+      "relation": "at",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-simulation-20"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hydrodynamic-18"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9",
+      "relation": "represent",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-7"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-results-3",
+      "relation": "clearly demonstrated",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-results-3",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-obtained-2"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-studied-23"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-24"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-results-3",
+      "relation": "demonstrated",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-important-14"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17",
+      "relation": "at",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-most-13"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8",
+      "relation": "analysis with",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-good-7"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8",
+      "relation": "Comparative analysis with",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-observed-4"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2",
+      "relation": "demonstrated",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2",
+      "relation": "is",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Comparative-1"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2",
+      "relation": "is with",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-temperature-10"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8",
+      "relation": "is with",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-temperature-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Agency",
+      "relation": "is under",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Costa-Norte-Project",
+      "relation": "is carrying out as",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Investment-21-Commitment-22"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Costa-Norte-Project",
+      "relation": "is carrying out under",
+      "object_id": "NE-ORGANIZATION-National-Petroleum-Agency"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Agency",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Petroleum-Agency",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-ANP"
+    },
+    {
+      "subject_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Investment-21-Commitment-22",
+      "relation": "of",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Research-24"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Costa-Norte-Project",
+      "relation": "is supported by",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Enauta-33-O&G-34-company-35"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Costa-Norte-Project",
+      "relation": "is financially supported by",
+      "object_id": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Enauta-33-O&G-34-company-35"
+    }
+  ],
+  "links": {
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-18": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Margin-14": [],
+    "NE-MISC-Equatorial-Margin": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-growth-2": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-25": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-knowledge-22": [],
+    "NE-ORGANIZATION-Petroleum-Industry": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-environmental-21": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-activities-5": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-need-9": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-6": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Costa-2-Norte-3-Project-4": [
+      "NE-ORGANIZATION-Costa-Norte-Project"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-can-5-identified-7": [],
+    "NE-TITLE-model": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-used-10": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7": [
+      "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-19"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hindcast-17-simulation-18": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-6": [
+      "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-7"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-inedited-14": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-regional-5": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-paper-3": [],
+    "NE-DURATION-ten-year": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-article-2": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-methodology-7": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-cited-17": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-associated-14": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-19": [
+      "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-simulation-20": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-hydrodynamic-18": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-15-variables-16-space-17": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-7": [
+      "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-6"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-results-3": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-obtained-2": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-studied-23": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-region-24": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-important-14": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-most-13": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-agreement-8": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-data-5": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-good-7": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-observed-4": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Comparative-1": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-temperature-10": [],
+    "NE-ORGANIZATION-National-Petroleum-Agency": [],
+    "NE-ORGANIZATION-Costa-Norte-Project": [
+      "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Costa-2-Norte-3-Project-4"
+    ],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Investment-21-Commitment-22": [],
+    "NE-ORGANIZATION-ANP": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Research-24": [],
+    "68bdd8d5-6a51-46de-917a-9d40eb6db15d-Enauta-33-O&G-34-company-35": []
+  }
+}

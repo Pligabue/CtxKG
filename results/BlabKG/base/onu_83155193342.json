@@ -1,0 +1,379 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_83155193342.txt",
+  "entities": {
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-3-program-4": "monitoring program",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14": "cooperation",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-meteorological-2": "meteorological",
+    "NE-ORGANIZATION-National-Space-Agency": "National Space Agency",
+    "NE-ORGANIZATION-South-Santa-Catarina-University": "South Santa Catarina University",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-16-institutions-19": "public institutions",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-established-12": "established",
+    "NE-LOCATION-Port-of": "Port",
+    "NE-CITY-Itajai": "Itajai",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-institutions-19": "institutions",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Sul-48-Federal-49-University-50": "Sul Federal University",
+    "NE-ORGANIZATION-Navy-Hydrographic-Center": "Navy Hydrographic Center",
+    "NE-ORGANIZATION-Brazilian-Institute-of-Natural-Resources": "Brazilian Institute of Natural Resources",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-program-2": "program",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-13-7-points-9": "13 points",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-selected-8": "selected",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-33c-11-°-12-44-13": "33c ° 44",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-point-2": "point",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-air-6-temperature-7": "air temperature",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-precipitation-18-wind-19-probes-20-sensors-21": "precipitation wind probes sensors",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-instrumented-4": "instrumented",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-observing-2-sites-3": "observing sites",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sea-7-level-8": "sea level",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Two-1": "Two",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-2": "systems",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-based-4": "based",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Telemetric-1": "Telemetric",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-phone-6": "phone",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-acquisition-2-systems-10": "acquisition systems",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-12": "developed",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-21": "systems",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-hour-28-basis-29": "hour basis",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-database-17": "database",
+    "NE-TITLE-Oracle": "Oracle",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-web-2-visualization-3": "web visualization",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-5": "developed",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-system-3": "system",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-investment-8": "investment",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-2": "monitoring",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-basically-5": "basically",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-7": "public",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sector-3": "sector",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-provisions-6": "provisions",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-technology-10": "technology",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-private-2": "private",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-innovations-8": "innovations",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-infrastructures-15": "infrastructures",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-access-7": "access",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17": "software",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-quick-6": "quick",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-activities-26": "activities",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-operational-25-activities-26": "operational activities",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-input-19": "input",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-their-21-decisions-22": "their decisions",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-friendly-16": "friendly",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Public-1-and-2-private-3-institutions-4-decisions-22": "Public and private institutions decisions",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Time-1-series-3-data-4-support-5-programs-6": "Time series data support programs",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-universities-14": "universities",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-research-8": "research",
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-development-10": "development"
+  },
+  "graph": [
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-3-program-4",
+      "relation": "was established in",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-3-program-4",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-meteorological-2"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-National-Space-Agency",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-South-Santa-Catarina-University"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-16-institutions-19"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-3-program-4",
+      "relation": "was",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-established-12"
+    },
+    {
+      "subject_id": "NE-LOCATION-Port-of",
+      "relation": "is of",
+      "object_id": "NE-CITY-Itajai"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-institutions-19"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Sul-48-Federal-49-University-50",
+      "relation": "Port of",
+      "object_id": "NE-CITY-Itajai"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14",
+      "relation": "is with",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-16-institutions-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Navy-Hydrographic-Center",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Brazilian-Institute-of-Natural-Resources"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-program-2",
+      "relation": "is carried out on",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-13-7-points-9"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-13-7-points-9",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-selected-8"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-13-7-points-9",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-33c-11-°-12-44-13"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-point-2",
+      "relation": "is instrumented with",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-air-6-temperature-7"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-point-2",
+      "relation": "is instrumented with",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-precipitation-18-wind-19-probes-20-sensors-21"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-point-2",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-instrumented-4"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-observing-2-sites-3",
+      "relation": "measure",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sea-7-level-8"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-observing-2-sites-3",
+      "relation": "amount to",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Two-1"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-observing-2-sites-3",
+      "relation": "also measure",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sea-7-level-8"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-2",
+      "relation": "are",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-based-4"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-2",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Telemetric-1"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-2",
+      "relation": "are based on",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-phone-6"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-acquisition-2-systems-10",
+      "relation": "were",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-12"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-21",
+      "relation": "update data on",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-hour-28-basis-29"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-acquisition-2-systems-10",
+      "relation": "were developed on",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-database-17"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-database-17",
+      "relation": "of",
+      "object_id": "NE-TITLE-Oracle"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-web-2-visualization-3",
+      "relation": "was",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-5"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-system-3",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-investment-8"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-system-3",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-2"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-investment-8",
+      "relation": "at",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-basically-5"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-system-3",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-7"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-investment-8",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-7"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sector-3",
+      "relation": "contributes with",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-provisions-6"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-provisions-6",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-technology-10"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sector-3",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-private-2"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-provisions-6",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-innovations-8"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-innovations-8",
+      "relation": "is in",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-technology-10"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-innovations-8",
+      "relation": "improvement of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-infrastructures-15"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-access-7",
+      "relation": "provided by",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-access-7",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-quick-6"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-activities-26"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-operational-25-activities-26"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-input-19",
+      "relation": "is in",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-their-21-decisions-22"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-input-19",
+      "relation": "is in",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-operational-25-activities-26"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-input-19"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17",
+      "relation": "is",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-friendly-16"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17",
+      "relation": "of",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Public-1-and-2-private-3-institutions-4-decisions-22"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Time-1-series-3-data-4-support-5-programs-6",
+      "relation": "projects inside",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-universities-14"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-research-8",
+      "relation": "projects",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-development-10"
+    },
+    {
+      "subject_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-research-8",
+      "relation": "projects inside",
+      "object_id": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-universities-14"
+    }
+  ],
+  "links": {
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-3-program-4": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-cooperation-14": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-meteorological-2": [],
+    "NE-ORGANIZATION-National-Space-Agency": [],
+    "NE-ORGANIZATION-South-Santa-Catarina-University": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-16-institutions-19": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-established-12": [],
+    "NE-LOCATION-Port-of": [],
+    "NE-CITY-Itajai": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-institutions-19": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Sul-48-Federal-49-University-50": [],
+    "NE-ORGANIZATION-Navy-Hydrographic-Center": [],
+    "NE-ORGANIZATION-Brazilian-Institute-of-Natural-Resources": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-program-2": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-13-7-points-9": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-selected-8": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-33c-11-°-12-44-13": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-point-2": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-air-6-temperature-7": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-precipitation-18-wind-19-probes-20-sensors-21": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-instrumented-4": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-observing-2-sites-3": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sea-7-level-8": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Two-1": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-2": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-based-4": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Telemetric-1": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-phone-6": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-acquisition-2-systems-10": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-12": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-systems-21": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-hour-28-basis-29": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-database-17": [],
+    "NE-TITLE-Oracle": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-web-2-visualization-3": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-developed-5": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-system-3": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-investment-8": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-monitoring-2": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-basically-5": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-public-7": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-sector-3": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-provisions-6": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-technology-10": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-private-2": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-innovations-8": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-infrastructures-15": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-access-7": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-software-17": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-quick-6": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-activities-26": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-operational-25-activities-26": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-input-19": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-their-21-decisions-22": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-friendly-16": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Public-1-and-2-private-3-institutions-4-decisions-22": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-Time-1-series-3-data-4-support-5-programs-6": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-universities-14": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-research-8": [],
+    "e3af93b2-aa60-45e5-8d24-87a91ead4a60-development-10": []
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85092100205.txt",
+  "entities": {
+    "cd943918-e357-445e-8695-9d1b93213bb2-Analyses-1-associated-14": "Analyses associated",
+    "cd943918-e357-445e-8695-9d1b93213bb2-applied-19": "applied",
+    "NE-LOCATION-Estuary": "Estuary",
+    "NE-TITLE-River": "River",
+    "NE-CITY-Almada": "Almada",
+    "cd943918-e357-445e-8695-9d1b93213bb2-species-5": "species",
+    "cd943918-e357-445e-8695-9d1b93213bb2-dead-16": "dead",
+    "cd943918-e357-445e-8695-9d1b93213bb2-27-4": "27",
+    "cd943918-e357-445e-8695-9d1b93213bb2-identified-7": "identified",
+    "cd943918-e357-445e-8695-9d1b93213bb2-predominance-20": "predominance",
+    "cd943918-e357-445e-8695-9d1b93213bb2-assemblage-11": "assemblage",
+    "cd943918-e357-445e-8695-9d1b93213bb2-living-10": "living",
+    "cd943918-e357-445e-8695-9d1b93213bb2-Ammonia-22-tepida-23": "Ammonia tepida",
+    "cd943918-e357-445e-8695-9d1b93213bb2-C.-9-excavatum-10-Adelosina-11-milletti-12-oblonga-21": "C. excavatum Adelosina milletti oblonga",
+    "cd943918-e357-445e-8695-9d1b93213bb2-associated-23": "associated",
+    "cd943918-e357-445e-8695-9d1b93213bb2-sediment-29": "sediment",
+    "cd943918-e357-445e-8695-9d1b93213bb2-areas-26": "areas",
+    "cd943918-e357-445e-8695-9d1b93213bb2-muddy-28-sediment-29": "muddy sediment",
+    "cd943918-e357-445e-8695-9d1b93213bb2-influence-33": "influence",
+    "cd943918-e357-445e-8695-9d1b93213bb2-estuary-36": "estuary",
+    "NE-TITLE-marine": "marine",
+    "cd943918-e357-445e-8695-9d1b93213bb2-shallow-25": "shallow",
+    "cd943918-e357-445e-8695-9d1b93213bb2-Laryngosigma-1-lactea-2-oblonga-5": "Laryngosigma lactea oblonga",
+    "cd943918-e357-445e-8695-9d1b93213bb2-associated-7": "associated",
+    "cd943918-e357-445e-8695-9d1b93213bb2-areas-10": "areas",
+    "cd943918-e357-445e-8695-9d1b93213bb2-influence-16": "influence",
+    "cd943918-e357-445e-8695-9d1b93213bb2-sandy-12-sediment-13": "sandy sediment",
+    "cd943918-e357-445e-8695-9d1b93213bb2-deep-9": "deep",
+    "cd943918-e357-445e-8695-9d1b93213bb2-sediment-13": "sediment",
+    "cd943918-e357-445e-8695-9d1b93213bb2-natural-104-impacts-107": "natural impacts",
+    "cd943918-e357-445e-8695-9d1b93213bb2-ecosystem-110": "ecosystem",
+    "cd943918-e357-445e-8695-9d1b93213bb2-cluster-2-analysis-3": "cluster analysis",
+    "cd943918-e357-445e-8695-9d1b93213bb2-L-6": "L",
+    "cd943918-e357-445e-8695-9d1b93213bb2-transported-39": "transported",
+    "cd943918-e357-445e-8695-9d1b93213bb2-efficient-85": "efficient",
+    "cd943918-e357-445e-8695-9d1b93213bb2-used-98": "used"
+  },
+  "graph": [
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-Analyses-1-associated-14",
+      "relation": "were",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-applied-19"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "is at",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-Analyses-1-associated-14",
+      "relation": "were applied at",
+      "object_id": "NE-LOCATION-Estuary"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "of",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "of",
+      "object_id": "NE-CITY-Almada"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-species-5",
+      "relation": "were identified in",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-dead-16"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-species-5",
+      "relation": "amount to",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-27-4"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-species-5",
+      "relation": "were",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-identified-7"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-identified-7",
+      "relation": "at",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-predominance-20"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-identified-7",
+      "relation": "at",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-assemblage-11"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-identified-7",
+      "relation": "at",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-dead-16"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-species-5",
+      "relation": "were identified with",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-predominance-20"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-species-5",
+      "relation": "were identified in",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-assemblage-11"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-assemblage-11",
+      "relation": "is",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-living-10"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-predominance-20",
+      "relation": "of",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-Ammonia-22-tepida-23"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-C.-9-excavatum-10-Adelosina-11-milletti-12-oblonga-21",
+      "relation": "were",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-associated-23"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-C.-9-excavatum-10-Adelosina-11-milletti-12-oblonga-21",
+      "relation": "were associated to",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-sediment-29"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-26",
+      "relation": "is with",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-muddy-28-sediment-29"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-influence-33",
+      "relation": "is in",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-estuary-36"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-influence-33",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-C.-9-excavatum-10-Adelosina-11-milletti-12-oblonga-21",
+      "relation": "were associated to",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-26"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-26",
+      "relation": "is",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-shallow-25"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-sediment-29",
+      "relation": "of",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-muddy-28-sediment-29"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-sediment-29",
+      "relation": "is",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-26"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-Laryngosigma-1-lactea-2-oblonga-5",
+      "relation": "were",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-associated-7"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-associated-7",
+      "relation": "at",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-associated-7",
+      "relation": "at",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-influence-16"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-Laryngosigma-1-lactea-2-oblonga-5",
+      "relation": "were associated to",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10",
+      "relation": "is with",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-sandy-12-sediment-13"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10",
+      "relation": "is",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-deep-9"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10",
+      "relation": "of",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-sandy-12-sediment-13"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10",
+      "relation": "of",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-sediment-13"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-Laryngosigma-1-lactea-2-oblonga-5",
+      "relation": "were associated under",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-influence-16"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-influence-16",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "is of",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-natural-104-impacts-107",
+      "relation": "is in",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-ecosystem-110"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-cluster-2-analysis-3",
+      "relation": "performed for",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-L-6"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-transported-39",
+      "relation": "was",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-efficient-85"
+    },
+    {
+      "subject_id": "cd943918-e357-445e-8695-9d1b93213bb2-transported-39",
+      "relation": "be",
+      "object_id": "cd943918-e357-445e-8695-9d1b93213bb2-used-98"
+    }
+  ],
+  "links": {
+    "cd943918-e357-445e-8695-9d1b93213bb2-Analyses-1-associated-14": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-applied-19": [],
+    "NE-LOCATION-Estuary": [],
+    "NE-TITLE-River": [],
+    "NE-CITY-Almada": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-species-5": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-dead-16": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-27-4": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-identified-7": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-predominance-20": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-assemblage-11": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-living-10": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-Ammonia-22-tepida-23": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-C.-9-excavatum-10-Adelosina-11-milletti-12-oblonga-21": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-associated-23": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-sediment-29": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-areas-26": [
+      "cd943918-e357-445e-8695-9d1b93213bb2-areas-10"
+    ],
+    "cd943918-e357-445e-8695-9d1b93213bb2-muddy-28-sediment-29": [
+      "cd943918-e357-445e-8695-9d1b93213bb2-sandy-12-sediment-13"
+    ],
+    "cd943918-e357-445e-8695-9d1b93213bb2-influence-33": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-estuary-36": [],
+    "NE-TITLE-marine": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-shallow-25": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-Laryngosigma-1-lactea-2-oblonga-5": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-associated-7": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-areas-10": [
+      "cd943918-e357-445e-8695-9d1b93213bb2-areas-26"
+    ],
+    "cd943918-e357-445e-8695-9d1b93213bb2-influence-16": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-sandy-12-sediment-13": [
+      "cd943918-e357-445e-8695-9d1b93213bb2-muddy-28-sediment-29"
+    ],
+    "cd943918-e357-445e-8695-9d1b93213bb2-deep-9": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-sediment-13": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-natural-104-impacts-107": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-ecosystem-110": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-cluster-2-analysis-3": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-L-6": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-transported-39": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-efficient-85": [],
+    "cd943918-e357-445e-8695-9d1b93213bb2-used-98": []
+  }
+}

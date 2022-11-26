@@ -1,0 +1,800 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84943338721.txt",
+  "entities": {
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-article-2": "article",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5": "development",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-several-7": "several",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-Pre-Salt-15-fields-16": "Pre-Salt fields",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-offshore-25": "offshore",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-9": "projects",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-8": "mega",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-12": "development",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-deepwater-23": "deepwater",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2": "focus",
+    "NE-LOCATION-Lula-Field": "Lula Field",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-Special-1": "Special",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-operated-15": "operated",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-13": "field",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-giant-12": "giant",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-given-4": "given",
+    "NE-ORGANIZATION-BG-Brasil": "BG Brasil",
+    "NE-ORGANIZATION-Petrogal-Brasil": "Petrogal Brasil",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-super-11": "super",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-24": "field",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fields-27": "fields",
+    "NE-PERSON-Lula": "Lula",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-waters-41": "waters",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-frontier-37": "frontier",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-new-35": "new",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-prospective-36": "prospective",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-pre-salt-26": "pre-salt",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-deep-40": "deep",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-spotlight-30": "spotlight",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-multi-module-7-development-8-project-9": "multi-module development project",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-4": "field",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-a-6": "a",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-track-16-strategy-17": "track strategy",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-time-27-frame-28": "time frame",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-very-25": "very",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-15": "fast",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-material-20-production-21-levels-22": "material production levels",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-short-26": "short",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30": "must",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19": "environment",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-heterogeneous-21": "heterogeneous",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-25-mitigation-26-actions-27": "risk mitigation actions",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-carbonate-22-reservoir-23": "carbonate reservoir",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-area-11": "area",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-infrastructure-14": "infrastructure",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-massive-4-capital-5-expenditure-6-program-7": "massive capital expenditure program",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-static-8": "static",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21": "tests",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-well-20": "well",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-reservoir-11-data-12": "reservoir data",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-dynamic-10": "dynamic",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-step-3": "step",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-was-5": "was",
+    "NE-ORDINAL-first": "first",
+    "NE-TITLE-pilot": "pilot",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-two-25": "two",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-FPSOs-27": "FPSOs",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-data-15-acquisition-16-wells-17": "data acquisition wells",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10": "aiming",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-6": "projects",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3": "flexibility",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-possible-14-reservoir-20-surprises-21": "possible reservoir surprises",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-bad-15": "bad",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-information-2": "information",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-8-plan-9": "development plan",
+    "NE-LOCATION-Lula": "Lula",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-12": "field",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-10-16-FPSOs-17": "10 FPSOs",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-processing-19-capacity-20-ranging-21-from-22-100k-23-bpd-24-to-25-150k-26-bpd-27-of-28-oil-29": "processing capacity ranging from 100k bpd to 150k bpd of oil",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-used-4": "used",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18": "module",
+    "NE-DATE-October-2014": "October 2014",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26": "production",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5": "production units",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-operation-7": "operation",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-two-2": "two",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-area-21": "area",
+    "NE-LOCATION-Iracema": "Iracema",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15": "lead items strategy",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-track-24-pace-25": "track pace",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-long-12": "long",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-22": "fast",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3": "scenario",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-simultaneous-5": "simultaneous",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-clear-11": "clear",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-implementation-8": "implementation",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-critical-17": "critical",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-planned-21": "planned",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3": "standardization",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16": "content requirement",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-resources-24-allocation-25-flexibility-26": "resources allocation flexibility",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-increasing-13": "increasing",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-local-14": "local",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-supply-19-chain-20-risks-21": "supply chain risks",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-subsea-5-equipment-6": "subsea equipment",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12": "field development strategy",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21": "reference",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26": "developments",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-following-24": "following",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-25": "mega",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-why-16": "why",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-nowadays-19": "nowadays",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-39-mitigation-40-strategy-41": "risk mitigation strategy",
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-44-pace-45-production-46-ramp-47-up-49": "fast pace production ramp up"
+  },
+  "graph": [
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-article-2",
+      "relation": "discusses",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-several-7"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-Pre-Salt-15-fields-16"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-article-2",
+      "relation": "discusses development in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-offshore-25"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-9"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-8"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-12"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-article-2",
+      "relation": "discusses development in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-deepwater-23"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2",
+      "relation": "is given to",
+      "object_id": "NE-LOCATION-Lula-Field"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-Special-1"
+    },
+    {
+      "subject_id": "NE-LOCATION-Lula-Field",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-operated-15"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2",
+      "relation": "is given to",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-13"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-13",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-giant-12"
+    },
+    {
+      "subject_id": "NE-LOCATION-Lula-Field",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-given-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BG-Brasil",
+      "relation": "partners",
+      "object_id": "NE-ORGANIZATION-Petrogal-Brasil"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-13",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-super-11"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-24",
+      "relation": "placed",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-fields-27"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-24",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula"
+    },
+    {
+      "subject_id": "NE-LOCATION-Lula-Field",
+      "relation": "opened frontier in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-waters-41"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-waters-41",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-LOCATION-Lula-Field",
+      "relation": "opened",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-frontier-37"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-frontier-37",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-new-35"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-frontier-37",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-prospective-36"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-fields-27",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-pre-salt-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-waters-41",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-deep-40"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-24",
+      "relation": "placed fields in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-spotlight-30"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-multi-module-7-development-8-project-9",
+      "relation": "develop",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-4"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-multi-module-7-development-8-project-9",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-a-6"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-4",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-16-strategy-17",
+      "relation": "achieve material production levels in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-time-27-frame-28"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-time-27-frame-28",
+      "relation": "at",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-very-25"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-16-strategy-17",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-15"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-16-strategy-17",
+      "relation": "achieve",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-material-20-production-21-levels-22"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-time-27-frame-28",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-short-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30",
+      "relation": "is in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-heterogeneous-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-25-mitigation-26-actions-27",
+      "relation": "are must in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-carbonate-22-reservoir-23"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-11",
+      "relation": "is with",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-infrastructure-14"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30",
+      "relation": "is In",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-massive-4-capital-5-expenditure-6-program-7"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-25-mitigation-26-actions-27",
+      "relation": "are",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30",
+      "relation": "is in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-11"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-11",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-infrastructure-14"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-static-8",
+      "relation": "extended",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21",
+      "relation": "at",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-well-20"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-static-8",
+      "relation": "extended",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reservoir-11-data-12"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reservoir-11-data-12",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-dynamic-10"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-step-3",
+      "relation": "taken",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-was-5"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-step-3",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-was-5",
+      "relation": "acquire",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-static-8"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21",
+      "relation": "of",
+      "object_id": "NE-TITLE-pilot"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21",
+      "relation": "case",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-two-25"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-FPSOs-27"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-was-5",
+      "relation": "acquire static through",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-data-15-acquisition-16-wells-17"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10",
+      "relation": "flexibility in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-6"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3",
+      "relation": "is in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-6"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3",
+      "relation": "was evaluated",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3",
+      "relation": "Also was carefully evaluated",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10",
+      "relation": "comply with",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-possible-14-reservoir-20-surprises-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3",
+      "relation": "Also was evaluated",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3",
+      "relation": "was carefully evaluated",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-possible-14-reservoir-20-surprises-21",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-bad-15"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-information-2",
+      "relation": "optimize",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-8-plan-9"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-8-plan-9",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Lula"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-development-8-plan-9",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-12"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-10-16-FPSOs-17",
+      "relation": "is with",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-processing-19-capacity-20-ranging-21-from-22-100k-23-bpd-24-to-25-150k-26-bpd-27-of-28-oil-29"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-information-2",
+      "relation": "was",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-used-4"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18",
+      "relation": "started production in",
+      "object_id": "NE-DATE-October-2014"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18",
+      "relation": "started",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Lula-Field"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26",
+      "relation": "module in",
+      "object_id": "NE-LOCATION-Lula-Field"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5",
+      "relation": "started respectively",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-operation-7"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5",
+      "relation": "amount to",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-two-2"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5",
+      "relation": "of",
+      "object_id": "NE-TITLE-pilot"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26",
+      "relation": "module of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-21",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Iracema"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5",
+      "relation": "started",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-operation-7"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26",
+      "relation": "first module of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-area-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26",
+      "relation": "first module in",
+      "object_id": "NE-LOCATION-Lula-Field"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15",
+      "relation": "ensure",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-24-pace-25"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-long-12"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-24-pace-25",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-22"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15",
+      "relation": "is critical In",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-simultaneous-5"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-clear-11"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-implementation-8"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-critical-17"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-6"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-track-24-pace-25",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-planned-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3",
+      "relation": "Also mitigates supply chain risks in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3",
+      "relation": "allows",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-resources-24-allocation-25-flexibility-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3",
+      "relation": "mitigates supply chain risks in",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-increasing-13"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-local-14"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3",
+      "relation": "mitigates",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-supply-19-chain-20-risks-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3",
+      "relation": "Also mitigates",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-supply-19-chain-20-risks-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-supply-19-chain-20-risks-21",
+      "relation": "standardization of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-subsea-5-equipment-6"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21",
+      "relation": "of",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12",
+      "relation": "is nowadays reference for",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-following-24"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12",
+      "relation": "is reference for",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26",
+      "relation": "is",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-25"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21",
+      "relation": "at",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-why-16"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21",
+      "relation": "at",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-nowadays-19"
+    },
+    {
+      "subject_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-39-mitigation-40-strategy-41",
+      "relation": "is with",
+      "object_id": "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-44-pace-45-production-46-ramp-47-up-49"
+    }
+  ],
+  "links": {
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-article-2": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-5": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-several-7": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-Pre-Salt-15-fields-16": [],
+    "NE-COUNTRY-Brazil": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-offshore-25": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-9": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-8": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-12": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-deepwater-23": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2": [],
+    "NE-LOCATION-Lula-Field": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-Special-1": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-operated-15": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-13": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-giant-12": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-given-4": [],
+    "NE-ORGANIZATION-BG-Brasil": [],
+    "NE-ORGANIZATION-Petrogal-Brasil": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-super-11": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-24": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fields-27": [],
+    "NE-PERSON-Lula": [
+      "NE-LOCATION-Lula"
+    ],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-waters-41": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-frontier-37": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-new-35": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-prospective-36": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-pre-salt-26": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-deep-40": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-spotlight-30": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-multi-module-7-development-8-project-9": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-4": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-a-6": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-track-16-strategy-17": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-time-27-frame-28": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-very-25": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-15": [
+      "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-22"
+    ],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-material-20-production-21-levels-22": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-short-26": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-must-30": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-heterogeneous-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-25-mitigation-26-actions-27": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-carbonate-22-reservoir-23": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-area-11": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-infrastructure-14": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-massive-4-capital-5-expenditure-6-program-7": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-static-8": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-well-20": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-reservoir-11-data-12": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-dynamic-10": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-step-3": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-was-5": [],
+    "NE-ORDINAL-first": [],
+    "NE-TITLE-pilot": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-two-25": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-FPSOs-27": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-data-15-acquisition-16-wells-17": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-aiming-10": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-projects-6": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-flexibility-3": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-possible-14-reservoir-20-surprises-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-bad-15": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-information-2": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-development-8-plan-9": [],
+    "NE-LOCATION-Lula": [
+      "NE-PERSON-Lula"
+    ],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-12": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-10-16-FPSOs-17": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-processing-19-capacity-20-ranging-21-from-22-100k-23-bpd-24-to-25-150k-26-bpd-27-of-28-oil-29": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-used-4": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-module-18": [],
+    "NE-DATE-October-2014": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-production-26": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-production-4-units-5": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-operation-7": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-two-2": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-area-21": [],
+    "NE-LOCATION-Iracema": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-lead-13-items-14-strategy-15": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-track-24-pace-25": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-long-12": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-22": [
+      "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-15"
+    ],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-scenario-3": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-simultaneous-5": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-clear-11": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-implementation-8": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-critical-17": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-planned-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-standardization-3": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-content-15-requirement-16": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-resources-24-allocation-25-flexibility-26": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-increasing-13": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-local-14": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-supply-19-chain-20-risks-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-subsea-5-equipment-6": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-field-10-development-11-strategy-12": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-reference-21": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-developments-26": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-following-24": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-mega-25": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-why-16": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-nowadays-19": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-risk-39-mitigation-40-strategy-41": [],
+    "83c12324-c60f-4651-9cfb-69111aaba3ef-fast-44-pace-45-production-46-ramp-47-up-49": []
+  }
+}

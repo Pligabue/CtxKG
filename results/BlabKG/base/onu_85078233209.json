@@ -1,0 +1,738 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85078233209.txt",
+  "entities": {
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seaward-5-reflectors-7": "seaward reflectors",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formed-12": "formed",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-dipping-6": "dipping",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-mechanism-2": "mechanism",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-debate-17": "debate",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-topic-15": "topic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-contrasting-2-models-3": "contrasting models",
+    "NE-TITLE-model": "model",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-12": "faulting",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7---8-faulting-9-and-10-volcanic-11---12-loading-13-models-14-for-15-SDR-16-formation-17-formation-7": "volcanic - faulting and volcanic - loading models for SDR formation formation",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-loading-18": "loading",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-10": "volcanic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Two-1": "Two",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-16": "volcanic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1": "We",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11": "quality reflection data",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-high-4": "high",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9": "seismic",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Pelotas": "Pelotas",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-offshore-17": "offshore",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deep-7": "deep",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20": "formation",
+    "NE-MISC-SDRs": "SDRs",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-data-2": "data",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6": "set",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-16-nature-17": "likely nature",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-remarkable-5": "remarkable",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-package-3": "package",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11": "strike width",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-total-2": "total",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-flows-32": "flows",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-31": "volcanic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20": "thickness",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-variable-18": "variable",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-vertical-19": "vertical",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2": "observations",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-15-package-16": "SDR package",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Detailed-1": "Detailed",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7": "changes",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9-character-10": "seismic character",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-character-10": "character",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6": "gravity anomaly inversion",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-14-composition-15": "likely composition",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-9": "observations",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-8": "seismic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lateral-24-variation-25": "lateral variation",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-basalt-27-fraction-28": "basalt fraction",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-density-2": "density",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20": "environment",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-used-13": "used",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-then-12": "then",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-time-24": "time",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-relative-27": "relative",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-source-22": "source",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-depositional-19": "depositional",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-26": "formation",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-breakup-29": "breakup",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-composition-17": "composition",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-7-basalt-8-fraction-9": "SDR basalt fraction",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19": "change",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-overall-6": "overall",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-bulk-11-density-12-decrease-13": "bulk density decrease",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-24": "volcanic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deposits-25": "deposits",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-from-26-subaerial-28": "type from subaerial",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-of-23-volcanic-24-deposits-25-from-26-predominantly-27-subaerial-28-to-29-volcaniclastics-30": "type of volcanic deposits from predominantly subaerial to volcaniclastics",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-predominantly-27": "predominantly",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-possibly-16": "possibly",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-can-3-split-5": "can split",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-three-7-sub-packages-8": "three sub-packages",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5": "inner SDR packages",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-consist-9": "consist",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-two-2": "two",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-to-8": "to",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lava-11": "lava",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-interpreted-7": "interpreted",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-3-package-4": "SDR package",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-reflector-6-geometries-7": "reflector geometries",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-outer-2": "outer",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-models-14": "models",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Pelotas-22-margin-24": "Pelotas margin",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-rifted-23": "rifted",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36": "syn rift events",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17": "SDR formation",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recording-26": "recording",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-9": "faulting",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7": "volcanic",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-5-formation-6-models-7": "SDR formation models",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-margin-22": "margin",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-same-21": "same",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15": "example",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-occurring-14": "occurring",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-naturally-13": "naturally",
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recognised-10": "recognised"
+  },
+  "graph": [
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seaward-5-reflectors-7",
+      "relation": "are",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formed-12"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seaward-5-reflectors-7",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-dipping-6"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-mechanism-2",
+      "relation": "is topic of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-debate-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-mechanism-2",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-topic-15"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-contrasting-2-models-3",
+      "relation": "exist",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-12"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-contrasting-2-models-3",
+      "relation": "exist model for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7---8-faulting-9-and-10-volcanic-11---12-loading-13-models-14-for-15-SDR-16-formation-17-formation-7"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "contrasting models",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-loading-18"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-10"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-contrasting-2-models-3",
+      "relation": "amount to",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Two-1"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-16"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have examined",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-high-4"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is across",
+      "object_id": "NE-CITY-Pelotas"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have examined quality reflection data across",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-offshore-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have examined quality reflection data across",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Pelotas"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deep-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "likely nature of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20"
+    },
+    {
+      "subject_id": "NE-MISC-SDRs",
+      "relation": "has",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-data-2",
+      "relation": "reveal",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6",
+      "relation": "of",
+      "object_id": "NE-MISC-SDRs"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have investigated",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-16-nature-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have investigated",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-16-nature-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-remarkable-5"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-package-3",
+      "relation": "has",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-package-3",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-total-2"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "total package of",
+      "object_id": "NE-MISC-SDRs"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "interpreted as",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-flows-32"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-flows-32",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-31"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "interpreted",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "previously interpreted",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "package",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "total package",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-variable-18"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-vertical-19"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "package of",
+      "object_id": "NE-MISC-SDRs"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11",
+      "relation": "previously interpreted as",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-flows-32"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2",
+      "relation": "show changes within",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-15-package-16"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Detailed-1"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2",
+      "relation": "show",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9-character-10"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2",
+      "relation": "however show",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-character-10"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2",
+      "relation": "however show changes within",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-15-package-16"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7",
+      "relation": "is in",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9-character-10"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6",
+      "relation": "together investigate",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-14-composition-15"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-14-composition-15",
+      "relation": "of",
+      "object_id": "NE-MISC-SDRs"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6",
+      "relation": "investigate",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-14-composition-15"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6",
+      "relation": "have",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-9"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1",
+      "relation": "have used",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-9",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-8"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lateral-24-variation-25",
+      "relation": "is in",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-basalt-27-fraction-28"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-density-2",
+      "relation": "infer",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-density-2",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-used-13"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-used-13",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-then-12"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20",
+      "relation": "composition",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-time-24"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-relative-27"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20",
+      "relation": "composition",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-source-22"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-depositional-19"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-time-24",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-26"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-breakup-29"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-density-2",
+      "relation": "infer",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-composition-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-7-basalt-8-fraction-9",
+      "relation": "oceanwards due",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-7-basalt-8-fraction-9",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-overall-6"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-bulk-11-density-12-decrease-13",
+      "relation": "oceanwards due",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-24"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deposits-25"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-from-26-subaerial-28"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "is in",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-of-23-volcanic-24-deposits-25-from-26-predominantly-27-subaerial-28-to-29-volcaniclastics-30"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-predominantly-27"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-possibly-16"
+    },
+    {
+      "subject_id": "NE-MISC-SDRs",
+      "relation": "can",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-can-3-split-5"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-can-3-split-5",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-three-7-sub-packages-8"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5",
+      "relation": "are interpreted",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-consist-9"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5",
+      "relation": "amount to",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-two-2"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-consist-9",
+      "relation": "mark",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-to-8"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-consist-9",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lava-11"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5",
+      "relation": "are",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-interpreted-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5",
+      "relation": "consist of",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lava-11"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-3-package-4",
+      "relation": "shows",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-reflector-6-geometries-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-3-package-4",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-outer-2"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-models-14",
+      "relation": "are applicable syn rift events to",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Pelotas-22-margin-24"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Pelotas-22-margin-24",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-rifted-23"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "faulting models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "volcanic faulting and volcanic loading models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "volcanic faulting models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recording-26"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "volcanic faulting and loading models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "faulting and volcanic loading models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-models-14",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-9"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36",
+      "relation": "faulting and loading models for",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-models-14",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-5-formation-6-models-7",
+      "relation": "coexist on",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-margin-22"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-margin-22",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-same-21"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-5-formation-6-models-7",
+      "relation": "be recognised in",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15",
+      "relation": "is",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-occurring-14"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15",
+      "relation": "at",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-naturally-13"
+    },
+    {
+      "subject_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-5-formation-6-models-7",
+      "relation": "be",
+      "object_id": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recognised-10"
+    }
+  ],
+  "links": {
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seaward-5-reflectors-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formed-12": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-dipping-6": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-mechanism-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-debate-17": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-topic-15": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-contrasting-2-models-3": [],
+    "NE-TITLE-model": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-12": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-9"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7---8-faulting-9-and-10-volcanic-11---12-loading-13-models-14-for-15-SDR-16-formation-17-formation-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-loading-18": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-10": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-16",
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Two-1": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-two-2"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-16": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-10",
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-We-1": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-quality-6-reflection-10-data-11": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-high-4": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Pelotas": [],
+    "NE-COUNTRY-Brazil": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-offshore-17": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deep-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-20": [],
+    "NE-MISC-SDRs": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-data-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-16-nature-17": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-remarkable-5": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-package-3": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-strike-10-width-11": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-total-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-flows-32": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-31": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-thickness-20": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-variable-18": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-vertical-19": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-15-package-16": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Detailed-1": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-changes-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9-character-10": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-character-10": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-likely-14-composition-15": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-observations-9": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-8": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lateral-24-variation-25": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-basalt-27-fraction-28": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-density-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-environment-20": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-used-13": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-then-12": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-time-24": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-relative-27": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-source-22": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-depositional-19": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-formation-26": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-breakup-29": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-composition-17": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-7-basalt-8-fraction-9": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-change-19": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-overall-6": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-bulk-11-density-12-decrease-13": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-24": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deposits-25": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-from-26-subaerial-28": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-type-22-of-23-volcanic-24-deposits-25-from-26-predominantly-27-subaerial-28-to-29-volcaniclastics-30": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-predominantly-27": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-possibly-16": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-can-3-split-5": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-three-7-sub-packages-8": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-inner-3-SDR-4-packages-5": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-consist-9": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-two-2": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Two-1"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-to-8": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-lava-11": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-interpreted-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-3-package-4": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-reflector-6-geometries-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-outer-2": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-models-14": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-Pelotas-22-margin-24": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-rifted-23": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-syn-28-rift-30-events-36": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-16-formation-17": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recording-26": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-9": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-faulting-12"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-7": [
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-10",
+      "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-volcanic-16"
+    ],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-SDR-5-formation-6-models-7": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-margin-22": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-same-21": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-occurring-14": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-naturally-13": [],
+    "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-recognised-10": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075997043.txt",
+  "entities": {
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-sambaqui-10": "sambaqui",
+    "NE-NATIONALITY-Portuguese": "Portuguese",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-They-1": "They",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-have-2-built-4-by-5-sea-6-water-7": "have built by sea water",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-state-3": "state",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-Congonhas-11-II-12": "Congonhas II",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-we-4": "we",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-work-3": "work",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-results-2": "results",
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-radiocarbon-5-dates-6": "radiocarbon dates"
+  },
+  "graph": [
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-sambaqui-10",
+      "relation": "is in",
+      "object_id": "NE-NATIONALITY-Portuguese"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-They-1",
+      "relation": "have",
+      "object_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-have-2-built-4-by-5-sea-6-water-7"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-state-3",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-They-1",
+      "relation": "is called",
+      "object_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-Congonhas-11-II-12"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-we-4",
+      "relation": "carried out In",
+      "object_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-work-3"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-results-2",
+      "relation": "agree relative with",
+      "object_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-radiocarbon-5-dates-6"
+    },
+    {
+      "subject_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-results-2",
+      "relation": "agree with",
+      "object_id": "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-radiocarbon-5-dates-6"
+    }
+  ],
+  "links": {
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-sambaqui-10": [],
+    "NE-NATIONALITY-Portuguese": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-They-1": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-have-2-built-4-by-5-sea-6-water-7": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-state-3": [],
+    "NE-COUNTRY-Brazil": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-Congonhas-11-II-12": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-we-4": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-work-3": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-results-2": [],
+    "a29c3296-a4b1-412c-ab3c-35a21e8cdcde-radiocarbon-5-dates-6": []
+  }
+}

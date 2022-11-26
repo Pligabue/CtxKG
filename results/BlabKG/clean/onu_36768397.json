@@ -1,0 +1,159 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_36768397.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7": "giant discovery",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-heavy-26": "heavy",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-part-11": "part",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-oil-27": "oil",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11": "northern part",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18": "least",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-0.6-22-billion-23-bbl-24": "0.6 billion bbl",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-recoverable-21": "recoverable",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-estimated-20": "estimated",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18-estimated-20-recoverable-21-0.6-22-billion-23-bbl-24-of-25-heavy-26-oil-27": "least estimated recoverable 0.6 billion bbl of heavy oil",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10": "northern",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-country-2": "country",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-last-4-major-5-find-6": "last major find",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-3-9-billion-10-bbl-11": "3 billion bbl",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-field-15": "field",
+    "NE-MISC-Roncador": "Roncador",
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-ultra-deep-water-13": "ultra-deep-water"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "announced",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-heavy-26"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-part-11"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-oil-27"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "at",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-0.6-22-billion-23-bbl-24"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-recoverable-21"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-estimated-20"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "is in",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11",
+      "relation": "of",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18-estimated-20-recoverable-21-0.6-22-billion-23-bbl-24-of-25-heavy-26-oil-27"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7",
+      "relation": "is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-country-2",
+      "relation": "has",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-last-4-major-5-find-6"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-country-2",
+      "relation": "'s find is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-3-9-billion-10-bbl-11"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-country-2",
+      "relation": "'s find is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-field-15"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-field-15",
+      "relation": "of",
+      "object_id": "NE-MISC-Roncador"
+    },
+    {
+      "subject_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-field-15",
+      "relation": "is",
+      "object_id": "20e46fa4-f273-41b1-ba72-0f62ac329290-ultra-deep-water-13"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-giant-5-discovery-7": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-heavy-26": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-part-11": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-oil-27": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10-part-11": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-0.6-22-billion-23-bbl-24": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-recoverable-21": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-estimated-20": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-least-18-estimated-20-recoverable-21-0.6-22-billion-23-bbl-24-of-25-heavy-26-oil-27": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-northern-10": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-country-2": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-last-4-major-5-find-6": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-3-9-billion-10-bbl-11": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-field-15": [],
+    "NE-MISC-Roncador": [],
+    "20e46fa4-f273-41b1-ba72-0f62ac329290-ultra-deep-water-13": []
+  }
+}

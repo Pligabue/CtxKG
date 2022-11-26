@@ -1,0 +1,618 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075828327.txt",
+  "entities": {
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-main-4-challenges-5": "main challenges",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-rigid-7-riser-8-design-9": "rigid riser design",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-Pre-salt-12": "Pre-salt",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9": "points",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11": "imposed",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-key-8": "key",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-challenge-14": "challenge",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thicker-47-riser-48": "thicker riser",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50-insulation-51-demanded-52": "thermal insulation demanded",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-flow-54-assurance-55": "flow assurance",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5": "production frontier",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-3": "new",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-48-insulation-51": "riser insulation",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-16-designers-17": "riser designers",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-level-24": "level",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-mainly-19": "mainly",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50": "thermal",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-coupled-37-system-38": "coupled system",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-water-40-depth-41": "water depth",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5": "contaminant levels",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-materials-16": "materials",
+    "NE-ORGANIZATION-CRA": "CRA",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-high-3": "high",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fluid-8": "fluid",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-configuration-29": "configuration",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-part-34": "part",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-able-31": "able",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-motions-38": "motions",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-involved-19": "involved",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-21-curves-22": "SN curves",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-D-29-curve-30": "D curve",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-5": "SLWR",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-approach-14": "approach",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-16-assessment-17": "fatigue assessment",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-deepwater-4": "deepwater",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-cathodic-32-protection-33-with-34-slope-36-changing-37": "cathodic protection with slope changing",
+    "NE-IDEOLOGY-conservative": "conservative",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-i.e.-28": "i.e.",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pioneer-3": "pioneer",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-curve-52": "curve",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-air-54": "air",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-DNV-24-RPC203-26": "DNV RPC203",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7": "BSI",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13": "fatigue assessment codes",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-both-4-DNVGL-5-and-6": "both DNVGL and",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-20-amplitude-21": "variable amplitude",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-loading-24-spectra-25": "loading spectra",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-possible-11-non-conservativeness-12": "possible non-conservativeness",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-assessment-15-of-16-low-17-stresses-18": "assessment of low stresses",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-internal-11-wall-12-of-13-pipelines-14-and-15-risers-16": "internal wall of pipelines and risers",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-unchanged-27": "unchanged",
+    "NE-ORGANIZATION-SCP": "SCP",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2": "paper",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21": "impact",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-proposed-25": "proposed",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-10-SLWR-11-configuration-12": "typical SLWR configuration",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pre-salt-14": "pre-salt",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-versions-29": "versions",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7": "case study",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37": "fatigue life",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-28-versions-29": "new versions",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37-of-38-riser-39-girth-40-welds-41": "fatigue life of riser girth welds",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-11-configuration-12": "SLWR configuration",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-recent-5": "recent",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-design-32-codes-33": "design codes",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-changes-24": "changes",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8": "impact",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-load-30-spectrum-31": "load spectrum",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-region-35": "region",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-29": "typical",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26": "riser design",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-17-curves-18": "SN curves",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23": "importance",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-great-22": "great",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-low-6-stresses-7": "low stresses",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-concern-16": "concern",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-still-14": "still",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12": "variable amplitude loading spectra",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-should-19-investigated-22": "should investigated",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-effect-4": "effect",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-the-3": "the",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-further-21": "further",
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-However-1": "However"
+  },
+  "graph": [
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-main-4-challenges-5",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-rigid-7-riser-8-design-9"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-rigid-7-riser-8-design-9",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-rigid-7-riser-8-design-9",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-Pre-salt-12"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9",
+      "relation": "are",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-key-8"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9",
+      "relation": "are imposed as",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-challenge-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thicker-47-riser-48",
+      "relation": "has",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50-insulation-51-demanded-52"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50-insulation-51-demanded-52",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-flow-54-assurance-55"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-challenge-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9",
+      "relation": "are imposed At",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-3"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-48-insulation-51",
+      "relation": "demanded for",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-flow-54-assurance-55"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thicker-47-riser-48",
+      "relation": "has",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-48-insulation-51"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-challenge-14",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-16-designers-17"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9",
+      "relation": "are imposed due",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-level-24"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-level-24",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-mainly-19"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-48-insulation-51",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-coupled-37-system-38",
+      "relation": "is with",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-water-40-depth-41"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5",
+      "relation": "Additionally demands",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-materials-16"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-materials-16",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-CRA"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5",
+      "relation": "demands",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-materials-16"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-high-3"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fluid-8"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-configuration-29",
+      "relation": "absorb",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-part-34"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-configuration-29",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-able-31"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-part-34",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-part-34",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-motions-38"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-involved-19",
+      "relation": "degenerated",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-21-curves-22"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-involved-19",
+      "relation": "degenerated SN curves from",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-D-29-curve-30"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-5",
+      "relation": "adopted",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-approach-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-approach-14",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-16-assessment-17"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-5",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-deepwater-4"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-D-29-curve-30",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-cathodic-32-protection-33-with-34-slope-36-changing-37"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-approach-14",
+      "relation": "is",
+      "object_id": "NE-IDEOLOGY-conservative"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-D-29-curve-30",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-i.e.-28"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-5",
+      "relation": "adopted approach In",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pioneer-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pioneer-3"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-curve-52",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-air-54"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-DNV-24-RPC203-26",
+      "relation": "curve in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-cathodic-32-protection-33-with-34-slope-36-changing-37"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-involved-19",
+      "relation": "degenerated SN curves from",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-DNV-24-RPC203-26"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7",
+      "relation": "recently have reviewed",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7",
+      "relation": "has",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-both-4-DNVGL-5-and-6"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7",
+      "relation": "have reviewed",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7",
+      "relation": "More recently have reviewed",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-20-amplitude-21",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-loading-24-spectra-25"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-possible-11-non-conservativeness-12",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-assessment-15-of-16-low-17-stresses-18"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-assessment-15-of-16-low-17-stresses-18",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-20-amplitude-21"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-internal-11-wall-12-of-13-pipelines-14-and-15-risers-16",
+      "relation": "keeps",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-unchanged-27"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-unchanged-27",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-SCP"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2",
+      "relation": "evaluate",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-proposed-25"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-10-SLWR-11-configuration-12",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pre-salt-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-versions-29"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2",
+      "relation": "presents",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pre-salt-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-28-versions-29"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-28-versions-29",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37-of-38-riser-39-girth-40-welds-41"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-10-SLWR-11-configuration-12"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-11-configuration-12"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-recent-5"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-design-32-codes-33"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37-of-38-riser-39-girth-40-welds-41"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-changes-24"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "have importance",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-load-30-spectrum-31"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-load-30-spectrum-31",
+      "relation": "lies around",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-region-35"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-load-30-spectrum-31",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-29"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "have",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "is in",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-17-curves-18"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "have",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-great-22"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "importance for",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26",
+      "relation": "is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8",
+      "relation": "great importance for",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-low-6-stresses-7",
+      "relation": "effect of is",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-concern-16"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-concern-16",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-still-14"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12",
+      "relation": "should",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-should-19-investigated-22"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-low-6-stresses-7"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-effect-4"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12",
+      "relation": "of",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-the-3"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-should-19-investigated-22",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-further-21"
+    },
+    {
+      "subject_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-concern-16",
+      "relation": "at",
+      "object_id": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-However-1"
+    }
+  ],
+  "links": {
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-main-4-challenges-5": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-rigid-7-riser-8-design-9": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-Pre-salt-12": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pre-salt-14"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-points-9": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-imposed-11": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-key-8": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-challenge-14": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thicker-47-riser-48": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50-insulation-51-demanded-52": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-flow-54-assurance-55": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-production-4-frontier-5": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-3": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-48-insulation-51": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-16-designers-17": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-level-24": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-mainly-19": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-thermal-50": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-coupled-37-system-38": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-water-40-depth-41": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-contaminant-4-levels-5": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-materials-16": [],
+    "NE-ORGANIZATION-CRA": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-high-3": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fluid-8": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-configuration-29": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-part-34": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-able-31": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-motions-38": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-involved-19": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-21-curves-22": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-D-29-curve-30": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-5": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-approach-14": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-16-assessment-17": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-deepwater-4": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-cathodic-32-protection-33-with-34-slope-36-changing-37": [],
+    "NE-IDEOLOGY-conservative": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-i.e.-28": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pioneer-3": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-curve-52": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-air-54": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-DNV-24-RPC203-26": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-BSI-7": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-11-assessment-12-codes-13": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-both-4-DNVGL-5-and-6": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-20-amplitude-21": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-loading-24-spectra-25": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-possible-11-non-conservativeness-12": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-assessment-15-of-16-low-17-stresses-18": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-internal-11-wall-12-of-13-pipelines-14-and-15-risers-16": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-unchanged-27": [],
+    "NE-ORGANIZATION-SCP": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-21": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-proposed-25": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-10-SLWR-11-configuration-12": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-11-configuration-12"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-pre-salt-14": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-Pre-salt-12"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-versions-29": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-case-6-study-7": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-new-28-versions-29": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-fatigue-36-life-37-of-38-riser-39-girth-40-welds-41": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SLWR-11-configuration-12": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-10-SLWR-11-configuration-12"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-recent-5": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-design-32-codes-33": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-changes-24": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-impact-8": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-load-30-spectrum-31": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-region-35": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-typical-29": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26": [
+      "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-16-designers-17"
+    ],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-SN-17-curves-18": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-great-22": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-low-6-stresses-7": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-concern-16": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-still-14": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-9-amplitude-10-loading-11-spectra-12": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-should-19-investigated-22": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-effect-4": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-the-3": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-further-21": [],
+    "76be24f2-9662-45c7-a95c-63c0f1d47d2c-However-1": []
+  }
+}

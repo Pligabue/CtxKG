@@ -7,8 +7,9 @@ openie/*
 documents/*.txt
 triples/*.txt
 triples/*.csv
-results/
+results/*
 !results/README.md
+!results/BlabKG/
 
 .ipynb_checkpoints
 venv

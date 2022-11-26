@@ -1,0 +1,329 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84987762471.txt",
+  "entities": {
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1": "Mangroves",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4": "ecosystems",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8": "landscapes",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-coastal-7": "coastal",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-productive-3": "productive",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21": "crab Ucides cordatus",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-tropical-6": "tropical",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-constituting-10-habitat-11": "constituting habitat",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-many-13-commercial-14-fisheries-15": "many commercial fisheries",
+    "NE-ORGANIZATION-MCE": "MCE",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12": "mangrove areas",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-suitable-10": "suitable",
+    "NE-LOCATION-Estuary": "Estuary",
+    "NE-LOCATION-São-Francisco": "São Francisco",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-20": "crab",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-conservation-15": "conservation",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-more-9": "more",
+    "NE-TITLE-River": "River",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-study-3": "study",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Multi-Criteria-4-Evaluation-5": "Multi-Criteria Evaluation",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-GIS-11-environment-12": "GIS environment",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Ten-1-criteria-2": "Ten criteria",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-total-4": "total",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-techniques-9": "techniques",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-CBERS-11": "CBERS",
+    "NE-MISC-GIS": "GIS",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-mangroves-7": "mangroves",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-hand-4": "hand",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-other-3": "other",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-area-16": "area",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-similar-15": "similar",
+    "NE-ORGANIZATION-CSC": "CSC",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-use-51": "use",
+    "NE-ORGANIZATION-NCSC": "NCSC",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-located-21": "located",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-10.2-18-km2-19": "10.2 km2",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9": "government agencies",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23": "management plan",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-species-26": "species",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-maps-5": "maps",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16": "areas",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-thematic-4": "thematic",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-extractive-12": "extractive",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-delineating-11": "delineating",
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-information-2": "information"
+  },
+  "graph": [
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1",
+      "relation": "are",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4",
+      "relation": "of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1",
+      "relation": "are productive ecosystems of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-coastal-7"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-productive-3"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1",
+      "relation": "are ecosystems as",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1",
+      "relation": "are ecosystems of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-tropical-6"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4",
+      "relation": "at",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1",
+      "relation": "are productive ecosystems as",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21",
+      "relation": "as ecosystems is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-constituting-10-habitat-11"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-constituting-10-habitat-11",
+      "relation": "of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-many-13-commercial-14-fisheries-15"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4",
+      "relation": "habitat for",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-many-13-commercial-14-fisheries-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MCE",
+      "relation": "determined",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-suitable-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-São-Francisco"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "is River of",
+      "object_id": "NE-LOCATION-São-Francisco"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12",
+      "relation": "of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-20"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-conservation-15",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Estuary"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12",
+      "relation": "at",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-more-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Estuary",
+      "relation": "is in",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12",
+      "relation": "of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-conservation-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MCE",
+      "relation": "determined mangrove areas In",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-study-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MCE",
+      "relation": "applied",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Multi-Criteria-4-Evaluation-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-MCE",
+      "relation": "applied Multi-Criteria Evaluation in",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-GIS-11-environment-12"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-Ten-1-criteria-2",
+      "relation": "is in",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-total-4"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-techniques-9",
+      "relation": "is with",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-CBERS-11"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-techniques-9",
+      "relation": "of",
+      "object_id": "NE-MISC-GIS"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangroves-7",
+      "relation": "occurred On",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-hand-4"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-hand-4",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-other-3"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangroves-7",
+      "relation": "occurred with",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-area-16"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-area-16",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-similar-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-CSC",
+      "relation": "degree of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-use-51"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-CSC",
+      "relation": "density of",
+      "object_id": "NE-ORGANIZATION-NCSC"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-area-16",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-located-21"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-mangroves-7",
+      "relation": "occurred with",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-10.2-18-km2-19"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9",
+      "relation": "thus contributing to",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23",
+      "relation": "of",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-species-26"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-maps-5",
+      "relation": "can aid government agencies in",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-maps-5",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-thematic-4"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-extractive-12"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16",
+      "relation": "is",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-delineating-11"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-information-2",
+      "relation": "can aid",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-information-2",
+      "relation": "can aid government agencies in",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9",
+      "relation": "contributing to",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23"
+    },
+    {
+      "subject_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-maps-5",
+      "relation": "can aid",
+      "object_id": "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9"
+    }
+  ],
+  "links": {
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Mangroves-1": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-ecosystems-4": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-landscapes-8": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-coastal-7": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-productive-3": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-19-Ucides-20-cordatus-21": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-tropical-6": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-constituting-10-habitat-11": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-many-13-commercial-14-fisheries-15": [],
+    "NE-ORGANIZATION-MCE": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-mangrove-11-areas-12": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-suitable-10": [],
+    "NE-LOCATION-Estuary": [],
+    "NE-LOCATION-São-Francisco": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-crab-20": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-conservation-15": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-more-9": [],
+    "NE-TITLE-River": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-study-3": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Multi-Criteria-4-Evaluation-5": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-GIS-11-environment-12": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-Ten-1-criteria-2": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-total-4": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-techniques-9": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-CBERS-11": [],
+    "NE-MISC-GIS": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-mangroves-7": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-hand-4": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-other-3": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-area-16": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-similar-15": [],
+    "NE-ORGANIZATION-CSC": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-use-51": [],
+    "NE-ORGANIZATION-NCSC": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-located-21": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-10.2-18-km2-19": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-government-8-agencies-9": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-species-26": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-maps-5": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-thematic-4": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-extractive-12": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-delineating-11": [],
+    "840af40f-bba4-4cee-94e2-23552f1a02dd-information-2": []
+  }
+}

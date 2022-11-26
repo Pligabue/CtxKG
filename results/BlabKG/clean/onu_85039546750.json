@@ -1,0 +1,370 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85039546750.txt",
+  "entities": {
+    "1b5c2e54-dca5-4773-b611-862793e6f292-effects-2": "effects",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ways-17": "ways",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-many-16": "many",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-climate-6-change-7-influence-8": "climate change influence",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-10-ecosystems-11-configuration-18": "coastal ecosystems configuration",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-22-services-23": "ecosystem services",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-possible-2-loss-3": "possible loss",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10": "significance",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-15": "risk",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-environmental-14": "environmental",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-5-services-6": "ecosystem services",
+    "NE-LOCATION-Lagoon": "Lagoon",
+    "NE-CITY-Patos": "Patos",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10": "climate threats",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-12-ecosystems-13": "coastal ecosystems",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-assessment-2": "assessment",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-13": "ecosystems",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-study-2": "study",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-implementation-5": "implementation",
+    "NE-TITLE-model": "model",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-vulnerability-52": "vulnerability",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-relation-57-to-58-possible-60-service-61-loss-62": "relation to possible service loss",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-information-3": "information",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6": "scenarios",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-interviews-25": "interviews",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-database-22": "database",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-collected-23": "collected",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-Intergovernmental-10-Panel-11": "Intergovernmental Panel",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-Climate-13-Change-14": "Climate Change",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-predicted-7": "predicted",
+    "NE-ORGANIZATION-Intergovernmental-Panel-on-Climate-Change": "Intergovernmental Panel on Climate Change",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-levels-37": "levels",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risks-39": "risks",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-service-28-users-29": "service users",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42": "conditions",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-able-34": "able",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-significant-21": "significant",
+    "NE-ORGANIZATION-IPCC": "IPCC",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-different-41": "different",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-generated-4": "generated",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-several-27": "several",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4": "risk values",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16": "possibilities",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-evaluation-18": "evaluation",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-calculated-2": "calculated",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-20": "ecosystems",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-values-8": "values",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-numerous-15": "numerous",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8": "tool",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-13-levels-14": "risk levels",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-comparative-12": "comparative",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-capable-9": "capable",
+    "1b5c2e54-dca5-4773-b611-862793e6f292-generating-11": "generating"
+  },
+  "graph": [
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-effects-2",
+      "relation": "are manifested in",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ways-17"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ways-17",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-many-16"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-6-change-7-influence-8",
+      "relation": "affecting",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-10-ecosystems-11-configuration-18"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-10-ecosystems-11-configuration-18",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-6-change-7-influence-8"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-6-change-7-influence-8",
+      "relation": "restricting",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-22-services-23"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possible-2-loss-3",
+      "relation": "translates",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-15"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possible-2-loss-3",
+      "relation": "translates well",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-environmental-14"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10",
+      "relation": "possible loss of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-5-services-6"
+    },
+    {
+      "subject_id": "NE-LOCATION-Lagoon",
+      "relation": "is of",
+      "object_id": "NE-CITY-Patos"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10",
+      "relation": "is in",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-12-ecosystems-13"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-assessment-2",
+      "relation": "generated by",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-13"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-12-ecosystems-13"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-study-2",
+      "relation": "involved",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-implementation-5"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-implementation-5",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-vulnerability-52",
+      "relation": "is in",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-relation-57-to-58-possible-60-service-61-loss-62"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was able Based",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-information-3"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-information-3",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "generated by",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-interviews-25"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-database-22"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-collected-23"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-Intergovernmental-10-Panel-11"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-Climate-13-Change-14"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-predicted-7"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-information-3",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Intergovernmental-Panel-on-Climate-Change"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "generate",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-levels-37"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-levels-37",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risks-39"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-service-28-users-29"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "generate levels for",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-able-34"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-significant-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Intergovernmental-Panel-on-Climate-Change",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-IPCC"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-different-41"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-information-3",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-generated-4"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-several-27"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4",
+      "relation": "allow",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-evaluation-18"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-calculated-2"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16",
+      "relation": "of",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-20"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4",
+      "relation": "standardized to",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-values-8"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-numerous-15"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "Moreover appears as",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "appears as",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8",
+      "relation": "at",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-risk-13-levels-14"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-comparative-12"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-capable-9"
+    },
+    {
+      "subject_id": "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8",
+      "relation": "is",
+      "object_id": "1b5c2e54-dca5-4773-b611-862793e6f292-generating-11"
+    }
+  ],
+  "links": {
+    "1b5c2e54-dca5-4773-b611-862793e6f292-effects-2": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ways-17": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-many-16": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-climate-6-change-7-influence-8": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-10-ecosystems-11-configuration-18": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-22-services-23": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-possible-2-loss-3": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-15": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-environmental-14": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystem-5-services-6": [],
+    "NE-LOCATION-Lagoon": [],
+    "NE-CITY-Patos": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-climate-9-threats-10": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-coastal-12-ecosystems-13": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-assessment-2": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-13": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-study-2": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-implementation-5": [],
+    "NE-TITLE-model": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-vulnerability-52": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-relation-57-to-58-possible-60-service-61-loss-62": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-information-3": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-scenarios-6": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-interviews-25": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-database-22": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-collected-23": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-Intergovernmental-10-Panel-11": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-Climate-13-Change-14": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-predicted-7": [],
+    "NE-ORGANIZATION-Intergovernmental-Panel-on-Climate-Change": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-levels-37": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risks-39": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-service-28-users-29": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-able-34": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-significant-21": [],
+    "NE-ORGANIZATION-IPCC": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-different-41": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-generated-4": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-several-27": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-3-values-4": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-possibilities-16": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-evaluation-18": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-calculated-2": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-ecosystems-20": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-values-8": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-numerous-15": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-tool-8": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-risk-13-levels-14": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-comparative-12": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-capable-9": [],
+    "1b5c2e54-dca5-4773-b611-862793e6f292-generating-11": []
+  }
+}

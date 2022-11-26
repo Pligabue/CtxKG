@@ -1,0 +1,471 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85050674553.txt",
+  "entities": {
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-2-prices-3": "oil prices",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8": "exploration",
+    "NE-DATE-Current": "Current",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17": "oil companies",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-10-reserves-11": "oil reserves",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-major-13": "major",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-offshore-7": "offshore",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17": "cost reduction",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20": "schedules",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-units-7": "units",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-chattered-6": "chattered",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-its-22-projects-23": "its projects",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-reduced-19": "reduced",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-competitiveness-14": "competitiveness",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Standardization-1": "Standardization",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-4": "use",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-extensive-3": "extensive",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-article-2": "article",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7": "cost methodology",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-10": "design",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-12-systems-13": "production systems",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-low-5": "low",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-topsides-16-teams-17": "topsides teams",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-project-24": "project",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-14": "design",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19": "crucial",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flow-8-assurance-9": "flow assurance",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-4": "integration",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-subsea-11": "subsea",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-successful-23": "successful",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-10": "integration",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-pursued-3": "pursued",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-time-7": "time",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-long-6": "long",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-opportunities-22": "opportunities",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-23-lost-25": "have lost",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15": "has achieved",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-partially-14": "partially",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-industry-18": "industry",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-only-12": "only",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-driven-6": "driven",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Metrics-1": "Metrics",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11": "have created",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-16-environment-17": "simulation environment",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14": "number",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-38-lines-39": "production lines",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-methodology-4": "methodology",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-FEL2-2": "FEL2",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-high-49-C02-50-concentration-51": "high C02 concentration",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integrated-54-way-55": "integrated way",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18": "platforms",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-diameter-36": "diameter",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-handling-46-streams-47": "handling streams",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-evaluation-11": "evaluation",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-28": "use",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-optimal-21-schedule-22": "optimal schedule",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-well-24-construction-25": "well construction",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flexible-30-risers-33": "flexible risers",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-example-8": "example",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9": "results",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-5-field-6": "oil field",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-effective-8": "effective",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-2": "simulation",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-their-14-integration-15": "their integration",
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-objective-18-of-19-making-20-comparative-21-economic-22-analysis-23-of-24-alternatives-25": "objective of making comparative economic analysis of alternatives"
+  },
+  "graph": [
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-2-prices-3",
+      "relation": "have made",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-2-prices-3",
+      "relation": "is",
+      "object_id": "NE-DATE-Current"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-10-reserves-11"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-major-13"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "challenge for",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-offshore-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8",
+      "relation": "major challenge for",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "use",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "extensive use of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-units-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-units-7",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-chattered-6"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "is in",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-its-22-projects-23"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "effectively promote",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-reduced-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "Petrobras",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "promote",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-competitiveness-14"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "extensive use",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "effectively promote",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-competitiveness-14"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "Standardization",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "has",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "use of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-units-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Standardization-1",
+      "relation": "has allowed",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17",
+      "relation": "promote",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-4",
+      "relation": "has allowed",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-4",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-extensive-3"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-article-2",
+      "relation": "presents",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-10"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-12-systems-13"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-low-5"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-topsides-16-teams-17",
+      "relation": "achieving",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-project-24"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-14",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flow-8-assurance-9",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-4",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-topsides-16-teams-17",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-subsea-11",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-project-24",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-successful-23"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-10",
+      "relation": "being",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-pursued-3"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-10",
+      "relation": "being pursued for",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-time-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-time-7",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-long-6"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-opportunities-22",
+      "relation": "have",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-23-lost-25"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-10",
+      "relation": "has",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15",
+      "relation": "at",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-partially-14"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15",
+      "relation": "at",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-industry-18"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15",
+      "relation": "at",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-only-12"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-article-2",
+      "relation": "shows",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-driven-6"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Metrics-1",
+      "relation": "have",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11",
+      "relation": "at",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-16-environment-17"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14",
+      "relation": "diameter of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-38-lines-39"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-methodology-4",
+      "relation": "allows evaluation In",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-FEL2-2"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-high-49-C02-50-concentration-51",
+      "relation": "is in",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integrated-54-way-55"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18",
+      "relation": "of number is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-diameter-36"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-handling-46-streams-47",
+      "relation": "is with",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-high-49-C02-50-concentration-51"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-high-49-C02-50-concentration-51",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integrated-54-way-55"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-methodology-4",
+      "relation": "allows",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-evaluation-11"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-evaluation-11",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18",
+      "relation": "of number is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-28"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-evaluation-11",
+      "relation": "of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18",
+      "relation": "of number is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-optimal-21-schedule-22"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14",
+      "relation": "schedule of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-well-24-construction-25"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14",
+      "relation": "use of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flexible-30-risers-33"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-methodology-4",
+      "relation": "allows evaluation for",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-example-8"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9",
+      "relation": "simulation of",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-5-field-6"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9",
+      "relation": "is",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-effective-8"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-2",
+      "relation": "shows",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9"
+    },
+    {
+      "subject_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-their-14-integration-15",
+      "relation": "is with",
+      "object_id": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-objective-18-of-19-making-20-comparative-21-economic-22-analysis-23-of-24-alternatives-25"
+    }
+  ],
+  "links": {
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-2-prices-3": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-exploration-8": [],
+    "NE-DATE-Current": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-10-reserves-11": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-major-13": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-offshore-7": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-16-reduction-17": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-schedules-20": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-units-7": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-chattered-6": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-its-22-projects-23": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-reduced-19": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-competitiveness-14": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Standardization-1": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-4": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-extensive-3": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-article-2": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-cost-6-methodology-7": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-10": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-12-systems-13": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-low-5": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-topsides-16-teams-17": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-project-24": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-design-14": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flow-8-assurance-9": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-4": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-subsea-11": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-successful-23": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integration-10": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-pursued-3": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-time-7": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-long-6": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-opportunities-22": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-23-lost-25": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-has-11-achieved-15": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-partially-14": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-industry-18": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-only-12": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-driven-6": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-Metrics-1": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-16-environment-17": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-number-14": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-38-lines-39": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-methodology-4": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-FEL2-2": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-high-49-C02-50-concentration-51": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-integrated-54-way-55": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-platforms-18": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-diameter-36": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-handling-46-streams-47": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-evaluation-11": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-use-28": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-optimal-21-schedule-22": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-well-24-construction-25": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flexible-30-risers-33": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-example-8": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-5-field-6": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-effective-8": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-simulation-2": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-their-14-integration-15": [],
+    "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-objective-18-of-19-making-20-comparative-21-economic-22-analysis-23-of-24-alternatives-25": []
+  }
+}

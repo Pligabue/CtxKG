@@ -1,0 +1,391 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85084945361.txt",
+  "entities": {
+    "bb0ac139-3982-432a-8400-729a5c19c126-recovery-2-left-11": "recovery left",
+    "bb0ac139-3982-432a-8400-729a5c19c126-discussed-29": "discussed",
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-7-flowline-8": "production flowline",
+    "bb0ac139-3982-432a-8400-729a5c19c126-Combined-1-paraffin-3-deposits-4": "Combined paraffin deposits",
+    "bb0ac139-3982-432a-8400-729a5c19c126-blocked-19": "blocked",
+    "NE-TITLE-producer": "producer",
+    "bb0ac139-3982-432a-8400-729a5c19c126-northeast-15": "northeast",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "bb0ac139-3982-432a-8400-729a5c19c126-completely-18": "completely",
+    "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29": "deck configuration vessel",
+    "bb0ac139-3982-432a-8400-729a5c19c126-capacity-36-limitations-37": "capacity limitations",
+    "bb0ac139-3982-432a-8400-729a5c19c126-dimensional-33": "dimensional",
+    "bb0ac139-3982-432a-8400-729a5c19c126-planning-2": "planning",
+    "bb0ac139-3982-432a-8400-729a5c19c126-equipment-13": "equipment",
+    "NE-STATE_OR_PROVINCE-CT": "CT",
+    "bb0ac139-3982-432a-8400-729a5c19c126-necessary-4": "necessary",
+    "bb0ac139-3982-432a-8400-729a5c19c126-Extensive-1": "Extensive",
+    "bb0ac139-3982-432a-8400-729a5c19c126-floating-21": "floating",
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-22-storage-23": "production storage",
+    "bb0ac139-3982-432a-8400-729a5c19c126-manufactured-7": "manufactured",
+    "bb0ac139-3982-432a-8400-729a5c19c126-injector-12": "injector",
+    "bb0ac139-3982-432a-8400-729a5c19c126-extendable-3": "extendable",
+    "bb0ac139-3982-432a-8400-729a5c19c126-work-18-window-19": "work window",
+    "bb0ac139-3982-432a-8400-729a5c19c126-jacking-4": "jacking",
+    "bb0ac139-3982-432a-8400-729a5c19c126-customized-2": "customized",
+    "bb0ac139-3982-432a-8400-729a5c19c126-room-15": "room",
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-16": "cleanout",
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20-of-21-well-23": "production flowline of well",
+    "bb0ac139-3982-432a-8400-729a5c19c126-fit-2-rigging-7": "fit rigging",
+    "bb0ac139-3982-432a-8400-729a5c19c126-viability-13": "viability",
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20": "production flowline",
+    "bb0ac139-3982-432a-8400-729a5c19c126-necessary-9": "necessary",
+    "bb0ac139-3982-432a-8400-729a5c19c126-target-22-depth-23": "target depth",
+    "bb0ac139-3982-432a-8400-729a5c19c126-operation-2-modeling-3-software-4": "operation modeling software",
+    "bb0ac139-3982-432a-8400-729a5c19c126-used-6": "used",
+    "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27": "efficiency",
+    "bb0ac139-3982-432a-8400-729a5c19c126-simulations-13": "simulations",
+    "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10": "hydraulic",
+    "bb0ac139-3982-432a-8400-729a5c19c126-optimal-25": "optimal",
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-32-methodology-33": "cleanout methodology",
+    "bb0ac139-3982-432a-8400-729a5c19c126-jetting-26": "jetting",
+    "bb0ac139-3982-432a-8400-729a5c19c126-Paraffin-1": "Paraffin",
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleaned-4": "cleaned",
+    "bb0ac139-3982-432a-8400-729a5c19c126-PIG-11": "PIG",
+    "bb0ac139-3982-432a-8400-729a5c19c126-surface-17": "surface",
+    "bb0ac139-3982-432a-8400-729a5c19c126-successfully-3": "successfully",
+    "bb0ac139-3982-432a-8400-729a5c19c126-flowline-7": "flowline",
+    "bb0ac139-3982-432a-8400-729a5c19c126-released-13": "released",
+    "bb0ac139-3982-432a-8400-729a5c19c126-frame-8": "frame",
+    "bb0ac139-3982-432a-8400-729a5c19c126-challenges-14": "challenges",
+    "bb0ac139-3982-432a-8400-729a5c19c126-rigging-16": "rigging",
+    "bb0ac139-3982-432a-8400-729a5c19c126-deck-24-space-25": "deck space",
+    "bb0ac139-3982-432a-8400-729a5c19c126-extremely-22-limited-23-deck-24-space-25": "extremely limited deck space",
+    "bb0ac139-3982-432a-8400-729a5c19c126-case-3": "case",
+    "bb0ac139-3982-432a-8400-729a5c19c126-limited-23": "limited",
+    "bb0ac139-3982-432a-8400-729a5c19c126-vessel-20": "vessel"
+  },
+  "graph": [
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-recovery-2-left-11",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-discussed-29"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-7-flowline-8",
+      "relation": "was blocked Combined",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-Combined-1-paraffin-3-deposits-4"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-7-flowline-8",
+      "relation": "was completely blocked Combined",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-Combined-1-paraffin-3-deposits-4"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-7-flowline-8",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-blocked-19"
+    },
+    {
+      "subject_id": "NE-TITLE-producer",
+      "relation": "is in",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-northeast-15"
+    },
+    {
+      "subject_id": "NE-TITLE-producer",
+      "relation": "of flowline is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-blocked-19",
+      "relation": "at",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-completely-18"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29",
+      "relation": "overcome",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-capacity-36-limitations-37"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-capacity-36-limitations-37",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-dimensional-33"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-planning-2",
+      "relation": "spot",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-equipment-13"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-equipment-13",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-CT"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-planning-2",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-necessary-4"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-planning-2",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-Extensive-1"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-equipment-13",
+      "relation": "accommodate",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-floating-21"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-22-storage-23"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-manufactured-7"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "support",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-injector-12"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-extendable-3"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-injector-12",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-CT"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-injector-12",
+      "relation": "provide room for",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-work-18-window-19"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-jacking-4"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-customized-2"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-injector-12",
+      "relation": "provide",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-room-15"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-16",
+      "relation": "is in",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20-of-21-well-23"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-fit-2-rigging-7",
+      "relation": "enable",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-viability-13"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-viability-13",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20-of-21-well-23"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-viability-13",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-16"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-viability-13",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-fit-2-rigging-7",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-necessary-9"
+    },
+    {
+      "subject_id": "NE-STATE_OR_PROVINCE-CT",
+      "relation": "reach",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-target-22-depth-23"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-operation-2-modeling-3-software-4",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-used-6"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-operation-2-modeling-3-software-4",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-CT"
+    },
+    {
+      "subject_id": "NE-STATE_OR_PROVINCE-CT",
+      "relation": "reach target depth with",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-operation-2-modeling-3-software-4",
+      "relation": "analyze",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-simulations-13"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-simulations-13",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-optimal-25"
+    },
+    {
+      "subject_id": "NE-STATE_OR_PROVINCE-CT",
+      "relation": "tailor",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-32-methodology-33"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-jetting-26"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-Paraffin-1",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-cleaned-4"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-PIG-11",
+      "relation": "was released on",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-surface-17"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-cleaned-4",
+      "relation": "at",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-successfully-3"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-Paraffin-1",
+      "relation": "was cleaned from",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-flowline-7"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-PIG-11",
+      "relation": "was",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-released-13"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-Paraffin-1",
+      "relation": "was successfully cleaned from",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-flowline-7"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "overcome up",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-challenges-14"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-CT"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-challenges-14",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-rigging-16"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "overcome challenges up on",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-24-space-25"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-24-space-25",
+      "relation": "of",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-extremely-22-limited-23-deck-24-space-25"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "was manufactured For",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-case-3"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-deck-24-space-25",
+      "relation": "is",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-limited-23"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-vessel-20",
+      "relation": "is with",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-extremely-22-limited-23-deck-24-space-25"
+    },
+    {
+      "subject_id": "bb0ac139-3982-432a-8400-729a5c19c126-frame-8",
+      "relation": "overcome challenges up on",
+      "object_id": "bb0ac139-3982-432a-8400-729a5c19c126-vessel-20"
+    }
+  ],
+  "links": {
+    "bb0ac139-3982-432a-8400-729a5c19c126-recovery-2-left-11": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-discussed-29": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-7-flowline-8": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-Combined-1-paraffin-3-deposits-4": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-blocked-19": [],
+    "NE-TITLE-producer": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-northeast-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-completely-18": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-deck-17-configuration-18-vessel-29": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-capacity-36-limitations-37": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-dimensional-33": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-planning-2": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-equipment-13": [],
+    "NE-STATE_OR_PROVINCE-CT": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-necessary-4": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-Extensive-1": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-floating-21": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-22-storage-23": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-manufactured-7": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-injector-12": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-extendable-3": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-work-18-window-19": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-jacking-4": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-customized-2": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-room-15": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-16": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20-of-21-well-23": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-fit-2-rigging-7": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-viability-13": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-production-19-flowline-20": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-necessary-9": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-target-22-depth-23": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-operation-2-modeling-3-software-4": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-used-6": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-simulations-13": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-optimal-25": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleanout-32-methodology-33": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-jetting-26": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-Paraffin-1": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-cleaned-4": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-PIG-11": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-surface-17": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-successfully-3": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-flowline-7": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-released-13": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-frame-8": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-challenges-14": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-rigging-16": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-deck-24-space-25": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-extremely-22-limited-23-deck-24-space-25": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-case-3": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-limited-23": [],
+    "bb0ac139-3982-432a-8400-729a5c19c126-vessel-20": []
+  }
+}

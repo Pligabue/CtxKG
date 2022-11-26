@@ -1,0 +1,292 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086929987.txt",
+  "entities": {
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-its-25-distribution-26": "its distribution",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-environmental-28-compartments-29-including-31-sediments-32": "environmental compartments including sediments",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-origin-15": "origin",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-source-17": "source",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-analysis-2": "analysis",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-relevant-11": "relevant",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-terms-6-of-7-individual-8-compounds-9": "terms of individual compounds",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-substances-20": "substances",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-6": "sediments",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-4": "determined",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-tropical-16-clam-17-Anomalocardia-18-flexuosa-19": "tropical clam Anomalocardia flexuosa",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediment-21-toxicity-22-testing-23": "sediment toxicity testing",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-Data-1": "Data",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-aliphatic-6": "aliphatic",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-target-3-compounds-4": "target compounds",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-alkylbenzenes-19": "alkylbenzenes",
+    "NE-MISC-PAHs": "PAHs",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7": "gas chromatography",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-flame-9-ionization-10-detector-11": "flame ionization detector",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21": "LABs",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-ion-40-mode-41": "ion mode",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-selected-39": "selected",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2": "AHs compounds",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-SIM-43": "SIM",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-23": "determined",
+    "NE-STATE_OR_PROVINCE-MS": "MS",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-GC-33": "GC",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-mass-30-spectrometer-31": "mass spectrometer",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-potential-2": "potential",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11": "hydrocarbons contamination",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-dataset-5": "dataset",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8": "information",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-bioaccumulation-20": "bioaccumulation",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-organisms-26": "organisms",
+    "NE-TITLE-marine": "marine",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-semi-arid-16": "semi-arid",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-baseline-7": "baseline",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-13": "sediments",
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-region-17": "region"
+  },
+  "graph": [
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-its-25-distribution-26",
+      "relation": "is in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-environmental-28-compartments-29-including-31-sediments-32"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-origin-15",
+      "relation": "distribution",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-source-17"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-analysis-2",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-relevant-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-analysis-2",
+      "relation": "is in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-terms-6-of-7-individual-8-compounds-9"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-analysis-2",
+      "relation": "understand",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-origin-15"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-origin-15",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-substances-20"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "were determined in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-6"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "were",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-4"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-tropical-16-clam-17-Anomalocardia-18-flexuosa-19",
+      "relation": "is in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediment-21-toxicity-22-testing-23"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-Data-1",
+      "relation": "included",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-aliphatic-6"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "Data of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-target-3-compounds-4"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "Data",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-alkylbenzenes-19"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-Data-1",
+      "relation": "included",
+      "object_id": "NE-MISC-PAHs"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7",
+      "relation": "is with",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-flame-9-ionization-10-detector-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21",
+      "relation": "coupled in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-ion-40-mode-41"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-ion-40-mode-41",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-selected-39"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2",
+      "relation": "were",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-4"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21",
+      "relation": "coupled in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-SIM-43"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2",
+      "relation": "were determined",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-23"
+    },
+    {
+      "subject_id": "NE-MISC-PAHs",
+      "relation": "were",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-23"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2",
+      "relation": "were determined on",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-flame-9-ionization-10-detector-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21",
+      "relation": "coupled to",
+      "object_id": "NE-STATE_OR_PROVINCE-MS"
+    },
+    {
+      "subject_id": "NE-STATE_OR_PROVINCE-MS",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-GC-33"
+    },
+    {
+      "subject_id": "NE-MISC-PAHs",
+      "relation": "were",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2",
+      "relation": "were determined",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21",
+      "relation": "coupled to",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-mass-30-spectrometer-31"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7",
+      "relation": "mark",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-23"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-potential-2",
+      "relation": "is information on",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-dataset-5",
+      "relation": "potential of is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-bioaccumulation-20",
+      "relation": "is in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-organisms-26"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-organisms-26",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-semi-arid-16"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-potential-2",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8",
+      "relation": "is",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-baseline-7"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-13"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-potential-2",
+      "relation": "is baseline information on",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "is in",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-13"
+    },
+    {
+      "subject_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11",
+      "relation": "of",
+      "object_id": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-region-17"
+    }
+  ],
+  "links": {
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-its-25-distribution-26": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-environmental-28-compartments-29-including-31-sediments-32": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-origin-15": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-source-17": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-analysis-2": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-relevant-11": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-terms-6-of-7-individual-8-compounds-9": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-substances-20": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-6": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-4": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-tropical-16-clam-17-Anomalocardia-18-flexuosa-19": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediment-21-toxicity-22-testing-23": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-Data-1": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-aliphatic-6": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-target-3-compounds-4": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-alkylbenzenes-19": [],
+    "NE-MISC-PAHs": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-gas-6-chromatography-7": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-flame-9-ionization-10-detector-11": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-LABs-21": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-ion-40-mode-41": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-selected-39": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-AHs-1-compounds-2": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-SIM-43": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-determined-23": [],
+    "NE-STATE_OR_PROVINCE-MS": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-GC-33": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-mass-30-spectrometer-31": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-potential-2": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-dataset-5": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-information-8": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-bioaccumulation-20": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-organisms-26": [],
+    "NE-TITLE-marine": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-semi-arid-16": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-baseline-7": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-sediments-13": [],
+    "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-region-17": []
+  }
+}
