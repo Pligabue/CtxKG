@@ -5,7 +5,6 @@ import com.triplebuilder.app.*;
 
 import java.io.File;
 import java.io.FileWriter;
-import java.io.FilenameFilter;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Collection;
