@@ -13,35 +13,38 @@ from src.link import Link
 
 
 class Graph:
-    def __init__(self, filepath: Union[str, None] = None, encoder: Union[Encoder, None] = None):
-        self.filepath: Union[str, None] = filepath
-        self.encoder: Encoder = encoder
+    def __init__(self, filepath: str, encoder: Encoder):
+        self.filepath = filepath
+        self.encoder = encoder
         self.entities: Dict[str, Entity] = {}
         self.triples: list[Triple] = []
         self.links: list[Link] = []
 
     @staticmethod
-    def from_csv(filepath: str, encoder: Union[Encoder, None] = None):
-        graph = Graph(None, encoder)
+    def from_csv(filepath: Union[str, Path], encoder: Encoder):
+        graph = Graph("", encoder)
         with open(filepath, encoding="utf-8") as f:
-            graph.filepath = re.match(r"# (?P<filepath>.*)", f.readline())["filepath"]
+            if m := re.match(r"# (?P<filepath>.*)", f.readline()):
+                graph.filepath = m["filepath"]
             df = pd.read_csv(f, sep=";", comment="#")
-            for i, row in df.iterrows():
-                confidence = row["confidence"]
-                subject_text = row["subject"]
-                relation = row["relation"]
-                object_text = row["object"]
-                subject_id = row["subject_id"]
-                object_id = row["object_id"]
 
-                subject = graph.get_entity_by_id(subject_id, subject_text)
-                object = graph.get_entity_by_id(object_id, object_text)
-                graph.add_triple(subject, relation, object, confidence=confidence) 
+        for i, row in df.iterrows():
+            confidence: float = row["confidence"]  #type: ignore
+            subject_text: str = row["subject"]     #type: ignore
+            relation: str = row["relation"]        #type: ignore
+            object_text: str = row["object"]       #type: ignore
+            subject_id: str = row["subject_id"]    #type: ignore
+            object_id: str = row["object_id"]      #type: ignore
+ 
+            subject = graph.get_entity_by_id(subject_id, subject_text)
+            object = graph.get_entity_by_id(object_id, object_text)
+            graph.add_triple(subject, relation, object, confidence=confidence) 
+
         return graph
 
     @staticmethod
-    def from_json(filepath: Union[str, Path], encoder: Union[Encoder, None] = None):
-        graph = Graph(None, encoder)
+    def from_json(filepath: Union[str, Path], encoder: Encoder):
+        graph = Graph("", encoder)
         with open(filepath, encoding="utf-8") as f:
             graph_json = json.load(f)
             graph.filepath = graph_json["document"]
@@ -148,7 +151,7 @@ class Graph:
         for entity in entity_list:
             entity_pool = [entity] + self.get_linked_entities(entity)
             replacement = self.get_replacement(entity_pool, sorted_entities)
-            if entity is not replacement:
+            if replacement and entity is not replacement:
                 self.replace_entity_in_triples(entity, replacement)
                 self.links = [link for link in self.links if link.entity_a is not entity and link.entity_b is not entity]
                 del self.entities[entity.id]
