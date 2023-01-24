@@ -1,5 +1,4 @@
 from pathlib import Path
-from operator import attrgetter
 import json
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
@@ -18,6 +17,14 @@ def get_dirs(match):
         directory = askdirectory(initialdir=RESULT_DIR)
         return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
+
+def save_params(dir, size, ratio, threshold, match):
+    with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
+        params = (f"BERT SIZE: {size}\n" \
+                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n" \
+                  f"THRESHOLD: {threshold}\n" \
+                  f"FILE NAME MATCHING: {match}\n")
+        f.write(params)
 
 def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
@@ -41,15 +48,16 @@ def main(match, size, clean, ratio, threshold):
         graph_dir = dir / "clean" if clean else dir / "base"
         bridge_dir = graph_dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
+        save_params(bridge_dir, size, ratio, threshold, match)
         
         graph_files = [file for file in graph_dir.glob("*.json")]
         for source_file in tqdm(graph_files):
             bridges = get_existing_bridges(bridge_dir, source_file)
             target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
             if target_files:
-                graph = Graph.from_json(source_file).add_encoder(encoder).build_entity_encodings()
+                graph = Graph.from_json(source_file, encoder).build_entity_encodings()
                 for target_files in tqdm(target_files, leave=False):
-                    target_graph = Graph.from_json(target_files).add_encoder(encoder).build_entity_encodings()
+                    target_graph = Graph.from_json(target_files, encoder).build_entity_encodings()
                     bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
             with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2, ensure_ascii=False)
