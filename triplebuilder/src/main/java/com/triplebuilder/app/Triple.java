@@ -1,19 +1,15 @@
-package openie;
+package com.triplebuilder.app;
 
 
-import openie.Entity;
+import com.triplebuilder.app.Entity;
 
 import java.util.List;
-import java.util.Optional;
 import java.util.ArrayList;
-import java.util.UUID;
 
 import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.ie.util.RelationTriple;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphEdge;
-import edu.stanford.nlp.ling.IndexedWord;
 
 
 public class Triple {

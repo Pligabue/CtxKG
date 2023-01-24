@@ -1,13 +1,12 @@
-package openie;
+package com.triplebuilder.app;
 
 
-import openie.*;
+import com.triplebuilder.app.*;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.FileNotFoundException;
-import java.util.stream.Stream;
 import java.util.Scanner;
 import java.util.Collection;
 import java.util.Properties;
@@ -23,7 +22,6 @@ import static java.util.stream.Collectors.*;
 
 import edu.stanford.nlp.ie.util.RelationTriple;
 import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
@@ -33,13 +31,9 @@ import edu.stanford.nlp.ling.CoreLabel;
 
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations.BasicDependenciesAnnotation;
 import edu.stanford.nlp.semgraph.SemanticGraph;
-import edu.stanford.nlp.semgraph.SemanticGraphEdge;
-import edu.stanford.nlp.ling.IndexedWord;
 
-import edu.stanford.nlp.coref.CorefCoreAnnotations;
-import edu.stanford.nlp.coref.data.CorefChain;
-import edu.stanford.nlp.coref.data.Mention;
-
+import org.apache.commons.io.FileUtils;
+// import org.apache.commons.io.IOFileFilter;
 
 public class TripleBuilder {
 
@@ -62,22 +56,22 @@ public class TripleBuilder {
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,depparse,coref,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
-        File folder = new File("documents/");
-        FilenameFilter filter = new FilenameFilter() {
-            @Override
-            public boolean accept(File f, String name) {
-                boolean isTXT = name.endsWith(".txt");
-                boolean tripleExists = (new File("triples/" + name.replace(".txt", ".csv"))).exists();
-                
-                return isTXT && !tripleExists;
-            }
-        };
+        File documentFolder = new File("./documents/");
+        File tripleFolder = new File("./triples/");
 
-        File[] files = folder.listFiles(filter);
-        int numberOfFiles = files.length;
+        Collection<File> files = FileUtils.listFiles(documentFolder, new String[] {"txt"}, true);
+        int numberOfFiles = files.size();
         int fileIndex = 0;
-        printProgress(fileIndex, numberOfFiles);
         for (File f : files) {
+            printProgress(fileIndex, numberOfFiles);
+            fileIndex++;
+
+            String targetFilename = f.getPath().replace(documentFolder.getPath(), tripleFolder.getPath()).replace(".txt", ".csv");
+            File targetFile = new File(targetFilename);
+            if (targetFile.exists()) {
+                continue;
+            }
+
             try {
                 Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = null;
@@ -114,7 +108,7 @@ public class TripleBuilder {
                         );
                     }
                 }
-                writer = new FileWriter("triples/" + f.getName().replace(".txt", ".csv"));
+                writer = new FileWriter(targetFilename);
                 writer.write(allTriples.stream().distinct().collect(joining("\n")));
                 writer.close();
                 reader.close();
@@ -122,9 +116,8 @@ public class TripleBuilder {
                 System.out.println("An error occurred.");
                 e.printStackTrace();
             }
-            fileIndex++;
-            printProgress(fileIndex, numberOfFiles);
         }
+        printProgress(fileIndex, numberOfFiles);
         System.out.println();
     }
 
@@ -188,11 +181,18 @@ public class TripleBuilder {
         return entitySubset;
     }
 
+    public static String getRelativePath(File baseDir, File file) {
+        int rootLength = baseDir.getAbsolutePath().length();
+        String absFileName = file.getAbsolutePath();
+        String relFileName = absFileName.substring(rootLength + 1);
+        return relFileName;
+    }
+
     public static void printProgress(int current, int size) {
         int totalSections = 50;
-        int filledSections = (totalSections * current) / size;
+        int filledSections = size > 0 ? (totalSections * current) / size : totalSections;
         int emptySections = totalSections - filledSections;
-        int percentage = (100 * current) / size;
+        int percentage = size > 0 ? (100 * current) / size : 100;
         System.out.print("\r[" + "#".repeat(filledSections) + " ".repeat(emptySections) + "] " + current + "/" + size + " " + percentage + "%");
     }
 }

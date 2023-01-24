@@ -4,9 +4,8 @@ openie/*
 
 *.pdf
 
-documents/*.txt
-triples/*.txt
-triples/*.csv
+documents/**/*.txt
+triples/**/*.csv
 results/*
 !results/README.md
 !results/BlabKG/

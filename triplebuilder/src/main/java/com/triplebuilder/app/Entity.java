@@ -1,15 +1,11 @@
-package openie;
+package com.triplebuilder.app;
 
-import java.lang.Comparable;
-import java.text.NumberFormat.Style;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Objects;
 
 import static java.util.stream.Collectors.*;

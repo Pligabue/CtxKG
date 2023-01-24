@@ -1,1 +1,0 @@
-Stanford's CoreNLP goes here, this program used `stanford-corenlp-4.2.2` (https://huggingface.co/stanfordnlp/CoreNLP/resolve/main/stanford-corenlp-latest.zip). 
