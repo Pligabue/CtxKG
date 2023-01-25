@@ -55,13 +55,13 @@ public class Triple {
     }
 
     public boolean notEmpty() {
-        return !this.subject.getFinalEntity().cleanForm().getTokens().isEmpty() && !this.object.getFinalEntity().cleanForm().getTokens().isEmpty();
+        return !this.subject.cleanForm().getTokens().isEmpty() && !this.object.cleanForm().getTokens().isEmpty();
     }
 
     @Override
     public String toString() {
-        Entity finalSubject = this.subject.getFinalEntity().cleanForm();
-        Entity finalObject = this.object.getFinalEntity().cleanForm();
+        Entity finalSubject = this.subject.cleanForm();
+        Entity finalObject = this.object.cleanForm();
         return this.confidence + ";\"" + finalSubject.getText() + "\";\"" + this.relation + "\";\"" + finalObject.getText() + "\";\"" + finalSubject.getId() + "\";\"" + finalObject.getId() + "\"";
     }
 

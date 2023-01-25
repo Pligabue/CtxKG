@@ -72,14 +72,11 @@ public class TripleBuilder {
             }
 
             try {
-                Scanner reader = new Scanner(f, "utf-8");
-                FileWriter writer = null;
                 UUID uniqueId = UUID.randomUUID();
                 List<String> allTriples = new ArrayList<>();
                 allTriples.add(Triple.getHeader(f.getAbsolutePath()));
                 
-                while (reader.hasNextLine()) {
-                    String line = reader.nextLine();
+                for (String line : FileUtils.readLines(f, "UTF-8")) {
                     CoreDocument doc = new CoreDocument(line);
                     pipeline.annotate(doc);
                     List<CoreEntityMention> entityMentions = doc.entityMentions();
@@ -95,22 +92,35 @@ public class TripleBuilder {
                             entitySubset.getKey().setSubset(entitySubset.getValue());
                         }
 
+                        System.out.println(entitySubsets);
+
                         allTriples.addAll(
                             triples
                                 .stream()
                                 .map(t -> new Triple(tokensToEntity.get(t.subject), t.relationGloss(), tokensToEntity.get(t.object)))
-                                .flatMap(t -> t.buildAllTriples().stream())
                                 .filter(Triple::subjectAndObjectAreDifferent)
+                                .filter(Triple::notEmpty)
+                                .map(Triple::toString)
+                                .toList()
+                        );
+
+                        allTriples.addAll(
+                            entitySubsets
+                                .entrySet()
+                                .stream()
+                                .flatMap((entry) ->
+                                    entry
+                                        .getValue()
+                                        .stream()
+                                        .map((e) -> new Triple(e, "SUBSET:" + Triple.findRelation(entry.getKey(), e, e.getGraph()), entry.getKey()))
+                                )
                                 .filter(Triple::notEmpty)
                                 .map(Triple::toString)
                                 .toList()
                         );
                     }
                 }
-                writer = new FileWriter(targetFilename);
-                writer.write(allTriples.stream().distinct().collect(joining("\n")));
-                writer.close();
-                reader.close();
+                FileUtils.write(targetFile, allTriples.stream().distinct().collect(joining("\n")), "UTF-8");
             } catch (FileNotFoundException e) {
                 System.out.println("An error occurred.");
                 e.printStackTrace();
