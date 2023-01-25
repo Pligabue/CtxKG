@@ -13,7 +13,9 @@ from cli_args import MATCH, SIZE, CLEAN, RATIO, THRESHOLD
 
 def get_dirs(match):
     if match is None:
-        Tk().withdraw()
+        window = Tk()
+        window.withdraw()
+        window.attributes("-topmost", 1)
         directory = askdirectory(initialdir=RESULT_DIR)
         return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
