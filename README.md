@@ -1,3 +1,7 @@
+# Getting started
+
+Install all necessary dependencies by running `poetry install`.
+
 # Generating graphs
 
 ## Generate triples
@@ -30,4 +34,4 @@ To generate connections between different graphs, run `python build_bridges`. Th
 
 # Server
 
-After installing the Python dependencies (`pip install -r requirements.txt`), run the Flask server by running `flask run`.
+Start the Flask server by running `flask run`.
