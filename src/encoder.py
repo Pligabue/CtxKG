@@ -1,10 +1,10 @@
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras import Model
+from keras import Model
 from tensorflow_hub import KerasLayer
-import tensorflow_text as text
 
 from src.triple import Triple
+
 
 class Encoder:
     SEP_ID = 102
@@ -25,8 +25,8 @@ class Encoder:
         outputs = encoder(encoder_inputs)
 
         self.preprocessor: KerasLayer = preprocessor
-        self.sequence_model: Model = Model(text_input, outputs["sequence_output"])
-        self.cls_model: Model = Model(text_input, outputs["pooled_output"])
+        self.sequence_model: Model = Model(text_input, outputs["sequence_output"])  # type: ignore
+        self.cls_model: Model = Model(text_input, outputs["pooled_output"])  # type: ignore
 
     def build_entity_encodings(self, triples: list[Triple], batch_size=None):
         batch_size = batch_size or len(triples)
@@ -36,13 +36,16 @@ class Encoder:
             object_inputs = tf.constant([triple.object.text for triple in batch])
             triples_inputs = tf.constant([triple.to_text() for triple in batch])
 
-            triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)["input_word_ids"] == self.SEP_ID, axis=1)
-            subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)["input_word_ids"] == self.SEP_ID, axis=1)
-            object_start_indexes = triple_end_indexes - (np.argmax(self.preprocessor(object_inputs)["input_word_ids"] == self.SEP_ID, axis=1) - 1)
+            # type: ignore
+            triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)["input_word_ids"] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
+            subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)["input_word_ids"] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
+            object_input_lengths = np.argmax(self.preprocessor(object_inputs)["input_word_ids"] == self.SEP_ID, axis=1) - 1  # type: ignore  # noqa: E501
+            object_start_indexes = triple_end_indexes - object_input_lengths
 
             triple_encodings = self.sequence_model(triples_inputs)
 
-            for t_end, sub_end, obj_start, encoding, triple in zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings, batch):
+            triple_data = zip(triple_end_indexes, subject_end_indexes, object_start_indexes, triple_encodings, batch)  # type: ignore  # noqa: E501
+            for t_end, sub_end, obj_start, encoding, triple in triple_data:
                 base_subject_encoding = tf.reduce_mean(encoding[1:sub_end], 0)
                 base_object_encoding = tf.reduce_mean(encoding[obj_start:t_end], 0)
                 cls_encodings = encoding[0]
@@ -52,5 +55,5 @@ class Encoder:
 
                 triple.subject.add_encoding(subject_encoding)
                 triple.object.add_encoding(object_encoding)
-        
+
         return self
