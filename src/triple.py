@@ -2,7 +2,7 @@ from src.entity import Entity
 
 
 class Triple:
-    def __init__(self, subject=None, relation=None, object=None, confidence=1.0):
+    def __init__(self, subject: Entity, relation: str, object: Entity, confidence=1.0):
         self.subject: Entity = subject
         self.relation: str = relation
         self.object: Entity = object
