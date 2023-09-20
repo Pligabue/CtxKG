@@ -2,7 +2,7 @@ from src.entity import Entity
 
 
 class Link:
-    def __init__(self, entity_a=None, entity_b=None):
+    def __init__(self, entity_a: Entity, entity_b: Entity):
         self.entity_a: Entity = entity_a
         self.entity_b: Entity = entity_b
 
