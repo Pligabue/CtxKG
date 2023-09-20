@@ -1,15 +1,17 @@
 import tensorflow as tf
 
+from typing import Union
+
 
 class Entity:
     def __init__(self, id: str, text: str):
         self.id = id
         self.text = text
-        self.encoding = None
-        self.encoding_count = 0
+        self.encoding: Union[tf.Tensor, None] = None
+        self.encoding_count = tf.constant(0)
 
     def add_encoding(self, encoding):
-        if self.encoding_count == 0:
+        if self.encoding is None:
             self.encoding = encoding
         else:
             self.encoding = (self.encoding * self.encoding_count + encoding) / (self.encoding_count + 1)
