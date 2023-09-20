@@ -29,16 +29,16 @@ class Graph:
             df = pd.read_csv(f, sep=";", comment="#")
 
         for i, row in df.iterrows():
-            confidence: float = row["confidence"]  #type: ignore
-            subject_text: str = row["subject"]     #type: ignore
-            relation: str = row["relation"]        #type: ignore
-            object_text: str = row["object"]       #type: ignore
-            subject_id: str = row["subject_id"]    #type: ignore
-            object_id: str = row["object_id"]      #type: ignore
- 
+            confidence: float = row["confidence"]  # type: ignore
+            subject_text: str = row["subject"]     # type: ignore
+            relation: str = row["relation"]        # type: ignore
+            object_text: str = row["object"]       # type: ignore
+            subject_id: str = row["subject_id"]    # type: ignore
+            object_id: str = row["object_id"]      # type: ignore
+
             subject = graph.get_entity_by_id(subject_id, subject_text)
             object = graph.get_entity_by_id(object_id, object_text)
-            graph.add_triple(subject, relation, object, confidence=confidence) 
+            graph.add_triple(subject, relation, object, confidence=confidence)
 
         return graph
 
@@ -67,7 +67,7 @@ class Graph:
         if entity_id in self.entities:
             return self.entities[entity_id]
         return self.add_entity(entity_id, entity_text)
-    
+
     def add_encoder(self, encoder: Encoder):
         self.encoder = encoder
         return self
@@ -88,7 +88,13 @@ class Graph:
         return new_link
 
     def get_linked_entities(self, entity: Entity):
-        return [l.entity_a if l.entity_b is entity else l.entity_b for l in self.links if l.entity_a is entity or l.entity_b is entity]
+        linked_entities: list[Entity] = []
+        for link in self.links:
+            if link.entity_a is not entity and link.entity_b is not entity:
+                continue
+            linked_entity = link.entity_a if link.entity_b is entity else link.entity_b
+            linked_entities.append(linked_entity)  # type: ignore
+        return linked_entities
 
     def link_exists(self, entity_a: Entity, entity_b: Entity):
         return entity_b in self.get_linked_entities(entity_a)
@@ -115,12 +121,17 @@ class Graph:
                     self.add_link(entity, candidate_link)
         return self
 
+    def build_triple_json(self, triple: Triple):
+        return {"subject_id": triple.subject.id, "relation": triple.relation, "object_id": triple.object.id}
+
     def save_json(self, filepath: Union[str, Path]):
         graph_json = {
             "document": Path(self.filepath).resolve().as_posix(),
             "entities": {entity_id: entity.text for entity_id, entity in self.entities.items()},
-            "graph": [{"subject_id": triple.subject.id, "relation": triple.relation, "object_id": triple.object.id} for triple in self.triples],
-            "links": {entity_id: [linked_entity.id for linked_entity in self.get_linked_entities(entity)] for entity_id, entity in self.entities.items()}
+            "graph": [self.build_triple_json(t) for t in self.triples],
+            "links": {
+                e_id: [linked_e.id for linked_e in self.get_linked_entities(e)] for e_id, e in self.entities.items()
+            },
         }
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(graph_json, f, indent=2, ensure_ascii=False)
@@ -145,15 +156,18 @@ class Graph:
                 return triple
         return None
 
+    def get_entity_priority(self, entity: Entity):
+        return (entity.is_named_entity(), self.number_of_appearences(entity))
+
     def clean(self):
         entity_list = list(self.entities.values())
-        sorted_entities = sorted(entity_list, key=lambda entity: (entity.is_named_entity(), self.number_of_appearences(entity)), reverse=True)
+        sorted_entities = sorted(entity_list, key=self.get_entity_priority, reverse=True)
         for entity in entity_list:
             entity_pool = [entity] + self.get_linked_entities(entity)
             replacement = self.get_replacement(entity_pool, sorted_entities)
             if replacement and entity is not replacement:
                 self.replace_entity_in_triples(entity, replacement)
-                self.links = [link for link in self.links if link.entity_a is not entity and link.entity_b is not entity]
+                self.links = [l for l in self.links if l.entity_a is not entity and l.entity_b is not entity]
                 del self.entities[entity.id]
         self.remove_duplicates()
         self.remove_tripleless_entities()
@@ -180,7 +194,7 @@ class Graph:
         row_matches = {(row, column) for column, row in enumerate(np.argmax(similarity, axis=0))}
         column_matches = {(row, column) for row, column in enumerate(np.argmax(similarity, axis=1))}
         matches = {match for match in column_matches & row_matches if similarity[match[0], match[1]] > threshold}
-        
+
         for row, column in matches:
             e = entities[row]
             te = target_entities[column]
@@ -189,7 +203,5 @@ class Graph:
         matching_ids = set(self.entities.keys()) & set(target_graph.entities.keys())
         for matching_id in matching_ids:
             bridges[matching_id] = matching_id
-        
-        return bridges
-        
 
+        return bridges
