@@ -7,22 +7,26 @@ DOCUMENT_DIR = Path("documents")
 
 bp = Blueprint('graphs', __name__, url_prefix='/<result>/graphs')
 
+
 @bp.route("/base/", defaults={"version": "base"})
 @bp.route("/clean/", defaults={"version": "clean"})
 def index(result, version):
     graphs = (RESULT_DIR / result / version).glob("*.json")
-    return render_template("results/graphs/index.j2",
+    return render_template(
+        "results/graphs/index.j2",
         result=result,
         version=version,
         graphs=graphs,
         title=f"{version.capitalize()} Graphs"
     )
 
+
 @bp.route("/base/<graph>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/", defaults={"version": "clean"})
 def graph(result, version, graph):
     graph_path = RESULT_DIR / result / version / graph
-    return render_template("results/graphs/graph.j2",
+    return render_template(
+        "results/graphs/graph.j2",
         result=result,
         version=version,
         graph=graph,
@@ -31,12 +35,14 @@ def graph(result, version, graph):
         subtitle=f"{version.capitalize()} {graph_path.stem}"
     )
 
+
 @bp.route("/base/<graph>/json/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/json/", defaults={"version": "clean"})
 def graph_json(result, version, graph):
     graph = RESULT_DIR / result / version / graph
     with graph.open(encoding="utf-8") as f:
         return jsonify(json.load(f))
+
 
 @bp.route("/base/<graph>/bridges/<node>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/bridges/<node>/", defaults={"version": "clean"})
@@ -50,6 +56,7 @@ def node_bridges(result, version, graph, node):
                 bridges[target_graph] = target_graph_bridges[node]
     return jsonify(bridges)
 
+
 @bp.route("/base/<graph>/<node>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/<node>/", defaults={"version": "clean"})
 def expand_node(result, version, graph, node):
@@ -57,12 +64,19 @@ def expand_node(result, version, graph, node):
     with graph_path.open(encoding="utf-8") as f:
         graph = json.load(f)
         expanded_nodes = get_expanded_nodes(graph, node)
+
+        links = {}
+        for node, linked_nodes in graph["links"].items():
+            if node in expanded_nodes:
+                links[node] = [ln for ln in linked_nodes if ln in expanded_nodes]
+
         expanded_node_json = {
-            "entities": {entity_id: entity_label for entity_id, entity_label in graph["entities"].items() if entity_id in expanded_nodes},
+            "entities": {e_id: e_label for e_id, e_label in graph["entities"].items() if e_id in expanded_nodes},
             "graph": [triple for triple in graph["graph"] if triple["subject_id"] in expanded_nodes],
-            "links": {node: [linked_node for linked_node in linked_nodes if linked_node in expanded_nodes] for node, linked_nodes in graph["links"].items() if node in expanded_nodes}
+            "links": links,
         }
         return jsonify(expanded_node_json)
+
 
 def get_expanded_nodes(graph, initial_node):
     explored = set()
@@ -77,8 +91,9 @@ def get_expanded_nodes(graph, initial_node):
             new_entities.update(e_new_entities)
         entities.update(new_entities)
         explored.update(to_explore)
-    
+
     return entities
+
 
 @bp.route("/base/<graph>/document/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/document/", defaults={"version": "clean"})
