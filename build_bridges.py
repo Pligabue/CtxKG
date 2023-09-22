@@ -20,17 +20,20 @@ def get_dirs(match):
         return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
+
 def save_params(dir, size, ratio, threshold, match):
     with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
-        params = (f"BERT SIZE: {size}\n" \
-                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n" \
-                  f"THRESHOLD: {threshold}\n" \
+        params = (f"BERT SIZE: {size}\n"
+                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n"
+                  f"THRESHOLD: {threshold}\n"
                   f"FILE NAME MATCHING: {match}\n")
         f.write(params)
+
 
 def read_json(file):
     with open(file, "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 def get_existing_bridges(bridge_dir: Path, source_file: Path):
     bridge_file = bridge_dir / source_file.name
@@ -42,6 +45,7 @@ def get_existing_bridges(bridge_dir: Path, source_file: Path):
             bridges[target_file.name] = {value: key for key, value in target_bridges[source_file.name].items()}
     return bridges
 
+
 def main(match, size, clean, ratio, threshold):
     kg_dirs = get_dirs(match)
     encoder = Encoder(size=size, ratio=ratio)
@@ -51,7 +55,7 @@ def main(match, size, clean, ratio, threshold):
         bridge_dir = graph_dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
         save_params(bridge_dir, size, ratio, threshold, match)
-        
+
         graph_files = [file for file in graph_dir.glob("*.json")]
         for source_file in tqdm(graph_files):
             bridges = get_existing_bridges(bridge_dir, source_file)
@@ -63,6 +67,7 @@ def main(match, size, clean, ratio, threshold):
                     bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
             with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
                 json.dump(bridges, f, indent=2, ensure_ascii=False)
+
 
 if __name__ == "__main__":
     main(MATCH, SIZE, CLEAN, RATIO, THRESHOLD)
