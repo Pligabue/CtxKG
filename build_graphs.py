@@ -18,6 +18,7 @@ def get_target_dir(base_dir):
     directory = askdirectory(initialdir=base_dir)
     return Path(directory)
 
+
 def get_files(match):
     if match is None:
         Tk().withdraw()
@@ -27,16 +28,18 @@ def get_files(match):
         filepaths = list(TRIPLE_DIR.glob(match))
     return [f for f in filepaths if f.suffix == ".csv" and f.is_file()]
 
+
 def save_params(dir: Path, size, ratio, threshold, overwrite, match, name, batch_size):
     with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
-        params = (f"BERT SIZE: {size}\n" \
-                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n" \
-                  f"THRESHOLD: {threshold}\n" \
-                  f"OVERWRITE: {overwrite}\n" \
-                  f"FILE NAME MATCHING: {match}\n" \
-                  f"GROUP NAME: {name}\n" \
+        params = (f"BERT SIZE: {size}\n"
+                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n"
+                  f"THRESHOLD: {threshold}\n"
+                  f"OVERWRITE: {overwrite}\n"
+                  f"FILE NAME MATCHING: {match}\n"
+                  f"GROUP NAME: {name}\n"
                   f"ENCODING BATCH SIZE: {batch_size}\n")
         f.write(params)
+
 
 def main(size, ratio, threshold, overwrite, match, name, batch_size):
     files = get_files(match)
@@ -49,7 +52,7 @@ def main(size, ratio, threshold, overwrite, match, name, batch_size):
     base_dir.mkdir(exist_ok=True)
     errors_dir = base_dir / "errors"
     errors_dir.mkdir(exist_ok=True)
-    
+
     filtered_files = [f for f in files if overwrite or not (base_dir / f"{f.stem}.json").is_file()]
     sorted_files = sorted(filtered_files, key=lambda file: file.stat().st_size)
 
@@ -70,6 +73,7 @@ def main(size, ratio, threshold, overwrite, match, name, batch_size):
         f.write("\n".join(failed_files))
 
     return kg_dir
+
 
 if __name__ == "__main__":
     main(SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH)
