@@ -1,7 +1,4 @@
 import subprocess
-import requests
-from tqdm import tqdm
-from zipfile import ZipFile, BadZipFile
 
 from constants import DOCUMENT_DIR, OPEN_IE_DIR, OPEN_IE_JAR, TRIPLE_DIR
 
@@ -12,6 +9,7 @@ def setup_directories(reference_dir=DOCUMENT_DIR, target_dir=TRIPLE_DIR):
         target_subdir = target_dir / subdir.name
         target_subdir.mkdir(exist_ok=True)
         setup_directories(subdir, target_subdir)
+
 
 def build_triples():
     setup_directories()
