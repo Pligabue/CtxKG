@@ -15,6 +15,7 @@ def get_dirs(match):
         return [Path(directory)]
     return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
 
+
 def main(match):
     dirs = get_dirs(match)
 
@@ -23,11 +24,12 @@ def main(match):
         clean_dir = dir / "clean"
         clean_dir.mkdir(exist_ok=True)
         encoder = Encoder()
-        
+
         for file in base_dir.glob("*.json"):
             graph = Graph.from_json(file, encoder)
             graph.clean()
             graph.save_json(clean_dir / file.name)
+
 
 if __name__ == "__main__":
     main(MATCH)
