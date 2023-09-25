@@ -1,1 +1,1 @@
-The files containing the answers from the database go here.
+All documents that will be transformed into graphs go here.
