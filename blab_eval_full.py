@@ -4,10 +4,10 @@ import re
 import statistics
 from collections import Counter
 
-from constants import RESULT_DIR
+from src.ctxkg.builders.constants import GRAPH_DIR
 
 
-blab_dir = RESULT_DIR / "BLAB"
+blab_dir = GRAPH_DIR / "BLAB"
 base_dir = blab_dir / "base"
 clean_dir = blab_dir / "clean"
 bridge_dir = clean_dir / "bridges"
