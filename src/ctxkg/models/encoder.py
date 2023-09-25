@@ -3,7 +3,7 @@ import tensorflow as tf
 from keras import Model
 from tensorflow_hub import KerasLayer
 
-from src.triple import Triple
+from .triple import Triple
 
 
 class Encoder:

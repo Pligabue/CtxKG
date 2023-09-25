@@ -4,11 +4,10 @@ from tqdm import tqdm
 from tkinter import Tk
 from tkinter.filedialog import askopenfilenames, askdirectory
 
-from src.graph import Graph
-from src.encoder import Encoder
-
-from constants import TRIPLE_DIR, RESULT_DIR
-from cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
+from .cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
+from ..models.graph import Graph
+from ..models.encoder import Encoder
+from ...constants import TRIPLE_DIR, GRAPH_DIR
 
 
 def get_target_dir(base_dir):
@@ -44,7 +43,7 @@ def save_params(dir: Path, size, ratio, threshold, overwrite, match, name, batch
 def main(size, ratio, threshold, overwrite, match, name, batch_size):
     files = get_files(match)
 
-    kg_dir = RESULT_DIR / name if name else get_target_dir(RESULT_DIR)
+    kg_dir = GRAPH_DIR / name if name else get_target_dir(GRAPH_DIR)
     kg_dir.mkdir(exist_ok=True)
     save_params(kg_dir, size, ratio, threshold, overwrite, match, name, batch_size)
 

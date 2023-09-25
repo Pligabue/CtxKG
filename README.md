@@ -6,11 +6,11 @@ Install all necessary dependencies by running `poetry install`.
 
 ## Generate triples
 
-Once the documents are in the `documents` directory, `python build_triples.py` must be run in order to convert each document into a triple using OpenIE. The triples are stores in the `triples` directory.
+Once the documents are in the `documents` directory, `python -m src.ctxkg.builders.build_triples` must be run in order to convert each document into a triple using OpenIE. The triples are stores in the `triples` directory.
 
 ## Build knowledge graph
 
-With the generated triples, the building of the knowledge graph is done by running `python build_graphs.py`. This part uses a few CLI arguments:
+With the generated triples, the building of the knowledge graph is done by running `python -m src.ctxkg.builders.build_graphs`. This part uses a few CLI arguments:
 - `-t`/`--threshold`: the minimum cosine for two entities to be considered synonyms.
 - `-r`/`--ratio`: the ratio between the base entity encoding and the triple encoding for the generation of the final entity encoding.
 - `-o`/`--overwrite`: if the graphs generated in a previous run should be redone.
@@ -20,11 +20,11 @@ With the generated triples, the building of the knowledge graph is done by runni
 
 ## Clean graphs
 
-By running `python clean_graphs.py`, the previously generated graphs are cleaned, which means that synonyms are reduced into a single entity, the one among the synonyms that is the most recurring in the graph.
+By running `python -m src.ctxkg.builders.clean_graphs`, the previously generated graphs are cleaned, which means that synonyms are reduced into a single entity, the one among the synonyms that is the most recurring in the graph.
 
 ## Build bridges
 
-To generate connections between different graphs, run `python build_bridges`. This is by far the most time-consuming step, as all graphs are compared to each other. This part also uses CLI arguments:
+To generate connections between different graphs, run `python -m src.ctxkg.builders.build_bridges`. This is by far the most time-consuming step, as all graphs are compared to each other. This part also uses CLI arguments:
 - `-t`/`--threshold`: the minimum cosine for two entities to be considered synonyms.
 - `-r`/`--ratio`: the ratio between the base entity encoding and the triple encoding for the generation of the final entity encoding.
 - `-o`/`--overwrite`: if the bridges generated in a previous run should be redone.

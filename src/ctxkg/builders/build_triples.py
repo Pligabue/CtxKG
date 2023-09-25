@@ -1,6 +1,7 @@
 import subprocess
 
-from constants import DOCUMENT_DIR, OPEN_IE_DIR, OPEN_IE_JAR, TRIPLE_DIR
+from .constants import OPEN_IE_DIR, OPEN_IE_JAR
+from ...constants import DOCUMENT_DIR, TRIPLE_DIR
 
 
 def setup_directories(reference_dir=DOCUMENT_DIR, target_dir=TRIPLE_DIR):

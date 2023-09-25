@@ -2,18 +2,18 @@ from pathlib import Path
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
 
-from src.graph import Graph
-from src.encoder import Encoder
-from constants import RESULT_DIR
-from cli_args import MATCH
+from .cli_args import MATCH
+from ..models.graph import Graph
+from ..models.encoder import Encoder
+from ...constants import GRAPH_DIR
 
 
 def get_dirs(match):
     if match is None:
         Tk().withdraw()
-        directory = askdirectory(initialdir=RESULT_DIR)
+        directory = askdirectory(initialdir=GRAPH_DIR)
         return [Path(directory)]
-    return [path for path in RESULT_DIR.glob(match) if path.is_dir()]
+    return [path for path in GRAPH_DIR.glob(match) if path.is_dir()]
 
 
 def main(match):

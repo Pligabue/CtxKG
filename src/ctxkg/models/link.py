@@ -1,4 +1,4 @@
-from src.entity import Entity
+from .entity import Entity
 
 
 class Link:

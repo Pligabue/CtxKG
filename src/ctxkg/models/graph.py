@@ -6,10 +6,10 @@ import json
 from pathlib import Path
 import re
 
-from src.encoder import Encoder
-from src.entity import Entity
-from src.triple import Triple
-from src.link import Link
+from .encoder import Encoder
+from .entity import Entity
+from .triple import Triple
+from .link import Link
 
 
 class Graph:
