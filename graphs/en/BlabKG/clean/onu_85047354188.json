@@ -1,0 +1,248 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85047354188.txt",
+  "entities": {
+    "f6a07423-b312-4355-bf91-78e2c50897f3-study-2": "study",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7": "analysis",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24": "positioned",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-wells-9-samples-10": "wells samples",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-composed-30": "composed",
+    "NE-PERSON-Shales": "Shales",
+    "NE-TITLE-marine": "marine",
+    "NE-ORGANIZATION-Trombetas-Group": "Trombetas Group",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-awarded-14": "awarded",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-palynological-6": "palynological",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-stratigraphically-23": "stratigraphically",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4": "short glacial episodes",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6": "recorded",
+    "NE-MISC-Silurian": "Silurian",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sequence-10": "sequence",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Three-1": "Three",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Nhamundá-18-Formation-19": "Nhamundá Formation",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sedimentary-9": "sedimentary",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-register-5": "register",
+    "NE-LOCATION-Deunffia": "Deunffia",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-diversity-12": "diversity",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-distribution-9": "distribution",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8": "they distribution time occurrence",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-dating-17": "dating",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-geographical-3": "geographical",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sharp-16": "sharp",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22": "sequences",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-worldwide-15": "worldwide",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-wide-2": "wide",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Their-1-wide-2-geographical-3-distribution-4-time-7-occurrence-8": "Their wide geographical distribution time occurrence",
+    "f6a07423-b312-4355-bf91-78e2c50897f3-interval-12": "interval"
+  },
+  "graph": [
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-study-2",
+      "relation": "refers to",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-study-2",
+      "relation": "has",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7",
+      "relation": "of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-wells-9-samples-10"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-composed-30"
+    },
+    {
+      "subject_id": "NE-PERSON-Shales",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Trombetas-Group"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-awarded-14"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-palynological-6"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24",
+      "relation": "at",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-stratigraphically-23"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4",
+      "relation": "are",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6",
+      "relation": "at",
+      "object_id": "NE-MISC-Silurian"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6",
+      "relation": "at",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequence-10"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4",
+      "relation": "are recorded during",
+      "object_id": "NE-MISC-Silurian"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4",
+      "relation": "amount to",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-Three-1"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6",
+      "relation": "at",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-Nhamundá-18-Formation-19"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4",
+      "relation": "are recorded in",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequence-10"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4",
+      "relation": "are recorded on",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-Nhamundá-18-Formation-19"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequence-10",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sedimentary-9"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-study-2",
+      "relation": "objective",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-register-5"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-register-5",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-stratigraphically-23"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-register-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Deunffia"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-register-5",
+      "relation": "of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-diversity-12"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-register-5",
+      "relation": "of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-distribution-9"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "provide",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-dating-17"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-geographical-3"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-dating-17",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sharp-16"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "sharp dating of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-dating-17",
+      "relation": "at",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-worldwide-15"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "worldwide sharp dating of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "is",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-wide-2"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-Their-1-wide-2-geographical-3-distribution-4-time-7-occurrence-8",
+      "relation": "is in",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-interval-12"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-interval-12",
+      "relation": "is",
+      "object_id": "NE-MISC-Silurian"
+    },
+    {
+      "subject_id": "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8",
+      "relation": "dating of",
+      "object_id": "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22"
+    }
+  ],
+  "links": {
+    "f6a07423-b312-4355-bf91-78e2c50897f3-study-2": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-analysis-7": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-positioned-24": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-wells-9-samples-10": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-composed-30": [],
+    "NE-PERSON-Shales": [],
+    "NE-TITLE-marine": [],
+    "NE-ORGANIZATION-Trombetas-Group": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-awarded-14": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-palynological-6": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-stratigraphically-23": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-short-2-glacial-3-episodes-4": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-recorded-6": [],
+    "NE-MISC-Silurian": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sequence-10": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Three-1": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Nhamundá-18-Formation-19": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sedimentary-9": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-register-5": [],
+    "NE-LOCATION-Deunffia": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-diversity-12": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-distribution-9": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-they-38-distribution-4-time-7-occurrence-8": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-dating-17": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-geographical-3": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sharp-16": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-sequences-22": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-worldwide-15": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-wide-2": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-Their-1-wide-2-geographical-3-distribution-4-time-7-occurrence-8": [],
+    "f6a07423-b312-4355-bf91-78e2c50897f3-interval-12": []
+  }
+}

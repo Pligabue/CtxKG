@@ -1,0 +1,623 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84857324711.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31": "pressure",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6": "success",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13": "5,000 meters",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-33": "their",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completed-60": "completed",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-58": "wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-54-mode-55": "production mode",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-34": "high",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-90's-3": "90's",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-productivity-35-wells-36": "productivity wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15-production-16-rates-17-between-18-80-19-to-20-120-21-MMSCFD-22-of-23-production-24": "high production rates between 80 to 120 MMSCFD of production",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-difficulty-46": "difficulty",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10": "drilling wells deeper",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-when-49": "when",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-24": "production",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9": "drilling wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-80-19-to-20-120-21-MMSCFD-22": "80 to 120 MMSCFD",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15": "high",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-16-rates-17": "production rates",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-running-50-gauges-51": "running gauges",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-deeper-10": "deeper",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4": "decision",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-made-6": "made",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1": "Therefore",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-proven-20": "proven",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11": "gauges",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-27-optics-28": "fiber optics",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-electronic-10": "electronic",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-downhole-14": "downhole",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-permanent-9": "permanent",
+    "NE-CITY-San-Antonio": "San Antonio",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-objective-3": "objective",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-7-pressure-9": "time pressure",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-real-6": "real",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15": "they",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-28": "technology",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-sensing-27": "sensing",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-workovers-20": "workovers",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optical-26": "optical",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-19": "next",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-23": "wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-13": "wells",
+    "NE-ORGANIZATION-Weatherford-International": "Weatherford International",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-specifications-2": "specifications",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-required-4": "required",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15-bid-8": "they bid",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-assigned-15": "assigned",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-12": "four",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-7": "next",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6": "technology",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32": "surface equipment connections",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-11-wells-12": "four wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fields-20": "fields",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28": "problems",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-only-25": "only",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-3": "time",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-small-27": "small",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-all-16-new-19-wells-20": "all new wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27": "technology",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-year-9": "year",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-last-8": "last",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-18": "their",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-2": "decision",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completion-17-wells-18": "completion wells",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-10-downhole-12-flowmeters-13": "fiber downhole flowmeters",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-intelligent-16": "intelligent",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optic-11": "optic",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-taken-4": "taken",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-one-5-step-6-further-7": "one step further",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-use-2": "use",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20": "time",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-PanSystem-11": "PanSystem",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-online-10": "online",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-testing-22": "testing",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-test-14-analysis-15-software-16": "test analysis software",
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-5": "technology"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "continuously measure",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "decided after",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-33",
+      "relation": "experienced",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completed-60"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-58",
+      "relation": "gauges in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-54-mode-55"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-34"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "decided In",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-90's-3"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-58",
+      "relation": "were",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completed-60"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "measure",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-33",
+      "relation": "has",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-productivity-35-wells-36"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13",
+      "relation": "is with",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15-production-16-rates-17-between-18-80-19-to-20-120-21-MMSCFD-22-of-23-production-24"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-33",
+      "relation": "experienced because",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-difficulty-46"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "is in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15-production-16-rates-17-between-18-80-19-to-20-120-21-MMSCFD-22-of-23-production-24"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-58",
+      "relation": "running gauges in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-54-mode-55"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completed-60",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-when-49"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-24"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-80-19-to-20-120-21-MMSCFD-22"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-16-rates-17"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-running-50-gauges-51",
+      "relation": "is in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-54-mode-55"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-deeper-10"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4",
+      "relation": "was",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-made-6"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-made-6",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4",
+      "relation": "was",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-proven-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11",
+      "relation": "obtain pressure",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-27-optics-28"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4",
+      "relation": "use",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-electronic-10"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11",
+      "relation": "obtain",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11",
+      "relation": "obtain pressure",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-downhole-14"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4",
+      "relation": "was",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-proven-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-permanent-9"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-11-wells-12",
+      "relation": "is in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fields-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fields-20",
+      "relation": "of",
+      "object_id": "NE-CITY-San-Antonio"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-objective-3",
+      "relation": "have",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-7-pressure-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-objective-3"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-7-pressure-9",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-real-6"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15",
+      "relation": "use",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-28"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-28",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-sensing-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15",
+      "relation": "planned for",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-workovers-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-28",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optical-26"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-workovers-20",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-19"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-7-pressure-9",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-downhole-14"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-23"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-workovers-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15",
+      "relation": "use technology instead",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-13",
+      "relation": "were assigned to",
+      "object_id": "NE-ORGANIZATION-Weatherford-International"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-specifications-2",
+      "relation": "were",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-required-4"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-specifications-2",
+      "relation": "were required on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15-bid-8"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-13",
+      "relation": "were",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-assigned-15"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-13",
+      "relation": "amount to",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-12"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15-bid-8",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-7"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "been problems on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "is working in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-11-wells-12"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "only been small problems on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "been small problems on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-11-wells-12",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fields-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "been",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-only-25"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "is working Since",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-3"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6",
+      "relation": "only been problems on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-small-27"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "implement technology in",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-all-16-new-19-wells-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-only-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "implement technology",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "decided at_time",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-year-9"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-year-9",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-last-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "implement",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optical-26"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-sensing-27"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-18",
+      "relation": "has",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-all-16-new-19-wells-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-2",
+      "relation": "install fiber downhole flowmeters on",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completion-17-wells-18"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-2",
+      "relation": "install",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-10-downhole-12-flowmeters-13"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completion-17-wells-18",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-intelligent-16"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-10-downhole-12-flowmeters-13",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optic-11"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-2",
+      "relation": "was",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-taken-4"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-taken-4",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-one-5-step-6-further-7"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-use-2",
+      "relation": "enables",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-use-2",
+      "relation": "complemented with",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-PanSystem-11"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-use-2",
+      "relation": "at",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-PanSystem-11",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-online-10"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-testing-22"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-PanSystem-11",
+      "relation": "of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-test-14-analysis-15-software-16"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20",
+      "relation": "is",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-real-6"
+    },
+    {
+      "subject_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20",
+      "relation": "use of",
+      "object_id": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-5"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-pressure-31": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-success-6": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-33": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completed-60": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-58": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-54-mode-55": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-34": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-90's-3": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-productivity-35-wells-36": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15-production-16-rates-17-between-18-80-19-to-20-120-21-MMSCFD-22-of-23-production-24": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-difficulty-46": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-when-49": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-24": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-80-19-to-20-120-21-MMSCFD-22": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-15": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-production-16-rates-17": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-running-50-gauges-51": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-deeper-10": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-made-6": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-proven-20": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-gauges-11": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-27-optics-28": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-electronic-10": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-downhole-14": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-permanent-9": [],
+    "NE-CITY-San-Antonio": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-objective-3": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-7-pressure-9": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-real-6": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-28": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-sensing-27": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-workovers-20": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optical-26": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-19": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-23": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-wells-13": [],
+    "NE-ORGANIZATION-Weatherford-International": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-specifications-2": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-required-4": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-they-15-bid-8": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-assigned-15": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-12": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-next-7": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-6": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-four-11-wells-12": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fields-20": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-only-25": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-3": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-small-27": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-all-16-new-19-wells-20": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-27": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-year-9": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-last-8": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-their-18": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-2": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-completion-17-wells-18": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-fiber-10-downhole-12-flowmeters-13": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-intelligent-16": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-optic-11": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-taken-4": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-one-5-step-6-further-7": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-use-2": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-time-20": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-PanSystem-11": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-online-10": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-testing-22": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-test-14-analysis-15-software-16": [],
+    "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-technology-5": []
+  }
+}

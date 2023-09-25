@@ -1,0 +1,114 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85095886757.txt",
+  "entities": {
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-work-2": "work",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-port-13": "port",
+    "NE-LOCATION-Vitória": "Vitória",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-research-4-evaluation-5": "research evaluation",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-system-9": "system",
+    "NE-CITY-Santa-Maria": "Santa Maria",
+    "NE-LOCATION-Espírito-Santo--": "Espírito Santo -",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-bay-26": "bay",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-estuarine-8": "estuarine",
+    "NE-PERSON-Bubu": "Bubu",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-Espírito-15-Santo-16": "Espírito Santo",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-evaluation-5": "evaluation",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-analyses-20": "analyses",
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-physical-13": "physical"
+  },
+  "graph": [
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-work-2",
+      "relation": "propose research evaluation in",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-port-13"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "has",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-port-13"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-work-2",
+      "relation": "propose",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-research-4-evaluation-5"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-research-4-evaluation-5",
+      "relation": "of",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-system-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "is",
+      "object_id": "NE-CITY-Santa-Maria"
+    },
+    {
+      "subject_id": "NE-LOCATION-Espírito-Santo--",
+      "relation": "is port of",
+      "object_id": "NE-LOCATION-Vitória"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "on",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-bay-26"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-research-4-evaluation-5",
+      "relation": "is",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-estuarine-8"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "is",
+      "object_id": "NE-PERSON-Bubu"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-work-2",
+      "relation": "propose research evaluation in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-Espírito-15-Santo-16"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "'s port is",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-LOCATION-Vitória",
+      "relation": "in",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-port-13"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-evaluation-5",
+      "relation": "used for",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-analyses-20"
+    },
+    {
+      "subject_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-analyses-20",
+      "relation": "is",
+      "object_id": "1edc4e88-1827-492e-afa5-bfc84ccab13a-physical-13"
+    }
+  ],
+  "links": {
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-work-2": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-port-13": [],
+    "NE-LOCATION-Vitória": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-research-4-evaluation-5": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-system-9": [],
+    "NE-CITY-Santa-Maria": [],
+    "NE-LOCATION-Espírito-Santo--": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-bay-26": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-estuarine-8": [],
+    "NE-PERSON-Bubu": [],
+    "NE-COUNTRY-Brazil": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-Espírito-15-Santo-16": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-evaluation-5": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-analyses-20": [],
+    "1edc4e88-1827-492e-afa5-bfc84ccab13a-physical-13": []
+  }
+}

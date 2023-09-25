@@ -1,0 +1,219 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85037590262.txt",
+  "entities": {
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-3": "bay",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pristine-17": "pristine",
+    "NE-MISC-Camamu": "Camamu",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-region-18": "region",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3": "study",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-overview-7": "overview",
+    "NE-DATE-present": "present",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-characteristics-11": "characteristics",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-oceanographic-10": "oceanographic",
+    "NE-ORDINAL-first": "first",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-significant-26-temporal-27-variability-28": "significant temporal variability",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-hydrology-31": "hydrology",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-influence-36": "influence",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-dry-39-period-40": "dry period",
+    "NE-TITLE-marine": "marine",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-strong-34": "strong",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pronounced-43-runoff-44-signature-45": "pronounced runoff signature",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-wet-48-season-49": "wet season",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2": "Serinhaém channel",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7": "section",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-northern-6": "northern",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14": "mixed",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-10": "bay",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17": "tides",
+    "NE-DATE-spring": "spring",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-well-13": "well",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-neap-22-tides-23": "neap tides",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-depuration-2-capability-3": "depuration capability",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-controlled-9": "controlled",
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-seasonally-8": "seasonally"
+  },
+  "graph": [
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-3",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pristine-17"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-3",
+      "relation": "of",
+      "object_id": "NE-MISC-Camamu"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-3",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-region-18"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "provides",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-overview-7"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "of",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-characteristics-11"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-oceanographic-10"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+      "relation": "provides",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-overview-7"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-overview-7",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-significant-26-temporal-27-variability-28",
+      "relation": "is in",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-hydrology-31"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-influence-36",
+      "relation": "is in",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-dry-39-period-40"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-influence-36",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-influence-36",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-strong-34"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pronounced-43-runoff-44-signature-45",
+      "relation": "is in",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-wet-48-season-49"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "is mixed in",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-northern-6"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7",
+      "relation": "of",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-10"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14",
+      "relation": "at",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "is mixed during",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17",
+      "relation": "of",
+      "object_id": "NE-DATE-spring"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "is well mixed in",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14",
+      "relation": "at",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-well-13"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "mixed during",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-neap-22-tides-23"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14",
+      "relation": "at",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "partially mixed during",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-neap-22-tides-23"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2",
+      "relation": "is well mixed during",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-depuration-2-capability-3",
+      "relation": "is",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-controlled-9"
+    },
+    {
+      "subject_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-controlled-9",
+      "relation": "at",
+      "object_id": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-seasonally-8"
+    }
+  ],
+  "links": {
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-3": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pristine-17": [],
+    "NE-MISC-Camamu": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-region-18": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-overview-7": [],
+    "NE-DATE-present": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-characteristics-11": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-oceanographic-10": [],
+    "NE-ORDINAL-first": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-significant-26-temporal-27-variability-28": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-hydrology-31": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-influence-36": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-dry-39-period-40": [],
+    "NE-TITLE-marine": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-strong-34": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-pronounced-43-runoff-44-signature-45": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-wet-48-season-49": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-Serinhaém-1-channel-2": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-section-7": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-northern-6": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-mixed-14": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-bay-10": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-tides-17": [],
+    "NE-DATE-spring": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-well-13": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-neap-22-tides-23": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-depuration-2-capability-3": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-controlled-9": [],
+    "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-seasonally-8": []
+  }
+}

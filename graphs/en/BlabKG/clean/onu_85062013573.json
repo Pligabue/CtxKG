@@ -1,0 +1,387 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85062013573.txt",
+  "entities": {
+    "28afef62-c426-44a2-9215-bf6b45551070-expansion-3": "expansion",
+    "28afef62-c426-44a2-9215-bf6b45551070-deep-8-waters-9": "deep waters",
+    "28afef62-c426-44a2-9215-bf6b45551070-data-3": "data",
+    "28afef62-c426-44a2-9215-bf6b45551070-period-7": "period",
+    "28afef62-c426-44a2-9215-bf6b45551070-environmental-2": "environmental",
+    "NE-DURATION-6-years": "6 years",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "28afef62-c426-44a2-9215-bf6b45551070-system-29": "system",
+    "NE-DATE-2004": "2004",
+    "NE-DATE-2009": "2009",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "28afef62-c426-44a2-9215-bf6b45551070-equilibrium-25-positions-26": "equilibrium positions",
+    "28afef62-c426-44a2-9215-bf6b45551070-Using-1": "Using",
+    "28afef62-c426-44a2-9215-bf6b45551070-forces-6": "forces",
+    "28afef62-c426-44a2-9215-bf6b45551070-calculated-8": "calculated",
+    "28afef62-c426-44a2-9215-bf6b45551070-static-5": "static",
+    "28afef62-c426-44a2-9215-bf6b45551070-hydrodynamic-2": "hydrodynamic",
+    "28afef62-c426-44a2-9215-bf6b45551070-effects-2": "effects",
+    "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12": "taken by safety margins",
+    "28afef62-c426-44a2-9215-bf6b45551070-operational-15": "operational",
+    "28afef62-c426-44a2-9215-bf6b45551070-account-8": "account",
+    "28afef62-c426-44a2-9215-bf6b45551070-Dynamic-1": "Dynamic",
+    "28afef62-c426-44a2-9215-bf6b45551070-sectors-16": "sectors",
+    "28afef62-c426-44a2-9215-bf6b45551070-adding-10": "adding",
+    "28afef62-c426-44a2-9215-bf6b45551070-we-5": "we",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "28afef62-c426-44a2-9215-bf6b45551070-operation-14": "operation",
+    "28afef62-c426-44a2-9215-bf6b45551070-analysis-3": "analysis",
+    "28afef62-c426-44a2-9215-bf6b45551070-heading-9": "heading",
+    "28afef62-c426-44a2-9215-bf6b45551070-offloading-13": "offloading",
+    "28afef62-c426-44a2-9215-bf6b45551070-expected-17-downtime-18": "expected downtime",
+    "28afef62-c426-44a2-9215-bf6b45551070-downtime-5": "downtime",
+    "28afef62-c426-44a2-9215-bf6b45551070-that-18": "that",
+    "28afef62-c426-44a2-9215-bf6b45551070-dynamic-21": "dynamic",
+    "NE-TITLE-tanker": "tanker",
+    "28afef62-c426-44a2-9215-bf6b45551070-shuttle-26": "shuttle",
+    "28afef62-c426-44a2-9215-bf6b45551070-positioned-22": "positioned",
+    "28afef62-c426-44a2-9215-bf6b45551070-results-4": "results",
+    "28afef62-c426-44a2-9215-bf6b45551070-set-15": "set",
+    "28afef62-c426-44a2-9215-bf6b45551070-rules-17": "rules",
+    "28afef62-c426-44a2-9215-bf6b45551070-four-24-classes-25": "four classes",
+    "28afef62-c426-44a2-9215-bf6b45551070-simplified-14": "simplified",
+    "28afef62-c426-44a2-9215-bf6b45551070-operational-27": "operational",
+    "28afef62-c426-44a2-9215-bf6b45551070-used-10": "used",
+    "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1": "Furthermore",
+    "28afef62-c426-44a2-9215-bf6b45551070-conditions-22": "conditions",
+    "28afef62-c426-44a2-9215-bf6b45551070-environmental-21": "environmental",
+    "28afef62-c426-44a2-9215-bf6b45551070-risk-28": "risk",
+    "NE-TITLE-operator": "operator",
+    "28afef62-c426-44a2-9215-bf6b45551070-risk-24-level-25": "risk level",
+    "28afef62-c426-44a2-9215-bf6b45551070-method-2": "method",
+    "28afef62-c426-44a2-9215-bf6b45551070-rules-5": "rules",
+    "28afef62-c426-44a2-9215-bf6b45551070-practical-4": "practical"
+  },
+  "graph": [
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-expansion-3",
+      "relation": "is in",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-deep-8-waters-9"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "collected over",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-period-7"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-environmental-2"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-period-7",
+      "relation": "of",
+      "object_id": "NE-DURATION-6-years"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "collected from",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "positions of",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-system-29"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "collected from",
+      "object_id": "NE-DATE-2004"
+    },
+    {
+      "subject_id": "NE-DATE-2004",
+      "relation": "at",
+      "object_id": "NE-DATE-2009"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "collected from",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-equilibrium-25-positions-26"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-data-3",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-Using-1"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is from",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "in Basin is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-equilibrium-25-positions-26"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-equilibrium-25-positions-26",
+      "relation": "of",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-system-29"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-forces-6",
+      "relation": "were",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-calculated-8"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-forces-6",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-static-5"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-forces-6",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-hydrodynamic-2"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-effects-2",
+      "relation": "are",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-operational-15"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12",
+      "relation": "at",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-account-8"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-effects-2",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-Dynamic-1"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12",
+      "relation": "of",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-sectors-16"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-adding-10"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-we-5",
+      "relation": "calculated",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "at",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-operation-14"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-we-5",
+      "relation": "calculated With",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-analysis-3"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "probabilities during",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-operation-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-heading-9"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-operation-14",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-offloading-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "heading probabilities during",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-operation-14"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-expected-17-downtime-18",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-downtime-5",
+      "relation": "is close",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-that-18"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-that-18",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-dynamic-21"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-that-18",
+      "relation": "at",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-that-18",
+      "relation": "case",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-shuttle-26"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-that-18",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-positioned-22"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-downtime-5",
+      "relation": "is with",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-results-4",
+      "relation": "generate",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-set-15"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-set-15",
+      "relation": "of",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-rules-17"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-set-15",
+      "relation": "classify conditions into",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-four-24-classes-25"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-set-15",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-simplified-14"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-four-24-classes-25",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-operational-27"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-results-4",
+      "relation": "were",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-used-10"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-used-10",
+      "relation": "at",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-set-15",
+      "relation": "classify",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-conditions-22"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-conditions-22",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-environmental-21"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-four-24-classes-25",
+      "relation": "of",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-risk-28"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "evaluate",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-risk-24-level-25"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-method-2",
+      "relation": "obtains",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-rules-5"
+    },
+    {
+      "subject_id": "28afef62-c426-44a2-9215-bf6b45551070-rules-5",
+      "relation": "is",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-practical-4"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "quickly evaluate",
+      "object_id": "28afef62-c426-44a2-9215-bf6b45551070-risk-24-level-25"
+    }
+  ],
+  "links": {
+    "28afef62-c426-44a2-9215-bf6b45551070-expansion-3": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-deep-8-waters-9": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-data-3": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-period-7": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-environmental-2": [],
+    "NE-DURATION-6-years": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-system-29": [],
+    "NE-DATE-2004": [],
+    "NE-DATE-2009": [],
+    "NE-COUNTRY-Brazil": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-equilibrium-25-positions-26": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-Using-1": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-forces-6": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-calculated-8": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-static-5": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-hydrodynamic-2": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-effects-2": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-taken-6-by-9-safety-11-margins-12": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-operational-15": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-account-8": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-Dynamic-1": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-sectors-16": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-adding-10": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-we-5": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-operation-14": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-analysis-3": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-heading-9": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-offloading-13": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-expected-17-downtime-18": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-downtime-5": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-that-18": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-dynamic-21": [],
+    "NE-TITLE-tanker": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-shuttle-26": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-positioned-22": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-results-4": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-set-15": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-rules-17": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-four-24-classes-25": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-simplified-14": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-operational-27": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-used-10": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-conditions-22": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-environmental-21": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-risk-28": [],
+    "NE-TITLE-operator": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-risk-24-level-25": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-method-2": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-rules-5": [],
+    "28afef62-c426-44a2-9215-bf6b45551070-practical-4": []
+  }
+}

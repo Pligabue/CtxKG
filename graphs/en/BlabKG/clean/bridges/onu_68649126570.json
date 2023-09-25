@@ -1,0 +1,2044 @@
+{
+  "onu_10228776.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "8ccf6711-4359-43f1-af56-bff91be221df-about-7-200,000-8-km-9-2-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_11244281653.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "573197e7-feeb-4bf7-8fc7-347e79223db7-water-8-production-10-systems-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "573197e7-feeb-4bf7-8fc7-347e79223db7-Marlim-5-South-6-3-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "573197e7-feeb-4bf7-8fc7-347e79223db7-equally-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "573197e7-feeb-4bf7-8fc7-347e79223db7-also-11"
+  },
+  "onu_14467639.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-120-47",
+    "NE-PERCENT-8%": "NE-PERCENT-8%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-39,000-59-bpd-60",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_14928592.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "94267b10-5a2b-4a17-9107-d48195781271-petroleum-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "94267b10-5a2b-4a17-9107-d48195781271-water-10"
+  },
+  "onu_1642522078.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-will-4-developed-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-round-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-Thermal-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_16964104.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-45,000-8-d-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_17044389842.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-4.5-12-million-13-cu-14-m-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-19"
+  },
+  "onu_17144436283.json": {},
+  "onu_17344364742.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "9904aa2e-63e4-415c-ba81-2791b35da710-oil-22-production-23",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "9904aa2e-63e4-415c-ba81-2791b35da710-construction-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2": "9904aa2e-63e4-415c-ba81-2791b35da710-P-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "9904aa2e-63e4-415c-ba81-2791b35da710-43-4",
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "9904aa2e-63e4-415c-ba81-2791b35da710-10,380-5-bpd-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "9904aa2e-63e4-415c-ba81-2791b35da710-Initial-1",
+    "NE-MISC-P-51": "9904aa2e-63e4-415c-ba81-2791b35da710-P-2-48-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "9904aa2e-63e4-415c-ba81-2791b35da710-part-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "9904aa2e-63e4-415c-ba81-2791b35da710-17-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "9904aa2e-63e4-415c-ba81-2791b35da710-Marlim-25-basin-26",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "9904aa2e-63e4-415c-ba81-2791b35da710-200,000-11-bpd-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "9904aa2e-63e4-415c-ba81-2791b35da710-oil-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "9904aa2e-63e4-415c-ba81-2791b35da710-to-20",
+    "NE-PERCENT-75%": "NE-PERCENT-80%",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-DATE-2010": "NE-DATE-2010"
+  },
+  "onu_1842589247.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "86ce1fc3-c8bf-4c6a-a95c-3d6327b9cd9e-Foreign-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "NE-MONEY-1.22-million-bpd",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "86ce1fc3-c8bf-4c6a-a95c-3d6327b9cd9e-40.8-5-million-6-cu-7-m-8",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "86ce1fc3-c8bf-4c6a-a95c-3d6327b9cd9e-165,000-6-bpd-7"
+  },
+  "onu_18944382016.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Sul-Field",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "fb88d818-da09-4532-84e1-3afecd911792-8-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "fb88d818-da09-4532-84e1-3afecd911792-intelligent-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "fb88d818-da09-4532-84e1-3afecd911792-injection-9-water-11-allocation-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "fb88d818-da09-4532-84e1-3afecd911792-proper-8"
+  },
+  "onu_19586421.json": {},
+  "onu_20736039.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "3438050d-cee3-466a-9e1e-e47ae7b903bf-maximum-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3438050d-cee3-466a-9e1e-e47ae7b903bf-to-18"
+  },
+  "onu_21575939.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin"
+  },
+  "onu_2342418572.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_2342623297.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-oil-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-11,000-6-million-7-boe-8",
+    "NE-PERCENT-8%": "NE-PERCENT-11%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-76-5",
+    "NE-DURATION-day": "NE-DURATION-day"
+  },
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "738463bf-612b-462d-abc4-dde0497711de-basin-38",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "738463bf-612b-462d-abc4-dde0497711de-to-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "738463bf-612b-462d-abc4-dde0497711de-100,000-8-bpd-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "738463bf-612b-462d-abc4-dde0497711de-gas-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "738463bf-612b-462d-abc4-dde0497711de-will-3-able-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "738463bf-612b-462d-abc4-dde0497711de-87-14-million-15-cu-16-ft-17"
+  },
+  "onu_24044508291.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "172d53b1-9917-4393-8895-7e062ea5429d-Norway-11-Etesco-13-Construção-14-e-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "172d53b1-9917-4393-8895-7e062ea5429d-will-3-able-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "172d53b1-9917-4393-8895-7e062ea5429d-30,000-8-bpd-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "172d53b1-9917-4393-8895-7e062ea5429d-3.6-15-million-16-cu-17-m-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "172d53b1-9917-4393-8895-7e062ea5429d-oil-12",
+    "NE-PERCENT-75%": "NE-PERCENT-25%",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24050293.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-construction-27-job-28",
+    "NE-PERSON-Campos": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-Campos-32-basin-33",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-M-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_242694501.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15"
+  },
+  "onu_24662461.json": {
+    "NE-PERSON-Campos": "a33dbe39-f837-43e6-a660-479c5769090b-Campos-38-basin-39"
+  },
+  "onu_24769642.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "42f39395-5b68-4c17-9005-43fdaf9b688d-15-6",
+    "NE-PERCENT-75%": "NE-PERCENT-62%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+    "NE-PERSON-Campos": "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24867907.json": {},
+  "onu_25054779.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b6760bbe-1162-413a-a31a-0d8e00367ea3-also-12"
+  },
+  "onu_25144481375.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-continental-20"
+  },
+  "onu_25444510078.json": {},
+  "onu_26244445255.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "56ff964f-2871-425b-84b1-fb6ad329d9e9-will-3-implementation-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "56ff964f-2871-425b-84b1-fb6ad329d9e9-gas-14-injection-15-plant-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "56ff964f-2871-425b-84b1-fb6ad329d9e9-3.6-18-million-19-cu-20-m-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "56ff964f-2871-425b-84b1-fb6ad329d9e9-30,000-5-bpd-6",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_26850121.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-will-64-drilled-66"
+  },
+  "onu_27744595461.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "aaaef65d-ece5-45c4-84f7-99c65719921a-also-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "aaaef65d-ece5-45c4-84f7-99c65719921a-projected-30"
+  },
+  "onu_30311937.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "007fd580-5ecb-4536-a243-38b5370a241f-Subsequently-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Field",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "007fd580-5ecb-4536-a243-38b5370a241f-will-4-connected-6"
+  },
+  "onu_30706349.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-oil-4-exploration-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-to-13"
+  },
+  "onu_31206995.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "860bf7ae-3012-4871-96d2-1e758b1a6d53-conceptual-14"
+  },
+  "onu_31375269.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-inner-16"
+  },
+  "onu_32444448833.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "5988fd69-592d-47e1-9aa6-df9d282706cb-end-36",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "5988fd69-592d-47e1-9aa6-df9d282706cb-1.76-23-million-24-bpd-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "5988fd69-592d-47e1-9aa6-df9d282706cb-about-5-200,000-6-bpd-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "5988fd69-592d-47e1-9aa6-df9d282706cb-crude-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33293728.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-internal-2"
+  },
+  "onu_33295123.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-water-3-flow-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33295407.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Field"
+  },
+  "onu_33644613229.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-PERCENT-75%": "NE-PERCENT-63%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "20e89570-d632-400e-b304-ad0e644f1a32-domestic-59"
+  },
+  "onu_33645422493.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "f8ba7747-a203-4391-9a8f-d06b3caf167c-crude-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "f8ba7747-a203-4391-9a8f-d06b3caf167c-rigid-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "f8ba7747-a203-4391-9a8f-d06b3caf167c-To-1"
+  },
+  "onu_33646023976.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-LOCATION-São-Paulo",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9"
+  },
+  "onu_33646035823.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-pipeline-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1,300-15-m3-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1-4"
+  },
+  "onu_33646043488.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "39c4c261-18a8-4b03-aca4-45d607c671ce-to-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "39c4c261-18a8-4b03-aca4-45d607c671ce-Water-1"
+  },
+  "onu_33646056106.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-1,300-11-m3-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-refinery-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-57-5"
+  },
+  "onu_33646056405.json": {},
+  "onu_33646073069.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-34",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-to-21"
+  },
+  "onu_33646452775.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "3e889ffb-ffea-4a6d-ada5-81e76867be02-basin-40",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2": "3e889ffb-ffea-4a6d-ada5-81e76867be02-P-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "3e889ffb-ffea-4a6d-ada5-81e76867be02-will-5-able-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "3e889ffb-ffea-4a6d-ada5-81e76867be02-also-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "3e889ffb-ffea-4a6d-ada5-81e76867be02-50-4"
+  },
+  "onu_33745228406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745354316.json": {},
+  "onu_33745713604.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Field",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "ce8af812-48d1-4148-a2b4-62388fc22f37-sea-54-water-55",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "ce8af812-48d1-4148-a2b4-62388fc22f37-217,150-5-bpd-6"
+  },
+  "onu_33746039693.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6a2b057a-9342-42a7-9a7b-03480bcc5bd7-optimal-15"
+  },
+  "onu_33748460104.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6": "920d8eef-1ebb-4cab-8288-cea4cd878488-construction-5-contracts-8"
+  },
+  "onu_33749265496.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "0f252e1f-8e80-468b-9631-d74e26200948-basin-28"
+  },
+  "onu_33751312200.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "0c8feb86-ed53-4518-8929-20e43783eecc-minimum-34"
+  },
+  "onu_33751315219.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "0709a62c-a215-4068-a74c-360cc8510fa9-also-7"
+  },
+  "onu_34250708084.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "e644eed9-934d-4395-bd32-6726e3dee36b-will-4-performed-6"
+  },
+  "onu_344309110.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Field"
+  },
+  "onu_344741441.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1de3c47d-c84d-4a38-b042-489e5b30b72e-external-20",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "1de3c47d-c84d-4a38-b042-489e5b30b72e-water-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "1de3c47d-c84d-4a38-b042-489e5b30b72e-also-8"
+  },
+  "onu_345171568.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-floating-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19"
+  },
+  "onu_34531605.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-to-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7"
+  },
+  "onu_34547893063.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "be5ea7f2-eaf1-4194-82d5-01264cdce152-to-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "be5ea7f2-eaf1-4194-82d5-01264cdce152-continuously-5"
+  },
+  "onu_345603133.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "83f8226e-eaff-474f-8c4b-070d79533224-Floating-6"
+  },
+  "onu_345603650.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "03f9bd13-9d39-41a8-8125-8924075f6e7b-water-5-technologies-6"
+  },
+  "onu_34686357.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "66c2e21a-b978-42e6-b254-c28752e5b7b9-10-13"
+  },
+  "onu_34984147.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_35573581.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "919869c7-27ec-44eb-bc21-ebd2300438cf-oil-11-spill-12-monitoring-13"
+  },
+  "onu_36768397.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "20e46fa4-f273-41b1-ba72-0f62ac329290-oil-27",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_37304895.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6bacd7ac-6903-41a6-a534-aa3361728c0d-individual-42",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "6bacd7ac-6903-41a6-a534-aa3361728c0d-to-29",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "6bacd7ac-6903-41a6-a534-aa3361728c0d-deep-10-water-12-reservoirs-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "6bacd7ac-6903-41a6-a534-aa3361728c0d-should-5-able-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "6bacd7ac-6903-41a6-a534-aa3361728c0d-Therefore-1",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_40349089123.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "50180d4d-99ad-4416-b364-8467ab844fae-part-22",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "50180d4d-99ad-4416-b364-8467ab844fae-significantly-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "50180d4d-99ad-4416-b364-8467ab844fae-internal-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "50180d4d-99ad-4416-b364-8467ab844fae-oil-28-production-29",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10": "NE-ORGANIZATION-PDET",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "50180d4d-99ad-4416-b364-8467ab844fae-oil-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "50180d4d-99ad-4416-b364-8467ab844fae-600,000-9-bbl-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6": "50180d4d-99ad-4416-b364-8467ab844fae-infrastructure-11-facility-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "50180d4d-99ad-4416-b364-8467ab844fae-offshore-12",
+    "NE-DURATION-day": "NE-DURATION-day"
+  },
+  "onu_4043182709.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "6c2893f1-9107-4672-832c-d8ec06508db6-20,000-8-25,000-10-bpd-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "6c2893f1-9107-4672-832c-d8ec06508db6-full-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "6c2893f1-9107-4672-832c-d8ec06508db6-Marlim-17-Sul-18-field-19",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "6c2893f1-9107-4672-832c-d8ec06508db6-151,000-25-bpd-26"
+  },
+  "onu_41849140524.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "d5ee487c-3b46-46fc-a521-837aed5b9969-also-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_47849110025.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "e25e3ae6-98b4-4157-aebf-c9eed09a289f-to-10"
+  },
+  "onu_50249174640.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "8fde804f-0525-4f0e-8503-d2317096c0a8-75,000-5-million-6-bpd-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "8fde804f-0525-4f0e-8503-d2317096c0a8-to-20",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "8fde804f-0525-4f0e-8503-d2317096c0a8-will-11-initiated-13"
+  },
+  "onu_50249181836.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "cfd50fe9-a146-48f2-a71e-97b5100717b7-300,000-22-bbl-23",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "cfd50fe9-a146-48f2-a71e-97b5100717b7-water-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "cfd50fe9-a146-48f2-a71e-97b5100717b7-y-9-Desarrollo-10-de-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-27",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_51649098845.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c91d7476-abfd-4667-90fd-c69e0100550c-natural-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "c91d7476-abfd-4667-90fd-c69e0100550c-1,000-5-km2-6"
+  },
+  "onu_52049093008.json": {},
+  "onu_52249116622.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "2954cb55-b229-4b18-865f-d99a89fef52a-to-4",
+    "NE-PERCENT-8%": "NE-PERCENT-4%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "2954cb55-b229-4b18-865f-d99a89fef52a-up-13-to-14-31-15-million-16-cu-17-m-18",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52349109473.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "69eb9371-1b92-4f24-801d-8748c6728bc5-oil-15-production-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52849106027.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_57649139087.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_58849128774.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-horizontal-9"
+  },
+  "onu_59649088185.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "b1824a3a-1334-43e1-9b59-e99495d47c65-to-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "b1824a3a-1334-43e1-9b59-e99495d47c65-138,000-10-cu-11-m-12-LNG-13-storage-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "NE-DURATION-hr",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "b1824a3a-1334-43e1-9b59-e99495d47c65-will-3-chartered-5"
+  },
+  "onu_68649086917.json": {
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "452ca893-25f2-4bf0-ae58-16ca549811cd-petroleum-9",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_68649124056.json": {
+    "NE-PERSON-Campos": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-Campos-18-basin-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-basin-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-2,000-12-m-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-salt-15",
+    "NE-PERCENT-75%": "NE-PERCENT-80%"
+  },
+  "onu_70449127482.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-customized-8",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-Also-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "NE-SET-daily"
+  },
+  "onu_70449650835.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-construction-49",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-part-40",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-part-40",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-great-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_72449143175.json": {},
+  "onu_73349086227.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "00339ccb-f0dd-47c7-aecb-ae379e27d109-basin-30",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "00339ccb-f0dd-47c7-aecb-ae379e27d109-would-2-delivered-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "00339ccb-f0dd-47c7-aecb-ae379e27d109-basin-30"
+  },
+  "onu_77449138097.json": {
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-gas-17-transportation-18-capacity-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-regional-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-will-25-reinforced-28",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-also-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-16-11-million-12-cu-13-m-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_77955388680.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "6853be13-f2b8-4273-b0f4-b628a386d69b-will-15-necessary-17"
+  },
+  "onu_77955408815.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "3fbbdd88-8638-4b37-a689-c218c2b9f313-bonded-15"
+  },
+  "onu_77956543361.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "c4702ddf-05e9-4145-8bd7-0d8312bab9e6-reservoirs-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "c4702ddf-05e9-4145-8bd7-0d8312bab9e6-drilling-7-complex-8-wells-9"
+  },
+  "onu_77956858304.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "18d1470d-7707-4546-87ab-5615cd0aeaf8-offshore-40"
+  },
+  "onu_77958012173.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "82dfb525-fe3c-44b8-a079-56355943e3c5-to-23",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "82dfb525-fe3c-44b8-a079-56355943e3c5-indeed-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "82dfb525-fe3c-44b8-a079-56355943e3c5-also-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78049320828.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-85%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim-Field",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "b0408dc9-8c82-423c-98ff-ebbb41b36282-1.24-24-million-25-bpd-26",
+    "NE-PERCENT-8%": "NE-PERCENT-85%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-21-reserves-22",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "b0408dc9-8c82-423c-98ff-ebbb41b36282-well-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "b0408dc9-8c82-423c-98ff-ebbb41b36282-1.24-24-million-25-bpd-26"
+  },
+  "onu_78649387727.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "fb519079-be4d-4927-b352-9904e9f3c03f-to-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "fb519079-be4d-4927-b352-9904e9f3c03f-35,000-12-d-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "fb519079-be4d-4927-b352-9904e9f3c03f-will-19-connected-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "fb519079-be4d-4927-b352-9904e9f3c03f-four-8-oil-10-wells-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "fb519079-be4d-4927-b352-9904e9f3c03f-35,000-12-d-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "fb519079-be4d-4927-b352-9904e9f3c03f-oil-17"
+  },
+  "onu_78650855754.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-gas-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-unwanted-2"
+  },
+  "onu_79952546010.json": {},
+  "onu_79952620223.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c65b6b38-5933-4677-bdf7-2b10f3833625-Individual-1"
+  },
+  "onu_79953006622.json": {},
+  "onu_79955374293.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_79955828033.json": {
+    "NE-PERSON-Campos": "070900c0-3683-4838-8adf-7fc9280ff95b-Campos-14-basin-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-19-25-wells-26": "070900c0-3683-4838-8adf-7fc9280ff95b-10-8-wells-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "070900c0-3683-4838-8adf-7fc9280ff95b-water-15"
+  },
+  "onu_79959789184.json": {},
+  "onu_80052069671.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "2b16f13d-578f-4b57-afa3-30cdf33f197f-organic-19"
+  },
+  "onu_80052571318.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "6c5a99a3-587c-4891-b93a-3283c2d031e2-oil-7-production-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "6c5a99a3-587c-4891-b93a-3283c2d031e2-Also-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "6c5a99a3-587c-4891-b93a-3283c2d031e2-oil-7-production-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80052582062.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_80052741860.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "79779a95-9f66-41cc-8f88-c4ffb6057f28-to-27",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "79779a95-9f66-41cc-8f88-c4ffb6057f28-delivery-37-capacity-38",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "79779a95-9f66-41cc-8f88-c4ffb6057f28-20-12-million-13-cu-14-m-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "79779a95-9f66-41cc-8f88-c4ffb6057f28-floating-19"
+  },
+  "onu_80053430040.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "6662d10a-a02c-4d87-88ea-e983eff2d48c-part-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "6662d10a-a02c-4d87-88ea-e983eff2d48c-10-11-million-12-cu-13-m-14",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053904380.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-basin-25",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-basin-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-also-21"
+  },
+  "onu_80053909062.json": {
+    "NE-DATE-2010": "NE-DATE-2010"
+  },
+  "onu_80053931244.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "9e4d781b-b75d-4d08-a406-e18605539fdf-to-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053961084.json": {},
+  "onu_80054757255.json": {},
+  "onu_81855167522.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "67a11e3d-316d-4504-abb6-d3f419bb7620-600,000-12-cu-13-m-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "67a11e3d-316d-4504-abb6-d3f419bb7620-600,000-12-cu-13-m-14",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-PERSON-Campos": "NE-PERSON-Campos"
+  },
+  "onu_82555187024.json": {},
+  "onu_83155193342.json": {},
+  "onu_84856625676.json": {},
+  "onu_84856741449.json": {},
+  "onu_84857305090.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "6f3e4645-24e4-4349-bbd4-2d20eb367316-efforts-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "6f3e4645-24e4-4349-bbd4-2d20eb367316-also-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84857324711.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-5,000-12-meters-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-drilling-8-wells-9-deeper-10"
+  },
+  "onu_84857483294.json": {},
+  "onu_84861595246.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "204509a8-265c-4397-8149-04982bb962db-to-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84864615590.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-to-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-500,000-20-boe-21-d-23",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-500,000-20-boe-21-d-23"
+  },
+  "onu_84864936265.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "5635ba94-7921-4b3b-8f49-dd87f763feb9-therefore-47",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_84865218536.json": {},
+  "onu_84865723570.json": {
+    "NE-DATE-2010": "NE-DATE-2010",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84869199462.json": {},
+  "onu_84870604908.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10": "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "3f1a547b-6d66-41b8-8607-95757af4c8cc-modular-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "3f1a547b-6d66-41b8-8607-95757af4c8cc-liquids-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84877857340.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84878941411.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879432080.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d22980f2-d1fa-4f87-94aa-ec684269aac1-mechanical-28",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879955769.json": {},
+  "onu_84880007809.json": {},
+  "onu_84883765236.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-electrical-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84883765292.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "afb5c7d8-4be9-4783-93d0-e20924ca5129-temporal-17"
+  },
+  "onu_84887507211.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-around-19-115,000-20-km2-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888845935.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "08983aea-212e-4ede-98cd-be137c97ff19-will-2-placed-4"
+  },
+  "onu_84888934569.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "1cc8cc5f-b866-4794-9210-470f3608b03d-will-3-injected-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888954344.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "bede67c1-2219-4ecb-94db-aba0e79b294c-controlled-24",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "bede67c1-2219-4ecb-94db-aba0e79b294c-to-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "bede67c1-2219-4ecb-94db-aba0e79b294c-oil-49-production-50",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "bede67c1-2219-4ecb-94db-aba0e79b294c-internal-37"
+  },
+  "onu_84888967977.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "4a2c3fd7-38bd-45be-9b1c-b83fa27f372d-to-26"
+  },
+  "onu_84889840418.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "41959f29-a13c-4064-ae33-3e45571a9a7d-processing-6-capacity-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "41959f29-a13c-4064-ae33-3e45571a9a7d-will-3-provided-5"
+  },
+  "onu_84891320656.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "1309746e-bd51-453c-8893-8fb38d7af7ab-aspects-18"
+  },
+  "onu_84891344152.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "295c9de1-de4f-46df-baf3-c289fa395145-set-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "295c9de1-de4f-46df-baf3-c289fa395145-to-4"
+  },
+  "onu_84892632570.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-economical-11"
+  },
+  "onu_84892860778.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-also-4"
+  },
+  "onu_84893052541.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-40-injection-41-system-42",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-19"
+  },
+  "onu_84893062958.json": {
+    "NE-PERSON-Campos": "NE-ORGANIZATION-Santos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893067779.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessels-36",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-15-consumption-19": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30"
+  },
+  "onu_84893090004.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "108bb058-270a-4059-b632-02b04115a0a7-to-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893361208.json": {},
+  "onu_84893407222.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-61%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-to-8",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro"
+  },
+  "onu_84893805098.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-reproductive-10"
+  },
+  "onu_84894453276.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_84894470550.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "NE-TITLE-marine"
+  },
+  "onu_84896824358.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "a674b86c-95d0-4e2a-aca6-37744b347071-conceptual-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897376128.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6634b230-b55b-42f5-b6bf-e9764410d504-fresh-24",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "6634b230-b55b-42f5-b6bf-e9764410d504-water-9-drilling-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897381844.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "607e16a2-24ab-44ad-a4a3-8273a81253f6-to-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "607e16a2-24ab-44ad-a4a3-8273a81253f6-minimum-20"
+  },
+  "onu_84897392529.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "21b0b660-404f-436a-867e-af9cbe7f0918-to-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "21b0b660-404f-436a-867e-af9cbe7f0918-will-7-necessary-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "21b0b660-404f-436a-867e-af9cbe7f0918-water-3-exploration-4",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897399429.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-4-34"
+  },
+  "onu_84897408330.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-direct-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897441267.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "6386a9ef-0016-45d5-9431-03b779673c2b-also-6"
+  },
+  "onu_84897448998.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10": "ebed93b1-9b44-42bf-a267-aebdc3f48887-operated-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "ebed93b1-9b44-42bf-a267-aebdc3f48887-always-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "ebed93b1-9b44-42bf-a267-aebdc3f48887-economic-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897449140.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "b829cc46-eb44-4769-8923-e94eb353af76-to-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "b829cc46-eb44-4769-8923-e94eb353af76-will-10-presented-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "b829cc46-eb44-4769-8923-e94eb353af76-always-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b829cc46-eb44-4769-8923-e94eb353af76-also-11"
+  },
+  "onu_84897461830.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-to-4"
+  },
+  "onu_84897465328.json": {},
+  "onu_84897470967.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "7f6f47ca-cfad-4483-ba7b-011e5564f245-main-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84900305359.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operated-32",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "97531c44-64fa-4fe3-bfde-d9c5843dc485-to-30",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5"
+  },
+  "onu_84901784680.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro"
+  },
+  "onu_84904394721.json": {},
+  "onu_84905748711.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-to-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-300,000-9-liters-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-efficient-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-300,000-9-liters-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-water-13"
+  },
+  "onu_84907991224.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "aa0f11b2-51d8-47d3-b008-1f8084ee1df7-part-49",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84918528762.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-67%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "521f5922-1c3e-4c36-9fd5-536f42356eaf-maximum-31",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "521f5922-1c3e-4c36-9fd5-536f42356eaf-immature-15"
+  },
+  "onu_84925638296.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-also-6"
+  },
+  "onu_84930513772.json": {},
+  "onu_84940864746.json": {},
+  "onu_84943289484.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "a318701e-6951-43b5-ab6d-2b3deb57fa16-basin-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "a318701e-6951-43b5-ab6d-2b3deb57fa16-Synthetic-1"
+  },
+  "onu_84943328375.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_84943338721.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84943339436.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944574757.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "d0d3f522-daa5-46df-9fd9-95491816b5d6-MarlimSul-37-field-38",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "d0d3f522-daa5-46df-9fd9-95491816b5d6-intelligent-3",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "d0d3f522-daa5-46df-9fd9-95491816b5d6-Consequently-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d0d3f522-daa5-46df-9fd9-95491816b5d6-intelligent-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944593501.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "ddbb976f-3682-4d4d-964c-c8f97d044879-to-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "ddbb976f-3682-4d4d-964c-c8f97d044879-actions-17"
+  },
+  "onu_84947326315.json": {},
+  "onu_84947757002.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-will-10-calculated-12"
+  },
+  "onu_84949266932.json": {
+    "NE-PERCENT-8%": "NE-PERCENT-42%"
+  },
+  "onu_84951918487.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos"
+  },
+  "onu_84954454797.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "45dea8c7-5987-4120-9906-0be4e1b2fa35-also-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "45dea8c7-5987-4120-9906-0be4e1b2fa35-dry-21"
+  },
+  "onu_84955127995.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "04ab6b85-447c-419a-adaf-4533eabeb71e-result-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84958666405.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "0f3d745d-6980-4396-973f-ab7c18b13380-globalization-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "0f3d745d-6980-4396-973f-ab7c18b13380-local-26",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959478227.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-will-8-include-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "NE-ORGANIZATION-Laboratorio-de-Ondas",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-also-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959561430.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84963819657.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84964700375.json": {},
+  "onu_84974574825.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "bd331931-0124-4a50-84bf-199162a52f3f-to-16"
+  },
+  "onu_84975761253.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84979574362.json": {},
+  "onu_84983465797.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "29e71a86-d6f9-4b04-935d-d2cff0962e21-will-6-given-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "29e71a86-d6f9-4b04-935d-d2cff0962e21-4-2"
+  },
+  "onu_84984596158.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-also-7"
+  },
+  "onu_84987760544.json": {},
+  "onu_84987762471.json": {},
+  "onu_84987763922.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-part-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-local-17"
+  },
+  "onu_84990861431.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84990898401.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6"
+  },
+  "onu_84996602559.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34"
+  },
+  "onu_85006339618.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85007282651.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "21eb6ecf-d102-40bb-a054-1b519100613e-water-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85008198009.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-to-4"
+  },
+  "onu_85009177497.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85009192413.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "1fa51d3a-829d-4c50-9899-89265ff2e400-to-29"
+  },
+  "onu_85009433339.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85012910163.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85013296221.json": {},
+  "onu_85013858173.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85016298905.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "3a1c0afe-860d-43e4-8160-8731acebad0d-upper-15"
+  },
+  "onu_85016958402.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85017468089.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "08c3852e-194c-4498-b732-46cf26512128-water-20-injection-23",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85020183362.json": {
+    "NE-PERSON-Campos": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-Campos-36-basin-37"
+  },
+  "onu_85026803842.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "1422e178-cc62-4bf3-acfe-1985781bfe49-240,000-28-bopd-29",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "1422e178-cc62-4bf3-acfe-1985781bfe49-especially-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "1422e178-cc62-4bf3-acfe-1985781bfe49-also-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "1422e178-cc62-4bf3-acfe-1985781bfe49-water-8-injection-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "1422e178-cc62-4bf3-acfe-1985781bfe49-Considering-1-reservoirs-5-over-11-400,000-12-bopd-13"
+  },
+  "onu_85027233889.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027401053.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "53d0784c-6881-46a8-8607-8473e2e87675-to-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "53d0784c-6881-46a8-8607-8473e2e87675-surprisingly-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "53d0784c-6881-46a8-8607-8473e2e87675-also-9",
+    "NE-DURATION-day": "NE-DURATION-day",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-gas-10": "53d0784c-6881-46a8-8607-8473e2e87675-shoreline-38",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028240731.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "acaa2c9d-be80-416b-98b2-8bc5effea785-internal-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028278319.json": {},
+  "onu_85028950368.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85029591872.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030830298.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "7c4c08d7-08a1-49b5-9442-d72738d202b1-will-7-presented-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "7c4c08d7-08a1-49b5-9442-d72738d202b1-Finally-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "7c4c08d7-08a1-49b5-9442-d72738d202b1-6-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030842598.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-conceptual-34",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-conceptual-34",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85031996233.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-nominal-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-to-22",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-minimum-31",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-water-9"
+  },
+  "onu_85032863710.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85033225585.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "7de64ed0-3f58-45d8-9cc8-eef825191710-to-11"
+  },
+  "onu_85033604891.json": {},
+  "onu_85034042710.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-to-22",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-oil-10-production-11-rate-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85035340277.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-85%",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "NE-PERCENT-8%": "NE-PERCENT-85%"
+  },
+  "onu_85037355639.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": "f2532b6a-23e5-4ee4-b23c-b14a66103885-presence-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85037590262.json": {},
+  "onu_85039546750.json": {},
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {},
+  "onu_85040888184.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-53-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041142849.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "6b251826-cf79-4973-a63d-ae11b18be0c9-to-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041154400.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85041277142.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-30%",
+    "NE-PERCENT-8%": "NE-PERCENT-30%"
+  },
+  "onu_85041698761.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-initial-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85043311576.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-presence-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-always-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-also-4"
+  },
+  "onu_85043324954.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-to-39",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044192214.json": {},
+  "onu_85044397080.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro"
+  },
+  "onu_85044462127.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-82%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "77be762f-bb9c-4142-a04f-af0145a57575-mainly-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "77be762f-bb9c-4142-a04f-af0145a57575-inner-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044530973.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+    "NE-PERSON-Campos": "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044596303.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "99512cc4-b35c-4f65-be28-93092a3cf0fc-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "99512cc4-b35c-4f65-be28-93092a3cf0fc-front-27"
+  },
+  "onu_85045186297.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_85046290497.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85046379273.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-oil-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-will-3-addressed-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-also-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-water-15"
+  },
+  "onu_85047299670.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro"
+  },
+  "onu_85047354188.json": {},
+  "onu_85047409861.json": {},
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-LOCATION-São-Paulo",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "ce5ac8f6-f3ea-41f4-9b38-2b3858cfc4b8-existing-2-pipeline-3-discharge-15-capacity-16"
+  },
+  "onu_85049552088.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "85bb1f29-6fcb-426b-abc6-5be02b46d922-certainly-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "85bb1f29-6fcb-426b-abc6-5be02b46d922-structural-15"
+  },
+  "onu_85050512775.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "d456d187-3df8-4b64-8a11-6d3acdc976bf-construction-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "d456d187-3df8-4b64-8a11-6d3acdc976bf-also-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85050528173.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "d59c3d19-b470-43cc-aef7-3fa793b9d284-Structured-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "d59c3d19-b470-43cc-aef7-3fa793b9d284-oil-32-production-35",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d59c3d19-b470-43cc-aef7-3fa793b9d284-internal-4"
+  },
+  "onu_85050539655.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "e1000620-b18e-4098-9293-16b6e83cec81-efficiency-42-of-43-water-44-injection-45"
+  },
+  "onu_85050551470.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "54866368-b614-4ef4-9fab-faa48a38f22d-5-17"
+  },
+  "onu_85050561554.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-capacity-23",
+    "NE-DATE-2010": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-2010-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-3-4"
+  },
+  "onu_85050643252.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "16159eb1-d977-41b1-977d-b5a0d90c3d46-to-11"
+  },
+  "onu_85050674553.json": {},
+  "onu_85050680089.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "7736a11e-550b-4406-bcac-140ec203a8cf-oil-26-equivalent-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051633827.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "c685c5a5-bc59-4451-bee6-87f7a8810b95-successfully-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "c685c5a5-bc59-4451-bee6-87f7a8810b95-part-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "c685c5a5-bc59-4451-bee6-87f7a8810b95-part-3"
+  },
+  "onu_85051644896.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "12c1d79e-73bd-481c-bdb8-1d4727843a15-will-3-active-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13"
+  },
+  "onu_85051649253.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "676e7e95-336a-48ca-8815-930a8e2851b0-designed-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "676e7e95-336a-48ca-8815-930a8e2851b0-to-23",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "676e7e95-336a-48ca-8815-930a8e2851b0-seismic-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051653660.json": {},
+  "onu_85051673888.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052069920.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-15%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "6019aafd-17a7-4b19-be78-72fdb72b948b-to-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6019aafd-17a7-4b19-be78-72fdb72b948b-net-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052748036.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "d5172811-4956-4cc3-bcce-2ec97a8402f1-when-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "d5172811-4956-4cc3-bcce-2ec97a8402f1-Also-1"
+  },
+  "onu_85052916893.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "390e8152-252c-4c33-856b-035e5f48ed3e-environmental-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053143769.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-global-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053593980.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "8db3c934-1816-4c07-9f83-706b0c2a1f16-to-32"
+  },
+  "onu_85053770238.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13"
+  },
+  "onu_85054086297.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-to-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-completely-6"
+  },
+  "onu_85054504118.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "b1326d03-e928-4f17-a698-2f5bc600a0ed-to-20",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "b1326d03-e928-4f17-a698-2f5bc600a0ed-nearly-30-200,000-31-bopd-32",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "b1326d03-e928-4f17-a698-2f5bc600a0ed-nearly-30-200,000-31-bopd-32"
+  },
+  "onu_85054783545.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "54174e41-4460-4ede-8ffd-225b7817ab76-basin-8",
+    "NE-PERSON-Campos": "NE-ORGANIZATION-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "54174e41-4460-4ede-8ffd-225b7817ab76-always-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "54174e41-4460-4ede-8ffd-225b7817ab76-basin-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "54174e41-4460-4ede-8ffd-225b7817ab76-Additionally-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "54174e41-4460-4ede-8ffd-225b7817ab76-considerable-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85054941296.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-construction-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "NE-TITLE-marine"
+  },
+  "onu_85055025955.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-development-11-wells-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055027444.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "efaa678b-3d7e-4113-825c-c286cad84bfd-to-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85055027692.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055036761.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-part-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-3-7"
+  },
+  "onu_85055255571.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055263465.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "b7c3b9c4-3527-4339-b669-999094175621-also-10"
+  },
+  "onu_85055528846.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "2970e996-64cc-47e6-bc5c-fb3d99195396-environmental-14"
+  },
+  "onu_85055864923.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "c183a578-8a5f-4228-b35b-5651f319641f-will-16-presented-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "c183a578-8a5f-4228-b35b-5651f319641f-Also-1"
+  },
+  "onu_85055908781.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "NE-LOCATION-Marlim",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85056094176.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "0ddfca10-cdbf-4166-ae46-860624694346-Floating-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "0ddfca10-cdbf-4166-ae46-860624694346-water-13-oil-14-fields-15-production-16-development-17"
+  },
+  "onu_85056110569.json": {
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "1a82d70b-0282-4199-a560-d0aab9c27373-heavy-17-oil-18-reservoirs-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056183083.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "65c625f5-7d94-4126-a6cf-9208777c80b5-to-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056566136.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro"
+  },
+  "onu_85056605886.json": {},
+  "onu_85056605922.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-sequential-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056794099.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "95c32260-b2d3-4c86-a803-d3bf8befb654-to-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "95c32260-b2d3-4c86-a803-d3bf8befb654-well-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "95c32260-b2d3-4c86-a803-d3bf8befb654-physiological-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85057560805.json": {},
+  "onu_85057883234.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "14e946a7-3108-404c-a068-13eb8cc66620-Finally-1"
+  },
+  "onu_85059143234.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059218520.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059436090.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "132c6e60-d817-4725-b4ba-810203ca0e70-also-4"
+  },
+  "onu_85060083816.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-basin",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-maximum-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-basin"
+  },
+  "onu_85060443361.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-intending-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-completely-9"
+  },
+  "onu_85061179665.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "17e2d2d4-078d-47cf-b582-655e5774143c-triggering-31"
+  },
+  "onu_85061498967.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85061767810.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_85061823653.json": {},
+  "onu_85062013573.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062607406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062717506.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-to-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-Part-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-10"
+  },
+  "onu_85063263863.json": {},
+  "onu_85063689284.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "67b5ee09-3e9b-4ee7-8c97-16a32349a345-soon-33",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85064764902.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-state-20": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-state-19"
+  },
+  "onu_85064808857.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "4879b8b6-7193-4b71-96e2-28fc820267e0-initial-4"
+  },
+  "onu_85064983703.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-main-10"
+  },
+  "onu_85065180012.json": {},
+  "onu_85065623080.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-also-12"
+  },
+  "onu_85065912337.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "2143f721-d959-4556-9126-5be2b6ca65c9-internal-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85066600751.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-natural-3"
+  },
+  "onu_85066617192.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-economical-11"
+  },
+  "onu_85066623384.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1"
+  },
+  "onu_85067965170.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "4d09355a-503a-48db-a367-7c33af77071e-Also-1"
+  },
+  "onu_85068049608.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85068387773.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "a5cffccf-1536-473d-9270-6167576d70ec-proximity-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85068453742.json": {},
+  "onu_85070554647.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-62%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "72b63001-9050-46f3-a364-f3ec8d862ef0-controlled-7"
+  },
+  "onu_85070704005.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": "b4a8b90d-7253-4581-99da-486e61291b69-presence-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85070853924.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "6dc1853a-1825-449e-9547-d497b3114adb-average-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85070991202.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "e4582df4-682d-4820-a6cd-b5346f3f75b5-vertical-20"
+  },
+  "onu_85071023764.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-to-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-morphological-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85071488896.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-59.1%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-to-7",
+    "NE-PERCENT-8%": "NE-PERCENT-72.7%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-adaptive-18"
+  },
+  "onu_85071542084.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "03bb4e36-65c4-4faa-889c-f08a60c33d08-main-5"
+  },
+  "onu_85071847548.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85072725932.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-technological-6"
+  },
+  "onu_85072834829.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "f46f17d1-e7ee-43a7-b27f-8001a220449a-to-11"
+  },
+  "onu_85073705401.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1"
+  },
+  "onu_85073706024.json": {
+    "NE-PERCENT-8%": "NE-PERCENT-10%"
+  },
+  "onu_85073935907.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "bc946871-1090-4025-8672-8089752cc34e-thermal-11"
+  },
+  "onu_85074489503.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "e9b97ebc-e3cf-4546-849d-66298a1876a5-approximately-16-340,000-17-km2-18"
+  },
+  "onu_85074632793.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85074778611.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-also-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-biological-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075350522.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-to-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-maximum-17"
+  },
+  "onu_85075421341.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "42d1724c-e5fc-4022-b41d-f2f1fb3ceb4b-21-14"
+  },
+  "onu_85075661667.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "8eb22610-755f-4d77-aaca-50d08c2064c5-to-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "8eb22610-755f-4d77-aaca-50d08c2064c5-organic-15"
+  },
+  "onu_85075827903.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "3f2db0e2-163d-413a-826b-912433d08c8a-programmed-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3f2db0e2-163d-413a-826b-912433d08c8a-to-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "3f2db0e2-163d-413a-826b-912433d08c8a-axial-21"
+  },
+  "onu_85075828327.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-able-31",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-mainly-19"
+  },
+  "onu_85075831363.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c6187c05-69fa-4993-ac86-f7154dd67053-robust-4"
+  },
+  "onu_85075835330.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-oil-17-production-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-150,000-18-barrels-19",
+    "NE-DURATION-day": "NE-DURATION-day"
+  },
+  "onu_85075843438.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-14"
+  },
+  "onu_85075879935.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075941856.json": {},
+  "onu_85075951728.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-to-5",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-inner-15"
+  },
+  "onu_85075997043.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076246665.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85076560202.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-able-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076775401.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "3fa508a4-4944-4cc2-a966-5bc0da835729-filtered-41"
+  },
+  "onu_85076896265.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-contaminated-40",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077234208.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "3bce63f2-6438-4309-b24d-2dcad2a582a1-analyzed-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "3bce63f2-6438-4309-b24d-2dcad2a582a1-lower-33",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077945350.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos"
+  },
+  "onu_85078010553.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "8b856b86-bebe-4ded-9624-c946c2d1bff7-averaged-8"
+  },
+  "onu_85078233209.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-to-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-vertical-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85079351203.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "da566f30-68dc-4ed8-990f-a0817cb9497f-internal-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85079784581.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-presence-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85080813467.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "9e4dd2b4-cdb0-41c5-ae48-7b455a7cfc9f-150,000-12-tourists-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85083240666.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-Also-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-initial-41"
+  },
+  "onu_85083341760.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "9393b61e-5555-44d0-943e-1eb43fe808ac-Thus-1"
+  },
+  "onu_85084024263.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85084454298.json": {},
+  "onu_85084634006.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5"
+  },
+  "onu_85084667903.json": {},
+  "onu_85084945361.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "bb0ac139-3982-432a-8400-729a5c19c126-customized-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "bb0ac139-3982-432a-8400-729a5c19c126-optimal-25",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "bb0ac139-3982-432a-8400-729a5c19c126-floating-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085054148.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "NE-ORGANIZATION-Agencia-Nacional-de-Hidrocarburos"
+  },
+  "onu_85085298469.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85085408490.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos"
+  },
+  "onu_85085473397.json": {
+    "NE-PERSON-Campos": "NE-LOCATION-Amazon"
+  },
+  "onu_85085492342.json": {},
+  "onu_85085773523.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "ab307ab9-374d-477f-9d96-1a0fda460239-to-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "ab307ab9-374d-477f-9d96-1a0fda460239-part-6"
+  },
+  "onu_85085773731.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-to-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-oil-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-water-12"
+  },
+  "onu_85085773745.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "21225434-c8fc-441d-b277-65da424c77e7-stored-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "21225434-c8fc-441d-b277-65da424c77e7-to-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "21225434-c8fc-441d-b277-65da424c77e7-oil-18-production-19",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "21225434-c8fc-441d-b277-65da424c77e7-highly-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "21225434-c8fc-441d-b277-65da424c77e7-also-16"
+  },
+  "onu_85085773825.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-to-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-intensive-10"
+  },
+  "onu_85085773875.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "d606c7b3-ce98-4023-8a39-196528dd3002-oil-16-production-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "d606c7b3-ce98-4023-8a39-196528dd3002-part-8",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d606c7b3-ce98-4023-8a39-196528dd3002-cumulative-32",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "d606c7b3-ce98-4023-8a39-196528dd3002-water-12-cuts-13"
+  },
+  "onu_85085774498.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "801b16ca-c991-454c-b97a-b358ab8eea75-to-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "801b16ca-c991-454c-b97a-b358ab8eea75-part-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "801b16ca-c991-454c-b97a-b358ab8eea75-part-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774511.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-60%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "07bf9801-f530-468c-9921-66afca9b2b91-oil-9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "07bf9801-f530-468c-9921-66afca9b2b91-6,700-6-bbls-7",
+    "NE-PERCENT-8%": "NE-PERCENT-60%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "07bf9801-f530-468c-9921-66afca9b2b91-6,700-6-bbls-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774766.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-to-22",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-Additionally-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-residual-15"
+  },
+  "onu_85085775194.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-modified-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11"
+  },
+  "onu_85085775396.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085775562.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18"
+  },
+  "onu_85085775753.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-to-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-also-5"
+  },
+  "onu_85085775962.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31"
+  },
+  "onu_85085776151.json": {},
+  "onu_85085776159.json": {},
+  "onu_85085776356.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "2a540db1-9714-4a1f-b95b-65922ff9ef32-also-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085776372.json": {},
+  "onu_85085776540.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "544389f0-af01-489c-a71e-5e23542d32c5-oil-17-production-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "544389f0-af01-489c-a71e-5e23542d32c5-Therefore-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-gas-10": "544389f0-af01-489c-a71e-5e23542d32c5-gas-2",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "544389f0-af01-489c-a71e-5e23542d32c5-cumulative-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "544389f0-af01-489c-a71e-5e23542d32c5-gas-8-lift-9-rate-10"
+  },
+  "onu_85085776958.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085777009.json": {},
+  "onu_85085777884.json": {
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "943cc533-ce82-452e-94d0-14fafa0d4754-pipeline-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085778037.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-10%",
+    "NE-PERCENT-8%": "NE-PERCENT-10%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-total-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-water-35-injection-36-technologies-37"
+  },
+  "onu_85085778412.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "NE-PERCENT-8%": "NE-PERCENT-10%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85085778651.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "42684b28-71f8-41aa-ada5-b427f3c87f94-capable-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "42684b28-71f8-41aa-ada5-b427f3c87f94-to-18",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "42684b28-71f8-41aa-ada5-b427f3c87f94-excessive-16"
+  },
+  "onu_85085778850.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-59%"
+  },
+  "onu_85085778895.json": {},
+  "onu_85085779136.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "242b3b58-d08d-46cf-9db1-3ced34a59265-to-25"
+  },
+  "onu_85085779144.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085780309.json": {},
+  "onu_85085850094.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "44a03514-5795-44e8-9d1b-fd93129ad66f-mainly-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086232639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086245971.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10"
+  },
+  "onu_85086248840.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-water-13-reservoirs-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086257600.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-to-8"
+  },
+  "onu_85086355916.json": {
+    "NE-DATE-2010": "NE-DATE-2010",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086628030.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "a73dc049-c132-4e65-b2aa-4a929784f44d-to-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85086649140.json": {},
+  "onu_85086667338.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "c26fa3b4-e85d-44f5-a212-fecb246d8968-to-17",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "c26fa3b4-e85d-44f5-a212-fecb246d8968-also-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c26fa3b4-e85d-44f5-a212-fecb246d8968-upward-8"
+  },
+  "onu_85086808985.json": {},
+  "onu_85086809805.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086829622.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086929987.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-selected-39"
+  },
+  "onu_85087227840.json": {},
+  "onu_85087228205.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087345946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087348432.json": {},
+  "onu_85087970879.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Campos",
+    "NE-PERCENT-8%": "NE-PERCENT-10%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-will-88-target-92",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-micro-26",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088133476.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "931afc26-ec02-4974-9270-dba41591d2d1-48-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088202607.json": {},
+  "onu_85088697920.json": {},
+  "onu_85088709907.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "9525f0b3-641e-4716-8a1f-9fd6ad9440fb-inner-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088763109.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-to-12",
+    "NE-PERSON-Campos": "NE-PERSON-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-organic-24",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088793210.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088799870.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "a03ca6d2-0a37-4888-8976-63f43be4ad56-to-20",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "a03ca6d2-0a37-4888-8976-63f43be4ad56-reproductive-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088892946.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "03163d01-a984-4a93-b405-5621c6de58e3-capable-12",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "03163d01-a984-4a93-b405-5621c6de58e3-To-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088978023.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85089199336.json": {},
+  "onu_85089245637.json": {},
+  "onu_85089527352.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3e605179-b368-4602-b44b-ceaa04c453c2-to-21"
+  },
+  "onu_85089654013.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-nominal-18",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-human-19"
+  },
+  "onu_85090201621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090367193.json": {
+    "NE-PERCENT-8%": "NE-PERCENT-99.8%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12": "026bc1df-a0cf-433b-b29b-2c16bf35150d-original-23"
+  },
+  "onu_85090483755.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090507698.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "b6d6d264-109e-4fad-a0b3-0364af473595-operational-7"
+  },
+  "onu_85090509939.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "434cbfb2-e716-43dd-abaf-4575fa516085-also-3"
+  },
+  "onu_85090511016.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-proper-16",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-activity-11"
+  },
+  "onu_85090646059.json": {},
+  "onu_85090693617.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "5d225a40-54e2-4e02-a17e-ecea919142b6-to-4"
+  },
+  "onu_85090982605.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "3f77cc69-82ae-40d3-b552-aa633b7f1621-to-18"
+  },
+  "onu_85091197319.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85091725112.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-70%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "68839359-bf76-4868-9d75-bcfd19d0c220-to-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "NE-PERCENT-8%": "NE-PERCENT-70%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-28-production-31",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "68839359-bf76-4868-9d75-bcfd19d0c220-decade-43",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin"
+  },
+  "onu_85091986329.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "c0031e2d-9def-4261-b692-24f2468bfb11-primary-9"
+  },
+  "onu_85092100205.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "cd943918-e357-445e-8695-9d1b93213bb2-27-4"
+  },
+  "onu_85092110011.json": {},
+  "onu_85092499794.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-55%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "1eac3015-c78b-44b0-a446-b7757d48abba-departing-21",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "1eac3015-c78b-44b0-a446-b7757d48abba-optical-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85093942688.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": "1be9b63b-f885-4cce-860e-7e7356ee91ae-presence-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85094168812.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-kinetic-14"
+  },
+  "onu_85095686213.json": {
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "2b71d4fa-56c5-4102-8a03-0d5151874d42-thermal-17"
+  },
+  "onu_85095886757.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85095967333.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85096027479.json": {},
+  "onu_85096104148.json": {},
+  "onu_85096519364.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-internal-8"
+  },
+  "onu_85096833213.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-75%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "4d34758f-998c-42ff-ab34-a71d7aeaba00-ordered-13",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "4d34758f-998c-42ff-ab34-a71d7aeaba00-metabolic-20",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "4d34758f-998c-42ff-ab34-a71d7aeaba00-water-63"
+  },
+  "onu_85097322074.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-oil-35-production-38-units-39"
+  },
+  "onu_85097480849.json": {},
+  "onu_85097539519.json": {},
+  "onu_85097552901.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "d8cfb4de-70be-467f-985d-1b6570de040d-to-10",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "NE-CITY-Rio-de-Janeiro": "NE-CITY-Rio-de-Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "d8cfb4de-70be-467f-985d-1b6570de040d-main-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097570159.json": {
+    "NE-PERSON-Campos": "NE-TITLE-river",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097598677.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097758556.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-70%",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097770989.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097876795.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-part-14"
+  },
+  "onu_85097889884.json": {},
+  "onu_85097914346.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-organic-12"
+  },
+  "onu_85097951230.json": {
+    "NE-PERCENT-8%": "NE-PERCENT-21-%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12": "d6883d36-bf69-406e-b609-e85a3744a46f-entire-16"
+  },
+  "onu_85098462600.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-9%",
+    "NE-PERCENT-8%": "NE-PERCENT-9%"
+  },
+  "onu_85099021856.json": {},
+  "onu_85099211729.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099279592.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "762c9adb-5241-4a67-a3d1-c004219de178-to-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "762c9adb-5241-4a67-a3d1-c004219de178-also-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099301920.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "7548607a-2b9a-4332-9ee4-f4344220c57a-to-29",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099313369.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-also-5"
+  },
+  "onu_85099520347.json": {},
+  "onu_85100594780.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-to-4",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36"
+  },
+  "onu_85100847459.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101031678.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "NE-LOCATION-Basin",
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101067912.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "b8ff745b-f126-438a-b4bd-e676c40a4a02-to-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101344072.json": {
+    "NE-PERSON-Campos": "NE-PERSON-Campos",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101359309.json": {
+    "NE-PERSON-Campos": "NE-CITY-Santos",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101493235.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "ef158461-f75c-4fd6-954c-3e8db41d439b-whenever-14",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9"
+  },
+  "onu_85101961666.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "24e932fe-ae8c-44e6-87a2-382dde69c66c-basins-22",
+    "NE-PERSON-Campos": "NE-COUNTRY-Brazil",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85102272621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103445741.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "89db4da0-8f31-4057-95ec-8006cb31c9fb-to-3",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "NE-ORGANIZATION-Diretoria-de-Hidrografia-e-Navegação",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103489384.json": {},
+  "onu_85103521288.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "20734208-feb1-4173-9fdd-e0817c128dc2-embedded-11",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "20734208-feb1-4173-9fdd-e0817c128dc2-part-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "20734208-feb1-4173-9fdd-e0817c128dc2-realistic-6"
+  },
+  "onu_85103724572.json": {
+    "NE-PERCENT-75%": "NE-PERCENT-25%",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-to-15",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-maximum-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-oil-5-production-6",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-additional-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104343927.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "d2f57460-27c6-4be0-be1f-83c515125f60-to-9",
+    "NE-PERSON-Campos": "NE-LOCATION-Bahia",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104631395.json": {
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "2570e3cb-e265-4264-a109-e3358d5b90ba-to-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104732272.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  }
+}

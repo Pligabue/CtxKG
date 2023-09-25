@@ -1,0 +1,656 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85053593980.txt",
+  "entities": {
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-study-2": "study",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8": "vulnerability",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-7": "physical",
+    "NE-LOCATION-Island": "Island",
+    "NE-CITY-Santa-Catarina": "Santa Catarina",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-western-11": "western",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-12": "coast",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Erosion-1-processes-4": "Erosion processes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-infrastructure-10": "infrastructure",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-9": "human",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-changes-36": "changes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-action-40": "action",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-39": "human",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-zone-14": "zone",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-18": "degree",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-installed-8": "installed",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-20": "vulnerability",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-13": "coastal",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-15-segmentation-16": "coastline segmentation",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22-coastal-23-sectors-24": "analyzed coastal sectors",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-approach-10": "approach",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19": "specificities",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-24": "sectors",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22": "analyzed",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-multiscale-9": "multiscale",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-23": "coastal",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-methodology-2": "methodology",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-research-6": "research",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-identified-2-segment-3": "identified segment",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6": "classification",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-resulting-12": "resulting",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-integration-15": "integration",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-one-30": "one",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-represent-33": "represent",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-several-17": "several",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-regarding-7-its-28-vulnerability-10": "regarding its vulnerability",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-to-32": "to",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-9": "physical",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-attributes-18": "attributes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5": "first order attributes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-broad-13": "broad",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-The-1": "The",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-order-18-ones-19": "order ones",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-transitional-21": "transitional",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-second-16": "second",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16---3": "-",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-structural-7": "structural",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8": "coast",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-7": "west",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-applied-4": "applied",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-geology-15": "geology",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-12-23-segments-24": "12 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-descriptors-2": "descriptors",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-selected-4": "selected",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-geomorphology-27": "geomorphology",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-eight-33-segments-34": "eight segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-two-18-classes-19": "two classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Eight-1": "Eight",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-30-classes-31": "three classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-these-11": "these",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-erosion-6": "erosion",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-average-17-backshore-18-height-19": "average backshore height",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-20-25-segments-26": "20 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-four-22-classes-23": "four classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-backshore-52-features-53": "backshore features",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-59-segments-60": "28 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69": "five classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-26-71-segments-72": "26 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-grain-64-size-65": "grain size",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-slope-78": "slope",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-30-84-segments-85": "30 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-31": "degree",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43": "28 segments",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6": "speed",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-15-12-segments-13": "15 segments",
+    "NE-DATE-current": "current",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Average-2-astronomical-3-tide-4": "Average astronomical tide",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-81-classes-82": "three classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-exposure-33": "exposure",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40": "five classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57": "seven classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10": "five classes",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-10": "coastline",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-studied-35-coastline-36-represented-37-as-38-segmented-40-line-41": "studied coastline represented as segmented line",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14": "coast",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21": "divided",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-13": "west",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-proportions-31": "proportions",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23": "sectors",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35": "occurrences",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-low-25": "low",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-28": "vulnerability",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-similar-30": "similar",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-specific-40-sectors-41": "specific sectors",
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-occasional-34": "occasional"
+  },
+  "graph": [
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-study-2",
+      "relation": "characterize",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-7"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Island"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8",
+      "relation": "of",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-western-11"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-12"
+    },
+    {
+      "subject_id": "NE-LOCATION-Island",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-Erosion-1-processes-4",
+      "relation": "can endanger",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-infrastructure-10"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-infrastructure-10",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-9"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-changes-36",
+      "relation": "even induced by",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-action-40"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-changes-36",
+      "relation": "induced by",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-action-40"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-action-40",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-39"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-Erosion-1-processes-4",
+      "relation": "can endanger infrastructure in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-zone-14"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-Erosion-1-processes-4",
+      "relation": "can endanger infrastructure with",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-18"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-infrastructure-10",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-installed-8"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-18",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-20"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-zone-14",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-13"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-15-segmentation-16",
+      "relation": "specificities of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22-coastal-23-sectors-24"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-approach-10",
+      "relation": "using",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-24"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-approach-10",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-multiscale-9"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-23"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-approach-10",
+      "relation": "using",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-15-segmentation-16"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22-coastal-23-sectors-24"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-methodology-2",
+      "relation": "applied in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-research-6"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-identified-2-segment-3",
+      "relation": "receives",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-resulting-12"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "at",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-integration-15"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-one-30",
+      "relation": "wishes",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-represent-33"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-several-17"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-regarding-7-its-28-vulnerability-10"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-represent-33",
+      "relation": "mark",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-to-32"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-9"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-attributes-18"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5",
+      "relation": "are",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-broad-13"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-The-1"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-order-18-ones-19",
+      "relation": "are",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-transitional-21"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-order-18-ones-19",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-second-16"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16---3"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5",
+      "relation": "are",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-structural-7"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-methodology-2",
+      "relation": "was applied on",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Island"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8",
+      "relation": "of",
+      "object_id": "NE-CITY-Santa-Catarina"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-7"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-methodology-2",
+      "relation": "was",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-applied-4"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-geology-15",
+      "relation": "distributed along",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-12-23-segments-24"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-descriptors-2",
+      "relation": "were",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-selected-4"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-geomorphology-27",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-eight-33-segments-34"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-geology-15",
+      "relation": "having",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-two-18-classes-19"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-descriptors-2",
+      "relation": "amount to",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-Eight-1"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-30-classes-31",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-eight-33-segments-34"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-these-11",
+      "relation": "having",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-two-18-classes-19"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-descriptors-2",
+      "relation": "were selected for",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-erosion-6"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-average-17-backshore-18-height-19",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-20-25-segments-26"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-four-22-classes-23",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-20-25-segments-26"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-backshore-52-features-53",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-59-segments-60"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-26-71-segments-72"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-grain-64-size-65",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-26-71-segments-72"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-slope-78",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-30-84-segments-85"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-31",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6",
+      "relation": "classes in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-15-12-segments-13"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-Average-2-astronomical-3-tide-4"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-81-classes-82",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-30-84-segments-85"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-exposure-33",
+      "relation": "of degree is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-59-segments-60"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-15-12-segments-13"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-10",
+      "relation": "is with",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-studied-35-coastline-36-represented-37-as-38-segmented-40-line-41"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14",
+      "relation": "be",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-13"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21",
+      "relation": "at",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-proportions-31"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21",
+      "relation": "at",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21",
+      "relation": "at",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14",
+      "relation": "be divided into",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-low-25"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23",
+      "relation": "of",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-28"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14",
+      "relation": "be divided in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-proportions-31"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-proportions-31",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-similar-30"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35",
+      "relation": "is in",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-specific-40-sectors-41"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35",
+      "relation": "is",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-occasional-34"
+    },
+    {
+      "subject_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14",
+      "relation": "be divided with",
+      "object_id": "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35"
+    }
+  ],
+  "links": {
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-study-2": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-7": [],
+    "NE-LOCATION-Island": [],
+    "NE-CITY-Santa-Catarina": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-western-11": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-12": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Erosion-1-processes-4": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-infrastructure-10": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-9": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-changes-36": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-action-40": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-39": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-zone-14": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-18": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-installed-8": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-20": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-13": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-15-segmentation-16": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22-coastal-23-sectors-24": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-approach-10": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-specificities-19": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-24": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-analyzed-22": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-multiscale-9": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-23": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-methodology-2": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-research-6": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-identified-2-segment-3": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-classification-6": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-resulting-12": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-integration-15": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-one-30": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-represent-33": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-several-17": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-regarding-7-its-28-vulnerability-10": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-to-32": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-physical-9": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-attributes-18": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-first-2-order-4-attributes-5": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-broad-13": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-The-1": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-order-18-ones-19": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-transitional-21": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-second-16": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16---3": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-structural-7": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-8": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-7": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-13"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-applied-4": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-geology-15": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-12-23-segments-24": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-descriptors-2": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-selected-4": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-geomorphology-27": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-eight-33-segments-34": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-two-18-classes-19": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Eight-1": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-30-classes-31": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-81-classes-82"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-these-11": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-erosion-6": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-average-17-backshore-18-height-19": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-20-25-segments-26": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-30-84-segments-85"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-four-22-classes-23": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-backshore-52-features-53": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-59-segments-60": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-four-22-classes-23",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-26-71-segments-72": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-grain-64-size-65": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-slope-78": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-30-84-segments-85": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-20-25-segments-26"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-degree-31": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-42-segments-43": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-28-59-segments-60"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-15-12-segments-13": [],
+    "NE-DATE-current": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-Average-2-astronomical-3-tide-4": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-81-classes-82": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-30-classes-31",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-exposure-33": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-three-81-classes-82",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-9-classes-10": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-four-22-classes-23",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-68-classes-69",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-five-39-classes-40",
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-seven-56-classes-57"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastline-10": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-studied-35-coastline-36-represented-37-as-38-segmented-40-line-41": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-coast-14": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-divided-21": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-13": [
+      "8db3c934-1816-4c07-9f83-706b0c2a1f16-west-7"
+    ],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-proportions-31": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-sectors-23": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-occurrences-35": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-low-25": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-28": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-similar-30": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-specific-40-sectors-41": [],
+    "8db3c934-1816-4c07-9f83-706b0c2a1f16-occasional-34": []
+  }
+}

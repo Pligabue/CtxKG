@@ -1,0 +1,228 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_80053961084.txt",
+  "entities": {
+    "NE-TITLE-model": "model",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-ITTCSR192-7": "ITTCSR192",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-semi-submersible-6": "semi-submersible",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-scale-11-1:105-12": "scale 1:105",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-used-3": "used",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-focus-3": "focus",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analysis-9": "analysis",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-main-2": "main",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-study-6": "study",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-12": "risers",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-tests-9": "tests",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-15": "risers",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-performed-11": "performed",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-significant-17-increment-18": "significant increment",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-damping-21-of-22-system-24": "damping of system",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-it-5": "it",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11": "changes",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-dynamic-14": "dynamic",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-24": "risers",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-presence-22": "presence",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-induced-19": "induced",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-unit-18": "unit",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-possible-7": "possible",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-behavior-15": "behavior",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-approach-3": "approach",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-such-2": "such",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-results-8": "results",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10": "analyzed",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5": "investigation tool",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-aid-13": "aid",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-additional-3": "additional",
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-software-16": "software"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-ITTCSR192-7"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-ITTCSR192-7",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-semi-submersible-6"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was ITTCSR192 at",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-scale-11-1:105-12"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-used-3"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was semi-submersible ITTCSR192 at",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-scale-11-1:105-12"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-focus-3",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analysis-9"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-focus-3",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-main-2"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-study-6",
+      "relation": "focus of is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analysis-9"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-study-6",
+      "relation": "main focus of is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analysis-9"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-focus-3",
+      "relation": "is analysis of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-12"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-tests-9",
+      "relation": "were performed with",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-15"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-tests-9",
+      "relation": "were",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-performed-11"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-significant-17-increment-18",
+      "relation": "is in",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-damping-21-of-22-system-24"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-it-5",
+      "relation": "evaluate",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-dynamic-14"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-24"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "at",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-presence-22"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-induced-19"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-unit-18"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-it-5",
+      "relation": "was",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-possible-7"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11",
+      "relation": "of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-behavior-15"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-it-5",
+      "relation": "was possible By",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-approach-3"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-approach-3",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-such-2"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-results-8",
+      "relation": "were",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10",
+      "relation": "of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10",
+      "relation": "at",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-aid-13"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-results-8",
+      "relation": "were analyzed As",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-additional-3"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10",
+      "relation": "is",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-results-8",
+      "relation": "were analyzed with",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-aid-13"
+    },
+    {
+      "subject_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-aid-13",
+      "relation": "of",
+      "object_id": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-software-16"
+    }
+  ],
+  "links": {
+    "NE-TITLE-model": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-ITTCSR192-7": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-semi-submersible-6": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-scale-11-1:105-12": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-used-3": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-focus-3": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analysis-9": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-main-2": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-study-6": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-12": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-tests-9": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-15": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-performed-11": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-significant-17-increment-18": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-damping-21-of-22-system-24": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-it-5": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-changes-11": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-dynamic-14": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-risers-24": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-presence-22": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-induced-19": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-unit-18": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-possible-7": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-behavior-15": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-approach-3": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-such-2": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-results-8": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-analyzed-10": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-investigation-4-tool-5": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-aid-13": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-additional-3": [],
+    "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-software-16": []
+  }
+}

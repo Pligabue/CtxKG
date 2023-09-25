@@ -1,0 +1,161 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_17044389842.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-MONEY-$3.5-billion": "$ 3.5 billion",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-least-5": "least",
+    "NE-LOCATION-Bahia": "Bahia",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-21-networks-22": "gas networks",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-local-20": "local",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-oil-25-output-28": "oil output",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-refining-32-capabilities-33": "refining capabilities",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-12": "state",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-northeastern-11": "northeastern",
+    "NE-MONEY-$1.2-billion": "$ 1.2 billion",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-field-21": "field",
+    "NE-CITY-Manati": "Manati",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-offshore-19": "offshore",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Camamu-24-Almada-26-basin-27": "Camamu Almada basin",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-15-produciton-16": "gas produciton",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-projects-3": "projects",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-output-9": "output",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-4.5-12-million-13-cu-14-m-15": "4.5 million cu m",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-19": "gas",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-23": "state",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-25-production-26": "gas production",
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Production-1": "Production",
+    "NE-DATE-January-2006": "January 2006"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "will invest",
+      "object_id": "NE-MONEY-$3.5-billion"
+    },
+    {
+      "subject_id": "NE-MONEY-$3.5-billion",
+      "relation": "case",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-least-5"
+    },
+    {
+      "subject_id": "NE-MONEY-$3.5-billion",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Bahia"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "expand",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-21-networks-22"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-21-networks-22",
+      "relation": "is",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-local-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "boost",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-oil-25-output-28"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "improve",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-refining-32-capabilities-33"
+    },
+    {
+      "subject_id": "NE-MONEY-$3.5-billion",
+      "relation": "of",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-12"
+    },
+    {
+      "subject_id": "NE-MONEY-$3.5-billion",
+      "relation": "is",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-northeastern-11"
+    },
+    {
+      "subject_id": "NE-MONEY-$1.2-billion",
+      "relation": "develop gas produciton at",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-field-21"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-field-21",
+      "relation": "of",
+      "object_id": "NE-CITY-Manati"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-field-21",
+      "relation": "is",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-offshore-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "invest",
+      "object_id": "NE-MONEY-$1.2-billion"
+    },
+    {
+      "subject_id": "NE-MONEY-$1.2-billion",
+      "relation": "develop gas produciton in",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Camamu-24-Almada-26-basin-27"
+    },
+    {
+      "subject_id": "NE-MONEY-$1.2-billion",
+      "relation": "develop",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-15-produciton-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "plans Among",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-projects-3"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-output-9",
+      "relation": "reaching",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-4.5-12-million-13-cu-14-m-15"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-4.5-12-million-13-cu-14-m-15",
+      "relation": "of",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-19"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-23",
+      "relation": "has",
+      "object_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-25-production-26"
+    },
+    {
+      "subject_id": "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Production-1",
+      "relation": "should start by",
+      "object_id": "NE-DATE-January-2006"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-MONEY-$3.5-billion": [
+      "NE-MONEY-$1.2-billion"
+    ],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-least-5": [],
+    "NE-LOCATION-Bahia": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-21-networks-22": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-local-20": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-oil-25-output-28": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-refining-32-capabilities-33": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-12": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-northeastern-11": [],
+    "NE-MONEY-$1.2-billion": [
+      "NE-MONEY-$3.5-billion"
+    ],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-field-21": [],
+    "NE-CITY-Manati": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-offshore-19": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Camamu-24-Almada-26-basin-27": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-15-produciton-16": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-projects-3": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-output-9": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-4.5-12-million-13-cu-14-m-15": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-19": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-state-23": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-gas-25-production-26": [],
+    "edebe37a-5fca-4c5b-ba53-d854c5cdba5f-Production-1": [],
+    "NE-DATE-January-2006": []
+  }
+}

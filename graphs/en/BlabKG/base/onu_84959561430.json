@@ -1,0 +1,332 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84959561430.txt",
+  "entities": {
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-competitiveness-15": "competitiveness",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-solutions-23": "solutions",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-22": "sustainable",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3": "pillar",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10": "concept",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-essential-2": "essential",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-co-modality-12": "co-modality",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-defined-14": "defined",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18": "use",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-6-corridor-7": "green corridor",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-efficient-17": "efficient",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-21": "modes",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-different-20": "different",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-combination-23": "combination",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3": "corridor",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9": "logistics solutions",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-2": "green",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11-reductions-12-of-13-environmental-14-impacts-17": "documented reductions of environmental impacts",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-impacts-17": "impacts",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-reductions-12": "reductions",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-7": "sustainable",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-environmental-14": "environmental",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11": "documented",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2": "characteristics",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36": "traffic",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-41-routes-42": "transportation routes",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-domestic-33": "domestic",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transshipment-49": "transshipment",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-Other-1": "Other",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-safety-6": "safety",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-high-5": "high",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-goods-38": "goods",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-long-40": "long",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-13-applications-14": "logistics applications",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-optimized-16-use-17-of-18-modes-20-of-21-transport-22": "optimized use of modes of transport",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3-project-4": "corridor project",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-collaboration-6": "collaboration",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-8-of-9-transportation-10": "modes of transportation",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-integrated-23-logistics-26-system-27": "integrated logistics system",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-country-30-of-31-continental-32-dimensions-33": "country of continental dimensions",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-paper-2": "paper",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6": "transportation",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-aiming-16": "aiming",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sea-13-shipping-14": "sea shipping",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-short-12": "short",
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-focusing-10": "focusing"
+  },
+  "graph": [
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-competitiveness-15",
+      "relation": "create",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-solutions-23"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-solutions-23",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-22"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-essential-2"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-co-modality-12"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-defined-14"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10",
+      "relation": "at",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10",
+      "relation": "defined as",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3",
+      "relation": "is in",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-6-corridor-7"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3",
+      "relation": "is concept of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-co-modality-12"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-efficient-17"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-21"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-different-20"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18",
+      "relation": "is in",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-combination-23"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3",
+      "relation": "is characterized by",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-2"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11-reductions-12-of-13-environmental-14-impacts-17"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-impacts-17"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-reductions-12"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "is with",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11-reductions-12-of-13-environmental-14-impacts-17"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-7"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-environmental-14"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2",
+      "relation": "concentration of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-41-routes-42"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-domestic-33"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2",
+      "relation": "strategic points of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transshipment-49"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-Other-1"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2",
+      "relation": "are",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-safety-6"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-safety-6",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-high-5"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-goods-38"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-long-40"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-13-applications-14",
+      "relation": "is with",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-optimized-16-use-17-of-18-modes-20-of-21-transport-22"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2",
+      "relation": "points of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transshipment-49"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3-project-4",
+      "relation": "promotes",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-collaboration-6"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3-project-4",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-2"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-collaboration-6",
+      "relation": "of",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-8-of-9-transportation-10"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-integrated-23-logistics-26-system-27",
+      "relation": "is in",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-country-30-of-31-continental-32-dimensions-33"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-paper-2",
+      "relation": "will examine",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-aiming-16"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "at",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sea-13-shipping-14"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-short-12"
+    },
+    {
+      "subject_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6",
+      "relation": "is",
+      "object_id": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-focusing-10"
+    }
+  ],
+  "links": {
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-competitiveness-15": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-solutions-23": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-22": [
+      "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-7"
+    ],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-pillar-3": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-concept-10": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-essential-2": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-co-modality-12": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-defined-14": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-use-18": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-6-corridor-7": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-efficient-17": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-21": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-different-20": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-combination-23": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-8-solutions-9": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-green-2": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11-reductions-12-of-13-environmental-14-impacts-17": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-impacts-17": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-reductions-12": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-7": [
+      "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-22"
+    ],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-environmental-14": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-documented-11": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-characteristics-2": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-traffic-36": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-41-routes-42": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-domestic-33": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transshipment-49": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-Other-1": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-safety-6": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-high-5": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-goods-38": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-long-40": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-logistics-13-applications-14": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-optimized-16-use-17-of-18-modes-20-of-21-transport-22": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-corridor-3-project-4": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-collaboration-6": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-modes-8-of-9-transportation-10": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-integrated-23-logistics-26-system-27": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-country-30-of-31-continental-32-dimensions-33": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-paper-2": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-transportation-6": [],
+    "NE-COUNTRY-Brazil": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-aiming-16": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sea-13-shipping-14": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-short-12": [],
+    "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-focusing-10": []
+  }
+}

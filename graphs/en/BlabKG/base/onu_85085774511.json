@@ -1,0 +1,691 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085774511.txt",
+  "entities": {
+    "NE-TITLE-burner": "burner",
+    "07bf9801-f530-468c-9921-66afca9b2b91-challenges-11": "challenges",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-6": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10": "environmental",
+    "07bf9801-f530-468c-9921-66afca9b2b91-changes-37": "changes",
+    "07bf9801-f530-468c-9921-66afca9b2b91-well-40-weather-42-conditions-43": "well weather conditions",
+    "07bf9801-f530-468c-9921-66afca9b2b91-amounts-10": "amounts",
+    "07bf9801-f530-468c-9921-66afca9b2b91-must-13-brought-15": "must brought",
+    "07bf9801-f530-468c-9921-66afca9b2b91-substantial-9": "substantial",
+    "07bf9801-f530-468c-9921-66afca9b2b91-order-2": "order",
+    "07bf9801-f530-468c-9921-66afca9b2b91-well-6-tests-7": "well tests",
+    "07bf9801-f530-468c-9921-66afca9b2b91-successful-5": "successful",
+    "07bf9801-f530-468c-9921-66afca9b2b91-method-30": "method",
+    "07bf9801-f530-468c-9921-66afca9b2b91-instances-23": "instances",
+    "07bf9801-f530-468c-9921-66afca9b2b91-surface-18": "surface",
+    "07bf9801-f530-468c-9921-66afca9b2b91-most-22": "most",
+    "07bf9801-f530-468c-9921-66afca9b2b91-safest-26": "safest",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-11": "operation",
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19": "nozzle design",
+    "07bf9801-f530-468c-9921-66afca9b2b91-drip-8": "drip",
+    "07bf9801-f530-468c-9921-66afca9b2b91-oil-24": "oil",
+    "07bf9801-f530-468c-9921-66afca9b2b91-free-10": "free",
+    "07bf9801-f530-468c-9921-66afca9b2b91-advanced-17": "advanced",
+    "07bf9801-f530-468c-9921-66afca9b2b91-innovative-16": "innovative",
+    "07bf9801-f530-468c-9921-66afca9b2b91-enabled-13": "enabled",
+    "07bf9801-f530-468c-9921-66afca9b2b91-installed-20": "installed",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-23": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2": "nozzle",
+    "07bf9801-f530-468c-9921-66afca9b2b91-flow-7": "flow",
+    "07bf9801-f530-468c-9921-66afca9b2b91-oil-9": "oil",
+    "NE-ORDINAL-first": "first",
+    "07bf9801-f530-468c-9921-66afca9b2b91-allowing-15": "allowing",
+    "07bf9801-f530-468c-9921-66afca9b2b91-time-20": "time",
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzles-2": "nozzles",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operated-4": "operated",
+    "07bf9801-f530-468c-9921-66afca9b2b91-remotely-5": "remotely",
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-12": "system",
+    "07bf9801-f530-468c-9921-66afca9b2b91-pneumatic-11": "pneumatic",
+    "07bf9801-f530-468c-9921-66afca9b2b91-integrated-10": "integrated",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operators-11": "operators",
+    "07bf9801-f530-468c-9921-66afca9b2b91-flow-16-conditions-17": "flow conditions",
+    "07bf9801-f530-468c-9921-66afca9b2b91-varying-15": "varying",
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-2": "system",
+    "07bf9801-f530-468c-9921-66afca9b2b91-control-4-over-5-individual-7-nozzle-8": "control over individual nozzle",
+    "07bf9801-f530-468c-9921-66afca9b2b91-range-3": "range",
+    "07bf9801-f530-468c-9921-66afca9b2b91-conducted-7": "conducted",
+    "07bf9801-f530-468c-9921-66afca9b2b91-combustion-10-zone-11-gas-12-sampling-13": "combustion zone gas sampling",
+    "07bf9801-f530-468c-9921-66afca9b2b91-wide-2": "wide",
+    "NE-CAUSE_OF_DEATH-burns": "burns",
+    "07bf9801-f530-468c-9921-66afca9b2b91-full-13": "full",
+    "07bf9801-f530-468c-9921-66afca9b2b91-fly-23-nozzle-24-control-25": "fly nozzle control",
+    "07bf9801-f530-468c-9921-66afca9b2b91-scale-15": "scale",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-9": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-testing-5-period-6": "testing period",
+    "NE-DURATION-three-week": "three week",
+    "07bf9801-f530-468c-9921-66afca9b2b91-capability-6": "capability",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-2": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-fallout-8-efficiency-9": "fallout efficiency",
+    "NE-PERCENT-99.99952%": "99.99952 %",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-3": "operation",
+    "07bf9801-f530-468c-9921-66afca9b2b91-conducted-5": "conducted",
+    "07bf9801-f530-468c-9921-66afca9b2b91-offshore-6": "offshore",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "07bf9801-f530-468c-9921-66afca9b2b91-capability-15": "capability",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-11": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-minimum-11": "minimum",
+    "07bf9801-f530-468c-9921-66afca9b2b91-69.48-13-liters-14": "69.48 liters",
+    "07bf9801-f530-468c-9921-66afca9b2b91-excess-4": "excess",
+    "07bf9801-f530-468c-9921-66afca9b2b91-6,700-6-bbls-7": "6,700 bbls",
+    "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5": "jobs",
+    "07bf9801-f530-468c-9921-66afca9b2b91-performed-7": "performed",
+    "07bf9801-f530-468c-9921-66afca9b2b91-32-4": "32",
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-10": "new",
+    "07bf9801-f530-468c-9921-66afca9b2b91-January-17": "January",
+    "07bf9801-f530-468c-9921-66afca9b2b91-success-24-rate-25": "success rate",
+    "NE-DATE-December-2014": "December 2014",
+    "NE-PERCENT-100%": "100 %",
+    "07bf9801-f530-468c-9921-66afca9b2b91-2018-19": "2018",
+    "NE-PERCENT-60%": "60 %",
+    "07bf9801-f530-468c-9921-66afca9b2b91-rotated-12": "rotated",
+    "07bf9801-f530-468c-9921-66afca9b2b91-wind-15-direction-16": "wind direction",
+    "07bf9801-f530-468c-9921-66afca9b2b91-efficiency-21": "efficiency",
+    "07bf9801-f530-468c-9921-66afca9b2b91-field-6-jobs-7": "field jobs",
+    "07bf9801-f530-468c-9921-66afca9b2b91-burning-20": "burning",
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-5": "system",
+    "07bf9801-f530-468c-9921-66afca9b2b91-had-6-used-8": "had used",
+    "07bf9801-f530-468c-9921-66afca9b2b91-different-3": "different",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-25": "operation",
+    "07bf9801-f530-468c-9921-66afca9b2b91-could-26-have-27-delayed-29": "could have delayed",
+    "07bf9801-f530-468c-9921-66afca9b2b91-case-21-scenario-22": "case scenario",
+    "07bf9801-f530-468c-9921-66afca9b2b91-sufficiently-39": "sufficiently",
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-44": "operation",
+    "07bf9801-f530-468c-9921-66afca9b2b91-burning-43": "burning",
+    "07bf9801-f530-468c-9921-66afca9b2b91-worst-20": "worst"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "solve",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-challenges-11"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-6"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-challenges-11",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-changes-37",
+      "relation": "is in",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-well-40-weather-42-conditions-43"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-amounts-10",
+      "relation": "must",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-must-13-brought-15"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-amounts-10",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-substantial-9"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-order-2",
+      "relation": "conduct",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-well-6-tests-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-well-6-tests-7",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-successful-5"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-method-30",
+      "relation": "is burn oil in",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-instances-23"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-must-13-brought-15",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-surface-18"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-instances-23",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-most-22"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-method-30",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-safest-26"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-11",
+      "relation": "is enabled through",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-11",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-drip-8"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "at",
+      "object_id": "NE-TITLE-burner"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "case",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-oil-24"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-11",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-free-10"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-advanced-17"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-innovative-16"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-11",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-enabled-13"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-installed-20"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-23"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2",
+      "relation": "can control",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-flow-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2",
+      "relation": "can precisely control",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-flow-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-flow-7",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-oil-9"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2",
+      "relation": "can control flow through",
+      "object_id": "NE-TITLE-burner"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2",
+      "relation": "can precisely control flow through",
+      "object_id": "NE-TITLE-burner"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-allowing-15"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-time-20"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzles-2",
+      "relation": "are",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-operated-4"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operated-4",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-remotely-5"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-nozzles-2",
+      "relation": "powered by",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-pneumatic-11"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-integrated-10"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operators-11",
+      "relation": "adapt to",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-flow-16-conditions-17"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-flow-16-conditions-17",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-varying-15"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-2",
+      "relation": "permits",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-control-4-over-5-individual-7-nozzle-8"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-range-3",
+      "relation": "were",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-conducted-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-range-3",
+      "relation": "were conducted including",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-combustion-10-zone-11-gas-12-sampling-13"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-range-3",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-wide-2"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "flawlessly executed",
+      "object_id": "NE-CAUSE_OF_DEATH-burns"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-burns",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-full-13"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "provided",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-fly-23-nozzle-24-control-25"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "executed",
+      "object_id": "NE-CAUSE_OF_DEATH-burns"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-burns",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-scale-15"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-9"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "flawlessly executed scale burns Over",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-testing-5-period-6"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-testing-5-period-6",
+      "relation": "of",
+      "object_id": "NE-DURATION-three-week"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "executed scale burns Over",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-testing-5-period-6"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "demonstrated",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-capability-6"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-2"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "has",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-capability-6"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "achieved",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-fallout-8-efficiency-9"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-fallout-8-efficiency-9",
+      "relation": "of",
+      "object_id": "NE-PERCENT-99.99952%"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-3",
+      "relation": "was",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-conducted-5"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-conducted-5",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-offshore-6"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-3",
+      "relation": "was conducted in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-3",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "demonstrated",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-capability-15"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-11"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-3",
+      "relation": "was conducted offshore in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "preventing",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-minimum-11"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-minimum-11",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-69.48-13-liters-14"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "flowed in",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-excess-4"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-excess-4",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-6,700-6-bbls-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "were",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-performed-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "amount to",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-32-4"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-performed-7",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "were performed with",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-new-10"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-performed-7",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-January-17"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-performed-7",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-success-24-rate-25"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-performed-7",
+      "relation": "at",
+      "object_id": "NE-DATE-December-2014"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "were performed with",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-success-24-rate-25"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-success-24-rate-25",
+      "relation": "of",
+      "object_id": "NE-PERCENT-100%"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "were performed to",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-January-17"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-January-17",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-2018-19"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-12",
+      "relation": "of",
+      "object_id": "NE-TITLE-burner"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5",
+      "relation": "were performed from",
+      "object_id": "NE-DATE-December-2014"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "was rotated In",
+      "object_id": "NE-PERCENT-60%"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "was",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-rotated-12"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-wind-15-direction-16",
+      "relation": "improve",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-efficiency-21"
+    },
+    {
+      "subject_id": "NE-TITLE-burner",
+      "relation": "accommodate",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-wind-15-direction-16"
+    },
+    {
+      "subject_id": "NE-PERCENT-60%",
+      "relation": "of",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-field-6-jobs-7"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-efficiency-21",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-burning-20"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-5",
+      "relation": "had",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-had-6-used-8"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-5",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-different-3"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-25",
+      "relation": "could",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-could-26-have-27-delayed-29"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-could-26-have-27-delayed-29",
+      "relation": "at",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-case-21-scenario-22"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-system-5",
+      "relation": "of",
+      "object_id": "NE-TITLE-burner"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-sufficiently-39",
+      "relation": "allow",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-44"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-operation-44",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-burning-43"
+    },
+    {
+      "subject_id": "07bf9801-f530-468c-9921-66afca9b2b91-could-26-have-27-delayed-29",
+      "relation": "is",
+      "object_id": "07bf9801-f530-468c-9921-66afca9b2b91-worst-20"
+    }
+  ],
+  "links": {
+    "NE-TITLE-burner": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-challenges-11": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-6": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-9",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-2",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-11"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-changes-37": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-well-40-weather-42-conditions-43": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-amounts-10": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-must-13-brought-15": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-substantial-9": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-order-2": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-well-6-tests-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-successful-5": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-method-30": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-instances-23": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-surface-18": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-most-22": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-safest-26": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-11": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-18-design-19": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-drip-8": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-oil-24": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-free-10": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-advanced-17": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-innovative-16": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-enabled-13": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-installed-20": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-23": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzle-2": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-flow-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-oil-9": [],
+    "NE-ORDINAL-first": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-allowing-15": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-time-20": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-nozzles-2": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operated-4": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-remotely-5": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-12": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-system-5"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-pneumatic-11": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-integrated-10": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operators-11": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-flow-16-conditions-17": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-varying-15": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-2": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-control-4-over-5-individual-7-nozzle-8": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-range-3": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-conducted-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-combustion-10-zone-11-gas-12-sampling-13": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-wide-2": [],
+    "NE-CAUSE_OF_DEATH-burns": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-full-13": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-fly-23-nozzle-24-control-25": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-scale-15": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-9": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-6",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-2",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-11"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-testing-5-period-6": [],
+    "NE-DURATION-three-week": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-capability-6": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-capability-15"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-2": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-6",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-9",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-11"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-fallout-8-efficiency-9": [],
+    "NE-PERCENT-99.99952%": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-3": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-conducted-5": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-offshore-6": [],
+    "NE-COUNTRY-Brazil": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-capability-15": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-capability-6"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-11": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-6",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-9",
+      "07bf9801-f530-468c-9921-66afca9b2b91-new-2"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-minimum-11": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-69.48-13-liters-14": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-excess-4": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-6,700-6-bbls-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-jobs-5": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-performed-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-32-4": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-new-10": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-January-17": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-success-24-rate-25": [],
+    "NE-DATE-December-2014": [],
+    "NE-PERCENT-100%": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-2018-19": [],
+    "NE-PERCENT-60%": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-rotated-12": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-wind-15-direction-16": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-efficiency-21": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-field-6-jobs-7": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-burning-20": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-system-5": [
+      "07bf9801-f530-468c-9921-66afca9b2b91-system-12"
+    ],
+    "07bf9801-f530-468c-9921-66afca9b2b91-had-6-used-8": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-different-3": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-25": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-could-26-have-27-delayed-29": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-case-21-scenario-22": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-sufficiently-39": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-operation-44": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-burning-43": [],
+    "07bf9801-f530-468c-9921-66afca9b2b91-worst-20": []
+  }
+}

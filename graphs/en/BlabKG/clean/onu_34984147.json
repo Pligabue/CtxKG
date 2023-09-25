@@ -1,0 +1,169 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_34984147.txt",
+  "entities": {
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-ABS-1": "ABS",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8": "contract",
+    "NE-MISC-RBI": "RBI",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20": "program",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-industry-5": "industry",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-offshore-23": "offshore",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-integrated-11": "integrated",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-24": "floating",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-structure-25": "structure",
+    "NE-ORDINAL-first": "first",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11": "contract for integrated",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20-for-21-offshore-23-floating-24-structure-25": "program for offshore floating structure",
+    "NE-LOCATION-Basin": "Basin",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-2": "contract",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19": "P35 production offloading operating",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-9": "floating",
+    "NE-CITY-Campos": "Campos",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-project-5": "project",
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-phases-7": "phases"
+  },
+  "graph": [
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-ABS-1",
+      "relation": "has secured",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "of",
+      "object_id": "NE-MISC-RBI"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "of",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-industry-5",
+      "relation": "has",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "is",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-offshore-23"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "is",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-integrated-11"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "is",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-24"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "of",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-structure-25"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8",
+      "relation": "is",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-industry-5",
+      "relation": "has",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11",
+      "relation": "of",
+      "object_id": "NE-MISC-RBI"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11",
+      "relation": "of",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20-for-21-offshore-23-floating-24-structure-25"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-2",
+      "relation": "comes from",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-2",
+      "relation": "comes for",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19",
+      "relation": "is",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-ABS-1",
+      "relation": "will execute",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-project-5"
+    },
+    {
+      "subject_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-ABS-1",
+      "relation": "will execute project in",
+      "object_id": "062d31d3-c60f-4bb0-b8f7-486f7164d436-phases-7"
+    }
+  ],
+  "links": {
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-ABS-1": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8": [],
+    "NE-MISC-RBI": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-industry-5": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-offshore-23": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-integrated-11": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-24": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-structure-25": [],
+    "NE-ORDINAL-first": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-8-for-9-integrated-11": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-program-20-for-21-offshore-23-floating-24-structure-25": [],
+    "NE-LOCATION-Basin": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-contract-2": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-P35-8-production-10-offloading-12-operating-19": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-9": [],
+    "NE-CITY-Campos": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-project-5": [],
+    "062d31d3-c60f-4bb0-b8f7-486f7164d436-phases-7": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85066623384.txt",
+  "entities": {
+    "63257db0-7292-4593-96e1-aae426bbf829-paper-2": "paper",
+    "63257db0-7292-4593-96e1-aae426bbf829-case-5-study-6-approach-7": "case study approach",
+    "63257db0-7292-4593-96e1-aae426bbf829-development-5": "development",
+    "63257db0-7292-4593-96e1-aae426bbf829-Production-9-Contract-11": "Production Contract",
+    "NE-PERSON-Libra": "Libra",
+    "63257db0-7292-4593-96e1-aae426bbf829-block-4": "block",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-TITLE-operator": "operator",
+    "63257db0-7292-4593-96e1-aae426bbf829-where-18": "where",
+    "63257db0-7292-4593-96e1-aae426bbf829-partnership-24": "partnership",
+    "NE-ORGANIZATION-Shell": "Shell",
+    "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1": "Additionally",
+    "63257db0-7292-4593-96e1-aae426bbf829-Sharing-10": "Sharing",
+    "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9": "subsea achievements",
+    "NE-CAUSE_OF_DEATH-execution": "execution",
+    "63257db0-7292-4593-96e1-aae426bbf829-technological-8": "technological",
+    "63257db0-7292-4593-96e1-aae426bbf829-main-6": "main",
+    "63257db0-7292-4593-96e1-aae426bbf829-EWT-21-Project-23": "EWT Project"
+  },
+  "graph": [
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-paper-2",
+      "relation": "uses",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-case-5-study-6-approach-7"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-development-5",
+      "relation": "is under",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-Production-9-Contract-11"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-development-5",
+      "relation": "of",
+      "object_id": "NE-PERSON-Libra"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-development-5",
+      "relation": "of",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-block-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is",
+      "object_id": "NE-TITLE-operator"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "at",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-where-18"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is operator in",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-partnership-24"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-partnership-24",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Shell"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "of",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-partnership-24"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-Production-9-Contract-11",
+      "relation": "at",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-development-5",
+      "relation": "is",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-Sharing-10"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-partnership-24",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Shell"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-Production-9-Contract-11",
+      "relation": "is",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-Sharing-10"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "is in",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-partnership-24"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "made so far during",
+      "object_id": "NE-CAUSE_OF_DEATH-execution"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "is",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-technological-8"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "made during",
+      "object_id": "NE-CAUSE_OF_DEATH-execution"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "made far and future technologies during",
+      "object_id": "NE-CAUSE_OF_DEATH-execution"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "is",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-main-6"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-execution",
+      "relation": "of",
+      "object_id": "63257db0-7292-4593-96e1-aae426bbf829-EWT-21-Project-23"
+    },
+    {
+      "subject_id": "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9",
+      "relation": "made far during",
+      "object_id": "NE-CAUSE_OF_DEATH-execution"
+    }
+  ],
+  "links": {
+    "63257db0-7292-4593-96e1-aae426bbf829-paper-2": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-case-5-study-6-approach-7": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-development-5": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-Production-9-Contract-11": [],
+    "NE-PERSON-Libra": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-block-4": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-TITLE-operator": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-where-18": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-partnership-24": [],
+    "NE-ORGANIZATION-Shell": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-Sharing-10": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-subsea-7-achievements-9": [],
+    "NE-CAUSE_OF_DEATH-execution": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-technological-8": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-main-6": [],
+    "63257db0-7292-4593-96e1-aae426bbf829-EWT-21-Project-23": []
+  }
+}

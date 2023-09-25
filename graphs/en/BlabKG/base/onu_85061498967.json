@@ -1,0 +1,469 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85061498967.txt",
+  "entities": {
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ocean-5-acidification-6": "ocean acidification",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16": "physiology",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-algae-19": "algae",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcifying-18": "calcifying",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-effect-3": "effect",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-uncertain-23": "uncertain",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-still-21": "still",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-warming-11": "warming",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ultimate-2": "ultimate",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Responses-1": "Responses",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-6": "interactions",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-8-chemistry-9": "seawater chemistry",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiologies-19": "physiologies",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-complex-5": "complex",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-11": "interactions",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-19-chemistry-20": "seawater chemistry",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-local-18": "local",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10": "metabolic",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-temperature-7": "temperature",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16": "two photoautotrophs",
+    "NE-TITLE-marine": "marine",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18": "shallow",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21": "coastal",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-common-15": "common",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-tropical-19": "tropical",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ecosystems-22": "ecosystems",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18-tropical-19": "shallow tropical",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21-ecosystems-22": "coastal ecosystems",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-we-3": "we",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-5": "CO2",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-presence-7": "presence",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12": "calcification rate",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seagrass-6": "seagrass",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-18": "species",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Halimeda-20": "Halimeda",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-widespread-15": "widespread",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-22": "OA",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12": "rates",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-7": "CO2",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-elevated-6": "elevated",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32": "H. cuneata populations",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44": "OA conditions",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41": "resilience",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-19-cuneata-20-calcification-21": "H. cuneata calcification",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-high-10": "high",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-higher-40": "higher",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-photosynthetic-11": "photosynthetic",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-35-wrightii-36": "H. wrightii",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19": "interactions",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-reef-14-environments-15": "reef environments",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-18": "metabolic",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36": "resilience",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-39": "more",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-refuge-29": "refuge",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-instrumental-26": "instrumental",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-conclusion-2": "conclusion",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-hypothesis-7": "hypothesis",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-5": "more",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-40-susceptible-42": "OA susceptible",
+    "NE-TITLE-general": "general",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-43": "species",
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-11": "coastal"
+  },
+  "graph": [
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ocean-5-acidification-6",
+      "relation": "have on",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-algae-19"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcifying-18"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-effect-3",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-uncertain-23"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-uncertain-23",
+      "relation": "at",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-still-21"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-warming-11",
+      "relation": "have on",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-effect-3",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ultimate-2"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Responses-1",
+      "relation": "depend physiologies on",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-6"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-6",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-8-chemistry-9"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Responses-1",
+      "relation": "depend",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiologies-19"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-6",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-complex-5"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-11",
+      "relation": "have on",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-19-chemistry-20"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-19-chemistry-20",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-local-18"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-11",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-temperature-7",
+      "relation": "physiological responses of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "of",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-temperature-7",
+      "relation": "responses of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-common-15"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-tropical-19"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ecosystems-22"
+    },
+    {
+      "subject_id": "NE-TITLE-marine",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-TITLE-marine",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18-tropical-19"
+    },
+    {
+      "subject_id": "NE-TITLE-marine",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21-ecosystems-22"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-we-3",
+      "relation": "Here manipulated",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-5"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-we-3",
+      "relation": "manipulated",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-5"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-presence-7",
+      "relation": "influence",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-presence-7",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seagrass-6"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-18"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Halimeda-20"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-widespread-15"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-presence-7",
+      "relation": "influence calcification rate under",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-22"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12",
+      "relation": "contribute under",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-7"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-7",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-elevated-6"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32",
+      "relation": "have",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32",
+      "relation": "have",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32",
+      "relation": "higher resilience to",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12",
+      "relation": "raise more",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-19-cuneata-20-calcification-21"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-high-10"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-higher-40"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-photosynthetic-11"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32",
+      "relation": "coexisting with",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-35-wrightii-36"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12",
+      "relation": "raise",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-19-cuneata-20-calcification-21"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32",
+      "relation": "resilience to",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19",
+      "relation": "are instrumental in",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-reef-14-environments-15"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-18"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19",
+      "relation": "increasing",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36",
+      "relation": "at",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-39"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19",
+      "relation": "are instrumental in",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-refuge-29"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19",
+      "relation": "are",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-instrumental-26"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-instrumental-26",
+      "relation": "at",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-reef-14-environments-15"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-instrumental-26",
+      "relation": "at",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-refuge-29"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-conclusion-2",
+      "relation": "supports",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-hypothesis-7"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-hypothesis-7",
+      "relation": "at",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-5"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-40-susceptible-42"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-hypothesis-7",
+      "relation": "is",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36",
+      "relation": "of",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-43"
+    },
+    {
+      "subject_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-reef-14-environments-15",
+      "relation": "is",
+      "object_id": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-11"
+    }
+  ],
+  "links": {
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ocean-5-acidification-6": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiology-16": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-algae-19": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcifying-18": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-effect-3": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-uncertain-23": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-still-21": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-warming-11": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ultimate-2": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Responses-1": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-6": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-8-chemistry-9": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-19-chemistry-20"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-physiologies-19": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-complex-5": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-11": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-19-chemistry-20": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seawater-8-chemistry-9"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-local-18": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-18"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-temperature-7": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-two-14-photoautotrophs-16": [],
+    "NE-TITLE-marine": [],
+    "NE-COUNTRY-Brazil": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-common-15": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-tropical-19": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-ecosystems-22": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-shallow-18-tropical-19": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-21-ecosystems-22": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-we-3": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-5": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-presence-7": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-calcification-11-rate-12": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-seagrass-6": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-18": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-43"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-Halimeda-20": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-widespread-15": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-22": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-rates-12": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-CO2-7": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-elevated-6": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-30-cuneata-31-populations-32": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-43-conditions-44": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-19-cuneata-20-calcification-21": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-high-10": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-higher-40": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-photosynthetic-11": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-H.-35-wrightii-36": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-19": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-interactions-11"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-reef-14-environments-15": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-18": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-36": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-resilience-41"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-39": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-5"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-refuge-29": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-instrumental-26": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-conclusion-2": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-hypothesis-7": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-5": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-more-39"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-OA-40-susceptible-42": [],
+    "NE-TITLE-general": [],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-43": [
+      "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-18"
+    ],
+    "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-11": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84900305359.txt",
+  "entities": {
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7": "data",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-used-10": "used",
+    "NE-ORGANIZATION-OBS": "OBS",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-Ocean-1": "Ocean",
+    "NE-LOCATION-West-Africa": "West Africa",
+    "NE-COUNTRY-Mexico": "Mexico",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-towed-63-streamer-64-surveys-65": "towed streamer surveys",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-size-68": "size",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-dint-49": "dint",
+    "NE-LOCATION-Gulf-of": "Gulf",
+    "NE-DURATION-years": "years",
+    "NE-LOCATION-North-Sea": "North Sea",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-appraisal-12-applications-15": "appraisal applications",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-kilometer-26-rates-27": "kilometer rates",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-lower-29": "lower",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-square-25": "square",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-34": "data",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-more-33": "more",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-streamer-8": "streamer",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-line-11-change-12-for-13-towed-14-streamer-15-operations-16": "line change for towed streamer operations",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-full-7": "full",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-It-1": "It",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-akin-3": "akin",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-seafloor-28": "seafloor",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-operated-32": "operated",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-larger-27": "larger",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-to-30": "to",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-desire-2": "desire",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-performance-6": "performance",
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5": "operational"
+  },
+  "graph": [
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7",
+      "relation": "been",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-used-10"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-OBS"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7",
+      "relation": "of",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-Ocean-1"
+    },
+    {
+      "subject_id": "NE-LOCATION-West-Africa",
+      "relation": "Gulf of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-towed-63-streamer-64-surveys-65",
+      "relation": "is in",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-size-68"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-dint-49",
+      "relation": "by Africa is",
+      "object_id": "NE-LOCATION-Gulf-of"
+    },
+    {
+      "subject_id": "NE-DURATION-years",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7",
+      "relation": "been used for",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-appraisal-12-applications-15"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-kilometer-26-rates-27",
+      "relation": "were",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-lower-29"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-kilometer-26-rates-27",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-square-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-OBS",
+      "relation": "shoot data",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-lower-29"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-OBS",
+      "relation": "shoot",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-34"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-34",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-more-33"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-streamer-8",
+      "relation": "spread",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-line-11-change-12-for-13-towed-14-streamer-15-operations-16"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-streamer-8",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-full-7"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-It-1",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-akin-3"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-seafloor-28",
+      "relation": "spreads",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operated-32"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-seafloor-28",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-larger-27"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operated-32",
+      "relation": "mark",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-to-30"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-desire-2",
+      "relation": "improve",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-performance-6"
+    },
+    {
+      "subject_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-performance-6",
+      "relation": "is",
+      "object_id": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5"
+    }
+  ],
+  "links": {
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-7": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-used-10": [],
+    "NE-ORGANIZATION-OBS": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-Ocean-1": [],
+    "NE-LOCATION-West-Africa": [],
+    "NE-COUNTRY-Mexico": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-towed-63-streamer-64-surveys-65": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-size-68": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-dint-49": [],
+    "NE-LOCATION-Gulf-of": [],
+    "NE-DURATION-years": [],
+    "NE-LOCATION-North-Sea": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-appraisal-12-applications-15": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-kilometer-26-rates-27": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-lower-29": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-square-25": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-data-34": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-more-33": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-streamer-8": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-line-11-change-12-for-13-towed-14-streamer-15-operations-16": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-full-7": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-It-1": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-akin-3": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-seafloor-28": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-operated-32": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-larger-27": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-to-30": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-desire-2": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-performance-6": [],
+    "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5": []
+  }
+}

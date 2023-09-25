@@ -1,0 +1,543 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_81855167522.txt",
+  "entities": {
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-overview-2": "overview",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7": "E&P developments",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-5": "offshore",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-policy-21": "policy",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-24": "sub-salt",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-ongoing-4": "ongoing",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Information-1": "Information",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13": "discussions",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-pre-18-salt-20-sub-salt-22": "pre salt sub-salt",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-water-25": "water",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-discoveries-15": "discoveries",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-activity-4": "activity",
+    "NE-COUNTRY-America": "America",
+    "NE-ORGANIZATION-E&P": "E&P",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-deep-24-water-25": "deep water",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Discoveries-1": "Discoveries",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-are-2-made-4": "are made",
+    "NE-PERSON-Santos": "Santos",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-basins-10": "basins",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-is-3-making-4": "is making",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-12": "cited",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Contracts-1": "Contracts",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-6": "companies",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-equipment-10": "equipment",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-9": "subsea",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-map-2": "map",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5": "location",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-9": "offshore",
+    "NE-PERSON-Campos": "Campos",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsalt-59-strata-60": "subsalt strata",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-strategic-63-areas-64": "strategic areas",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-agreements-2": "agreements",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-4": "cited",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Frame-1": "Frame",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-production-46-sharing-47-contracts-48": "production sharing contracts",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-28-use-29": "subsea use",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-idea-2": "idea",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18": "infringing",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11": "hydrocarbons",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-development-16": "development",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-24": "companies",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-profits-7": "profits",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-private-23": "private",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-10": "sub-salt",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-social-13": "social",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-rights-21": "rights",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-28,000-5-km-6": "28,000 km",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-agreement-2": "agreement",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-company-5": "company",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-activities-2": "activities",
+    "NE-ORGANIZATION-Peruvian-E&P": "Peruvian E&P",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Perla-19": "Perla",
+    "NE-COUNTRY-Venezuela": "Venezuela",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-IX-20": "IX",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-gas-16": "gas",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-reserves-31": "reserves",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-6-34-tcf-35": "6 tcf",
+    "NE-ORGANIZATION-Cardon-IV-SA": "Cardon IV SA",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-240-25-m-26": "240 m",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-field-29": "field",
+    "NE-ORGANIZATION-Eni": "Eni",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-quality-6-gas-7": "quality gas",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10": "has produced",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-high-5": "high",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-production-2-tests-3": "production tests",
+    "NE-DURATION-day": "day",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-600,000-12-cu-13-m-14": "600,000 cu m",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-southern-44-point-45": "southern point",
+    "NE-LOCATION-Tierra-del-Fuego": "Tierra del Fuego",
+    "NE-NATIONALITY-Argentinian": "Argentinian",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9": "processing",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-interpretation-11": "interpretation",
+    "NE-ORGANIZATION-ION-Geophysical": "ION Geophysical",
+    "NE-COUNTRY-Argentina": "Argentina",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-data-13": "data",
+    "NE-MISC-seismic-ArgentineSPAN": "seismic ArgentineSPAN",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-relating-14": "relating",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-program-2": "program",
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-ocean-10-basins-11": "ocean basins"
+  },
+  "graph": [
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-overview-2",
+      "relation": "covers",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-5"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-policy-21",
+      "relation": "is in",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-24"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-ongoing-4"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Information-1",
+      "relation": "begins in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Information-1",
+      "relation": "includes",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-pre-18-salt-20-sub-salt-22"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-water-25"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discoveries-15"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-activity-4",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-activity-4",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-E&P"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "is in",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-deep-24-water-25"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-deep-24-water-25"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13",
+      "relation": "is in",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-pre-18-salt-20-sub-salt-22"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Discoveries-1",
+      "relation": "are",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-are-2-made-4"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-are-2-made-4",
+      "relation": "of",
+      "object_id": "NE-PERSON-Santos"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-are-2-made-4",
+      "relation": "at",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-basins-10"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-is-3-making-4",
+      "relation": "are",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-12"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-is-3-making-4",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-is-3-making-4",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Contracts-1"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-6",
+      "relation": "supply",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-equipment-10"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-equipment-10",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-9"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-map-2",
+      "relation": "illustrates",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-basins-10"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-9"
+    },
+    {
+      "subject_id": "NE-PERSON-Santos",
+      "relation": "is",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-subsalt-59-strata-60",
+      "relation": "is in",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-strategic-63-areas-64"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-agreements-2",
+      "relation": "are",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-4"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-agreements-2",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Frame-1"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-production-46-sharing-47-contracts-48",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-28-use-29",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-idea-2",
+      "relation": "is use profits without",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-idea-2",
+      "relation": "is use profits from",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-development-16"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-24"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-idea-2",
+      "relation": "is use",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-profits-7"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-private-23"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-10"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-social-13"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-rights-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ION-Geophysical",
+      "relation": "has acquired",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-28,000-5-km-6"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-agreement-2",
+      "relation": "is with",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-company-5"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-activities-2",
+      "relation": "is in",
+      "object_id": "NE-ORGANIZATION-Peruvian-E&P"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-activities-2",
+      "relation": "are",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-4"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Perla-19",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Venezuela"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Perla-19",
+      "relation": "dep",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-IX-20"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-gas-16",
+      "relation": "has",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-reserves-31"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-reserves-31",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-6-34-tcf-35"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Cardon-IV-SA",
+      "relation": "has discovered",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-gas-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Cardon-IV-SA",
+      "relation": "has discovered gas at",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-Perla-19"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-240-25-m-26",
+      "relation": "indicating",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-field-29"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-240-25-m-26",
+      "relation": "at",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-gas-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Cardon-IV-SA",
+      "relation": "company of",
+      "object_id": "NE-ORGANIZATION-Eni"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Cardon-IV-SA",
+      "relation": "has discovered gas at",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-240-25-m-26"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-quality-6-gas-7",
+      "relation": "has",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-quality-6-gas-7",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-high-5"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10",
+      "relation": "case",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-production-2-tests-3"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10",
+      "relation": "at",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10",
+      "relation": "case",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-600,000-12-cu-13-m-14"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-southern-44-point-45",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Tierra-del-Fuego"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-southern-44-point-45",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Argentinian"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "Argentina",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-interpretation-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ION-Geophysical",
+      "relation": "has completed processing In",
+      "object_id": "NE-COUNTRY-Argentina"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ION-Geophysical",
+      "relation": "has completed",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "of",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-data-13"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "Geophysical",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-interpretation-11"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "at",
+      "object_id": "NE-MISC-seismic-ArgentineSPAN"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "has",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-interpretation-11"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9",
+      "relation": "is",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-relating-14"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-program-2",
+      "relation": "offers resolution images in",
+      "object_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-ocean-10-basins-11"
+    },
+    {
+      "subject_id": "67a11e3d-316d-4504-abb6-d3f419bb7620-ocean-10-basins-11",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Argentina"
+    }
+  ],
+  "links": {
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-overview-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-E&P-6-developments-7": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-5": [],
+    "NE-COUNTRY-Brazil": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-policy-21": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-24": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-ongoing-4": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Information-1": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-discussions-13": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-pre-18-salt-20-sub-salt-22": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-water-25": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-discoveries-15": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-activity-4": [],
+    "NE-COUNTRY-America": [],
+    "NE-ORGANIZATION-E&P": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-deep-24-water-25": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Discoveries-1": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-are-2-made-4": [],
+    "NE-PERSON-Santos": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-basins-10": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-is-3-making-4": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-12": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Contracts-1": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-6": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-equipment-10": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-9": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-map-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-location-5": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-offshore-9": [],
+    "NE-PERSON-Campos": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsalt-59-strata-60": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-strategic-63-areas-64": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-agreements-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-cited-4": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Frame-1": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-production-46-sharing-47-contracts-48": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-28-use-29": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-idea-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-infringing-18": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-hydrocarbons-11": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-development-16": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-24": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-profits-7": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-private-23": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-sub-salt-10": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-social-13": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-rights-21": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-28,000-5-km-6": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-agreement-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-company-5": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-activities-2": [],
+    "NE-ORGANIZATION-Peruvian-E&P": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-Perla-19": [],
+    "NE-COUNTRY-Venezuela": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-IX-20": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-gas-16": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-reserves-31": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-6-34-tcf-35": [],
+    "NE-ORGANIZATION-Cardon-IV-SA": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-240-25-m-26": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-field-29": [],
+    "NE-ORGANIZATION-Eni": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-quality-6-gas-7": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-has-8-produced-10": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-high-5": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-production-2-tests-3": [],
+    "NE-DURATION-day": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-600,000-12-cu-13-m-14": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-southern-44-point-45": [],
+    "NE-LOCATION-Tierra-del-Fuego": [],
+    "NE-NATIONALITY-Argentinian": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-processing-9": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-interpretation-11": [],
+    "NE-ORGANIZATION-ION-Geophysical": [],
+    "NE-COUNTRY-Argentina": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-data-13": [],
+    "NE-MISC-seismic-ArgentineSPAN": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-relating-14": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-program-2": [],
+    "67a11e3d-316d-4504-abb6-d3f419bb7620-ocean-10-basins-11": []
+  }
+}

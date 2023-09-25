@@ -1,0 +1,383 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85084634006.txt",
+  "entities": {
+    "a407c16e-080e-4100-9fc2-914500db52e5-drilling-7": "drilling",
+    "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19": "barrier",
+    "a407c16e-080e-4100-9fc2-914500db52e5-salt-22-sequences-23": "salt sequences",
+    "a407c16e-080e-4100-9fc2-914500db52e5-oil-9-wells-12": "oil wells",
+    "a407c16e-080e-4100-9fc2-914500db52e5-basins-16": "basins",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "a407c16e-080e-4100-9fc2-914500db52e5-scenario-4": "scenario",
+    "NE-DATE-current": "current",
+    "a407c16e-080e-4100-9fc2-914500db52e5-offshore-15": "offshore",
+    "a407c16e-080e-4100-9fc2-914500db52e5-sequences-8": "sequences",
+    "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15": "saline lithotypes",
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-17": "different",
+    "a407c16e-080e-4100-9fc2-914500db52e5-behavior-21": "behavior",
+    "a407c16e-080e-4100-9fc2-914500db52e5-physical-18": "physical",
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-17-physical-18-behavior-21": "different physical behavior",
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-13": "different",
+    "a407c16e-080e-4100-9fc2-914500db52e5-thickness-5": "thickness",
+    "a407c16e-080e-4100-9fc2-914500db52e5-crossing-21-salt-22-sequences-23-composition-12": "crossing salt sequences composition",
+    "a407c16e-080e-4100-9fc2-914500db52e5-properties-6": "properties",
+    "a407c16e-080e-4100-9fc2-914500db52e5-importance-14": "importance",
+    "a407c16e-080e-4100-9fc2-914500db52e5-characterization-2": "characterization",
+    "a407c16e-080e-4100-9fc2-914500db52e5-well-16": "well",
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5": "mechanical",
+    "a407c16e-080e-4100-9fc2-914500db52e5-extreme-13": "extreme",
+    "a407c16e-080e-4100-9fc2-914500db52e5-casings-23": "casings",
+    "a407c16e-080e-4100-9fc2-914500db52e5-projects-17": "projects",
+    "a407c16e-080e-4100-9fc2-914500db52e5-saline-8-lithotypes-9": "saline lithotypes",
+    "a407c16e-080e-4100-9fc2-914500db52e5-used-15": "used",
+    "a407c16e-080e-4100-9fc2-914500db52e5-several-7": "several",
+    "a407c16e-080e-4100-9fc2-914500db52e5-then-18": "then",
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-20": "mechanofacies",
+    "a407c16e-080e-4100-9fc2-914500db52e5-to-16-group-17": "to group",
+    "a407c16e-080e-4100-9fc2-914500db52e5-paper-4": "paper",
+    "NE-DATE-present": "present",
+    "a407c16e-080e-4100-9fc2-914500db52e5-use-5": "use",
+    "a407c16e-080e-4100-9fc2-914500db52e5-addition-2": "addition",
+    "a407c16e-080e-4100-9fc2-914500db52e5-identification-10": "identification",
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-7": "mechanofacies",
+    "a407c16e-080e-4100-9fc2-914500db52e5-regions-12": "regions",
+    "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14-mechanical-15-behavior-16": "anomalous mechanical behavior",
+    "a407c16e-080e-4100-9fc2-914500db52e5-behavior-16": "behavior",
+    "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14": "anomalous",
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-15": "mechanical",
+    "NE-TITLE-model": "model",
+    "a407c16e-080e-4100-9fc2-914500db52e5-able-5": "able",
+    "a407c16e-080e-4100-9fc2-914500db52e5-3D-2": "3D",
+    "a407c16e-080e-4100-9fc2-914500db52e5-heterogeneity-9": "heterogeneity",
+    "a407c16e-080e-4100-9fc2-914500db52e5-section-18": "section",
+    "a407c16e-080e-4100-9fc2-914500db52e5-evaporite-17": "evaporite",
+    "a407c16e-080e-4100-9fc2-914500db52e5-study-21-area-22": "study area",
+    "a407c16e-080e-4100-9fc2-914500db52e5-Validation-1-wells-2": "Validation wells",
+    "a407c16e-080e-4100-9fc2-914500db52e5-methodology-8": "methodology",
+    "a407c16e-080e-4100-9fc2-914500db52e5-results-11": "results",
+    "a407c16e-080e-4100-9fc2-914500db52e5-observed-13": "observed",
+    "a407c16e-080e-4100-9fc2-914500db52e5-good-10": "good",
+    "a407c16e-080e-4100-9fc2-914500db52e5-used-4": "used"
+  },
+  "graph": [
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-drilling-7",
+      "relation": "faces",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-salt-22-sequences-23"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19",
+      "relation": "drilling of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-oil-9-wells-12"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19",
+      "relation": "drilling in",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-basins-16"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-basins-16",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-drilling-7",
+      "relation": "faces barrier In",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-scenario-4"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-scenario-4",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-drilling-7",
+      "relation": "is in",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-basins-16"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-basins-16",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-offshore-15"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-sequences-8",
+      "relation": "present",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-different-17"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-behavior-21"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-physical-18"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "is with",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-different-17-physical-18-behavior-21"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-different-13"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-sequences-8",
+      "relation": "present saline lithotypes In",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-thickness-5"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-sequences-8",
+      "relation": "present saline lithotypes in",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-crossing-21-salt-22-sequences-23-composition-12"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-different-17-physical-18-behavior-21"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-properties-6",
+      "relation": "characterization of is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-characterization-2",
+      "relation": "is of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-well-16"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-properties-6",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-extreme-13"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14",
+      "relation": "design of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-casings-23"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-projects-17"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-8-lithotypes-9",
+      "relation": "were",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-saline-8-lithotypes-9",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-several-7"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15",
+      "relation": "at",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-then-18"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15",
+      "relation": "at",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-20"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15",
+      "relation": "at",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-to-16-group-17"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15",
+      "relation": "case",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-paper-4"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-15",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-use-5",
+      "relation": "allows identification In",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-addition-2"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "use of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-7"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-regions-12",
+      "relation": "is with",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14-mechanical-15-behavior-16"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-use-5",
+      "relation": "allows",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-regions-12"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-behavior-16"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-15"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-identification-10",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14-mechanical-15-behavior-16"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-able-5"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-3D-2"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-heterogeneity-9",
+      "relation": "observed in",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-section-18"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-section-18",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-evaporite-17"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-section-18",
+      "relation": "of",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-study-21-area-22"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-Validation-1-wells-2",
+      "relation": "verify",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-methodology-8"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-results-11",
+      "relation": "were",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-observed-13"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-results-11",
+      "relation": "is",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-good-10"
+    },
+    {
+      "subject_id": "a407c16e-080e-4100-9fc2-914500db52e5-Validation-1-wells-2",
+      "relation": "were",
+      "object_id": "a407c16e-080e-4100-9fc2-914500db52e5-used-4"
+    }
+  ],
+  "links": {
+    "a407c16e-080e-4100-9fc2-914500db52e5-drilling-7": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-barrier-19": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-salt-22-sequences-23": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-oil-9-wells-12": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-basins-16": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-scenario-4": [],
+    "NE-DATE-current": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-offshore-15": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-sequences-8": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-saline-8-lithotypes-9"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-17": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-different-13"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-behavior-21": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-physical-18": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-17-physical-18-behavior-21": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-different-13": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-different-17"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-thickness-5": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-crossing-21-salt-22-sequences-23-composition-12": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-properties-6": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-importance-14": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-characterization-2": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-well-16": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-extreme-13": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-casings-23": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-projects-17": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-saline-8-lithotypes-9": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-saline-14-lithotypes-15"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-used-15": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-several-7": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-then-18": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-20": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-7"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-to-16-group-17": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-paper-4": [],
+    "NE-DATE-present": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-use-5": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-addition-2": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-identification-10": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-7": [
+      "a407c16e-080e-4100-9fc2-914500db52e5-mechanofacies-20"
+    ],
+    "a407c16e-080e-4100-9fc2-914500db52e5-regions-12": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14-mechanical-15-behavior-16": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-behavior-16": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-anomalous-14": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-15": [],
+    "NE-TITLE-model": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-able-5": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-3D-2": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-heterogeneity-9": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-section-18": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-evaporite-17": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-study-21-area-22": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-Validation-1-wells-2": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-methodology-8": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-results-11": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-observed-13": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-good-10": [],
+    "a407c16e-080e-4100-9fc2-914500db52e5-used-4": []
+  }
+}

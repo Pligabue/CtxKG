@@ -1,0 +1,211 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_34531605.txt",
+  "entities": {
+    "NE-ORGANIZATION-Norsk-Hydro": "Norsk Hydro",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-31": "installation",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-area-37": "area",
+    "NE-ORDINAL-first": "first",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20": "field",
+    "NE-LOCATION-North-Sea": "North Sea",
+    "NE-LOCATION-Snorre": "Snorre",
+    "NE-ORGANIZATION-Baker-Oil-Tools": "Baker Oil Tools",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-its-9-installation-10": "its installation",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InForce-13-Intelligent-14-Well-15-System-16": "InForce Intelligent Well System",
+    "NE-ORGANIZATION-Hydro": "Hydro",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-rig-7-cost-8": "rig cost",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-production-14": "production",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-2": "installation",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-accessed-11": "accessed",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-to-9": "to",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-remotely-14": "remotely",
+    "NE-PERSON-Baker": "Baker",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12": "well systems",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-successful-8": "successful",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-hydraulic-9": "hydraulic",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7": "equally",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-intelligent-10": "intelligent",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-other-5": "other",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Meanwhjile-1": "Meanwhjile",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11": "has licensed",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-ultra-deepwater-16": "ultra-deepwater",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Roncador-20-field-21": "Roncador field",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InCharge-5-Intelligent-6": "InCharge Intelligent",
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-exploration-17": "exploration"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Norsk-Hydro",
+      "relation": "has congratulated Baker Oil Tools for",
+      "object_id": "NE-ORGANIZATION-Norsk-Hydro"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-31",
+      "relation": "is in",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-area-37"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-31",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Norsk-Hydro",
+      "relation": "of",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Norsk-Hydro",
+      "relation": "of",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Snorre"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Norsk-Hydro",
+      "relation": "has congratulated",
+      "object_id": "NE-ORGANIZATION-Baker-Oil-Tools"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-its-9-installation-10",
+      "relation": "is in",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Norsk-Hydro",
+      "relation": "of",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InForce-13-Intelligent-14-Well-15-System-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Hydro",
+      "relation": "reduce",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-rig-7-cost-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Hydro",
+      "relation": "facilitate",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-production-14"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-2",
+      "relation": "allows",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-accessed-11"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-accessed-11",
+      "relation": "mark",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-to-9"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-accessed-11",
+      "relation": "at",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-remotely-14"
+    },
+    {
+      "subject_id": "NE-PERSON-Baker",
+      "relation": "has previously installed",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12"
+    },
+    {
+      "subject_id": "NE-PERSON-Baker",
+      "relation": "has installed",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12",
+      "relation": "is",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-successful-8"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12",
+      "relation": "is",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-hydraulic-9"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12",
+      "relation": "at",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12",
+      "relation": "is",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-intelligent-10"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12",
+      "relation": "is",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-other-5"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Meanwhjile-1",
+      "relation": "has",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11",
+      "relation": "is",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-ultra-deepwater-16"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11",
+      "relation": "of",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Roncador-20-field-21"
+    },
+    {
+      "subject_id": "NE-PERSON-Baker",
+      "relation": "has",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InCharge-5-Intelligent-6"
+    },
+    {
+      "subject_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11",
+      "relation": "at",
+      "object_id": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-exploration-17"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Norsk-Hydro": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-31": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-area-37": [],
+    "NE-ORDINAL-first": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-field-20": [],
+    "NE-LOCATION-North-Sea": [],
+    "NE-LOCATION-Snorre": [],
+    "NE-ORGANIZATION-Baker-Oil-Tools": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-its-9-installation-10": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InForce-13-Intelligent-14-Well-15-System-16": [],
+    "NE-ORGANIZATION-Hydro": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-rig-7-cost-8": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-production-14": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-2": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-accessed-11": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-to-9": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-remotely-14": [],
+    "NE-PERSON-Baker": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-well-11-systems-12": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-successful-8": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-hydraulic-9": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-intelligent-10": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-other-5": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Meanwhjile-1": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-has-9-licensed-11": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-ultra-deepwater-16": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-Roncador-20-field-21": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-InCharge-5-Intelligent-6": [],
+    "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-exploration-17": []
+  }
+}

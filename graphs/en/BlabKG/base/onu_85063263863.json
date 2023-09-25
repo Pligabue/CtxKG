@@ -1,0 +1,390 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85063263863.txt",
+  "entities": {
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2": "Farfantepenaeus brasiliensis",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16": "SE S coast",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5": "F. paulensis",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10": "shrimps",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-exploited-9": "exploited",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-most-8": "most",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Our-1-aim-2": "Our aim",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23": "nursery areas influence",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-environmental-12": "environmental",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-adjacent-7-nursery-8-areas-9": "adjacent nursery areas",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-condition-13": "condition",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11-environmental-12-condition-13": "different environmental condition",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11": "different",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Samplings-1": "Samplings",
+    "NE-DURATION-12-months": "12 months",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-10": "bays",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Carapace-1-length-2": "Carapace length",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-variations-28": "variations",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shape-30": "shape",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regressions-32": "regressions",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-used-25": "used",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-brasiliensis-5": "F. brasiliensis",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-abundant-12": "abundant",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-14-paulensis-15": "F. paulensis",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-4-7-to-8-6-9-times-10-more-11": "4 to 6 times more",
+    "NE-TITLE-general": "general",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-sex-2-ratio-3": "sex ratio",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-12": "bays",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-largest-19": "largest",
+    "NE-DATE-autumn": "autumn",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3": "differences",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-size-5": "size",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-found-9": "found",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-However-1": "However",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11": "bays",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-mainly-13": "mainly",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regarding-14-TL-16-CL-18-ratio-19": "regarding TL CL ratio",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-7-CL-9": "TL CL",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-elongated-14-shape-15": "elongated shape",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-higher-6": "higher",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-more-12": "more",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Shrimps-1": "Shrimps",
+    "NE-CITY-Bay": "Bay",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Results-1": "Results",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-existence-4": "existence",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-estuary-7": "estuary",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-15": "differences",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-even-19-spatially-21-close-22-areas-23": "even spatially close areas",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-9-morphology-10-relationship-11": "shrimp morphology relationship",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-body-17-shape-18": "body shape",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-1-CL-3-ratio-4": "TL CL ratio",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-useful-7": "useful",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-assessing-9": "assessing",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-tested-16": "tested",
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-10-populations-11-differences-12": "shrimp populations differences"
+  },
+  "graph": [
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2",
+      "relation": "are most exploited shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5",
+      "relation": "are",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2",
+      "relation": "are",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10",
+      "relation": "is",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-exploited-9"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-most-8"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5",
+      "relation": "are most exploited shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5",
+      "relation": "are exploited shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2",
+      "relation": "are exploited shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2",
+      "relation": "are shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5",
+      "relation": "are shrimps of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Our-1-aim-2",
+      "relation": "was verify",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23",
+      "relation": "is",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-environmental-12"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-adjacent-7-nursery-8-areas-9"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-condition-13"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11-environmental-12-condition-13"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-adjacent-7-nursery-8-areas-9",
+      "relation": "is with",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11-environmental-12-condition-13"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23",
+      "relation": "is",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Samplings-1",
+      "relation": "were carried out during",
+      "object_id": "NE-DURATION-12-months"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Samplings-1",
+      "relation": "were carried out in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-10"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Carapace-1-length-2",
+      "relation": "analyze",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-variations-28"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-variations-28",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shape-30"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Carapace-1-length-2",
+      "relation": "analyze variations through",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regressions-32"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Carapace-1-length-2",
+      "relation": "were",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-used-25"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-variations-28",
+      "relation": "is in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shape-30"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-brasiliensis-5",
+      "relation": "was",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-abundant-12"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-abundant-12",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-14-paulensis-15"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-abundant-12",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-4-7-to-8-6-9-times-10-more-11"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-brasiliensis-5",
+      "relation": "was abundant In",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-brasiliensis-5",
+      "relation": "was abundant than",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-14-paulensis-15"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-sex-2-ratio-3",
+      "relation": "differed in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-12"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-largest-19",
+      "relation": "occur in",
+      "object_id": "NE-DATE-autumn"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3",
+      "relation": "is in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-size-5"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3",
+      "relation": "were",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-found-9"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-found-9",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-However-1"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3",
+      "relation": "were found between",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-mainly-13"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3",
+      "relation": "However were found between",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regarding-14-TL-16-CL-18-ratio-19"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-7-CL-9",
+      "relation": "showing",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-elongated-14-shape-15"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-7-CL-9",
+      "relation": "is",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-higher-6"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-elongated-14-shape-15",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-more-12"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Shrimps-1",
+      "relation": "is in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Results-1",
+      "relation": "suggest",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-existence-4"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-existence-4",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-estuary-7"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-15",
+      "relation": "is in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-even-19-spatially-21-close-22-areas-23"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-existence-4",
+      "relation": "of",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-9-morphology-10-relationship-11"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-15",
+      "relation": "is in",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-body-17-shape-18"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-1-CL-3-ratio-4",
+      "relation": "has proven",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-useful-7"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-useful-7",
+      "relation": "is",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-assessing-9"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-1-CL-3-ratio-4",
+      "relation": "be",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-tested-16"
+    },
+    {
+      "subject_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-useful-7",
+      "relation": "at",
+      "object_id": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-10-populations-11-differences-12"
+    }
+  ],
+  "links": {
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Farfantepenaeus-1-brasiliensis-2": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-SE-12-S-14-coast-16": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5": [
+      "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-14-paulensis-15"
+    ],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimps-10": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-exploited-9": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-most-8": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Our-1-aim-2": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-nursery-8-areas-9-influence-23": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-environmental-12": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-adjacent-7-nursery-8-areas-9": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-condition-13": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11-environmental-12-condition-13": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Samplings-1": [],
+    "NE-DURATION-12-months": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-10": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Carapace-1-length-2": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-variations-28": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shape-30": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regressions-32": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-used-25": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-brasiliensis-5": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-abundant-12": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-14-paulensis-15": [
+      "ab194025-e2bc-497c-a6f0-daf5e0bd615a-F.-4-paulensis-5"
+    ],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-4-7-to-8-6-9-times-10-more-11": [],
+    "NE-TITLE-general": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-sex-2-ratio-3": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-12": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-largest-19": [],
+    "NE-DATE-autumn": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-3": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-size-5": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-found-9": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-However-1": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-bays-11": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-mainly-13": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-regarding-14-TL-16-CL-18-ratio-19": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-7-CL-9": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-elongated-14-shape-15": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-higher-6": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-more-12": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Shrimps-1": [],
+    "NE-CITY-Bay": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-Results-1": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-existence-4": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-estuary-7": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-differences-15": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-even-19-spatially-21-close-22-areas-23": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-9-morphology-10-relationship-11": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-body-17-shape-18": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-TL-1-CL-3-ratio-4": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-useful-7": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-assessing-9": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-tested-16": [],
+    "ab194025-e2bc-497c-a6f0-daf5e0bd615a-shrimp-10-populations-11-differences-12": []
+  }
+}

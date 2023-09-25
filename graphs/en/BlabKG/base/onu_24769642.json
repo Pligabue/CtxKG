@@ -1,0 +1,257 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_24769642.txt",
+  "entities": {
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-6-field-7": "oil field",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-14": "discovered",
+    "NE-CITY-Lobito": "Lobito",
+    "NE-DATE-1939": "1939",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-significant-7-fields-8": "significant fields",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-10": "discovered",
+    "NE-DATE-1950": "1950",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-15-6": "15",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-exclusion-5": "exclusion",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-end-17": "end",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-abrupt-16": "abrupt",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-11-operations-12": "oil operations",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-DATE-1975": "1975",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7": "service contracts",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-10-companies-11": "oil companies",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-regions-13-not-14-under-15-exploration-16": "regions not under exploration",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-foreign-9-oil-10-companies-11": "foreign oil companies",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-authorized-3": "authorized",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2-basin-3": "Campos basin",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9": "oil province",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-productive-7": "productive",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-production-20": "production",
+    "NE-DATE-current": "current",
+    "NE-PERCENT-62%": "62 %",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-about-15": "about",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-most-6": "most",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-accounting-13": "accounting",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3": "basin",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9": "Atlantic type basin",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2": "Campos",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-passive-14": "passive",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-typical-11": "typical",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-margin-16": "margin",
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-continental-15": "continental"
+  },
+  "graph": [
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-6-field-7",
+      "relation": "was",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-14"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-6-field-7",
+      "relation": "of",
+      "object_id": "NE-CITY-Lobito"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-6-field-7",
+      "relation": "was discovered In",
+      "object_id": "NE-DATE-1939"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-significant-7-fields-8",
+      "relation": "were During",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-10"
+    },
+    {
+      "subject_id": "NE-DATE-1950",
+      "relation": "has",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-10"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-significant-7-fields-8",
+      "relation": "amount to",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-15-6"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-exclusion-5",
+      "relation": "came to",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-end-17"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-end-17",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-abrupt-16"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-exclusion-5",
+      "relation": "is in",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-11-operations-12"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-11-operations-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-exclusion-5",
+      "relation": "came In",
+      "object_id": "NE-DATE-1975"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "seek",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7",
+      "relation": "of",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-10-companies-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "seek service contracts in",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-regions-13-not-14-under-15-exploration-16"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7",
+      "relation": "is with",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-foreign-9-oil-10-companies-11"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7",
+      "relation": "of",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-foreign-9-oil-10-companies-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "was",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-authorized-3"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2-basin-3",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-productive-7"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "of",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-production-20"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "at",
+      "object_id": "NE-PERCENT-62%"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "case",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-about-15"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "at",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-most-6"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-accounting-13"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+      "relation": "of",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-passive-14"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-typical-11"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9",
+      "relation": "at",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-margin-16"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-continental-15"
+    },
+    {
+      "subject_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9",
+      "relation": "is",
+      "object_id": "42f39395-5b68-4c17-9005-43fdaf9b688d-typical-11"
+    }
+  ],
+  "links": {
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-6-field-7": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-14": [],
+    "NE-CITY-Lobito": [],
+    "NE-DATE-1939": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-significant-7-fields-8": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-discovered-10": [],
+    "NE-DATE-1950": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-15-6": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-exclusion-5": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-end-17": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-abrupt-16": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-11-operations-12": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-DATE-1975": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-service-6-contracts-7": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-10-companies-11": [
+      "42f39395-5b68-4c17-9005-43fdaf9b688d-foreign-9-oil-10-companies-11"
+    ],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-regions-13-not-14-under-15-exploration-16": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-foreign-9-oil-10-companies-11": [
+      "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-10-companies-11"
+    ],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-authorized-3": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2-basin-3": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-8-province-9": [],
+    "NE-COUNTRY-Brazil": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-productive-7": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-production-20": [],
+    "NE-DATE-current": [],
+    "NE-PERCENT-62%": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-about-15": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-most-6": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-accounting-13": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Atlantic-6-type-8-basin-9": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-passive-14": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-typical-11": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-margin-16": [],
+    "42f39395-5b68-4c17-9005-43fdaf9b688d-continental-15": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_52849106027.txt",
+  "entities": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "paper",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "importance",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "water scenario",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "electrical submersible pump",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "subsea wells",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "deep",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "flow assurance",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-such-73-conditions-74": "such conditions",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": "deployment",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "offshore subsea areas",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2": "impact",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "mainly giant deepwater fields"
+  },
+  "graph": [
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2",
+      "relation": "presents",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5",
+      "relation": "of",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43",
+      "relation": "is in",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5",
+      "relation": "is",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71",
+      "relation": "is in",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-such-73-conditions-74"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19",
+      "relation": "is in",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23"
+    },
+    {
+      "subject_id": "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2",
+      "relation": "is in",
+      "object_id": "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29"
+    }
+  ],
+  "links": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": [],
+    "NE-COUNTRY-Brazil": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-such-73-conditions-74": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2": [],
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": []
+  }
+}

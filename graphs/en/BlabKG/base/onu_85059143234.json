@@ -1,0 +1,760 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85059143234.txt",
+  "entities": {
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8": "reactivation",
+    "c547213a-e858-4f59-a98b-991221b44a08-matter-26": "matter",
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-7": "brittle",
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-10-zones-11": "shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-margins-4": "margins",
+    "c547213a-e858-4f59-a98b-991221b44a08-role-14": "role",
+    "c547213a-e858-4f59-a98b-991221b44a08-deformation-17-of-20-sedimentary-21-basins-22": "deformation of sedimentary basins",
+    "c547213a-e858-4f59-a98b-991221b44a08-their-13": "their",
+    "c547213a-e858-4f59-a98b-991221b44a08-continental-3": "continental",
+    "c547213a-e858-4f59-a98b-991221b44a08-passive-2": "passive",
+    "c547213a-e858-4f59-a98b-991221b44a08-still-24": "still",
+    "c547213a-e858-4f59-a98b-991221b44a08-debate-28": "debate",
+    "c547213a-e858-4f59-a98b-991221b44a08-we-5": "we",
+    "c547213a-e858-4f59-a98b-991221b44a08-nucleation-19": "nucleation",
+    "c547213a-e858-4f59-a98b-991221b44a08-role-8": "role",
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-11": "brittle",
+    "c547213a-e858-4f59-a98b-991221b44a08-rift-21-faults-24": "rift faults",
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-15-zones-16": "shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-31-Alagoas-33-basins-36": "Sergipe Alagoas basins",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "c547213a-e858-4f59-a98b-991221b44a08-research-3": "research",
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-12": "reactivation",
+    "NE-MISC-Precambrian": "Precambrian",
+    "c547213a-e858-4f59-a98b-991221b44a08-portion-28": "portion",
+    "c547213a-e858-4f59-a98b-991221b44a08-dataset-6": "dataset",
+    "c547213a-e858-4f59-a98b-991221b44a08-data-11": "data",
+    "c547213a-e858-4f59-a98b-991221b44a08-evolution-24": "evolution",
+    "c547213a-e858-4f59-a98b-991221b44a08-continental-31": "continental",
+    "c547213a-e858-4f59-a98b-991221b44a08-reflection-15-data-19": "reflection data",
+    "c547213a-e858-4f59-a98b-991221b44a08-aeromagnetic-8": "aeromagnetic",
+    "c547213a-e858-4f59-a98b-991221b44a08-portion-27": "portion",
+    "c547213a-e858-4f59-a98b-991221b44a08-seismic-16": "seismic",
+    "NE-LOCATION-Atlantic": "Atlantic",
+    "c547213a-e858-4f59-a98b-991221b44a08-margin-32": "margin",
+    "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12": "lineaments",
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20": "shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-magnetic-11": "magnetic",
+    "c547213a-e858-4f59-a98b-991221b44a08-basement-8": "basement",
+    "c547213a-e858-4f59-a98b-991221b44a08-correlated-14": "correlated",
+    "c547213a-e858-4f59-a98b-991221b44a08-structures-17": "structures",
+    "c547213a-e858-4f59-a98b-991221b44a08-ductile-16": "ductile",
+    "c547213a-e858-4f59-a98b-991221b44a08-crystalline-7": "crystalline",
+    "c547213a-e858-4f59-a98b-991221b44a08-continuity-24": "continuity",
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41": "shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-basins-48": "basins",
+    "c547213a-e858-4f59-a98b-991221b44a08-interpreted-37": "interpreted",
+    "c547213a-e858-4f59-a98b-991221b44a08-cover-45": "cover",
+    "c547213a-e858-4f59-a98b-991221b44a08-sedimentary-44": "sedimentary",
+    "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-30-Alagoas-32-basins-35": "Sergipe Alagoas basins",
+    "c547213a-e858-4f59-a98b-991221b44a08-opening-19": "opening",
+    "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-28": "Cretaceous",
+    "c547213a-e858-4f59-a98b-991221b44a08-Early-27": "Early",
+    "c547213a-e858-4f59-a98b-991221b44a08-phases-5": "phases",
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-9": "reactivation",
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40": "inversion induced",
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-38": "tectonic",
+    "c547213a-e858-4f59-a98b-991221b44a08-rise-50": "rise",
+    "c547213a-e858-4f59-a98b-991221b44a08-Neogene-53-Quaternary-55": "Neogene Quaternary",
+    "NE-LOCATION-Andean-Cordillera": "Andean Cordillera",
+    "c547213a-e858-4f59-a98b-991221b44a08-stress-32-regime-33": "stress regime",
+    "c547213a-e858-4f59-a98b-991221b44a08-extensional-31": "extensional",
+    "NE-LOCATION-South-Atlantic-Ocean": "South Atlantic Ocean",
+    "c547213a-e858-4f59-a98b-991221b44a08-basement-11-shear-12-zones-13": "basement shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-following-4": "following",
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-8": "brittle",
+    "c547213a-e858-4f59-a98b-991221b44a08-locations-15": "locations",
+    "c547213a-e858-4f59-a98b-991221b44a08-architectures-17": "architectures",
+    "c547213a-e858-4f59-a98b-991221b44a08-rifts-20": "rifts",
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-11-zones-12": "shear zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-rift-3-phase-4": "rift phase",
+    "c547213a-e858-4f59-a98b-991221b44a08-structures-2": "structures",
+    "c547213a-e858-4f59-a98b-991221b44a08-zones-5": "zones",
+    "c547213a-e858-4f59-a98b-991221b44a08-faults-13": "faults",
+    "c547213a-e858-4f59-a98b-991221b44a08-normal-12": "normal",
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivated-10": "reactivated",
+    "c547213a-e858-4f59-a98b-991221b44a08-weakness-7": "weakness",
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3": "reactivation",
+    "c547213a-e858-4f59-a98b-991221b44a08-active-9": "active",
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-2": "brittle",
+    "c547213a-e858-4f59-a98b-991221b44a08-still-8": "still",
+    "c547213a-e858-4f59-a98b-991221b44a08-postrift-12-phase-13": "postrift phase",
+    "c547213a-e858-4f59-a98b-991221b44a08-faulting-3": "faulting",
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-10": "inversion",
+    "c547213a-e858-4f59-a98b-991221b44a08-reverse-2": "reverse",
+    "c547213a-e858-4f59-a98b-991221b44a08-folding-6-pattern-7": "folding pattern",
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-9": "tectonic",
+    "NE-MISC-Late-Cretaceous-Cenozoic": "Late Cretaceous - Cenozoic",
+    "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-14": "Cretaceous",
+    "c547213a-e858-4f59-a98b-991221b44a08-Late-13": "Late",
+    "c547213a-e858-4f59-a98b-991221b44a08-related-5": "related",
+    "c547213a-e858-4f59-a98b-991221b44a08-Cenozoic-16": "Cenozoic",
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-27": "inversion",
+    "c547213a-e858-4f59-a98b-991221b44a08-margin-35": "margin",
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-26": "tectonic",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "c547213a-e858-4f59-a98b-991221b44a08-strike-10-slip-12-regime-13": "strike slip regime",
+    "c547213a-e858-4f59-a98b-991221b44a08-phase-31": "phase",
+    "c547213a-e858-4f59-a98b-991221b44a08-postrift-6-phase-7": "postrift phase",
+    "c547213a-e858-4f59-a98b-991221b44a08-active-30": "active"
+  },
+  "graph": [
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8",
+      "relation": "are",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-brittle-7"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-10-zones-11",
+      "relation": "brittle reactivation of are",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-14",
+      "relation": "is in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-deformation-17-of-20-sedimentary-21-basins-22"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8",
+      "relation": "are matter In",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-14",
+      "relation": "are matter In",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-their-13",
+      "relation": "has",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-role-14"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-continental-3"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-14",
+      "relation": "are",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26",
+      "relation": "is In",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-10-zones-11",
+      "relation": "reactivation of are",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-passive-2"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margins-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-still-24"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-matter-26",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-debate-28"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "investigated role in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-nucleation-19"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "investigated",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-role-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-8",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-brittle-11"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-nucleation-19",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-rift-21-faults-24"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-8",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-15-zones-16"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-31-Alagoas-33-basins-36",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "investigated role In",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-research-3"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-8",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-12"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-role-8",
+      "relation": "is",
+      "object_id": "NE-MISC-Precambrian"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "investigated role in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-portion-28"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "combine",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-dataset-6"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-dataset-6",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-data-11"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "analyze",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-continental-31"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "associated with",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-reflection-15-data-19"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-dataset-6",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-aeromagnetic-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-portion-27"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reflection-15-data-19",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-seismic-16"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Atlantic"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-evolution-24",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margin-32"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12",
+      "relation": "are correlated as",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-magnetic-11"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12",
+      "relation": "are correlated in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-basement-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12",
+      "relation": "are",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-correlated-14"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-correlated-14",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-correlated-14",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-17"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-correlated-14",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-basement-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12",
+      "relation": "are correlated with",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-17"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-17",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-ductile-16"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-basement-8",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-crystalline-7"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-continuity-24",
+      "relation": "is interpreted as",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-basins-48"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-continuity-24",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-interpreted-37"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-cover-45"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-sedimentary-44"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-continuity-24",
+      "relation": "is in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-30-Alagoas-32-basins-35"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-opening-19",
+      "relation": "is in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-28"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-28",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Early-27"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-we-5",
+      "relation": "document",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-phases-5"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-phases-5",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-9"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+      "relation": "opening in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-28"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-tectonic-38"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-rise-50",
+      "relation": "is in",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Neogene-53-Quaternary-55"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-rise-50",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Andean-Cordillera"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+      "relation": "opening under",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-stress-32-regime-33"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-stress-32-regime-33",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-extensional-31"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+      "relation": "opening of",
+      "object_id": "NE-LOCATION-South-Atlantic-Ocean"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-phases-5",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-basement-11-shear-12-zones-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-phases-5",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-following-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-phases-5",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-brittle-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15",
+      "relation": "brittle reactivation",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-architectures-17"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8",
+      "relation": "controlled",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-rifts-20"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15",
+      "relation": "reactivation",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-architectures-17"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15",
+      "relation": "brittle reactivation of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-11-zones-12"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8",
+      "relation": "controlled locations During",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-rift-3-phase-4"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-locations-15",
+      "relation": "reactivation of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-shear-11-zones-12"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-2",
+      "relation": "acted as",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-zones-5"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-2",
+      "relation": "were reactivated as",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-faults-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-faults-13",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-normal-12"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-2",
+      "relation": "were",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivated-10"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-zones-5",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-weakness-7"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3",
+      "relation": "was",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-active-9"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-brittle-2"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-active-9",
+      "relation": "at",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-still-8"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3",
+      "relation": "was still active during",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-postrift-12-phase-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3",
+      "relation": "was active during",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-postrift-12-phase-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-faulting-3",
+      "relation": "indicate",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-faulting-3",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-reverse-2"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-folding-6-pattern-7",
+      "relation": "indicate",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-tectonic-9"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10",
+      "relation": "is in",
+      "object_id": "NE-MISC-Late-Cretaceous-Cenozoic"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-14"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Late-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-folding-6-pattern-7",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-related-5"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-10",
+      "relation": "of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-Cenozoic-16"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-27",
+      "relation": "is phase of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margin-35"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-27",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-tectonic-26"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-margin-35",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-27",
+      "relation": "is active",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margin-35"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-2",
+      "relation": "formed under",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-strike-10-slip-12-regime-13"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-27",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-phase-31"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-inversion-27",
+      "relation": "is active phase of",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-margin-35"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-structures-2",
+      "relation": "formed during",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-postrift-6-phase-7"
+    },
+    {
+      "subject_id": "c547213a-e858-4f59-a98b-991221b44a08-phase-31",
+      "relation": "is",
+      "object_id": "c547213a-e858-4f59-a98b-991221b44a08-active-30"
+    }
+  ],
+  "links": {
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8": [
+      "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-matter-26": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-7": [
+      "c547213a-e858-4f59-a98b-991221b44a08-brittle-2"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-10-zones-11": [
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-margins-4": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-role-14": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-deformation-17-of-20-sedimentary-21-basins-22": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-their-13": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-continental-3": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-passive-2": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-still-24": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-debate-28": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-we-5": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-nucleation-19": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-role-8": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-11": [
+      "c547213a-e858-4f59-a98b-991221b44a08-brittle-8"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-rift-21-faults-24": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-15-zones-16": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-31-Alagoas-33-basins-36": [],
+    "NE-COUNTRY-Brazil": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-research-3": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-12": [
+      "c547213a-e858-4f59-a98b-991221b44a08-reactivation-9"
+    ],
+    "NE-MISC-Precambrian": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-portion-28": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-dataset-6": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-data-11": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-evolution-24": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-continental-31": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-reflection-15-data-19": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-aeromagnetic-8": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-portion-27": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-seismic-16": [],
+    "NE-LOCATION-Atlantic": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-margin-32": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-lineaments-12": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20": [
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41",
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-11-zones-12"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-magnetic-11": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-basement-8": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-correlated-14": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-structures-17": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-ductile-16": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-crystalline-7": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-continuity-24": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-40-zones-41": [
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-10-zones-11",
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-basins-48": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-interpreted-37": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-cover-45": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-sedimentary-44": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Sergipe-30-Alagoas-32-basins-35": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-opening-19": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-28": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Early-27": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-phases-5": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-9": [
+      "c547213a-e858-4f59-a98b-991221b44a08-reactivation-12"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-38": [
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-9",
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-26"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-rise-50": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Neogene-53-Quaternary-55": [],
+    "NE-LOCATION-Andean-Cordillera": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-stress-32-regime-33": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-extensional-31": [],
+    "NE-LOCATION-South-Atlantic-Ocean": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-basement-11-shear-12-zones-13": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-following-4": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-8": [
+      "c547213a-e858-4f59-a98b-991221b44a08-brittle-11"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-locations-15": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-architectures-17": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-rifts-20": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-shear-11-zones-12": [
+      "c547213a-e858-4f59-a98b-991221b44a08-shear-19-zones-20"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-rift-3-phase-4": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-structures-2": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-zones-5": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-faults-13": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-normal-12": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivated-10": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-weakness-7": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-reactivation-3": [
+      "c547213a-e858-4f59-a98b-991221b44a08-reactivation-8"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-active-9": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-brittle-2": [
+      "c547213a-e858-4f59-a98b-991221b44a08-brittle-7"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-still-8": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-postrift-12-phase-13": [
+      "c547213a-e858-4f59-a98b-991221b44a08-postrift-6-phase-7"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-faulting-3": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-10": [
+      "c547213a-e858-4f59-a98b-991221b44a08-inversion-27"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-reverse-2": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-folding-6-pattern-7": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-9": [
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-38",
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-26"
+    ],
+    "NE-MISC-Late-Cretaceous-Cenozoic": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Cretaceous-14": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Late-13": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-related-5": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-Cenozoic-16": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-inversion-27": [
+      "c547213a-e858-4f59-a98b-991221b44a08-inversion-10"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-margin-35": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-tectonic-26": [
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-38",
+      "c547213a-e858-4f59-a98b-991221b44a08-tectonic-9"
+    ],
+    "NE-NATIONALITY-Brazilian": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-strike-10-slip-12-regime-13": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-phase-31": [],
+    "c547213a-e858-4f59-a98b-991221b44a08-postrift-6-phase-7": [
+      "c547213a-e858-4f59-a98b-991221b44a08-postrift-12-phase-13"
+    ],
+    "c547213a-e858-4f59-a98b-991221b44a08-active-30": []
+  }
+}

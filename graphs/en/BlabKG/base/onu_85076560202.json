@@ -1,0 +1,531 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85076560202.txt",
+  "entities": {
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37": "term sea surface elevations",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-salinity-44": "salinity",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-56": "SSVBES",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-short-27": "short",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-temperature-41": "temperature",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-currents-39": "currents",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-We-1": "We",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-design-4": "design",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14-estuarine-15-system-16": "complex estuarine system",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20": "channels",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-many-18-interconnected-19": "many interconnected",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2": "SSVBES",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-two-22-connections-23": "two connections",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-open-26-sea-27": "open sea",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-W-11": "W",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-16-with-17-interconnected-19": "system with interconnected",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14": "complex",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-24.0-5-S-7": "24.0 S",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-estuarine-15": "estuarine",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-2": "system",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-prone-4": "prone",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-7": "tides",
+    "NE-CAUSE_OF_DEATH-storm": "storm",
+    "NE-LOCATION-Port": "Port",
+    "NE-CITY-Santos": "Santos",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4": "SOFS module",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-based-6": "based",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-POM-13": "POM",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-hydrodynamic-3": "hydrodynamic",
+    "NE-ORGANIZATION-Princeton-Ocean-Model": "Princeton Ocean Model",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4": "grid",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25": "Bight",
+    "NE-TITLE-model": "model",
+    "NE-LOCATION-South": "South",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-resolution-22": "resolution",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SBB-27": "SBB",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-8": "tides",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coarse-20": "coarse",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-29": "grid",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-3": "grid",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-winds-7": "winds",
+    "NE-ORGANIZATION-SBB": "SBB",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-4": "SOFS",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-parallel-7": "parallel",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-three-9-time-12-observation-13-stations-14": "three time observation stations",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-real-10": "real",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3": "performance",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5": "tested",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13": "skill",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8": "data",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-13.0-25-cm-26": "13.0 cm",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-RMSE-22": "RMSE",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7": "observed",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-0.97-15": "0.97",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-square-19-error-20": "square error",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-mean-36-tidal-37-range-38": "mean tidal range",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-best-11": "best",
+    "NE-PERSON-Willmott": "Willmott",
+    "NE-PERCENT-15.9%": "15.9 %",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tidal-28-sea-29-level-30": "tidal sea level",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-3": "system",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-10": "tides",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-seven-8": "seven",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-able-5": "able",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coupled-2": "coupled",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-agreement-3": "agreement",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10": "potential use",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-good-2": "good",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6": "data",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-life-19": "life",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-human-18": "human",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-5": "observed",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-designed-13": "designed",
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-14": "system"
+  },
+  "graph": [
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37",
+      "relation": "predict",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-salinity-44"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-salinity-44",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-56"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-short-27"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37",
+      "relation": "predict",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-temperature-41"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-salinity-44",
+      "relation": "is in",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-56"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37",
+      "relation": "predict",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-currents-39"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-We-1",
+      "relation": "describe",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-design-4"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14-estuarine-15-system-16",
+      "relation": "is with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-many-18-interconnected-19"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2",
+      "relation": "located at",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-two-22-connections-23",
+      "relation": "is with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-open-26-sea-27"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-W-11",
+      "relation": "is complex",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20",
+      "relation": "case",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-16-with-17-interconnected-19"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2",
+      "relation": "located at",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-24.0-5-S-7"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14-estuarine-15-system-16"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-W-11",
+      "relation": "is estuarine",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-24.0-5-S-7",
+      "relation": "system with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-estuarine-15"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-2",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-prone-4"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-2",
+      "relation": "is prone to",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-7"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-7",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-storm"
+    },
+    {
+      "subject_id": "NE-LOCATION-Port",
+      "relation": "is through",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-based-6"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4",
+      "relation": "is based on",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-POM-13"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-hydrodynamic-3"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4",
+      "relation": "is based on",
+      "object_id": "NE-ORGANIZATION-Princeton-Ocean-Model"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "is nested grid into",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-resolution-22"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "is nested grid into",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SBB-27"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "is forced by",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-8"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coarse-20"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4",
+      "relation": "is nested",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-29"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-3",
+      "relation": "is forced density gradients by",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-winds-7"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-3",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-SBB"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-4",
+      "relation": "works in",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-parallel-7"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-parallel-7",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-three-9-time-12-observation-13-stations-14"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-parallel-7",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-real-10"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-4",
+      "relation": "works Within",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3",
+      "relation": "was",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5",
+      "relation": "at",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3",
+      "relation": "was tested with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3",
+      "relation": "was tested against",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-13.0-25-cm-26",
+      "relation": "of error is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-RMSE-22"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-0.97-15"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5",
+      "relation": "at",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-square-19-error-20",
+      "relation": "% of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-mean-36-tidal-37-range-38"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-best-11"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13",
+      "relation": "of",
+      "object_id": "NE-PERSON-Willmott"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-13.0-25-cm-26",
+      "relation": "of error is",
+      "object_id": "NE-PERCENT-15.9%"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tidal-28-sea-29-level-30",
+      "relation": "for error is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-RMSE-22"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-3",
+      "relation": "simulate",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-10"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-10",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-storm"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-10",
+      "relation": "amount to",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-seven-8"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-3",
+      "relation": "was",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-able-5"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-3",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coupled-2"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-agreement-3",
+      "relation": "shows",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-agreement-3",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-good-2"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+      "relation": "good agreement with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+      "relation": "protect",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-life-19"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-life-19",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-human-18"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-agreement-3",
+      "relation": "is with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-5"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+      "relation": "is",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-designed-13"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+      "relation": "of",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-14"
+    },
+    {
+      "subject_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+      "relation": "agreement with",
+      "object_id": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6"
+    }
+  ],
+  "links": {
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-term-29-sea-35-surface-36-elevations-37": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-salinity-44": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-56": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-short-27": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-temperature-41": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-currents-39": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-We-1": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-design-4": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14-estuarine-15-system-16": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-channels-20": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-many-18-interconnected-19": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-2": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SSVBES-56"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-two-22-connections-23": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-open-26-sea-27": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-W-11": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-16-with-17-interconnected-19": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-complex-14": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-24.0-5-S-7": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-estuarine-15": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-2": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-prone-4": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-7": [],
+    "NE-CAUSE_OF_DEATH-storm": [],
+    "NE-LOCATION-Port": [],
+    "NE-CITY-Santos": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-2-module-4": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-based-6": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-POM-13": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-hydrodynamic-3": [],
+    "NE-ORGANIZATION-Princeton-Ocean-Model": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-4": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-Bight-25": [],
+    "NE-TITLE-model": [],
+    "NE-LOCATION-South": [],
+    "NE-COUNTRY-Brazil": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-resolution-22": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SBB-27": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-8": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coarse-20": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-29": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-grid-3": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-winds-7": [],
+    "NE-ORGANIZATION-SBB": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-SOFS-4": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-parallel-7": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-three-9-time-12-observation-13-stations-14": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-real-10": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-skill-13": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-13.0-25-cm-26": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-RMSE-22": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-5"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-0.97-15": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-square-19-error-20": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-mean-36-tidal-37-range-38": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-best-11": [],
+    "NE-PERSON-Willmott": [],
+    "NE-PERCENT-15.9%": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tidal-28-sea-29-level-30": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-3": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tides-10": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-seven-8": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-able-5": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-coupled-2": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-agreement-3": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-good-2": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-6": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-data-8"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-life-19": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-human-18": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-5": [
+      "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7"
+    ],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-designed-13": [],
+    "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-system-14": []
+  }
+}

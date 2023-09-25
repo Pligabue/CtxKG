@@ -1,0 +1,607 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897399429.txt",
+  "entities": {
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Petroleum-1-exploration-2": "Petroleum exploration",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oil-16-discoveries-17-along-18-margins-20": "oil discoveries along margins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-important-15": "important",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-characteristics-3": "characteristics",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10": "petroleum systems",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geochemical-2": "geochemical",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1": "Similar",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12": "enormous",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-potential-13": "potential",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-sedimentary-18": "sedimentary",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-conjugate-16-margin-17-basins-19": "conjugate margin basins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-analogous-8": "analogous",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6": "finds",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12-potential-13-in-14-conjugate-16-margin-17-sedimentary-18-basins-19": "enormous potential in conjugate margin sedimentary basins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Jubilee-2-oil-4-discovery-5": "Jubilee oil discovery",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12": "reserve",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-giant-3": "giant",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-recoverable-11": "recoverable",
+    "NE-COUNTRY-Ghana": "Ghana",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-estimated-10": "estimated",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-about-14-600-15-million-16-barrels-17": "about 600 million barrels",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-two-24-discoveries-25": "two discoveries",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-announced-29": "announced",
+    "NE-DATE-recently": "recently",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-26": "have",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6": "discovery",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15": "72m oil pay",
+    "NE-MISC-Zaedyus": "Zaedyus",
+    "NE-COUNTRY-Guinea": "Guinea",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-turbidite-17-sandstones-18": "turbidite sandstones",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-13": "net",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7": "discovery",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12": "margin",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23": "140m pay in 2,129 m water depth",
+    "NE-LOCATION-Ceara-Basin": "Ceara Basin",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-northern-10": "northern",
+    "NE-ORGANIZATION-BP": "BP",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-17": "net",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-MISC-Pecem": "Pecem",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discoveries-2": "discoveries",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10": "evolution",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geologic-9": "geologic",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-similar-8": "similar",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-very-7": "very",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-integration-4": "integration",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-boreholes-14": "boreholes",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-offshore-15": "offshore",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31": "four source rock systems",
+    "NE-ORGANIZATION-South-Atlantic-Equatorial-Margin": "South Atlantic Equatorial Margin",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-separate-28": "separate",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-18": "basins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-other-17": "other",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-1-33-Aptian-36-Barremian-38-calcareous-39-black-40-shale-41-associated-42": "1 Aptian Barremian calcareous black shale associated",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104": "particularly deep water settings",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-continental-110-margins-111": "continental margins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Paleocene-36-Eocene-38-shales-39": "Paleocene Eocene shales",
+    "NE-CITY-Delta": "Delta",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-4-34": "4",
+    "NE-COUNTRY-Niger": "Niger",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-environments-43": "environments",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oils-2": "oils",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6": "have registered",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-ultra-deep-19-water-20-accumulations-21": "ultra-deep water accumulations",
+    "NE-LOCATION-Sergipe-Basin": "Sergipe Basin",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-five-18": "five",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4": "also",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-deltaic-42": "deltaic",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Foz-9": "Foz",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-work-2": "work",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-7": "basins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Amazonas-11-Pará-12---13-Maranhão-14-basins-15-locations-12": "Amazonas Pará - Maranhão basins locations",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-17-efforts-18": "exploration efforts",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-new-16": "new",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-previous-10": "previous",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-pre-breakup-11": "pre-breakup",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-application-2": "application",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-15-models-16": "exploration models",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-better-14": "better",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-19": "basins",
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-clues-22": "clues"
+  },
+  "graph": [
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Petroleum-1-exploration-2",
+      "relation": "has led to",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oil-16-discoveries-17-along-18-margins-20"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oil-16-discoveries-17-along-18-margins-20",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-important-15"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-characteristics-3",
+      "relation": "suggest",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-characteristics-3",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geochemical-2"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-characteristics-3",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-potential-13"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-sedimentary-18"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-conjugate-16-margin-17-basins-19"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-analogous-8"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "Similar geochemical characteristics of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "geochemical characteristics of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "characteristics of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "Similar characteristics of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12-potential-13-in-14-conjugate-16-margin-17-sedimentary-18-basins-19"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10",
+      "relation": "is with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12-potential-13-in-14-conjugate-16-margin-17-sedimentary-18-basins-19"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Jubilee-2-oil-4-discovery-5",
+      "relation": "has",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Jubilee-2-oil-4-discovery-5",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-giant-3"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-recoverable-11"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Ghana",
+      "relation": "offshore has",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-estimated-10"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Jubilee-2-oil-4-discovery-5",
+      "relation": "offshore has",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Ghana",
+      "relation": "has",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-about-14-600-15-million-16-barrels-17"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-two-24-discoveries-25",
+      "relation": "have",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-announced-29"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-announced-29",
+      "relation": "at",
+      "object_id": "NE-DATE-recently"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-announced-29",
+      "relation": "aux",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-26"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6",
+      "relation": "French Guinea with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6",
+      "relation": "of",
+      "object_id": "NE-MISC-Zaedyus"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6",
+      "relation": "offshore French Guinea with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Guinea",
+      "relation": "is with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15",
+      "relation": "is in",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-turbidite-17-sandstones-18"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-13"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6",
+      "relation": "Guinea with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-turbidite-17-sandstones-18"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6",
+      "relation": "offshore Guinea with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "announced",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "announced Pecem discovery with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Ceara-Basin"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-northern-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BP",
+      "relation": "announced",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-17"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7",
+      "relation": "is in",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7",
+      "relation": "of",
+      "object_id": "NE-MISC-Pecem"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-northern-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BP",
+      "relation": "announced Pecem discovery with",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discoveries-2",
+      "relation": "have",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geologic-9"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-similar-8"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10",
+      "relation": "at",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-very-7"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-integration-4",
+      "relation": "recovered from",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-boreholes-14"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-integration-4",
+      "relation": "Additionally recovered from",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-boreholes-14"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-boreholes-14",
+      "relation": "at",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-offshore-15"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31",
+      "relation": "basins along",
+      "object_id": "NE-ORGANIZATION-South-Atlantic-Equatorial-Margin"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-separate-28"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-18",
+      "relation": "has revealed",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-18",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-other-17"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31",
+      "relation": "other basins along",
+      "object_id": "NE-ORGANIZATION-South-Atlantic-Equatorial-Margin"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-1-33-Aptian-36-Barremian-38-calcareous-39-black-40-shale-41-associated-42",
+      "relation": "is in",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Ghana"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-continental-110-margins-111"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Paleocene-36-Eocene-38-shales-39",
+      "relation": "deposited in",
+      "object_id": "NE-CITY-Delta"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Paleocene-36-Eocene-38-shales-39",
+      "relation": "amount to",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-4-34"
+    },
+    {
+      "subject_id": "NE-CITY-Delta",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Niger"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Paleocene-36-Eocene-38-shales-39",
+      "relation": "deposited in",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-environments-43"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oils-2",
+      "relation": "have",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-ultra-deep-19-water-20-accumulations-21",
+      "relation": "do discovered in",
+      "object_id": "NE-LOCATION-Sergipe-Basin"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-ultra-deep-19-water-20-accumulations-21",
+      "relation": "amount to",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-five-18"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-ultra-deep-19-water-20-accumulations-21",
+      "relation": "do discovered recently in",
+      "object_id": "NE-LOCATION-Sergipe-Basin"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oils-2",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6",
+      "relation": "at",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-environments-43",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-deltaic-42"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6",
+      "relation": "at",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Foz-9"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-work-2",
+      "relation": "restore",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-7"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-work-2",
+      "relation": "restore basins to",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Amazonas-11-Pará-12---13-Maranhão-14-basins-15-locations-12"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-7",
+      "relation": "support",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-17-efforts-18"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-17-efforts-18",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-new-16"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Amazonas-11-Pará-12---13-Maranhão-14-basins-15-locations-12",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-previous-10"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Amazonas-11-Pará-12---13-Maranhão-14-basins-15-locations-12",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-pre-breakup-11"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-application-2",
+      "relation": "can lead to",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-15-models-16"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-15-models-16",
+      "relation": "is",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-better-14"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-15-models-16",
+      "relation": "of",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-19"
+    },
+    {
+      "subject_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-application-2",
+      "relation": "provide",
+      "object_id": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-clues-22"
+    }
+  ],
+  "links": {
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Petroleum-1-exploration-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oil-16-discoveries-17-along-18-margins-20": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-important-15": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-characteristics-3": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-petroleum-9-systems-10": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geochemical-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1": [
+      "898c33c4-d7a3-46cc-94f0-d84c5288fee6-similar-8"
+    ],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-potential-13": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-sedimentary-18": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-conjugate-16-margin-17-basins-19": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-analogous-8": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-finds-6": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-enormous-12-potential-13-in-14-conjugate-16-margin-17-sedimentary-18-basins-19": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Jubilee-2-oil-4-discovery-5": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-reserve-12": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-giant-3": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-recoverable-11": [],
+    "NE-COUNTRY-Ghana": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-estimated-10": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-about-14-600-15-million-16-barrels-17": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-two-24-discoveries-25": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-announced-29": [],
+    "NE-DATE-recently": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-26": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-6": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-72m-12-oil-14-pay-15": [],
+    "NE-MISC-Zaedyus": [],
+    "NE-COUNTRY-Guinea": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-turbidite-17-sandstones-18": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-13": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discovery-7": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-margin-12": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-140m-15-pay-18-in-19-2,129-20-m-21-water-22-depth-23": [],
+    "NE-LOCATION-Ceara-Basin": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-northern-10": [],
+    "NE-ORGANIZATION-BP": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-net-17": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-MISC-Pecem": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-discoveries-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-evolution-10": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-geologic-9": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-similar-8": [
+      "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1"
+    ],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-very-7": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-integration-4": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-boreholes-14": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-offshore-15": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-four-27-source-29-rock-30-systems-31": [],
+    "NE-ORGANIZATION-South-Atlantic-Equatorial-Margin": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-separate-28": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-18": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-other-17": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-1-33-Aptian-36-Barremian-38-calcareous-39-black-40-shale-41-associated-42": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-continental-110-margins-111": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Paleocene-36-Eocene-38-shales-39": [],
+    "NE-CITY-Delta": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-4-34": [],
+    "NE-COUNTRY-Niger": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-environments-43": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-oils-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-ultra-deep-19-water-20-accumulations-21": [],
+    "NE-LOCATION-Sergipe-Basin": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-five-18": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-deltaic-42": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Foz-9": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-work-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-7": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Amazonas-11-Pará-12---13-Maranhão-14-basins-15-locations-12": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-17-efforts-18": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-new-16": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-previous-10": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-pre-breakup-11": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-application-2": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-exploration-15-models-16": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-better-14": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-basins-19": [],
+    "898c33c4-d7a3-46cc-94f0-d84c5288fee6-clues-22": []
+  }
+}

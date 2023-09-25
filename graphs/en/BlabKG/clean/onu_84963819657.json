@@ -1,0 +1,568 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84963819657.txt",
+  "entities": {
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-We-1": "We",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4": "role",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25": "margin",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continental-24": "continental",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-northeastern-27": "northeastern",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18": "sedimentary evolution",
+    "NE-LOCATION-Paraíba-Basin": "Paraíba Basin",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-tectono-13": "tectono",
+    "NE-MISC-Precambrian": "Precambrian",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-34": "Neogene",
+    "NE-MISC-Cretaceous": "Cretaceous",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-evolution-18": "evolution",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-9-fabric-10": "basement fabric",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-2": "basin",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4": "part",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-7": "last",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18": "breakup stage",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-16": "last",
+    "NE-LOCATION-South": "South",
+    "NE-COUNTRY-America": "America",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-bridge-8": "bridge",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-early-26": "early",
+    "NE-LOCATION-South-Atlantic": "South Atlantic",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-27": "Cretaceous",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rifting-23": "rifting",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-infill-4": "infill",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-units-12": "units",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-11": "Cretaceous",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-siliciclastic-8": "siliciclastic",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-composed-6": "composed",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shuttle-3-radar-4-imagery-5-data-12": "shuttle radar imagery data",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-aeromagnetic-7": "aeromagnetic",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-map-10": "map",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16": "continuity",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-dipping-20": "dipping",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reduced-2": "reduced",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-steeply-19": "steeply",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-22-shear-23-zones-24": "basement shear zones",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-magnetic-9": "magnetic",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21": "shear zones",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-29": "Aptian",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-striking-19": "striking",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26": "reactivation",
+    "NE-STATE_OR_PROVINCE-NE": "NE",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-54": "basin",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-subjected-23": "subjected",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-brittle-25": "brittle",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-system-47": "system",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-horsts-49": "horsts",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-35-opening-36": "basin opening",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-41-Quaternary-43": "Neogene Quaternary",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-transfer-12-faults-13": "transfer faults",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-16": "Aptian",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-3-fault-4-directions-5": "main fault directions",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9": "channels",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-four-2": "four",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-7": "main",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-valleys-12": "valleys",
+    "NE-TITLE-river": "river",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-alluvial-11": "alluvial",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breaks-2-m-6": "breaks m",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Topographic-1": "Topographic",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rift-13-faults-14": "rift faults",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-late-10": "late",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-80-16-m-17": "80 m",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-20": "Cretaceous",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-70-24-m-25": "70 m",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-28": "Neogene",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17": "have behaved",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-weakness-19-zones-20": "weakness zones",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-structures-14": "structures",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-lived-13": "lived",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-long-11": "long",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Their-1-reactivation-4": "Their reactivation",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sediment-7-deposition-8-development-11": "sediment deposition development",
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-neotectonic-2": "neotectonic"
+  },
+  "graph": [
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-We-1",
+      "relation": "investigate",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26",
+      "relation": "of role is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continental-24"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-We-1",
+      "relation": "investigate",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25",
+      "relation": "case",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-northeastern-27"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "is in",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraíba-Basin"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-tectono-13"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-tectono-13"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "is",
+      "object_id": "NE-MISC-Precambrian"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-34",
+      "relation": "during role is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-34",
+      "relation": "is",
+      "object_id": "NE-MISC-Cretaceous"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18",
+      "relation": "in role is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "margin of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-evolution-18"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraíba-Basin"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-9-fabric-10"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-2",
+      "relation": "represents",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-7"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-2",
+      "relation": "represents part before",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-16"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-bridge-8"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-early-26"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South-Atlantic"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18",
+      "relation": "at",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-27"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rifting-23"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-infill-4",
+      "relation": "is composed of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-units-12"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-infill-4",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraíba-Basin"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-units-12",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-11"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-units-12",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-siliciclastic-8"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-infill-4",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-composed-6"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-We-1",
+      "relation": "used",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shuttle-3-radar-4-imagery-5-data-12"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shuttle-3-radar-4-imagery-5-data-12",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-aeromagnetic-7"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-map-10",
+      "relation": "indicates",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-dipping-20"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-map-10",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reduced-2"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16",
+      "relation": "is",
+      "object_id": "NE-MISC-Precambrian"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16",
+      "relation": "at",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-steeply-19"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Paraíba-Basin"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-22-shear-23-zones-24"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-map-10",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-magnetic-9"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "were subjected in",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-29"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-striking-19"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "were subjected to",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "forming system along",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-54"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "were",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-subjected-23"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-subjected-23",
+      "relation": "at",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-29"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-subjected-23",
+      "relation": "at",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-brittle-25"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "forming",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-system-47"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-system-47",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-horsts-49"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-35-opening-36",
+      "relation": "is in",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-41-Quaternary-43"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-transfer-12-faults-13",
+      "relation": "cut across",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-16"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-3-fault-4-directions-5",
+      "relation": "control",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-3-fault-4-directions-5",
+      "relation": "amount to",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-four-2"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-7"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9",
+      "relation": "main directions",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-valleys-12"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-valleys-12",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-alluvial-11"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breaks-2-m-6",
+      "relation": "were created by",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breaks-2-m-6",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Topographic-1"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26",
+      "relation": "of",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rift-13-faults-14"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-late-10"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-80-16-m-17",
+      "relation": "is in",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-20"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-70-24-m-25",
+      "relation": "is in",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-28"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "are long lived structures",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17",
+      "relation": "at",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-weakness-19-zones-20"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "are",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-structures-14"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-structures-14",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-lived-13"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-structures-14",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-long-11"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "are lived structures",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21",
+      "relation": "are structures",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Their-1-reactivation-4",
+      "relation": "has controlled",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sediment-7-deposition-8-development-11"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Their-1-reactivation-4",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-neotectonic-2"
+    },
+    {
+      "subject_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Their-1-reactivation-4",
+      "relation": "is",
+      "object_id": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-brittle-25"
+    }
+  ],
+  "links": {
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-We-1": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-margin-25": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continental-24": [],
+    "NE-COUNTRY-Brazil": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-northeastern-27": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sedimentary-15-evolution-18": [],
+    "NE-LOCATION-Paraíba-Basin": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-tectono-13": [],
+    "NE-MISC-Precambrian": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-34": [],
+    "NE-MISC-Cretaceous": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-evolution-18": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-9-fabric-10": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-2": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-part-4": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-7": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breakup-17-stage-18": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-last-16": [],
+    "NE-LOCATION-South": [],
+    "NE-COUNTRY-America": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-bridge-8": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-early-26": [],
+    "NE-LOCATION-South-Atlantic": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-27": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rifting-23": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-infill-4": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-units-12": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-11": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-siliciclastic-8": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-composed-6": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shuttle-3-radar-4-imagery-5-data-12": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-aeromagnetic-7": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-map-10": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-continuity-16": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-dipping-20": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reduced-2": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-steeply-19": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basement-22-shear-23-zones-24": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-magnetic-9": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-shear-20-zones-21": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-29": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-striking-19": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-reactivation-26": [],
+    "NE-STATE_OR_PROVINCE-NE": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-54": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-subjected-23": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-brittle-25": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-system-47": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-horsts-49": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-basin-35-opening-36": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-41-Quaternary-43": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-transfer-12-faults-13": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Aptian-16": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-3-fault-4-directions-5": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-channels-9": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-four-2": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-main-7": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-valleys-12": [],
+    "NE-TITLE-river": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-alluvial-11": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-breaks-2-m-6": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Topographic-1": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-rift-13-faults-14": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-late-10": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-80-16-m-17": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Cretaceous-20": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-70-24-m-25": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Neogene-28": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-have-16-behaved-17": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-weakness-19-zones-20": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-structures-14": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-lived-13": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-long-11": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-Their-1-reactivation-4": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-sediment-7-deposition-8-development-11": [],
+    "fcf2e6c3-d24b-4213-a006-8fb5427c6317-neotectonic-2": []
+  }
+}

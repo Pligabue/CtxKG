@@ -1,0 +1,471 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85009192413.txt",
+  "entities": {
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-mining-2": "mining",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-8-frontier-9": "exploration frontier",
+    "NE-TITLE-Marine": "Marine",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-new-7-exploration-8-frontier-9": "new exploration frontier",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-ocean-5": "ocean",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16": "states",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-rights-19": "rights",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coastal-15": "coastal",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21": "exploration",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-Exclusive-2-Economic-3-Zone-4": "Exclusive Economic Zone",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-region-10": "region",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-respective-14": "respective",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sovereign-18": "sovereign",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-natural-29": "natural",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-resources-35": "resources",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3": "EEZ",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8": "area",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-oceanic-7": "oceanic",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-4.5-10-million-11-kilometers-13": "4.5 million kilometers",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26": "area",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-mainland-31": "mainland",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-adjacent-27": "adjacent",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-country-40": "country",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-land-42-area-43": "land area",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-word-19": "word",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-square-12": "square",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-rough-6": "rough",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-country-15": "country",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-development-17": "development",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10": "properties",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28-chemical-34-analysis-35": "coast chemical analysis",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-physical-7": "physical",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-work-2": "work",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-polymetallic-20-crusts-21": "polymetallic crusts",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24": "areas",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28": "coast",
+    "NE-ORDINAL-first": "first",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-measured-4": "measured",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8": "two directions",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-order-21-to-22-determine-23": "order to determine",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-parallel-10": "parallel",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-18": "samples",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-different-7": "different",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-29": "sample",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-framework-31": "framework",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-layering-15": "layering",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-correlation-2": "correlation",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9": "analysis",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-frequencies-19": "frequencies",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-16": "samples",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-response-13": "response",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-data-5": "data",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-indicating-20": "indicating",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-chemical-25-composition-26": "chemical composition",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-response-30": "response",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-23": "sample",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-29": "acoustic",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-different-18": "different",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-12": "acoustic",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16": "results",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31": "used",
+    "NE-DATE-future": "future",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-34": "exploration",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-procedure-26": "procedure",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-resource-37": "resource",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-best-25": "best",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-deciding-22": "deciding",
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-to-29": "to"
+  },
+  "graph": [
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-mining-2",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-8-frontier-9"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-mining-2",
+      "relation": "of",
+      "object_id": "NE-TITLE-Marine"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-8-frontier-9",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-new-7-exploration-8-frontier-9"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-ocean-5",
+      "relation": "has",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-8-frontier-9"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-ocean-5",
+      "relation": "has",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-new-7-exploration-8-frontier-9"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16",
+      "relation": "hold",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-rights-19"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-coastal-15"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-rights-19",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-Exclusive-2-Economic-3-Zone-4",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-region-10"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-respective-14"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-rights-19",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-sovereign-18"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16",
+      "relation": "sovereign rights for",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-natural-29"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16",
+      "relation": "rights for",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-resources-35"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3",
+      "relation": "has",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-oceanic-7"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-4.5-10-million-11-kilometers-13"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3",
+      "relation": "is consecrated by",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26",
+      "relation": "at",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-mainland-31"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-adjacent-27"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-country-40",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-land-42-area-43"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3",
+      "relation": "is consecrated by",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-word-19"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-square-12"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-rough-6"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-country-15",
+      "relation": "concerning",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-development-17"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10",
+      "relation": "correlate with",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28-chemical-34-analysis-35"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-physical-7"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28-chemical-34-analysis-35",
+      "relation": "of",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-work-2",
+      "relation": "determine",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-polymetallic-20-crusts-21"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-work-2",
+      "relation": "determine properties from",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28"
+    },
+    {
+      "subject_id": "NE-ORDINAL-first",
+      "relation": "were",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-measured-4"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8",
+      "relation": "is in",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-order-21-to-22-determine-23"
+    },
+    {
+      "subject_id": "NE-ORDINAL-first",
+      "relation": "were measured in",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-parallel-10"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-18"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-different-7"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-29",
+      "relation": "to",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-framework-31"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8",
+      "relation": "at",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-layering-15"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-correlation-2",
+      "relation": "will allow",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-frequencies-19"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-16"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-response-13"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "correlation of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-data-5"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-indicating-20"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-chemical-25-composition-26",
+      "relation": "affects",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-response-30"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-23",
+      "relation": "has",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-chemical-25-composition-26"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-response-30",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-29"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-different-18"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-12"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16",
+      "relation": "deciding",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31",
+      "relation": "is",
+      "object_id": "NE-DATE-future"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31",
+      "relation": "at",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-34"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16",
+      "relation": "will allow",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-procedure-26"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16",
+      "relation": "deciding for",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-procedure-26"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31",
+      "relation": "of",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-resource-37"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-procedure-26",
+      "relation": "is",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-best-25"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16",
+      "relation": "will allow",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-deciding-22"
+    },
+    {
+      "subject_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31",
+      "relation": "mark",
+      "object_id": "1fa51d3a-829d-4c50-9899-89265ff2e400-to-29"
+    }
+  ],
+  "links": {
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-mining-2": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-8-frontier-9": [],
+    "NE-TITLE-Marine": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-new-7-exploration-8-frontier-9": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-ocean-5": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-states-16": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-rights-19": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coastal-15": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-21": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-Exclusive-2-Economic-3-Zone-4": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-region-10": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-respective-14": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sovereign-18": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-natural-29": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-resources-35": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-EEZ-3": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8": [
+      "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26"
+    ],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-oceanic-7": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-4.5-10-million-11-kilometers-13": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-area-26": [
+      "1fa51d3a-829d-4c50-9899-89265ff2e400-area-8"
+    ],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-mainland-31": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-adjacent-27": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-country-40": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-land-42-area-43": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-word-19": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-square-12": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-rough-6": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-country-15": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-development-17": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-properties-10": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28-chemical-34-analysis-35": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-physical-7": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-work-2": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-polymetallic-20-crusts-21": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-coast-28": [],
+    "NE-ORDINAL-first": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-measured-4": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-two-6-directions-8": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-order-21-to-22-determine-23": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-parallel-10": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-18": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-different-7": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-29": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-framework-31": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-layering-15": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-correlation-2": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-analysis-9": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-frequencies-19": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-16": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-response-13": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-data-5": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-indicating-20": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-chemical-25-composition-26": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-response-30": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-sample-23": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-29": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-different-18": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-12": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-results-16": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-used-31": [],
+    "NE-DATE-future": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-exploration-34": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-procedure-26": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-resource-37": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-best-25": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-deciding-22": [],
+    "1fa51d3a-829d-4c50-9899-89265ff2e400-to-29": []
+  }
+}

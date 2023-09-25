@@ -1,0 +1,365 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85101359309.txt",
+  "entities": {
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-characterization-2": "characterization",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-subject-13": "subject",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-often-12": "often",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15": "uncertainties",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-owing-17": "owing",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-data-19-ambiguity-20": "data ambiguity",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-We-1": "We",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-sampling-5-algorithm-6": "sampling algorithm",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-stochastic-4": "stochastic",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-process-2": "process",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-interpretation-7-bias-8": "interpretation bias",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-reducing-6": "reducing",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-useful-4": "useful",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13": "fault",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-clique-18": "clique",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-isolated-17": "isolated",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-scenario-2": "scenario",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-association-8-graph-9": "association graph",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-undirected-7": "undirected",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-pieces-22": "pieces",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-graph-28-nodes-29": "graph nodes",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-associates-21": "associates",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-endpoints-8": "endpoints",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13-surface-14": "fault surface",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-same-12": "same",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-edge-2": "edge",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-5": "likelihood",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-some-17": "some",
+    "NE-TITLE-general": "general",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-algorithm-2": "algorithm",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9": "data sets",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-incomplete-7": "incomplete",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-located-28": "located",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-seismic-18": "seismic",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-offshore-34": "offshore",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-made-10": "made",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-three-12-to-13-six-14-lines-19": "three to six lines",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-illustrated-4": "illustrated",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-image-27": "image",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-two-15-dimensional-17": "two dimensional",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-three-23-dimensional-25": "three dimensional",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-several-6": "several",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-extracted-20": "extracted",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-simulation-6-method-7": "simulation method",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-cases-3": "cases",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-reference-11-interpretation-12": "reference interpretation",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-diversity-16": "diversity",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-realizations-20": "realizations",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-obtained-19": "obtained",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-rules-4": "rules",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-7": "likelihood",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-Restrictive-1": "Restrictive",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-proposed-5-method-6": "proposed method",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainty-28": "uncertainty",
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-subsurface-27": "subsurface"
+  },
+  "graph": [
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-characterization-2",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-subject-13"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-subject-13",
+      "relation": "at",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-often-12"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-characterization-2",
+      "relation": "is subject to",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-owing-17"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-characterization-2",
+      "relation": "is often subject to",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15",
+      "relation": "at",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-19-ambiguity-20"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-We-1",
+      "relation": "propose",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-sampling-5-algorithm-6"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-sampling-5-algorithm-6",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-stochastic-4"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-process-2",
+      "relation": "is useful for",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-interpretation-7-bias-8"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-interpretation-7-bias-8",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-reducing-6"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-process-2",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-useful-4"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13",
+      "relation": "corresponds to",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-clique-18"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-clique-18",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-isolated-17"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-scenario-2",
+      "relation": "is represented by",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-association-8-graph-9"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-association-8-graph-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-undirected-7"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-pieces-22",
+      "relation": "represented as",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-graph-28-nodes-29"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-pieces-22",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-associates-21"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-endpoints-8",
+      "relation": "belong to",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13-surface-14"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13-surface-14",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-same-12"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-edge-2",
+      "relation": "carries",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-5"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-endpoints-8",
+      "relation": "expressing",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-some-17"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-some-17",
+      "relation": "is",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-algorithm-2",
+      "relation": "is illustrated on",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-incomplete-7"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-located-28"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-seismic-18"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-algorithm-2",
+      "relation": "is illustrated on",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-offshore-34"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-made-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "at",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-three-12-to-13-six-14-lines-19"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-algorithm-2",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-illustrated-4"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "at",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-image-27"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-two-15-dimensional-17"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-three-23-dimensional-25"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-several-6"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-extracted-20"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-simulation-6-method-7",
+      "relation": "generates number In",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-cases-3"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-reference-11-interpretation-12",
+      "relation": "reduce",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-diversity-16"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-diversity-16",
+      "relation": "of",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-realizations-20"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-diversity-16",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-obtained-19"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-rules-4",
+      "relation": "increase",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-7"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-rules-4",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-Restrictive-1"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-7",
+      "relation": "recover",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-reference-11-interpretation-12"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-proposed-5-method-6",
+      "relation": "quantify",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainty-28"
+    },
+    {
+      "subject_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainty-28",
+      "relation": "is",
+      "object_id": "65c99a63-593c-45ac-822d-f42c46ce46bd-subsurface-27"
+    }
+  ],
+  "links": {
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-characterization-2": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-subject-13": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-often-12": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainties-15": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-owing-17": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-data-19-ambiguity-20": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-We-1": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-sampling-5-algorithm-6": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-stochastic-4": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-process-2": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-interpretation-7-bias-8": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-reducing-6": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-useful-4": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-clique-18": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-isolated-17": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-scenario-2": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-association-8-graph-9": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-undirected-7": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-pieces-22": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-graph-28-nodes-29": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-associates-21": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-endpoints-8": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-fault-13-surface-14": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-same-12": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-edge-2": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-5": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-some-17": [],
+    "NE-TITLE-general": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-algorithm-2": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-data-8-sets-9": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-incomplete-7": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-located-28": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-seismic-18": [],
+    "NE-COUNTRY-Brazil": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-offshore-34": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-made-10": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-three-12-to-13-six-14-lines-19": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-illustrated-4": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-image-27": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-two-15-dimensional-17": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-three-23-dimensional-25": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-several-6": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-extracted-20": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-simulation-6-method-7": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-cases-3": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-reference-11-interpretation-12": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-diversity-16": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-realizations-20": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-obtained-19": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-rules-4": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-likelihood-7": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-Restrictive-1": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-proposed-5-method-6": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-uncertainty-28": [],
+    "65c99a63-593c-45ac-822d-f42c46ce46bd-subsurface-27": []
+  }
+}

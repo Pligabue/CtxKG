@@ -1,0 +1,541 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897448998.txt",
+  "entities": {
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5": "laws",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14": "strategy",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-16-spills-17": "oil spills",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-environmental-4": "environmental",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8": "oil containment",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-primary-13": "primary",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-originated-18": "originated",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10": "collection",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3": "it",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21": "accordance",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-scenarios-24": "scenarios",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9": "equipment increase",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-continuous-7": "continuous",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-12": "time",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-response-17": "response",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-always-19": "always",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-scaled-16": "scaled",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15": "resources",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35": "must attended",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-spills-32": "spills",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39": "resources",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-28": "larger",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-period-44": "period",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19": "available",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-way-2": "way",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-probability-9-occur-11": "probability occur",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-10": "to",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-14": "smaller",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-25": "time",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-22": "smaller",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-43": "larger",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-strongest-38": "strongest",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-rage-23": "rage",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-8": "higher",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4": "zones",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-6-exploitation-7": "higher exploitation",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-activities-10": "activities",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-prioritizred-25": "prioritizred",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-maritime-3": "maritime",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-exploitation-7": "exploitation",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-2": "vessels",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-used-5": "used",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-discharges-12": "discharges",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-Such-1": "Such",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-small-9": "small",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4": "also",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-use-2": "use",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-operated-13": "operated",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-fleet-16": "fleet",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-rationalization-18": "rationalization",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-11": "to",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2": "changing",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-profits-6": "profits",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-reducing-9": "reducing",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-figures-11": "figures",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-17": "vessels",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-chartering-18": "chartering",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-fees-14": "fees",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-economic-5": "economic",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12": "compliance",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14-from-15-regulatory-16-agency-17": "requirements from regulatory agency",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9": "paper",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14": "requirements",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-situation-6": "situation",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-agency-17": "agency",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-case-2-study-3": "case study",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12": "will presented considering activity oilfield",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-high-10": "high",
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-coast-15": "coast"
+  },
+  "graph": [
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5",
+      "relation": "define oil containment as",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-16-spills-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-environmental-4"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5",
+      "relation": "define",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-primary-13"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-originated-18"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "Brazil",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "laws",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "environmental laws",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "strategy originated",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5",
+      "relation": "define oil containment In",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "primary strategy",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "strategy",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8",
+      "relation": "primary strategy originated",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "Thus is foreseen equipment increase in",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "is foreseen equipment increase in",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-scenarios-24"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "Thus is foreseen",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-continuous-7"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "is foreseen",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-12"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "is foreseen equipment increase in",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-response-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21",
+      "relation": "at",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-always-19"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3",
+      "relation": "Thus is foreseen equipment increase in",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-response-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-response-17",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-scaled-16"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15",
+      "relation": "however made",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-spills-32",
+      "relation": "must",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39",
+      "relation": "aux",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-spills-32",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-28"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-spills-32",
+      "relation": "must",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35",
+      "relation": "at",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-period-44"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15",
+      "relation": "however made",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-way-2",
+      "relation": "require resources",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-probability-9-occur-11"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-probability-9-occur-11",
+      "relation": "mark",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39",
+      "relation": "mark",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-way-2",
+      "relation": "require",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-14"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15",
+      "relation": "made",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-25"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15",
+      "relation": "made",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-22"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-43"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-strongest-38"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19",
+      "relation": "at",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-rage-23"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-probability-9-occur-11",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-8"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4",
+      "relation": "is with",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-6-exploitation-7"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-activities-10",
+      "relation": "was prioritizred At",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-6-exploitation-7"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-activities-10",
+      "relation": "was",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-prioritizred-25"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-maritime-3"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-exploitation-7"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-2",
+      "relation": "are",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-used-5"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-2",
+      "relation": "respond",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-discharges-12"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-2",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-Such-1"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-discharges-12",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-small-9"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-used-5",
+      "relation": "at",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-use-2",
+      "relation": "be",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-operated-13"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-fleet-16",
+      "relation": "has",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-rationalization-18"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-operated-13",
+      "relation": "mark",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-11"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2",
+      "relation": "also fosters",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-profits-6"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2",
+      "relation": "fosters profits by",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-reducing-9"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-figures-11",
+      "relation": "paid by",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-17",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-chartering-18"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-fees-14",
+      "relation": "paid by",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2",
+      "relation": "fosters",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-profits-6"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-profits-6",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-economic-5"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2",
+      "relation": "also fosters profits by",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-reducing-9"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12",
+      "relation": "is with",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14-from-15-regulatory-16-agency-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9",
+      "relation": "compares",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9",
+      "relation": "represent",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-situation-6"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14-from-15-regulatory-16-agency-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-agency-17"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-case-2-study-3",
+      "relation": "will",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12",
+      "relation": "is",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-high-10"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12",
+      "relation": "of",
+      "object_id": "ebed93b1-9b44-42bf-a267-aebdc3f48887-coast-15"
+    }
+  ],
+  "links": {
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-laws-5": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-strategy-14": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-16-spills-17": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-environmental-4": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-7-containment-8": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-primary-13": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-originated-18": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-collection-10": [],
+    "NE-COUNTRY-Brazil": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-it-3": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-accordance-21": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-scenarios-24": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-equipment-8-increase-9": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-continuous-7": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-12": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-response-17": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-always-19": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-scaled-16": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-15": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-must-33-attended-35": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-spills-32": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-resources-39": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-28": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-period-44": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-available-19": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-way-2": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-probability-9-occur-11": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-10": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-14": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-time-25": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-smaller-22": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-43": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-strongest-38": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-rage-23": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-8": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-zones-4": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-higher-6-exploitation-7": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-activities-10": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-prioritizred-25": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-maritime-3": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-exploitation-7": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-2": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-used-5": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-discharges-12": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-Such-1": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-small-9": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-use-2": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-operated-13": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-fleet-16": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-rationalization-18": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-to-11": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-changing-2": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-profits-6": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-reducing-9": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-figures-11": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-vessels-17": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-chartering-18": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-fees-14": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-economic-5": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-compliance-12": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14-from-15-regulatory-16-agency-17": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-requirements-14": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-situation-6": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-agency-17": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-case-2-study-3": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-will-4-presented-6-considering-8-activity-11-oilfield-12": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-high-10": [],
+    "ebed93b1-9b44-42bf-a267-aebdc3f48887-coast-15": []
+  }
+}

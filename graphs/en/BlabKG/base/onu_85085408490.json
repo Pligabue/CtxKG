@@ -1,0 +1,195 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085408490.txt",
+  "entities": {
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6": "exploration operations",
+    "NE-LOCATION-Basin": "Basin",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1": "PETROBRÁS",
+    "NE-CITY-Campos": "Campos",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-helicopter-18": "helicopter",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-coast-22": "coast",
+    "NE-MISC-Brazilizan": "Brazilizan",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-supported-16": "supported",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-number-25": "number",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-passengers-31": "passengers",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-great-24": "great",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3": "safety",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11": "mean",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-transportation-13": "transportation",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1": "Quality",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8": "aspects",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-most-6": "most",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-important-7": "important",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Regular-24-inspections-25": "Regular inspections",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aircrafts-28": "aircrafts",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-paper-2": "paper",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-objective-5": "objective",
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-offshore-13-activity-14": "offshore activity"
+  },
+  "graph": [
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1",
+      "relation": "has",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1",
+      "relation": "’s",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-helicopter-18",
+      "relation": "is in",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-coast-22"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-coast-22",
+      "relation": "of",
+      "object_id": "NE-MISC-Brazilizan"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6",
+      "relation": "is",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-supported-16"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-supported-16",
+      "relation": "of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-coast-22"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-supported-16",
+      "relation": "by",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-helicopter-18"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-number-25",
+      "relation": "accomodate",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-passengers-31"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-number-25",
+      "relation": "is",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-great-24"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3",
+      "relation": "are aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11",
+      "relation": "of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-transportation-13"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1",
+      "relation": "are",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8",
+      "relation": "of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3",
+      "relation": "are most important aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3",
+      "relation": "are",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8",
+      "relation": "at",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-most-6"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1",
+      "relation": "are important aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8",
+      "relation": "is",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-important-7"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3",
+      "relation": "are important aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1",
+      "relation": "are most important aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1",
+      "relation": "are aspects of",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Regular-24-inspections-25",
+      "relation": "is in",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aircrafts-28"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-paper-2",
+      "relation": "has",
+      "object_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-objective-5"
+    },
+    {
+      "subject_id": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-offshore-13-activity-14",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    }
+  ],
+  "links": {
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-exploration-3-operations-6": [],
+    "NE-LOCATION-Basin": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1": [],
+    "NE-CITY-Campos": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-helicopter-18": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-coast-22": [],
+    "NE-MISC-Brazilizan": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-supported-16": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-number-25": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-passengers-31": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-great-24": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-safety-3": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-mean-11": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-transportation-13": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Quality-1": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aspects-8": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-most-6": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-important-7": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-Regular-24-inspections-25": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-aircrafts-28": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-paper-2": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-objective-5": [],
+    "47bed0cf-53f1-4cbc-8757-a9c45441f91a-offshore-13-activity-14": []
+  }
+}

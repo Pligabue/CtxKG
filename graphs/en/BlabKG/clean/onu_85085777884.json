@@ -1,0 +1,401 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085777884.txt",
+  "entities": {
+    "943cc533-ce82-452e-94d0-14fafa0d4754-subsea-28-installations-29": "subsea installations",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-method-3": "method",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-presented-33": "presented",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-new-2": "new",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7": "adaptation",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-10": "proposed",
+    "NE-ORGANIZATION-IBAMA": "IBAMA",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Technical-14-Note-15-N-16-°-17": "Technical Note N °",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-based-4": "based",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-that-9": "that",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-licensing-15": "licensing",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-need-12": "need",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-requirement-2": "requirement",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Assessment-6-methodology-7": "Assessment methodology",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Comparative-5": "Comparative",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-combination-9": "combination",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-11": "environmental",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-developed-5": "developed",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2": "analytical",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-attributes-12": "attributes",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-importance-2": "importance",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-given-7": "given",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10": "combination",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17": "magnitude",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-called-24": "called",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Environmental-26": "Environmental",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Impact-27-Importance-28-Score-29-Matrix-30": "Impact Importance Score Matrix",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-sensitivity-14": "sensitivity",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17-of-18-impacts-20": "magnitude of impacts",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-13-sensitivity-14": "environmental sensitivity",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-performance-6-measure-7": "performance measure",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2-method-3": "analytical method",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-21": "assessment",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-transparency-16": "transparency",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-greater-15": "greater",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-traceability-18": "traceability",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-24": "impacts",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7": "proposed method",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12": "decommissioning",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-applied-9": "applied",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-example-3": "example",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-two-18-platforms-19": "two platforms",
+    "NE-LOCATION-Basin": "Basin",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-rigid-15": "rigid",
+    "NE-CITY-Campos": "Campos",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-pipeline-16": "pipeline",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Option-15": "Option",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27": "impacts",
+    "NE-TITLE-marine": "marine",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-option-22": "option",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-preferred-21": "preferred",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-7": "assessment",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-case-4": "case",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-particular-3": "particular",
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environment-32": "environment"
+  },
+  "graph": [
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-subsea-28-installations-29",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-presented-33"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-new-2"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "is based on",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Technical-14-Note-15-N-16-°-17"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-IBAMA",
+      "relation": "is in",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Technical-14-Note-15-N-16-°-17"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-based-4"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-that-9"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-IBAMA"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-licensing-15",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-need-12",
+      "relation": "is By",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-requirement-2"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-requirement-2",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Assessment-6-methodology-7"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-requirement-2",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Comparative-5"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "was developed based",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-9"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-9",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-11"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "was",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-developed-5"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-method-3",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-9",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-attributes-12"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-importance-2",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-given-7"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-importance-2",
+      "relation": "is given by",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-given-7",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-called-24"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-given-7",
+      "relation": "by",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-given-7",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Environmental-26"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-given-7",
+      "relation": "at",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Impact-27-Importance-28-Score-29-Matrix-30"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-sensitivity-14"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17-of-18-impacts-20"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-13-sensitivity-14",
+      "relation": "is with",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17-of-18-impacts-20"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-13-sensitivity-14"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7",
+      "relation": "provides",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-performance-6-measure-7"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2-method-3",
+      "relation": "provides transparency in",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-21"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2-method-3",
+      "relation": "provides",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-transparency-16"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-transparency-16",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-greater-15"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-transparency-16",
+      "relation": "assessment",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-traceability-18"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-21",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-24"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7",
+      "relation": "is applied for",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-applied-9"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-applied-9",
+      "relation": "at",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-applied-9",
+      "relation": "at",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-example-3"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-two-18-platforms-19",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-rigid-15"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-two-18-platforms-19"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7",
+      "relation": "is applied As",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-example-3"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-pipeline-16"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Option-15",
+      "relation": "was option with",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Option-15",
+      "relation": "was",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-option-22"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-option-22",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-preferred-21"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-7",
+      "relation": "revealed For",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-case-4"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-Option-15",
+      "relation": "was preferred option with",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-case-4",
+      "relation": "is",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-particular-3"
+    },
+    {
+      "subject_id": "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27",
+      "relation": "of",
+      "object_id": "943cc533-ce82-452e-94d0-14fafa0d4754-environment-32"
+    }
+  ],
+  "links": {
+    "943cc533-ce82-452e-94d0-14fafa0d4754-subsea-28-installations-29": [],
+    "NE-COUNTRY-Brazil": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-method-3": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-presented-33": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-new-2": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-adaptation-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-10": [],
+    "NE-ORGANIZATION-IBAMA": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Technical-14-Note-15-N-16-°-17": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-based-4": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-that-9": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-licensing-15": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-need-12": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-requirement-2": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Assessment-6-methodology-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Comparative-5": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-combination-9": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-11": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-developed-5": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-attributes-12": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-importance-2": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-given-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-combination-10": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-called-24": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Environmental-26": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Impact-27-Importance-28-Score-29-Matrix-30": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-sensitivity-14": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17-of-18-impacts-20": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-13-sensitivity-14": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-performance-6-measure-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-analytical-2-method-3": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-21": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-transparency-16": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-greater-15": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-traceability-18": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-24": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-proposed-6-method-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-decommissioning-12": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-applied-9": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-example-3": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-two-18-platforms-19": [],
+    "NE-LOCATION-Basin": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-rigid-15": [],
+    "NE-CITY-Campos": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-pipeline-16": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-Option-15": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-impacts-27": [],
+    "NE-TITLE-marine": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-option-22": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-preferred-21": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-assessment-7": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-case-4": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-particular-3": [],
+    "943cc533-ce82-452e-94d0-14fafa0d4754-environment-32": []
+  }
+}

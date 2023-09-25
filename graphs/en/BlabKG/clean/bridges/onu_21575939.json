@@ -1,0 +1,1214 @@
+{
+  "onu_10228776.json": {
+    "NE-LOCATION-Basin": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33"
+  },
+  "onu_11244281653.json": {},
+  "onu_14467639.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-crude-13"
+  },
+  "onu_14928592.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "94267b10-5a2b-4a17-9107-d48195781271-petroleum-13"
+  },
+  "onu_1642522078.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-capability-22": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-capability-11",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-surrounding-14",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-production-5-system-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_16964104.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-producing-5"
+  },
+  "onu_17044389842.json": {},
+  "onu_17144436283.json": {},
+  "onu_17344364742.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "9904aa2e-63e4-415c-ba81-2791b35da710-imported-16",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "9904aa2e-63e4-415c-ba81-2791b35da710-oil-10",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_1842589247.json": {},
+  "onu_18944382016.json": {},
+  "onu_19586421.json": {},
+  "onu_20736039.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_2342418572.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_2342623297.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-oil-31"
+  },
+  "onu_23699043.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-challenge-31": "27ebf046-bcf2-420b-91df-6fb5d91c9044-difficulty-24"
+  },
+  "onu_23844461981.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "738463bf-612b-462d-abc4-dde0497711de-oil-17",
+    "NE-LOCATION-Basin": "738463bf-612b-462d-abc4-dde0497711de-basin-38",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "738463bf-612b-462d-abc4-dde0497711de-crude-16",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_24044508291.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "172d53b1-9917-4393-8895-7e062ea5429d-oil-14",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "172d53b1-9917-4393-8895-7e062ea5429d-crude-29",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_24050293.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-capability-22": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-lift-11-capability-12"
+  },
+  "onu_242694501.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-oil-9-fields-10"
+  },
+  "onu_24662461.json": {},
+  "onu_24769642.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3"
+  },
+  "onu_24867907.json": {},
+  "onu_25054779.json": {},
+  "onu_25144481375.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_25444510078.json": {},
+  "onu_26244445255.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "56ff964f-2871-425b-84b1-fb6ad329d9e9-oil-10-field-11"
+  },
+  "onu_26850121.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_27744595461.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_30311937.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_30706349.json": {},
+  "onu_31206995.json": {},
+  "onu_31375269.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-production-25-systems-26"
+  },
+  "onu_32444448833.json": {},
+  "onu_33293728.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_33295123.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-19",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_33295407.json": {},
+  "onu_33644613229.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "20e89570-d632-400e-b304-ad0e644f1a32-oil-11-resources-12",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "20e89570-d632-400e-b304-ad0e644f1a32-offshore-10-oil-11-resources-12"
+  },
+  "onu_33645422493.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_33646023976.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-20",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-19"
+  },
+  "onu_33646035823.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-fuel-18-oil-19"
+  },
+  "onu_33646043488.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "39c4c261-18a8-4b03-aca4-45d607c671ce-oil-12",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "39c4c261-18a8-4b03-aca4-45d607c671ce-remaining-39"
+  },
+  "onu_33646056106.json": {},
+  "onu_33646056405.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "84216c5e-4b64-4443-b98d-66b70adb98df-oil-14-company-15"
+  },
+  "onu_33646073069.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-34"
+  },
+  "onu_33646452775.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "3e889ffb-ffea-4a6d-ada5-81e76867be02-)-7-state-10---11-owned-12-oil-13-company-14-production-18-storage-19",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_33745228406.json": {},
+  "onu_33745354316.json": {},
+  "onu_33745713604.json": {},
+  "onu_33746039693.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "NE-ORGANIZATION-State-Oil-Company"
+  },
+  "onu_33748460104.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "920d8eef-1ebb-4cab-8288-cea4cd878488-oil-6-production-7",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_33749265496.json": {},
+  "onu_33751312200.json": {},
+  "onu_33751315219.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_34250708084.json": {},
+  "onu_344309110.json": {},
+  "onu_344741441.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-capability-22": "1de3c47d-c84d-4a38-b042-489e5b30b72e-capability-15",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "1de3c47d-c84d-4a38-b042-489e5b30b72e-oil-13-fields-14"
+  },
+  "onu_345171568.json": {},
+  "onu_34531605.json": {},
+  "onu_34547893063.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_345603133.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_345603650.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_34686357.json": {},
+  "onu_34984147.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_35573581.json": {},
+  "onu_36768397.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "20e46fa4-f273-41b1-ba72-0f62ac329290-oil-27",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_37304895.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_40349089123.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "50180d4d-99ad-4416-b364-8467ab844fae-oil-11",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "50180d4d-99ad-4416-b364-8467ab844fae-crude-10",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_4043182709.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_41849140524.json": {},
+  "onu_47849110025.json": {},
+  "onu_50249174640.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-22-companies-23"
+  },
+  "onu_50249181836.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-14"
+  },
+  "onu_51649098845.json": {},
+  "onu_52049093008.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "83994fff-4d3b-468e-9bed-d467b6149c25-oilfields-25"
+  },
+  "onu_52249116622.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_52349109473.json": {
+    "NE-NATIONALITY-Brazilian": "NE-COUNTRY-Brazil",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "69eb9371-1b92-4f24-801d-8748c6728bc5-oil-15-production-18"
+  },
+  "onu_52849106027.json": {},
+  "onu_57649139087.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_58849128774.json": {},
+  "onu_59649088185.json": {},
+  "onu_68649086917.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-8",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "452ca893-25f2-4bf0-ae58-16ca549811cd-crude-13",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_68649124056.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-petroleum-25",
+    "NE-LOCATION-Basin": "NE-LOCATION-basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_68649126570.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18",
+    "NE-LOCATION-Basin": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18"
+  },
+  "onu_70449127482.json": {},
+  "onu_70449650835.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-oil-17-industry-18"
+  },
+  "onu_72449143175.json": {},
+  "onu_73349086227.json": {
+    "NE-LOCATION-Basin": "00339ccb-f0dd-47c7-aecb-ae379e27d109-basin-30",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_77449138097.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-produced-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_77955388680.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_77955408815.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_77956543361.json": {},
+  "onu_77956858304.json": {},
+  "onu_77958012173.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "82dfb525-fe3c-44b8-a079-56355943e3c5-performance-8"
+  },
+  "onu_78049320828.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "b0408dc9-8c82-423c-98ff-ebbb41b36282-oil-6-discovery-7",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_78649387727.json": {},
+  "onu_78650855754.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-unwanted-2"
+  },
+  "onu_79952546010.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "b40df2ca-cdf7-4284-8597-8f166cac093a-performance-16"
+  },
+  "onu_79952620223.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "c65b6b38-5933-4677-bdf7-2b10f3833625-oilfield-28",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_79953006622.json": {},
+  "onu_79955374293.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-oil-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_79955828033.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "070900c0-3683-4838-8adf-7fc9280ff95b-producing-9"
+  },
+  "onu_79959789184.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "2d2c89ac-c79e-412f-8293-e8fdf04c937c-making-16",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_80052069671.json": {},
+  "onu_80052571318.json": {},
+  "onu_80052582062.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_80052741860.json": {},
+  "onu_80053430040.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "6662d10a-a02c-4d87-88ea-e983eff2d48c-natural-7"
+  },
+  "onu_80053904380.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-challenge-31": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-challenge-22",
+    "NE-LOCATION-Basin": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-basin-25",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_80053909062.json": {},
+  "onu_80053931244.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "9e4d781b-b75d-4d08-a406-e18605539fdf-national-11-oil-12-company-13"
+  },
+  "onu_80053961084.json": {},
+  "onu_80054757255.json": {},
+  "onu_81855167522.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_82555187024.json": {},
+  "onu_83155193342.json": {},
+  "onu_84856625676.json": {},
+  "onu_84856741449.json": {},
+  "onu_84857305090.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "6f3e4645-24e4-4349-bbd4-2d20eb367316-to-13-oil-16-production-17",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Supplying-1"
+  },
+  "onu_84857324711.json": {},
+  "onu_84857483294.json": {},
+  "onu_84861595246.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84864615590.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-produced-70"
+  },
+  "onu_84864936265.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84865218536.json": {},
+  "onu_84865723570.json": {},
+  "onu_84869199462.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11"
+  },
+  "onu_84870604908.json": {},
+  "onu_84877857340.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84878941411.json": {},
+  "onu_84879432080.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "d22980f2-d1fa-4f87-94aa-ec684269aac1-oil-9-operations-12",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "d22980f2-d1fa-4f87-94aa-ec684269aac1-developing-41"
+  },
+  "onu_84879955769.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84880007809.json": {},
+  "onu_84883765236.json": {},
+  "onu_84883765292.json": {},
+  "onu_84887507211.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84888845935.json": {},
+  "onu_84888934569.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84888954344.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84888967977.json": {},
+  "onu_84889840418.json": {},
+  "onu_84891320656.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "1309746e-bd51-453c-8893-8fb38d7af7ab-offshore-8"
+  },
+  "onu_84891344152.json": {},
+  "onu_84892632570.json": {},
+  "onu_84892860778.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-productive-22",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84893052541.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-circulating-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84893062958.json": {},
+  "onu_84893067779.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84893090004.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "108bb058-270a-4059-b632-02b04115a0a7-Produced-1"
+  },
+  "onu_84893361208.json": {},
+  "onu_84893407222.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84893805098.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84894453276.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-oil-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84894470550.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84896824358.json": {},
+  "onu_84897376128.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "6634b230-b55b-42f5-b6bf-e9764410d504-water-9-drilling-10"
+  },
+  "onu_84897381844.json": {},
+  "onu_84897392529.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84897399429.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84897408330.json": {},
+  "onu_84897441267.json": {},
+  "onu_84897448998.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84897449140.json": {},
+  "onu_84897461830.json": {},
+  "onu_84897465328.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13"
+  },
+  "onu_84897470967.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84900305359.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "97531c44-64fa-4fe3-bfde-d9c5843dc485-performance-6",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "97531c44-64fa-4fe3-bfde-d9c5843dc485-Ocean-1"
+  },
+  "onu_84901784680.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84904394721.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reforming-14"
+  },
+  "onu_84905748711.json": {},
+  "onu_84907991224.json": {},
+  "onu_84918528762.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "521f5922-1c3e-4c36-9fd5-536f42356eaf-oil-7-generation-8"
+  },
+  "onu_84925638296.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84930513772.json": {},
+  "onu_84940864746.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "1ee95302-e3db-46d3-82b0-335752d9f3b6-oil-17-production-18"
+  },
+  "onu_84943289484.json": {},
+  "onu_84943328375.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84943338721.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84943339436.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84944574757.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84944593501.json": {},
+  "onu_84947326315.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "c9348211-c72e-4ea1-9eb9-711dc0c65800-performance-11"
+  },
+  "onu_84947757002.json": {},
+  "onu_84949266932.json": {},
+  "onu_84951918487.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84954454797.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84955127995.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "04ab6b85-447c-419a-adaf-4533eabeb71e-oil-51"
+  },
+  "onu_84958666405.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "NE-ORGANIZATION-National-Petroleum-Company"
+  },
+  "onu_84959478227.json": {},
+  "onu_84959561430.json": {},
+  "onu_84963819657.json": {},
+  "onu_84964700375.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "69c6bb79-fae8-43da-8f18-3e03cea59fec-oil-17"
+  },
+  "onu_84974574825.json": {},
+  "onu_84975761253.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "82c101db-bc8d-45dc-b75d-18d86512befa-sea-17"
+  },
+  "onu_84979574362.json": {},
+  "onu_84983465797.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "29e71a86-d6f9-4b04-935d-d2cff0962e21-oil-24"
+  },
+  "onu_84984596158.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84987760544.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84987762471.json": {},
+  "onu_84987763922.json": {},
+  "onu_84990861431.json": {},
+  "onu_84990898401.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_84996602559.json": {},
+  "onu_85006339618.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "ebc129db-d75f-475f-bc23-246f6cc145ee-Sea-34"
+  },
+  "onu_85007282651.json": {},
+  "onu_85008198009.json": {},
+  "onu_85009177497.json": {},
+  "onu_85009192413.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85009433339.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85012910163.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85013296221.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85013858173.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85016298905.json": {},
+  "onu_85016958402.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85017468089.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85020183362.json": {},
+  "onu_85026803842.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "1422e178-cc62-4bf3-acfe-1985781bfe49-production-13-systems-14"
+  },
+  "onu_85027233889.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85027401053.json": {},
+  "onu_85028240731.json": {},
+  "onu_85028278319.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-performance-3",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-oil-4-industry-7",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-oil-18-industry-21"
+  },
+  "onu_85028950368.json": {},
+  "onu_85029591872.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85030830298.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "7c4c08d7-08a1-49b5-9442-d72738d202b1-oil-6",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "7c4c08d7-08a1-49b5-9442-d72738d202b1-crude-5",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85030842598.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85031996233.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85032863710.json": {},
+  "onu_85033225585.json": {},
+  "onu_85033604891.json": {},
+  "onu_85034042710.json": {},
+  "onu_85035340277.json": {},
+  "onu_85037355639.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6"
+  },
+  "onu_85037590262.json": {},
+  "onu_85039546750.json": {},
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {},
+  "onu_85040888184.json": {},
+  "onu_85041142849.json": {},
+  "onu_85041154400.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-oil-9-resources-12",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-production-13-systems-14",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-oil-9-resources-12",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85041277142.json": {},
+  "onu_85041698761.json": {},
+  "onu_85043311576.json": {},
+  "onu_85043324954.json": {},
+  "onu_85044192214.json": {},
+  "onu_85044397080.json": {},
+  "onu_85044462127.json": {},
+  "onu_85044530973.json": {
+    "NE-LOCATION-Basin": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7"
+  },
+  "onu_85044596303.json": {},
+  "onu_85045186297.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85046290497.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85046379273.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-oil-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85047299670.json": {},
+  "onu_85047354188.json": {},
+  "onu_85047409861.json": {},
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {},
+  "onu_85049552088.json": {},
+  "onu_85050512775.json": {},
+  "onu_85050528173.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85050539655.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "e1000620-b18e-4098-9293-16b6e83cec81-drilling-35",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "e1000620-b18e-4098-9293-16b6e83cec81-giant-18"
+  },
+  "onu_85050551470.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "54866368-b614-4ef4-9fab-faa48a38f22d-oil-3"
+  },
+  "onu_85050561554.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85050643252.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "16159eb1-d977-41b1-977d-b5a0d90c3d46-oil-7",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "16159eb1-d977-41b1-977d-b5a0d90c3d46-production-6-systems-7",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "NE-ORGANIZATION-China-National-Offshore-Oil-Corporation",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85050674553.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-production-12-systems-13",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-16-companies-17"
+  },
+  "onu_85050680089.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85051633827.json": {},
+  "onu_85051644896.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "12c1d79e-73bd-481c-bdb8-1d4727843a15-oil-13",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85051649253.json": {},
+  "onu_85051653660.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-challenge-31": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-challenges-13"
+  },
+  "onu_85051673888.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85052069920.json": {},
+  "onu_85052748036.json": {},
+  "onu_85052916893.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-brazilian"
+  },
+  "onu_85053143769.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85053593980.json": {},
+  "onu_85053770238.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054086297.json": {},
+  "onu_85054504118.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054783545.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054941296.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85055025955.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85055027444.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055027692.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055036761.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055255571.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-oil-2-industry-3"
+  },
+  "onu_85055263465.json": {},
+  "onu_85055528846.json": {},
+  "onu_85055864923.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85055908781.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85056094176.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85056110569.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85056183083.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85056566136.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85056605886.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85056605922.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85056794099.json": {},
+  "onu_85057560805.json": {},
+  "onu_85057883234.json": {},
+  "onu_85059143234.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85059218520.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85059436090.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85060083816.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-basin"
+  },
+  "onu_85060443361.json": {},
+  "onu_85061179665.json": {},
+  "onu_85061498967.json": {},
+  "onu_85061767810.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85061823653.json": {},
+  "onu_85062013573.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85062607406.json": {
+    "NE-NATIONALITY-Brazilian": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062717506.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85063263863.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85063689284.json": {},
+  "onu_85064764902.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85064808857.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85064983703.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-performance-2"
+  },
+  "onu_85065180012.json": {},
+  "onu_85065623080.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85065912337.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85066600751.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-challenge-31": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21"
+  },
+  "onu_85066617192.json": {},
+  "onu_85066623384.json": {},
+  "onu_85067965170.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85068049608.json": {},
+  "onu_85068387773.json": {},
+  "onu_85068453742.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-ocean-6"
+  },
+  "onu_85070554647.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "72b63001-9050-46f3-a364-f3ec8d862ef0-performance-6",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "72b63001-9050-46f3-a364-f3ec8d862ef0-oil-9-fields-10"
+  },
+  "onu_85070704005.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85070853924.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85070991202.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85071023764.json": {},
+  "onu_85071488896.json": {},
+  "onu_85071542084.json": {},
+  "onu_85071847548.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85072725932.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-capability-22": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-technologies-31",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85072834829.json": {},
+  "onu_85073705401.json": {},
+  "onu_85073706024.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "fad0be37-f5f4-4a0f-bcad-6a82a846f841-offshore-3-oil-4"
+  },
+  "onu_85073935907.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "bc946871-1090-4025-8672-8089752cc34e-ocean-34"
+  },
+  "onu_85074489503.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85074632793.json": {},
+  "onu_85074778611.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85075350522.json": {},
+  "onu_85075421341.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85075661667.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85075827903.json": {},
+  "onu_85075828327.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85075831363.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85075835330.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-Oil-1"
+  },
+  "onu_85075843438.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85075879935.json": {},
+  "onu_85075941856.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85075951728.json": {},
+  "onu_85075997043.json": {},
+  "onu_85076246665.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "e0b07107-d3d9-440f-ac94-05597132db4b-oil-8-generation-9",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85076560202.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-performance-3"
+  },
+  "onu_85076775401.json": {},
+  "onu_85076896265.json": {},
+  "onu_85077234208.json": {},
+  "onu_85077945350.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85078010553.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85078233209.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85079351203.json": {},
+  "onu_85079784581.json": {},
+  "onu_85080813467.json": {},
+  "onu_85083240666.json": {},
+  "onu_85083341760.json": {},
+  "onu_85084024263.json": {},
+  "onu_85084454298.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85084634006.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85084667903.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85084945361.json": {
+    "NE-NATIONALITY-Brazilian": "NE-COUNTRY-Brazil",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-challenge-31": "bb0ac139-3982-432a-8400-729a5c19c126-challenges-14"
+  },
+  "onu_85085054148.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085298469.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85085408490.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085473397.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085492342.json": {},
+  "onu_85085773523.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085773731.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-oil-16"
+  },
+  "onu_85085773745.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "21225434-c8fc-441d-b277-65da424c77e7-oil-7"
+  },
+  "onu_85085773825.json": {},
+  "onu_85085773875.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "d606c7b3-ce98-4023-8a39-196528dd3002-offshore-20-production-21-system-22"
+  },
+  "onu_85085774498.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "801b16ca-c991-454c-b97a-b358ab8eea75-oil-15-company-16"
+  },
+  "onu_85085774511.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "07bf9801-f530-468c-9921-66afca9b2b91-oil-9"
+  },
+  "onu_85085774766.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-oil-16",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-evaluating-14"
+  },
+  "onu_85085775194.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-oil-10-wells-11",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085775396.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085775562.json": {},
+  "onu_85085775753.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085775962.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "be473474-e9c1-4908-947b-6970a8bfa756-oilfield-21",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "be473474-e9c1-4908-947b-6970a8bfa756-produced-35"
+  },
+  "onu_85085776151.json": {},
+  "onu_85085776159.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085776356.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-state-50-oil-51-company-52": "2a540db1-9714-4a1f-b95b-65922ff9ef32-oil-16-company-17"
+  },
+  "onu_85085776372.json": {},
+  "onu_85085776540.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "544389f0-af01-489c-a71e-5e23542d32c5-oil-24-fields-25"
+  },
+  "onu_85085776958.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-early-15-production-18-systems-19": "6dbb2a6b-d66e-49c3-a7f3-450475d69123-Early-15-Production-16-System-17",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085777009.json": {},
+  "onu_85085777884.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085778037.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085778412.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085778651.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "42684b28-71f8-41aa-ada5-b427f3c87f94-performance-18",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85085778850.json": {},
+  "onu_85085778895.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085779136.json": {},
+  "onu_85085779144.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-capability-22": "be3e799c-8e30-4190-9f13-a88110e85837-capability-7",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85085780309.json": {},
+  "onu_85085850094.json": {},
+  "onu_85086232639.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85086245971.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85086248840.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85086257600.json": {},
+  "onu_85086355916.json": {},
+  "onu_85086628030.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85086649140.json": {},
+  "onu_85086667338.json": {},
+  "onu_85086808985.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "bf917e90-7343-4ac5-9605-4309e100073a-oil-18"
+  },
+  "onu_85086809805.json": {},
+  "onu_85086829622.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85086929987.json": {},
+  "onu_85087227840.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85087228205.json": {},
+  "onu_85087345946.json": {},
+  "onu_85087348432.json": {},
+  "onu_85087970879.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85088133476.json": {},
+  "onu_85088202607.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "878c6144-9088-47f8-8223-53e986bb063e-performance-4"
+  },
+  "onu_85088697920.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85088709907.json": {},
+  "onu_85088763109.json": {},
+  "onu_85088793210.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "36cf26a9-49e9-4151-9e5e-0835540d9f61-performance-40"
+  },
+  "onu_85088799870.json": {},
+  "onu_85088892946.json": {},
+  "onu_85088978023.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85089199336.json": {},
+  "onu_85089245637.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85089527352.json": {},
+  "onu_85089654013.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85090201621.json": {},
+  "onu_85090367193.json": {},
+  "onu_85090483755.json": {},
+  "onu_85090507698.json": {},
+  "onu_85090509939.json": {},
+  "onu_85090511016.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-performance-18",
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85090646059.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85090693617.json": {},
+  "onu_85090982605.json": {},
+  "onu_85091197319.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85091725112.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-producing-33": "68839359-bf76-4868-9d75-bcfd19d0c220-prolific-14"
+  },
+  "onu_85091986329.json": {},
+  "onu_85092100205.json": {},
+  "onu_85092110011.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85092499794.json": {},
+  "onu_85093942688.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85094168812.json": {},
+  "onu_85095686213.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85095886757.json": {},
+  "onu_85095967333.json": {},
+  "onu_85096027479.json": {},
+  "onu_85096104148.json": {},
+  "onu_85096519364.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85096833213.json": {},
+  "onu_85097322074.json": {},
+  "onu_85097480849.json": {},
+  "onu_85097539519.json": {},
+  "onu_85097552901.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "d8cfb4de-70be-467f-985d-1b6570de040d-performance-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85097570159.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85097598677.json": {},
+  "onu_85097758556.json": {},
+  "onu_85097770989.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85097876795.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85097889884.json": {},
+  "onu_85097914346.json": {},
+  "onu_85097951230.json": {},
+  "onu_85098462600.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian",
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "38a83013-53f0-4289-9d52-d397020aee69-sea-19"
+  },
+  "onu_85099021856.json": {},
+  "onu_85099211729.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85099279592.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85099301920.json": {},
+  "onu_85099313369.json": {},
+  "onu_85099520347.json": {},
+  "onu_85100594780.json": {},
+  "onu_85100847459.json": {},
+  "onu_85101031678.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85101067912.json": {},
+  "onu_85101344072.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85101359309.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85101493235.json": {},
+  "onu_85101961666.json": {},
+  "onu_85102272621.json": {},
+  "onu_85103445741.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85103489384.json": {},
+  "onu_85103521288.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-performance-46": "20734208-feb1-4173-9fdd-e0817c128dc2-performance-13"
+  },
+  "onu_85103724572.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-oil-34": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-oil-20"
+  },
+  "onu_85104343927.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  },
+  "onu_85104631395.json": {
+    "2a18b89a-fc40-4d7d-8d19-e866ef053e04-sea-39": "2570e3cb-e265-4264-a109-e3358d5b90ba-sea-18"
+  },
+  "onu_85104732272.json": {
+    "NE-NATIONALITY-Brazilian": "NE-NATIONALITY-Brazilian"
+  }
+}

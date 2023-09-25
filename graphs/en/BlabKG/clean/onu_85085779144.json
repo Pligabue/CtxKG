@@ -1,0 +1,565 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085779144.txt",
+  "entities": {
+    "be3e799c-8e30-4190-9f13-a88110e85837-projects-25": "projects",
+    "be3e799c-8e30-4190-9f13-a88110e85837-years-30": "years",
+    "be3e799c-8e30-4190-9f13-a88110e85837-next-29": "next",
+    "be3e799c-8e30-4190-9f13-a88110e85837-offshore-24": "offshore",
+    "be3e799c-8e30-4190-9f13-a88110e85837-ULTRA-1": "ULTRA",
+    "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11": "flow assurance coating technology",
+    "be3e799c-8e30-4190-9f13-a88110e85837-novel-5": "novel",
+    "be3e799c-8e30-4190-9f13-a88110e85837-novel-5-introduced-13": "novel introduced",
+    "be3e799c-8e30-4190-9f13-a88110e85837-market-17": "market",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-DATE-recently": "recently",
+    "be3e799c-8e30-4190-9f13-a88110e85837-upcoming-19": "upcoming",
+    "be3e799c-8e30-4190-9f13-a88110e85837-introduced-13": "introduced",
+    "be3e799c-8e30-4190-9f13-a88110e85837-coating-2-technology-3": "coating technology",
+    "be3e799c-8e30-4190-9f13-a88110e85837-projects-22": "projects",
+    "be3e799c-8e30-4190-9f13-a88110e85837-has-4-used-6": "has used",
+    "be3e799c-8e30-4190-9f13-a88110e85837-worldwide-23": "worldwide",
+    "be3e799c-8e30-4190-9f13-a88110e85837-designed-15": "designed",
+    "NE-DURATION-9-years": "9 years",
+    "be3e799c-8e30-4190-9f13-a88110e85837-major-16-project-17": "major project",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13": "has applied",
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8": "thermal",
+    "be3e799c-8e30-4190-9f13-a88110e85837-year-5": "year",
+    "be3e799c-8e30-4190-9f13-a88110e85837-project-17": "project",
+    "be3e799c-8e30-4190-9f13-a88110e85837-Particularly-1": "Particularly",
+    "be3e799c-8e30-4190-9f13-a88110e85837-last-4": "last",
+    "be3e799c-8e30-4190-9f13-a88110e85837-system-10": "system",
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6": "insulation system",
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9": "thermal insulation",
+    "be3e799c-8e30-4190-9f13-a88110e85837-fusion-9-epoxy-11": "fusion epoxy",
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-4-composed-7": "thermal composed",
+    "be3e799c-8e30-4190-9f13-a88110e85837-composed-7": "composed",
+    "be3e799c-8e30-4190-9f13-a88110e85837-bonded-10": "bonded",
+    "be3e799c-8e30-4190-9f13-a88110e85837-ductility-24-shield-26": "ductility shield",
+    "be3e799c-8e30-4190-9f13-a88110e85837-some-31": "some",
+    "be3e799c-8e30-4190-9f13-a88110e85837-existing-33": "existing",
+    "be3e799c-8e30-4190-9f13-a88110e85837-solutions-34": "solutions",
+    "be3e799c-8e30-4190-9f13-a88110e85837-Application-1-trials-2": "Application trials",
+    "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6": "have performed",
+    "be3e799c-8e30-4190-9f13-a88110e85837-plant-9-capabilities-10": "plant capabilities",
+    "be3e799c-8e30-4190-9f13-a88110e85837-successfully-5": "successfully",
+    "be3e799c-8e30-4190-9f13-a88110e85837-system-16": "system",
+    "be3e799c-8e30-4190-9f13-a88110e85837-similar-18": "similar",
+    "be3e799c-8e30-4190-9f13-a88110e85837-foam-5": "foam",
+    "be3e799c-8e30-4190-9f13-a88110e85837-spot-12": "spot",
+    "be3e799c-8e30-4190-9f13-a88110e85837-sweet-11": "sweet",
+    "be3e799c-8e30-4190-9f13-a88110e85837-market-28": "market",
+    "be3e799c-8e30-4190-9f13-a88110e85837-existing-24": "existing",
+    "be3e799c-8e30-4190-9f13-a88110e85837-versions-8": "versions",
+    "be3e799c-8e30-4190-9f13-a88110e85837-wet-21": "wet",
+    "be3e799c-8e30-4190-9f13-a88110e85837-solid-7": "solid",
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-22-solutions-23": "insulation solutions",
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5": "thermal insulation system systems",
+    "be3e799c-8e30-4190-9f13-a88110e85837-capability-7": "capability",
+    "be3e799c-8e30-4190-9f13-a88110e85837-solid-2": "solid",
+    "be3e799c-8e30-4190-9f13-a88110e85837-lower-10": "lower",
+    "be3e799c-8e30-4190-9f13-a88110e85837-Heat-16-Transfer-17-Coefficient-18": "Heat Transfer Coefficient",
+    "be3e799c-8e30-4190-9f13-a88110e85837-delivering-9": "delivering",
+    "be3e799c-8e30-4190-9f13-a88110e85837-Overall-15": "Overall",
+    "be3e799c-8e30-4190-9f13-a88110e85837-their-22-conductivity-25": "their conductivity",
+    "be3e799c-8e30-4190-9f13-a88110e85837-U-11-values-13": "U values",
+    "be3e799c-8e30-4190-9f13-a88110e85837-benefit-2": "benefit",
+    "be3e799c-8e30-4190-9f13-a88110e85837-reflected-8": "reflected",
+    "be3e799c-8e30-4190-9f13-a88110e85837-coating-12-thickness-13": "coating thickness",
+    "be3e799c-8e30-4190-9f13-a88110e85837-reduced-11": "reduced",
+    "be3e799c-8e30-4190-9f13-a88110e85837-industry-8": "industry",
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15": "insulation systems",
+    "be3e799c-8e30-4190-9f13-a88110e85837-offshore-7": "offshore",
+    "be3e799c-8e30-4190-9f13-a88110e85837-wet-13": "wet",
+    "be3e799c-8e30-4190-9f13-a88110e85837-coming-3": "coming",
+    "be3e799c-8e30-4190-9f13-a88110e85837-value-5": "value",
+    "be3e799c-8e30-4190-9f13-a88110e85837-deeper-11-water-12-depths-13": "deeper water depths",
+    "be3e799c-8e30-4190-9f13-a88110e85837-lower-7-CAPEX-8": "lower CAPEX",
+    "be3e799c-8e30-4190-9f13-a88110e85837-proven-6-addressing-12": "proven addressing",
+    "be3e799c-8e30-4190-9f13-a88110e85837-challenges-14": "challenges",
+    "be3e799c-8e30-4190-9f13-a88110e85837-proven-6": "proven",
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-2": "insulation"
+  },
+  "graph": [
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-projects-25",
+      "relation": "expected in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-years-30"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-years-30",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-next-29"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-projects-25",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-offshore-24"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-ULTRA-1",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-novel-5"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-novel-5-introduced-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "recently introduced in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-market-17"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-market-17",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "at",
+      "object_id": "NE-DATE-recently"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "recently introduced for",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-upcoming-19"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-market-17"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-ULTRA-1",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-novel-5-introduced-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "introduced in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-market-17"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-introduced-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "introduced for",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-upcoming-19"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-upcoming-19"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-coating-2-technology-3",
+      "relation": "been designed in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-projects-22"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-projects-22",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-offshore-24"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-coating-2-technology-3",
+      "relation": "has",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-4-used-6"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-projects-22",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-worldwide-23"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-coating-2-technology-3",
+      "relation": "been",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-designed-15"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-4-used-6",
+      "relation": "at",
+      "object_id": "NE-DURATION-9-years"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-major-16-project-17",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "has",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-year-5"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-project-17"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-Particularly-1"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-major-16-project-17"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-last-4"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "of",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-fusion-9-epoxy-11"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-4-composed-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-composed-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-bonded-10"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-4-composed-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-ductility-24-shield-26",
+      "relation": "outperform",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-some-31"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-some-31",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-existing-33"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-some-31",
+      "relation": "of",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-solutions-34"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-Application-1-trials-2",
+      "relation": "have",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-Application-1-trials-2",
+      "relation": "validate",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-plant-9-capabilities-10"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-successfully-5"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-16",
+      "relation": "outperforms",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-foam-5",
+      "relation": "have",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-spot-12"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-spot-12",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-sweet-11"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-market-28"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-existing-24"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-versions-8",
+      "relation": "have",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-spot-12"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-wet-21"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-versions-8",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-solid-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18",
+      "relation": "at",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-22-solutions-23"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-similar-18",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5",
+      "relation": "demonstrated",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-capability-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-solid-2"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-capability-7",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-lower-10"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5",
+      "relation": "demonstrated",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-Heat-16-Transfer-17-Coefficient-18"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-capability-7",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-delivering-9"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-Heat-16-Transfer-17-Coefficient-18",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-Overall-15"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5",
+      "relation": "demonstrated capability due",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-their-22-conductivity-25"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-capability-7",
+      "relation": "of",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-U-11-values-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-benefit-2",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-reflected-8"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-benefit-2",
+      "relation": "is reflected in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-coating-12-thickness-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-coating-12-thickness-13",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-reduced-11"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-industry-8",
+      "relation": "will demand",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-industry-8",
+      "relation": "will demand insulation systems In",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-years-30"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-industry-8",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-offshore-7"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-wet-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15",
+      "relation": "industry in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-years-30",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-coming-3"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15",
+      "relation": "offshore industry in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-industry-8",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-value-5",
+      "relation": "is in",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-deeper-11-water-12-depths-13"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-value-5",
+      "relation": "is with",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-lower-7-CAPEX-8"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-proven-6-addressing-12"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "addressing",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-challenges-14"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-proven-6"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "is",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11"
+    },
+    {
+      "subject_id": "be3e799c-8e30-4190-9f13-a88110e85837-system-10",
+      "relation": "of",
+      "object_id": "be3e799c-8e30-4190-9f13-a88110e85837-insulation-2"
+    }
+  ],
+  "links": {
+    "be3e799c-8e30-4190-9f13-a88110e85837-projects-25": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-years-30": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-next-29": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-offshore-24": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-ULTRA-1": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-flow-8-assurance-9-coating-10-technology-11": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-novel-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-novel-5-introduced-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-market-17": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-DATE-recently": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-upcoming-19": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-introduced-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-coating-2-technology-3": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-projects-22": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-has-4-used-6": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-worldwide-23": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-designed-15": [],
+    "NE-DURATION-9-years": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-major-16-project-17": [],
+    "NE-COUNTRY-Brazil": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-has-11-applied-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-year-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-project-17": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-Particularly-1": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-last-4": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-system-10": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-5-system-6": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-fusion-9-epoxy-11": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-4-composed-7": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-composed-7": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-bonded-10": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-ductility-24-shield-26": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-some-31": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-existing-33": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-solutions-34": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-Application-1-trials-2": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-plant-9-capabilities-10": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-successfully-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-system-16": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-similar-18": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-foam-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-spot-12": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-sweet-11": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-market-28": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-existing-24": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-versions-8": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-wet-21": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-solid-7": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-22-solutions-23": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-thermal-8-insulation-9-system-10-systems-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-capability-7": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-solid-2": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-lower-10": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-Heat-16-Transfer-17-Coefficient-18": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-delivering-9": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-Overall-15": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-their-22-conductivity-25": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-U-11-values-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-benefit-2": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-reflected-8": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-coating-12-thickness-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-reduced-11": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-industry-8": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-14-systems-15": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-offshore-7": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-wet-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-coming-3": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-value-5": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-deeper-11-water-12-depths-13": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-lower-7-CAPEX-8": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-proven-6-addressing-12": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-challenges-14": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-proven-6": [],
+    "be3e799c-8e30-4190-9f13-a88110e85837-insulation-2": []
+  }
+}

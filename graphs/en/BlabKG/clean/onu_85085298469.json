@@ -1,0 +1,588 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085298469.txt",
+  "entities": {
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1": "Coquinas",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4": "deposits",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-lacustrine-6": "lacustrine",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20": "source",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22": "information",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-widespread-3": "widespread",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24": "environmental",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-where-15": "where",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-valuable-19": "valuable",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-conditions-25": "conditions",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-2-successions-3": "coquina successions",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposited-5": "deposited",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Thick-1": "Thick",
+    "NE-ORGANIZATION-Continental-Margin": "Continental Margin",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10": "coquina sequence",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32": "analog",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-important-36-hydrocarbon-37-reservoirs-38": "important hydrocarbon reservoirs",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-crops-20": "crops",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Atol-24-Quarry-25": "Atol Quarry",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-equivalent-12": "equivalent",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-strata-42": "strata",
+    "NE-MISC-Pre-salt": "Pre-salt",
+    "NE-ORGANIZATION-Chaves-Formation": "Chaves Formation",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-economically-35": "economically",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Sergipe-3-Alagoas-5-Basin-6": "Sergipe Alagoas Basin",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-relevant-31": "relevant",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-37-reservoirs-38": "hydrocarbon reservoirs",
+    "NE-TITLE-model": "model",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-study-5": "study",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-aim-2": "aim",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-10": "depositional",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-15": "facies",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analyses-2": "analyses",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coqueiro-24-Seco-25-Formation-26": "Coqueiro Seco Formation",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-above-27": "above",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Penedo-30-Formation-31": "Penedo Formation",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16": "transition",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-adjacent-19": "adjacent",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-below-32": "below",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-characterization-6": "characterization",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-units-21": "units",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-stratigraphic-20": "stratigraphic",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-5": "geological",
+    "NE-LOCATION-Morro": "Morro",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-growing-37-knowledge-38": "growing knowledge",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-48-producing-50-reservoirs-51": "hydrocarbon producing reservoirs",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rift-42-basins-43": "rift basins",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Facies-1-analysis-2": "Facies analysis",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-features-11": "features",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rocks-14": "rocks",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-sedimentological-5": "sedimentological",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-2-facies-3": "depositional facies",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-recognized-5": "recognized",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Fourteen-1": "Fourteen",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10": "correlation",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-insights-24": "insights",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-described-18": "described",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-spatial-27": "spatial",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-well-12": "well",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-studies-21": "studies",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-core-14-data-17": "core data",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-presented-5": "presented",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-distribution-28": "distribution",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-previous-20": "previous",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28": "we",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37": "record",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-36": "geological",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-light-10": "light",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-5": "facies",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33": "deposits",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3": "analysis",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-processes-13": "processes",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-detailed-2": "detailed",
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analogous-32": "analogous"
+  },
+  "graph": [
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1",
+      "relation": "constitute",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-lacustrine-6"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1",
+      "relation": "are",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-widespread-3"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1",
+      "relation": "are valuable",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1",
+      "relation": "are source of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4",
+      "relation": "is in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-lacustrine-6"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-where-15"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1",
+      "relation": "are valuable source of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-valuable-19"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-conditions-25"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-2-successions-3",
+      "relation": "were",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposited-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-2-successions-3",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Thick-1"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Continental-Margin",
+      "relation": "is along",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10",
+      "relation": "is considered",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-important-36-hydrocarbon-37-reservoirs-38"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10",
+      "relation": "do",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-crops-20"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-crops-20",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Atol-24-Quarry-25"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-equivalent-12"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-important-36-hydrocarbon-37-reservoirs-38",
+      "relation": "is in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-strata-42"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-strata-42",
+      "relation": "of",
+      "object_id": "NE-MISC-Pre-salt"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10",
+      "relation": "do",
+      "object_id": "NE-ORGANIZATION-Chaves-Formation"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-economically-35"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-crops-20",
+      "relation": "is in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Atol-24-Quarry-25"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10",
+      "relation": "do Chaves Formation In",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Sergipe-3-Alagoas-5-Basin-6"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-strata-42"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-relevant-31"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "crops in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Atol-24-Quarry-25"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-37-reservoirs-38"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "aim of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-study-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-aim-2",
+      "relation": "is generate",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-10"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-aim-2",
+      "relation": "is generate model through",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-15"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analyses-2",
+      "relation": "allowed",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coqueiro-24-Seco-25-Formation-26"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coqueiro-24-Seco-25-Formation-26",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-above-27"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coqueiro-24-Seco-25-Formation-26",
+      "relation": "analyses",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Penedo-30-Formation-31"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "geological characterization",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-adjacent-19"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Penedo-30-Formation-31",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-below-32"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-characterization-6",
+      "relation": "do",
+      "object_id": "NE-ORGANIZATION-Chaves-Formation"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "characterization",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-units-21"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "has",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-stratigraphic-20"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-characterization-6",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "characterization of",
+      "object_id": "NE-LOCATION-Morro"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-growing-37-knowledge-38",
+      "relation": "is in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-48-producing-50-reservoirs-51"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-growing-37-knowledge-38",
+      "relation": "is in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rift-42-basins-43"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Chaves-Formation",
+      "relation": "geological characterization of",
+      "object_id": "NE-LOCATION-Morro"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Facies-1-analysis-2",
+      "relation": "consists of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-features-11"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-features-11",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rocks-14"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-features-11",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-sedimentological-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-2-facies-3",
+      "relation": "were",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-recognized-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-2-facies-3",
+      "relation": "amount to",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Fourteen-1"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is presented based",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "providing",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-insights-24"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-described-18"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-insights-24",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-spatial-27"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-well-12"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10",
+      "relation": "at",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-studies-21"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-core-14-data-17"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-presented-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-insights-24",
+      "relation": "of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-distribution-28"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-previous-20"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "so may understand deposits in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-36"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-light-10",
+      "relation": "detailed analysis of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "may better understand",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3",
+      "relation": "sheds light on",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-processes-13"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-detailed-2"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-processes-13",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-10"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "may understand",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33",
+      "relation": "is",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analogous-32"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "may better understand deposits in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3",
+      "relation": "sheds",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-light-10"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "so may better understand deposits in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "may understand deposits in",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-light-10",
+      "relation": "analysis of",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-5"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "so may understand",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33"
+    },
+    {
+      "subject_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28",
+      "relation": "so may better understand",
+      "object_id": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33"
+    }
+  ],
+  "links": {
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coquinas-1": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-4": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-lacustrine-6": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-source-20": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-information-22": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-widespread-3": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-where-15": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-valuable-19": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-conditions-25": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-2-successions-3": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposited-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Thick-1": [],
+    "NE-ORGANIZATION-Continental-Margin": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-coquina-9-sequence-10": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analog-32": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-important-36-hydrocarbon-37-reservoirs-38": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-crops-20": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Atol-24-Quarry-25": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-equivalent-12": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-strata-42": [],
+    "NE-MISC-Pre-salt": [],
+    "NE-ORGANIZATION-Chaves-Formation": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-economically-35": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Sergipe-3-Alagoas-5-Basin-6": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-relevant-31": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-37-reservoirs-38": [],
+    "NE-TITLE-model": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-study-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-aim-2": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-10": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-15": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analyses-2": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Coqueiro-24-Seco-25-Formation-26": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-above-27": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Penedo-30-Formation-31": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-transition-16": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-adjacent-19": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-below-32": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-characterization-6": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-units-21": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-stratigraphic-20": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-5": [],
+    "NE-LOCATION-Morro": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-growing-37-knowledge-38": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-hydrocarbon-48-producing-50-reservoirs-51": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rift-42-basins-43": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Facies-1-analysis-2": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-features-11": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-rocks-14": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-sedimentological-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-depositional-2-facies-3": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-recognized-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-Fourteen-1": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-correlation-10": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-insights-24": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-described-18": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-spatial-27": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-well-12": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-studies-21": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-core-14-data-17": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-presented-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-distribution-28": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-previous-20": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-we-28": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-record-37": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-geological-36": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-light-10": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-facies-5": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-deposits-33": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-processes-13": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-detailed-2": [],
+    "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analogous-32": []
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33745713604.txt",
+  "entities": {
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-mineral-18-scale-19-formation-20": "mineral scale formation",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-22-production-23-wells-24": "subsea production wells",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-production-14-losses-15": "production losses",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-bpd-46": "bpd",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-761,971-51-bpd-52": "761,971 bpd",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-injecting-50": "injecting",
+    "NE-LOCATION-Marlim-Field": "Marlim Field",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-water-31-depths-32": "water depths",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-located-29": "located",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-sea-54-water-55": "sea water",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-217,150-5-bpd-6": "217,150 bpd",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-82-17-STDm3-18": "82 STDm3",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-STDm3-20": "STDm3",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-GOR-15": "GOR",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-water-2-production-3": "water production",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-wells-5": "wells",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-operation-8": "operation",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-73-11-producers-12": "73 producers",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-117-4": "117",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-field-2": "field",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-developed-4": "developed",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-6-completion-7": "subsea completion",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-hole-20": "hole",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-cased-19": "cased",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-Scale-1-formation-2": "Scale formation",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-consequence-7": "consequence",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-barium-13": "barium",
+    "NE-DATE-present": "present",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-injected-28-seawater-29": "injected seawater",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-formation-18-water-19": "formation water",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-incompatibility-10": "incompatibility",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17": "investigation",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-well-24": "well",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4": "results",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-horizontal-23": "horizontal",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-paper-2": "paper",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-dissolver-6-treatments-7": "dissolver treatments",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-special-16": "special",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-field-11": "field",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-rig-20": "rig",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-Valuable-1-information-2": "Valuable information",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-obtained-4": "obtained",
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-intervention-7": "intervention"
+  },
+  "graph": [
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-mineral-18-scale-19-formation-20",
+      "relation": "is in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-22-production-23-wells-24"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "successfully managing",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-production-14-losses-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "managing",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-production-14-losses-15"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-bpd-46",
+      "relation": "is supported by",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-761,971-51-bpd-52"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-761,971-51-bpd-52",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-injecting-50"
+    },
+    {
+      "subject_id": "NE-LOCATION-Marlim-Field",
+      "relation": "is located in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-water-31-depths-32"
+    },
+    {
+      "subject_id": "NE-LOCATION-Marlim-Field",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-located-29"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-761,971-51-bpd-52",
+      "relation": "of",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-sea-54-water-55"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-217,150-5-bpd-6",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-82-17-STDm3-18"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-82-17-STDm3-18",
+      "relation": "of",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-STDm3-20"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-GOR-15",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-82-17-STDm3-18"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-water-2-production-3",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-217,150-5-bpd-6"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-wells-5",
+      "relation": "are on",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-operation-8"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-operation-8",
+      "relation": "is with",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-73-11-producers-12"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-wells-5",
+      "relation": "amount to",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-117-4"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-operation-8",
+      "relation": "at",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-73-11-producers-12"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-field-2",
+      "relation": "was",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-developed-4"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-6-completion-7",
+      "relation": "equipped with",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-hole-20"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-hole-20",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-cased-19"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-Scale-1-formation-2",
+      "relation": "has occurred as",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-consequence-7"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-consequence-7",
+      "relation": "of",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-barium-13"
+    },
+    {
+      "subject_id": "NE-DATE-present",
+      "relation": "is in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-injected-28-seawater-29"
+    },
+    {
+      "subject_id": "NE-DATE-present",
+      "relation": "is in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-formation-18-water-19"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-consequence-7",
+      "relation": "of",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-incompatibility-10"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17",
+      "relation": "using rig in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-well-24"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17",
+      "relation": "at",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-well-24",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-horizontal-23"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-paper-2",
+      "relation": "presents",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4",
+      "relation": "of",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-dissolver-6-treatments-7"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17",
+      "relation": "is",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-special-16"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4",
+      "relation": "performed in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-field-11"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4",
+      "relation": "at",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-field-11"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17",
+      "relation": "using",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-rig-20"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-Valuable-1-information-2",
+      "relation": "was",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-obtained-4"
+    },
+    {
+      "subject_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-Valuable-1-information-2",
+      "relation": "was obtained in",
+      "object_id": "ce8af812-48d1-4148-a2b4-62388fc22f37-intervention-7"
+    }
+  ],
+  "links": {
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-mineral-18-scale-19-formation-20": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-22-production-23-wells-24": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-production-14-losses-15": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-bpd-46": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-761,971-51-bpd-52": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-injecting-50": [],
+    "NE-LOCATION-Marlim-Field": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-water-31-depths-32": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-located-29": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-sea-54-water-55": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-217,150-5-bpd-6": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-82-17-STDm3-18": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-STDm3-20": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-GOR-15": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-water-2-production-3": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-wells-5": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-operation-8": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-73-11-producers-12": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-117-4": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-field-2": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-developed-4": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-6-completion-7": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-hole-20": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-cased-19": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-Scale-1-formation-2": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-consequence-7": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-barium-13": [],
+    "NE-DATE-present": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-injected-28-seawater-29": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-formation-18-water-19": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-incompatibility-10": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-investigation-17": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-well-24": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-horizontal-23": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-paper-2": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-dissolver-6-treatments-7": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-special-16": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-field-11": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-rig-20": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-Valuable-1-information-2": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-obtained-4": [],
+    "ce8af812-48d1-4148-a2b4-62388fc22f37-intervention-7": []
+  }
+}

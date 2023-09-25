@@ -1,0 +1,331 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33646056405.txt",
+  "entities": {
+    "84216c5e-4b64-4443-b98d-66b70adb98df-pipeline-8": "pipeline",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-oil-14-company-15": "oil company",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-broken-7": "broken",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20": "tonne",
+    "NE-DATE-1300": "1300",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-some-18": "some",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-bunker-22-fuel-23": "bunker fuel",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-wildlife-2-response-3": "wildlife response",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-2-7-strategies-9": "2 strategies",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-operational-8": "operational",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-paper-2-deals-3": "paper deals",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-6-response-7-only-8": "cetacean response only",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2": "Contingency planning",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18": "countries",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetaceans-4": "cetaceans",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-oil-6-spills-7": "oil spills",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15": "preparedness",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-element-13": "element",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-important-12": "important",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-response-3": "response",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10": "pod",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-species-17": "species",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-about-12-70-13-members-14": "about 70 members",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-2": "cetacean",
+    "NE-CITY-Bay": "Bay",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-small-22-dolphin-23": "small dolphin",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-response-2": "response",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-development-5": "development",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-plan-8": "plan",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-Action-1-plans-2": "Action plans",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5": "specific",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-character-8": "character",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-rescue-15-strategies-18": "rescue strategies",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-necessary-19": "necessary",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-developed-4": "developed",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-training-2-program-3": "training program",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-developed-7": "developed",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-then-6": "then",
+    "84216c5e-4b64-4443-b98d-66b70adb98df-personnel-11": "personnel"
+  },
+  "graph": [
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pipeline-8",
+      "relation": "owned by",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-oil-14-company-15"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pipeline-8",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-broken-7"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pipeline-8",
+      "relation": "spilt",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1300"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20",
+      "relation": "at",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-some-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20",
+      "relation": "of",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-bunker-22-fuel-23"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "spilt",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-wildlife-2-response-3",
+      "relation": "was divided amongst",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-2-7-strategies-9"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-2-7-strategies-9",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-operational-8"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-paper-2-deals-3",
+      "relation": "is with",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-6-response-7-only-8"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "important element for",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-cetaceans-4",
+      "relation": "is in",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-oil-6-spills-7"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15",
+      "relation": "of",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is now becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-element-13"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-element-13",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-important-12"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "important element for",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "element for",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "element for",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is now becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is now becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-element-13"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-element-13"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2",
+      "relation": "is becoming",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-element-13"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-response-3",
+      "relation": "specifically targeted",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10",
+      "relation": "of",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-species-17"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-response-3",
+      "relation": "targeted",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10",
+      "relation": "of",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-about-12-70-13-members-14"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-response-3",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-2"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10",
+      "relation": "response in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-response-3",
+      "relation": "is in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-species-17",
+      "relation": "of members is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-small-22-dolphin-23"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10",
+      "relation": "cetacean response in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-response-2",
+      "relation": "included",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-development-5"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-development-5",
+      "relation": "of",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-plan-8"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Action-1-plans-2",
+      "relation": "were developed",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5",
+      "relation": "at",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-character-8"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Action-1-plans-2",
+      "relation": "included",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-rescue-15-strategies-18"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-rescue-15-strategies-18",
+      "relation": "is",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-necessary-19"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-Action-1-plans-2",
+      "relation": "were",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-developed-4"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-training-2-program-3",
+      "relation": "was",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-developed-7"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-developed-7",
+      "relation": "at",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-then-6"
+    },
+    {
+      "subject_id": "84216c5e-4b64-4443-b98d-66b70adb98df-training-2-program-3",
+      "relation": "implemented to",
+      "object_id": "84216c5e-4b64-4443-b98d-66b70adb98df-personnel-11"
+    }
+  ],
+  "links": {
+    "84216c5e-4b64-4443-b98d-66b70adb98df-pipeline-8": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-oil-14-company-15": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-broken-7": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-tonne-20": [],
+    "NE-DATE-1300": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-some-18": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-bunker-22-fuel-23": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-wildlife-2-response-3": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-2-7-strategies-9": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-operational-8": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-paper-2-deals-3": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-6-response-7-only-8": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-Contingency-1-planning-2": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-countries-18": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetaceans-4": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-oil-6-spills-7": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-preparedness-15": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-element-13": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-important-12": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-response-3": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-pod-10": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-species-17": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-about-12-70-13-members-14": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-cetacean-2": [],
+    "NE-CITY-Bay": [],
+    "NE-LOCATION-Guanabara": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-small-22-dolphin-23": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-response-2": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-development-5": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-plan-8": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-Action-1-plans-2": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-specific-5": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-character-8": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-rescue-15-strategies-18": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-necessary-19": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-developed-4": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-training-2-program-3": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-developed-7": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-then-6": [],
+    "84216c5e-4b64-4443-b98d-66b70adb98df-personnel-11": []
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85087348432.txt",
+  "entities": {
+    "f92cbb81-a4ae-452e-b724-484673367f5e-absence-2": "absence",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12": "proposition",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-order-16-framework-18": "order framework",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-stratigraphic-17": "stratigraphic",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-higher-15": "higher",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-work-2": "work",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-28-order-31-sequences-33": "three order sequences",
+    "NE-LOCATION-Campanian": "Campanian",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-drift-19-phase-20": "drift phase",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-Maastrichtian-15-succession-16": "Maastrichtian succession",
+    "NE-LOCATION-Espírito-Santo": "Espírito Santo",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-order-8-sequences-10": "order sequences",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-third-29": "third",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-second-6": "second",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-9": "depositional",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-analyzed-8": "analyzed",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36": "erosional surfaces filling from smaller set",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14": "three levels",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36": "identification set",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-resolution-2": "resolution",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14-of-15-erosional-16-surfaces-17": "three levels of erosional surfaces",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-subsequent-20": "subsequent",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-Channel-1-complexes-2-development-3": "Channel complexes development",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-lowstand-7-deposits-8": "lowstand deposits",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-continental-11": "continental",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-slope-12": "slope",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-related-5": "related",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-It-1": "It",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-control-6": "control",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-seafloor-9-topography-10": "seafloor topography",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-halokinetics-13": "halokinetics",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-ascribed-3": "ascribed",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-identification-2": "identification",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15": "proposition",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25": "possible deposits",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-sandy-24": "sandy",
+    "NE-TITLE-model": "model",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-continental-28": "continental",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-regarding-30-intensity-32": "regarding intensity",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-exportable-18": "exportable",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-slope-29": "slope",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-19": "depositional",
+    "f92cbb81-a4ae-452e-b724-484673367f5e-salt-34-tectonics-35": "salt tectonics"
+  },
+  "graph": [
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-absence-2",
+      "relation": "precludes",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-order-16-framework-18"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-stratigraphic-17"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-higher-15"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-work-2",
+      "relation": "breaks down order sequences in",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-three-28-order-31-sequences-33"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-work-2",
+      "relation": "breaks down order sequences from",
+      "object_id": "NE-LOCATION-Campanian"
+    },
+    {
+      "subject_id": "NE-LOCATION-Campanian",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-drift-19-phase-20"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-Maastrichtian-15-succession-16",
+      "relation": "is in",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-drift-19-phase-20"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-drift-19-phase-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Espírito-Santo"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-work-2",
+      "relation": "breaks down",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-order-8-sequences-10"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-three-28-order-31-sequences-33",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-third-29"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-order-8-sequences-10",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-second-6"
+    },
+    {
+      "subject_id": "NE-LOCATION-Campanian",
+      "relation": "at",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-Maastrichtian-15-succession-16"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-order-8-sequences-10",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-9"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-analyzed-8",
+      "relation": "allowed",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36",
+      "relation": "at",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-resolution-2",
+      "relation": "allowed",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-analyzed-8",
+      "relation": "allowed",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14-of-15-erosional-16-surfaces-17"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-subsequent-20"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-resolution-2",
+      "relation": "allowed",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-Channel-1-complexes-2-development-3",
+      "relation": "is related to",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-lowstand-7-deposits-8"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-lowstand-7-deposits-8",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-continental-11"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-lowstand-7-deposits-8",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-slope-12"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-Channel-1-complexes-2-development-3",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-related-5"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-It-1",
+      "relation": "is ascribed to",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-control-6"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-control-6",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-seafloor-9-topography-10"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-control-6",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-halokinetics-13"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-It-1",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-ascribed-3"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-identification-2",
+      "relation": "allowed",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15",
+      "relation": "predict",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-sandy-24"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-continental-28"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-regarding-30-intensity-32"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-exportable-18"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-slope-29"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15",
+      "relation": "is",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-19"
+    },
+    {
+      "subject_id": "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25",
+      "relation": "of",
+      "object_id": "f92cbb81-a4ae-452e-b724-484673367f5e-salt-34-tectonics-35"
+    }
+  ],
+  "links": {
+    "f92cbb81-a4ae-452e-b724-484673367f5e-absence-2": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-order-16-framework-18": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-stratigraphic-17": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-higher-15": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-work-2": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-28-order-31-sequences-33": [],
+    "NE-LOCATION-Campanian": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-drift-19-phase-20": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-Maastrichtian-15-succession-16": [],
+    "NE-LOCATION-Espírito-Santo": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-order-8-sequences-10": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-third-29": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-second-6": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-9": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-analyzed-8": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-erosional-16-surfaces-17-filling-21-from-23-smaller-24-set-36": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-identification-11-set-36": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-resolution-2": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-three-13-levels-14-of-15-erosional-16-surfaces-17": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-subsequent-20": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-Channel-1-complexes-2-development-3": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-lowstand-7-deposits-8": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-continental-11": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-continental-28"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-slope-12": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-slope-29"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-related-5": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-It-1": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-control-6": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-seafloor-9-topography-10": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-halokinetics-13": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-ascribed-3": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-identification-2": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-15": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-proposition-12"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-possible-23-deposits-25": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-sandy-24": [],
+    "NE-TITLE-model": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-continental-28": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-continental-11"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-regarding-30-intensity-32": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-exportable-18": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-slope-29": [
+      "f92cbb81-a4ae-452e-b724-484673367f5e-slope-12"
+    ],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-depositional-19": [],
+    "f92cbb81-a4ae-452e-b724-484673367f5e-salt-34-tectonics-35": []
+  }
+}

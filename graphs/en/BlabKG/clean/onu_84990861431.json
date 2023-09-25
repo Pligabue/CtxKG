@@ -1,0 +1,283 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84990861431.txt",
+  "entities": {
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-lower-11-estuary-12": "lower estuary",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-study-2": "study",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-conducted-4": "conducted",
+    "NE-TITLE-river": "river",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Itajaí-7-Açu-9": "Itajaí Açu",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5": "samples",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12": "two",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Two-1-hundred-2-twenty-3-eight-4": "Two hundred twenty eight",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-which-14": "which",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-affected-15": "affected",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-four-9-stations-10": "four stations",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-17": "dredging",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-performed-7": "performed",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Sediment-1-´s-17-variables-18": "Sediment ´s variables",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-assessed-34": "assessed",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-We-1": "We",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-variables-8": "variables",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-environmental-7": "environmental",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-data-14": "data",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-biotic-13": "biotic",
+    "NE-ORGANIZATION-Principal-Component-Analysis": "Principal Component Analysis",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Correlations-1": "Correlations",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Analysis-11": "Analysis",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Canonical-10": "Canonical",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Principal-13-Coordinates-14": "Principal Coordinates",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-variations-2": "variations",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Permutational-9-Multivariate-10-Analysis-11": "Permutational Multivariate Analysis",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Spatiotemporal-1": "Spatiotemporal",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Variance-13": "Variance",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-assembly-5": "assembly",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-%-8": "%",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-gastropod-13-Heleobia-14-australis-15": "gastropod Heleobia australis",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-97-7": "97",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-12": "dredging",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14": "influence deleterious",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21": "organisms",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-deleterious-14-to-15-assembly-17": "deleterious to assembly",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-discharge-7": "discharge",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-favoring-19": "favoring",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-opportunistic-20": "opportunistic",
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-ecosystem-10": "ecosystem"
+  },
+  "graph": [
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-lower-11-estuary-12",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-study-2",
+      "relation": "was",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-conducted-4"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-study-2",
+      "relation": "was conducted in",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "NE-TITLE-river",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Itajaí-7-Açu-9"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5",
+      "relation": "were performed in",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Two-1-hundred-2-twenty-3-eight-4"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-which-14"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-affected-15"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-four-9-stations-10",
+      "relation": "two of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-which-14"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12",
+      "relation": "at",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-17"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5",
+      "relation": "were",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-performed-7"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5",
+      "relation": "were performed in",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-four-9-stations-10"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Sediment-1-´s-17-variables-18",
+      "relation": "were",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-assessed-34"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-We-1",
+      "relation": "applied Principal Component Analysis for",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-variables-8"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-variables-8",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-environmental-7"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-We-1",
+      "relation": "applied Principal Component Analysis for",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-data-14"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-data-14",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-biotic-13"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-We-1",
+      "relation": "applied",
+      "object_id": "NE-ORGANIZATION-Principal-Component-Analysis"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Correlations-1",
+      "relation": "were tested by",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Analysis-11"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Analysis-11",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Canonical-10"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Analysis-11",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Principal-13-Coordinates-14"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-variations-2",
+      "relation": "were tested by",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Permutational-9-Multivariate-10-Analysis-11"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-variations-2",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Spatiotemporal-1"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Permutational-9-Multivariate-10-Analysis-11",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-Variance-13"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-variations-2",
+      "relation": "is in",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-assembly-5"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-%-8",
+      "relation": "was represented by",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-gastropod-13-Heleobia-14-australis-15"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-%-8",
+      "relation": "amount to",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-97-7"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-12",
+      "relation": "was",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-12",
+      "relation": "was deleterious",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-12",
+      "relation": "was",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-deleterious-14-to-15-assembly-17"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-deleterious-14-to-15-assembly-17",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14",
+      "relation": "at",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-deleterious-14-to-15-assembly-17"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14",
+      "relation": "of",
+      "object_id": "NE-TITLE-river"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-discharge-7"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-favoring-19"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21",
+      "relation": "is",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-opportunistic-20"
+    },
+    {
+      "subject_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14",
+      "relation": "of",
+      "object_id": "668f68ee-8de7-45d9-9784-b0893545fc9d-ecosystem-10"
+    }
+  ],
+  "links": {
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-lower-11-estuary-12": [],
+    "NE-COUNTRY-Brazil": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-study-2": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-conducted-4": [],
+    "NE-TITLE-river": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Itajaí-7-Açu-9": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-samples-5": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-two-12": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Two-1-hundred-2-twenty-3-eight-4": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-which-14": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-affected-15": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-four-9-stations-10": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-17": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-performed-7": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Sediment-1-´s-17-variables-18": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-assessed-34": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-We-1": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-variables-8": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-environmental-7": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-data-14": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-biotic-13": [],
+    "NE-ORGANIZATION-Principal-Component-Analysis": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Correlations-1": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Analysis-11": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Canonical-10": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Principal-13-Coordinates-14": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-variations-2": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Permutational-9-Multivariate-10-Analysis-11": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Spatiotemporal-1": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-Variance-13": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-assembly-5": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-%-8": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-gastropod-13-Heleobia-14-australis-15": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-97-7": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-dredging-12": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-influence-3-deleterious-14": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-organisms-21": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-deleterious-14-to-15-assembly-17": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-discharge-7": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-favoring-19": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-opportunistic-20": [],
+    "668f68ee-8de7-45d9-9784-b0893545fc9d-ecosystem-10": []
+  }
+}

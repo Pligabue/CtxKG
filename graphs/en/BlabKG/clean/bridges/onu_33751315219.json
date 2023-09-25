@@ -1,0 +1,2466 @@
+{
+  "onu_10228776.json": {
+    "NE-DATE-present": "NE-DATE-present",
+    "NE-LOCATION-Basin": "8ccf6711-4359-43f1-af56-bff91be221df-basin-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "8ccf6711-4359-43f1-af56-bff91be221df-structural-18"
+  },
+  "onu_11244281653.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "573197e7-feeb-4bf7-8fc7-347e79223db7-deepest-18-offshore-19-production-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-attention-2": "573197e7-feeb-4bf7-8fc7-347e79223db7-attention-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "573197e7-feeb-4bf7-8fc7-347e79223db7-Special-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "573197e7-feeb-4bf7-8fc7-347e79223db7-also-11"
+  },
+  "onu_14467639.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-have-49-drilled-51",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_14928592.json": {},
+  "onu_1642522078.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-Thermal-1"
+  },
+  "onu_16964104.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17044389842.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17144436283.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17344364742.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-CITY-Campos": "NE-PERSON-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "9904aa2e-63e4-415c-ba81-2791b35da710-oil-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "9904aa2e-63e4-415c-ba81-2791b35da710-areas-7"
+  },
+  "onu_1842589247.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "86ce1fc3-c8bf-4c6a-a95c-3d6327b9cd9e-gas-2-output-3"
+  },
+  "onu_18944382016.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "fb88d818-da09-4532-84e1-3afecd911792-reservoir-26"
+  },
+  "onu_19586421.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_20736039.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_21575939.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_2342418572.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_2342623297.json": {
+    "NE-ORGANIZATION-PETROBRAS": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-Petróbras-1",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {
+    "NE-LOCATION-Basin": "738463bf-612b-462d-abc4-dde0497711de-basin-38",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "738463bf-612b-462d-abc4-dde0497711de-oil-17"
+  },
+  "onu_24044508291.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31": "172d53b1-9917-4393-8895-7e062ea5429d-temperature-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "172d53b1-9917-4393-8895-7e062ea5429d-high-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "172d53b1-9917-4393-8895-7e062ea5429d-agreements-10",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "172d53b1-9917-4393-8895-7e062ea5429d-oil-14",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_24050293.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-heavy-10"
+  },
+  "onu_242694501.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "99dd1d4b-cba2-437d-bebf-f7012dc3111a-also-15"
+  },
+  "onu_24662461.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-CITY-Sao-Paulo",
+    "NE-LOCATION-Basin": "a33dbe39-f837-43e6-a660-479c5769090b-basin-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "a33dbe39-f837-43e6-a660-479c5769090b-various-5"
+  },
+  "onu_24769642.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "42f39395-5b68-4c17-9005-43fdaf9b688d-oil-11-operations-12",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "42f39395-5b68-4c17-9005-43fdaf9b688d-basin-3",
+    "NE-CITY-Campos": "42f39395-5b68-4c17-9005-43fdaf9b688d-Campos-2"
+  },
+  "onu_24867907.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "8164277f-ad39-46b3-a9d9-da61416c08af-special-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "8164277f-ad39-46b3-a9d9-da61416c08af-aspects-11"
+  },
+  "onu_25054779.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b6760bbe-1162-413a-a31a-0d8e00367ea3-also-12"
+  },
+  "onu_25144481375.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-shallow-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-conditions-16",
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-LOCATION-São-Paulo"
+  },
+  "onu_25444510078.json": {
+    "NE-ORGANIZATION-PETROBRAS": "adad3cf5-16ae-4cec-b91d-60c5da9121ac-Petrobras-18-project-19"
+  },
+  "onu_26244445255.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_26850121.json": {
+    "NE-DATE-current": "NE-DATE-Current"
+  },
+  "onu_27744595461.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "aaaef65d-ece5-45c4-84f7-99c65719921a-conditions-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "aaaef65d-ece5-45c4-84f7-99c65719921a-evaluated-15",
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-ORGANIZATION-University-of-Sao-Paulo",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "aaaef65d-ece5-45c4-84f7-99c65719921a-also-14",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_30311937.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "007fd580-5ecb-4536-a243-38b5370a241f-successfully-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "007fd580-5ecb-4536-a243-38b5370a241f-Subsequently-1",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_30706349.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-smaller-20",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_31206995.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_31375269.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-have-5-proposed-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-Additionally-1"
+  },
+  "onu_32444448833.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5988fd69-592d-47e1-9aa6-df9d282706cb-output-21"
+  },
+  "onu_33293728.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-used-25"
+  },
+  "onu_33295123.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-oil-3-fields-4",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-different-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-environment-23",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-harsh-22",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "NE-DATE-current": "NE-DATE-current"
+  },
+  "onu_33295407.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-different-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-turret-5"
+  },
+  "onu_33644613229.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33645422493.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "f8ba7747-a203-4391-9a8f-d06b3caf167c-environments-19"
+  },
+  "onu_33646023976.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-LOCATION-São-Paulo",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-also-4"
+  },
+  "onu_33646035823.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-low-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-43",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-final-37",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33646043488.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "39c4c261-18a8-4b03-aca4-45d607c671ce-oil-40"
+  },
+  "onu_33646056106.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-results-5"
+  },
+  "onu_33646056405.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33646073069.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33646452775.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-LOCATION-Basin": "3e889ffb-ffea-4a6d-ada5-81e76867be02-basin-40",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "3e889ffb-ffea-4a6d-ada5-81e76867be02-also-6"
+  },
+  "onu_33745228406.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-8"
+  },
+  "onu_33745354316.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "f284c30b-4d86-45b4-b48d-6a65d84ee416-different-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f284c30b-4d86-45b4-b48d-6a65d84ee416-regardless-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "f284c30b-4d86-45b4-b48d-6a65d84ee416-areas-19"
+  },
+  "onu_33745713604.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "ce8af812-48d1-4148-a2b4-62388fc22f37-water-2-production-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "ce8af812-48d1-4148-a2b4-62388fc22f37-results-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "ce8af812-48d1-4148-a2b4-62388fc22f37-dissolver-6-treatments-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "ce8af812-48d1-4148-a2b4-62388fc22f37-special-16",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_33746039693.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "6a2b057a-9342-42a7-9a7b-03480bcc5bd7-work-2",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33748460104.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "920d8eef-1ebb-4cab-8288-cea4cd878488-oil-6-production-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33749265496.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-LOCATION-Basin": "0f252e1f-8e80-468b-9631-d74e26200948-basin-28"
+  },
+  "onu_33751312200.json": {
+    "NE-DATE-Recently": "0c8feb86-ed53-4518-8929-20e43783eecc-normally-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "0c8feb86-ed53-4518-8929-20e43783eecc-effects-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-concept-23": "0c8feb86-ed53-4518-8929-20e43783eecc-concept-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-monocolumn-11": "0c8feb86-ed53-4518-8929-20e43783eecc-monocolumn-10-type-11-platforms-12",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_34250708084.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "e644eed9-934d-4395-bd32-6726e3dee36b-installation-3"
+  },
+  "onu_344309110.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "8fb8097e-c81f-447a-a4d8-43a43dba6438-including-16-Vortex-17-Induced-18-Vibrations-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-induced-17-vibration-18": "8fb8097e-c81f-447a-a4d8-43a43dba6438-including-16-Vortex-17-Induced-18-Vibrations-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "8fb8097e-c81f-447a-a4d8-43a43dba6438-sensors-19",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-VIM-16-behavior-17": "8fb8097e-c81f-447a-a4d8-43a43dba6438-VIV-2-monitoring-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "8fb8097e-c81f-447a-a4d8-43a43dba6438-different-15"
+  },
+  "onu_344741441.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "1de3c47d-c84d-4a38-b042-489e5b30b72e-have-3-developed-7",
+    "NE-DATE-Recently": "NE-DATE-recently",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "1de3c47d-c84d-4a38-b042-489e5b30b72e-similar-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "1de3c47d-c84d-4a38-b042-489e5b30b72e-different-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "1de3c47d-c84d-4a38-b042-489e5b30b72e-also-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "1de3c47d-c84d-4a38-b042-489e5b30b72e-also-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "1de3c47d-c84d-4a38-b042-489e5b30b72e-preliminary-34"
+  },
+  "onu_345171568.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-30-platforms-31": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+    "NE-DATE-Recently": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-lack-11",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19"
+  },
+  "onu_34531605.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-equally-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-installation-31"
+  },
+  "onu_34547893063.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "be5ea7f2-eaf1-4194-82d5-01264cdce152-continuously-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2"
+  },
+  "onu_345603133.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "83f8226e-eaff-474f-8c4b-070d79533224-conditions-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "83f8226e-eaff-474f-8c4b-070d79533224-environmental-14"
+  },
+  "onu_345603650.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_34686357.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_34984147.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_35573581.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "919869c7-27ec-44eb-bc21-ebd2300438cf-areas-12"
+  },
+  "onu_36768397.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_37304895.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "6bacd7ac-6903-41a6-a534-aa3361728c0d-fluids-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "6bacd7ac-6903-41a6-a534-aa3361728c0d-small-24-seismic-25-impedance-26-values-27",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "6bacd7ac-6903-41a6-a534-aa3361728c0d-seismic-2"
+  },
+  "onu_40349089123.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "50180d4d-99ad-4416-b364-8467ab844fae-oil-28-production-29",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "50180d4d-99ad-4416-b364-8467ab844fae-Environmental-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "50180d4d-99ad-4416-b364-8467ab844fae-special-4"
+  },
+  "onu_4043182709.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "6c2893f1-9107-4672-832c-d8ec06508db6-oil-4-production-5-capacity-6",
+    "NE-LOCATION-Basin": "6c2893f1-9107-4672-832c-d8ec06508db6-basin-6",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_41849140524.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "d5ee487c-3b46-46fc-a521-837aed5b9969-increase-69",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "d5ee487c-3b46-46fc-a521-837aed5b9969-oceanic-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "d5ee487c-3b46-46fc-a521-837aed5b9969-also-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "d5ee487c-3b46-46fc-a521-837aed5b9969-also-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "d5ee487c-3b46-46fc-a521-837aed5b9969-set-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "d5ee487c-3b46-46fc-a521-837aed5b9969-data-9"
+  },
+  "onu_47849110025.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "e25e3ae6-98b4-4157-aebf-c9eed09a289f-have-5-produced-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_50249174640.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "8fde804f-0525-4f0e-8503-d2317096c0a8-high-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "8fde804f-0525-4f0e-8503-d2317096c0a8-oil-3-industry-4",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "8fde804f-0525-4f0e-8503-d2317096c0a8-large-7"
+  },
+  "onu_50249181836.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-15",
+    "NE-CITY-Campos": "NE-NATIONALITY-Brazilian",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-geometry-20": "cfd50fe9-a146-48f2-a71e-97b5100717b7-geometry-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "cfd50fe9-a146-48f2-a71e-97b5100717b7-various-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "cfd50fe9-a146-48f2-a71e-97b5100717b7-larger-14"
+  },
+  "onu_51649098845.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-ORGANIZATION-University-of-São-Paulo"
+  },
+  "onu_52049093008.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_52249116622.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_52349109473.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_52849106027.json": {},
+  "onu_57649139087.json": {
+    "NE-DATE-current": "NE-DATE-current"
+  },
+  "onu_58849128774.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-substantially-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-three-30-dimensional-32": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-three-7-dimensional-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-work-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-results-21",
+    "NE-DATE-present": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-previous-2"
+  },
+  "onu_59649088185.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_68649086917.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11",
+    "NE-LOCATION-Basin": "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_68649124056.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-attention-2": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-attention-11",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_68649126570.json": {
+    "NE-CITY-Campos": "NE-PERSON-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6"
+  },
+  "onu_70449127482.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-different-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-Also-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-specifically-11"
+  },
+  "onu_70449650835.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-oil-19-industry-20",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-economical-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-increasing-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-work-6"
+  },
+  "onu_72449143175.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_73349086227.json": {
+    "NE-LOCATION-Basin": "00339ccb-f0dd-47c7-aecb-ae379e27d109-basin-30",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "00339ccb-f0dd-47c7-aecb-ae379e27d109-large-21"
+  },
+  "onu_77449138097.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-PERSON-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "dedf6bbb-a316-443f-a58f-e66e66d4f5b4-also-3"
+  },
+  "onu_77955388680.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-aspects-5": "6853be13-f2b8-4273-b0f4-b628a386d69b-challenges-6",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1"
+  },
+  "onu_77955408815.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_77956543361.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77956858304.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "18d1470d-7707-4546-87ab-5615cd0aeaf8-primarily-25"
+  },
+  "onu_77958012173.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "82dfb525-fe3c-44b8-a079-56355943e3c5-has-12-performed-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "82dfb525-fe3c-44b8-a079-56355943e3c5-properly-34",
+    "NE-DATE-Recently": "NE-DATE-recently",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "82dfb525-fe3c-44b8-a079-56355943e3c5-different-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "82dfb525-fe3c-44b8-a079-56355943e3c5-also-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "82dfb525-fe3c-44b8-a079-56355943e3c5-therefore-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "82dfb525-fe3c-44b8-a079-56355943e3c5-set-16"
+  },
+  "onu_78049320828.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "b0408dc9-8c82-423c-98ff-ebbb41b36282-term-34-oil-35-production-36-growth-37",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_78649387727.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_78650855754.json": {},
+  "onu_79952546010.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_79952620223.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "c65b6b38-5933-4677-bdf7-2b10f3833625-related-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "c65b6b38-5933-4677-bdf7-2b10f3833625-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "c65b6b38-5933-4677-bdf7-2b10f3833625-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "c65b6b38-5933-4677-bdf7-2b10f3833625-work-2"
+  },
+  "onu_79953006622.json": {
+    "NE-LOCATION-Basin": "6e0ae093-c13e-410d-9aa0-41775ea6f017-region-10",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_79955374293.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-oil-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_79955828033.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "070900c0-3683-4838-8adf-7fc9280ff95b-oil-8-development-9",
+    "NE-LOCATION-Basin": "070900c0-3683-4838-8adf-7fc9280ff95b-Campos-14-basin-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "070900c0-3683-4838-8adf-7fc9280ff95b-various-36"
+  },
+  "onu_79959789184.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80052069671.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "2b16f13d-578f-4b57-afa3-30cdf33f197f-area-40"
+  },
+  "onu_80052571318.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "6c5a99a3-587c-4891-b93a-3283c2d031e2-oil-7-production-8",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "6c5a99a3-587c-4891-b93a-3283c2d031e2-Also-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "6c5a99a3-587c-4891-b93a-3283c2d031e2-Also-1"
+  },
+  "onu_80052582062.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-attention-2": "7a7f6f9c-3356-4943-af08-ffb5a792d414-attention-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "7a7f6f9c-3356-4943-af08-ffb5a792d414-results-10"
+  },
+  "onu_80052741860.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80053430040.json": {},
+  "onu_80053904380.json": {
+    "NE-LOCATION-Basin": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-basin-25",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-also-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-also-21"
+  },
+  "onu_80053909062.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80053931244.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80053961084.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-used-3"
+  },
+  "onu_80054757255.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "24416a9e-e5f5-4726-9db1-4193f01f1575-campaigns-9",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_81855167522.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "67a11e3d-316d-4504-abb6-d3f419bb7620-high-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "67a11e3d-316d-4504-abb6-d3f419bb7620-agreement-2",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_82555187024.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "eb9c758a-7531-4399-b6bc-8350a275ef69-low-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-induced-17-vibration-18": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "eb9c758a-7531-4399-b6bc-8350a275ef69-Different-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "eb9c758a-7531-4399-b6bc-8350a275ef69-preliminary-39"
+  },
+  "onu_83155193342.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-basically-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-basically-5"
+  },
+  "onu_84856625676.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-high-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-thoroughly-5",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-tested-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-thoroughly-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-thoroughly-5",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_84856741449.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "6776ee78-01b1-4f8a-8af9-5284efe9468d-have-22-used-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "6776ee78-01b1-4f8a-8af9-5284efe9468d-flow-32",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "6776ee78-01b1-4f8a-8af9-5284efe9468d-large-3"
+  },
+  "onu_84857305090.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "6f3e4645-24e4-4349-bbd4-2d20eb367316-double-15-oil-16-production-17",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-BR-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "6f3e4645-24e4-4349-bbd4-2d20eb367316-local-34",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "6f3e4645-24e4-4349-bbd4-2d20eb367316-also-3"
+  },
+  "onu_84857324711.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-high-34",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1"
+  },
+  "onu_84857483294.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "b961c7ef-4284-431b-b6b0-8870832647c0-same-10"
+  },
+  "onu_84861595246.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "204509a8-265c-4397-8149-04982bb962db-have-4-exercised-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84864615590.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras-Business-Plan",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-different-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-unique-16"
+  },
+  "onu_84864936265.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "5635ba94-7921-4b3b-8f49-dd87f763feb9-conditions-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5635ba94-7921-4b3b-8f49-dd87f763feb9-humid-14"
+  },
+  "onu_84865218536.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "e955921c-620b-4103-a481-8613fc75bad6-high-9"
+  },
+  "onu_84865723570.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-high-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-have-6-discovered-8",
+    "NE-DATE-Recently": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-fully-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-oil-2-reservoirs-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-conditions-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-Spars-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-successfully-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-successfully-18",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_84869199462.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "86788da6-b594-49e1-ac23-94a6a03306a4-Lower-2"
+  },
+  "onu_84870604908.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "3f1a547b-6d66-41b8-8607-95757af4c8cc-efficiently-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22"
+  },
+  "onu_84877857340.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "77b503bf-c04b-4c2f-81df-35c44d2f8f36-moderate-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similarity-15": "77b503bf-c04b-4c2f-81df-35c44d2f8f36-similarity-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_84878941411.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "358ea47e-b418-4525-b65c-3998ab882728-winds-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "358ea47e-b418-4525-b65c-3998ab882728-deeper-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "358ea47e-b418-4525-b65c-3998ab882728-winds-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "358ea47e-b418-4525-b65c-3998ab882728-study-2"
+  },
+  "onu_84879432080.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d22980f2-d1fa-4f87-94aa-ec684269aac1-high-20",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "d22980f2-d1fa-4f87-94aa-ec684269aac1-different-6",
+    "NE-DATE-present": "d22980f2-d1fa-4f87-94aa-ec684269aac1-recent-24"
+  },
+  "onu_84879955769.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-environment-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-local-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-state-5": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-state-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25"
+  },
+  "onu_84880007809.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d4de0e22-c401-432d-9110-81f5c296679b-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "d4de0e22-c401-432d-9110-81f5c296679b-findings-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "d4de0e22-c401-432d-9110-81f5c296679b-findings-21"
+  },
+  "onu_84883765236.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-Simultaneously-1",
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-Simultaneously-1"
+  },
+  "onu_84883765292.json": {},
+  "onu_84887507211.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-economical-54"
+  },
+  "onu_84888845935.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-floaters-12": "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "08983aea-212e-4ede-98cd-be137c97ff19-different-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "08983aea-212e-4ede-98cd-be137c97ff19-results-5"
+  },
+  "onu_84888934569.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84888954344.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "bede67c1-2219-4ecb-94db-aba0e79b294c-low-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "bede67c1-2219-4ecb-94db-aba0e79b294c-oil-49-production-50",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRÁS-Production-Department",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "bede67c1-2219-4ecb-94db-aba0e79b294c-thermal-13"
+  },
+  "onu_84888967977.json": {},
+  "onu_84889840418.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84891320656.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "1309746e-bd51-453c-8893-8fb38d7af7ab-oil-9-production-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1309746e-bd51-453c-8893-8fb38d7af7ab-environmental-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1309746e-bd51-453c-8893-8fb38d7af7ab-lower-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-ratio-7-roughness-8-beam-10": "1309746e-bd51-453c-8893-8fb38d7af7ab-stiffness-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "1309746e-bd51-453c-8893-8fb38d7af7ab-conditions-20"
+  },
+  "onu_84891344152.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "295c9de1-de4f-46df-baf3-c289fa395145-findings-30"
+  },
+  "onu_84892632570.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-order-12": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-order-2"
+  },
+  "onu_84892860778.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-different-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similarity-15": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-similarity-31-percentage-32",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "e59a2ee4-651e-4626-853a-fff67b8b6ac0-also-4"
+  },
+  "onu_84893052541.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fields-36",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-25-values-26-of-27-GOR-28",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_84893062958.json": {
+    "NE-LOCATION-Basin": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-basins-10",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84893067779.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-environmental-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12"
+  },
+  "onu_84893090004.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "108bb058-270a-4059-b632-02b04115a0a7-high-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "108bb058-270a-4059-b632-02b04115a0a7-oil-9-brings-13"
+  },
+  "onu_84893361208.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "9867dde6-b627-4c95-aa08-5793f95d79f9-partnership-28",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "9867dde6-b627-4c95-aa08-5793f95d79f9-areas-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "9867dde6-b627-4c95-aa08-5793f95d79f9-distinct-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9867dde6-b627-4c95-aa08-5793f95d79f9-seismic-2"
+  },
+  "onu_84893407222.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-respectively-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-respectively-20",
+    "NE-DATE-present": "NE-DATE-current"
+  },
+  "onu_84893805098.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-have-10-made-13",
+    "NE-DATE-Recently": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-commonly-11",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-area-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-different-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-different-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-reproductive-10"
+  },
+  "onu_84894453276.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-high-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-susceptibility-27": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-incompressibility-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-high-5"
+  },
+  "onu_84894470550.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "97494f1d-5471-498f-9894-b0c7321535c4-national-20"
+  },
+  "onu_84896824358.json": {},
+  "onu_84897376128.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "6634b230-b55b-42f5-b6bf-e9764410d504-high-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "6634b230-b55b-42f5-b6bf-e9764410d504-zones-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "6634b230-b55b-42f5-b6bf-e9764410d504-large-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "6634b230-b55b-42f5-b6bf-e9764410d504-results-5"
+  },
+  "onu_84897381844.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11"
+  },
+  "onu_84897392529.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "21b0b660-404f-436a-867e-af9cbe7f0918-newly-3",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "21b0b660-404f-436a-867e-af9cbe7f0918-large-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "21b0b660-404f-436a-867e-af9cbe7f0918-used-4"
+  },
+  "onu_84897399429.json": {
+    "NE-DATE-Recently": "NE-DATE-recently",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-Similar-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4"
+  },
+  "onu_84897408330.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-have-4-evaluated-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-floaters-12": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-floater-2-concepts-3"
+  },
+  "onu_84897441267.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "6386a9ef-0016-45d5-9431-03b779673c2b-also-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "6386a9ef-0016-45d5-9431-03b779673c2b-also-6"
+  },
+  "onu_84897448998.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ebed93b1-9b44-42bf-a267-aebdc3f48887-environmental-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "ebed93b1-9b44-42bf-a267-aebdc3f48887-larger-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "ebed93b1-9b44-42bf-a267-aebdc3f48887-also-4"
+  },
+  "onu_84897449140.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-its-18-occurrence-19": "b829cc46-eb44-4769-8923-e94eb353af76-its-23-interaction-24",
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "b829cc46-eb44-4769-8923-e94eb353af76-properties-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b829cc46-eb44-4769-8923-e94eb353af76-also-11"
+  },
+  "onu_84897461830.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-different-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-special-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2"
+  },
+  "onu_84897465328.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "7e19d608-90b6-4fc3-afea-623202a7f587-pipes-11",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "7e19d608-90b6-4fc3-afea-623202a7f587-results-5"
+  },
+  "onu_84897470967.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "7f6f47ca-cfad-4483-ba7b-011e5564f245-similar-4"
+  },
+  "onu_84900305359.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "97531c44-64fa-4fe3-bfde-d9c5843dc485-larger-27"
+  },
+  "onu_84901784680.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "cd83b05b-1642-49b5-9046-3569fd6386de-larger-10"
+  },
+  "onu_84904394721.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-tests-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-well-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-environmentally-6"
+  },
+  "onu_84905748711.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-similar-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-environmental-3"
+  },
+  "onu_84907991224.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-ORGANIZATION-University-of-São-Paulo",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "aa0f11b2-51d8-47d3-b008-1f8084ee1df7-preliminary-11"
+  },
+  "onu_84918528762.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "521f5922-1c3e-4c36-9fd5-536f42356eaf-organic-34"
+  },
+  "onu_84925638296.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-possibly-25",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-volcanic-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-also-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-also-6"
+  },
+  "onu_84930513772.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "fc8b94b7-0e5d-450a-9054-6f9bf272ae34-strongly-15",
+    "NE-DATE-Recently": "fc8b94b7-0e5d-450a-9054-6f9bf272ae34-strongly-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "fc8b94b7-0e5d-450a-9054-6f9bf272ae34-Environmental-1"
+  },
+  "onu_84940864746.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "1ee95302-e3db-46d3-82b0-335752d9f3b6-project-2"
+  },
+  "onu_84943289484.json": {
+    "NE-LOCATION-Basin": "a318701e-6951-43b5-ab6d-2b3deb57fa16-basin-25"
+  },
+  "onu_84943328375.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-mechanically-21",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-mechanically-21"
+  },
+  "onu_84943338721.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "83c12324-c60f-4651-9cfb-69111aaba3ef-environment-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-attention-2": "83c12324-c60f-4651-9cfb-69111aaba3ef-focus-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-given-4": "83c12324-c60f-4651-9cfb-69111aaba3ef-given-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "83c12324-c60f-4651-9cfb-69111aaba3ef-Special-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "83c12324-c60f-4651-9cfb-69111aaba3ef-tests-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "83c12324-c60f-4651-9cfb-69111aaba3ef-well-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "83c12324-c60f-4651-9cfb-69111aaba3ef-well-20"
+  },
+  "onu_84943339436.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-high-12",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-DATE-present": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ongoing-15"
+  },
+  "onu_84944574757.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_84944593501.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13",
+    "NE-DATE-Recently": "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ddbb976f-3682-4d4d-964c-c8f97d044879-coastal-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "ddbb976f-3682-4d4d-964c-c8f97d044879-different-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13"
+  },
+  "onu_84947326315.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "c9348211-c72e-4ea1-9eb9-711dc0c65800-different-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "NE-TITLE-model"
+  },
+  "onu_84947757002.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-have-16-taken-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-conditions-32",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-environmental-31",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-different-14"
+  },
+  "onu_84949266932.json": {
+    "NE-DATE-Recently": "42b505ba-f41a-4c4d-afef-28084be680c7-where-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "42b505ba-f41a-4c4d-afef-28084be680c7-area-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "42b505ba-f41a-4c4d-afef-28084be680c7-different-15"
+  },
+  "onu_84951918487.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "6d96e98c-77ad-4954-b07a-14307ad74b11-Lastly-1"
+  },
+  "onu_84954454797.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "45dea8c7-5987-4120-9906-0be4e1b2fa35-High-1",
+    "NE-DATE-Recently": "45dea8c7-5987-4120-9906-0be4e1b2fa35-usually-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "45dea8c7-5987-4120-9906-0be4e1b2fa35-coastal-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "45dea8c7-5987-4120-9906-0be4e1b2fa35-analyzed-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "45dea8c7-5987-4120-9906-0be4e1b2fa35-also-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "45dea8c7-5987-4120-9906-0be4e1b2fa35-also-8"
+  },
+  "onu_84955127995.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "04ab6b85-447c-419a-adaf-4533eabeb71e-economic-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "04ab6b85-447c-419a-adaf-4533eabeb71e-movement-9"
+  },
+  "onu_84958666405.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "0f3d745d-6980-4396-973f-ab7c18b13380-local-26"
+  },
+  "onu_84959478227.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-also-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-also-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-work-2"
+  },
+  "onu_84959561430.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-high-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-environmental-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-different-20"
+  },
+  "onu_84963819657.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-brittle-25"
+  },
+  "onu_84964700375.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-concept-23": "69c6bb79-fae8-43da-8f18-3e03cea59fec-concepts-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "69c6bb79-fae8-43da-8f18-3e03cea59fec-primarily-14"
+  },
+  "onu_84974574825.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "bd331931-0124-4a50-84bf-199162a52f3f-high-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "bd331931-0124-4a50-84bf-199162a52f3f-different-12"
+  },
+  "onu_84975761253.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "82c101db-bc8d-45dc-b75d-18d86512befa-work-2"
+  },
+  "onu_84979574362.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "6cc2891a-f7a7-4b12-a67e-029947346f7a-conditions-35",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "6cc2891a-f7a7-4b12-a67e-029947346f7a-sustainable-34",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "6cc2891a-f7a7-4b12-a67e-029947346f7a-conditions-35"
+  },
+  "onu_84983465797.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "29e71a86-d6f9-4b04-935d-d2cff0962e21-oil-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "29e71a86-d6f9-4b04-935d-d2cff0962e21-GOR-32-operation-33"
+  },
+  "onu_84984596158.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-low-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-predominantly-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-environmental-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-also-7",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_84987760544.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-areas-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-environmental-8"
+  },
+  "onu_84987762471.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Estuary",
+    "NE-CITY-Campos": "NE-TITLE-River",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "840af40f-bba4-4cee-94e2-23552f1a02dd-areas-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "840af40f-bba4-4cee-94e2-23552f1a02dd-similar-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "840af40f-bba4-4cee-94e2-23552f1a02dd-coastal-7"
+  },
+  "onu_84987763922.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-environmental-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-also-4"
+  },
+  "onu_84990861431.json": {
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "668f68ee-8de7-45d9-9784-b0893545fc9d-environmental-7"
+  },
+  "onu_84990898401.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "9d3f7157-a5f4-4c28-968c-5311617f432d-different-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "9d3f7157-a5f4-4c28-968c-5311617f432d-frequently-21"
+  },
+  "onu_84996602559.json": {
+    "NE-DATE-Recently": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-rarely-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-characteristics-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-related-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-different-47",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-large-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-also-34",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-set-2"
+  },
+  "onu_85006339618.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ebc129db-d75f-475f-bc23-246f6cc145ee-coastal-32"
+  },
+  "onu_85007282651.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "21eb6ecf-d102-40bb-a054-1b519100613e-areas-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "21eb6ecf-d102-40bb-a054-1b519100613e-methods-16"
+  },
+  "onu_85008198009.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-high-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-areas-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-11"
+  },
+  "onu_85009177497.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-low-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-obtained-26"
+  },
+  "onu_85009192413.json": {
+    "NE-DATE-current": "NE-DATE-future",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "1fa51d3a-829d-4c50-9899-89265ff2e400-areas-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "1fa51d3a-829d-4c50-9899-89265ff2e400-different-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "1fa51d3a-829d-4c50-9899-89265ff2e400-samples-16"
+  },
+  "onu_85009433339.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85012910163.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "be4b33fc-ea24-431e-800e-9069afec7afe-high-15",
+    "NE-DATE-Recently": "be4b33fc-ea24-431e-800e-9069afec7afe-typically-9",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "be4b33fc-ea24-431e-800e-9069afec7afe-thicker-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "be4b33fc-ea24-431e-800e-9069afec7afe-especially-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "be4b33fc-ea24-431e-800e-9069afec7afe-further-3"
+  },
+  "onu_85013296221.json": {
+    "NE-DATE-current": "NE-DATE-Current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "68be832a-27b4-49e7-8b72-dcc340ca62d8-seasonal-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "68be832a-27b4-49e7-8b72-dcc340ca62d8-smaller-53"
+  },
+  "onu_85013858173.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "9f50d251-7e41-4765-8a72-6be967b48838-high-3",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-PERSON-Campos"
+  },
+  "onu_85016298905.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "3a1c0afe-860d-43e4-8160-8731acebad0d-areas-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "3a1c0afe-860d-43e4-8160-8731acebad0d-terrestrial-37",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85016958402.json": {},
+  "onu_85017468089.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "08c3852e-194c-4498-b732-46cf26512128-areas-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "08c3852e-194c-4498-b732-46cf26512128-related-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "08c3852e-194c-4498-b732-46cf26512128-seismic-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "08c3852e-194c-4498-b732-46cf26512128-effects-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "08c3852e-194c-4498-b732-46cf26512128-study-17",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85020183362.json": {
+    "NE-CITY-Campos": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-Campos-36-basin-37",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-further-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-further-22"
+  },
+  "onu_85026803842.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "1422e178-cc62-4bf3-acfe-1985781bfe49-special-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "1422e178-cc62-4bf3-acfe-1985781bfe49-also-13"
+  },
+  "onu_85027233889.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-geometry-20": "b47c20ef-5393-406f-b497-6f1838f49422-architecture-5"
+  },
+  "onu_85027401053.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "53d0784c-6881-46a8-8607-8473e2e87675-low-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "53d0784c-6881-46a8-8607-8473e2e87675-have-5-proposed-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "53d0784c-6881-46a8-8607-8473e2e87675-areas-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "53d0784c-6881-46a8-8607-8473e2e87675-same-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "53d0784c-6881-46a8-8607-8473e2e87675-also-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "53d0784c-6881-46a8-8607-8473e2e87675-also-9"
+  },
+  "onu_85028240731.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "acaa2c9d-be80-416b-98b2-8bc5effea785-areas-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "acaa2c9d-be80-416b-98b2-8bc5effea785-environmental-31",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "acaa2c9d-be80-416b-98b2-8bc5effea785-higher-34",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85028278319.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-progressively-18",
+    "NE-DATE-Recently": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-progressively-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-oil-4-industry-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-broader-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-potentially-12"
+  },
+  "onu_85028950368.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "e4dae957-4d94-4311-82ad-250e750ae287-works-4"
+  },
+  "onu_85029591872.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "b236a4b6-2727-41c8-8cef-67a669027e7b-regions-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b236a4b6-2727-41c8-8cef-67a669027e7b-spatial-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "b236a4b6-2727-41c8-8cef-67a669027e7b-two-9-experiments-11"
+  },
+  "onu_85030830298.json": {
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85030842598.json": {},
+  "onu_85031996233.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-particular-31"
+  },
+  "onu_85032863710.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "59d300b8-aa39-45a5-a859-541819eebb68-Oil-1-exploration-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "59d300b8-aa39-45a5-a859-541819eebb68-Finally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "59d300b8-aa39-45a5-a859-541819eebb68-work-3",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85033225585.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-14"
+  },
+  "onu_85033604891.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "19e83c8d-6a15-405b-9872-15221efe1cac-effects-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "19e83c8d-6a15-405b-9872-15221efe1cac-Lower-1",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85034042710.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-oil-10-production-11-rate-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-production-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-used-14"
+  },
+  "onu_85035340277.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "fadde164-41d0-44e5-aec4-1fa2a5359b66-regions-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "fadde164-41d0-44e5-aec4-1fa2a5359b66-seasonal-2"
+  },
+  "onu_85037355639.json": {
+    "NE-DATE-Recently": "f2532b6a-23e5-4ee4-b23c-b14a66103885-contribution-12",
+    "NE-LOCATION-Basin": "f2532b6a-23e5-4ee4-b23c-b14a66103885-basins-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f2532b6a-23e5-4ee4-b23c-b14a66103885-also-7"
+  },
+  "onu_85037590262.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85039546750.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1b5c2e54-dca5-4773-b611-862793e6f292-environmental-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "1b5c2e54-dca5-4773-b611-862793e6f292-different-41",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "1b5c2e54-dca5-4773-b611-862793e6f292-conditions-42"
+  },
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "4372788a-b01b-4c08-a40d-5e901fddf4a5-used-6"
+  },
+  "onu_85040888184.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10"
+  },
+  "onu_85041142849.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "6b251826-cf79-4973-a63d-ae11b18be0c9-various-8"
+  },
+  "onu_85041154400.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85041277142.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "fb2fb4b5-91ee-4dc3-af16-1bd93d9503ce-greater-4"
+  },
+  "onu_85041698761.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-37",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Economic-1"
+  },
+  "onu_85043311576.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-high-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-conditions-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-areas-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-conditions-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-also-4"
+  },
+  "onu_85043324954.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2"
+  },
+  "onu_85044192214.json": {
+    "NE-DATE-Recently": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-successfully-8"
+  },
+  "onu_85044397080.json": {},
+  "onu_85044462127.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "77be762f-bb9c-4142-a04f-af0145a57575-conditions-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "77be762f-bb9c-4142-a04f-af0145a57575-greater-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "77be762f-bb9c-4142-a04f-af0145a57575-mainly-6"
+  },
+  "onu_85044530973.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "2d2c9121-9db0-47fd-913b-f722bc62e245-high-16",
+    "NE-LOCATION-Basin": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+    "NE-CITY-Campos": "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2"
+  },
+  "onu_85044596303.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "99512cc4-b35c-4f65-be28-93092a3cf0fc-high-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "99512cc4-b35c-4f65-be28-93092a3cf0fc-scales-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "99512cc4-b35c-4f65-be28-93092a3cf0fc-coastal-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "99512cc4-b35c-4f65-be28-93092a3cf0fc-different-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "99512cc4-b35c-4f65-be28-93092a3cf0fc-used-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "99512cc4-b35c-4f65-be28-93092a3cf0fc-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "99512cc4-b35c-4f65-be28-93092a3cf0fc-specially-21"
+  },
+  "onu_85045186297.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "b0e39309-9053-480f-94c5-a92d9375374d-high-7",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "b0e39309-9053-480f-94c5-a92d9375374d-observed-27"
+  },
+  "onu_85046290497.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85046379273.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-also-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-also-5",
+    "NE-DATE-present": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-latest-17"
+  },
+  "onu_85047299670.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "7e13bfab-9226-403e-bf1d-cce401dd3b64-high-68"
+  },
+  "onu_85047354188.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85047409861.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "1f1cc693-d744-4327-ae3a-26acd92c5117-low-18",
+    "NE-DATE-Recently": "1f1cc693-d744-4327-ae3a-26acd92c5117-significantly-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1f1cc693-d744-4327-ae3a-26acd92c5117-coastal-35",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1f1cc693-d744-4327-ae3a-26acd92c5117-greater-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "1f1cc693-d744-4327-ae3a-26acd92c5117-significantly-6"
+  },
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-LOCATION-São-Paulo"
+  },
+  "onu_85049552088.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "85bb1f29-6fcb-426b-abc6-5be02b46d922-high-43",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "85bb1f29-6fcb-426b-abc6-5be02b46d922-conditions-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "85bb1f29-6fcb-426b-abc6-5be02b46d922-conditions-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "85bb1f29-6fcb-426b-abc6-5be02b46d922-environmental-8",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85050512775.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-30-platforms-31": "d456d187-3df8-4b64-8a11-6d3acdc976bf-Riser-10-system-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "d456d187-3df8-4b64-8a11-6d3acdc976bf-Riser-10-system-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "d456d187-3df8-4b64-8a11-6d3acdc976bf-also-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "d456d187-3df8-4b64-8a11-6d3acdc976bf-also-6"
+  },
+  "onu_85050528173.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "d59c3d19-b470-43cc-aef7-3fa793b9d284-80-34-production-35-systems-36",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "d59c3d19-b470-43cc-aef7-3fa793b9d284-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "d59c3d19-b470-43cc-aef7-3fa793b9d284-Additionally-1"
+  },
+  "onu_85050539655.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85050551470.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "54866368-b614-4ef4-9fab-faa48a38f22d-challenging-4"
+  },
+  "onu_85050561554.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-Also-1"
+  },
+  "onu_85050643252.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "16159eb1-d977-41b1-977d-b5a0d90c3d46-partnership-2",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "16159eb1-d977-41b1-977d-b5a0d90c3d46-Preliminary-1"
+  },
+  "onu_85050674553.json": {
+    "NE-DATE-current": "NE-DATE-Current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-low-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-oil-2-prices-3",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-partially-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-results-9"
+  },
+  "onu_85050680089.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "7736a11e-550b-4406-bcac-140ec203a8cf-regimes-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "7736a11e-550b-4406-bcac-140ec203a8cf-different-8"
+  },
+  "onu_85051633827.json": {
+    "NE-LOCATION-Basin": "c685c5a5-bc59-4451-bee6-87f7a8810b95-basin-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "c685c5a5-bc59-4451-bee6-87f7a8810b95-large-18"
+  },
+  "onu_85051644896.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "12c1d79e-73bd-481c-bdb8-1d4727843a15-large-10"
+  },
+  "onu_85051649253.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "676e7e95-336a-48ca-8815-930a8e2851b0-global-26"
+  },
+  "onu_85051653660.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-low-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-special-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-work-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-preliminary-12"
+  },
+  "onu_85051673888.json": {},
+  "onu_85052069920.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "6019aafd-17a7-4b19-be78-72fdb72b948b-changes-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "6019aafd-17a7-4b19-be78-72fdb72b948b-areas-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "6019aafd-17a7-4b19-be78-72fdb72b948b-shallow-17"
+  },
+  "onu_85052748036.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "d5172811-4956-4cc3-bcce-2ec97a8402f1-potentially-8",
+    "NE-DATE-Recently": "d5172811-4956-4cc3-bcce-2ec97a8402f1-potentially-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "d5172811-4956-4cc3-bcce-2ec97a8402f1-similar-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "d5172811-4956-4cc3-bcce-2ec97a8402f1-environmental-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "d5172811-4956-4cc3-bcce-2ec97a8402f1-different-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "d5172811-4956-4cc3-bcce-2ec97a8402f1-Also-1"
+  },
+  "onu_85052916893.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "390e8152-252c-4c33-856b-035e5f48ed3e-environmental-8"
+  },
+  "onu_85053143769.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-different-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85053593980.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31": "8db3c934-1816-4c07-9f83-706b0c2a1f16-speed-6",
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "8db3c934-1816-4c07-9f83-706b0c2a1f16-low-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "8db3c934-1816-4c07-9f83-706b0c2a1f16-similar-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "8db3c934-1816-4c07-9f83-706b0c2a1f16-coastal-23"
+  },
+  "onu_85053770238.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85054086297.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-high-14"
+  },
+  "onu_85054504118.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "b1326d03-e928-4f17-a698-2f5bc600a0ed-oil-27",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_85054783545.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "54174e41-4460-4ede-8ffd-225b7817ab76-high-3",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "54174e41-4460-4ede-8ffd-225b7817ab76-considerable-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "54174e41-4460-4ede-8ffd-225b7817ab76-used-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "54174e41-4460-4ede-8ffd-225b7817ab76-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "54174e41-4460-4ede-8ffd-225b7817ab76-Additionally-1"
+  },
+  "onu_85054941296.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-national-20"
+  },
+  "onu_85055025955.json": {
+    "NE-DATE-current": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-previous-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-had-4-discovered-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85055027444.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "efaa678b-3d7e-4113-825c-c286cad84bfd-distinct-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "efaa678b-3d7e-4113-825c-c286cad84bfd-distinct-2"
+  },
+  "onu_85055027692.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-high-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-oil-4-production-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85055036761.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRÁS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-simpler-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-Special-1"
+  },
+  "onu_85055255571.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-normally-20",
+    "NE-DATE-Recently": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-especially-13",
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRÁS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-harsh-22"
+  },
+  "onu_85055263465.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "b7c3b9c4-3527-4339-b669-999094175621-also-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "b7c3b9c4-3527-4339-b669-999094175621-also-10"
+  },
+  "onu_85055528846.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31": "2970e996-64cc-47e6-bc5c-fb3d99195396-accuracy-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "2970e996-64cc-47e6-bc5c-fb3d99195396-environmental-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "2970e996-64cc-47e6-bc5c-fb3d99195396-work-4",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85055864923.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "c183a578-8a5f-4228-b35b-5651f319641f-verified-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "c183a578-8a5f-4228-b35b-5651f319641f-Also-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "c183a578-8a5f-4228-b35b-5651f319641f-results-14"
+  },
+  "onu_85055908781.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "7791ecea-6b5a-4410-bef3-7836f667a288-conditions-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "7791ecea-6b5a-4410-bef3-7836f667a288-main-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "7791ecea-6b5a-4410-bef3-7836f667a288-conditions-13",
+    "NE-DATE-present": "NE-DATE-current"
+  },
+  "onu_85056094176.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "0ddfca10-cdbf-4166-ae46-860624694346-water-13-oil-14-fields-15-production-16-development-17",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "0ddfca10-cdbf-4166-ae46-860624694346-Special-19"
+  },
+  "onu_85056110569.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "1a82d70b-0282-4199-a560-d0aab9c27373-high-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "1a82d70b-0282-4199-a560-d0aab9c27373-have-9-discovered-11",
+    "NE-DATE-Recently": "1a82d70b-0282-4199-a560-d0aab9c27373-Basins-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "1a82d70b-0282-4199-a560-d0aab9c27373-oil-5-reserves-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "1a82d70b-0282-4199-a560-d0aab9c27373-Petrobras-2-experience-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1a82d70b-0282-4199-a560-d0aab9c27373-economic-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "1a82d70b-0282-4199-a560-d0aab9c27373-economically-18"
+  },
+  "onu_85056183083.json": {},
+  "onu_85056566136.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "0f98ad10-7fd1-45a1-89ad-5f39f225e33c-effects-10"
+  },
+  "onu_85056605886.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85056605922.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-used-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-three-30-dimensional-32": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-three-15-dimensional-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-Finally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-Finally-1"
+  },
+  "onu_85056794099.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "95c32260-b2d3-4c86-a803-d3bf8befb654-Intensive-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "95c32260-b2d3-4c86-a803-d3bf8befb654-higher-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1"
+  },
+  "onu_85057560805.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "bb2572d0-017a-4510-9d70-32e7ab55c722-seismic-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "bb2572d0-017a-4510-9d70-32e7ab55c722-different-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "bb2572d0-017a-4510-9d70-32e7ab55c722-older-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "bb2572d0-017a-4510-9d70-32e7ab55c722-work-2"
+  },
+  "onu_85057883234.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "14e946a7-3108-404c-a068-13eb8cc66620-naturally-19",
+    "NE-DATE-Recently": "NE-DATE-recently",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "14e946a7-3108-404c-a068-13eb8cc66620-ultimate-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "14e946a7-3108-404c-a068-13eb8cc66620-Different-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-heading-4-conditions-5": "14e946a7-3108-404c-a068-13eb8cc66620-stress-6-conditions-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "14e946a7-3108-404c-a068-13eb8cc66620-Finally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "14e946a7-3108-404c-a068-13eb8cc66620-naturally-19"
+  },
+  "onu_85059143234.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-induced-17-vibration-18": "c547213a-e858-4f59-a98b-991221b44a08-inversion-39-induced-40",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "c547213a-e858-4f59-a98b-991221b44a08-phases-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "c547213a-e858-4f59-a98b-991221b44a08-related-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "c547213a-e858-4f59-a98b-991221b44a08-brittle-7"
+  },
+  "onu_85059218520.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85059436090.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "132c6e60-d817-4725-b4ba-810203ca0e70-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "132c6e60-d817-4725-b4ba-810203ca0e70-also-4"
+  },
+  "onu_85060083816.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-high-24",
+    "NE-LOCATION-Basin": "NE-LOCATION-basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-different-23"
+  },
+  "onu_85060443361.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-curved-14"
+  },
+  "onu_85061179665.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "17e2d2d4-078d-47cf-b582-655e5774143c-high-28",
+    "NE-CITY-Campos": "NE-PERSON-Serra",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "17e2d2d4-078d-47cf-b582-655e5774143c-climatic-17"
+  },
+  "onu_85061498967.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-high-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-coastal-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-higher-40"
+  },
+  "onu_85061767810.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-faults-11",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-frequently-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2"
+  },
+  "onu_85061823653.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-aspects-5": "7ea51696-389a-44d4-ba97-778d27509475-aspects-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "7ea51696-389a-44d4-ba97-778d27509475-work-2"
+  },
+  "onu_85062013573.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "28afef62-c426-44a2-9215-bf6b45551070-conditions-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "28afef62-c426-44a2-9215-bf6b45551070-environmental-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "28afef62-c426-44a2-9215-bf6b45551070-set-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "28afef62-c426-44a2-9215-bf6b45551070-rules-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "28afef62-c426-44a2-9215-bf6b45551070-simplified-14"
+  },
+  "onu_85062607406.json": {},
+  "onu_85062717506.json": {},
+  "onu_85063263863.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-environmental-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-different-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-higher-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-used-25"
+  },
+  "onu_85063689284.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Estuary",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "67b5ee09-3e9b-4ee7-8c97-16a32349a345-results-4"
+  },
+  "onu_85064764902.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-consistently-24"
+  },
+  "onu_85064808857.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "4879b8b6-7193-4b71-96e2-28fc820267e0-high-36",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similarity-15": "4879b8b6-7193-4b71-96e2-28fc820267e0-correlation-11"
+  },
+  "onu_85064983703.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-large-10"
+  },
+  "onu_85065180012.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85065623080.json": {
+    "NE-DATE-Recently": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-also-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-environments-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-coastal-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-also-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-also-12"
+  },
+  "onu_85065912337.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-motions-3": "2143f721-d959-4556-9126-5be2b6ca65c9-equations-18",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "2143f721-d959-4556-9126-5be2b6ca65c9-large-11",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85066600751.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-natural-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-larger-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-work-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-preliminary-4"
+  },
+  "onu_85066617192.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-high-9",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-economical-11"
+  },
+  "onu_85066623384.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "63257db0-7292-4593-96e1-aae426bbf829-Additionally-1"
+  },
+  "onu_85067965170.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "4d09355a-503a-48db-a367-7c33af77071e-Also-1"
+  },
+  "onu_85068049608.json": {},
+  "onu_85068387773.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "a5cffccf-1536-473d-9270-6167576d70ec-proximity-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-floaters-12": "a5cffccf-1536-473d-9270-6167576d70ec-floaters-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-ratio-7-roughness-8-beam-10": "a5cffccf-1536-473d-9270-6167576d70ec-stiffness-27-matrixes-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "a5cffccf-1536-473d-9270-6167576d70ec-work-2"
+  },
+  "onu_85068453742.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-environmental-21"
+  },
+  "onu_85070554647.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "72b63001-9050-46f3-a364-f3ec8d862ef0-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "72b63001-9050-46f3-a364-f3ec8d862ef0-oil-9-fields-10"
+  },
+  "onu_85070704005.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "b4a8b90d-7253-4581-99da-486e61291b69-areas-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "b4a8b90d-7253-4581-99da-486e61291b69-Similar-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "b4a8b90d-7253-4581-99da-486e61291b69-Similar-1",
+    "NE-DATE-present": "b4a8b90d-7253-4581-99da-486e61291b69-present-16"
+  },
+  "onu_85070853924.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31": "6dc1853a-1825-449e-9547-d497b3114adb-wind-3-speed-4",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85070991202.json": {
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85071023764.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-different-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-fast-8",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85071488896.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-constantly-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-environmental-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-morphological-19"
+  },
+  "onu_85071542084.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26"
+  },
+  "onu_85071847548.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-highly-7",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-highly-7"
+  },
+  "onu_85072725932.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-regions-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-thermal-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-different-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-study-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-preliminary-11"
+  },
+  "onu_85072834829.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "f46f17d1-e7ee-43a7-b27f-8001a220449a-high-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "f46f17d1-e7ee-43a7-b27f-8001a220449a-conditions-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "f46f17d1-e7ee-43a7-b27f-8001a220449a-comparable-7"
+  },
+  "onu_85073705401.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9ba582b4-4671-4d5f-a00e-72d8370658d2-environmental-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "9ba582b4-4671-4d5f-a00e-72d8370658d2-further-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "9ba582b4-4671-4d5f-a00e-72d8370658d2-also-30"
+  },
+  "onu_85073706024.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "fad0be37-f5f4-4a0f-bcad-6a82a846f841-oil-12-production-13-increase-14",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85073935907.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "bc946871-1090-4025-8672-8089752cc34e-system-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "bc946871-1090-4025-8672-8089752cc34e-thermal-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "bc946871-1090-4025-8672-8089752cc34e-small-30"
+  },
+  "onu_85074489503.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "e9b97ebc-e3cf-4546-849d-66298a1876a5-different-11"
+  },
+  "onu_85074632793.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "e96160f9-afe1-4286-9ca9-11f35229455a-spatial-27",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "e96160f9-afe1-4286-9ca9-11f35229455a-large-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "e96160f9-afe1-4286-9ca9-11f35229455a-mainly-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "e96160f9-afe1-4286-9ca9-11f35229455a-subsequently-23"
+  },
+  "onu_85074778611.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-biological-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-Furthermore-1"
+  },
+  "onu_85075350522.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-speed-31": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-height-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-related-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "51b6742c-b6b0-4387-bdcb-dd3ff80ea885-coastal-2"
+  },
+  "onu_85075421341.json": {},
+  "onu_85075661667.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "8eb22610-755f-4d77-aaca-50d08c2064c5-high-5",
+    "NE-DATE-Recently": "8eb22610-755f-4d77-aaca-50d08c2064c5-usually-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85075827903.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "3f2db0e2-163d-413a-826b-912433d08c8a-high-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "3f2db0e2-163d-413a-826b-912433d08c8a-have-8-formed-10",
+    "NE-DATE-Recently": "3f2db0e2-163d-413a-826b-912433d08c8a-Otherwise-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "3f2db0e2-163d-413a-826b-912433d08c8a-Thus-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "3f2db0e2-163d-413a-826b-912433d08c8a-Thus-1"
+  },
+  "onu_85075828327.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-high-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-variable-20-amplitude-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-motions-3": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-motions-38",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-riser-25-design-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-mainly-19"
+  },
+  "onu_85075831363.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "c6187c05-69fa-4993-ac86-f7154dd67053-ranges-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "c6187c05-69fa-4993-ac86-f7154dd67053-low-10",
+    "NE-DATE-Recently": "c6187c05-69fa-4993-ac86-f7154dd67053-accurately-43"
+  },
+  "onu_85075835330.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-continents-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-oil-17-production-18"
+  },
+  "onu_85075843438.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "b11303f1-e8e0-4420-9932-569d3ac87ff2-different-5"
+  },
+  "onu_85075879935.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecological-32"
+  },
+  "onu_85075941856.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sand-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-conditions-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-sedimentary-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "5971aa89-f51c-4cd0-bb74-6b65ebf6bfe1-parameters-9"
+  },
+  "onu_85075951728.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-high-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-large-10",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85075997043.json": {},
+  "onu_85076246665.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos"
+  },
+  "onu_85076560202.json": {
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-tested-5"
+  },
+  "onu_85076775401.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "3fa508a4-4944-4cc2-a966-5bc0da835729-closer-13"
+  },
+  "onu_85076896265.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-directly-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-areas-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-higher-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-significantly-2",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85077234208.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "3bce63f2-6438-4309-b24d-2dcad2a582a1-damage-23",
+    "NE-DATE-Recently": "3bce63f2-6438-4309-b24d-2dcad2a582a1-increasingly-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "3bce63f2-6438-4309-b24d-2dcad2a582a1-biological-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "3bce63f2-6438-4309-b24d-2dcad2a582a1-lower-33"
+  },
+  "onu_85077945350.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "e5183355-b1b6-474b-bef3-dcc000293be4-suggestions-42",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85078010553.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "8b856b86-bebe-4ded-9624-c946c2d1bff7-economic-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "8b856b86-bebe-4ded-9624-c946c2d1bff7-newly-10"
+  },
+  "onu_85078233209.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-high-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-gravity-4-anomaly-5-inversion-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-naturally-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-set-6"
+  },
+  "onu_85079351203.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "da566f30-68dc-4ed8-990f-a0817cb9497f-high-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "da566f30-68dc-4ed8-990f-a0817cb9497f-have-3-interpreted-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "da566f30-68dc-4ed8-990f-a0817cb9497f-vertically-17",
+    "NE-DATE-Recently": "da566f30-68dc-4ed8-990f-a0817cb9497f-alternatively-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "da566f30-68dc-4ed8-990f-a0817cb9497f-internal-22"
+  },
+  "onu_85079784581.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-ratio-7-roughness-8-beam-10": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-roughness-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-regional-16"
+  },
+  "onu_85080813467.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9e4dd2b4-cdb0-41c5-ae48-7b455a7cfc9f-Environmental-2"
+  },
+  "onu_85083240666.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-high-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-Also-1"
+  },
+  "onu_85083341760.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "9393b61e-5555-44d0-943e-1eb43fe808ac-lenses-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "9393b61e-5555-44d0-943e-1eb43fe808ac-area-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "9393b61e-5555-44d0-943e-1eb43fe808ac-different-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "9393b61e-5555-44d0-943e-1eb43fe808ac-Thus-1"
+  },
+  "onu_85084024263.json": {},
+  "onu_85084454298.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-high-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-environmental-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-work-4"
+  },
+  "onu_85084634006.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-LOCATION-Basin": "a407c16e-080e-4100-9fc2-914500db52e5-basins-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "a407c16e-080e-4100-9fc2-914500db52e5-different-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "a407c16e-080e-4100-9fc2-914500db52e5-different-17",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85084667903.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "ced88bac-1112-43b7-819e-42b702c4146b-high-11",
+    "NE-DATE-Recently": "ced88bac-1112-43b7-819e-42b702c4146b-typically-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "ced88bac-1112-43b7-819e-42b702c4146b-different-5"
+  },
+  "onu_85084945361.json": {},
+  "onu_85085054148.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin"
+  },
+  "onu_85085298469.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analogous-32",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24"
+  },
+  "onu_85085408490.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-offshore-13-activity-14",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1"
+  },
+  "onu_85085473397.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "934e19c7-1772-4795-a581-05b674220676-study-3",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85085492342.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-high-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-similar-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-coastal-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-smaller-4"
+  },
+  "onu_85085773523.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-aspects-5": "ab307ab9-374d-477f-9d96-1a0fda460239-aspects-5",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "ab307ab9-374d-477f-9d96-1a0fda460239-set-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "ab307ab9-374d-477f-9d96-1a0fda460239-results-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "ab307ab9-374d-477f-9d96-1a0fda460239-technical-8"
+  },
+  "onu_85085773731.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-oil-21",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085773745.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "21225434-c8fc-441d-b277-65da424c77e7-oil-18-production-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "21225434-c8fc-441d-b277-65da424c77e7-environmental-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "21225434-c8fc-441d-b277-65da424c77e7-also-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "21225434-c8fc-441d-b277-65da424c77e7-also-16"
+  },
+  "onu_85085773825.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-likely-11-riser-12-angle-13-absolute-15-value-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-higher-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-significantly-4"
+  },
+  "onu_85085773875.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "d606c7b3-ce98-4023-8a39-196528dd3002-high-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "d606c7b3-ce98-4023-8a39-196528dd3002-increasing-38-oil-39-recovery-40",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "d606c7b3-ce98-4023-8a39-196528dd3002-larger-26"
+  },
+  "onu_85085774498.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "801b16ca-c991-454c-b97a-b358ab8eea75-clear-73"
+  },
+  "onu_85085774511.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "07bf9801-f530-468c-9921-66afca9b2b91-different-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "07bf9801-f530-468c-9921-66afca9b2b91-remotely-5"
+  },
+  "onu_85085774766.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-independently-21",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-polar-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-smaller-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-used-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-Additionally-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-works-7",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85085775194.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-phase-7",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085775396.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-30-platforms-31": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-SPAR-11-platforms-12": "ee817b7d-8183-4633-9141-28578ef8eeaa-Riser-10-system-11"
+  },
+  "onu_85085775562.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-speeds-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-problem-23": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-problem-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-same-33",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17"
+  },
+  "onu_85085775753.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-natural-30",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-also-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-respectively-21"
+  },
+  "onu_85085775962.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "be473474-e9c1-4908-947b-6970a8bfa756-related-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "be473474-e9c1-4908-947b-6970a8bfa756-increased-40",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "be473474-e9c1-4908-947b-6970a8bfa756-intense-18"
+  },
+  "onu_85085776151.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "5bd9eda6-5812-4578-ab2b-6a61cf688e44-high-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "5bd9eda6-5812-4578-ab2b-6a61cf688e44-oil-68-production-69-plateau-70",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_85085776159.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085776356.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "2a540db1-9714-4a1f-b95b-65922ff9ef32-cooperation-38",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "2a540db1-9714-4a1f-b95b-65922ff9ef32-intensive-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "2a540db1-9714-4a1f-b95b-65922ff9ef32-also-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "2a540db1-9714-4a1f-b95b-65922ff9ef32-also-4"
+  },
+  "onu_85085776372.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "c59dc365-dd43-4a22-8bcc-877027142262-processes-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "c59dc365-dd43-4a22-8bcc-877027142262-different-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "c59dc365-dd43-4a22-8bcc-877027142262-larger-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "c59dc365-dd43-4a22-8bcc-877027142262-tests-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "c59dc365-dd43-4a22-8bcc-877027142262-work-3",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85085776540.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "544389f0-af01-489c-a71e-5e23542d32c5-Therefore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "544389f0-af01-489c-a71e-5e23542d32c5-oil-17-production-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "544389f0-af01-489c-a71e-5e23542d32c5-consequently-12"
+  },
+  "onu_85085776958.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "6dbb2a6b-d66e-49c3-a7f3-450475d69123-unique-36"
+  },
+  "onu_85085777009.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085777884.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "943cc533-ce82-452e-94d0-14fafa0d4754-magnitude-17-of-18-impacts-20",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "943cc533-ce82-452e-94d0-14fafa0d4754-greater-15"
+  },
+  "onu_85085778037.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-circumstances-8"
+  },
+  "onu_85085778412.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-reasons-20",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85085778651.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "42684b28-71f8-41aa-ada5-b427f3c87f94-high-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "42684b28-71f8-41aa-ada5-b427f3c87f94-have-4-drilled-6",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "42684b28-71f8-41aa-ada5-b427f3c87f94-environmental-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "42684b28-71f8-41aa-ada5-b427f3c87f94-high-10"
+  },
+  "onu_85085778850.json": {
+    "NE-DATE-current": "aefa100b-fd33-476c-8121-310d23ec4cbc-previous-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "aefa100b-fd33-476c-8121-310d23ec4cbc-high-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "aefa100b-fd33-476c-8121-310d23ec4cbc-used-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "aefa100b-fd33-476c-8121-310d23ec4cbc-primarily-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "aefa100b-fd33-476c-8121-310d23ec4cbc-work-2"
+  },
+  "onu_85085778895.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b7a10045-d4c2-447e-907a-820163ea176a-environmental-7",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85085779136.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085779144.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6",
+    "NE-DATE-Recently": "NE-DATE-recently"
+  },
+  "onu_85085780309.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-its-18-occurrence-19": "82bdebe1-55d4-4873-9e12-d1e0510312d7-its-17-behavior-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "82bdebe1-55d4-4873-9e12-d1e0510312d7-Oil-1-production-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "82bdebe1-55d4-4873-9e12-d1e0510312d7-loads-23"
+  },
+  "onu_85085850094.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7",
+    "NE-DATE-Recently": "44a03514-5795-44e8-9d1b-fd93129ad66f-Consequently-1",
+    "NE-CITY-Campos": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85086232639.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "1560ca69-ffef-4249-b357-976be0472af8-particularly-30",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85086245971.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5b314478-44cb-4cb9-a631-b9e343125cc4-highly-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "5b314478-44cb-4cb9-a631-b9e343125cc4-different-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "5b314478-44cb-4cb9-a631-b9e343125cc4-sets-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "5b314478-44cb-4cb9-a631-b9e343125cc4-data-12",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85086248840.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85086257600.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-Different-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-robust-25",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-used-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-order-12": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-order-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-studied-18"
+  },
+  "onu_85086355916.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-high-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-probably-13",
+    "NE-DATE-Recently": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-probably-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Higher-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-indicators-17"
+  },
+  "onu_85086628030.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "a73dc049-c132-4e65-b2aa-4a929784f44d-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "a73dc049-c132-4e65-b2aa-4a929784f44d-oil-4-activities-8",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "a73dc049-c132-4e65-b2aa-4a929784f44d-environmental-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "a73dc049-c132-4e65-b2aa-4a929784f44d-different-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "a73dc049-c132-4e65-b2aa-4a929784f44d-potentially-15"
+  },
+  "onu_85086649140.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "c9f847a3-c49c-4b1b-a35a-2782aa506380-rapidly-28",
+    "NE-DATE-Recently": "c9f847a3-c49c-4b1b-a35a-2782aa506380-rapidly-28"
+  },
+  "onu_85086667338.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "c26fa3b4-e85d-44f5-a212-fecb246d8968-also-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "c26fa3b4-e85d-44f5-a212-fecb246d8968-also-3"
+  },
+  "onu_85086808985.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "bf917e90-7343-4ac5-9605-4309e100073a-deeper-28",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "bf917e90-7343-4ac5-9605-4309e100073a-extensively-16"
+  },
+  "onu_85086809805.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "6af17be2-6207-49d6-b833-4d7a7d7f3202-high-18",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "6af17be2-6207-49d6-b833-4d7a7d7f3202-different-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "6af17be2-6207-49d6-b833-4d7a7d7f3202-work-21"
+  },
+  "onu_85086829622.json": {
+    "NE-DATE-Recently": "b4397664-2f84-441a-a57c-f2048b42eb8c-closely-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "b4397664-2f84-441a-a57c-f2048b42eb8c-deeper-20"
+  },
+  "onu_85086929987.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-its-18-occurrence-19": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-its-25-distribution-26"
+  },
+  "onu_85087227840.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-partnership-5": "0977f9a2-edd3-48e0-a260-bde6dc43aab1-collaboration-48"
+  },
+  "onu_85087228205.json": {},
+  "onu_85087345946.json": {
+    "NE-LOCATION-Basin": "NE-TITLE-river",
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-LOCATION-São-Paulo"
+  },
+  "onu_85087348432.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "f92cbb81-a4ae-452e-b724-484673367f5e-work-2"
+  },
+  "onu_85087970879.json": {
+    "NE-DATE-Recently": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-briefly-18",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Campos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-conditions-82",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-conditions-82",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-analyzed-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-Furthermore-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-Furthermore-1",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85088133476.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "931afc26-ec02-4974-9270-dba41591d2d1-highly-19",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85088202607.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "878c6144-9088-47f8-8223-53e986bb063e-successfully-7"
+  },
+  "onu_85088697920.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "63abed40-4d25-436b-bea5-6b97388825c3-regions-13"
+  },
+  "onu_85088709907.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "9525f0b3-641e-4716-8a1f-9fd6ad9440fb-coastal-7"
+  },
+  "onu_85088763109.json": {},
+  "onu_85088793210.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "36cf26a9-49e9-4151-9e5e-0835540d9f61-Areas-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "36cf26a9-49e9-4151-9e5e-0835540d9f61-thus-20"
+  },
+  "onu_85088799870.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "a03ca6d2-0a37-4888-8976-63f43be4ad56-high-9"
+  },
+  "onu_85088892946.json": {},
+  "onu_85088978023.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-regions-27": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-34",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-environmental-7"
+  },
+  "onu_85089199336.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "f9c39424-c803-446d-9dec-491105a69099-high-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15"
+  },
+  "onu_85089245637.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "9f8de688-62c3-412d-a7f9-3b51ca170748-similar-15"
+  },
+  "onu_85089527352.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "3e605179-b368-4602-b44b-ceaa04c453c2-areas-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "3e605179-b368-4602-b44b-ceaa04c453c2-used-23",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-preliminary-10": "3e605179-b368-4602-b44b-ceaa04c453c2-final-6"
+  },
+  "onu_85089654013.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-less-10",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85090201621.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "f9f900c7-5742-455e-b3dc-60b4fee023c9-oil-2-pollution-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "f9f900c7-5742-455e-b3dc-60b4fee023c9-coastal-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "f9f900c7-5742-455e-b3dc-60b4fee023c9-study-3",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85090367193.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "026bc1df-a0cf-433b-b29b-2c16bf35150d-different-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "026bc1df-a0cf-433b-b29b-2c16bf35150d-set-4"
+  },
+  "onu_85090483755.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "NE-MISC-Climatic",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-work-2"
+  },
+  "onu_85090507698.json": {},
+  "onu_85090509939.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "434cbfb2-e716-43dd-abaf-4575fa516085-different-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "434cbfb2-e716-43dd-abaf-4575fa516085-also-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "434cbfb2-e716-43dd-abaf-4575fa516085-Additionally-1"
+  },
+  "onu_85090511016.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-well-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-production-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Special-1": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-huge-51",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Thus-1",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-results-11": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-results-16"
+  },
+  "onu_85090646059.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-similar-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-identical-4"
+  },
+  "onu_85090693617.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "5d225a40-54e2-4e02-a17e-ecea919142b6-high-17",
+    "NE-LOCATION-Basin": "NE-LOCATION-Estuary",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5d225a40-54e2-4e02-a17e-ecea919142b6-climatic-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "5d225a40-54e2-4e02-a17e-ecea919142b6-changes-11"
+  },
+  "onu_85090982605.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-set-8": "3f77cc69-82ae-40d3-b552-aa633b7f1621-set-6"
+  },
+  "onu_85091197319.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10"
+  },
+  "onu_85091725112.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39",
+    "NE-DATE-Recently": "68839359-bf76-4868-9d75-bcfd19d0c220-broadly-38",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-28-production-31",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "68839359-bf76-4868-9d75-bcfd19d0c220-mainly-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "68839359-bf76-4868-9d75-bcfd19d0c220-study-5"
+  },
+  "onu_85091986329.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "c0031e2d-9def-4261-b692-24f2468bfb11-Additionally-1"
+  },
+  "onu_85092100205.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "cd943918-e357-445e-8695-9d1b93213bb2-areas-10"
+  },
+  "onu_85092110011.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-high-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-regions-20",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-environmental-14",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-large-13",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-mostly-9"
+  },
+  "onu_85092499794.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1eac3015-c78b-44b0-a446-b7757d48abba-small-10"
+  },
+  "onu_85093942688.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "1be9b63b-f885-4cce-860e-7e7356ee91ae-low-8",
+    "NE-LOCATION-Basin": "1be9b63b-f885-4cce-860e-7e7356ee91ae-region-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "1be9b63b-f885-4cce-860e-7e7356ee91ae-considerable-40"
+  },
+  "onu_85094168812.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-penetration-18",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-used-17"
+  },
+  "onu_85095686213.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "2b71d4fa-56c5-4102-8a03-0d5151874d42-source-21-areas-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "2b71d4fa-56c5-4102-8a03-0d5151874d42-similar-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "2b71d4fa-56c5-4102-8a03-0d5151874d42-thermal-17",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "2b71d4fa-56c5-4102-8a03-0d5151874d42-same-14"
+  },
+  "onu_85095886757.json": {},
+  "onu_85095967333.json": {
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4"
+  },
+  "onu_85096027479.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-low-31",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-conditions-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-grassland-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "NE-TITLE-marine",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-work-12"
+  },
+  "onu_85096104148.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "ae1a2359-6ac6-4b39-9948-774de2ff206e-different-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "ae1a2359-6ac6-4b39-9948-774de2ff206e-higher-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-monocolumn-15-experiments-16": "ae1a2359-6ac6-4b39-9948-774de2ff206e-Clinopyroxene-1-geothermobarometry-2-data-3"
+  },
+  "onu_85096519364.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-extremely-8",
+    "NE-DATE-Recently": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-factors-15",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-4",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-effects-33": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-processes-18",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-wider-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-partially-20"
+  },
+  "onu_85096833213.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "4d34758f-998c-42ff-ab34-a71d7aeaba00-high-2",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "4d34758f-998c-42ff-ab34-a71d7aeaba00-poorly-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "4d34758f-998c-42ff-ab34-a71d7aeaba00-coastal-4"
+  },
+  "onu_85097322074.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-production-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "NE-TITLE-marine"
+  },
+  "onu_85097480849.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "0df1d217-fa26-413d-aa69-6ede9c54686e-environmental-5"
+  },
+  "onu_85097539519.json": {},
+  "onu_85097552901.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos"
+  },
+  "onu_85097570159.json": {
+    "NE-ORGANIZATION-University-of-Sao-Paulo": "NE-LOCATION-São-Francisco",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-coastal-22"
+  },
+  "onu_85097598677.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-20-magnitude-21-of-22-response-23-amplitude-24": "a5d7be57-57d4-47ac-899e-025b964bbac8-same-23-order-24-of-25-magnitude-26",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-tested-8": "a5d7be57-57d4-47ac-899e-025b964bbac8-selected-34"
+  },
+  "onu_85097758556.json": {
+    "NE-DATE-current": "NE-DATE-current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "ea95441f-c561-441f-9bf8-9f6102051745-high-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-work-5": "ea95441f-c561-441f-9bf8-9f6102051745-study-3",
+    "NE-DATE-present": "ea95441f-c561-441f-9bf8-9f6102051745-present-30"
+  },
+  "onu_85097770989.json": {
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85097876795.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-production-16",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-different-8"
+  },
+  "onu_85097889884.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "8876b26c-9469-4d0a-8688-55977469fef5-related-14"
+  },
+  "onu_85097914346.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-its-18-occurrence-19": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-its-14-effects-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-conditions-4": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-parameters-31",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-different-10",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-experiments-18": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-parameters-12",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85097951230.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-its-18-occurrence-19": "d6883d36-bf69-406e-b609-e85a3744a46f-its-21-relationship-22",
+    "NE-DATE-Recently": "d6883d36-bf69-406e-b609-e85a3744a46f-apparently-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "d6883d36-bf69-406e-b609-e85a3744a46f-areas-16"
+  },
+  "onu_85098462600.json": {},
+  "onu_85099021856.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "b146d1cd-1198-4146-911d-471f79f60f33-high-21",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "b146d1cd-1198-4146-911d-471f79f60f33-environmental-6"
+  },
+  "onu_85099211729.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-regions-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-Separate-1"
+  },
+  "onu_85099279592.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "762c9adb-5241-4a67-a3d1-c004219de178-high-14",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "762c9adb-5241-4a67-a3d1-c004219de178-also-15",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "762c9adb-5241-4a67-a3d1-c004219de178-also-15"
+  },
+  "onu_85099301920.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "7548607a-2b9a-4332-9ee4-f4344220c57a-significantly-19",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "7548607a-2b9a-4332-9ee4-f4344220c57a-significantly-19"
+  },
+  "onu_85099313369.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-different-19": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-same-29",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-used-9": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-used-6",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-also-7": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-also-5",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-also-5"
+  },
+  "onu_85099520347.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-high-5",
+    "NE-DATE-Recently": "NE-DATE-previously",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-similar-15": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-similar-9",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-Furthermore-1"
+  },
+  "onu_85100594780.json": {
+    "NE-DATE-current": "NE-DATE-Current",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-12",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-greater-30"
+  },
+  "onu_85100847459.json": {},
+  "onu_85101031678.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4"
+  },
+  "onu_85101067912.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "b8ff745b-f126-438a-b4bd-e676c40a4a02-high-18"
+  },
+  "onu_85101344072.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-high-29": "0ad0337a-c203-4926-b4bf-4389950fa263-high-8",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "0ad0337a-c203-4926-b4bf-4389950fa263-essentially-8",
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "NE-ORGANIZATION-PETROBRAS": "NE-ORGANIZATION-Petrobras",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "0ad0337a-c203-4926-b4bf-4389950fa263-regions-46",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-21"
+  },
+  "onu_85101359309.json": {
+    "NE-LOCATION-Basin": "NE-LOCATION-Basin",
+    "NE-CITY-Campos": "NE-CITY-Santos",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-three-30-dimensional-32": "65c99a63-593c-45ac-822d-f42c46ce46bd-three-23-dimensional-25"
+  },
+  "onu_85101493235.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "ef158461-f75c-4fd6-954c-3e8db41d439b-progressively-24",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9"
+  },
+  "onu_85101961666.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "24e932fe-ae8c-44e6-87a2-382dde69c66c-remarkably-16",
+    "NE-LOCATION-Basin": "24e932fe-ae8c-44e6-87a2-382dde69c66c-basins-22",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-larger-26": "24e932fe-ae8c-44e6-87a2-382dde69c66c-larger-20"
+  },
+  "onu_85102272621.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-vortex-15": "b052897b-0290-43af-ab31-51bd7863f66c-frequencies-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "b052897b-0290-43af-ab31-51bd7863f66c-area-8"
+  },
+  "onu_85103445741.json": {},
+  "onu_85103489384.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3": "44301f57-e236-4b9c-a5ee-571fc96677e2-environmental-42"
+  },
+  "onu_85103521288.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Additionally-1": "NE-DATE-previously"
+  },
+  "onu_85103724572.json": {
+    "NE-DATE-current": "NE-DATE-present",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-oil-25-production-26": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-oil-5-production-6",
+    "NE-DATE-present": "NE-DATE-present"
+  },
+  "onu_85104343927.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "d2f57460-27c6-4be0-be1f-83c515125f60-have-9-recorded-11",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-art-7-procedures-8": "d2f57460-27c6-4be0-be1f-83c515125f60-art-17"
+  },
+  "onu_85104631395.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-Vortex-4-Induced-6-Motions-7-VIM-9": "2570e3cb-e265-4264-a109-e3358d5b90ba-P-3-wave-5-velocity-6-models-7",
+    "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28": "2570e3cb-e265-4264-a109-e3358d5b90ba-have-10-occurred-11",
+    "NE-DATE-Recently": "2570e3cb-e265-4264-a109-e3358d5b90ba-progressively-12"
+  },
+  "onu_85104732272.json": {
+    "0709a62c-a215-4068-a74c-360cc8510fa9-areas-7": "aa766a3a-e3d0-420a-b943-d073c9fabb96-Areas-15"
+  }
+}

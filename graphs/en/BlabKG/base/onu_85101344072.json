@@ -1,0 +1,1056 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85101344072.txt",
+  "entities": {
+    "0ad0337a-c203-4926-b4bf-4389950fa263-production-4": "production",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40": "salt seal",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-CITY-Santos": "Santos",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-LOCATION-South-Atlantic": "South Atlantic",
+    "NE-PERSON-Campos": "Campos",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-50-11-barrels-13-in-14-place-15-of-16-pre-salt-17-oil-18": "50 barrels in place of pre-salt oil",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-offshore-22": "offshore",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-and-26": "and",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-28": "basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-km-35-thick-37": "km thick",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-attention-32": "attention",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-discovery-2": "discovery",
+    "NE-MONEY-50-billion-barrels": "50 billion barrels",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-38": "Cretaceous",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depth-4": "depth",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-11": "basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-prohibitive-13": "prohibitive",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-2-seal-3": "salt seal",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-part-11": "part",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-17-giant-18": "salt giant",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-South-15-Atlantic-16-salt-17-giant-18": "South Atlantic salt giant",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-world-24": "world",
+    "NE-LOCATION-Cretaceous-South-Atlantic": "Cretaceous South Atlantic",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-our-2": "our",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-13": "basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-petrographic-3": "petrographic",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-north-7": "north",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-age-19": "age",
+    "NE-PERSON-Santos": "Santos",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-LOCATION-Sergipe-Basin": "Sergipe Basin",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11": "spectrum",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-evaporite-13-cycles-14": "evaporite cycles",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-SW-44-part-45-of-46-salt-48-giant-49": "SW part of salt giant",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Mg-28-chlorides-30-carnallite-31": "Mg chlorides carnallite",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-full-10": "full",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-26": "soluble",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-highly-25": "highly",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-carbonates-18": "carbonates",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-spanning-16": "spanning",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-2": "deposition",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14": "unconformity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-terminated-8": "terminated",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-dated-22": "dated",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-intra-salt-13": "intra-salt",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-carnallite-17-sylvinite-19-contact-20": "carnallite sylvinite contact",
+    "NE-LOCATION-Sergipe": "Sergipe",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-9-sequence-10": "salt sequence",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13": "has cored",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-entire-8": "entire",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-6": "basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-21": "soluble",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-several-15": "several",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-including-18-Mg-22-K-24-Ca-26-chlorides-27": "including Mg K Ca chlorides",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-wells-16": "wells",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Onshore-1": "Onshore",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-we-3": "we",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6": "petrography",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cores-10": "cores",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4-at-8-ends-10-of-11-salt-13-giant-14": "presence at ends of salt giant",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-6-beds-7": "tachyhydrite beds",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4": "presence",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32": "Ca Mg ratios",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cause-40": "cause",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-24": "high",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43": "deposition",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-de-38": "de",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13": "similar evaporite sequences",
+    "NE-COUNTRY-Thailand": "Thailand",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-34-seawater-35": "Cretaceous seawater",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-similar-15-age-16": "similar age",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-regions-46": "regions",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-42": "tachyhydrite",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-rates-23": "rates",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-oceanic-33-plateaus-34-such-35-Ontong-37-Java-39": "oceanic plateaus such Ontong Java",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-1-Mg-3-ratios-8": "Ca Mg ratios",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13": "raised",
+    "NE-MISC-Aptian": "Aptian",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-16": "activity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-produced-19": "produced",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basalts-18": "basalts",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-22": "high",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-21": "exceptionally",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-hydrothermal-15": "hydrothermal",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-heat-2-loss-3": "heat loss",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14": "may have instrumental",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-conditions-21": "conditions",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-change-17": "change",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10": "activity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-7": "exceptionally",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-8": "high",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-core-24-mantle-26-boundary-27": "core mantle boundary",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-9": "igneous",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-83.07-48-0.15-50-Ma-51": "83.07 0.15 Ma",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-2σ-45": "2σ",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-thermochemical-20": "thermochemical",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3": "activity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-volcanic-2": "volcanic",
+    "NE-CITY-Ridge": "Ridge",
+    "NE-CITY-Rio-Grande": "Rio Grande",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Rise-12-Walvis-14": "Rise Walvis",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-lava-26": "lava",
+    "NE-LOCATION-São-Paulo-Plateau": "São Paulo Plateau",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Evaporite-1-facies-2": "Evaporite facies",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-changes-5-on-6-scales-8": "changes on scales",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-brines-13": "brines",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cyclic-4": "cyclic",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depositing-12": "depositing",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-We-1": "We",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20": "cycles",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depositional-19": "depositional",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5": "effect",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-15-crystals-16": "salt crystals",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-formation-13": "formation",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-increases-7": "increases",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-brine-9-concentration-10": "brine concentration",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-multiple-18": "multiple",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-inflow-12-rift-26-basins-27": "inflow rift basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-existent-32-brine-33-lake-34": "existent brine lake",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-increased-11": "increased",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Flooding-1": "Flooding",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-9": "unconformity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-We-1-results-2": "We results",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5": "can applied",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-10-sequence-11": "salt sequence",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Campos-14-basins-17": "Campos basins",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23": "activity",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-sources-26": "sources",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-20": "igneous",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-calcium-28": "calcium",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-additional-25": "additional",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-uncored-9": "uncored",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-essentially-8": "essentially",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-2-excess-3": "Ca excess",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11": "may have increased by serpentinization",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-still-8": "still",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-hyperextended-16": "hyperextended",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-lithospheric-13": "lithospheric",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-mantle-14": "mantle",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-percolation-20": "percolation",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-crust-17": "crust",
+    "0ad0337a-c203-4926-b4bf-4389950fa263-further-9": "further"
+  },
+  "graph": [
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-production-4",
+      "relation": "has drawn attention to",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-production-4",
+      "relation": "has drawn worldwide attention to",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "NE-LOCATION-South-Atlantic"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-50-11-barrels-13-in-14-place-15-of-16-pre-salt-17-oil-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-offshore-22"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-and-26"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-28",
+      "relation": "has",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-km-35-thick-37"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-production-4",
+      "relation": "has drawn worldwide",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-attention-32"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-discovery-2",
+      "relation": "has drawn attention to",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-production-4",
+      "relation": "has drawn",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-attention-32"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is of",
+      "object_id": "NE-MONEY-50-billion-barrels"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-discovery-2",
+      "relation": "has drawn worldwide attention to",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40"
+    },
+    {
+      "subject_id": "NE-MONEY-50-billion-barrels",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-38"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-depth-4",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-depth-4",
+      "relation": "make",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-prohibitive-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-depth-4",
+      "relation": "However make",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-prohibitive-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-2-seal-3",
+      "relation": "forms",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-part-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-part-11",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-17-giant-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-2-seal-3",
+      "relation": "forms now",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-part-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-part-11",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-South-15-Atlantic-16-salt-17-giant-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-17-giant-18",
+      "relation": "largest in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-world-24"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-17-giant-18",
+      "relation": "is",
+      "object_id": "NE-LOCATION-Cretaceous-South-Atlantic"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "is concentrated",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrographic-3"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "is concentrated",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-north-7"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "nevertheless discuss",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-age-19"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "north of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-13",
+      "relation": "of",
+      "object_id": "NE-PERSON-Santos"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-our-2",
+      "relation": "discuss",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-age-19"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is to",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-LOCATION-Sergipe-Basin",
+      "relation": "displays",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-evaporite-13-cycles-14"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-SW-44-part-45-of-46-salt-48-giant-49"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Mg-28-chlorides-30-carnallite-31"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-full-10"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-26"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-highly-25"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-carbonates-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-spanning-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-2",
+      "relation": "was terminated by",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-2",
+      "relation": "was",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-terminated-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-terminated-8",
+      "relation": "by",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-dated-22"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-intra-salt-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-carnallite-17-sylvinite-19-contact-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-terminated-8",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Sergipe"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-9-sequence-10",
+      "relation": "has",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-9-sequence-10",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-entire-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Sergipe"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basins-6"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-21"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-several-15"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-including-18-Mg-22-K-24-Ca-26-chlorides-27"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-wells-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Onshore-1"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-we-3",
+      "relation": "Here analyze",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cores-10"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-we-3",
+      "relation": "analyze",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Sergipe"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Sergipe"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-we-3",
+      "relation": "prove",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4-at-8-ends-10-of-11-salt-13-giant-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4-at-8-ends-10-of-11-salt-13-giant-14",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-6-beds-7"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32",
+      "relation": "was",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cause-40"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-high-24"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32",
+      "relation": "was de cause for",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cause-40",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-de-38"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Thailand"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32",
+      "relation": "was cause for",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-34-seawater-35"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4",
+      "relation": "is with",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Thailand"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-similar-15-age-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-regions-46"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-42"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-rates-23",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-oceanic-33-plateaus-34-such-35-Ontong-37-Java-39"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-1-Mg-3-ratios-8",
+      "relation": "were",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-rates-23",
+      "relation": "is in",
+      "object_id": "NE-MISC-Aptian"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-1-Mg-3-ratios-8",
+      "relation": "were raised by",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-produced-19"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "by",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-basalts-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-rates-23"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-high-22"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-21"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-16",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-hydrothermal-15"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-heat-2-loss-3",
+      "relation": "may",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-conditions-21"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-change-17"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-heat-2-loss-3",
+      "relation": "caused by",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-7"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-high-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-core-24-mantle-26-boundary-27"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-9"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-83.07-48-0.15-50-Ma-51",
+      "relation": "to Ma is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-2σ-45"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-thermochemical-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-South-Atlantic"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-volcanic-2"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3",
+      "relation": "formed",
+      "object_id": "NE-CITY-Ridge"
+    },
+    {
+      "subject_id": "NE-CITY-Ridge",
+      "relation": "of",
+      "object_id": "NE-CITY-Rio-Grande"
+    },
+    {
+      "subject_id": "NE-CITY-Ridge",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Rise-12-Walvis-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-lava-26",
+      "relation": "flows on",
+      "object_id": "NE-LOCATION-São-Paulo-Plateau"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3",
+      "relation": "of",
+      "object_id": "NE-MISC-Aptian"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Evaporite-1-facies-2",
+      "relation": "reflect",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-changes-5-on-6-scales-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Evaporite-1-facies-2",
+      "relation": "concentrating",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-brines-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-changes-5-on-6-scales-8",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cyclic-4"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-brines-13",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-depositing-12"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-We-1",
+      "relation": "analyze effect throughout",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-depositional-19"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-We-1",
+      "relation": "therefore analyze",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-15-crystals-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-We-1",
+      "relation": "therefore analyze effect throughout",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-We-1",
+      "relation": "analyze",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-formation-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-increases-7",
+      "relation": "is in",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-brine-9-concentration-10"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-increases-7"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-multiple-18"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-brine-9-concentration-10"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-inflow-12-rift-26-basins-27",
+      "relation": "enlarged",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-existent-32-brine-33-lake-34"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-inflow-12-rift-26-basins-27",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-increased-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Flooding-1",
+      "relation": "created",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-9"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-We-1-results-2",
+      "relation": "can",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-salt-10-sequence-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Campos-14-basins-17"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23",
+      "relation": "provided",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-sources-26"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-sources-26",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-calcium-28"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23",
+      "relation": "additional sources of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-calcium-28"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-sources-26",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-additional-25"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23",
+      "relation": "sources of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-calcium-28"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-uncored-9"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-essentially-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-2-excess-3",
+      "relation": "may",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-still-8"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-hyperextended-16"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "is",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-lithospheric-13"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "of",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-mantle-14"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-percolation-20"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-crust-17"
+    },
+    {
+      "subject_id": "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11",
+      "relation": "at",
+      "object_id": "0ad0337a-c203-4926-b4bf-4389950fa263-further-9"
+    }
+  ],
+  "links": {
+    "0ad0337a-c203-4926-b4bf-4389950fa263-production-4": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-39-seal-40": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-CITY-Santos": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-LOCATION-South-Atlantic": [],
+    "NE-PERSON-Campos": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-50-11-barrels-13-in-14-place-15-of-16-pre-salt-17-oil-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-offshore-22": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-and-26": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-28": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-km-35-thick-37": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-attention-32": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-discovery-2": [],
+    "NE-MONEY-50-billion-barrels": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-38": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depth-4": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-prohibitive-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-2-seal-3": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-part-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-17-giant-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-South-15-Atlantic-16-salt-17-giant-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-world-24": [],
+    "NE-LOCATION-Cretaceous-South-Atlantic": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-our-2": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-petrographic-3": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-north-7": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-age-19": [],
+    "NE-PERSON-Santos": [],
+    "NE-LOCATION-Basin": [],
+    "NE-LOCATION-Sergipe-Basin": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-spectrum-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-evaporite-13-cycles-14": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-SW-44-part-45-of-46-salt-48-giant-49": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Mg-28-chlorides-30-carnallite-31": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-full-10": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-26": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-21"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-highly-25": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-carbonates-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-spanning-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-2": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-9"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-terminated-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-dated-22": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-intra-salt-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-carnallite-17-sylvinite-19-contact-20": [],
+    "NE-LOCATION-Sergipe": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-9-sequence-10": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-has-11-cored-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-entire-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basins-6": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-21": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-soluble-26"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-several-15": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-including-18-Mg-22-K-24-Ca-26-chlorides-27": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-wells-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Onshore-1": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-we-3": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-We-1"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-petrography-6": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cores-10": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4-at-8-ends-10-of-11-salt-13-giant-14": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-6-beds-7": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-42"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-presence-4": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-1-Mg-3-ratios-8"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cause-40": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-24": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-deposition-43": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-de-38": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-similar-11-evaporite-12-sequences-13": [],
+    "NE-COUNTRY-Thailand": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-34-seawater-35": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-similar-15-age-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-regions-46": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-42": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-tachyhydrite-6-beds-7"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-rates-23": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-oceanic-33-plateaus-34-such-35-Ontong-37-Java-39": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-1-Mg-3-ratios-8": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-25-Mg-27-ratios-32"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-raised-13": [],
+    "NE-MISC-Aptian": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-produced-19": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-basalts-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-22": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-21": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-hydrothermal-15": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-heat-2-loss-3": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-may-11-have-12-instrumental-14": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-conditions-21": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-change-17": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-10": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-exceptionally-7": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-high-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-core-24-mantle-26-boundary-27": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-9": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-20"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-83.07-48-0.15-50-Ma-51": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-2σ-45": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-thermochemical-20": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-3": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-volcanic-2": [],
+    "NE-CITY-Ridge": [],
+    "NE-CITY-Rio-Grande": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Rise-12-Walvis-14": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-lava-26": [],
+    "NE-LOCATION-São-Paulo-Plateau": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Evaporite-1-facies-2": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-changes-5-on-6-scales-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-brines-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cyclic-4": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depositing-12": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-We-1": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-we-3"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-cycles-20": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-depositional-19": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-effect-5": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-15-crystals-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-formation-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-increases-7": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-brine-9-concentration-10": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-multiple-18": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-inflow-12-rift-26-basins-27": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-existent-32-brine-33-lake-34": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-increased-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Flooding-1": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-9": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-unconformity-14"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-We-1-results-2": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-can-3-applied-5": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-salt-10-sequence-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Campos-14-basins-17": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-activity-23": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-sources-26": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-20": [
+      "0ad0337a-c203-4926-b4bf-4389950fa263-igneous-9"
+    ],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-calcium-28": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-additional-25": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-uncored-9": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-essentially-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-Ca-2-excess-3": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-may-4-have-5-increased-7-by-10-serpentinization-11": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-still-8": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-hyperextended-16": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-lithospheric-13": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-mantle-14": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-percolation-20": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-crust-17": [],
+    "0ad0337a-c203-4926-b4bf-4389950fa263-further-9": []
+  }
+}

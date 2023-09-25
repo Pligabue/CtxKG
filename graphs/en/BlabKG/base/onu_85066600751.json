@@ -1,0 +1,574 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85066600751.txt",
+  "entities": {
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3": "Offshore oil production",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-employment-6-of-7-FPSOs-8": "employment of FPSOs",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-unit-18": "unit",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21": "challenge",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-well-24": "well",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-volumes-25": "volumes",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-increasing-23": "increasing",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-number-12": "number",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5": "activity development",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-8-fields-9": "oil fields",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-natural-3": "natural",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-attempts-19": "attempts",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-are-24-tested-26": "are tested",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-several-18": "several",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-need-2": "need",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8": "use",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-larger-10": "larger",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-tankers-13": "tankers",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-alternatives-5": "alternatives",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-work-2": "work",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8": "analysis",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-water-20": "water",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Oil-12-Loading-13-Terminal-14": "Oil Loading Terminal",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-deep-19": "deep",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-11": "innovative",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-numerical-5": "numerical",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-preliminary-4": "preliminary",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11": "experience",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-18": "offloading",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-practical-10": "practical",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-14": "OLT",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-field-3-data-4": "field data",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7": "studies",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-metocean-6": "metocean",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-extensive-9": "extensive",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-transfer-6": "transfer",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-lines-24": "lines",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-submerged-21": "submerged",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-23": "offloading",
+    "NE-TITLE-tanker": "tanker",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-hose-11-string-12": "hose string",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conventional-2": "conventional",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-floating-10": "floating",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-7": "oil",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-CALM-22": "CALM",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24": "motions",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-cornerstone-2": "cornerstone",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-buoy-10-application-11": "buoy application",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-subsurface-9": "subsurface",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-concept-6": "OLT concept",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7": "loads",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16": "decrease",
+    "NE-MISC-OOLs": "OOLs",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10": "fatigue efforts",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3": "result",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-paper-2": "paper",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7": "conception",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-pre-salt-12": "pre-salt",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-area-13": "area",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offshore-11": "offshore",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-15": "results",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-related-16": "related",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-specific-6": "OLT specific",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-2": "results",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-8": "solution",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-feasible-7": "feasible",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-technically-6": "technically",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27": "investment",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24": "system",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-4-cost-5-impact-6": "solution cost impact",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9": "has assessed",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-installation-21": "installation",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-one-23": "one",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Further-1": "Further",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-construction-19": "construction",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-economies-2": "economies",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6": "use",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-10": "solution",
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-9": "innovative"
+  },
+  "graph": [
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3",
+      "relation": "is with",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-employment-6-of-7-FPSOs-8"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-unit-18",
+      "relation": "faces",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-unit-18",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21",
+      "relation": "at",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-well-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-volumes-25"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-increasing-23"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-number-12",
+      "relation": "increased Following",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5",
+      "relation": "is in",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-8-fields-9"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-natural-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-8-fields-9"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-attempts-19",
+      "relation": "are",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-are-24-tested-26"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-attempts-19",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-several-18"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-need-2",
+      "relation": "alternatives for",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-need-2",
+      "relation": "implement",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-larger-10"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-tankers-13"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-need-2",
+      "relation": "implement",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-alternatives-5"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-work-2",
+      "relation": "presents",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-water-20"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Oil-12-Loading-13-Terminal-14"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-deep-19"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-11"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-numerical-5"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-preliminary-4"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11",
+      "relation": "should allow",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-18"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-practical-10"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-14",
+      "relation": "should allow",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-18"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-14",
+      "relation": "should allow offloading Based",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-field-3-data-4"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11",
+      "relation": "should allow offloading Based",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-field-3-data-4"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7",
+      "relation": "should allow",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-18"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7",
+      "relation": "should allow offloading Based",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-field-3-data-4"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-metocean-6"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-extensive-9"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-transfer-6",
+      "relation": "Buoy through",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-lines-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-lines-24",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-submerged-21"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-lines-24",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-23"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "will receive oil through",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-hose-11-string-12"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conventional-2"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-hose-11-string-12",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-floating-10"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "will receive",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-7"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-CALM-22",
+      "relation": "Buoy",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-cornerstone-2",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-buoy-10-application-11"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-CALM-22",
+      "relation": "Buoy simultaneously",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-buoy-10-application-11",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-subsurface-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "Buoy simultaneously",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "Buoy",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-concept-6",
+      "relation": "cornerstone of is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-buoy-10-application-11"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7",
+      "relation": "Buoy",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7",
+      "relation": "of",
+      "object_id": "NE-MISC-OOLs"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10",
+      "relation": "Buoy also",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7",
+      "relation": "Buoy also",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10",
+      "relation": "Buoy also decrease As",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7",
+      "relation": "Buoy also decrease As",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7",
+      "relation": "Buoy decrease As",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10",
+      "relation": "Buoy decrease As",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10",
+      "relation": "Buoy",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-paper-2",
+      "relation": "evaluates",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-pre-salt-12"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-area-13"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offshore-11"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "paper",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-15"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-15",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-related-16"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-specific-6"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-2",
+      "relation": "appoint to",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-8"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-8",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-feasible-7"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-8",
+      "relation": "at",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-technically-6"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27",
+      "relation": "testing of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-4-cost-5-impact-6",
+      "relation": "has",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-installation-21",
+      "relation": "testing of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24",
+      "relation": "amount to",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-one-23"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9",
+      "relation": "at",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Further-1"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27",
+      "relation": "final testing of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-installation-21",
+      "relation": "final testing of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-construction-19",
+      "relation": "need",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-installation-21",
+      "relation": "need",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-economies-2",
+      "relation": "assessed with",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6",
+      "relation": "of",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-10"
+    },
+    {
+      "subject_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6",
+      "relation": "is",
+      "object_id": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-9"
+    }
+  ],
+  "links": {
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Offshore-1-oil-2-production-3": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-employment-6-of-7-FPSOs-8": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-unit-18": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-challenge-21": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-well-24": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-volumes-25": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-increasing-23": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-number-12": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-activity-4-development-5": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-8-fields-9": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-natural-3": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-attempts-19": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-are-24-tested-26": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-several-18": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-need-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8": [
+      "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6"
+    ],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-larger-10": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-tankers-13": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-alternatives-5": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-work-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-analysis-8": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-water-20": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Oil-12-Loading-13-Terminal-14": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-deep-19": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-11": [
+      "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-9"
+    ],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-numerical-5": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-preliminary-4": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-experience-11": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-18": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-practical-10": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-14": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-field-3-data-4": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-metocean-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-extensive-9": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-transfer-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-lines-24": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-submerged-21": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offloading-23": [],
+    "NE-TITLE-tanker": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-hose-11-string-12": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conventional-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-floating-10": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-oil-7": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-CALM-22": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-motions-24": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-cornerstone-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-buoy-10-application-11": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-subsurface-9": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-concept-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-loads-7": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-decrease-16": [],
+    "NE-MISC-OOLs": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-fatigue-9-efforts-10": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-result-3": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-paper-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-conception-7": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-pre-salt-12": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-area-13": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-offshore-11": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-15": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-related-16": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-OLT-5-specific-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-results-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-8": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-feasible-7": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-technically-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-investment-27": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-system-24": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-4-cost-5-impact-6": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-installation-21": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-one-23": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-Further-1": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-construction-19": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-economies-2": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-6": [
+      "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-use-8"
+    ],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-solution-10": [],
+    "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-9": [
+      "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-innovative-11"
+    ]
+  }
+}

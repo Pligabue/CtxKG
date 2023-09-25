@@ -1,0 +1,273 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84894470550.txt",
+  "entities": {
+    "97494f1d-5471-498f-9894-b0c7321535c4-paper-2": "paper",
+    "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8": "production management",
+    "97494f1d-5471-498f-9894-b0c7321535c4-inclusion-15": "inclusion",
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-18": "national",
+    "97494f1d-5471-498f-9894-b0c7321535c4-fleet-19-renewal-20-program-21": "fleet renewal program",
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-11": "shipyards",
+    "97494f1d-5471-498f-9894-b0c7321535c4-domestic-10": "domestic",
+    "97494f1d-5471-498f-9894-b0c7321535c4-domestic-5-production-6": "domestic production",
+    "97494f1d-5471-498f-9894-b0c7321535c4-growth-17": "growth",
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-20": "national",
+    "97494f1d-5471-498f-9894-b0c7321535c4-sustainable-16": "sustainable",
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-21-industry-22": "shipbuilding industry",
+    "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6": "power generation company",
+    "NE-DATE-2008": "2008",
+    "97494f1d-5471-498f-9894-b0c7321535c4-fleet-18": "fleet",
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-3": "national",
+    "97494f1d-5471-498f-9894-b0c7321535c4-support-21": "support",
+    "97494f1d-5471-498f-9894-b0c7321535c4-largest-2": "largest",
+    "97494f1d-5471-498f-9894-b0c7321535c4-program-12": "program",
+    "NE-TITLE-marine": "marine",
+    "97494f1d-5471-498f-9894-b0c7321535c4-program-2": "program",
+    "97494f1d-5471-498f-9894-b0c7321535c4-construction-5": "construction",
+    "97494f1d-5471-498f-9894-b0c7321535c4-146-7-offshore-8-support-9-vessels-10": "146 offshore support vessels",
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13": "shipyards",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "97494f1d-5471-498f-9894-b0c7321535c4-146-7-support-9-vessels-10": "146 support vessels",
+    "97494f1d-5471-498f-9894-b0c7321535c4-government-6": "government",
+    "97494f1d-5471-498f-9894-b0c7321535c4-revitalization-9": "revitalization",
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-13-industry-14": "shipbuilding industry",
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30": "shipbuilding",
+    "97494f1d-5471-498f-9894-b0c7321535c4-content-34": "content",
+    "97494f1d-5471-498f-9894-b0c7321535c4-its-36-production-37": "its production",
+    "97494f1d-5471-498f-9894-b0c7321535c4-local-33": "local",
+    "97494f1d-5471-498f-9894-b0c7321535c4-the-4": "the",
+    "97494f1d-5471-498f-9894-b0c7321535c4-this-2": "this",
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-12": "national"
+  },
+  "graph": [
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-paper-2",
+      "relation": "report",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-paper-2",
+      "relation": "report production management with",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-inclusion-15"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-inclusion-15",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-national-18"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-inclusion-15",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-fleet-19-renewal-20-program-21"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-11"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-domestic-10"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-domestic-5-production-6",
+      "relation": "promote",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-growth-17"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-growth-17",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-national-20"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-growth-17",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-sustainable-16"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-growth-17",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-21-industry-22"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6",
+      "relation": "began program in",
+      "object_id": "NE-DATE-2008"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6",
+      "relation": "renew",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-fleet-18"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-national-3"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-fleet-18",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-support-21"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-largest-2"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6",
+      "relation": "began",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-program-12"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-fleet-18",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-program-2",
+      "relation": "included",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-146-7-offshore-8-support-9-vessels-10"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-146-7-offshore-8-support-9-vessels-10",
+      "relation": "is in",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-146-7-support-9-vessels-10"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6",
+      "relation": "promoted",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-revitalization-9"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-revitalization-9",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-13-industry-14"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30",
+      "relation": "local content in",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30",
+      "relation": "content in",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30",
+      "relation": "have",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-content-34"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-content-34",
+      "relation": "is in",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-its-36-production-37"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-content-34",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-local-33"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30",
+      "relation": "have",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-content-34"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6",
+      "relation": "of",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-the-4"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-government-6",
+      "relation": "promoted revitalization With",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-this-2"
+    },
+    {
+      "subject_id": "97494f1d-5471-498f-9894-b0c7321535c4-revitalization-9",
+      "relation": "is",
+      "object_id": "97494f1d-5471-498f-9894-b0c7321535c4-national-12"
+    }
+  ],
+  "links": {
+    "97494f1d-5471-498f-9894-b0c7321535c4-paper-2": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-inclusion-15": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-18": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-fleet-19-renewal-20-program-21": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-11": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13"
+    ],
+    "97494f1d-5471-498f-9894-b0c7321535c4-domestic-10": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-domestic-5-production-6": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-growth-17": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-20": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-sustainable-16": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-21-industry-22": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-13-industry-14"
+    ],
+    "97494f1d-5471-498f-9894-b0c7321535c4-power-4-generation-5-company-6": [],
+    "NE-DATE-2008": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-fleet-18": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-3": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-support-21": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-largest-2": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-program-12": [],
+    "NE-TITLE-marine": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-program-2": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-construction-5": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-146-7-offshore-8-support-9-vessels-10": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-146-7-support-9-vessels-10"
+    ],
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-13": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-shipyards-11"
+    ],
+    "NE-NATIONALITY-Brazilian": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-146-7-support-9-vessels-10": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-146-7-offshore-8-support-9-vessels-10"
+    ],
+    "97494f1d-5471-498f-9894-b0c7321535c4-government-6": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-revitalization-9": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-13-industry-14": [
+      "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-21-industry-22"
+    ],
+    "97494f1d-5471-498f-9894-b0c7321535c4-shipbuilding-30": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-content-34": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-its-36-production-37": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-local-33": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-the-4": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-this-2": [],
+    "97494f1d-5471-498f-9894-b0c7321535c4-national-12": []
+  }
+}

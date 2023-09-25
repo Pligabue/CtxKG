@@ -1,0 +1,1 @@
+All graphs from documents in Portuguese go here.

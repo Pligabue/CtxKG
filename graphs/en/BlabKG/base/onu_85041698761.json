@@ -1,0 +1,356 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85041698761.txt",
+  "entities": {
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Extreme-1-weather-2-events-3": "Extreme weather events",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-century-13": "century",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-21st-12": "21st",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-likely-5": "likely",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-frequent-9": "frequent",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-more-8": "more",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-capacity-4": "capacity",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacts-10": "impacts",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-6": "hailstorm",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-wind-8-gusts-9-of-10-over-11-100-12-km-13": "wind gusts of over 100 km",
+    "NE-DATE-June-2016": "June 2016",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21": "mangrove dieback",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-unprecedented-19": "unprecedented",
+    "NE-LOCATION-Eastern": "Eastern",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-satellite-22-imagery-23-sampling-26": "satellite imagery sampling",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29": "changes",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-forest-31-structure-32": "forest structure",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20": "we",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-scale-4": "scale",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impact-6": "impact",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-control-34": "control",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-37": "areas",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-40": "hailstorm",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-13": "mangroves",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Satellite-1-imagery-2": "Satellite imagery",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-4-dieback-5": "mangrove dieback",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9": "areas",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-others-16": "others",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-recovery-13": "recovery",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacted-8": "impacted",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-initial-12": "initial",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-degrade-19": "degrade",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-to-18": "to",
+    "NE-DURATION-Fifteen-months": "Fifteen months",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-El-2-Niño-3-years-4": "El Niño years",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12": "drought conditions",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mild-10": "mild",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-losses-2": "losses",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimated-24": "estimated",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-study-5-site-6-from-7-typical-8-mangrove-9-ecosystem-10-services-11": "study site from typical mangrove ecosystem services",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Economic-1": "Economic",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-12": "mangroves",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-stress-45": "stress",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30": "estimates",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-chronic-44": "chronic",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystem-32-values-33": "ecosystem values",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-broad-29": "broad",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystems-37": "ecosystems",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-coastal-21-wetlands-22": "coastal wetlands",
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-associated-34": "associated"
+  },
+  "graph": [
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Extreme-1-weather-2-events-3",
+      "relation": "become in",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-century-13"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-century-13",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-21st-12"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Extreme-1-weather-2-events-3",
+      "relation": "are",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-likely-5"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Extreme-1-weather-2-events-3",
+      "relation": "become",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-frequent-9"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-frequent-9",
+      "relation": "at",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-more-8"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-capacity-4",
+      "relation": "detect",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacts-10"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-capacity-4",
+      "relation": "However detect",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacts-10"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-6",
+      "relation": "is with",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-wind-8-gusts-9-of-10-over-11-100-12-km-13"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-6",
+      "relation": "caused mangrove dieback In",
+      "object_id": "NE-DATE-June-2016"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-6",
+      "relation": "caused",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-unprecedented-19"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Eastern"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-satellite-22-imagery-23-sampling-26",
+      "relation": "evaluate",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29",
+      "relation": "of",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-forest-31-structure-32"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20",
+      "relation": "quantify",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-scale-4"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-scale-4",
+      "relation": "of",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impact-6"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29",
+      "relation": "is in",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-control-34"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20",
+      "relation": "impacted",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-37"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20",
+      "relation": "used",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-satellite-22-imagery-23-sampling-26"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20",
+      "relation": "impacted areas after",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-40"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29",
+      "relation": "is in",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-forest-31-structure-32"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-scale-4",
+      "relation": "of",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-13"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29",
+      "relation": "of",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-control-34"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Satellite-1-imagery-2",
+      "relation": "revealed",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-4-dieback-5"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Satellite-1-imagery-2",
+      "relation": "revealed in",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-4-dieback-5"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9",
+      "relation": "show recovery",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-others-16"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9",
+      "relation": "show",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-recovery-13"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacted-8"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-recovery-13",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-initial-12"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-others-16",
+      "relation": "continued",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-degrade-19"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-degrade-19",
+      "relation": "mark",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-to-18"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9",
+      "relation": "show recovery after",
+      "object_id": "NE-DURATION-Fifteen-months"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-El-2-Niño-3-years-4",
+      "relation": "created",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mild-10"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Eastern"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-losses-2",
+      "relation": "are",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimated-24"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-losses-2",
+      "relation": "is in",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-study-5-site-6-from-7-typical-8-mangrove-9-ecosystem-10-services-11"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-losses-2",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Economic-1"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-12",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-stress-45",
+      "relation": "provide",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-stress-45",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-chronic-44"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30",
+      "relation": "of",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystem-32-values-33"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-broad-29"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30",
+      "relation": "at",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystems-37"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-coastal-21-wetlands-22",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30",
+      "relation": "is",
+      "object_id": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-associated-34"
+    }
+  ],
+  "links": {
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Extreme-1-weather-2-events-3": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-century-13": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-21st-12": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-likely-5": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-frequent-9": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-more-8": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-capacity-4": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacts-10": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-6": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-wind-8-gusts-9-of-10-over-11-100-12-km-13": [],
+    "NE-DATE-June-2016": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-20-dieback-21": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-unprecedented-19": [],
+    "NE-LOCATION-Eastern": [],
+    "NE-COUNTRY-Brazil": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-satellite-22-imagery-23-sampling-26": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-changes-29": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-forest-31-structure-32": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-we-20": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-scale-4": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impact-6": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-control-34": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-37": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-hailstorm-40": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-13": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Satellite-1-imagery-2": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangrove-4-dieback-5": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-areas-9": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-others-16": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-recovery-13": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-impacted-8": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-initial-12": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-degrade-19": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-to-18": [],
+    "NE-DURATION-Fifteen-months": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-El-2-Niño-3-years-4": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-drought-11-conditions-12": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mild-10": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-losses-2": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimated-24": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-study-5-site-6-from-7-typical-8-mangrove-9-ecosystem-10-services-11": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-Economic-1": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-mangroves-12": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-stress-45": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-estimates-30": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-chronic-44": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystem-32-values-33": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-broad-29": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-ecosystems-37": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-coastal-21-wetlands-22": [],
+    "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-associated-34": []
+  }
+}

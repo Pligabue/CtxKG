@@ -1,0 +1,2109 @@
+{
+  "onu_10228776.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "8ccf6711-4359-43f1-af56-bff91be221df-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8ccf6711-4359-43f1-af56-bff91be221df-structural-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_11244281653.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "573197e7-feeb-4bf7-8fc7-347e79223db7-floating-9"
+  },
+  "onu_14467639.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-offshore-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_14928592.json": {},
+  "onu_1642522078.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-round-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_16964104.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-producing-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_17044389842.json": {},
+  "onu_17144436283.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "98101f72-00fb-4f23-a31d-93a1ed4242cc-paper-2"
+  },
+  "onu_17344364742.json": {
+    "NE-SET-Annual": "NE-SET-annual",
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "9904aa2e-63e4-415c-ba81-2791b35da710-oil-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_1842589247.json": {},
+  "onu_18944382016.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "fb88d818-da09-4532-84e1-3afecd911792-reservoir-26",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "fb88d818-da09-4532-84e1-3afecd911792-proper-8"
+  },
+  "onu_19586421.json": {},
+  "onu_20736039.json": {},
+  "onu_21575939.json": {},
+  "onu_2342418572.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-horizontal-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_2342623297.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-waters-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-oil-10"
+  },
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "738463bf-612b-462d-abc4-dde0497711de-floating-12"
+  },
+  "onu_24044508291.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24050293.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-advantage-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "48013ad7-c8d2-4d31-94ea-36fc2cde40cb-twin-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_242694501.json": {},
+  "onu_24662461.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "a33dbe39-f837-43e6-a660-479c5769090b-paper-2"
+  },
+  "onu_24769642.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24867907.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8164277f-ad39-46b3-a9d9-da61416c08af-computational-3"
+  },
+  "onu_25054779.json": {},
+  "onu_25144481375.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-specific-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-however-3"
+  },
+  "onu_25444510078.json": {},
+  "onu_26244445255.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_26850121.json": {},
+  "onu_27744595461.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "aaaef65d-ece5-45c4-84f7-99c65719921a-specific-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "aaaef65d-ece5-45c4-84f7-99c65719921a-cooperative-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "aaaef65d-ece5-45c4-84f7-99c65719921a-analyses-3"
+  },
+  "onu_30311937.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "007fd580-5ecb-4536-a243-38b5370a241f-Subsequently-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "007fd580-5ecb-4536-a243-38b5370a241f-paper-2"
+  },
+  "onu_30706349.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-conventional-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23"
+  },
+  "onu_31206995.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "860bf7ae-3012-4871-96d2-1e758b1a6d53-conceptual-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "860bf7ae-3012-4871-96d2-1e758b1a6d53-technological-19"
+  },
+  "onu_31375269.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-have-5-proposed-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-Additionally-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-floating-24"
+  },
+  "onu_32444448833.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-demand-29": "5988fd69-592d-47e1-9aa6-df9d282706cb-demand-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33293728.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-hanging-12"
+  },
+  "onu_33295123.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-continental-26",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-reliable-10"
+  },
+  "onu_33295407.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2"
+  },
+  "onu_33644613229.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-few-5": "20e89570-d632-400e-b304-ad0e644f1a32-few-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "20e89570-d632-400e-b304-ad0e644f1a32-steel-35",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "20e89570-d632-400e-b304-ad0e644f1a32-upstream-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-demand-29": "20e89570-d632-400e-b304-ad0e644f1a32-gas-60-demand-61",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33645422493.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f8ba7747-a203-4391-9a8f-d06b3caf167c-floating-18"
+  },
+  "onu_33646023976.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Visual-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-15"
+  },
+  "onu_33646035823.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-pipeline-5"
+  },
+  "onu_33646043488.json": {},
+  "onu_33646056106.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-TITLE-marine",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2"
+  },
+  "onu_33646056405.json": {},
+  "onu_33646073069.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-paper-2"
+  },
+  "onu_33646452775.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3e889ffb-ffea-4a6d-ada5-81e76867be02-floating-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745228406.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-numerical-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745354316.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f284c30b-4d86-45b4-b48d-6a65d84ee416-spatial-22"
+  },
+  "onu_33745713604.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "ce8af812-48d1-4148-a2b4-62388fc22f37-paper-2"
+  },
+  "onu_33746039693.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6a2b057a-9342-42a7-9a7b-03480bcc5bd7-optimal-15"
+  },
+  "onu_33748460104.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33749265496.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-12-plant-13": "0f252e1f-8e80-468b-9631-d74e26200948-gas-23-processing-25-plant-26"
+  },
+  "onu_33751312200.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "0c8feb86-ed53-4518-8929-20e43783eecc-studies-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "0c8feb86-ed53-4518-8929-20e43783eecc-have-6-used-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "0c8feb86-ed53-4518-8929-20e43783eecc-context-3"
+  },
+  "onu_33751315219.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "0709a62c-a215-4068-a74c-360cc8510fa9-have-26-observed-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-works-4": "0709a62c-a215-4068-a74c-360cc8510fa9-work-5"
+  },
+  "onu_34250708084.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e644eed9-934d-4395-bd32-6726e3dee36b-offshore-2"
+  },
+  "onu_344309110.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "8fb8097e-c81f-447a-a4d8-43a43dba6438-surface-22-value-25",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8fb8097e-c81f-447a-a4d8-43a43dba6438-synchronized-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "8fb8097e-c81f-447a-a4d8-43a43dba6438-paper-2"
+  },
+  "onu_344741441.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1de3c47d-c84d-4a38-b042-489e5b30b72e-stationary-38",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "1de3c47d-c84d-4a38-b042-489e5b30b72e-studies-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "1de3c47d-c84d-4a38-b042-489e5b30b72e-have-3-developed-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "NE-DATE-recently",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "1de3c47d-c84d-4a38-b042-489e5b30b72e-paper-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1de3c47d-c84d-4a38-b042-489e5b30b72e-analytical-17"
+  },
+  "onu_345171568.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fluid-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Therefore-1"
+  },
+  "onu_34531605.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-hydraulic-9"
+  },
+  "onu_34547893063.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "be5ea7f2-eaf1-4194-82d5-01264cdce152-successfully-23"
+  },
+  "onu_345603133.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "83f8226e-eaff-474f-8c4b-070d79533224-numerical-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_345603650.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "03f9bd13-9d39-41a8-8125-8924075f6e7b-studies-4"
+  },
+  "onu_34686357.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_34984147.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "062d31d3-c60f-4bb0-b8f7-486f7164d436-floating-9"
+  },
+  "onu_35573581.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "919869c7-27ec-44eb-bc21-ebd2300438cf-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "919869c7-27ec-44eb-bc21-ebd2300438cf-remote-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "919869c7-27ec-44eb-bc21-ebd2300438cf-have-4-utilized-6"
+  },
+  "onu_36768397.json": {},
+  "onu_37304895.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "6bacd7ac-6903-41a6-a534-aa3361728c0d-technical-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "6bacd7ac-6903-41a6-a534-aa3361728c0d-terms-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6bacd7ac-6903-41a6-a534-aa3361728c0d-seismic-46",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "6bacd7ac-6903-41a6-a534-aa3361728c0d-Therefore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6bacd7ac-6903-41a6-a534-aa3361728c0d-paper-2"
+  },
+  "onu_40349089123.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "50180d4d-99ad-4416-b364-8467ab844fae-offshore-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "50180d4d-99ad-4416-b364-8467ab844fae-technical-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "50180d4d-99ad-4416-b364-8467ab844fae-paper-2"
+  },
+  "onu_4043182709.json": {},
+  "onu_41849140524.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "d5ee487c-3b46-46fc-a521-837aed5b9969-observed-80",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_47849110025.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "e25e3ae6-98b4-4157-aebf-c9eed09a289f-have-5-produced-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "e25e3ae6-98b4-4157-aebf-c9eed09a289f-Meanwhile-1"
+  },
+  "onu_50249174640.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-demand-29": "8fde804f-0525-4f0e-8503-d2317096c0a8-demand-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "8fde804f-0525-4f0e-8503-d2317096c0a8-expected-11"
+  },
+  "onu_50249181836.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "cfd50fe9-a146-48f2-a71e-97b5100717b7-oil-27",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "cfd50fe9-a146-48f2-a71e-97b5100717b7-crude-26"
+  },
+  "onu_51649098845.json": {},
+  "onu_52049093008.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "83994fff-4d3b-468e-9bed-d467b6149c25-corporate-14"
+  },
+  "onu_52249116622.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "2954cb55-b229-4b18-865f-d99a89fef52a-energy-35",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "2954cb55-b229-4b18-865f-d99a89fef52a-technical-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-23-supply-24": "2954cb55-b229-4b18-865f-d99a89fef52a-supply-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2954cb55-b229-4b18-865f-d99a89fef52a-flexible-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52349109473.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "69eb9371-1b92-4f24-801d-8748c6728bc5-floating-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52849106027.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_57649139087.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_58849128774.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-conventional-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_59649088185.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "b1824a3a-1334-43e1-9b59-e99495d47c65-plant-7"
+  },
+  "onu_68649086917.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_68649124056.json": {},
+  "onu_68649126570.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_70449127482.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-customized-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-benefits-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-project-27"
+  },
+  "onu_70449650835.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-increasing-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-technical-43",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_72449143175.json": {},
+  "onu_73349086227.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "00339ccb-f0dd-47c7-aecb-ae379e27d109-floating-14"
+  },
+  "onu_77449138097.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_77955388680.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "6853be13-f2b8-4273-b0f4-b628a386d69b-Therefore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6853be13-f2b8-4273-b0f4-b628a386d69b-bow-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6853be13-f2b8-4273-b0f4-b628a386d69b-offshore-52",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6853be13-f2b8-4273-b0f4-b628a386d69b-paper-2"
+  },
+  "onu_77955408815.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "3fbbdd88-8638-4b37-a689-c218c2b9f313-practical-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "3fbbdd88-8638-4b37-a689-c218c2b9f313-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3fbbdd88-8638-4b37-a689-c218c2b9f313-offshore-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "3fbbdd88-8638-4b37-a689-c218c2b9f313-studies-5-performed-6"
+  },
+  "onu_77956543361.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "c4702ddf-05e9-4145-8bd7-0d8312bab9e6-potential-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "c4702ddf-05e9-4145-8bd7-0d8312bab9e6-reservoirs-16"
+  },
+  "onu_77956858304.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "18d1470d-7707-4546-87ab-5615cd0aeaf8-offshore-40"
+  },
+  "onu_77958012173.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "82dfb525-fe3c-44b8-a079-56355943e3c5-therefore-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "82dfb525-fe3c-44b8-a079-56355943e3c5-has-12-performed-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78049320828.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "b0408dc9-8c82-423c-98ff-ebbb41b36282-area-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b0408dc9-8c82-423c-98ff-ebbb41b36282-seismic-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78649387727.json": {},
+  "onu_78650855754.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-energy-14-source-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-unwanted-2"
+  },
+  "onu_79952546010.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b40df2ca-cdf7-4284-8597-8f166cac093a-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b40df2ca-cdf7-4284-8597-8f166cac093a-meteorological-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b40df2ca-cdf7-4284-8597-8f166cac093a-atmospheric-23"
+  },
+  "onu_79952620223.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "c65b6b38-5933-4677-bdf7-2b10f3833625-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "c65b6b38-5933-4677-bdf7-2b10f3833625-study-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "c65b6b38-5933-4677-bdf7-2b10f3833625-reservoirs-26"
+  },
+  "onu_79953006622.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6e0ae093-c13e-410d-9aa0-41775ea6f017-experimental-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "6e0ae093-c13e-410d-9aa0-41775ea6f017-study-8"
+  },
+  "onu_79955374293.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-adverse-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-technological-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_79955828033.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "070900c0-3683-4838-8adf-7fc9280ff95b-economic-31",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "070900c0-3683-4838-8adf-7fc9280ff95b-paper-2"
+  },
+  "onu_79959789184.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "2d2c89ac-c79e-412f-8293-e8fdf04c937c-benefit-3"
+  },
+  "onu_80052069671.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "2b16f13d-578f-4b57-afa3-30cdf33f197f-potential-8-risks-9"
+  },
+  "onu_80052571318.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "6c5a99a3-587c-4891-b93a-3283c2d031e2-analysis-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6c5a99a3-587c-4891-b93a-3283c2d031e2-paper-2"
+  },
+  "onu_80052582062.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "7a7f6f9c-3356-4943-af08-ffb5a792d414-technical-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "7a7f6f9c-3356-4943-af08-ffb5a792d414-successfully-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "7a7f6f9c-3356-4943-af08-ffb5a792d414-possible-6-values-7"
+  },
+  "onu_80052741860.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "79779a95-9f66-41cc-8f88-c4ffb6057f28-floating-19"
+  },
+  "onu_80053430040.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053904380.json": {},
+  "onu_80053909062.json": {},
+  "onu_80053931244.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "9e4d781b-b75d-4d08-a406-e18605539fdf-have-16-invited-18"
+  },
+  "onu_80053961084.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-dynamic-14"
+  },
+  "onu_80054757255.json": {},
+  "onu_81855167522.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "67a11e3d-316d-4504-abb6-d3f419bb7620-relating-14"
+  },
+  "onu_82555187024.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "eb9c758a-7531-4399-b6bc-8350a275ef69-computational-29"
+  },
+  "onu_83155193342.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-meteorological-2"
+  },
+  "onu_84856625676.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Mexico",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f46d89ca-ba74-4b07-984b-f55cacc7eb9d-noticeable-4"
+  },
+  "onu_84856741449.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "6776ee78-01b1-4f8a-8af9-5284efe9468d-technical-22"
+  },
+  "onu_84857305090.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2"
+  },
+  "onu_84857324711.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-Therefore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-permanent-9"
+  },
+  "onu_84857483294.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "b961c7ef-4284-431b-b6b0-8870832647c0-has-11-undertaken-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "b961c7ef-4284-431b-b6b0-8870832647c0-soil-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b961c7ef-4284-431b-b6b0-8870832647c0-numerical-6"
+  },
+  "onu_84861595246.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "NE-ORGANIZATION-Integrated-Operations-Management",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "204509a8-265c-4397-8149-04982bb962db-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "204509a8-265c-4397-8149-04982bb962db-pointing-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "204509a8-265c-4397-8149-04982bb962db-practical-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "204509a8-265c-4397-8149-04982bb962db-have-4-exercised-6"
+  },
+  "onu_84864615590.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-flexible-29",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "0b789bcb-4b6a-4e1e-8498-8f681f20a218-paper-2"
+  },
+  "onu_84864936265.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "5635ba94-7921-4b3b-8f49-dd87f763feb9-have-18-considered-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "5635ba94-7921-4b3b-8f49-dd87f763feb9-therefore-47"
+  },
+  "onu_84865218536.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e955921c-620b-4103-a481-8613fc75bad6-standard-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "e955921c-620b-4103-a481-8613fc75bad6-paper-21"
+  },
+  "onu_84865723570.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-efficient-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2"
+  },
+  "onu_84869199462.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "86788da6-b594-49e1-ac23-94a6a03306a4-giant-26"
+  },
+  "onu_84870604908.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19"
+  },
+  "onu_84877857340.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84878941411.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "358ea47e-b418-4525-b65c-3998ab882728-study-2"
+  },
+  "onu_84879432080.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d22980f2-d1fa-4f87-94aa-ec684269aac1-cold-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "d22980f2-d1fa-4f87-94aa-ec684269aac1-financial-73",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "d22980f2-d1fa-4f87-94aa-ec684269aac1-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879955769.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-technical-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-offshore-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "bd8c4b54-df1d-43f0-9195-6d54c4148a62-therefore-25"
+  },
+  "onu_84880007809.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "d4de0e22-c401-432d-9110-81f5c296679b-increasing-2"
+  },
+  "onu_84883765236.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-electrical-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84883765292.json": {},
+  "onu_84887507211.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-economical-54",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-Floating-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-paper-2"
+  },
+  "onu_84888845935.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "08983aea-212e-4ede-98cd-be137c97ff19-Economical-1"
+  },
+  "onu_84888934569.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888954344.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bede67c1-2219-4ecb-94db-aba0e79b294c-thermal-13"
+  },
+  "onu_84888967977.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "4a2c3fd7-38bd-45be-9b1c-b83fa27f372d-have-25-addressed-28"
+  },
+  "onu_84889840418.json": {},
+  "onu_84891320656.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "1309746e-bd51-453c-8893-8fb38d7af7ab-advantages-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "1309746e-bd51-453c-8893-8fb38d7af7ab-main-2"
+  },
+  "onu_84891344152.json": {
+    "NE-SET-Annual": "NE-SET-annual"
+  },
+  "onu_84892632570.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-human-10"
+  },
+  "onu_84892860778.json": {},
+  "onu_84893052541.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-23-supply-24": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-34",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-circulating-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2"
+  },
+  "onu_84893062958.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-logistical-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893067779.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-23-supply-24": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30"
+  },
+  "onu_84893090004.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "108bb058-270a-4059-b632-02b04115a0a7-Norwegian-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "108bb058-270a-4059-b632-02b04115a0a7-reservoir-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893361208.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "9867dde6-b627-4c95-aa08-5793f95d79f9-paper-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "9867dde6-b627-4c95-aa08-5793f95d79f9-bathymetry-39-data-42",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9867dde6-b627-4c95-aa08-5793f95d79f9-sedimentary-10"
+  },
+  "onu_84893407222.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-Seismic-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-study-6"
+  },
+  "onu_84893805098.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-Studies-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-have-10-made-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-commonly-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-study-2"
+  },
+  "onu_84894453276.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-seismic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-few-5": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-few-16"
+  },
+  "onu_84894470550.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "97494f1d-5471-498f-9894-b0c7321535c4-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "97494f1d-5471-498f-9894-b0c7321535c4-production-7-management-8"
+  },
+  "onu_84896824358.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a674b86c-95d0-4e2a-aca6-37744b347071-conceptual-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "a674b86c-95d0-4e2a-aca6-37744b347071-potential-14-use-15"
+  },
+  "onu_84897376128.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6634b230-b55b-42f5-b6bf-e9764410d504-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897381844.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "607e16a2-24ab-44ad-a4a3-8273a81253f6-plastic-16"
+  },
+  "onu_84897392529.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-demand-29": "21b0b660-404f-436a-867e-af9cbe7f0918-demands-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "21b0b660-404f-436a-867e-af9cbe7f0918-increasing-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "21b0b660-404f-436a-867e-af9cbe7f0918-reservoir-22",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "21b0b660-404f-436a-867e-af9cbe7f0918-specific-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897399429.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-sedimentary-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-have-3-registered-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-also-4"
+  },
+  "onu_84897408330.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-have-4-evaluated-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-specific-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-advantage-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-direct-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-reservoirs-12"
+  },
+  "onu_84897441267.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6386a9ef-0016-45d5-9431-03b779673c2b-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6386a9ef-0016-45d5-9431-03b779673c2b-electric-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "6386a9ef-0016-45d5-9431-03b779673c2b-However-1"
+  },
+  "onu_84897448998.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ebed93b1-9b44-42bf-a267-aebdc3f48887-continuous-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "ebed93b1-9b44-42bf-a267-aebdc3f48887-economic-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9"
+  },
+  "onu_84897449140.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b829cc46-eb44-4769-8923-e94eb353af76-paper-2"
+  },
+  "onu_84897461830.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-technical-8"
+  },
+  "onu_84897465328.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "7e19d608-90b6-4fc3-afea-623202a7f587-view-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "7e19d608-90b6-4fc3-afea-623202a7f587-paper-2"
+  },
+  "onu_84897470967.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "7f6f47ca-cfad-4483-ba7b-011e5564f245-terms-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "7f6f47ca-cfad-4483-ba7b-011e5564f245-main-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "7f6f47ca-cfad-4483-ba7b-011e5564f245-offshore-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84900305359.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5"
+  },
+  "onu_84901784680.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-demand-29": "cd83b05b-1642-49b5-9046-3569fd6386de-demands-18",
+    "NE-COUNTRY-Brazil": "NE-NATIONALITY-Brazilian",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "cd83b05b-1642-49b5-9046-3569fd6386de-technological-15"
+  },
+  "onu_84904394721.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reservoirs-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-reformer-19"
+  },
+  "onu_84905748711.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-paper-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-offshore-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-risks-27"
+  },
+  "onu_84907991224.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84918528762.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "521f5922-1c3e-4c36-9fd5-536f42356eaf-potential-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "521f5922-1c3e-4c36-9fd5-536f42356eaf-organic-6"
+  },
+  "onu_84925638296.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-volcanic-18"
+  },
+  "onu_84930513772.json": {},
+  "onu_84940864746.json": {},
+  "onu_84943289484.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a318701e-6951-43b5-ab6d-2b3deb57fa16-Synthetic-1"
+  },
+  "onu_84943328375.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installing-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-paper-2"
+  },
+  "onu_84943338721.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "83c12324-c60f-4651-9cfb-69111aaba3ef-simultaneous-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "83c12324-c60f-4651-9cfb-69111aaba3ef-carbonate-22-reservoir-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "83c12324-c60f-4651-9cfb-69111aaba3ef-increasing-13"
+  },
+  "onu_84943339436.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5",
+    "NE-SET-Annual": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ongoing-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944574757.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d0d3f522-daa5-46df-9fd9-95491816b5d6-focusing-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "d0d3f522-daa5-46df-9fd9-95491816b5d6-Consequently-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "d0d3f522-daa5-46df-9fd9-95491816b5d6-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944593501.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ddbb976f-3682-4d4d-964c-c8f97d044879-coastal-22"
+  },
+  "onu_84947326315.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "c9348211-c72e-4ea1-9eb9-711dc0c65800-terms-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c9348211-c72e-4ea1-9eb9-711dc0c65800-simulated-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "c9348211-c72e-4ea1-9eb9-711dc0c65800-however-31"
+  },
+  "onu_84947757002.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-paper-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-have-16-taken-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-reference-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-floating-17"
+  },
+  "onu_84949266932.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "42b505ba-f41a-4c4d-afef-28084be680c7-potential-13-sources-14"
+  },
+  "onu_84951918487.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6d96e98c-77ad-4954-b07a-14307ad74b11-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6d96e98c-77ad-4954-b07a-14307ad74b11-appropriate-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "6d96e98c-77ad-4954-b07a-14307ad74b11-specific-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "6d96e98c-77ad-4954-b07a-14307ad74b11-power-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "6d96e98c-77ad-4954-b07a-14307ad74b11-Lastly-1"
+  },
+  "onu_84954454797.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "45dea8c7-5987-4120-9906-0be4e1b2fa35-however-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "45dea8c7-5987-4120-9906-0be4e1b2fa35-coastal-7"
+  },
+  "onu_84955127995.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "04ab6b85-447c-419a-adaf-4533eabeb71e-technological-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "04ab6b85-447c-419a-adaf-4533eabeb71e-coastal-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84958666405.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "0f3d745d-6980-4396-973f-ab7c18b13380-benefits-48",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "0f3d745d-6980-4396-973f-ab7c18b13380-increasing-25",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "0f3d745d-6980-4396-973f-ab7c18b13380-financial-47",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959478227.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-horizontal-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959561430.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-environmental-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84963819657.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-magnetic-9"
+  },
+  "onu_84964700375.json": {},
+  "onu_84974574825.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bd331931-0124-4a50-84bf-199162a52f3f-offshore-15"
+  },
+  "onu_84975761253.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "82c101db-bc8d-45dc-b75d-18d86512befa-studies-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84979574362.json": {},
+  "onu_84983465797.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-example-8": "29e71a86-d6f9-4b04-935d-d2cff0962e21-examples-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "29e71a86-d6f9-4b04-935d-d2cff0962e21-enabling-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84984596158.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-environmental-12"
+  },
+  "onu_84987760544.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-studies-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-mass-8"
+  },
+  "onu_84987762471.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "840af40f-bba4-4cee-94e2-23552f1a02dd-management-22-plan-23"
+  },
+  "onu_84987763922.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-environmental-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-study-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-context-3"
+  },
+  "onu_84990861431.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "668f68ee-8de7-45d9-9784-b0893545fc9d-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "668f68ee-8de7-45d9-9784-b0893545fc9d-environmental-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84990898401.json": {},
+  "onu_84996602559.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f9da6858-73d7-45a6-a4cd-7e3dd9efc0ea-study-2"
+  },
+  "onu_85006339618.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ebc129db-d75f-475f-bc23-246f6cc145ee-coastal-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "NE-TITLE-marine",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "ebc129db-d75f-475f-bc23-246f6cc145ee-legal-40",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85007282651.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "21eb6ecf-d102-40bb-a054-1b519100613e-increasing-5"
+  },
+  "onu_85008198009.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Spatial-1"
+  },
+  "onu_85009177497.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-bathymetry-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-linear-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85009192413.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-29",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1fa51d3a-829d-4c50-9899-89265ff2e400-acoustic-12"
+  },
+  "onu_85009433339.json": {},
+  "onu_85012910163.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85013296221.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "68be832a-27b4-49e7-8b72-dcc340ca62d8-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "68be832a-27b4-49e7-8b72-dcc340ca62d8-simulated-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "68be832a-27b4-49e7-8b72-dcc340ca62d8-flow-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Argentina"
+  },
+  "onu_85013858173.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "9f50d251-7e41-4765-8a72-6be967b48838-bathymetric-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9f50d251-7e41-4765-8a72-6be967b48838-Spatial-1"
+  },
+  "onu_85016298905.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "3a1c0afe-860d-43e4-8160-8731acebad0d-potential-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "3a1c0afe-860d-43e4-8160-8731acebad0d-terrestrial-37",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "3a1c0afe-860d-43e4-8160-8731acebad0d-slope-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "3a1c0afe-860d-43e4-8160-8731acebad0d-plants-17"
+  },
+  "onu_85016958402.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "NE-NATIONALITY-Brazilian",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "caf1ea25-a32b-433b-bb7d-3960560de634-paper-2"
+  },
+  "onu_85017468089.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "08c3852e-194c-4498-b732-46cf26512128-study-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "08c3852e-194c-4498-b732-46cf26512128-reservoir-29",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "08c3852e-194c-4498-b732-46cf26512128-direct-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "08c3852e-194c-4498-b732-46cf26512128-seismic-33",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85020183362.json": {},
+  "onu_85026803842.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "1422e178-cc62-4bf3-acfe-1985781bfe49-reservoir-13-behaviour-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1422e178-cc62-4bf3-acfe-1985781bfe49-variable-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "1422e178-cc62-4bf3-acfe-1985781bfe49-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027233889.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "b47c20ef-5393-406f-b497-6f1838f49422-related-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027401053.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "53d0784c-6881-46a8-8607-8473e2e87675-have-5-proposed-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "53d0784c-6881-46a8-8607-8473e2e87675-order-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "53d0784c-6881-46a8-8607-8473e2e87675-tidal-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028240731.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "acaa2c9d-be80-416b-98b2-8bc5effea785-study-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "acaa2c9d-be80-416b-98b2-8bc5effea785-environmental-31"
+  },
+  "onu_85028278319.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-offshore-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-paper-2"
+  },
+  "onu_85029591872.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b236a4b6-2727-41c8-8cef-67a669027e7b-spatial-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b236a4b6-2727-41c8-8cef-67a669027e7b-spatial-20"
+  },
+  "onu_85030830298.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030842598.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-23-supply-24": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-supply-34-chain-35",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-then-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-paper-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-conceptual-34"
+  },
+  "onu_85031996233.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-nominal-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Soil-8"
+  },
+  "onu_85032863710.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "59d300b8-aa39-45a5-a859-541819eebb68-remote-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85033225585.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2"
+  },
+  "onu_85033604891.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "19e83c8d-6a15-405b-9872-15221efe1cac-observed-4"
+  },
+  "onu_85034042710.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85035340277.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "fadde164-41d0-44e5-aec4-1fa2a5359b66-found-10"
+  },
+  "onu_85037355639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "f2532b6a-23e5-4ee4-b23c-b14a66103885-terms-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "f2532b6a-23e5-4ee4-b23c-b14a66103885-quantitative-2"
+  },
+  "onu_85037590262.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-TITLE-marine",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "89b62d5c-0c1f-4db0-8d6f-319dc39bffde-study-3"
+  },
+  "onu_85039546750.json": {},
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4372788a-b01b-4c08-a40d-5e901fddf4a5-offshore-12"
+  },
+  "onu_85040888184.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041142849.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6b251826-cf79-4973-a63d-ae11b18be0c9-paper-2"
+  },
+  "onu_85041154400.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-specific-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-technological-2"
+  },
+  "onu_85041277142.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "fb2fb4b5-91ee-4dc3-af16-1bd93d9503ce-intrinsic-14"
+  },
+  "onu_85041698761.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1dd7ab3c-34f0-431f-a8d1-984e6b3578c5-initial-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85043311576.json": {
+    "NE-SET-Annual": "NE-SET-annual"
+  },
+  "onu_85043324954.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-work-2"
+  },
+  "onu_85044192214.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "02ca6c41-1c18-40a7-87f2-042cfa1083d4-successfully-8"
+  },
+  "onu_85044397080.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1"
+  },
+  "onu_85044462127.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "77be762f-bb9c-4142-a04f-af0145a57575-continental-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "77be762f-bb9c-4142-a04f-af0145a57575-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "77be762f-bb9c-4142-a04f-af0145a57575-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "77be762f-bb9c-4142-a04f-af0145a57575-observed-13"
+  },
+  "onu_85044530973.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15"
+  },
+  "onu_85044596303.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "99512cc4-b35c-4f65-be28-93092a3cf0fc-sedimentary-30",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "99512cc4-b35c-4f65-be28-93092a3cf0fc-contrasting-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "99512cc4-b35c-4f65-be28-93092a3cf0fc-bathymetric-5"
+  },
+  "onu_85045186297.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b0e39309-9053-480f-94c5-a92d9375374d-prevailing-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "b0e39309-9053-480f-94c5-a92d9375374d-specific-12"
+  },
+  "onu_85046290497.json": {},
+  "onu_85046379273.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-water-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-paper-4"
+  },
+  "onu_85047299670.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "7e13bfab-9226-403e-bf1d-cce401dd3b64-paper-16"
+  },
+  "onu_85047354188.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f6a07423-b312-4355-bf91-78e2c50897f3-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "f6a07423-b312-4355-bf91-78e2c50897f3-study-2"
+  },
+  "onu_85047409861.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1f1cc693-d744-4327-ae3a-26acd92c5117-biological-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "1f1cc693-d744-4327-ae3a-26acd92c5117-significantly-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "1f1cc693-d744-4327-ae3a-26acd92c5117-potential-31-consequences-32"
+  },
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {},
+  "onu_85049552088.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "85bb1f29-6fcb-426b-abc6-5be02b46d922-structural-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "85bb1f29-6fcb-426b-abc6-5be02b46d922-management-9-strategies-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "NE-TITLE-marine",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "85bb1f29-6fcb-426b-abc6-5be02b46d922-study-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "85bb1f29-6fcb-426b-abc6-5be02b46d922-study-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "85bb1f29-6fcb-426b-abc6-5be02b46d922-environmental-8"
+  },
+  "onu_85050512775.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "d456d187-3df8-4b64-8a11-6d3acdc976bf-analyses-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d456d187-3df8-4b64-8a11-6d3acdc976bf-lazy-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "d456d187-3df8-4b64-8a11-6d3acdc976bf-analyses-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "d456d187-3df8-4b64-8a11-6d3acdc976bf-technical-2"
+  },
+  "onu_85050528173.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "d59c3d19-b470-43cc-aef7-3fa793b9d284-has-12-developed-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "d59c3d19-b470-43cc-aef7-3fa793b9d284-Additionally-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "d59c3d19-b470-43cc-aef7-3fa793b9d284-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "d59c3d19-b470-43cc-aef7-3fa793b9d284-field-19-management-20-drive-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d59c3d19-b470-43cc-aef7-3fa793b9d284-offshore-18"
+  },
+  "onu_85050539655.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e1000620-b18e-4098-9293-16b6e83cec81-technological-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "e1000620-b18e-4098-9293-16b6e83cec81-technological-23"
+  },
+  "onu_85050551470.json": {},
+  "onu_85050561554.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2"
+  },
+  "onu_85050643252.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "16159eb1-d977-41b1-977d-b5a0d90c3d46-definitive-5"
+  },
+  "onu_85050674553.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-offshore-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-have-9-created-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-crucial-19"
+  },
+  "onu_85050680089.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "7736a11e-550b-4406-bcac-140ec203a8cf-contractual-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "7736a11e-550b-4406-bcac-140ec203a8cf-contractual-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "7736a11e-550b-4406-bcac-140ec203a8cf-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "7736a11e-550b-4406-bcac-140ec203a8cf-studies-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "7736a11e-550b-4406-bcac-140ec203a8cf-technical-10"
+  },
+  "onu_85051633827.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "NE-DATE-now"
+  },
+  "onu_85051644896.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051649253.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "676e7e95-336a-48ca-8815-930a8e2851b0-seismic-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "676e7e95-336a-48ca-8815-930a8e2851b0-seismic-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051653660.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "9514bd0e-068b-4f1a-97f0-dc1fd3c046dc-work-2"
+  },
+  "onu_85051673888.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "e872f4cb-a7b5-4cad-b4c9-ddb031864494-terms-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052069920.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6019aafd-17a7-4b19-be78-72fdb72b948b-net-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "6019aafd-17a7-4b19-be78-72fdb72b948b-have-5-proposed-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6019aafd-17a7-4b19-be78-72fdb72b948b-net-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052748036.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d5172811-4956-4cc3-bcce-2ec97a8402f1-spatial-15"
+  },
+  "onu_85052916893.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "390e8152-252c-4c33-856b-035e5f48ed3e-coastal-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "390e8152-252c-4c33-856b-035e5f48ed3e-remote-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "390e8152-252c-4c33-856b-035e5f48ed3e-specific-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "390e8152-252c-4c33-856b-035e5f48ed3e-environmental-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053143769.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-energy-12-losses-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053593980.json": {},
+  "onu_85053770238.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-bottom-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-has-8-studied-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13"
+  },
+  "onu_85054086297.json": {},
+  "onu_85054504118.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b1326d03-e928-4f17-a698-2f5bc600a0ed-cost-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "b1326d03-e928-4f17-a698-2f5bc600a0ed-analysis-3"
+  },
+  "onu_85054783545.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "54174e41-4460-4ede-8ffd-225b7817ab76-acoustic-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "NE-LOCATION-Basin",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85054941296.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-production-7-management-8"
+  },
+  "onu_85055025955.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055027444.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "efaa678b-3d7e-4113-825c-c286cad84bfd-fiscal-19"
+  },
+  "onu_85055027692.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-successfully-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055036761.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-seismic-8"
+  },
+  "onu_85055255571.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-especially-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055263465.json": {},
+  "onu_85055528846.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2970e996-64cc-47e6-bc5c-fb3d99195396-numerical-13"
+  },
+  "onu_85055864923.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "c183a578-8a5f-4228-b35b-5651f319641f-studies-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c183a578-8a5f-4228-b35b-5651f319641f-feasible-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "c183a578-8a5f-4228-b35b-5651f319641f-studies-9"
+  },
+  "onu_85055908781.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "7791ecea-6b5a-4410-bef3-7836f667a288-generating-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "7791ecea-6b5a-4410-bef3-7836f667a288-research-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "7791ecea-6b5a-4410-bef3-7836f667a288-potential-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "7791ecea-6b5a-4410-bef3-7836f667a288-research-3"
+  },
+  "onu_85056094176.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "0ddfca10-cdbf-4166-ae46-860624694346-Floating-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "0ddfca10-cdbf-4166-ae46-860624694346-management-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0ddfca10-cdbf-4166-ae46-860624694346-Floating-16"
+  },
+  "onu_85056110569.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1a82d70b-0282-4199-a560-d0aab9c27373-offshore-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "1a82d70b-0282-4199-a560-d0aab9c27373-have-9-discovered-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "1a82d70b-0282-4199-a560-d0aab9c27373-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1a82d70b-0282-4199-a560-d0aab9c27373-offshore-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "1a82d70b-0282-4199-a560-d0aab9c27373-economic-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056183083.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "65c625f5-7d94-4126-a6cf-9208777c80b5-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056566136.json": {},
+  "onu_85056605886.json": {},
+  "onu_85056605922.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-seismic-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-spatial-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056794099.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "95c32260-b2d3-4c86-a803-d3bf8befb654-physiological-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85057560805.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bb2572d0-017a-4510-9d70-32e7ab55c722-magnetic-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bb2572d0-017a-4510-9d70-32e7ab55c722-seismic-11"
+  },
+  "onu_85057883234.json": {},
+  "onu_85059143234.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "c547213a-e858-4f59-a98b-991221b44a08-seismic-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c547213a-e858-4f59-a98b-991221b44a08-seismic-16"
+  },
+  "onu_85059218520.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "NE-SET-seventies",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059436090.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-2"
+  },
+  "onu_85060083816.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-distant-26",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-distant-26"
+  },
+  "onu_85060443361.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-intending-25",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "d28d3e39-9b1c-4b91-ad0e-2d9bdd1b0299-study-3"
+  },
+  "onu_85061179665.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "17e2d2d4-078d-47cf-b582-655e5774143c-triggering-31",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "17e2d2d4-078d-47cf-b582-655e5774143c-triggering-31",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "NE-TITLE-river"
+  },
+  "onu_85061498967.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-species-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85061767810.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-precipitation-13"
+  },
+  "onu_85061823653.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "NE-MISC-Acoustic"
+  },
+  "onu_85062013573.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "28afef62-c426-44a2-9215-bf6b45551070-environmental-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "28afef62-c426-44a2-9215-bf6b45551070-Furthermore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "28afef62-c426-44a2-9215-bf6b45551070-environmental-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "28afef62-c426-44a2-9215-bf6b45551070-practical-4"
+  },
+  "onu_85062607406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062717506.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-institutional-10"
+  },
+  "onu_85063263863.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "ab194025-e2bc-497c-a6f0-daf5e0bd615a-However-1"
+  },
+  "onu_85063689284.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "67b5ee09-3e9b-4ee7-8c97-16a32349a345-joint-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "67b5ee09-3e9b-4ee7-8c97-16a32349a345-study-2"
+  },
+  "onu_85064764902.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "11cdb5e6-cecf-4388-bb5e-cd624208f6f9-Optimal-7"
+  },
+  "onu_85064808857.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "4879b8b6-7193-4b71-96e2-28fc820267e0-acoustic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4879b8b6-7193-4b71-96e2-28fc820267e0-Acoustic-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "4879b8b6-7193-4b71-96e2-28fc820267e0-study-2"
+  },
+  "onu_85064983703.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11"
+  },
+  "onu_85065180012.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "13f75155-d6c6-4b97-9145-c113a876f2e7-tracking-13"
+  },
+  "onu_85065623080.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-sedimentary-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-plants-8"
+  },
+  "onu_85065912337.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "2143f721-d959-4556-9126-5be2b6ca65c9-seismic-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2143f721-d959-4556-9126-5be2b6ca65c9-seismic-26"
+  },
+  "onu_85066600751.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-increasing-23",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-has-7-assessed-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-studies-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-practical-10"
+  },
+  "onu_85066617192.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-paper-2"
+  },
+  "onu_85066623384.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "63257db0-7292-4593-96e1-aae426bbf829-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "63257db0-7292-4593-96e1-aae426bbf829-Sharing-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "63257db0-7292-4593-96e1-aae426bbf829-technological-8"
+  },
+  "onu_85067965170.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4d09355a-503a-48db-a367-7c33af77071e-volcanic-15"
+  },
+  "onu_85068049608.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "198e827a-9847-428e-9646-a76213d2c09d-increasing-42",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "198e827a-9847-428e-9646-a76213d2c09d-Empirical-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "198e827a-9847-428e-9646-a76213d2c09d-industrial-37"
+  },
+  "onu_85068387773.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a5cffccf-1536-473d-9270-6167576d70ec-numerical-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "a5cffccf-1536-473d-9270-6167576d70ec-study-6"
+  },
+  "onu_85068453742.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-analysis-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-potential-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-environmental-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-observed-4"
+  },
+  "onu_85070554647.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "72b63001-9050-46f3-a364-f3ec8d862ef0-innovative-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "72b63001-9050-46f3-a364-f3ec8d862ef0-technical-5"
+  },
+  "onu_85070704005.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85070853924.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6dc1853a-1825-449e-9547-d497b3114adb-mean-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "6dc1853a-1825-449e-9547-d497b3114adb-observed-2"
+  },
+  "onu_85070991202.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "e4582df4-682d-4820-a6cd-b5346f3f75b5-energy-82",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "e4582df4-682d-4820-a6cd-b5346f3f75b5-energy-26",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "e4582df4-682d-4820-a6cd-b5346f3f75b5-spatial-78",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e4582df4-682d-4820-a6cd-b5346f3f75b5-vertical-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "e4582df4-682d-4820-a6cd-b5346f3f75b5-study-56"
+  },
+  "onu_85071023764.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-human-23",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-morphological-5"
+  },
+  "onu_85071488896.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-irritating-26"
+  },
+  "onu_85071542084.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43"
+  },
+  "onu_85071847548.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-gas-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-context-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-has-7-performed-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85072725932.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-thermal-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-ocean-17-energy-21-sources-22",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-global-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-potential-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-technological-6"
+  },
+  "onu_85072834829.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "f46f17d1-e7ee-43a7-b27f-8001a220449a-crystal-34",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f46f17d1-e7ee-43a7-b27f-8001a220449a-crystal-34",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f46f17d1-e7ee-43a7-b27f-8001a220449a-study-2"
+  },
+  "onu_85073705401.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "9ba582b4-4671-4d5f-a00e-72d8370658d2-specific-30"
+  },
+  "onu_85073706024.json": {},
+  "onu_85073935907.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bc946871-1090-4025-8672-8089752cc34e-thermal-11"
+  },
+  "onu_85074489503.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "e9b97ebc-e3cf-4546-849d-66298a1876a5-seismic-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e9b97ebc-e3cf-4546-849d-66298a1876a5-seismic-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "e9b97ebc-e3cf-4546-849d-66298a1876a5-bathymetry-3"
+  },
+  "onu_85074632793.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "e96160f9-afe1-4286-9ca9-11f35229455a-spatial-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e96160f9-afe1-4286-9ca9-11f35229455a-forcing-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "e96160f9-afe1-4286-9ca9-11f35229455a-analysis-2"
+  },
+  "onu_85074778611.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-biological-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-Furthermore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-biological-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-impacts-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075350522.json": {},
+  "onu_85075421341.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "42d1724c-e5fc-4022-b41d-f2f1fb3ceb4b-territorial-26"
+  },
+  "onu_85075661667.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "8eb22610-755f-4d77-aaca-50d08c2064c5-organic-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "8eb22610-755f-4d77-aaca-50d08c2064c5-thus-9"
+  },
+  "onu_85075827903.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "3f2db0e2-163d-413a-826b-912433d08c8a-axial-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "3f2db0e2-163d-413a-826b-912433d08c8a-have-8-formed-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "3f2db0e2-163d-413a-826b-912433d08c8a-Otherwise-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3f2db0e2-163d-413a-826b-912433d08c8a-axial-21"
+  },
+  "onu_85075828327.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-able-31"
+  },
+  "onu_85075831363.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "c6187c05-69fa-4993-ac86-f7154dd67053-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c6187c05-69fa-4993-ac86-f7154dd67053-dynamic-7"
+  },
+  "onu_85075835330.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f0f4bf07-c1ed-4d46-a167-48acf173b05d-floating-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075843438.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b11303f1-e8e0-4420-9932-569d3ac87ff2-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-11"
+  },
+  "onu_85075879935.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-climatic-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-climatic-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15"
+  },
+  "onu_85075941856.json": {},
+  "onu_85075951728.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-continental-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-studies-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-seismic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-study-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-studies-2"
+  },
+  "onu_85075997043.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076246665.json": {},
+  "onu_85076560202.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-potential-9-use-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-observed-7"
+  },
+  "onu_85076775401.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3fa508a4-4944-4cc2-a966-5bc0da835729-spatial-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "3fa508a4-4944-4cc2-a966-5bc0da835729-observed-19"
+  },
+  "onu_85076896265.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-contaminated-40",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-context-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-study-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-research-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "f07a1b94-895b-4621-b0f2-4f24bbd8ed12-reported-10"
+  },
+  "onu_85077234208.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077945350.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "e5183355-b1b6-474b-bef3-dcc000293be4-studies-35",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "e5183355-b1b6-474b-bef3-dcc000293be4-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "e5183355-b1b6-474b-bef3-dcc000293be4-studies-35"
+  },
+  "onu_85078010553.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-power-23-supply-24": "8b856b86-bebe-4ded-9624-c946c2d1bff7-water-5-supply-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "8b856b86-bebe-4ded-9624-c946c2d1bff7-thus-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8b856b86-bebe-4ded-9624-c946c2d1bff7-averaged-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "8b856b86-bebe-4ded-9624-c946c2d1bff7-reservoir-27",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "8b856b86-bebe-4ded-9624-c946c2d1bff7-economic-33"
+  },
+  "onu_85078233209.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-example-8": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-example-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85079351203.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "da566f30-68dc-4ed8-990f-a0817cb9497f-migrating-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "da566f30-68dc-4ed8-990f-a0817cb9497f-have-3-interpreted-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "da566f30-68dc-4ed8-990f-a0817cb9497f-alternatively-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "da566f30-68dc-4ed8-990f-a0817cb9497f-seismic-11"
+  },
+  "onu_85079784581.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85080813467.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85083240666.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "980011b1-e588-4f4d-83ab-b8b5f5238ca0-elemental-17"
+  },
+  "onu_85083341760.json": {},
+  "onu_85084024263.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-reservoir-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85084454298.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3"
+  },
+  "onu_85084634006.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-5"
+  },
+  "onu_85084667903.json": {},
+  "onu_85084945361.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085054148.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-few-5": "2bcf1f59-1fcf-489f-a631-354d435acfe1-few-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2"
+  },
+  "onu_85085298469.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-analysis-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "4519eb5f-aa7d-4b0a-9a81-fe0bce2be361-environmental-24"
+  },
+  "onu_85085408490.json": {},
+  "onu_85085473397.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "934e19c7-1772-4795-a581-05b674220676-management-14-models-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "934e19c7-1772-4795-a581-05b674220676-remote-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "934e19c7-1772-4795-a581-05b674220676-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "934e19c7-1772-4795-a581-05b674220676-study-3"
+  },
+  "onu_85085492342.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-coastal-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9b5ef88f-0237-4d61-abb2-7580cab31fbb-coastal-2"
+  },
+  "onu_85085773523.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ab307ab9-374d-477f-9d96-1a0fda460239-discussion-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "ab307ab9-374d-477f-9d96-1a0fda460239-specific-25"
+  },
+  "onu_85085773731.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-have-10-done-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-paper-2"
+  },
+  "onu_85085773745.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "21225434-c8fc-441d-b277-65da424c77e7-environmental-25",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "21225434-c8fc-441d-b277-65da424c77e7-therefore-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "21225434-c8fc-441d-b277-65da424c77e7-optimal-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "21225434-c8fc-441d-b277-65da424c77e7-carbonate-21-reservoirs-22"
+  },
+  "onu_85085773825.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-intensive-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-lazy-11"
+  },
+  "onu_85085773875.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "d606c7b3-ce98-4023-8a39-196528dd3002-cumulative-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "d606c7b3-ce98-4023-8a39-196528dd3002-Therefore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d606c7b3-ce98-4023-8a39-196528dd3002-Computational-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "d606c7b3-ce98-4023-8a39-196528dd3002-field-37",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "d606c7b3-ce98-4023-8a39-196528dd3002-technical-11"
+  },
+  "onu_85085774498.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "801b16ca-c991-454c-b97a-b358ab8eea75-paper-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774511.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "07bf9801-f530-468c-9921-66afca9b2b91-oil-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "07bf9801-f530-468c-9921-66afca9b2b91-burning-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "07bf9801-f530-468c-9921-66afca9b2b91-drip-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774766.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-residual-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-electric-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-reservoir-19"
+  },
+  "onu_85085775194.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2"
+  },
+  "onu_85085775396.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ee817b7d-8183-4633-9141-28578ef8eeaa-hanging-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ee817b7d-8183-4633-9141-28578ef8eeaa-study-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "ee817b7d-8183-4633-9141-28578ef8eeaa-analyses-6"
+  },
+  "onu_85085775562.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-adjusting-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9"
+  },
+  "onu_85085775753.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-natural-30"
+  },
+  "onu_85085775962.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "be473474-e9c1-4908-947b-6970a8bfa756-medium-26",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "be473474-e9c1-4908-947b-6970a8bfa756-flexible-34",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "be473474-e9c1-4908-947b-6970a8bfa756-study-5"
+  },
+  "onu_85085776151.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5bd9eda6-5812-4578-ab2b-6a61cf688e44-dense-15"
+  },
+  "onu_85085776159.json": {},
+  "onu_85085776356.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "2a540db1-9714-4a1f-b95b-65922ff9ef32-offshore-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "2a540db1-9714-4a1f-b95b-65922ff9ef32-advantages-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2a540db1-9714-4a1f-b95b-65922ff9ef32-offshore-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "2a540db1-9714-4a1f-b95b-65922ff9ef32-advantages-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085776372.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c59dc365-dd43-4a22-8bcc-877027142262-additive-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "c59dc365-dd43-4a22-8bcc-877027142262-analysis-2"
+  },
+  "onu_85085776540.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "544389f0-af01-489c-a71e-5e23542d32c5-cumulative-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "544389f0-af01-489c-a71e-5e23542d32c5-Therefore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "544389f0-af01-489c-a71e-5e23542d32c5-Lift-12"
+  },
+  "onu_85085776958.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085777009.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d32271d8-792a-4672-97e1-b4c138d6d351-ensuring-42"
+  },
+  "onu_85085777884.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-TITLE-marine",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "943cc533-ce82-452e-94d0-14fafa0d4754-environmental-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "943cc533-ce82-452e-94d0-14fafa0d4754-pipeline-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085778037.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-have-26-analyzed-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-remote-10"
+  },
+  "onu_85085778412.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-constructing-37"
+  },
+  "onu_85085778651.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "42684b28-71f8-41aa-ada5-b427f3c87f94-have-4-drilled-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "42684b28-71f8-41aa-ada5-b427f3c87f94-controlling-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "42684b28-71f8-41aa-ada5-b427f3c87f94-benefits-53"
+  },
+  "onu_85085778850.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "aefa100b-fd33-476c-8121-310d23ec4cbc-efficiency-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "aefa100b-fd33-476c-8121-310d23ec4cbc-drilling-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "aefa100b-fd33-476c-8121-310d23ec4cbc-drilling-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "aefa100b-fd33-476c-8121-310d23ec4cbc-reservoir-19-section-20"
+  },
+  "onu_85085778895.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "b7a10045-d4c2-447e-907a-820163ea176a-studies-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b7a10045-d4c2-447e-907a-820163ea176a-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b7a10045-d4c2-447e-907a-820163ea176a-environmental-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "b7a10045-d4c2-447e-907a-820163ea176a-studies-3"
+  },
+  "onu_85085779136.json": {},
+  "onu_85085779144.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "be3e799c-8e30-4190-9f13-a88110e85837-offshore-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "be3e799c-8e30-4190-9f13-a88110e85837-have-3-performed-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "be3e799c-8e30-4190-9f13-a88110e85837-Particularly-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "be3e799c-8e30-4190-9f13-a88110e85837-wet-13"
+  },
+  "onu_85085780309.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "82bdebe1-55d4-4873-9e12-d1e0510312d7-floating-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "82bdebe1-55d4-4873-9e12-d1e0510312d7-benefits-9"
+  },
+  "onu_85085850094.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "44a03514-5795-44e8-9d1b-fd93129ad66f-offshore-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "44a03514-5795-44e8-9d1b-fd93129ad66f-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "44a03514-5795-44e8-9d1b-fd93129ad66f-Studies-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "44a03514-5795-44e8-9d1b-fd93129ad66f-have-5-developed-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "44a03514-5795-44e8-9d1b-fd93129ad66f-Consequently-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "44a03514-5795-44e8-9d1b-fd93129ad66f-Studies-1",
+    "NE-SET-Annual": "NE-SET-annual",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086232639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "1560ca69-ffef-4249-b357-976be0472af8-have-2-noted-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "1560ca69-ffef-4249-b357-976be0472af8-particularly-30",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "1560ca69-ffef-4249-b357-976be0472af8-safety-26-management-27-system-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1560ca69-ffef-4249-b357-976be0472af8-Operational-53"
+  },
+  "onu_85086245971.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "5b314478-44cb-4cb9-a631-b9e343125cc4-Moreover-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5b314478-44cb-4cb9-a631-b9e343125cc4-offshore-13"
+  },
+  "onu_85086248840.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-floating-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-technological-4"
+  },
+  "onu_85086257600.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-18",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-standalone-15"
+  },
+  "onu_85086355916.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-7"
+  },
+  "onu_85086628030.json": {},
+  "onu_85086649140.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c9f847a3-c49c-4b1b-a35a-2782aa506380-numerical-9"
+  },
+  "onu_85086667338.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "c26fa3b4-e85d-44f5-a212-fecb246d8968-upward-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c26fa3b4-e85d-44f5-a212-fecb246d8968-seismic-3"
+  },
+  "onu_85086808985.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "bf917e90-7343-4ac5-9605-4309e100073a-dynamic-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bf917e90-7343-4ac5-9605-4309e100073a-dynamic-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "bf917e90-7343-4ac5-9605-4309e100073a-reservoirs-22",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "bf917e90-7343-4ac5-9605-4309e100073a-research-12",
+    "NE-SET-Annual": "bf917e90-7343-4ac5-9605-4309e100073a-major-19"
+  },
+  "onu_85086809805.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "6af17be2-6207-49d6-b833-4d7a7d7f3202-increasing-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "6af17be2-6207-49d6-b833-4d7a7d7f3202-energy-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "6af17be2-6207-49d6-b833-4d7a7d7f3202-renewable-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "6af17be2-6207-49d6-b833-4d7a7d7f3202-advantages-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "6af17be2-6207-49d6-b833-4d7a7d7f3202-energy-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "6af17be2-6207-49d6-b833-4d7a7d7f3202-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6af17be2-6207-49d6-b833-4d7a7d7f3202-floating-37",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "6af17be2-6207-49d6-b833-4d7a7d7f3202-technological-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086829622.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086929987.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-baseline-7"
+  },
+  "onu_85087227840.json": {},
+  "onu_85087228205.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "fb7e8c11-5740-4da0-9139-e7047dada05c-power-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "fb7e8c11-5740-4da0-9139-e7047dada05c-offshore-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "fb7e8c11-5740-4da0-9139-e7047dada05c-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "fb7e8c11-5740-4da0-9139-e7047dada05c-offshore-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "fb7e8c11-5740-4da0-9139-e7047dada05c-specific-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "fb7e8c11-5740-4da0-9139-e7047dada05c-benefits-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "fb7e8c11-5740-4da0-9139-e7047dada05c-delivering-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087345946.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "NE-TITLE-River",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087348432.json": {},
+  "onu_85087970879.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-Furthermore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-micro-26",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088133476.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "931afc26-ec02-4974-9270-dba41591d2d1-southeast-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-few-5": "931afc26-ec02-4974-9270-dba41591d2d1-few-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "931afc26-ec02-4974-9270-dba41591d2d1-study-3-deals-4"
+  },
+  "onu_85088202607.json": {},
+  "onu_85088697920.json": {},
+  "onu_85088709907.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088763109.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "6cf3310c-bb3b-48c5-9cb8-ba824fd9744f-inverted-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088793210.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "36cf26a9-49e9-4151-9e5e-0835540d9f61-thus-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "36cf26a9-49e9-4151-9e5e-0835540d9f61-management-11-guidance-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "36cf26a9-49e9-4151-9e5e-0835540d9f61-specific-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088799870.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "a03ca6d2-0a37-4888-8976-63f43be4ad56-disadvantage-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a03ca6d2-0a37-4888-8976-63f43be4ad56-reproductive-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "a03ca6d2-0a37-4888-8976-63f43be4ad56-disadvantage-10"
+  },
+  "onu_85088892946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "03163d01-a984-4a93-b405-5621c6de58e3-study-2"
+  },
+  "onu_85088978023.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-available-10-bathymetric-11-field-12-data-13"
+  },
+  "onu_85089199336.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "f9c39424-c803-446d-9dec-491105a69099-have-13-studied-15"
+  },
+  "onu_85089245637.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "9f8de688-62c3-412d-a7f9-3b51ca170748-acoustic-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "9f8de688-62c3-412d-a7f9-3b51ca170748-seismic-36",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "9f8de688-62c3-412d-a7f9-3b51ca170748-reservoir-14"
+  },
+  "onu_85089527352.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "3e605179-b368-4602-b44b-ceaa04c453c2-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5"
+  },
+  "onu_85089654013.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-electricity-31": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-energy-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-energy-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-electric-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-Renewable-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-study-3"
+  },
+  "onu_85090201621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "f9f900c7-5742-455e-b3dc-60b4fee023c9-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "f9f900c7-5742-455e-b3dc-60b4fee023c9-study-3"
+  },
+  "onu_85090367193.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "026bc1df-a0cf-433b-b29b-2c16bf35150d-context-36",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "026bc1df-a0cf-433b-b29b-2c16bf35150d-traditional-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "026bc1df-a0cf-433b-b29b-2c16bf35150d-study-2"
+  },
+  "onu_85090483755.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-MISC-Climatic",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-study-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-study-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090507698.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b6d6d264-109e-4fad-a0b3-0364af473595-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b6d6d264-109e-4fad-a0b3-0364af473595-bottom-16"
+  },
+  "onu_85090509939.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "434cbfb2-e716-43dd-abaf-4575fa516085-bound-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "434cbfb2-e716-43dd-abaf-4575fa516085-Additionally-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "434cbfb2-e716-43dd-abaf-4575fa516085-paper-2"
+  },
+  "onu_85090511016.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-Thus-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-dynamic-8"
+  },
+  "onu_85090646059.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-geological-7"
+  },
+  "onu_85090693617.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "5d225a40-54e2-4e02-a17e-ecea919142b6-climatic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5d225a40-54e2-4e02-a17e-ecea919142b6-climatic-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "5d225a40-54e2-4e02-a17e-ecea919142b6-study-2"
+  },
+  "onu_85090982605.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3f77cc69-82ae-40d3-b552-aa633b7f1621-territorial-11"
+  },
+  "onu_85091197319.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "3d38e2b0-9e33-4f86-8022-835513cb2d77-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "3d38e2b0-9e33-4f86-8022-835513cb2d77-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2",
+    "NE-SET-Annual": "3d38e2b0-9e33-4f86-8022-835513cb2d77-Recent-1"
+  },
+  "onu_85091725112.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "68839359-bf76-4868-9d75-bcfd19d0c220-erratic-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "68839359-bf76-4868-9d75-bcfd19d0c220-decade-43",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "68839359-bf76-4868-9d75-bcfd19d0c220-erratic-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "68839359-bf76-4868-9d75-bcfd19d0c220-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "68839359-bf76-4868-9d75-bcfd19d0c220-study-2"
+  },
+  "onu_85091986329.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "c0031e2d-9def-4261-b692-24f2468bfb11-digital-11"
+  },
+  "onu_85092100205.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-TITLE-marine"
+  },
+  "onu_85092110011.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-Turbulent-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "65819ad9-23ea-4aef-a8e9-6242bf47c12d-novel-5"
+  },
+  "onu_85092499794.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "1eac3015-c78b-44b0-a446-b7757d48abba-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "1eac3015-c78b-44b0-a446-b7757d48abba-departing-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85093942688.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-reported-7": "1be9b63b-f885-4cce-860e-7e7356ee91ae-recorded-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85094168812.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-energy-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-kinetic-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-successfully-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-Floating-15"
+  },
+  "onu_85095686213.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "2b71d4fa-56c5-4102-8a03-0d5151874d42-thermal-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2b71d4fa-56c5-4102-8a03-0d5151874d42-thermal-17"
+  },
+  "onu_85095886757.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85095967333.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85096027479.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-oceanic-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "aae7b27c-7447-41a9-8ba5-c25d32d2fc80-studies-11"
+  },
+  "onu_85096104148.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ae1a2359-6ac6-4b39-9948-774de2ff206e-study-2"
+  },
+  "onu_85096519364.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3"
+  },
+  "onu_85096833213.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "4d34758f-998c-42ff-ab34-a71d7aeaba00-metabolic-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "4d34758f-998c-42ff-ab34-a71d7aeaba00-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "4d34758f-998c-42ff-ab34-a71d7aeaba00-coastal-4",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "4d34758f-998c-42ff-ab34-a71d7aeaba00-potential-6-contamination-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "4d34758f-998c-42ff-ab34-a71d7aeaba00-estuary-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-plant-25": "4d34758f-998c-42ff-ab34-a71d7aeaba00-plants-23"
+  },
+  "onu_85097322074.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-growing-28": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-growing-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-offshore-34",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-management-32",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-offshore-34"
+  },
+  "onu_85097480849.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "0df1d217-fa26-413d-aa69-6ede9c54686e-environmental-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "0df1d217-fa26-413d-aa69-6ede9c54686e-environmental-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "0df1d217-fa26-413d-aa69-6ede9c54686e-potential-14-sources-16"
+  },
+  "onu_85097539519.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-offshore-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-offshore-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-benefits-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-delivering-18"
+  },
+  "onu_85097552901.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "d8cfb4de-70be-467f-985d-1b6570de040d-flowing-13",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "d8cfb4de-70be-467f-985d-1b6570de040d-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d8cfb4de-70be-467f-985d-1b6570de040d-flowing-13",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097570159.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-20",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-watershed-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097598677.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-14",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097758556.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ea95441f-c561-441f-9bf8-9f6102051745-magnetic-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ea95441f-c561-441f-9bf8-9f6102051745-magnetic-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "ea95441f-c561-441f-9bf8-9f6102051745-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "ea95441f-c561-441f-9bf8-9f6102051745-study-3"
+  },
+  "onu_85097770989.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "2cc98001-f232-4675-9305-a2fed963fe2c-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097876795.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-6": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-study-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-energy-27-chains-28",
+    "e4dae957-4d94-4311-82ad-250e750ae287-benefits-20": "0c5b9163-0af1-49e6-870f-6ecb7c56a1bd-impacts-24"
+  },
+  "onu_85097889884.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "8876b26c-9469-4d0a-8688-55977469fef5-sedimentary-8"
+  },
+  "onu_85097914346.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-spatial-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-spatial-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-study-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-studies-2": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-study-3"
+  },
+  "onu_85097951230.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d6883d36-bf69-406e-b609-e85a3744a46f-dynamic-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-terms-3": "d6883d36-bf69-406e-b609-e85a3744a46f-terms-7",
+    "NE-SET-Annual": "NE-SET-monthly"
+  },
+  "onu_85098462600.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-13": "38a83013-53f0-4289-9d52-d397020aee69-energy-18-potential-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-energy-17-source-18": "38a83013-53f0-4289-9d52-d397020aee69-energy-23-matrix-24",
+    "e4dae957-4d94-4311-82ad-250e750ae287-bathymetry-10-scanning-21": "38a83013-53f0-4289-9d52-d397020aee69-bathymetric-7",
+    "e4dae957-4d94-4311-82ad-250e750ae287-potential-25-value-26": "38a83013-53f0-4289-9d52-d397020aee69-energy-18-potential-19",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "38a83013-53f0-4289-9d52-d397020aee69-country-22"
+  },
+  "onu_85099021856.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b146d1cd-1198-4146-911d-471f79f60f33-raising-17",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "b146d1cd-1198-4146-911d-471f79f60f33-study-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "b146d1cd-1198-4146-911d-471f79f60f33-environmental-6"
+  },
+  "onu_85099211729.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-persistent-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099279592.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-advantage-14": "762c9adb-5241-4a67-a3d1-c004219de178-advantage-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "762c9adb-5241-4a67-a3d1-c004219de178-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "762c9adb-5241-4a67-a3d1-c004219de178-integrity-7-management-8",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "762c9adb-5241-4a67-a3d1-c004219de178-flexible-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099301920.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "7548607a-2b9a-4332-9ee4-f4344220c57a-has-8-performed-10",
+    "e4dae957-4d94-4311-82ad-250e750ae287-configuration-7-management-8": "7548607a-2b9a-4332-9ee4-f4344220c57a-management-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099313369.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-paper-2",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-floating-13",
+    "NE-SET-Annual": "NE-SET-annual"
+  },
+  "onu_85099520347.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-context-3": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-context-3",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "a50a7fb9-6555-46dc-bbad-e40754fb61eb-Furthermore-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-reservoir-29": "NE-TITLE-river"
+  },
+  "onu_85100594780.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "NE-CAUSE_OF_DEATH-floods",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36"
+  },
+  "onu_85100847459.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101031678.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4"
+  },
+  "onu_85101067912.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "b8ff745b-f126-438a-b4bd-e676c40a4a02-structural-22"
+  },
+  "onu_85101344072.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101359309.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "65c99a63-593c-45ac-822d-f42c46ce46bd-seismic-18"
+  },
+  "onu_85101493235.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9"
+  },
+  "onu_85101961666.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "24e932fe-ae8c-44e6-87a2-382dde69c66c-However-1"
+  },
+  "onu_85102272621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103445741.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "89db4da0-8f31-4057-95ec-8006cb31c9fb-vertical-12"
+  },
+  "onu_85103489384.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "44301f57-e236-4b9c-a5ee-571fc96677e2-coastal-25"
+  },
+  "onu_85103521288.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "20734208-feb1-4173-9fdd-e0817c128dc2-realistic-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "20734208-feb1-4173-9fdd-e0817c128dc2-realistic-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-technical-17": "20734208-feb1-4173-9fdd-e0817c128dc2-operational-29"
+  },
+  "onu_85103724572.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-however-5",
+    "e4dae957-4d94-4311-82ad-250e750ae287-paper-2": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-paper-6",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-economic-15",
+    "e4dae957-4d94-4311-82ad-250e750ae287-study-6": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-approach-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104343927.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "d2f57460-27c6-4be0-be1f-83c515125f60-have-9-recorded-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "d2f57460-27c6-4be0-be1f-83c515125f60-However-1",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "d2f57460-27c6-4be0-be1f-83c515125f60-oceanic-6"
+  },
+  "onu_85104631395.json": {
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-12": "2570e3cb-e265-4264-a109-e3358d5b90ba-seismic-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "e4dae957-4d94-4311-82ad-250e750ae287-have-7-conducted-9": "2570e3cb-e265-4264-a109-e3358d5b90ba-have-10-occurred-11",
+    "e4dae957-4d94-4311-82ad-250e750ae287-However-1": "2570e3cb-e265-4264-a109-e3358d5b90ba-progressively-12",
+    "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11": "2570e3cb-e265-4264-a109-e3358d5b90ba-seismic-21",
+    "e4dae957-4d94-4311-82ad-250e750ae287-specific-2": "2570e3cb-e265-4264-a109-e3358d5b90ba-distinct-9"
+  },
+  "onu_85104732272.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_30706349.txt",
+  "entities": {
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16": "requirements",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-ocean-11-area-12": "ocean area",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-new-15": "new",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-given-10": "given",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-increase-2": "increase",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-design-19": "design",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-21-systems-22": "mooring systems",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-oil-4-exploration-5": "oil exploration",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-units-26": "units",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-layout-8": "layout",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-distance-21": "distance",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-underwater-7": "underwater",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-It-1": "It",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-reduction-11": "reduction",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-smaller-20": "smaller",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-necessary-3": "necessary",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-production-24-units-25": "production units",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-14": "lines",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-utilisation-5": "utilisation",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-attractive-16": "attractive",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-to-13": "to",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-very-15": "very",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-context-3": "context",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-object-3": "object",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-12-leg-16-offset-26": "comparison leg offset",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14-leg-16": "taut leg",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-19-systems-20": "mooring systems",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22": "terms",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-conventional-18": "conventional",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-total-24": "total",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-2": "main",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-unit-25": "unit",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14---15-leg-16-and-17-conventional-18-mooring-19-systems-20-in-21-terms-22-of-23-total-24-unit-25": "taut - leg and conventional mooring systems in terms of total unit",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9": "lines",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-8": "main",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-authors-16": "authors",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23": "configuration",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-26-system-27": "mooring system",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-12-procedure-13": "synthesis procedure",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-best-22": "best",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-19-procedure-20": "synthesis procedure",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-applied-22": "applied",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-6": "comparison",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-leg-11": "leg",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-platforms-26": "platforms",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-semisubmersible-25": "semisubmersible",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-9": "taut",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-results-2": "results",
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-analysis-6": "analysis"
+  },
+  "graph": [
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16",
+      "relation": "increase in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-ocean-11-area-12"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-new-15"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-ocean-11-area-12",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-given-10"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-increase-2",
+      "relation": "may put requirements on",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-design-19"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-design-19",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-21-systems-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-increase-2",
+      "relation": "is in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-ocean-11-area-12"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-increase-2",
+      "relation": "may put",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16",
+      "relation": "increase of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-oil-4-exploration-5"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-design-19",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-units-26"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-layout-8",
+      "relation": "allow",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-distance-21"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-layout-8",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-underwater-7"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-It-1",
+      "relation": "simplify layout through",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-reduction-11"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-distance-21",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-smaller-20"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-It-1",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-necessary-3"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-It-1",
+      "relation": "simplify",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-layout-8"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-distance-21",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-production-24-units-25"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-reduction-11",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-14"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-utilisation-5",
+      "relation": "seems",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-attractive-16"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-attractive-16",
+      "relation": "mark",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-to-13"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-attractive-16",
+      "relation": "at",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-very-15"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-utilisation-5",
+      "relation": "seems In",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-context-3"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-object-3",
+      "relation": "is present",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-12-leg-16-offset-26"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-12-leg-16-offset-26",
+      "relation": "at",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14-leg-16"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-19-systems-20",
+      "relation": "taut leg in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-19-systems-20",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-conventional-18"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-total-24"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-object-3",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-2"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-19-systems-20",
+      "relation": "leg in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-unit-25"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-12-leg-16-offset-26",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14-leg-16",
+      "relation": "is in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14---15-leg-16-and-17-conventional-18-mooring-19-systems-20-in-21-terms-22-of-23-total-24-unit-25",
+      "relation": "is presented",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-8"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14---15-leg-16-and-17-conventional-18-mooring-19-systems-20-in-21-terms-22-of-23-total-24-unit-25",
+      "relation": "is presented initially",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-authors-16",
+      "relation": "select",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-26-system-27"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-12-procedure-13"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-best-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-19-procedure-20",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-applied-22"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-19-procedure-20",
+      "relation": "make",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-6"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-6",
+      "relation": "of",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-leg-11"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-19-procedure-20",
+      "relation": "is applied to",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-platforms-26"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-platforms-26",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-semisubmersible-25"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-6",
+      "relation": "is",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-9"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-platforms-26",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-results-2",
+      "relation": "obtained in",
+      "object_id": "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-analysis-6"
+    }
+  ],
+  "links": {
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-requirements-16": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-ocean-11-area-12": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-new-15": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-given-10": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-increase-2": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-design-19": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-21-systems-22": [
+      "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-26-system-27"
+    ],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-oil-4-exploration-5": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-units-26": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-layout-8": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-distance-21": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-underwater-7": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-It-1": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-reduction-11": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-smaller-20": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-necessary-3": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-production-24-units-25": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-14": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-utilisation-5": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-attractive-16": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-to-13": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-very-15": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-context-3": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-object-3": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-12-leg-16-offset-26": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14-leg-16": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-19-systems-20": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-terms-22": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-conventional-18": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-total-24": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-2": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-unit-25": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-14---15-leg-16-and-17-conventional-18-mooring-19-systems-20-in-21-terms-22-of-23-total-24-unit-25": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-lines-9": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-main-8": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-authors-16": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-configuration-23": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-26-system-27": [
+      "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-mooring-21-systems-22"
+    ],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-12-procedure-13": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-best-22": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-synthesis-19-procedure-20": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-applied-22": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-comparison-6": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-leg-11": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-platforms-26": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-semisubmersible-25": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-taut-9": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-results-2": [],
+    "c2c1112b-eb03-4a92-92fa-46cb7e40b8cc-analysis-6": []
+  }
+}

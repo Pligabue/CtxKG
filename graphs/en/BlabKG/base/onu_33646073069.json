@@ -1,0 +1,277 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33646073069.txt",
+  "entities": {
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-located-23": "located",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-area-39": "area",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-known-40": "known",
+    "NE-LOCATION-Araucária": "Araucária",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-34": "oil",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-9-spill-10": "oil spill",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-July-2-16-3-2000-5": "July 16 2000",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-crude-8": "crude",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-refinery-15": "refinery",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-retained-36": "retained",
+    "NE-ORGANIZATION-Refinaria-Presidente-Getúlio-Vargas-REPAR": "Refinaria Presidente Getúlio Vargas - REPAR",
+    "NE-ORGANIZATION-Ponto": "Ponto",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-paper-2": "paper",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-overview-5": "overview",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-8-program-9": "remediation program",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-14-product-16-recovery-17": "free product recovery",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-sector-20": "sector",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-3-technologies-4": "remediation technologies",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-1-7": "1",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-major-2": "major",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-trenches-2": "trenches",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-most-7": "most",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-product-11": "product",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-10": "free",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-treatment-2-wetland-3": "treatment wetland",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23": "capable",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-28": "groundwater",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-removing-25": "removing",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-hydrocarbons-26": "hydrocarbons",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-to-21": "to",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-wetland-8-vegetation-9": "wetland vegetation",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-restoring-7": "restoring",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-successful-5": "successful",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-Data-1": "Data",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10": "decline",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-TPH-12-concentrations-13": "TPH concentrations",
+    "NE-TITLE-general": "general",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-4-monitoring-5-program-6": "groundwater monitoring program",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-2002-24-sampling-25-campaigns-26": "2002 sampling campaigns",
+    "NE-DATE-October-2000": "October 2000",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-BTEX-1-concentrations-2": "BTEX concentrations",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-method-7-detection-8-limit-9": "method detection limit",
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-generally-4": "generally"
+  },
+  "graph": [
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-located-23",
+      "relation": "was retained within",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-area-39"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-area-39",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-known-40"
+    },
+    {
+      "subject_id": "NE-LOCATION-Araucária",
+      "relation": "quantity of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-34"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-9-spill-10",
+      "relation": "occurred On",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-July-2-16-3-2000-5"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-9-spill-10",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-crude-8"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-9-spill-10",
+      "relation": "occurred at",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-refinery-15"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-refinery-15",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-located-23",
+      "relation": "was",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-retained-36"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Refinaria-Presidente-Getúlio-Vargas-REPAR",
+      "relation": "is refinery of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-area-39",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Ponto"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-paper-2",
+      "relation": "presents",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-overview-5"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-overview-5",
+      "relation": "of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-8-program-9"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-overview-5",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Ponto"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-14-product-16-recovery-17",
+      "relation": "is in",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-sector-20"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-3-technologies-4",
+      "relation": "are",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-1-7"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-3-technologies-4",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-major-2"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-trenches-2",
+      "relation": "removed",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-most-7"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-most-7",
+      "relation": "of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-product-11"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-most-7",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-10"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-treatment-2-wetland-3",
+      "relation": "appears",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23",
+      "relation": "of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-28"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-removing-25"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23",
+      "relation": "at",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-hydrocarbons-26"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23",
+      "relation": "mark",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-to-21"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-treatment-2-wetland-3",
+      "relation": "was successful in",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-wetland-8-vegetation-9"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-wetland-8-vegetation-9",
+      "relation": "is",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-restoring-7"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-treatment-2-wetland-3",
+      "relation": "was",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-successful-5"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-Data-1",
+      "relation": "indicates",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10",
+      "relation": "of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-TPH-12-concentrations-13"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10",
+      "relation": "is",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10",
+      "relation": "Data of",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-4-monitoring-5-program-6"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-Data-1",
+      "relation": "indicates decline over",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-2002-24-sampling-25-campaigns-26"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-2002-24-sampling-25-campaigns-26",
+      "relation": "of",
+      "object_id": "NE-DATE-October-2000"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10",
+      "relation": "is in",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-TPH-12-concentrations-13"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-BTEX-1-concentrations-2",
+      "relation": "are below",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-method-7-detection-8-limit-9"
+    },
+    {
+      "subject_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-method-7-detection-8-limit-9",
+      "relation": "at",
+      "object_id": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-generally-4"
+    }
+  ],
+  "links": {
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-located-23": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-area-39": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-known-40": [],
+    "NE-LOCATION-Araucária": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-34": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-oil-9-spill-10": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-July-2-16-3-2000-5": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-crude-8": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-refinery-15": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-retained-36": [],
+    "NE-ORGANIZATION-Refinaria-Presidente-Getúlio-Vargas-REPAR": [],
+    "NE-ORGANIZATION-Ponto": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-paper-2": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-overview-5": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-8-program-9": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-14-product-16-recovery-17": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-sector-20": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-remediation-3-technologies-4": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-1-7": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-major-2": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-trenches-2": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-most-7": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-product-11": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-free-10": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-treatment-2-wetland-3": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-capable-23": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-28": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-removing-25": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-hydrocarbons-26": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-to-21": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-wetland-8-vegetation-9": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-restoring-7": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-successful-5": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-Data-1": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-decline-10": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-TPH-12-concentrations-13": [],
+    "NE-TITLE-general": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-groundwater-4-monitoring-5-program-6": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-2002-24-sampling-25-campaigns-26": [],
+    "NE-DATE-October-2000": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-BTEX-1-concentrations-2": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-method-7-detection-8-limit-9": [],
+    "c34753c7-bece-49e6-8cfe-9e17f85cdefc-generally-4": []
+  }
+}

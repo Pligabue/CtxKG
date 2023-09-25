@@ -1,0 +1,120 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85064983703.txt",
+  "entities": {
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-performance-2": "performance",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-25": "evaluated",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-16": "evaluated",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11": "atmospheric",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-main-10": "main",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-significant-3-upgrades-4": "significant upgrades",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-components-9": "components",
+    "NE-TITLE-model": "model",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-BESM-1-OA2-3-.5-4": "BESM OA2 .5",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13": "scale variabilities",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-large-10": "large",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-most-8": "most",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-important-9": "important",
+    "NE-LOCATION-Atlantic-Ocean": "Atlantic Ocean",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-particularly-15": "particularly",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-usefulness-14": "usefulness",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-climate-21-change-22-studies-23": "climate change studies",
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-ability-4-to-5-simulate-6": "ability to simulate"
+  },
+  "graph": [
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-performance-2",
+      "relation": "was",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-25"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "were",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-16"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "is",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "is",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-main-10"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-significant-3-upgrades-4",
+      "relation": "is in",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-components-9"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "has",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-components-9"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "in",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-components-9"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-BESM-1-OA2-3-.5-4",
+      "relation": "could reproduce",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "is",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-large-10"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "at",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-most-8"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "is",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-important-9"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Atlantic-Ocean"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13",
+      "relation": "at",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-particularly-15"
+    },
+    {
+      "subject_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-usefulness-14",
+      "relation": "is in",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-climate-21-change-22-studies-23"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "has",
+      "object_id": "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-ability-4-to-5-simulate-6"
+    }
+  ],
+  "links": {
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-performance-2": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-25": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-evaluated-16": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-atmospheric-11": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-main-10": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-significant-3-upgrades-4": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-components-9": [],
+    "NE-TITLE-model": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-BESM-1-OA2-3-.5-4": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-scale-12-variabilities-13": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-large-10": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-most-8": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-important-9": [],
+    "NE-LOCATION-Atlantic-Ocean": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-particularly-15": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-usefulness-14": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-climate-21-change-22-studies-23": [],
+    "bec7d85d-54cb-44c8-9c29-2e9ea01ad31f-ability-4-to-5-simulate-6": []
+  }
+}

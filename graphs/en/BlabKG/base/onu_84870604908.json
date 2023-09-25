@@ -1,0 +1,410 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84870604908.txt",
+  "entities": {
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advances-3": "advances",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6": "development",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-systems-2": "systems",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6": "operate",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-5": "to",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-designed-4": "designed",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-efficiently-7": "efficiently",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-ways-32": "ways",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-size-36": "size",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-39": "hardware",
+    "NE-ORGANIZATION-CompactGTL-plc": "CompactGTL plc",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-solutions-12": "solutions",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-based-3": "based",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-modular-11": "modular",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-8": "Velocys",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-company-4": "company",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-both-29": "both",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-modules-17": "modules",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25": "200 bpd",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-module-29": "module",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-liquids-27": "liquids",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10": "Velocys SMR FT system",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23": "hardware",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantage-15": "advantage",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-combined-6": "combined",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-contrast-2": "contrast",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-processes-27": "processes",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-microchannel-17-reactor-18-technology-19": "microchannel reactor technology",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-3-technologies-6": "CompactGTL technologies",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-trial-10-stage-11": "trial stage",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1": "CompactGTL",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22": "tested",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-20": "to",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8": "development testing agreement",
+    "NE-DATE-2006": "2006",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-5": "joint",
+    "NE-CITY-Aracaju": "Aracaju",
+    "NE-LOCATION-Petrobras": "Petrobras",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-deliver-14": "deliver",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-13": "to",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-onshore-23": "onshore",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-facility-44": "facility",
+    "NE-CITY-Fortaleza": "Fortaleza",
+    "NE-PERSON-Velocys": "Velocys",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-demonstration-12": "demonstration",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-11": "joint",
+    "NE-ORGANIZATION-Modec": "Modec",
+    "NE-TITLE-developer": "developer",
+    "NE-DATE-March-2010": "March 2010",
+    "NE-ORGANIZATION-Toyo-Engineering": "Toyo Engineering",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-agreement-15": "agreement",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-it-11": "it",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19": "advantages",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-small-21": "small",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-scale-23-GTL-24": "scale GTL",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-trials-2": "trials",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-6": "CompactGTL",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-possible-15": "possible",
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-well-13": "well"
+  },
+  "graph": [
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advances-3",
+      "relation": "is in",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-systems-2",
+      "relation": "are designed",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6",
+      "relation": "mark",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-5"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-systems-2",
+      "relation": "are",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-designed-4"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6",
+      "relation": "at",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-efficiently-7"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-ways-32",
+      "relation": "reduce",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-size-36"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-size-36",
+      "relation": "of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-39"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-CompactGTL-plc",
+      "relation": "are developing",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-solutions-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-CompactGTL-plc",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-based-3"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-solutions-12",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-modular-11"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-8",
+      "relation": "are developing",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-solutions-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-CompactGTL-plc",
+      "relation": "of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-company-4"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-both-29",
+      "relation": "have found",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-ways-32"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-modules-17",
+      "relation": "producing",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25",
+      "relation": "of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-module-29"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25",
+      "relation": "of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-liquids-27"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10",
+      "relation": "shrink",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10",
+      "relation": "takes",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantage-15"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-combined-6"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10",
+      "relation": "takes advantage In",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-contrast-2"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23",
+      "relation": "intensify",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-processes-27"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23",
+      "relation": "intensify even further",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-processes-27"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10",
+      "relation": "takes advantage of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-microchannel-17-reactor-18-technology-19"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23",
+      "relation": "intensify further",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-processes-27"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-3-technologies-6",
+      "relation": "have reached",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-trial-10-stage-11"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1",
+      "relation": "deliver",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22",
+      "relation": "mark",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-20"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8",
+      "relation": "is in",
+      "object_id": "NE-DATE-2006"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-5"
+    },
+    {
+      "subject_id": "NE-CITY-Aracaju",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-CITY-Aracaju",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Petrobras"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1",
+      "relation": "entered",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-deliver-14"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-deliver-14",
+      "relation": "mark",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-13"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1",
+      "relation": "entered into",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8",
+      "relation": "of",
+      "object_id": "NE-DATE-2006"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22",
+      "relation": "at",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-onshore-23"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22",
+      "relation": "at",
+      "object_id": "NE-CITY-Aracaju"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-facility-44",
+      "relation": "is in",
+      "object_id": "NE-CITY-Fortaleza"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-facility-44",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-PERSON-Velocys",
+      "relation": "entered into",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-demonstration-12"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-demonstration-12",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Modec",
+      "relation": "is with",
+      "object_id": "NE-TITLE-developer"
+    },
+    {
+      "subject_id": "NE-PERSON-Velocys",
+      "relation": "entered in",
+      "object_id": "NE-DATE-March-2010"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Modec",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Toyo-Engineering"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-agreement-15",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Modec"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-it-11",
+      "relation": "reap sooner",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19",
+      "relation": "is",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-small-21"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19",
+      "relation": "of",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-scale-23-GTL-24"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-it-11",
+      "relation": "reap",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-trials-2",
+      "relation": "being undertaken by",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-6"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-it-11",
+      "relation": "be",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-possible-15"
+    },
+    {
+      "subject_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-possible-15",
+      "relation": "at",
+      "object_id": "3f1a547b-6d66-41b8-8607-95757af4c8cc-well-13"
+    }
+  ],
+  "links": {
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advances-3": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-systems-2": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-operate-6": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-5": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-designed-4": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-efficiently-7": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-ways-32": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-size-36": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-39": [],
+    "NE-ORGANIZATION-CompactGTL-plc": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-solutions-12": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-based-3": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-modular-11": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-8": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-company-4": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-both-29": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-modules-17": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-200-24-bpd-25": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-module-29": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-liquids-27": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-Velocys-5-SMR-7-FT-9-system-10": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-hardware-23": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantage-15": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-combined-6": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-contrast-2": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-processes-27": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-microchannel-17-reactor-18-technology-19": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-3-technologies-6": [
+      "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1"
+    ],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-trial-10-stage-11": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-1": [
+      "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-3-technologies-6"
+    ],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-tested-22": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-20": [],
+    "NE-COUNTRY-Brazil": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-development-6-testing-7-agreement-8": [],
+    "NE-DATE-2006": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-5": [],
+    "NE-CITY-Aracaju": [],
+    "NE-LOCATION-Petrobras": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-deliver-14": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-to-13": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-onshore-23": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-facility-44": [],
+    "NE-CITY-Fortaleza": [],
+    "NE-PERSON-Velocys": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-demonstration-12": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-joint-11": [],
+    "NE-ORGANIZATION-Modec": [],
+    "NE-TITLE-developer": [],
+    "NE-DATE-March-2010": [],
+    "NE-ORGANIZATION-Toyo-Engineering": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-agreement-15": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-it-11": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-advantages-19": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-small-21": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-scale-23-GTL-24": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-trials-2": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-CompactGTL-6": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-possible-15": [],
+    "3f1a547b-6d66-41b8-8607-95757af4c8cc-well-13": []
+  }
+}

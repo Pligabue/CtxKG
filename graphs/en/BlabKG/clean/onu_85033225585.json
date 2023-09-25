@@ -1,0 +1,302 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85033225585.txt",
+  "entities": {
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4": "Elimination",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16": "demultiple tool",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Multiple-3": "Multiple",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approved-10": "approved",
+    "NE-TITLE-marine": "marine",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-effective-14": "effective",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-to-11": "to",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-data-19-processing-20": "data processing",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Surface-1": "Surface",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-6": "SRME",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2": "paper",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-water-10-data-11": "water data",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-matching-39-filter-40": "matching filter",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-period-35-multiples-36": "period multiples",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-shallow-9": "shallow",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-short-33": "short",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-17": "SRME",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SWME-28": "SWME",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-conventional-16": "conventional",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-6": "approach",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-new-5": "new",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Green-33": "Green",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-35": "functions",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-water-9-bottom-11-Green-12": "water bottom Green",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14": "functions",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-amplitudes-21": "amplitudes",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-multiples-24": "multiples",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42": "reflection",
+    "NE-TITLE-model": "model",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-multiple-49": "multiple",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71": "receiver - side water bottom multiples",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-critical-41": "critical",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-artefacts-46": "artefacts",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-aperture-30": "aperture",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-cost-54": "cost",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-correct-20": "correct",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-efficiency-75": "efficiency",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-distance-38": "distance",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-broadband-2-2D-3-line-4": "broadband 2D line",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10": "tested",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-14": "approach",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-proposed-13": "proposed",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-10": "SRME",
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Tau-12-P-14": "Tau P"
+  },
+  "graph": [
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4",
+      "relation": "been approved",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Multiple-3"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4",
+      "relation": "been",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-approved-10"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-effective-14"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16",
+      "relation": "mark",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-to-11"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16",
+      "relation": "of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-data-19-processing-20"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Surface-1",
+      "relation": "Related",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Surface-1",
+      "relation": "Related",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-6"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2",
+      "relation": "applied to",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-water-10-data-11"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-matching-39-filter-40",
+      "relation": "cross-talk of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-period-35-multiples-36"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-water-10-data-11",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-shallow-9"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-period-35-multiples-36",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-short-33"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-17",
+      "relation": "means of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SWME-28"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-17",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-conventional-16"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2",
+      "relation": "proposes",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-6"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-6",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-new-5"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Green-33",
+      "relation": "of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-35"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-water-9-bottom-11-Green-12",
+      "relation": "has",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "predicts",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-amplitudes-21"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-amplitudes-21",
+      "relation": "of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-multiples-24"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42",
+      "relation": "suppresses artefacts in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-multiple-49"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "subtracting significantly",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-critical-41"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "subtracting",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "Simultaneously subtracting significantly",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42",
+      "relation": "suppresses",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-artefacts-46"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "limiting",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-aperture-30"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Green-33",
+      "relation": "has",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-aperture-30"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-aperture-30",
+      "relation": "of",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-35"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42",
+      "relation": "lowers",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-cost-54"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-amplitudes-21",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-correct-20"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71",
+      "relation": "improves",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-efficiency-75"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "limiting aperture to",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-distance-38"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14",
+      "relation": "Simultaneously subtracting",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-broadband-2-2D-3-line-4",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10",
+      "relation": "at",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-14"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10",
+      "relation": "is",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-proposed-13"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-10",
+      "relation": "years ago",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Tau-12-P-14"
+    },
+    {
+      "subject_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-10",
+      "relation": "years",
+      "object_id": "7de64ed0-3f58-45d8-9cc8-eef825191710-Tau-12-P-14"
+    }
+  ],
+  "links": {
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Elimination-4": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-demultiple-15-tool-16": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Multiple-3": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approved-10": [],
+    "NE-TITLE-marine": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-effective-14": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-to-11": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-data-19-processing-20": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Surface-1": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-6": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-water-10-data-11": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-matching-39-filter-40": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-period-35-multiples-36": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-shallow-9": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-short-33": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-17": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SWME-28": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-conventional-16": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-6": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-new-5": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Green-33": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-35": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-water-9-bottom-11-Green-12": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-functions-14": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-amplitudes-21": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-multiples-24": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-reflection-42": [],
+    "NE-TITLE-model": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-multiple-49": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-receiver-62---63-side-67-water-68-bottom-70-multiples-71": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-critical-41": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-artefacts-46": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-aperture-30": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-cost-54": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-correct-20": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-efficiency-75": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-distance-38": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-broadband-2-2D-3-line-4": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-tested-10": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-approach-14": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-proposed-13": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-SRME-10": [],
+    "7de64ed0-3f58-45d8-9cc8-eef825191710-Tau-12-P-14": []
+  }
+}

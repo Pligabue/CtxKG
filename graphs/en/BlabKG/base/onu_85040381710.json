@@ -1,0 +1,61 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85040381710.txt",
+  "entities": {
+    "342a0635-fe75-43e7-baff-7051c191187f-three-10-tuna-11-species-12": "three tuna species",
+    "342a0635-fe75-43e7-baff-7051c191187f-waters-15": "waters",
+    "342a0635-fe75-43e7-baff-7051c191187f-delimitation-2": "delimitation",
+    "342a0635-fe75-43e7-baff-7051c191187f-studied-27": "studied",
+    "342a0635-fe75-43e7-baff-7051c191187f-data-2-data-12": "data data",
+    "342a0635-fe75-43e7-baff-7051c191187f-correlated-14": "correlated",
+    "342a0635-fe75-43e7-baff-7051c191187f-Oceanographic-1": "Oceanographic",
+    "342a0635-fe75-43e7-baff-7051c191187f-Surface-1-temperature-2-intervals-3": "Surface temperature intervals",
+    "342a0635-fe75-43e7-baff-7051c191187f-determined-13": "determined",
+    "NE-DATE-1983": "1983",
+    "342a0635-fe75-43e7-baff-7051c191187f-9-7": "9"
+  },
+  "graph": [
+    {
+      "subject_id": "342a0635-fe75-43e7-baff-7051c191187f-three-10-tuna-11-species-12",
+      "relation": "is in",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-waters-15"
+    },
+    {
+      "subject_id": "342a0635-fe75-43e7-baff-7051c191187f-delimitation-2",
+      "relation": "was",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-studied-27"
+    },
+    {
+      "subject_id": "342a0635-fe75-43e7-baff-7051c191187f-data-2-data-12",
+      "relation": "were",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-correlated-14"
+    },
+    {
+      "subject_id": "342a0635-fe75-43e7-baff-7051c191187f-data-2-data-12",
+      "relation": "is",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-Oceanographic-1"
+    },
+    {
+      "subject_id": "342a0635-fe75-43e7-baff-7051c191187f-Surface-1-temperature-2-intervals-3",
+      "relation": "were",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-determined-13"
+    },
+    {
+      "subject_id": "NE-DATE-1983",
+      "relation": "STAR at_time",
+      "object_id": "342a0635-fe75-43e7-baff-7051c191187f-9-7"
+    }
+  ],
+  "links": {
+    "342a0635-fe75-43e7-baff-7051c191187f-three-10-tuna-11-species-12": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-waters-15": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-delimitation-2": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-studied-27": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-data-2-data-12": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-correlated-14": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-Oceanographic-1": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-Surface-1-temperature-2-intervals-3": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-determined-13": [],
+    "NE-DATE-1983": [],
+    "342a0635-fe75-43e7-baff-7051c191187f-9-7": []
+  }
+}

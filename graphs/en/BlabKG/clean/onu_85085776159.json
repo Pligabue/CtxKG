@@ -1,0 +1,173 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085776159.txt",
+  "entities": {
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-projects-8": "projects",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-pre-salt-11-exploration-12": "pre-salt exploration",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-new-6": "new",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-deep-16-influence-17": "deep influence",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-platform-19-safety-20": "platform safety",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-40-procedures-41": "constructability procedures",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-design-53": "design",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-3": "technologies",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-identified-29": "identified",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-2": "digital",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-consistency-25-check-26": "consistency check",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-developed-35": "developed",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-disciplines-49": "disciplines",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-detailed-52": "detailed",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-construction-44-inconsistencies-45": "construction inconsistencies",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-involved-48": "involved",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-posterior-51": "posterior",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-several-47": "several",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-manuscript-2": "manuscript",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7": "use",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-9": "digital",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-13-analysis-14": "constructability analysis",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-offshore-16-oil-17-production-20-facility-21-surface-23-installations-24": "offshore oil production facility surface installations",
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-10": "technologies",
+    "NE-ORGANIZATION-Petrobras": "Petrobras"
+  },
+  "graph": [
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-projects-8",
+      "relation": "is in",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-pre-salt-11-exploration-12"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-projects-8",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-FPSO"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-projects-8",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-new-6"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-pre-salt-11-exploration-12",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-deep-16-influence-17",
+      "relation": "is in",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-platform-19-safety-20"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-40-procedures-41",
+      "relation": "solve construction inconsistencies in",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-design-53"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-3",
+      "relation": "were",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-identified-29"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-3",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-2"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-consistency-25-check-26",
+      "relation": "were",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-developed-35"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-40-procedures-41",
+      "relation": "solve construction inconsistencies between",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-disciplines-49"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-design-53",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-detailed-52"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-40-procedures-41",
+      "relation": "solve",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-construction-44-inconsistencies-45"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-disciplines-49",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-involved-48"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-design-53",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-posterior-51"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-disciplines-49",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-several-47"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-manuscript-2",
+      "relation": "present",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7",
+      "relation": "is",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-9"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7",
+      "relation": "support",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-13-analysis-14"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-13-analysis-14",
+      "relation": "of",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-offshore-16-oil-17-production-20-facility-21-surface-23-installations-24"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7",
+      "relation": "of",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-10"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-offshore-16-oil-17-production-20-facility-21-surface-23-installations-24",
+      "relation": "projects of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-13-analysis-14",
+      "relation": "is in",
+      "object_id": "68be5ebe-fea0-40de-b540-0c2b01b2e926-offshore-16-oil-17-production-20-facility-21-surface-23-installations-24"
+    }
+  ],
+  "links": {
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-projects-8": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-pre-salt-11-exploration-12": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-new-6": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-deep-16-influence-17": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-platform-19-safety-20": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-40-procedures-41": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-design-53": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-3": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-identified-29": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-2": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-consistency-25-check-26": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-developed-35": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-disciplines-49": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-detailed-52": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-construction-44-inconsistencies-45": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-involved-48": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-posterior-51": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-several-47": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-manuscript-2": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-use-7": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-digital-9": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-constructability-13-analysis-14": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-offshore-16-oil-17-production-20-facility-21-surface-23-installations-24": [],
+    "68be5ebe-fea0-40de-b540-0c2b01b2e926-technologies-10": [],
+    "NE-ORGANIZATION-Petrobras": []
+  }
+}

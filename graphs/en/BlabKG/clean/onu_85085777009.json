@@ -1,0 +1,274 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085777009.txt",
+  "entities": {
+    "d32271d8-792a-4672-97e1-b4c138d6d351-way-6-companies-7": "way companies",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-market-11": "market",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-work-15-processes-16": "work processes",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9": "phenomenon",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-recent-12": "recent",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-more-11": "more",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-oil-3-industry-6": "oil industry",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-companies-6": "companies",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-implementation-14": "implementation",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-culture-18": "culture",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-new-17": "new",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9-importance-2": "phenomenon importance",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-such-4": "such",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34": "fronts",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40": "implemented in areas",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43": "alignment",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-area-11": "area",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-initiatives-30": "initiatives",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-10": "corporate",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-responsible-12": "responsible",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-29": "corporate",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46": "guidelines",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-institutional-45": "institutional",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-opportunities-26": "opportunities",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-new-25": "new",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-movement-22": "movement",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-other-39": "other",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-digital-15-transformation-16": "digital transformation",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-company-19": "company",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-ensuring-42": "ensuring",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-already-35": "already",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-testing-18-environment-19": "testing environment",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-solutions-23": "solutions",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-program-2": "program",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-Digital-7-Transformation-8-initiative-10": "Digital Transformation initiative",
+    "NE-URL-Libr@Digital": "Libr@Digital",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-9": "corporate",
+    "NE-LOCATION-Libra": "Libra",
+    "d32271d8-792a-4672-97e1-b4c138d6d351-its-8-structe-9": "its structe"
+  },
+  "graph": [
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-way-6-companies-7",
+      "relation": "operate in",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-market-11"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-way-6-companies-7",
+      "relation": "of",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-work-15-processes-16"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-recent-12"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-recent-12",
+      "relation": "at",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-more-11"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9",
+      "relation": "is more recent In",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-oil-3-industry-6"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9",
+      "relation": "is recent In",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-oil-3-industry-6"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-companies-6",
+      "relation": "accelerate",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implementation-14"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implementation-14",
+      "relation": "of",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-culture-18"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implementation-14",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-new-17"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9-importance-2",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-such-4"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34",
+      "relation": "being",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34",
+      "relation": "already being implemented",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-area-11",
+      "relation": "coordinating",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-initiatives-30"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-area-11",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-10"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34",
+      "relation": "being implemented",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-area-11",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-responsible-12"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-initiatives-30",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-29"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34",
+      "relation": "alignment with",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-institutional-45"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-area-11",
+      "relation": "identifying",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-opportunities-26"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-opportunities-26",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-new-25"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-area-11",
+      "relation": "orchestrates",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-movement-22"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-other-39"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-digital-15-transformation-16",
+      "relation": "is in",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-company-19"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-ensuring-42"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43",
+      "relation": "is with",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34",
+      "relation": "ensuring alignment with",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43",
+      "relation": "of",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40",
+      "relation": "at",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-already-35"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-testing-18-environment-19",
+      "relation": "validate",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-solutions-23"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-testing-18-environment-19",
+      "relation": "validate before",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-solutions-23"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-program-2",
+      "relation": "aligned with",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-Digital-7-Transformation-8-initiative-10"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-program-2",
+      "relation": "is",
+      "object_id": "NE-URL-Libr@Digital"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-Digital-7-Transformation-8-initiative-10"
+    },
+    {
+      "subject_id": "d32271d8-792a-4672-97e1-b4c138d6d351-Digital-7-Transformation-8-initiative-10",
+      "relation": "is",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-9"
+    },
+    {
+      "subject_id": "NE-LOCATION-Libra",
+      "relation": "is in",
+      "object_id": "d32271d8-792a-4672-97e1-b4c138d6d351-its-8-structe-9"
+    }
+  ],
+  "links": {
+    "d32271d8-792a-4672-97e1-b4c138d6d351-way-6-companies-7": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-market-11": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-work-15-processes-16": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-recent-12": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-more-11": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-oil-3-industry-6": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-companies-6": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-implementation-14": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-culture-18": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-new-17": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-phenomenon-9-importance-2": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-such-4": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-fronts-34": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-implemented-37-in-38-areas-40": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-alignment-43": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-area-11": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-initiatives-30": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-10": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-responsible-12": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-29": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-guidelines-46": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-institutional-45": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-opportunities-26": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-new-25": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-movement-22": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-other-39": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-digital-15-transformation-16": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-company-19": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-ensuring-42": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-already-35": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-testing-18-environment-19": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-solutions-23": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-program-2": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-Digital-7-Transformation-8-initiative-10": [],
+    "NE-URL-Libr@Digital": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-corporate-9": [],
+    "NE-LOCATION-Libra": [],
+    "d32271d8-792a-4672-97e1-b4c138d6d351-its-8-structe-9": []
+  }
+}

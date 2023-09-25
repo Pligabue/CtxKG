@@ -1,0 +1,377 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_68649126570.txt",
+  "entities": {
+    "NE-PERSON-Luiz-Inácio-Lula-da-Silva": "Luiz Inácio Lula da Silva",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": "presence",
+    "NE-LOCATION-Republic": "Republic",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-sea-26": "sea",
+    "NE-TITLE-President": "President",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-state-20": "state",
+    "NE-PERCENT-75%": "75 %",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1": "Ordered",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": "Marlim Sul field",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10": "operate",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": "programmed",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": "to",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": "basin",
+    "NE-PERSON-Campos": "Campos",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": "construction",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": "operating capacity",
+    "NE-DATE-2010": "2010",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": "51",
+    "NE-MISC-P-51": "P - 51",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": "maximum",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": "petroleum",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": "180,000 bpd",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2": "P",
+    "NE-PERCENT-8%": "8 %",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": "petroleum production",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12": "national",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": "will strategic",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": "respect",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": "part",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10": "PDET",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": "basin",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": "Diretor de Escoamento e Tratamento",
+    "NE-CITY-Plano": "Plano",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": "also",
+    "NE-CITY-Cuenca": "Cuenca",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": "part",
+    "NE-DURATION-day": "day",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": "6 million cu m",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-15-consumption-19": "will consumption",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-gas-10": "gas",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": "internal",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6": "construction base",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": "naval",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-22-41-°-42-API-43": "22 ° API",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-connected-23": "connected",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-19-25-wells-26": "19 wells",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": "water injection wells",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": "282,000 bpd",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": "9",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": "water",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-3-100-5-Mw-6": "will 100 Mw",
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-light-11": "light"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-PERSON-Luiz-Inácio-Lula-da-Silva",
+      "relation": "launched In",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Republic"
+    },
+    {
+      "subject_id": "NE-PERSON-Luiz-Inácio-Lula-da-Silva",
+      "relation": "launched to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-sea-26"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3",
+      "relation": "of",
+      "object_id": "NE-TITLE-President"
+    },
+    {
+      "subject_id": "NE-LOCATION-Republic",
+      "relation": "is",
+      "object_id": "NE-PERSON-Luiz-Inácio-Lula-da-Silva"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-state-20",
+      "relation": "is with",
+      "object_id": "NE-PERCENT-75%"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1",
+      "relation": "is programmed",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15",
+      "relation": "mark",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1",
+      "relation": "is programmed",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1",
+      "relation": "operate in",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10",
+      "relation": "mark",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18",
+      "relation": "state with",
+      "object_id": "NE-PERCENT-75%"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18",
+      "relation": "of",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18",
+      "relation": "state of",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18",
+      "relation": "applied to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "will reach",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "will reach operating capacity In",
+      "object_id": "NE-DATE-2010"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "amount to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7"
+    },
+    {
+      "subject_id": "NE-MISC-P-51",
+      "relation": "has",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "will provide",
+      "object_id": "NE-PERCENT-8%"
+    },
+    {
+      "subject_id": "NE-PERCENT-8%",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14"
+    },
+    {
+      "subject_id": "NE-PERCENT-8%",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "will",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7",
+      "relation": "at",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "is part of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "is also part of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "is part of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17",
+      "relation": "of",
+      "object_id": "NE-CITY-Plano"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7",
+      "relation": "at",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22",
+      "relation": "of PDET is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22",
+      "relation": "of",
+      "object_id": "NE-CITY-Cuenca"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "is also part of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14",
+      "relation": "produced Of",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "NE-DURATION-day",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14",
+      "relation": "will for",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-15-consumption-19"
+    },
+    {
+      "subject_id": "NE-DURATION-day",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-gas-10"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-15-consumption-19",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "wants",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6",
+      "relation": "is",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "produce",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-22-41-°-42-API-43"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "be",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-connected-23"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2",
+      "relation": "be connected to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-19-25-wells-26"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5",
+      "relation": "will inject",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5",
+      "relation": "amount to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9",
+      "relation": "of",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11"
+    },
+    {
+      "subject_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-3-100-5-Mw-6",
+      "relation": "energy to",
+      "object_id": "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-light-11"
+    }
+  ],
+  "links": {
+    "NE-PERSON-Luiz-Inácio-Lula-da-Silva": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-presence-3": [],
+    "NE-LOCATION-Republic": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-sea-26": [],
+    "NE-TITLE-President": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-state-20": [],
+    "NE-PERCENT-75%": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Ordered-1": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Marlim-13-Sul-14-field-15": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operate-10": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-programmed-8": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-to-9": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-18": [],
+    "NE-PERSON-Campos": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-36": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-operating-12-capacity-13": [],
+    "NE-DATE-2010": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-51-7": [],
+    "NE-MISC-P-51": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-maximum-11": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-18": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-180,000-15-bpd-16": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-P-2": [],
+    "NE-PERCENT-8%": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-petroleum-13-production-14": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-national-12": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-5-strategic-7": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-respect-9": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-7": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-PDET-10": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-basin-22": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-Diretor-13-de-14-Escoamento-15-e-16-Tratamento-17": [],
+    "NE-CITY-Plano": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-also-6": [],
+    "NE-CITY-Cuenca": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-part-14": [],
+    "NE-DURATION-day": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-6-3-million-4-cu-5-m-6": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-15-consumption-19": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-gas-10": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-internal-18": [],
+    "NE-COUNTRY-Brazil": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-construction-5-base-6": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-naval-4": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-22-41-°-42-API-43": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-connected-23": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-19-25-wells-26": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-3-injection-4-wells-5": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-282,000-8-bpd-9": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-9-2": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-water-11": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-will-3-100-5-Mw-6": [],
+    "7c69eb4c-e764-45a7-a7e2-9b6a99b69281-light-11": []
+  }
+}

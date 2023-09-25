@@ -1,0 +1,133 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_16964104.txt",
+  "entities": {
+    "NE-COUNTRY-Brazil": "Brazil",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-subsea-15-techniques-16": "subsea techniques",
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": "Petroleo Brasileiro SA",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-country-33": "country",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-growing-35-energy-36-demand-37": "growing energy demand",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-bold-4-step-5": "bold step",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-field-11": "field",
+    "NE-LOCATION-Garoupa": "Garoupa",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-developing-8": "developing",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-article-2": "article",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-phase-6": "phase",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-development-9-program-10": "development program",
+    "NE-ORDINAL-first": "first",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6": "rate",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-45,000-8-d-11": "45,000 d",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-nine-13-wells-15": "nine wells",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-producing-5": "producing",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-drilled-14": "drilled",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-components-7": "components",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-will-16-encapsulated-18": "will encapsulated",
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-many-6": "many"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is with",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-subsea-15-techniques-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petroleo-Brasileiro-SA",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-country-33",
+      "relation": "has",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-growing-35-energy-36-demand-37"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-bold-4-step-5",
+      "relation": "is in",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-field-11"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-field-11",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Garoupa"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-field-11",
+      "relation": "is",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-developing-8"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-article-2",
+      "relation": "describes",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-phase-6"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-phase-6",
+      "relation": "of",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-development-9-program-10"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-phase-6",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is seeking",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6",
+      "relation": "of",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-45,000-8-d-11"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6",
+      "relation": "of",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-nine-13-wells-15"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6",
+      "relation": "is",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-producing-5"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6",
+      "relation": "is",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-drilled-14"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-components-7",
+      "relation": "will",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-will-16-encapsulated-18"
+    },
+    {
+      "subject_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-components-7",
+      "relation": "is",
+      "object_id": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-many-6"
+    }
+  ],
+  "links": {
+    "NE-COUNTRY-Brazil": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-subsea-15-techniques-16": [],
+    "NE-ORGANIZATION-Petroleo-Brasileiro-SA": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-country-33": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-growing-35-energy-36-demand-37": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-bold-4-step-5": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-field-11": [],
+    "NE-LOCATION-Garoupa": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-developing-8": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-article-2": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-phase-6": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-development-9-program-10": [],
+    "NE-ORDINAL-first": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-rate-6": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-45,000-8-d-11": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-nine-13-wells-15": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-producing-5": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-drilled-14": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-components-7": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-will-16-encapsulated-18": [],
+    "e73719d8-439a-4c06-a2a0-fc90e94e87eb-many-6": []
+  }
+}

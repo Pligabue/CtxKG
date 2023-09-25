@@ -1,0 +1,285 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85054504118.txt",
+  "entities": {
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-field-5": "field",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-water-8-depths-9": "water depths",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-giant-4": "giant",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-ranging-10": "ranging",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-oil-27": "oil",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-place-31": "place",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,900-14-m-15": "1,900 m",
+    "NE-LOCATION-Basin": "Basin",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-one-18": "one",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-23": "effective",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-development-2-plan-3-conceived-4": "development plan conceived",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-has-8-divided-10": "has divided",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-three-12-phases-13": "three phases",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26": "production system",
+    "NE-ORDINAL-first": "first",
+    "NE-TITLE-pilot": "pilot",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-cost-21": "cost",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-2": "paper",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7": "alternatives under study",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "NE-ORDINAL-second": "second",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-installation-11": "installation",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-phase-15-of-16-field-18-exploitation-19": "phase of field exploitation",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-many-4": "many",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12": "1,166 m",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21": "occur",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-start-15-up-17": "start up",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-peak-27-production-28": "peak production",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-expected-19": "expected",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-to-20": "to",
+    "NE-DATE-1994": "1994",
+    "NE-DATE-1996": "1996",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-nearly-30-200,000-31-bopd-32": "nearly 200,000 bopd",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-Water-1-depths-2": "Water depths",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2": "alternatives",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-parameters-6": "parameters",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-type-31": "type",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-configuration-33": "configuration",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-Phase-10": "Phase",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-28": "effective",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-analysis-3": "analysis",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-6": "paper",
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-economical-2": "economical"
+  },
+  "graph": [
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-field-5",
+      "relation": "located under",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-water-8-depths-9"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-field-5",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-giant-4"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-water-8-depths-9",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-ranging-10"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-oil-27",
+      "relation": "is in",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-place-31"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,900-14-m-15",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-one-18",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-23"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-development-2-plan-3-conceived-4",
+      "relation": "has",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-has-8-divided-10"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-has-8-divided-10",
+      "relation": "at",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-three-12-phases-13"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-one-18",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-one-18",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26",
+      "relation": "of",
+      "object_id": "NE-TITLE-pilot"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-23"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-cost-21"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-2",
+      "relation": "describes",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-second"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7",
+      "relation": "of",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-installation-11"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7",
+      "relation": "of",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-phase-15-of-16-field-18-exploitation-19"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-many-4"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12",
+      "relation": "is expected",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12",
+      "relation": "depths",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-start-15-up-17"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21",
+      "relation": "at",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-peak-27-production-28"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-expected-19"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12",
+      "relation": "expected",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-start-15-up-17"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21",
+      "relation": "mark",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-to-20"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21",
+      "relation": "at",
+      "object_id": "NE-DATE-1994"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-peak-27-production-28",
+      "relation": "is in",
+      "object_id": "NE-DATE-1996"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21",
+      "relation": "of",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-nearly-30-200,000-31-bopd-32"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-Water-1-depths-2",
+      "relation": "will reach",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21",
+      "relation": "of",
+      "object_id": "NE-DATE-1996"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2",
+      "relation": "differ type in",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-parameters-6"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2",
+      "relation": "differ basically",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-type-31"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-type-31",
+      "relation": "alternatives",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-configuration-33"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2",
+      "relation": "differ",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-type-31"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2",
+      "relation": "differ basically type in",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-parameters-6"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-Phase-10",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-28"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-analysis-3",
+      "relation": "ends",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-6"
+    },
+    {
+      "subject_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-analysis-3",
+      "relation": "is",
+      "object_id": "b1326d03-e928-4f17-a698-2f5bc600a0ed-economical-2"
+    }
+  ],
+  "links": {
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-field-5": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-water-8-depths-9": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-giant-4": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-ranging-10": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-oil-27": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-place-31": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,900-14-m-15": [],
+    "NE-LOCATION-Basin": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-one-18": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-23": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-development-2-plan-3-conceived-4": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-has-8-divided-10": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-three-12-phases-13": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-production-25-system-26": [],
+    "NE-ORDINAL-first": [],
+    "NE-TITLE-pilot": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-cost-21": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-2": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-5-under-6-study-7": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "NE-ORDINAL-second": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-installation-11": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-phase-15-of-16-field-18-exploitation-19": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-many-4": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-1,166-11-m-12": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-occur-21": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-start-15-up-17": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-peak-27-production-28": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-expected-19": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-to-20": [],
+    "NE-DATE-1994": [],
+    "NE-DATE-1996": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-nearly-30-200,000-31-bopd-32": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-Water-1-depths-2": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-alternatives-2": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-parameters-6": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-type-31": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-configuration-33": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-Phase-10": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-effective-28": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-analysis-3": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-6": [],
+    "b1326d03-e928-4f17-a698-2f5bc600a0ed-economical-2": []
+  }
+}

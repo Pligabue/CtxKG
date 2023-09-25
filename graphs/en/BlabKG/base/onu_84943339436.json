@@ -1,0 +1,501 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84943339436.txt",
+  "entities": {
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-2-field-3": "P55 field",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-6": "offshore",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12": "area",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20": "water depth",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-northern-11": "northern",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-1500m-23-1900m-25": "1500m 1900m",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ranging-21": "ranging",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-scope-2": "scope",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-engineering-7": "engineering",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8": "inch SCR qualification results",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-10": "presented",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-corresponding-2": "corresponding",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-show-15": "show",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-14": "to",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13": "perspective",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-12-3": "12",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24": "welding procedures",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-13-performances-14": "fatigue performances",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-high-12": "high",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Hi-6-Lo-8-requirements-9": "Hi Lo requirements",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-automatic-22": "automatic",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-tight-5": "tight",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-innovative-16": "innovative",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-developed-26": "developed",
+    "NE-MISC-Pipe-End-Design": "Pipe End Design",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-2": "paper",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6": "sequence",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-complete-5": "complete",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-machining-18": "machining",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-pipe-8-manufacturing-9-process-10": "pipe manufacturing process",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rolling-15": "rolling",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-hot-13": "hot",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-concentric-24-pipe-27-end-28-geometry-29": "concentric pipe end geometry",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-limiting-33-Stress-34-Concentration-35-Factors-36": "limiting Stress Concentration Factors",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-final-17": "final",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-qualification-3-program-4": "qualification program",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-strings-16": "strings",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-extensive-2": "extensive",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-girth-13": "girth",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welded-15": "welded",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-conducted-11": "conducted",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Lessons-3": "Lessons",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-campaign-8": "campaign",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-7": "offshore",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-significant-17-improvements-18": "significant improvements",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-20-times-21": "welding times",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rejection-12-rates-13": "rejection rates",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18": "basis",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-23": "offshore",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-22-campaign-24": "P55 campaign",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-provided-15": "provided",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-actual-21": "actual",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-linepipe-13-solution-14": "linepipe solution",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5": "advantages",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-detailed-6": "detailed",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-28-behavior-29": "fatigue behavior",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-temperature-35": "temperature",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-found-31": "found",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-enhanced-27": "enhanced",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-12": "presented",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19": "applicable",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-16": "to",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-High-21": "High",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-9": "paper",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-also-18": "also",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Temperature-22-fields-23": "Temperature fields",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-manufacturing-6-technologies-9": "manufacturing technologies",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fact-2": "fact",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Developments-16": "Developments",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-5": "presented",
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ongoing-15": "ongoing"
+  },
+  "graph": [
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-2-field-3",
+      "relation": "is located",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-6"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-2-field-3",
+      "relation": "is located Brazil in",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-2-field-3",
+      "relation": "is located Brazil in",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-northern-11"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-1500m-23-1900m-25"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ranging-21"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20",
+      "relation": "ranging from",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-1500m-23-1900m-25"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-scope-2",
+      "relation": "consisted in",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-engineering-7"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8",
+      "relation": "are",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-10"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-corresponding-2"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8",
+      "relation": "are presented",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-show-15"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-show-15",
+      "relation": "mark",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-14"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8",
+      "relation": "are presented in",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8",
+      "relation": "amount to",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-12-3"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "meet Hi Lo requirements with",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-13-performances-14"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-13-performances-14",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-high-12"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "meet together",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Hi-6-Lo-8-requirements-9"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-automatic-22"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Hi-6-Lo-8-requirements-9",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-tight-5"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-innovative-16"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "meet Hi Lo requirements together with",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-13-performances-14"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "were",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-developed-26"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "of",
+      "object_id": "NE-MISC-Pipe-End-Design"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24",
+      "relation": "meet",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Hi-6-Lo-8-requirements-9"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-2",
+      "relation": "describes",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-complete-5"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-machining-18"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "of",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-pipe-8-manufacturing-9-process-10"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "of",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rolling-15"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-hot-13"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-concentric-24-pipe-27-end-28-geometry-29",
+      "relation": "ideal for",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-limiting-33-Stress-34-Concentration-35-Factors-36"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-final-17"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-qualification-3-program-4",
+      "relation": "was conducted on",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-strings-16"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-qualification-3-program-4",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-extensive-2"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-strings-16",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-girth-13"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-strings-16",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welded-15"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-qualification-3-program-4",
+      "relation": "was",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-conducted-11"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Lessons-3",
+      "relation": "Learned from",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-campaign-8"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-campaign-8",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-7"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Lessons-3",
+      "relation": "Moreover Learned from",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-campaign-8"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-significant-17-improvements-18",
+      "relation": "is in",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-20-times-21"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rejection-12-rates-13",
+      "relation": "are provided on",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-23"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18",
+      "relation": "of",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-22-campaign-24"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rejection-12-rates-13",
+      "relation": "are",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-provided-15"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-actual-21"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-linepipe-13-solution-14",
+      "relation": "proves In",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-detailed-6"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-28-behavior-29",
+      "relation": "compensate",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-temperature-35"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-28-behavior-29",
+      "relation": "was",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-found-31"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-28-behavior-29",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-enhanced-27"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-linepipe-13-solution-14",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-12"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-linepipe-13-solution-14",
+      "relation": "proves",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19",
+      "relation": "mark",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-16"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-High-21"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-9"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-also-18"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19",
+      "relation": "at",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Temperature-22-fields-23"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-manufacturing-6-technologies-9",
+      "relation": "have opened perspective In",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fact-2"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-manufacturing-6-technologies-9",
+      "relation": "have opened",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13",
+      "relation": "of",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Developments-16"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-manufacturing-6-technologies-9",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-5"
+    },
+    {
+      "subject_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13",
+      "relation": "is",
+      "object_id": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ongoing-15"
+    }
+  ],
+  "links": {
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-2-field-3": [],
+    "NE-COUNTRY-Brazil": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-6": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-area-12": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-water-19-depth-20": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-northern-11": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-1500m-23-1900m-25": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ranging-21": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-scope-2": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-engineering-7": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-inch-5-SCR-6-qualification-7-results-8": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-10": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-corresponding-2": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-show-15": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-14": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-perspective-13": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-12-3": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-23-procedures-24": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-13-performances-14": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-high-12": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Hi-6-Lo-8-requirements-9": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-automatic-22": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-tight-5": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-innovative-16": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-developed-26": [],
+    "NE-MISC-Pipe-End-Design": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-2": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-sequence-6": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-complete-5": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-machining-18": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-pipe-8-manufacturing-9-process-10": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rolling-15": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-hot-13": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-concentric-24-pipe-27-end-28-geometry-29": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-limiting-33-Stress-34-Concentration-35-Factors-36": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-final-17": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-qualification-3-program-4": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-strings-16": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-extensive-2": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-girth-13": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welded-15": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-conducted-11": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Lessons-3": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-campaign-8": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-7": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-significant-17-improvements-18": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-welding-20-times-21": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-rejection-12-rates-13": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-basis-18": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-offshore-23": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-P55-22-campaign-24": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-provided-15": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-actual-21": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-linepipe-13-solution-14": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-advantages-5": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-detailed-6": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fatigue-28-behavior-29": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-temperature-35": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-found-31": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-enhanced-27": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-12": [
+      "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-5"
+    ],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-applicable-19": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-to-16": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-High-21": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-9": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-also-18": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Temperature-22-fields-23": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-manufacturing-6-technologies-9": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-fact-2": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-Developments-16": [],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-5": [
+      "3cd768dc-cd71-4749-a45c-61e32e4b3b06-presented-12"
+    ],
+    "3cd768dc-cd71-4749-a45c-61e32e4b3b06-ongoing-15": []
+  }
+}

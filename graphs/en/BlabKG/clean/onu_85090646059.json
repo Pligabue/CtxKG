@@ -1,0 +1,405 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85090646059.txt",
+  "entities": {
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-2": "photos",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14": "photos",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-Old-1": "Old",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19": "18 areas of 5",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-recent-13": "recent",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-compared-11": "compared",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17": "18 areas",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-states-21": "states",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-5-19-states-21": "5 states",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6": "sea level",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-12": "stable",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-9": "region",
+    "NE-DATE-1864": "1864",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-9": "photos",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-ones-29": "ones",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-old-28": "old",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-distance-20": "distance",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-original-19": "original",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-calculations-2": "calculations",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8": "line",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-produced-12": "produced",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-made-4": "made",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crustacean-15-Balanus-16": "crustacean Balanus",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lethal-7": "lethal",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-results-2": "results",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-13-7-research-8-areas-9": "13 research areas",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situation-5": "situation",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-identical-4": "identical",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-12-in-13-total-14": "18 in total",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lines-11": "lines",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-should-18-higher-20": "should higher",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-23-areas-24": "18 areas",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-barnacles-15": "barnacles",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28": "creatures",
+    "NE-DURATION-four-months": "four months",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rock-36-surface-37": "rock surface",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-upper-10": "upper",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crust-37": "crust",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45": "rate",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36": "regional",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-49-level-50-change-51": "sea level change",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-conclusion-2": "conclusion",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-two-4-possibilities-5": "two possibilities",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-same-44": "same",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-13": "sea",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17": "level",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-supposed-48": "supposed",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-one-21": "one",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-similar-18": "similar",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37": "regional crust",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13": "situated",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18": "area",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-11": "region",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-models-8": "models",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-geological-7": "geological",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-16": "stable",
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-tectonic-17": "tectonic"
+  },
+  "graph": [
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-2",
+      "relation": "were compared with",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-2",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-Old-1"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-recent-13"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-2",
+      "relation": "were",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-compared-11"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14",
+      "relation": "is in",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-states-21"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-5-19-states-21"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6",
+      "relation": "been",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-12"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6",
+      "relation": "is in",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-9"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6",
+      "relation": "been stable since",
+      "object_id": "NE-DATE-1864"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-9",
+      "relation": "compare to",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-ones-29"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-ones-29",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-old-28"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-9",
+      "relation": "were taken considering",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-distance-20"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-distance-20",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-original-19"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-calculations-2",
+      "relation": "comparing",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-produced-12"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-calculations-2",
+      "relation": "were",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-made-4"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8",
+      "relation": "at",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crustacean-15-Balanus-16"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lethal-7"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-results-2",
+      "relation": "show situation in",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-13-7-research-8-areas-9"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-results-2",
+      "relation": "show",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situation-5"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situation-5",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-identical-4"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-13-7-research-8-areas-9",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-12-in-13-total-14"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lines-11",
+      "relation": "should",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-should-18-higher-20"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-should-18-higher-20",
+      "relation": "at",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-23-areas-24"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lines-11",
+      "relation": "created by",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-barnacles-15"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28",
+      "relation": "can repopulate rock surface in",
+      "object_id": "NE-DURATION-four-months"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28",
+      "relation": "can repopulate",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rock-36-surface-37"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lines-11",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-upper-10"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28",
+      "relation": "can repopulate only",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rock-36-surface-37"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28",
+      "relation": "can repopulate rock surface only in",
+      "object_id": "NE-DURATION-four-months"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crust-37",
+      "relation": "lifting up in",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crust-37",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crust-37",
+      "relation": "lifting up quick in",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45",
+      "relation": "of",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-49-level-50-change-51"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-conclusion-2",
+      "relation": "suggests",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-two-4-possibilities-5"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-same-44"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-13",
+      "relation": "is at",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-supposed-48"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17",
+      "relation": "of",
+      "object_id": "NE-DATE-1864"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17",
+      "relation": "at",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-one-21"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-similar-18"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-13",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-similar-18"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37",
+      "relation": "However goes",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13",
+      "relation": "at",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-11",
+      "relation": "is situated on",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-11",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37",
+      "relation": "goes",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37",
+      "relation": "goes against",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-models-8"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-models-8",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-geological-7"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37",
+      "relation": "However goes against",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-models-8"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-16"
+    },
+    {
+      "subject_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18",
+      "relation": "is",
+      "object_id": "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-tectonic-17"
+    }
+  ],
+  "links": {
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-2": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-14": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-Old-1": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17-of-18-5-19": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-recent-13": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-compared-11": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-16-areas-17": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-states-21": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-5-19-states-21": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-5-level-6": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-12": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-9": [],
+    "NE-DATE-1864": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-photos-9": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-ones-29": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-old-28": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-distance-20": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-original-19": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-calculations-2": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-line-8": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-produced-12": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-made-4": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crustacean-15-Balanus-16": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lethal-7": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-results-2": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-13-7-research-8-areas-9": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situation-5": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-identical-4": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-12-in-13-total-14": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-lines-11": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-should-18-higher-20": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-18-23-areas-24": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-barnacles-15": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-creatures-28": [],
+    "NE-DURATION-four-months": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rock-36-surface-37": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-upper-10": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-crust-37": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-rate-45": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-49-level-50-change-51": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-conclusion-2": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-two-4-possibilities-5": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-same-44": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-sea-13": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-level-17": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-supposed-48": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-one-21": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-similar-18": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-regional-36-crust-37": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-situated-13": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-area-18": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-region-11": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-models-8": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-geological-7": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-stable-16": [],
+    "b64969b8-b6b7-46f1-84cd-a4432a6ed8cb-tectonic-17": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85103489384.txt",
+  "entities": {
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10": "region",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-saltmarshes-2": "saltmarshes",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-seagrass-13-beds-14": "seagrass beds",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14": "biological invasions",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43": "vulnerability",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-socio-40-environmental-42-vulnerability-43": "socio environmental vulnerability",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-region-38": "region",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-interactions-17": "interactions",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-pollution-19": "pollution",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-environmental-42": "environmental",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-structure-28": "structure",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-ecosystems-33": "ecosystems",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-bioremediation-7-restoration-9": "bioremediation restoration",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-must-15-prioritized-17": "must prioritized",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-potential-6": "potential",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-coastal-25": "coastal",
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-communities-26": "communities"
+  },
+  "graph": [
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10",
+      "relation": "also presents seagrass beds Besides",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-saltmarshes-2"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10",
+      "relation": "presents seagrass beds Besides",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-saltmarshes-2"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10",
+      "relation": "also presents",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-seagrass-13-beds-14"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10",
+      "relation": "presents",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-seagrass-13-beds-14"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14",
+      "relation": "increasing",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43",
+      "relation": "is",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-socio-40-environmental-42-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-38",
+      "relation": "has",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-socio-40-environmental-42-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-region-38",
+      "relation": "has",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-interactions-17",
+      "relation": "is with",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-pollution-19"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14",
+      "relation": "thus increasing",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43",
+      "relation": "is",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-environmental-42"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14",
+      "relation": "undermine",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-structure-28"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14",
+      "relation": "structure of",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-ecosystems-33"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-bioremediation-7-restoration-9",
+      "relation": "must",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-must-15-prioritized-17"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-must-15-prioritized-17",
+      "relation": "at",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-potential-6"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-bioremediation-7-restoration-9",
+      "relation": "reduce",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43",
+      "relation": "is",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-coastal-25"
+    },
+    {
+      "subject_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43",
+      "relation": "of",
+      "object_id": "44301f57-e236-4b9c-a5ee-571fc96677e2-communities-26"
+    }
+  ],
+  "links": {
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-region-10": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-saltmarshes-2": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-seagrass-13-beds-14": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-biological-13-invasions-14": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-vulnerability-43": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-socio-40-environmental-42-vulnerability-43": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-region-38": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-interactions-17": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-pollution-19": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-environmental-42": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-structure-28": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-ecosystems-33": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-bioremediation-7-restoration-9": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-must-15-prioritized-17": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-potential-6": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-coastal-25": [],
+    "44301f57-e236-4b9c-a5ee-571fc96677e2-communities-26": []
+  }
+}

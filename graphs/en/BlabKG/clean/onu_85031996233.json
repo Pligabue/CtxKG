@@ -1,0 +1,600 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85031996233.txt",
+  "entities": {
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-North-5-East-7-fields-8": "North East fields",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22": "fields",
+    "NE-PERSON-Lula": "Lula",
+    "NE-TITLE-pilot": "pilot",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-two-20": "two",
+    "NE-MISC-Pre-salt": "Pre-salt",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-development-26-strategy-27": "development strategy",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Field-1-architecture-2": "Field architecture",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-satellite-5-wells-6": "satellite wells",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-connected-7": "connected",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-spread-10": "spread",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-2": "BSR",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-thrust-16": "thrust",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-net-14": "net",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-nominal-13": "nominal",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-3,250-18-t-19": "3,250 t",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7": "close to 10,000 t",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-water-9": "water",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Paper-2": "Paper",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6": "engineering challenges",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-scale-15-foundation-16-anchors-17": "scale foundation anchors",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-developed-10": "developed",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-solution-9": "solution",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-large-13": "large",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-8m-10-diameter-11": "8m diameter",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4": "corner",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Vertically-1": "Vertically",
+    "NE-ORGANIZATION-BSR": "BSR",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tank-8": "tank",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-16-excursion-17-orbits-18": "BSR excursion orbits",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-clash-21": "clash",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-risers-23": "risers",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Tension-1": "Tension",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33": "anchor capacity",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-requiring-30": "requiring",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-10-stiffness-11": "system stiffness",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-lateral-15": "lateral",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-minimum-31": "minimum",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tethers-4": "tethers",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tuned-6": "tuned",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sit-7": "sit",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-uplift-21-resistance-22": "uplift resistance",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-remainder-17": "remainder",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-required-20": "required",
+    "NE-TITLE-model": "model",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-interaction-16": "interaction",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-FE-3": "FE",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-structure-19": "structure",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-suction-7-anchor-8": "suction anchor",
+    "NE-LOCATION-Abaqus": "Abaqus",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-used-12": "used",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-geotechnical-2": "geotechnical",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-19-events-21": "design events",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-undrained-18": "undrained",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-load-9-displacement-11-curves-12": "load displacement curves",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-complete-8": "complete",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-15": "system",
+    "NE-DATE-current": "current",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-15-anchor-16-ballast-18-system-19": "hybrid anchor ballast system",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-stable-25": "stable",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32": "level",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-PLAXIS-11": "PLAXIS",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-consolidation-2-FE-3": "consolidation FE",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-28-life-29": "design life",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-34": "sustained",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-35-load-36": "design load",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Soil-8": "Soil",
+    "NE-MISC-Soft-Soil": "Soft Soil",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20": "there",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14": "covered",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-well-13": "well",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28": "coverage",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-particular-31": "particular",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25": "gap",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-to-22": "to",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-LRFD-3-verification-4-format-5": "LRFD verification format",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-17-codes-18": "design codes",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-type-32": "type",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-34-anchor-35": "hybrid anchor",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3": "condition",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10": "term",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-found-5": "found",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-governing-2": "governing",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-long-9": "long",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-17-loading-18": "sustained loading",
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-assumption-21-of-22-slowly-23-leaking-24-suction-25-port-26": "assumption of slowly leaking suction port"
+  },
+  "graph": [
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-North-5-East-7-fields-8",
+      "relation": "are",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-North-5-East-7-fields-8",
+      "relation": "of",
+      "object_id": "NE-PERSON-Lula"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22",
+      "relation": "of",
+      "object_id": "NE-TITLE-pilot"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22",
+      "relation": "amount to",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-two-20"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22",
+      "relation": "of",
+      "object_id": "NE-MISC-Pre-salt"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-development-26-strategy-27"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Field-1-architecture-2",
+      "relation": "consists of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-satellite-5-wells-6"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-satellite-5-wells-6",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-connected-7"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-satellite-5-wells-6",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-spread-10"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-2",
+      "relation": "provides net up",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-thrust-16"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-2",
+      "relation": "provides",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-net-14"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-net-14",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-nominal-13"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-thrust-16",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-3,250-18-t-19"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-2",
+      "relation": "displaces",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-water-9"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Paper-2",
+      "relation": "highlights",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-scale-15-foundation-16-anchors-17"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-developed-10"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6",
+      "relation": "Paper",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-solution-9"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-large-13"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-8m-10-diameter-11",
+      "relation": "houses receptacles below",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Vertically-1"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-BSR"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tank-8"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-16-excursion-17-orbits-18",
+      "relation": "avoid",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-clash-21"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-clash-21",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-risers-23"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Tension-1",
+      "relation": "optimise system stiffness while",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-requiring-30"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-10-stiffness-11",
+      "relation": "minimise",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-16-excursion-17-orbits-18"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-16-excursion-17-orbits-18",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-lateral-15"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-minimum-31"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Tension-1",
+      "relation": "is in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tethers-4"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Tension-1",
+      "relation": "was",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tuned-6"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sit-7",
+      "relation": "remainder of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-uplift-21-resistance-22"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sit-7",
+      "relation": "provide",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-remainder-17"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sit-7",
+      "relation": "provide",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-uplift-21-resistance-22"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-uplift-21-resistance-22",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-required-20"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "evaluate",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-interaction-16"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-FE-3"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-interaction-16",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-structure-19"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-suction-7-anchor-8",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Abaqus"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "was",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-used-12"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-geotechnical-2"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "develop load displacement curves during",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-19-events-21"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-19-events-21",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-undrained-18"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "develop",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-load-9-displacement-11-curves-12"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-load-9-displacement-11-curves-12",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-complete-8"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-load-9-displacement-11-curves-12",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-15"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-19-events-21",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-15-anchor-16-ballast-18-system-19",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-stable-25"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-15-anchor-16-ballast-18-system-19",
+      "relation": "is stable for",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "using Soft Soil model in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-PLAXIS-11"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-consolidation-2-FE-3"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-15-anchor-16-ballast-18-system-19",
+      "relation": "is stable throughout",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-28-life-29"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "using Soil model in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-PLAXIS-11"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-stable-25",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-34"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-35-load-36"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Soil-8"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-stable-25",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-28-life-29"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "NE-MISC-Soft-Soil"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20",
+      "relation": "seems",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-well-13"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20",
+      "relation": "be gap in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-particular-31"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20",
+      "relation": "seems",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25",
+      "relation": "mark",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-to-22"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-LRFD-3-verification-4-format-5",
+      "relation": "are well covered in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-17-codes-18"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-LRFD-3-verification-4-format-5",
+      "relation": "are",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20",
+      "relation": "be",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-LRFD-3-verification-4-format-5",
+      "relation": "are covered in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-17-codes-18"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-type-32"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28",
+      "relation": "of",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-34-anchor-35"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14",
+      "relation": "at",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-17-codes-18"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25",
+      "relation": "is in",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3",
+      "relation": "be",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3",
+      "relation": "was found",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3",
+      "relation": "was",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-found-5"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-governing-2"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10",
+      "relation": "is",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-long-9"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10",
+      "relation": "mark",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-to-22"
+    },
+    {
+      "subject_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-17-loading-18",
+      "relation": "is with",
+      "object_id": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-assumption-21-of-22-slowly-23-leaking-24-suction-25-port-26"
+    }
+  ],
+  "links": {
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-North-5-East-7-fields-8": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-fields-22": [],
+    "NE-PERSON-Lula": [],
+    "NE-TITLE-pilot": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-two-20": [],
+    "NE-MISC-Pre-salt": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-development-26-strategy-27": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Field-1-architecture-2": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-satellite-5-wells-6": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-connected-7": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-spread-10": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-2": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-thrust-16": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-net-14": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-nominal-13": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-3,250-18-t-19": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-close-4-to-5-10,000-6-t-7": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-water-9": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Paper-2": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-engineering-5-challenges-6": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-scale-15-foundation-16-anchors-17": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-developed-10": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-solution-9": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-large-13": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-8m-10-diameter-11": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-corner-4": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Vertically-1": [],
+    "NE-ORGANIZATION-BSR": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tank-8": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-BSR-16-excursion-17-orbits-18": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-clash-21": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-risers-23": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Tension-1": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-anchor-32-capacity-33": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-requiring-30": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-10-stiffness-11": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-lateral-15": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-minimum-31": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tethers-4": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-tuned-6": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sit-7": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-uplift-21-resistance-22": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-remainder-17": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-required-20": [],
+    "NE-TITLE-model": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-interaction-16": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-FE-3": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-structure-19": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-suction-7-anchor-8": [],
+    "NE-LOCATION-Abaqus": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-used-12": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-geotechnical-2": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-19-events-21": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-undrained-18": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-load-9-displacement-11-curves-12": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-complete-8": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-system-15": [],
+    "NE-DATE-current": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-15-anchor-16-ballast-18-system-19": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-stable-25": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-level-32": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-PLAXIS-11": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-consolidation-2-FE-3": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-28-life-29": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-34": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-35-load-36": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Soil-8": [],
+    "NE-MISC-Soft-Soil": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-there-20": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-covered-14": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-well-13": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-coverage-28": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-particular-31": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-gap-25": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-to-22": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-LRFD-3-verification-4-format-5": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-design-17-codes-18": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-type-32": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-hybrid-34-anchor-35": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-condition-3": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-term-10": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-found-5": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-governing-2": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-long-9": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-sustained-17-loading-18": [],
+    "9d056a4c-d060-45c5-9a52-c7de291d1d6a-assumption-21-of-22-slowly-23-leaking-24-suction-25-port-26": []
+  }
+}

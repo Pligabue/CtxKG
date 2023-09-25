@@ -1,0 +1,365 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85100594780.txt",
+  "entities": {
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-climate-2-changes-3": "climate changes",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-consequences-6": "consequences",
+    "NE-DATE-Current": "Current",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-5": "several",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-identification-4": "identification",
+    "NE-DATE-Today": "Today",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13": "impacts",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-action-16": "action",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2": "aim",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-use-34": "use",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36": "hierarchical",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15": "rate",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-28": "impacts",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-11": "areas",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-10": "vulnerable",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-increase-17": "increase",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-2.8-22-m-23": "2.8 m",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-magnitude-31": "magnitude",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-total-14": "total",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-greater-30": "greater",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-sea-19-level-20": "sea level",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analysis-37": "analysis",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchy-3-process-4-method-5": "hierarchy process method",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-used-7": "used",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analytic-2": "analytic",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-most-11": "most",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-serious-12": "serious",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5": "region",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-test-14-area-15": "test area",
+    "NE-LOCATION-Ilha-Grande": "Ilha Grande",
+    "NE-CITY-Bay": "Bay",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-chosen-11": "chosen",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-3": "impacts",
+    "NE-CAUSE_OF_DEATH-floods": "floods",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-main-2": "main",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-ecosystems-13": "ecosystems",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-12": "coastal",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-plains-15": "plains",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-centers-23": "centers",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-14": "coastal",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-urban-22": "urban",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-3-areas-4": "vulnerable areas",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-flat-8": "flat",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-low-10": "low",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-slopes-11": "slopes",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-characterized-6": "characterized",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-methodology-2": "methodology",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19": "types",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-22": "areas",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-18": "several",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-effective-6": "effective",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-to-4": "to",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-applied-16": "applied",
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-21": "coastal"
+  },
+  "graph": [
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-climate-2-changes-3",
+      "relation": "have",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-consequences-6"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-climate-2-changes-3",
+      "relation": "is",
+      "object_id": "NE-DATE-Current"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-consequences-6",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-5"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-identification-4",
+      "relation": "is necessary at_time",
+      "object_id": "NE-DATE-Today"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-identification-4",
+      "relation": "prevent",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13",
+      "relation": "drive",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-action-16"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2",
+      "relation": "identify impacts through",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-use-34"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-use-34",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2",
+      "relation": "was estimate areas from",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2",
+      "relation": "identify",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-28"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2",
+      "relation": "was estimate",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-11"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-11",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-10"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-increase-17"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-2.8-22-m-23"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-28",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-magnitude-31"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-total-14"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-28",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-greater-30"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-sea-19-level-20"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-increase-17",
+      "relation": "is in",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-sea-19-level-20"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-use-34",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analysis-37"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchy-3-process-4-method-5",
+      "relation": "was",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-used-7"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchy-3-process-4-method-5",
+      "relation": "list",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchy-3-process-4-method-5",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analytic-2"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13",
+      "relation": "at",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-most-11"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-serious-12"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5",
+      "relation": "was chosen as",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-test-14-area-15"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Ilha-Grande"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5",
+      "relation": "was",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-chosen-11"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-3",
+      "relation": "are",
+      "object_id": "NE-CAUSE_OF_DEATH-floods"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-3",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-main-2"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-3",
+      "relation": "loss of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-ecosystems-13"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-ecosystems-13",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-12"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-plains-15",
+      "relation": "usually occupied",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-centers-23"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-plains-15",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-14"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-centers-23",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-urban-22"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-3-areas-4",
+      "relation": "are characterized as",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-flat-8"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-flat-8",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-low-10"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-flat-8",
+      "relation": "at",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-slopes-11"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-plains-15",
+      "relation": "occupied",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-centers-23"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-3-areas-4",
+      "relation": "are",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-characterized-6"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-methodology-2",
+      "relation": "be applied to",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19",
+      "relation": "of",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-22"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-18"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-methodology-2",
+      "relation": "proved",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-effective-6"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-effective-6",
+      "relation": "mark",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-to-4"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-methodology-2",
+      "relation": "be",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-applied-16"
+    },
+    {
+      "subject_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19",
+      "relation": "is",
+      "object_id": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-21"
+    }
+  ],
+  "links": {
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-climate-2-changes-3": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-consequences-6": [],
+    "NE-DATE-Current": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-5": [
+      "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-18"
+    ],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-identification-4": [],
+    "NE-DATE-Today": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-13": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-action-16": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-aim-2": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-use-34": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-rate-15": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-28": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-11": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-10": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-increase-17": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-2.8-22-m-23": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-magnitude-31": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-total-14": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-greater-30": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-sea-19-level-20": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analysis-37": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchy-3-process-4-method-5": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-used-7": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-analytic-2": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-most-11": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-serious-12": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-region-5": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-test-14-area-15": [],
+    "NE-LOCATION-Ilha-Grande": [],
+    "NE-CITY-Bay": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-chosen-11": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-impacts-3": [],
+    "NE-CAUSE_OF_DEATH-floods": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-main-2": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-ecosystems-13": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-12": [
+      "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-21"
+    ],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-plains-15": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-centers-23": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-14": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-urban-22": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-vulnerable-3-areas-4": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-flat-8": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-low-10": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-slopes-11": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-characterized-6": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-methodology-2": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-types-19": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-areas-22": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-18": [
+      "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-several-5"
+    ],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-effective-6": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-to-4": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-applied-16": [],
+    "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-21": [
+      "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-coastal-12"
+    ]
+  }
+}

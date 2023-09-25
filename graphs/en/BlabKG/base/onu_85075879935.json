@@ -1,0 +1,447 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85075879935.txt",
+  "entities": {
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-extreme-10-weather-11-events-12": "extreme weather events",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15": "potential effects",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-coastal-17-ecosystems-20": "coastal ecosystems",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Climate-1-change-2": "Climate change",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6": "frequency",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecosystems-20": "ecosystems",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-intensity-8": "intensity",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-weather-11-events-12": "weather events",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2": "we",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8": "14 month monitoring",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-11": "assemblages",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-25-period-26": "drought period",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-tropical-14-estuary-15": "tropical estuary",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-10": "benthic",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuary-15": "estuary",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-2015/2016-28": "2015/2016",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-24": "severe",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21": "Ecoregion",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-TITLE-Marine": "Marine",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Eastern-18": "Eastern",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-2": "drought",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9": "decrease",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-sediment-13-particle-14-size-15": "sediment particle size",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20": "macrofaunal",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuarine-11": "estuarine",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-22": "assemblages",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20-benthic-21-assemblages-22": "macrofaunal benthic assemblages",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-mean-12": "mean",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6": "reduction",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11-of-12-surface-13-dwelling-15-Magelonid-16": "dominance of surface dwelling Magelonid",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11": "dominance",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-3-fold-5": "3-fold",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dwelling-15": "dwelling",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-abundance-9": "abundance",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-8": "macrofaunal",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Magelonid-16": "Magelonid",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-community-13-bioturbation-14-potential-15": "community bioturbation potential",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-structure-5": "structure",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-4": "macrofaunal",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-9": "drought",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-changes-2": "changes",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-8": "severe",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29": "fauna",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33": "their functions",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6": "increases",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-projected-5": "projected",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecological-32": "ecological",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9": "frequency",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-28": "benthic",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-events-14": "events",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-such-16-observed-18-during-19-severe-20-droughts-21-worldwide-22": "such observed during severe droughts worldwide",
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-climatic-13": "climatic"
+  },
+  "graph": [
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-extreme-10-weather-11-events-12",
+      "relation": "is with",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-coastal-17-ecosystems-20"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Climate-1-change-2",
+      "relation": "will increase",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecosystems-20"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6",
+      "relation": "change",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-intensity-8"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-coastal-17-ecosystems-20"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-weather-11-events-12"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-extreme-10-weather-11-events-12"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2",
+      "relation": "report",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-11"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2",
+      "relation": "Here report",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-25-period-26"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-tropical-14-estuary-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-10"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuary-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-2015/2016-28"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-24"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-tropical-14-estuary-15",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21",
+      "relation": "of",
+      "object_id": "NE-TITLE-Marine"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Eastern-18"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-tropical-14-estuary-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-2",
+      "relation": "resulted in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-2",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-sediment-13-particle-14-size-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuarine-11"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-22"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20-benthic-21-assemblages-22"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-mean-12"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2",
+      "relation": "observed",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2",
+      "relation": "also observed",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11-of-12-surface-13-dwelling-15-Magelonid-16"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "at",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-3-fold-5"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dwelling-15"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-abundance-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-8"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Magelonid-16"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6",
+      "relation": "is with",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11-of-12-surface-13-dwelling-15-Magelonid-16"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-community-13-bioturbation-14-potential-15",
+      "relation": "changes in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-structure-5"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-structure-5",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-4"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-community-13-bioturbation-14-potential-15",
+      "relation": "changes during",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-changes-2",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-structure-5"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-9",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-8"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "tropical estuarine ecosystems",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6",
+      "relation": "change",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-projected-5"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "tropical ecosystems",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecological-32"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "increases in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-28"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-events-14"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "projected increases in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "ecosystems",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6",
+      "relation": "greatly change",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "estuarine ecosystems",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6",
+      "relation": "is in",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9",
+      "relation": "of",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-such-16-observed-18-during-19-severe-20-droughts-21-worldwide-22"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29",
+      "relation": "projected increases",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33"
+    },
+    {
+      "subject_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9",
+      "relation": "is",
+      "object_id": "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-climatic-13"
+    }
+  ],
+  "links": {
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-extreme-10-weather-11-events-12": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-potential-14-effects-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-coastal-17-ecosystems-20": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Climate-1-change-2": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecosystems-20": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-intensity-8": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-weather-11-events-12": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-we-2": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-14-5-month-7-monitoring-8": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-11": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-22"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-25-period-26": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-tropical-14-estuary-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-10": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuary-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-2015/2016-28": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-24": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Ecoregion-21": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-TITLE-Marine": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Eastern-18": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-2": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-decrease-9": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-sediment-13-particle-14-size-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-8",
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-4"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-estuarine-11": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-22": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-assemblages-11"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20-benthic-21-assemblages-22": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-mean-12": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-reduction-6": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11-of-12-surface-13-dwelling-15-Magelonid-16": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dominance-11": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-3-fold-5": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-dwelling-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-abundance-9": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-8": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20",
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-4"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-Magelonid-16": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-community-13-bioturbation-14-potential-15": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-structure-5": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-4": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-20",
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-macrofaunal-8"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-drought-9": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-changes-2": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-severe-8": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-fauna-29": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-their-31-functions-33": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-increases-6": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-projected-5": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-ecological-32": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-9": [
+      "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-frequency-6"
+    ],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-benthic-28": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-events-14": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-such-16-observed-18-during-19-severe-20-droughts-21-worldwide-22": [],
+    "9f2751f5-49bb-46b4-86f5-39c3c6ccf7ed-climatic-13": []
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85091197319.txt",
+  "entities": {
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12": "interpretation",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3": "account",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-absence-6": "absence",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-analogues-9": "analogues",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-modern-8": "modern",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24": "data",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-21": "seismic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2": "studies",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-kinematic-6": "kinematic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-Recent-1": "Recent",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-intrasalt-5": "intrasalt",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-variations-22": "variations",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-24-sequences-25": "evaporite sequences",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-change-14": "change",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19-data-20": "seismic data",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretations-4": "interpretations",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7": "qualitative",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-However-1": "However",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-only-6": "only",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-study-2": "study",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8": "proceeding",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-10": "qualitative",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-13": "interpretation",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interval-19": "interval",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-16": "evaporite",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-12": "quantitative",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-dominated-18": "dominated",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-techniques-16": "techniques",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23": "facies volume",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-26-sequence-27": "evaporite sequence",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-offshore-33": "offshore",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-21": "driven",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismogram-2": "seismogram",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-ambiguities-5": "ambiguities",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-Synthetic-1": "Synthetic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8": "impedance",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17": "comparison",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-amplitude-20": "amplitude",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12": "differentiator",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-7": "acoustic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19": "seismic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-effective-11": "effective",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15": "types",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14": "salt",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3": "we",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6": "inversion",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-5": "seismic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interface-9-property-10": "interface property",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-property-13": "property",
+    "NE-TITLE-layer": "layer",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-3-volume-4": "impedance volume",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8": "risk",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-2": "acoustic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-11": "interpretation",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10": "seismic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14-sequence-15": "salt sequence",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-classification-3": "classification",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-6-analysis-11": "impedance analysis",
+    "NE-MISC-Bayesian": "Bayesian",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-18-volume-19": "facies volume",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-5": "acoustic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-17": "driven",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-proportion-5-maps-6": "proportion maps",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-variability-11": "variability",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-13-deposition-14": "salt deposition",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-spatial-10": "spatial",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4": "increase",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-top-16": "top",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bottom-13": "bottom",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bittern-6-salts-7": "bittern salts",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-sequence-19": "sequence",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-2": "comparison",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16": "potential",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-15": "quantitative",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-18": "seismic",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-19": "data",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-approach-2": "approach",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19": "basins",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-analysis-5": "analysis",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-16": "salt",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-4": "quantitative",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-applied-13": "applied",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-other-15": "other",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bearing-18": "bearing",
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-8-sequence-9": "evaporite sequence"
+  },
+  "graph": [
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12",
+      "relation": "relies On",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-absence-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12",
+      "relation": "relies extensively On",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-analogues-9"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-modern-8"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12",
+      "relation": "relies extensively on",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12",
+      "relation": "relies on",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-21"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2",
+      "relation": "describe",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-kinematic-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-Recent-1"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-kinematic-6",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-intrasalt-5"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-variations-22",
+      "relation": "is in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-24-sequences-25"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-change-14",
+      "relation": "is in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19-data-20"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretations-4",
+      "relation": "are",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-However-1"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-only-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-study-2",
+      "relation": "describes in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-10"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-study-2",
+      "relation": "describes step further in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-13"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interval-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-16"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-12"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-dominated-18"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-techniques-16",
+      "relation": "deliver",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-techniques-16",
+      "relation": "deliver facies volume in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-techniques-16",
+      "relation": "deliver facies volume in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-26-sequence-27"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-offshore-33"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-21"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismogram-2",
+      "relation": "demonstrate",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-ambiguities-5"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismogram-2",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-Synthetic-1"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is differentiator in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-amplitude-20"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-7"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-effective-11"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is effective differentiator in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12",
+      "relation": "is in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is effective differentiator of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is differentiator of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8",
+      "relation": "is effective",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3",
+      "relation": "perform",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-5"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6",
+      "relation": "transform",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interface-9-property-10"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3",
+      "relation": "Therefore perform",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6",
+      "relation": "transform interface property into",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-property-13"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-property-13",
+      "relation": "of",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-3-volume-4",
+      "relation": "mitigated significantly",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-3-volume-4",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-2"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-3-volume-4",
+      "relation": "mitigated",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-11"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14-sequence-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8",
+      "relation": "is in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14-sequence-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-classification-3",
+      "relation": "integrates",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-6-analysis-11"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-classification-3",
+      "relation": "is",
+      "object_id": "NE-MISC-Bayesian"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-6-analysis-11",
+      "relation": "deliver",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-18-volume-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-6-analysis-11",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-5"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-18-volume-19",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-17"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3",
+      "relation": "calculate",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proportion-5-maps-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proportion-5-maps-6",
+      "relation": "evaluate",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-variability-11"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-variability-11",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-13-deposition-14"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-variability-11",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-spatial-10"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3",
+      "relation": "Additionally calculate",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-proportion-5-maps-6"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3",
+      "relation": "observe",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-top-16"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-bottom-13"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-bittern-6-salts-7"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4",
+      "relation": "is in",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-bittern-6-salts-7"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-sequence-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-2",
+      "relation": "testifies to",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-18"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-approach-2",
+      "relation": "be applied to",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-approach-2",
+      "relation": "provides",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-analysis-5"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19",
+      "relation": "at",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-16"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-analysis-5",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-4"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-approach-2",
+      "relation": "be",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-applied-13"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-other-15"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19",
+      "relation": "is",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-bearing-18"
+    },
+    {
+      "subject_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-analysis-5",
+      "relation": "of",
+      "object_id": "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-8-sequence-9"
+    }
+  ],
+  "links": {
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-12": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-account-3": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-absence-6": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-analogues-9": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-modern-8": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-24": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-21": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-studies-2": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-kinematic-6": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-Recent-1": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-intrasalt-5": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-variations-22": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-24-sequences-25": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-8-sequence-9"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-change-14": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19-data-20": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretations-4": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-10"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-However-1": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-only-6": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-study-2": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-proceeding-8": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-10": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-qualitative-7"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-13": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interval-19": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-16": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-12": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-dominated-18": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-techniques-16": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-18-volume-19"
+    ],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "NE-COUNTRY-Brazil": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-26-sequence-27": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-8-sequence-9"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-offshore-33": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-21": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-17"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismogram-2": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-ambiguities-5": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-Synthetic-1": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-8": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-17": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-amplitude-20": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-differentiator-12": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-7": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-2",
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-5"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-19": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-effective-11": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-types-15": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-we-3": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-inversion-6": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-5": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interface-9-property-10": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-property-13": [],
+    "NE-TITLE-layer": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-3-volume-4": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-risk-8": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-2": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-7",
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-5"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-interpretation-11": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-18"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-14-sequence-15": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-classification-3": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-impedance-6-analysis-11": [],
+    "NE-MISC-Bayesian": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-18-volume-19": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-facies-22-volume-23"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-5": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-7",
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-acoustic-2"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-17": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-driven-21"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-proportion-5-maps-6": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-variability-11": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-13-deposition-14": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-spatial-10": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-increase-4": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-top-16": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bottom-13": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bittern-6-salts-7": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-sequence-19": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-comparison-2": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-potential-16": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-15": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-18": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10"
+    ],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-data-19": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-approach-2": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-basins-19": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-analysis-5": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-salt-16": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-4": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-applied-13": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-other-15": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-bearing-18": [],
+    "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-8-sequence-9": [
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-24-sequences-25",
+      "3d38e2b0-9e33-4f86-8022-835513cb2d77-evaporite-26-sequence-27"
+    ]
+  }
+}

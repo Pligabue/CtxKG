@@ -1,0 +1,605 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_68649086917.txt",
+  "entities": {
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Exploration-1": "Exploration",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-concentrated-9": "concentrated",
+    "NE-PERSON-Santos": "Santos",
+    "NE-PERSON-Campos": "Campos",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-12": "basins",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-it-2": "it",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7": "margin",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Jequitinhonha-10-basins-15": "Jequitinhonha basins",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-eastern-6": "eastern",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-2": "basins",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-have-3-unexplored-5": "have unexplored",
+    "NE-TITLE-layer": "layer",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-8": "salt",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9": "thousands",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12": "bbl",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-16-petroleum-17": "light petroleum",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20": "salt",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Campos-23-basin-24": "Campos basin",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-there-6": "there",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-reserves-14": "reserves",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-production-22": "production",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-refineries-27": "refineries",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-old-25": "old",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-urgency-4": "urgency",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14": "oil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-12": "heavy",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-8": "oil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-mix-10": "mix",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-crude-13": "crude",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-7": "light",
+    "NE-CITY-Campos": "Campos",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-has-11-sporadic-13": "has sporadic",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-It-1": "It",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-difficult-3": "difficult",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-cost-7": "cost",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-exploration-12": "exploration",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-development-15": "development",
+    "NE-MONEY-$4,000-million": "$ 4,000 million",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-object-9": "object",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-2,000-22": "2,000",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-commercial-11": "commercial",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-reservoirs-17": "reservoirs",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26": "basin",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-These-1": "These",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-mainly-4-biodegradation-6": "mainly biodegradation",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8": "deposits",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14": "expected",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-giant-7": "giant",
+    "NE-TITLE-Superior": "Superior",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3": "result",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Tertiary-17": "Tertiary",
+    "NE-ORGANIZATION-Barracuda": "Barracuda",
+    "NE-PERSON-Jubarte": "Jubarte",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-this-5": "this",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11": "oil production figures",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-given-13": "given",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-historic-4": "historic",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-fields-17": "fields",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-various-15": "various",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-10": "oil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15": "600 MM boe",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-9": "light",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-about-12": "about",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-potential-6-reserves-7": "potential reserves",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Espírito-3-Santobasin-4": "Espírito Santobasin",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-4": "oil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-3": "light",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-1.76-5-MM-6-bpd-7": "1.76 MM bpd",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-%-14": "%",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-17": "oil",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-16": "heavy",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-petroleum-9": "petroleum",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-production-3": "production",
+    "NE-DURATION-day": "day",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-has-6-43.9-8-MM-9-cu-10-m-11": "has 43.9 MM cu m",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-gas-5": "gas",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-average-2": "average",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Probable-1-reserves-2": "Probable reserves",
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-11.36-6-B-7-bbl-8": "11.36 B bbl"
+  },
+  "graph": [
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Exploration-1",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-concentrated-9"
+    },
+    {
+      "subject_id": "NE-PERSON-Santos",
+      "relation": "is",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Exploration-1",
+      "relation": "is concentrated in",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-12",
+      "relation": "of",
+      "object_id": "NE-PERSON-Santos"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-it-2",
+      "relation": "extends to",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-it-2",
+      "relation": "Hopefully extends to",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Jequitinhonha-10-basins-15"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-eastern-6"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-2",
+      "relation": "have",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-have-3-unexplored-5"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-have-3-unexplored-5",
+      "relation": "at",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-have-3-unexplored-5",
+      "relation": "case",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-8"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "millions",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-light-16-petroleum-17"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "of millions",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "of millions bbl of reserves under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Campos-23-basin-24"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "of millions bbl of reserves of light petroleum under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "expl",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-there-6"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "millions bbl of reserves of light petroleum under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "millions bbl under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "of millions bbl under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9",
+      "relation": "millions bbl of reserves under",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-reserves-14"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20",
+      "relation": "is in",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Campos-23-basin-24"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-production-22",
+      "relation": "is in",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-refineries-27"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-production-22",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-refineries-27",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-refineries-27",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-old-25"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-urgency-4",
+      "relation": "import oil with",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-urgency-4",
+      "relation": "import",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-8"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-urgency-4",
+      "relation": "import oil to",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-mix-10"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-crude-13"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-8",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-light-7"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is in",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Exploration-1",
+      "relation": "has",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-has-11-sporadic-13"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-It-1",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-difficult-3"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-It-1",
+      "relation": "calculate",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-cost-7"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "object of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-exploration-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-development-15",
+      "relation": "could reach",
+      "object_id": "NE-MONEY-$4,000-million"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "becomes",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-exploration-12"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "becomes",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-object-9"
+    },
+    {
+      "subject_id": "NE-MONEY-$4,000-million",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-2,000-22"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-exploration-12",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-commercial-11"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-reservoirs-17",
+      "relation": "is in",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-These-1",
+      "relation": "are formed by",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-mainly-4-biodegradation-6"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8",
+      "relation": "are",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-giant-7"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14",
+      "relation": "at",
+      "object_id": "NE-TITLE-Superior"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14",
+      "relation": "at",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8",
+      "relation": "are expected under",
+      "object_id": "NE-TITLE-Superior"
+    },
+    {
+      "subject_id": "NE-TITLE-Superior",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Tertiary-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Barracuda",
+      "relation": "is",
+      "object_id": "NE-PERSON-Jubarte"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8",
+      "relation": "are expected As",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-this-5"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11",
+      "relation": "are",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-given-13"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-historic-4"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11",
+      "relation": "are given for",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-fields-17"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-fields-17",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-various-15"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-fields-17",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-10",
+      "relation": "potential reserves of are",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-10",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-light-9"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15",
+      "relation": "at",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-about-12"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-potential-6-reserves-7",
+      "relation": "are",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Espírito-3-Santobasin-4"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15",
+      "relation": "is In",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Espírito-3-Santobasin-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "produces",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-4"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-4",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-light-3"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "produces up to",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-1.76-5-MM-6-bpd-7"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-%-14",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-17"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-17",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-16"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-1.76-5-MM-6-bpd-7",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-petroleum-9"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-production-3",
+      "relation": "has",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "NE-DURATION-day",
+      "relation": "aux",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-has-6-43.9-8-MM-9-cu-10-m-11"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-gas-5",
+      "relation": "production of been",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-gas-5",
+      "relation": "average production of been",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-production-3",
+      "relation": "is",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-average-2"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Probable-1-reserves-2",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-Probable-1-reserves-2",
+      "relation": "are",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-11.36-6-B-7-bbl-8"
+    },
+    {
+      "subject_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-11.36-6-B-7-bbl-8",
+      "relation": "of",
+      "object_id": "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-10"
+    }
+  ],
+  "links": {
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Exploration-1": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-concentrated-9": [],
+    "NE-PERSON-Santos": [],
+    "NE-PERSON-Campos": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-12": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-it-2": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-margin-7": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Jequitinhonha-10-basins-15": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-eastern-6": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basins-2": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-have-3-unexplored-5": [],
+    "NE-TITLE-layer": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-8": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-thousands-9": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-bbl-12": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-16-petroleum-17": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-salt-20": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Campos-23-basin-24": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-there-6": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-reserves-14": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-production-22": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-refineries-27": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-old-25": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-urgency-4": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-17"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-12": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-16"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-8": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-mix-10": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-crude-13": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-7": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-9",
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-3"
+    ],
+    "NE-CITY-Campos": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-has-11-sporadic-13": [],
+    "NE-COUNTRY-Brazil": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-It-1": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-difficult-3": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-cost-7": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-exploration-12": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-development-15": [],
+    "NE-MONEY-$4,000-million": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-object-9": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-2,000-22": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-commercial-11": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-reservoirs-17": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-basin-26": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-These-1": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-mainly-4-biodegradation-6": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-deposits-8": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-expected-14": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-giant-7": [],
+    "NE-TITLE-Superior": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-result-3": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Tertiary-17": [],
+    "NE-ORGANIZATION-Barracuda": [],
+    "NE-PERSON-Jubarte": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-this-5": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-7-production-10-figures-11": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-given-13": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-historic-4": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-fields-17": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-various-15": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-10": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-600-13-MM-14-boe-15": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-9": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-7",
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-3"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-about-12": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-potential-6-reserves-7": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Espírito-3-Santobasin-4": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-4": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-light-3": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-7",
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-light-9"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-1.76-5-MM-6-bpd-7": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-%-14": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-17": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-oil-14"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-16": [
+      "452ca893-25f2-4bf0-ae58-16ca549811cd-heavy-12"
+    ],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-petroleum-9": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-production-3": [],
+    "NE-DURATION-day": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-has-6-43.9-8-MM-9-cu-10-m-11": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-gas-5": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-average-2": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-Probable-1-reserves-2": [],
+    "452ca893-25f2-4bf0-ae58-16ca549811cd-11.36-6-B-7-bbl-8": []
+  }
+}

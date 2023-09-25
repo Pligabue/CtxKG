@@ -1,0 +1,397 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_345171568.txt",
+  "entities": {
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3": "SCR structures",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-subjected-5": "subjected",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8": "types",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-10": "loads",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-several-7": "several",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-service-13-life-14": "service life",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-2": "loads",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-may-3-static-5": "may static",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-action-5": "action",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-unit-19": "unit",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-floating-18": "floating",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-17": "loads",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22": "response",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7": "time domain analysis approach",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-suitable-13": "suitable",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-dynamic-5": "dynamic",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-10": "to",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30": "non-linearities",
+    "NE-TITLE-model": "model",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-existing-29": "existing",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21": "structural",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-random-2": "random",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-more-12": "more",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-considered-9": "considered",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-17-non-linearity-18-interaction-23": "load non-linearity interaction",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-represented-26": "represented",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fluid-16": "fluid",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-well-25": "well",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-sea-2-state-4-spectra-5": "sea state spectra",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-10-simulation-12-method-13": "time simulation method",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17": "non-linearity variations",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-taken-20": "taken",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Structural-1": "Structural",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19": "also",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-account-22": "account",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fatigue-2-damage-3-calculation-4": "fatigue damage calculation",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7": "related",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-stresses-9": "stresses",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-directly-6": "directly",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-composed-11": "composed",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structure-15-service-16-life-17": "structure service life",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-whole-14": "whole",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-2-sets-3": "load sets",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-analysis-7": "analysis",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-such-6": "such",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-4-cases-5": "load cases",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9": "have reduced",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-accuracy-13": "accuracy",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-7": "to",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Therefore-1": "Therefore",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-lack-11": "lack",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-14-fatigue-15-damage-16": "SCR fatigue damage",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-POSFAL-17": "POSFAL",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-upgraded-22": "upgraded",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-purpose-25": "purpose",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-specially-21": "specially",
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-house-12-computer-13-codes-14-ANFLEX-15": "house computer codes ANFLEX"
+  },
+  "graph": [
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+      "relation": "are",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-subjected-5"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-subjected-5",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+      "relation": "are subjected to",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-subjected-5",
+      "relation": "of",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8",
+      "relation": "of",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-10"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-several-7"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+      "relation": "are subjected during",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3",
+      "relation": "of",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-service-13-life-14"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-2",
+      "relation": "may",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-may-3-static-5"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-action-5",
+      "relation": "waves on",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-unit-19"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-unit-19",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-floating-18"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-17",
+      "relation": "die",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7",
+      "relation": "is considered",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-suitable-13"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-dynamic-5"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-suitable-13",
+      "relation": "mark",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-10"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30",
+      "relation": "is in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-existing-29"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22",
+      "relation": "represent",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-17",
+      "relation": "also die",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-random-2"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-suitable-13",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-more-12"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-considered-9"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-17-non-linearity-18-interaction-23",
+      "relation": "are",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-represented-26"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-17-non-linearity-18-interaction-23",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fluid-16"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-represented-26",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-well-25"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-sea-2-state-4-spectra-5",
+      "relation": "are treated by",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-10-simulation-12-method-13"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17",
+      "relation": "are",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-taken-20"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Structural-1"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-taken-20",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17",
+      "relation": "are taken into",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-account-22"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fatigue-2-damage-3-calculation-4",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fatigue-2-damage-3-calculation-4",
+      "relation": "is related with",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-stresses-9"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-directly-6"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-stresses-9"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-composed-11"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structure-15-service-16-life-17"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-whole-14"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fatigue-2-damage-3-calculation-4",
+      "relation": "is directly related with",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-stresses-9"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-2-sets-3",
+      "relation": "used in",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-analysis-7"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-analysis-7",
+      "relation": "is",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-such-6"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-4-cases-5",
+      "relation": "have",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9",
+      "relation": "of",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-accuracy-13"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9",
+      "relation": "mark",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-7"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Therefore-1"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-lack-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "verify",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-14-fatigue-15-damage-16"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-POSFAL-17",
+      "relation": "were",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-upgraded-22"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-POSFAL-17",
+      "relation": "were specially upgraded for",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-purpose-25"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-upgraded-22",
+      "relation": "at",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-specially-21"
+    },
+    {
+      "subject_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-POSFAL-17",
+      "relation": "were upgraded for",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-purpose-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-house-12-computer-13-codes-14-ANFLEX-15"
+    }
+  ],
+  "links": {
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-2-structures-3": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-subjected-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-types-8": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-10": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-several-7": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-service-13-life-14": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-2": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-may-3-static-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-action-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-unit-19": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-floating-18": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-loads-17": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-response-22": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-3-domain-4-analysis-6-approach-7": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-suitable-13": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-dynamic-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-10": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30": [
+      "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17"
+    ],
+    "NE-TITLE-model": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-existing-29": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structural-21": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-random-2": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-more-12": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-considered-9": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-17-non-linearity-18-interaction-23": [
+      "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17"
+    ],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-represented-26": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fluid-16": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-well-25": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-sea-2-state-4-spectra-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-time-10-simulation-12-method-13": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearity-2-variations-17": [
+      "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-non-linearities-30",
+      "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-17-non-linearity-18-interaction-23"
+    ],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-taken-20": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Structural-1": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-also-19": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-account-22": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fatigue-2-damage-3-calculation-4": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-related-7": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-stresses-9": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-directly-6": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-composed-11": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-structure-15-service-16-life-17": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-whole-14": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-2-sets-3": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-analysis-7": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-such-6": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-load-4-cases-5": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-have-6-reduced-9": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-accuracy-13": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-to-7": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-Therefore-1": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-lack-11": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-SCR-14-fatigue-15-damage-16": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-POSFAL-17": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-upgraded-22": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-purpose-25": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-specially-21": [],
+    "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-house-12-computer-13-codes-14-ANFLEX-15": []
+  }
+}

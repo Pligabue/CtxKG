@@ -1,0 +1,1308 @@
+{
+  "onu_10228776.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "8ccf6711-4359-43f1-af56-bff91be221df-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "8ccf6711-4359-43f1-af56-bff91be221df-deep-32",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_11244281653.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "573197e7-feeb-4bf7-8fc7-347e79223db7-deep-7"
+  },
+  "onu_14467639.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-strong-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_14928592.json": {},
+  "onu_1642522078.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-subsea-4-manifolds-5",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_16964104.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "e73719d8-439a-4c06-a2a0-fc90e94e87eb-subsea-15-techniques-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_17044389842.json": {},
+  "onu_17144436283.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "98101f72-00fb-4f23-a31d-93a1ed4242cc-water-15-fields-16",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "98101f72-00fb-4f23-a31d-93a1ed4242cc-deep-14",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "98101f72-00fb-4f23-a31d-93a1ed4242cc-paper-2"
+  },
+  "onu_17344364742.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_1842589247.json": {},
+  "onu_18944382016.json": {},
+  "onu_19586421.json": {},
+  "onu_20736039.json": {},
+  "onu_21575939.json": {},
+  "onu_2342418572.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_2342623297.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-deep-16",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-potential-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-flow-23-rates-24"
+  },
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {},
+  "onu_24044508291.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24050293.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_242694501.json": {},
+  "onu_24662461.json": {},
+  "onu_24769642.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24867907.json": {},
+  "onu_25054779.json": {},
+  "onu_25144481375.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "585f4243-2b9e-4ec6-aef4-0fe54aaaa4ba-shallow-7"
+  },
+  "onu_25444510078.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "adad3cf5-16ae-4cec-b91d-60c5da9121ac-Shallow-1"
+  },
+  "onu_26244445255.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_26850121.json": {},
+  "onu_27744595461.json": {},
+  "onu_30311937.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "007fd580-5ecb-4536-a243-38b5370a241f-paper-2"
+  },
+  "onu_30706349.json": {},
+  "onu_31206995.json": {},
+  "onu_31375269.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "5cee35a4-a50e-4d54-932a-8a8e57e575cd-paper-2"
+  },
+  "onu_32444448833.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33293728.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "cfd050f2-67ba-42f7-a36c-18e221b0e3a7-paper-2"
+  },
+  "onu_33295123.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-deep-25",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "0197b3f7-4b35-4e53-9441-4ec6cc6ce4f9-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33295407.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-Semi-Submersibles-3",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "69bf6b3a-01bd-4e40-a6e1-94da71019c1c-paper-2"
+  },
+  "onu_33644613229.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33645422493.json": {},
+  "onu_33646023976.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2"
+  },
+  "onu_33646035823.json": {},
+  "onu_33646043488.json": {},
+  "onu_33646056106.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "3f9b434e-048b-4cc7-9f64-90faa942c0b7-paper-2"
+  },
+  "onu_33646056405.json": {},
+  "onu_33646073069.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "c34753c7-bece-49e6-8cfe-9e17f85cdefc-paper-2"
+  },
+  "onu_33646452775.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745228406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745354316.json": {},
+  "onu_33745713604.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "ce8af812-48d1-4148-a2b4-62388fc22f37-subsea-22-production-23-wells-24",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "ce8af812-48d1-4148-a2b4-62388fc22f37-injected-28-seawater-29",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "ce8af812-48d1-4148-a2b4-62388fc22f37-paper-2"
+  },
+  "onu_33746039693.json": {},
+  "onu_33748460104.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33749265496.json": {},
+  "onu_33751312200.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "0c8feb86-ed53-4518-8929-20e43783eecc-water-10-dynamics-11"
+  },
+  "onu_33751315219.json": {},
+  "onu_34250708084.json": {},
+  "onu_344309110.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "8fb8097e-c81f-447a-a4d8-43a43dba6438-paper-2"
+  },
+  "onu_344741441.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "1de3c47d-c84d-4a38-b042-489e5b30b72e-deep-42",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "1de3c47d-c84d-4a38-b042-489e5b30b72e-paper-19",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "1de3c47d-c84d-4a38-b042-489e5b30b72e-deep-16-water-17"
+  },
+  "onu_345171568.json": {},
+  "onu_34531605.json": {},
+  "onu_34547893063.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "be5ea7f2-eaf1-4194-82d5-01264cdce152-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "be5ea7f2-eaf1-4194-82d5-01264cdce152-ultra-deepwaters-10"
+  },
+  "onu_345603133.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_345603650.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "03f9bd13-9d39-41a8-8125-8924075f6e7b-deep-4",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "03f9bd13-9d39-41a8-8125-8924075f6e7b-water-11-depth-12-limit-13"
+  },
+  "onu_34686357.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_34984147.json": {},
+  "onu_35573581.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "919869c7-27ec-44eb-bc21-ebd2300438cf-paper-2"
+  },
+  "onu_36768397.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "20e46fa4-f273-41b1-ba72-0f62ac329290-ultra-deep-water-13"
+  },
+  "onu_37304895.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6bacd7ac-6903-41a6-a534-aa3361728c0d-deep-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "6bacd7ac-6903-41a6-a534-aa3361728c0d-water-12-reservoirs-13",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6bacd7ac-6903-41a6-a534-aa3361728c0d-paper-2"
+  },
+  "onu_40349089123.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "50180d4d-99ad-4416-b364-8467ab844fae-paper-2"
+  },
+  "onu_4043182709.json": {},
+  "onu_41849140524.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "d5ee487c-3b46-46fc-a521-837aed5b9969-water-23-properties-24",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_47849110025.json": {},
+  "onu_50249174640.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "8fde804f-0525-4f0e-8503-d2317096c0a8-deep-23"
+  },
+  "onu_50249181836.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "cfd50fe9-a146-48f2-a71e-97b5100717b7-deep-29-water-30"
+  },
+  "onu_51649098845.json": {},
+  "onu_52049093008.json": {},
+  "onu_52249116622.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52349109473.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "69eb9371-1b92-4f24-801d-8748c6728bc5-semisubmersible-21-production-23-unit-24",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "69eb9371-1b92-4f24-801d-8748c6728bc5-water-21-depth-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_57649139087.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_58849128774.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "405fb23b-a959-4bb4-bed3-b32aa1a95cad-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_59649088185.json": {},
+  "onu_68649086917.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_68649124056.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": "1ddb617f-5d63-4fae-b6e3-3e210eb638a3-drilling-9"
+  },
+  "onu_68649126570.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_70449127482.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "5082c4a7-cf6e-45cd-b5f9-5834141f90b5-paper-2"
+  },
+  "onu_70449650835.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-great-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_72449143175.json": {},
+  "onu_73349086227.json": {},
+  "onu_77449138097.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_77955388680.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6853be13-f2b8-4273-b0f4-b628a386d69b-paper-2"
+  },
+  "onu_77955408815.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "3fbbdd88-8638-4b37-a689-c218c2b9f313-paper-2"
+  },
+  "onu_77956543361.json": {},
+  "onu_77956858304.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "18d1470d-7707-4546-87ab-5615cd0aeaf8-subsea-28-trees-29"
+  },
+  "onu_77958012173.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78049320828.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78649387727.json": {},
+  "onu_78650855754.json": {},
+  "onu_79952546010.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b40df2ca-cdf7-4284-8597-8f166cac093a-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "b40df2ca-cdf7-4284-8597-8f166cac093a-sea-27-level-28-variations-29",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "b40df2ca-cdf7-4284-8597-8f166cac093a-deep-10"
+  },
+  "onu_79952620223.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "c65b6b38-5933-4677-bdf7-2b10f3833625-paper-2"
+  },
+  "onu_79953006622.json": {},
+  "onu_79955374293.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_79955828033.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "070900c0-3683-4838-8adf-7fc9280ff95b-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "070900c0-3683-4838-8adf-7fc9280ff95b-3-11-subsea-13-fields-14",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "070900c0-3683-4838-8adf-7fc9280ff95b-ultra-deepwater-6"
+  },
+  "onu_79959789184.json": {},
+  "onu_80052069671.json": {},
+  "onu_80052571318.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6c5a99a3-587c-4891-b93a-3283c2d031e2-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80052582062.json": {},
+  "onu_80052741860.json": {},
+  "onu_80053430040.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053904380.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-water-25-production-26",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "b3a7d84e-f49d-44a6-94ef-f5d57da13419-subsea-7-separation-8"
+  },
+  "onu_80053909062.json": {},
+  "onu_80053931244.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053961084.json": {},
+  "onu_80054757255.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "24416a9e-e5f5-4726-9db1-4193f01f1575-deep-4"
+  },
+  "onu_81855167522.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "67a11e3d-316d-4504-abb6-d3f419bb7620-water-25",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "67a11e3d-316d-4504-abb6-d3f419bb7620-subsea-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_82555187024.json": {},
+  "onu_83155193342.json": {},
+  "onu_84856625676.json": {},
+  "onu_84856741449.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6776ee78-01b1-4f8a-8af9-5284efe9468d-deep-46",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "6776ee78-01b1-4f8a-8af9-5284efe9468d-deep-15-water-18"
+  },
+  "onu_84857305090.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6f3e4645-24e4-4349-bbd4-2d20eb367316-providing-33"
+  },
+  "onu_84857324711.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-deeper-10"
+  },
+  "onu_84857483294.json": {},
+  "onu_84861595246.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "204509a8-265c-4397-8149-04982bb962db-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84864615590.json": {},
+  "onu_84864936265.json": {},
+  "onu_84865218536.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "e955921c-620b-4103-a481-8613fc75bad6-paper-21"
+  },
+  "onu_84865723570.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "ee5c2e54-d5c3-4267-b45d-c2d38fa079f1-deep-10"
+  },
+  "onu_84869199462.json": {},
+  "onu_84870604908.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84877857340.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "77b503bf-c04b-4c2f-81df-35c44d2f8f36-deep-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84878941411.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879432080.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "d22980f2-d1fa-4f87-94aa-ec684269aac1-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879955769.json": {},
+  "onu_84880007809.json": {},
+  "onu_84883765236.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84883765292.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "afb5c7d8-4be9-4783-93d0-e20924ca5129-importance-3"
+  },
+  "onu_84887507211.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888845935.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "08983aea-212e-4ede-98cd-be137c97ff19-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "08983aea-212e-4ede-98cd-be137c97ff19-deep-3"
+  },
+  "onu_84888934569.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "1cc8cc5f-b866-4794-9210-470f3608b03d-semi-submersible-11-vessel-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888954344.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "bede67c1-2219-4ecb-94db-aba0e79b294c-subsea-33-production-34-flowlines-35",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "bede67c1-2219-4ecb-94db-aba0e79b294c-subsea-33-production-34-flowlines-35"
+  },
+  "onu_84888967977.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "4a2c3fd7-38bd-45be-9b1c-b83fa27f372d-deepwater-18-applications-19"
+  },
+  "onu_84889840418.json": {},
+  "onu_84891320656.json": {},
+  "onu_84891344152.json": {},
+  "onu_84892632570.json": {},
+  "onu_84892860778.json": {},
+  "onu_84893052541.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-15-circuit-16"
+  },
+  "onu_84893062958.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893067779.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-tight-4"
+  },
+  "onu_84893090004.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893361208.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "9867dde6-b627-4c95-aa08-5793f95d79f9-paper-3"
+  },
+  "onu_84893407222.json": {},
+  "onu_84893805098.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-deep-6"
+  },
+  "onu_84894453276.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "b9b6adf1-6e95-4cfa-b97a-44efcd1fe567-deep-14"
+  },
+  "onu_84894470550.json": {},
+  "onu_84896824358.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897376128.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6634b230-b55b-42f5-b6bf-e9764410d504-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "6634b230-b55b-42f5-b6bf-e9764410d504-water-9-drilling-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6634b230-b55b-42f5-b6bf-e9764410d504-deep-8"
+  },
+  "onu_84897381844.json": {},
+  "onu_84897392529.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "21b0b660-404f-436a-867e-af9cbe7f0918-Deep-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897399429.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-particularly-99-deep-102-water-103-settings-104"
+  },
+  "onu_84897408330.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b19e19ff-a5c9-48e8-bb16-bce5beab0ca2-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897441267.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6386a9ef-0016-45d5-9431-03b779673c2b-paper-2"
+  },
+  "onu_84897448998.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "ebed93b1-9b44-42bf-a267-aebdc3f48887-paper-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897449140.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b829cc46-eb44-4769-8923-e94eb353af76-paper-2"
+  },
+  "onu_84897461830.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-paper-2"
+  },
+  "onu_84897465328.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "7e19d608-90b6-4fc3-afea-623202a7f587-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "7e19d608-90b6-4fc3-afea-623202a7f587-deep-18-water-20-remote-22-areas-23",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "7e19d608-90b6-4fc3-afea-623202a7f587-deep-18-water-20-remote-22-areas-23"
+  },
+  "onu_84897470967.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84900305359.json": {},
+  "onu_84901784680.json": {},
+  "onu_84904394721.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-deepwater-16-reservoirs-17"
+  },
+  "onu_84905748711.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-paper-2"
+  },
+  "onu_84907991224.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84918528762.json": {},
+  "onu_84925638296.json": {},
+  "onu_84930513772.json": {},
+  "onu_84940864746.json": {},
+  "onu_84943289484.json": {},
+  "onu_84943328375.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-paper-2"
+  },
+  "onu_84943338721.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "83c12324-c60f-4651-9cfb-69111aaba3ef-subsea-5-equipment-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "83c12324-c60f-4651-9cfb-69111aaba3ef-deep-40"
+  },
+  "onu_84943339436.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944574757.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "d0d3f522-daa5-46df-9fd9-95491816b5d6-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "d0d3f522-daa5-46df-9fd9-95491816b5d6-subsea-8-deepwater-9-well-10-installation-11",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "d0d3f522-daa5-46df-9fd9-95491816b5d6-reliability-13-assurance-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944593501.json": {},
+  "onu_84947326315.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "c9348211-c72e-4ea1-9eb9-711dc0c65800-importance-22"
+  },
+  "onu_84947757002.json": {},
+  "onu_84949266932.json": {},
+  "onu_84951918487.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6d96e98c-77ad-4954-b07a-14307ad74b11-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6d96e98c-77ad-4954-b07a-14307ad74b11-deep-10"
+  },
+  "onu_84954454797.json": {},
+  "onu_84955127995.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84958666405.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959478227.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959561430.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84963819657.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "fcf2e6c3-d24b-4213-a006-8fb5427c6317-role-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84964700375.json": {},
+  "onu_84974574825.json": {},
+  "onu_84975761253.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84979574362.json": {},
+  "onu_84983465797.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "29e71a86-d6f9-4b04-935d-d2cff0962e21-(-6-Electrical-7-Submersible-8-Pumps-9-)-10",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "29e71a86-d6f9-4b04-935d-d2cff0962e21-significant-19-flow-20-assurance-21-challenges-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84984596158.json": {},
+  "onu_84987760544.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-great-7"
+  },
+  "onu_84987762471.json": {},
+  "onu_84987763922.json": {},
+  "onu_84990861431.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84990898401.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "9d3f7157-a5f4-4c28-968c-5311617f432d-water-5-masses-6"
+  },
+  "onu_84996602559.json": {},
+  "onu_85006339618.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "ebc129db-d75f-475f-bc23-246f6cc145ee-coastal-32",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85007282651.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85008198009.json": {},
+  "onu_85009177497.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85009192413.json": {},
+  "onu_85009433339.json": {},
+  "onu_85012910163.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "be4b33fc-ea24-431e-800e-9069afec7afe-thick-31",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85013296221.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "68be832a-27b4-49e7-8b72-dcc340ca62d8-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "68be832a-27b4-49e7-8b72-dcc340ca62d8-importance-22",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "68be832a-27b4-49e7-8b72-dcc340ca62d8-flow-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Argentina",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "68be832a-27b4-49e7-8b72-dcc340ca62d8-coastal-26"
+  },
+  "onu_85013858173.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "9f50d251-7e41-4765-8a72-6be967b48838-water-33-column-34",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85016298905.json": {},
+  "onu_85016958402.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "caf1ea25-a32b-433b-bb7d-3960560de634-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85017468089.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85020183362.json": {},
+  "onu_85026803842.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "1422e178-cc62-4bf3-acfe-1985781bfe49-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "1422e178-cc62-4bf3-acfe-1985781bfe49-subsea-27-engineering-28-plant-34",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027233889.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027401053.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "53d0784c-6881-46a8-8607-8473e2e87675-shallow-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028240731.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028278319.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-paper-2"
+  },
+  "onu_85028950368.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "e4dae957-4d94-4311-82ad-250e750ae287-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85029591872.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "b236a4b6-2727-41c8-8cef-67a669027e7b-importance-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "b236a4b6-2727-41c8-8cef-67a669027e7b-studying-7"
+  },
+  "onu_85030830298.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030842598.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-paper-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85031996233.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "9d056a4c-d060-45c5-9a52-c7de291d1d6a-Paper-2"
+  },
+  "onu_85032863710.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85033225585.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "7de64ed0-3f58-45d8-9cc8-eef825191710-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "7de64ed0-3f58-45d8-9cc8-eef825191710-water-10-data-11",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "7de64ed0-3f58-45d8-9cc8-eef825191710-shallow-9"
+  },
+  "onu_85033604891.json": {},
+  "onu_85034042710.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85035340277.json": {},
+  "onu_85037355639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85037590262.json": {},
+  "onu_85039546750.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "1b5c2e54-dca5-4773-b611-862793e6f292-significance-10"
+  },
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {},
+  "onu_85040888184.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-subsea-4-completions-5",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-subsea-4-completions-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041142849.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6b251826-cf79-4973-a63d-ae11b18be0c9-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7"
+  },
+  "onu_85041154400.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-deepwater-12-production-13-systems-14"
+  },
+  "onu_85041277142.json": {},
+  "onu_85041698761.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85043311576.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-water-22-column-23"
+  },
+  "onu_85043324954.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-water-50-environment-51",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "70bd8463-25b3-4fd2-8bcd-c7bc8c417fbb-shallow-49"
+  },
+  "onu_85044192214.json": {},
+  "onu_85044397080.json": {},
+  "onu_85044462127.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "77be762f-bb9c-4142-a04f-af0145a57575-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044530973.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2d2c9121-9db0-47fd-913b-f722bc62e245-thoughtful-11"
+  },
+  "onu_85044596303.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "99512cc4-b35c-4f65-be28-93092a3cf0fc-extensive-13"
+  },
+  "onu_85045186297.json": {},
+  "onu_85046290497.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "35192ccb-675a-4bdd-a038-ce44e68614f3-major-12"
+  },
+  "onu_85046379273.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-paper-4",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "02efe9bb-4889-4bbe-974d-5c2dff0e35fa-deepwater-26"
+  },
+  "onu_85047299670.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "7e13bfab-9226-403e-bf1d-cce401dd3b64-paper-16"
+  },
+  "onu_85047354188.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "f6a07423-b312-4355-bf91-78e2c50897f3-sharp-16"
+  },
+  "onu_85047409861.json": {},
+  "onu_85048345043.json": {},
+  "onu_85048862831.json": {},
+  "onu_85049552088.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "85bb1f29-6fcb-426b-abc6-5be02b46d922-shallow-46"
+  },
+  "onu_85050512775.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "d456d187-3df8-4b64-8a11-6d3acdc976bf-Considerable-1"
+  },
+  "onu_85050528173.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "d59c3d19-b470-43cc-aef7-3fa793b9d284-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "d59c3d19-b470-43cc-aef7-3fa793b9d284-Subsea-11-system-12",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "d59c3d19-b470-43cc-aef7-3fa793b9d284-strong-8"
+  },
+  "onu_85050539655.json": {},
+  "onu_85050551470.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "54866368-b614-4ef4-9fab-faa48a38f22d-subsea-23"
+  },
+  "onu_85050561554.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "a1d0a6b1-9550-43c9-a812-f8a99d9763d6-paper-2"
+  },
+  "onu_85050643252.json": {},
+  "onu_85050674553.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-extensive-3",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "36dbe77c-4321-4bf2-aee4-2e7bf595abe8-flow-8-assurance-9"
+  },
+  "onu_85050680089.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051633827.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "c685c5a5-bc59-4451-bee6-87f7a8810b95-deep-6",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "c685c5a5-bc59-4451-bee6-87f7a8810b95-deep-4-water-5-part-6-of-7-basin-9"
+  },
+  "onu_85051644896.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "12c1d79e-73bd-481c-bdb8-1d4727843a15-paper-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051649253.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "676e7e95-336a-48ca-8815-930a8e2851b0-importance-27",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "676e7e95-336a-48ca-8815-930a8e2851b0-global-26",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051653660.json": {},
+  "onu_85051673888.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052069920.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "6019aafd-17a7-4b19-be78-72fdb72b948b-need-29",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "6019aafd-17a7-4b19-be78-72fdb72b948b-water-21-temperatures-22",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6019aafd-17a7-4b19-be78-72fdb72b948b-deep-37",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052748036.json": {},
+  "onu_85052916893.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "390e8152-252c-4c33-856b-035e5f48ed3e-coastal-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053143769.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-resource-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053593980.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "8db3c934-1816-4c07-9f83-706b0c2a1f16-vulnerability-8"
+  },
+  "onu_85053770238.json": {},
+  "onu_85054086297.json": {},
+  "onu_85054504118.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b1326d03-e928-4f17-a698-2f5bc600a0ed-paper-2"
+  },
+  "onu_85054783545.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85054941296.json": {},
+  "onu_85055025955.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-water-23-data-25",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-shallow-22",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-deepwater-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055027444.json": {},
+  "onu_85055027692.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-Electrical-17-Submersible-18-Pumps-19",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-subsea-16",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "9b3bcee7-dcb0-43b2-b05a-e1658aa22322-subsea-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055036761.json": {},
+  "onu_85055255571.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-deeper-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055263465.json": {},
+  "onu_85055528846.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "2970e996-64cc-47e6-bc5c-fb3d99195396-importance-14",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2970e996-64cc-47e6-bc5c-fb3d99195396-great-13"
+  },
+  "onu_85055864923.json": {},
+  "onu_85055908781.json": {},
+  "onu_85056094176.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "0ddfca10-cdbf-4166-ae46-860624694346-deep-11"
+  },
+  "onu_85056110569.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "1a82d70b-0282-4199-a560-d0aab9c27373-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "1a82d70b-0282-4199-a560-d0aab9c27373-heavy-12",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "1a82d70b-0282-4199-a560-d0aab9c27373-flow-2-assurance-3",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": "1a82d70b-0282-4199-a560-d0aab9c27373-Tests-12",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "1a82d70b-0282-4199-a560-d0aab9c27373-offshore-5-heavy-6-oil-7-fields-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056183083.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056566136.json": {},
+  "onu_85056605886.json": {},
+  "onu_85056605922.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056794099.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85057560805.json": {},
+  "onu_85057883234.json": {},
+  "onu_85059143234.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "c547213a-e858-4f59-a98b-991221b44a08-role-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059218520.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "3b82b426-f976-4040-80bc-6950dc12d3c9-deep-28",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059436090.json": {},
+  "onu_85060083816.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "1dffa5b8-1e2e-4c52-9656-c5c66af49cc3-distant-26"
+  },
+  "onu_85060443361.json": {},
+  "onu_85061179665.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "17e2d2d4-078d-47cf-b582-655e5774143c-importance-16"
+  },
+  "onu_85061498967.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85061767810.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-lake-10-water-11-chemistry-12",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-major-5"
+  },
+  "onu_85061823653.json": {},
+  "onu_85062013573.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": "28afef62-c426-44a2-9215-bf6b45551070-expansion-3",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2": "28afef62-c426-44a2-9215-bf6b45551070-expansion-3"
+  },
+  "onu_85062607406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062717506.json": {},
+  "onu_85063263863.json": {},
+  "onu_85063689284.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85064764902.json": {},
+  "onu_85064808857.json": {},
+  "onu_85064983703.json": {},
+  "onu_85065180012.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "13f75155-d6c6-4b97-9145-c113a876f2e7-contribution-13"
+  },
+  "onu_85065623080.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2": "bf6993e6-8f4e-4b68-8ce1-f51cc4cacd95-impact-3"
+  },
+  "onu_85065912337.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85066600751.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-water-20",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "1b3efd75-ecd6-4314-81c9-3d9d5c84453d-deep-19"
+  },
+  "onu_85066617192.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "09790547-3df0-4ca2-b3ad-f36ed5f66b04-paper-2"
+  },
+  "onu_85066623384.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "63257db0-7292-4593-96e1-aae426bbf829-paper-2"
+  },
+  "onu_85067965170.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+    "NE-COUNTRY-Brazil": "4d09355a-503a-48db-a367-7c33af77071e-islands-21",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "4d09355a-503a-48db-a367-7c33af77071e-great-9"
+  },
+  "onu_85068049608.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "198e827a-9847-428e-9646-a76213d2c09d-deep-7"
+  },
+  "onu_85068387773.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85068453742.json": {},
+  "onu_85070554647.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "72b63001-9050-46f3-a364-f3ec8d862ef0-oil-9-fields-10"
+  },
+  "onu_85070704005.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85070853924.json": {},
+  "onu_85070991202.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "e4582df4-682d-4820-a6cd-b5346f3f75b5-importance-18"
+  },
+  "onu_85071023764.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85071488896.json": {},
+  "onu_85071542084.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "03bb4e36-65c4-4faa-889c-f08a60c33d08-deep-28"
+  },
+  "onu_85071847548.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85072725932.json": {},
+  "onu_85072834829.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "f46f17d1-e7ee-43a7-b27f-8001a220449a-major-17"
+  },
+  "onu_85073705401.json": {},
+  "onu_85073706024.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "fad0be37-f5f4-4a0f-bcad-6a82a846f841-ultra-deepwater-9"
+  },
+  "onu_85073935907.json": {},
+  "onu_85074489503.json": {},
+  "onu_85074632793.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-impact-2": "e96160f9-afe1-4286-9ca9-11f35229455a-impact-2"
+  },
+  "onu_85074778611.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-intense-29",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075350522.json": {},
+  "onu_85075421341.json": {},
+  "onu_85075661667.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "8eb22610-755f-4d77-aaca-50d08c2064c5-essential-15"
+  },
+  "onu_85075827903.json": {},
+  "onu_85075828327.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-importance-23",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "76be24f2-9662-45c7-a95c-63c0f1d47d2c-great-22"
+  },
+  "onu_85075831363.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "c6187c05-69fa-4993-ac86-f7154dd67053-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "c6187c05-69fa-4993-ac86-f7154dd67053-water-5-scenario-6",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "c6187c05-69fa-4993-ac86-f7154dd67053-deep-3"
+  },
+  "onu_85075835330.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075843438.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b11303f1-e8e0-4420-9932-569d3ac87ff2-paper-2"
+  },
+  "onu_85075879935.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075941856.json": {},
+  "onu_85075951728.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "ddb3c75a-c68b-4ad3-8673-4c7520fc72ba-shallow-9"
+  },
+  "onu_85075997043.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076246665.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "e0b07107-d3d9-440f-ac94-05597132db4b-strong-17"
+  },
+  "onu_85076560202.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076775401.json": {},
+  "onu_85076896265.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077234208.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077945350.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "e5183355-b1b6-474b-bef3-dcc000293be4-water-21-residence-22-times-23"
+  },
+  "onu_85078010553.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "8b856b86-bebe-4ded-9624-c946c2d1bff7-importance-17",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "8b856b86-bebe-4ded-9624-c946c2d1bff7-water-10",
+    "NE-COUNTRY-Brazil": "8b856b86-bebe-4ded-9624-c946c2d1bff7-Northeast-21",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "8b856b86-bebe-4ded-9624-c946c2d1bff7-immense-16"
+  },
+  "onu_85078233209.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-deep-7"
+  },
+  "onu_85079351203.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85079784581.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85080813467.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85083240666.json": {},
+  "onu_85083341760.json": {},
+  "onu_85084024263.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85084454298.json": {},
+  "onu_85084634006.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "a407c16e-080e-4100-9fc2-914500db52e5-importance-14",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "a407c16e-080e-4100-9fc2-914500db52e5-well-16"
+  },
+  "onu_85084667903.json": {},
+  "onu_85084945361.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085054148.json": {},
+  "onu_85085298469.json": {},
+  "onu_85085408490.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-paper-2"
+  },
+  "onu_85085473397.json": {},
+  "onu_85085492342.json": {},
+  "onu_85085773523.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "ab307ab9-374d-477f-9d96-1a0fda460239-subsea-28-manifolds-29"
+  },
+  "onu_85085773731.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-water-16-oil-18"
+  },
+  "onu_85085773745.json": {},
+  "onu_85085773825.json": {},
+  "onu_85085773875.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "d606c7b3-ce98-4023-8a39-196528dd3002-Oil-17-Water-19-Subsea-20-Separator-21"
+  },
+  "onu_85085774498.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "801b16ca-c991-454c-b97a-b358ab8eea75-paper-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774511.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-flow-70-assurance-71": "07bf9801-f530-468c-9921-66afca9b2b91-flow-16-conditions-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774766.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-shallow-14"
+  },
+  "onu_85085775194.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-paper-2"
+  },
+  "onu_85085775396.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "ee817b7d-8183-4633-9141-28578ef8eeaa-water-20-environments-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085775562.json": {},
+  "onu_85085775753.json": {},
+  "onu_85085775962.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "be473474-e9c1-4908-947b-6970a8bfa756-intense-18"
+  },
+  "onu_85085776151.json": {},
+  "onu_85085776159.json": {},
+  "onu_85085776356.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085776372.json": {},
+  "onu_85085776540.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "544389f0-af01-489c-a71e-5e23542d32c5-huge-3"
+  },
+  "onu_85085776958.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "6dbb2a6b-d66e-49c3-a7f3-450475d69123-electrical-28-submersible-29-pump-30",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085777009.json": {},
+  "onu_85085777884.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085778037.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-deep-8",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-offshore-21-subsea-22-areas-23": "2dd1a90e-7412-4b7d-ac70-cba9b0380628-offshore-43-oilfields-44"
+  },
+  "onu_85085778412.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "4fb375aa-30f3-49a6-9346-70a70e51f8b9-paper-2"
+  },
+  "onu_85085778651.json": {},
+  "onu_85085778850.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "aefa100b-fd33-476c-8121-310d23ec4cbc-reservoir-19-section-20"
+  },
+  "onu_85085778895.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b7a10045-d4c2-447e-907a-820163ea176a-paper-2"
+  },
+  "onu_85085779136.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-subsea-45-wells-46": "242b3b58-d08d-46cf-9db1-3ced34a59265-subsea-13-equipment-14",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deployment-19": "NE-TITLE-operator"
+  },
+  "onu_85085779144.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085780309.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "82bdebe1-55d4-4873-9e12-d1e0510312d7-deck-5-simulations-6",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-such-73-conditions-74": "82bdebe1-55d4-4873-9e12-d1e0510312d7-extreme-20-conditions-21",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "82bdebe1-55d4-4873-9e12-d1e0510312d7-especially-31-beam-33-sea-34-conditions-35"
+  },
+  "onu_85085850094.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086232639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086245971.json": {},
+  "onu_85086248840.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-electrical-41-submersible-42-pump-43": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-Semi-Submersible-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086257600.json": {},
+  "onu_85086355916.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086628030.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "a73dc049-c132-4e65-b2aa-4a929784f44d-deep-12"
+  },
+  "onu_85086649140.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "c9f847a3-c49c-4b1b-a35a-2782aa506380-deep-14"
+  },
+  "onu_85086667338.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "c26fa3b4-e85d-44f5-a212-fecb246d8968-shallow-21-water-22-platform-23-environment-24"
+  },
+  "onu_85086808985.json": {},
+  "onu_85086809805.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "6af17be2-6207-49d6-b833-4d7a7d7f3202-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "6af17be2-6207-49d6-b833-4d7a7d7f3202-deep-4-water-6-Oil-7-operations-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086829622.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "b4397664-2f84-441a-a57c-f2048b42eb8c-deeper-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086929987.json": {},
+  "onu_85087227840.json": {},
+  "onu_85087228205.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "fb7e8c11-5740-4da0-9139-e7047dada05c-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087345946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087348432.json": {},
+  "onu_85087970879.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088133476.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088202607.json": {},
+  "onu_85088697920.json": {},
+  "onu_85088709907.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088763109.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088793210.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "36cf26a9-49e9-4151-9e5e-0835540d9f61-gaps-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088799870.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088892946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "03163d01-a984-4a93-b405-5621c6de58e3-shallow-8"
+  },
+  "onu_85088978023.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-extreme-6"
+  },
+  "onu_85089199336.json": {},
+  "onu_85089245637.json": {},
+  "onu_85089527352.json": {},
+  "onu_85089654013.json": {},
+  "onu_85090201621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090367193.json": {},
+  "onu_85090483755.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "ec838f9b-75a6-4595-9c5b-98f8b90497ba-sea-24-level-26-variations-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090507698.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b6d6d264-109e-4fad-a0b3-0364af473595-paper-2"
+  },
+  "onu_85090509939.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "434cbfb2-e716-43dd-abaf-4575fa516085-paper-2"
+  },
+  "onu_85090511016.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-huge-51"
+  },
+  "onu_85090646059.json": {},
+  "onu_85090693617.json": {},
+  "onu_85090982605.json": {},
+  "onu_85091197319.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85091725112.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "68839359-bf76-4868-9d75-bcfd19d0c220-deep-8"
+  },
+  "onu_85091986329.json": {},
+  "onu_85092100205.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "cd943918-e357-445e-8695-9d1b93213bb2-deep-9"
+  },
+  "onu_85092110011.json": {},
+  "onu_85092499794.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85093942688.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85094168812.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "33123267-a7dd-42ee-9a02-5fe91ca5dc6b-paper-2"
+  },
+  "onu_85095686213.json": {},
+  "onu_85095886757.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85095967333.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85096027479.json": {},
+  "onu_85096104148.json": {},
+  "onu_85096519364.json": {},
+  "onu_85096833213.json": {},
+  "onu_85097322074.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-paper-2"
+  },
+  "onu_85097480849.json": {},
+  "onu_85097539519.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "ce0c83fa-5bf7-4707-9350-83eb2f73e209-paper-2"
+  },
+  "onu_85097552901.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "d8cfb4de-70be-467f-985d-1b6570de040d-paper-2",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "d8cfb4de-70be-467f-985d-1b6570de040d-ultra-deepwater-27-production-28-system-29-boundaries-30",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097570159.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-influence-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097598677.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097758556.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097770989.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2cc98001-f232-4675-9305-a2fed963fe2c-deeper-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097876795.json": {},
+  "onu_85097889884.json": {},
+  "onu_85097914346.json": {},
+  "onu_85097951230.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "d6883d36-bf69-406e-b609-e85a3744a46f-influence-6",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "d6883d36-bf69-406e-b609-e85a3744a46f-shallow-14"
+  },
+  "onu_85098462600.json": {},
+  "onu_85099021856.json": {},
+  "onu_85099211729.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099279592.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "762c9adb-5241-4a67-a3d1-c004219de178-paper-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099301920.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099313369.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "2fe1dbe6-1026-4750-8efd-3c71f8dfc6b9-paper-2"
+  },
+  "onu_85099520347.json": {},
+  "onu_85100594780.json": {},
+  "onu_85100847459.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101031678.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4"
+  },
+  "onu_85101067912.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "b8ff745b-f126-438a-b4bd-e676c40a4a02-relevance-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101344072.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-mainly-25-giant-27-deepwater-28-fields-29": "0ad0337a-c203-4926-b4bf-4389950fa263-Cretaceous-34-seawater-35"
+  },
+  "onu_85101359309.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101493235.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "ef158461-f75c-4fd6-954c-3e8db41d439b-major-11"
+  },
+  "onu_85101961666.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-importance-5": "24e932fe-ae8c-44e6-87a2-382dde69c66c-importance-10",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-water-8-scenario-9": "24e932fe-ae8c-44e6-87a2-382dde69c66c-reservoir-16-characterization-17-studies-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "24e932fe-ae8c-44e6-87a2-382dde69c66c-integrating-12"
+  },
+  "onu_85102272621.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103445741.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103489384.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "44301f57-e236-4b9c-a5ee-571fc96677e2-coastal-25"
+  },
+  "onu_85103521288.json": {},
+  "onu_85103724572.json": {
+    "35a41731-8e50-4777-9d82-156d471c0ae7-paper-2": "5bcbf8eb-bee5-42ff-a88b-aa278d59675d-paper-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104343927.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104631395.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "35a41731-8e50-4777-9d82-156d471c0ae7-deep-7": "2570e3cb-e265-4264-a109-e3358d5b90ba-deep-20"
+  },
+  "onu_85104732272.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  }
+}

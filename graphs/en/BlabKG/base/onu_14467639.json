@@ -1,0 +1,277 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_14467639.txt",
+  "entities": {
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-wells-48": "wells",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-have-49-drilled-51": "have drilled",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-120-47": "120",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-where-46": "where",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64": "drilling program",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-end-75": "end",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-extensive-62": "extensive",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-reserves-69": "reserves",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-14-output-15": "oil output",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23": "increase",
+    "NE-PERCENT-8%": "8 %",
+    "NE-DATE-1967": "1967",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-output-56": "output",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-39,000-59-bpd-60": "39,000 bpd",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-average-54": "average",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4": "oil development",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-crude-13": "crude",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-strong-20": "strong",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-remarkable-7": "remarkable",
+    "NE-TITLE-producer": "producer",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-field-31": "field",
+    "NE-LOCATION-Miranga": "Miranga",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-1967-77": "1967",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-160,000-17-bpd-18": "160,000 bpd",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-largest-27": "largest",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-800-79-million-80-bbl-81": "800 million bbl",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-proven-68": "proven",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-total-55": "total",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15": "development",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37": "surveys",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-geophysical-34": "geophysical",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-offshore-14": "offshore",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-section-23": "section",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-promising-19": "promising",
+    "NE-ORGANIZATION-Continental-Shelf": "Continental Shelf",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-sedimentary-22": "sedimentary",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-most-18": "most",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-considered-17": "considered",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-previous-33": "previous",
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-about-25-6000-26-m-27-thickness-28": "about 6000 m thickness"
+  },
+  "graph": [
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-wells-48",
+      "relation": "have",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-have-49-drilled-51"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-wells-48",
+      "relation": "amount to",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-120-47"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-have-49-drilled-51",
+      "relation": "at",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-where-46"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64",
+      "relation": "calculated at",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-end-75"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-extensive-62"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64",
+      "relation": "has contributed to",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-reserves-69"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-14-output-15",
+      "relation": "averaged",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23",
+      "relation": "of",
+      "object_id": "NE-PERCENT-8%"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23",
+      "relation": "of",
+      "object_id": "NE-DATE-1967"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-output-56",
+      "relation": "amounted to",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-39,000-59-bpd-60"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-output-56",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-average-54"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-14-output-15",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-crude-13"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-strong-20"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4",
+      "relation": "continues",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-remarkable-7"
+    },
+    {
+      "subject_id": "NE-TITLE-producer",
+      "relation": "became",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-field-31"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-field-31",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Miranga"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-end-75",
+      "relation": "of",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-1967-77"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-14-output-15",
+      "relation": "averaged",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-160,000-17-bpd-18"
+    },
+    {
+      "subject_id": "NE-TITLE-producer",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-largest-27"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-reserves-69",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64",
+      "relation": "calculated at",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-800-79-million-80-bbl-81"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-reserves-69",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-proven-68"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-output-56",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-total-55"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15",
+      "relation": "been indicated by",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-geophysical-34"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-offshore-14"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15",
+      "relation": "is considered as",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-section-23"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15",
+      "relation": "is considered",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-promising-19"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Continental-Shelf"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-section-23",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-sedimentary-22"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-promising-19",
+      "relation": "at",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-most-18"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-considered-17"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37",
+      "relation": "is",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-previous-33"
+    },
+    {
+      "subject_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-section-23",
+      "relation": "of",
+      "object_id": "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-about-25-6000-26-m-27-thickness-28"
+    }
+  ],
+  "links": {
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-wells-48": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-have-49-drilled-51": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-120-47": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-where-46": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-drilling-63-program-64": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-end-75": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-extensive-62": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-reserves-69": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-14-output-15": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-increase-23": [],
+    "NE-PERCENT-8%": [],
+    "NE-DATE-1967": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-output-56": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-39,000-59-bpd-60": [
+      "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-160,000-17-bpd-18"
+    ],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-average-54": [],
+    "NE-COUNTRY-Brazil": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-oil-3-development-4": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-crude-13": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-strong-20": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-remarkable-7": [],
+    "NE-TITLE-producer": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-field-31": [],
+    "NE-LOCATION-Miranga": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-1967-77": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-160,000-17-bpd-18": [
+      "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-39,000-59-bpd-60"
+    ],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-largest-27": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-800-79-million-80-bbl-81": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-proven-68": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-total-55": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-development-15": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-surveys-37": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-geophysical-34": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-offshore-14": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-section-23": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-promising-19": [],
+    "NE-ORGANIZATION-Continental-Shelf": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-sedimentary-22": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-most-18": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-considered-17": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-previous-33": [],
+    "04fb19eb-27a3-4c60-b8e1-453f11d0e96b-about-25-6000-26-m-27-thickness-28": []
+  }
+}

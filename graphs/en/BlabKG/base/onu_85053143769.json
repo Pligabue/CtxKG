@@ -1,0 +1,659 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85053143769.txt",
+  "entities": {
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-study-2": "study",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11": "windfarm",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-located-15": "located",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-effect-6": "wake effect",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-terrain-18": "terrain",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-onshore-10": "onshore",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14-located-15-in-16-complex-17-terrain-18": "38 turbines located in complex terrain",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14": "38 turbines",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-measurement-16-periods-17": "measurement periods",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-19-of-21-wake-23-condition-24": "free of wake condition",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-3": "methodology",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-6-deficit-7": "wind deficit",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-9-metmasts-11": "3 metmasts",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-different-10": "different",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-proposed-2": "proposed",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmast-26": "metmast",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-28-of-30-wake-32-condition-33": "free of wake condition",
+    "NE-ORDINAL-fourth": "fourth",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Uncertainties-1": "Uncertainties",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-have-9-avoided-11-by-12-MCP-14": "have avoided by MCP",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performing-13": "performing",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-2": "methodology",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-uncertainties-6": "uncertainties",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Nacelle-8-anemometry-9": "Nacelle anemometry",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-4": "free",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculation-2": "calculation",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-10": "sector",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performed-8": "performed",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3": "wind deficits",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-identified-5": "identified",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sectors-8": "sectors",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Higher-1": "Higher",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-10": "turbines",
+    "NE-DATE-present": "present",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-direction-18": "direction",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-upwind-17": "upwind",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operation-12": "operation",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-2": "results",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8": "power curves",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-11": "turbines",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbine-22-supplier-23": "turbine supplier",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-technical-25-specification-26": "technical specification",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-closest-12": "closest",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-15": "metmasts",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-combined-4": "combined",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-13-effect-14": "wake effect",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-locations-17": "locations",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7": "wind deficits",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12": "results",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-models-15": "wake models",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-large-19": "large",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-compared-9": "compared",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculated-2": "calculated",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-international-20": "international",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-used-16": "used",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-18-wind-21-farms-22-site-23-assessment-24-consultants-25": "two wind farms site assessment consultants",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-42-farms-43": "wind farms",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-models-6": "models",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effects-9": "effects",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-12-analyzed-13-locations-14": "3 analyzed locations",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-2-limitations-4": "two limitations",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11": "restriction",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-main-3": "main",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-effect-15-measurement-16": "wake effect measurement",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-lie-8": "lie",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-19-locations-20": "metmasts locations",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-models-6-developments-7": "wake models developments",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-farms-14": "wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-17-effects-18": "wake effects",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-22": "role",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-21": "significant",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-12": "offshore",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-directed-10": "directed",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-frequently-9": "frequently",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-capacity-13": "capacity",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-installed-12": "installed",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-global-11": "global",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-farms-3": "wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-studied-6": "studied",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Onshore-1": "Onshore",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-less-5": "less",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20": "wake effects",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4": "concentration",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-continuous-3": "continuous",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operating-6-wind-7-farms-8": "operating wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10-of-11-higher-12-wind-13-resource-14": "regions of higher wind resource",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-24": "role",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-27": "sector",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-23": "significant",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-7-farms-8": "wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10": "regions",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-resource-14": "wind resource",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-energy-12-losses-13": "energy losses",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-it-24": "it",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effect-17": "effect",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-19-wind-20-farms-21": "offshore wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-6-models-7": "wake models",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-20-farms-21": "wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-32-farms-33": "wind farms",
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-complex-35-terrain-36": "complex terrain"
+  },
+  "graph": [
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-study-2",
+      "relation": "measured wake effect in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-located-15"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-study-2",
+      "relation": "measured",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-effect-6"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-terrain-18"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-onshore-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14-located-15-in-16-complex-17-terrain-18"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "is with",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14-located-15-in-16-complex-17-terrain-18"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-measurement-16-periods-17",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-19-of-21-wake-23-condition-24"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-3",
+      "relation": "calculated",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-6-deficit-7"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-3",
+      "relation": "calculated wind deficit in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-9-metmasts-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-9-metmasts-11",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-different-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-3",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-proposed-2"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmast-26",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-28-of-30-wake-32-condition-33"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmast-26",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-fourth"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Uncertainties-1",
+      "relation": "have",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-have-9-avoided-11-by-12-MCP-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-have-9-avoided-11-by-12-MCP-14",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performing-13"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-2",
+      "relation": "is free of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-uncertainties-6"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-uncertainties-6",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Nacelle-8-anemometry-9"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-2",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-4"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculation-2",
+      "relation": "was performed per",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculation-2",
+      "relation": "was",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performed-8"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3",
+      "relation": "were",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-identified-5"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3",
+      "relation": "were identified in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sectors-8"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Higher-1"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-10",
+      "relation": "are",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-10",
+      "relation": "are present in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-direction-18"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-direction-18",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-upwind-17"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-identified-5",
+      "relation": "were turbines under",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operation-12"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-identified-5",
+      "relation": "were",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-2",
+      "relation": "were combined to",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbine-22-supplier-23",
+      "relation": "from",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-technical-25-specification-26"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-closest-12"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-15"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-2",
+      "relation": "were",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-combined-4"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-13-effect-14",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-locations-17"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7",
+      "relation": "were compared to",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-models-15"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-large-19"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7",
+      "relation": "were",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-compared-9"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculated-2"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-international-20"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-used-16"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-18-wind-21-farms-22-site-23-assessment-24-consultants-25"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-42-farms-43",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-models-6",
+      "relation": "underestimate",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effects-9"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effects-9",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-12-analyzed-13-locations-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effects-9",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-12-analyzed-13-locations-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-2-limitations-4",
+      "relation": "lie in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-2-limitations-4",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-main-3"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-effect-15-measurement-16"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-lie-8",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-lie-8",
+      "relation": "amount to",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-2-limitations-4"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-19-locations-20"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-models-6-developments-7",
+      "relation": "are directed to",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-farms-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-17-effects-18",
+      "relation": "play",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-22"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-22",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-21"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-farms-14",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-12"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-models-6-developments-7",
+      "relation": "are",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-directed-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-models-6-developments-7",
+      "relation": "are frequently directed to",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-farms-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-directed-10",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-frequently-9"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-capacity-13",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-installed-12"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-capacity-13",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-global-11"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-farms-3",
+      "relation": "are",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-studied-6"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-studied-6",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Onshore-1"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-studied-6",
+      "relation": "at",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-less-5"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20",
+      "relation": "play role With",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-continuous-3"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operating-6-wind-7-farms-8"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operating-6-wind-7-farms-8",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10-of-11-higher-12-wind-13-resource-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20",
+      "relation": "play",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-24"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20",
+      "relation": "play role in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-27"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-24",
+      "relation": "is",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-23"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10-of-11-higher-12-wind-13-resource-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-7-farms-8"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-resource-14"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-energy-12-losses-13",
+      "relation": "making",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-it-24"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effect-17",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-19-wind-20-farms-21"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-6-models-7",
+      "relation": "underestimate energy losses due",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-20-farms-21"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-6-models-7",
+      "relation": "underestimate",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-energy-12-losses-13"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-32-farms-33",
+      "relation": "is in",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-complex-35-terrain-36"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-6-models-7",
+      "relation": "underestimate energy losses due",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effect-17"
+    },
+    {
+      "subject_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-20-farms-21",
+      "relation": "of",
+      "object_id": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-19-wind-20-farms-21"
+    }
+  ],
+  "links": {
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-study-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-windfarm-11": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-located-15": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-effect-6": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-terrain-18": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-onshore-10": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14-located-15-in-16-complex-17-terrain-18": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-38-13-turbines-14": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-measurement-16-periods-17": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-19-of-21-wake-23-condition-24": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-3": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-6-deficit-7": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-9-metmasts-11": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-different-10": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-proposed-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmast-26": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-28-of-30-wake-32-condition-33": [],
+    "NE-ORDINAL-fourth": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Uncertainties-1": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-have-9-avoided-11-by-12-MCP-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performing-13": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-methodology-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-uncertainties-6": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Nacelle-8-anemometry-9": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-free-4": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculation-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-10": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-performed-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-identified-5": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sectors-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Higher-1": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-10": [],
+    "NE-DATE-present": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-direction-18": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-upwind-17": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operation-12": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-power-7-curves-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbines-11": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-turbine-22-supplier-23": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-technical-25-specification-26": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-closest-12": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-15": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-combined-4": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-13-effect-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-locations-17": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-3-deficits-7": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-deficits-3"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-results-12": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-models-15": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-large-19": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-compared-9": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-calculated-2": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-international-20": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-used-16": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-18-wind-21-farms-22-site-23-assessment-24-consultants-25": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-42-farms-43": [],
+    "NE-COUNTRY-Brazil": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-models-6": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effects-9": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-3-12-analyzed-13-locations-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-two-2-limitations-4": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-restriction-11": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-main-3": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-14-effect-15-measurement-16": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-lie-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-metmasts-19-locations-20": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-5-models-6-developments-7": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-farms-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-17-effects-18": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-22": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-24"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-21": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-23"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-12": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-directed-10": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-frequently-9": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-capacity-13": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-installed-12": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-global-11": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-2-farms-3": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-studied-6": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-Onshore-1": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-less-5": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-19-effects-20": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-17-effects-18"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-concentration-4": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-continuous-3": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-operating-6-wind-7-farms-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10-of-11-higher-12-wind-13-resource-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-24": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-role-22"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-sector-27": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-23": [
+      "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-significant-21"
+    ],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-7-farms-8": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-regions-10": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-13-resource-14": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-energy-12-losses-13": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-it-24": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-effect-17": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-19-wind-20-farms-21": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wake-6-models-7": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-20-farms-21": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-wind-32-farms-33": [],
+    "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-complex-35-terrain-36": []
+  }
+}

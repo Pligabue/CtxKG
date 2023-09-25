@@ -1,0 +1,537 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085775753.txt",
+  "entities": {
+    "NE-ORGANIZATION-Environmental-Authority": "Environmental Authority",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9": "rules",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-drill-12-cuttings-13": "drill cuttings",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-ORGANIZATION-EPA": "EPA",
+    "NE-ORGANIZATION-O&amp;G": "O&amp;G",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-operations-16": "operations",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-discharging-11": "discharging",
+    "NE-ORGANIZATION-IBAMA": "IBAMA",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-procedures-4": "procedures",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-toxicity-7": "toxicity",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-method-2": "method",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8": "laboratories",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exotic-4": "exotic",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-species-5": "species",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4": "Grandidierella bonnieroides",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10": "estuaries",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-distributed-7": "distributed",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-widely-6": "widely",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Otherwise-1": "Otherwise",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10": "effects",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sediment-31": "sediment",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-natural-30": "natural",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-study-3": "study",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-non-aqueous-13": "non-aqueous",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-three-12-drilling-14-fluids-15": "three drilling fluids",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Reference-1-toxicant-2-experiments-3": "Reference toxicant experiments",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-performed-6": "performed",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-also-5": "also",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1": "Sediment",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-bins-16": "bins",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-RJ-8": "RJ",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-chilly-15": "chilly",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-beach-6": "beach",
+    "NE-LOCATION-Jabaquara": "Jabaquara",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-collected-3": "collected",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratory-13": "laboratory",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sieving-2": "sieving",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-kept-6": "kept",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-spiking-13": "spiking",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1": "Amphipods",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3": "exposed",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-static-24-system-25": "static system",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6": "5 concentrations",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-8": "SBM",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-respectively-21": "respectively",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9": "tests LC50",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-G.-5": "G.",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-average-8": "average",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-obtained-10": "obtained",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88": "1.66 g.kg 1dw",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83": "LC50",
+    "NE-MISC-NAF": "NAF",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53": "L. plumulosus",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-12": "tests",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20": "139.78 mL.kg 1dw",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-77": "LC50",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-6-1-7": "SBM 1",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-olefin-2-tests-3": "olefin tests",
+    "NE-PERSON-G.-bonnieroides": "G. bonnieroides",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9": "sensitive",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-less-8": "less",
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-to-6": "to",
+    "NE-ORGANIZATION-NAF": "NAF"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Environmental-Authority",
+      "relation": "adopted",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9",
+      "relation": "of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-drill-12-cuttings-13"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Environmental-Authority",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-EPA"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-O&amp;G"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9",
+      "relation": "of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-operations-16"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-discharging-11"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Environmental-Authority",
+      "relation": "is",
+      "object_id": "NE-ORGANIZATION-IBAMA"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-procedures-4",
+      "relation": "evaluate",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-toxicity-7"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-method-2",
+      "relation": "describes",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-procedures-4"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-method-2",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-EPA"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "keep L. plumulosus cultures",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exotic-4"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exotic-4",
+      "relation": "mark",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-species-5"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "keep",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "keep L. plumulosus cultures",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-species-5"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "being",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exotic-4"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8",
+      "relation": "being",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-species-5"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4",
+      "relation": "Otherwise is distributed in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-distributed-7"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-distributed-7",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-widely-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4",
+      "relation": "is distributed in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4",
+      "relation": "is widely distributed in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-distributed-7",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Otherwise-1"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4",
+      "relation": "Otherwise is widely distributed in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10",
+      "relation": "spiked to",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sediment-31"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sediment-31",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-natural-30"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sediment-31",
+      "relation": "of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-study-3",
+      "relation": "evaluate",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-non-aqueous-13"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10",
+      "relation": "of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-three-12-drilling-14-fluids-15"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Reference-1-toxicant-2-experiments-3",
+      "relation": "were",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-performed-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-performed-6",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-also-5"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "transferred in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-bins-16"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was collected in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-RJ-8"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-bins-16",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-chilly-15"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was collected in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-beach-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-beach-6",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Jabaquara"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-collected-3"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "transferred to",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratory-13"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was kept After",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sieving-2"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-kept-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1",
+      "relation": "was kept until",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-spiking-13"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-kept-6",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sieving-2"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-kept-6",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-spiking-13"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1",
+      "relation": "were",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-static-24-system-25"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1",
+      "relation": "were exposed in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-static-24-system-25"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1",
+      "relation": "were exposed respectively to",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6",
+      "relation": "of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-8"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1",
+      "relation": "were exposed respectively in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-static-24-system-25"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-respectively-21"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1",
+      "relation": "were exposed to",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9",
+      "relation": "using",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-G.-5"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-average-8"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-obtained-10"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "average LC50 of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "LC50 of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-average-8"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9",
+      "relation": "of",
+      "object_id": "NE-MISC-NAF"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88",
+      "relation": "is",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed LC50 respectively",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-12",
+      "relation": "was",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed LC50",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-77"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20",
+      "relation": "amount to",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-6-1-7"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed LC50 respectively",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-77"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83",
+      "relation": "was",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20",
+      "relation": "is in",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-6-1-7"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83",
+      "relation": "LC50 of",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53",
+      "relation": "showed LC50",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-olefin-2-tests-3",
+      "relation": "using",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53"
+    },
+    {
+      "subject_id": "NE-PERSON-G.-bonnieroides",
+      "relation": "has shown",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-less-8"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9",
+      "relation": "at",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9",
+      "relation": "mark",
+      "object_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-to-6"
+    },
+    {
+      "subject_id": "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-NAF"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Environmental-Authority": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-rules-9": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-drill-12-cuttings-13": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-ORGANIZATION-EPA": [],
+    "NE-ORGANIZATION-O&amp;G": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-operations-16": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-discharging-11": [],
+    "NE-ORGANIZATION-IBAMA": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-procedures-4": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-toxicity-7": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-method-2": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratories-8": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exotic-4": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-species-5": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Grandidierella-3-bonnieroides-4": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-estuaries-10": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-distributed-7": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-widely-6": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Otherwise-1": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-effects-10": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sediment-31": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-natural-30": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-study-3": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-non-aqueous-13": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-three-12-drilling-14-fluids-15": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Reference-1-toxicant-2-experiments-3": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-performed-6": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-also-5": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Sediment-1": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-bins-16": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-RJ-8": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-chilly-15": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-beach-6": [],
+    "NE-LOCATION-Jabaquara": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-collected-3": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-laboratory-13": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sieving-2": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-kept-6": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-spiking-13": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-Amphipods-1": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-exposed-3": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-static-24-system-25": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-5-5-concentrations-6": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-8": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-respectively-21": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-3-LC50-9": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-G.-5": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-average-8": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-obtained-10": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-1.66-85-g.kg-86-1dw-88": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-83": [],
+    "NE-MISC-NAF": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-L.-52-plumulosus-53": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-tests-12": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-139.78-17-mL.kg-18-1dw-20": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-LC50-77": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-SBM-6-1-7": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-olefin-2-tests-3": [],
+    "NE-PERSON-G.-bonnieroides": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-sensitive-9": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-less-8": [],
+    "72eacda2-592b-43b1-a3c6-ae79db1d0a06-to-6": [],
+    "NE-ORGANIZATION-NAF": []
+  }
+}

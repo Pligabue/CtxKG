@@ -1,0 +1,248 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33745228406.txt",
+  "entities": {
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11": "simulations",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-15-behavior-16": "creep behavior",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-numerical-10": "numerical",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-salt-18-rocks-19": "salt rocks",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40": "finite element codes",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-Santos-3-basin-4": "Santos basin",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-developed-41": "developed",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-differential-30-stress-31": "differential stress",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-house-44": "house",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-29": "high",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21": "scientists",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28": "drilling strategy",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2": "results",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-evolution-8": "evolution",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-well-11": "well",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-alternatives-24": "alternatives",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-closure-12": "closure",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-23": "several",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-time-14": "time",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-17-fluids-18": "drilling fluids",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-used-4": "used",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-various-16": "various",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2-design-3": "casing design",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-failure-8-scenarios-9": "failure scenarios",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-7": "several",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-23-fluid-24": "drilling fluid",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-annulus-27": "annulus",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-accomplished-5": "accomplished",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2": "casing",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-9-rates-10": "creep rates",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-carnallite-12": "carnallite",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-designed-4": "designed",
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-8": "high"
+  },
+  "graph": [
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11",
+      "relation": "evaluate",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-15-behavior-16"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-numerical-10"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-15-behavior-16",
+      "relation": "of",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-salt-18-rocks-19"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "ran",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11",
+      "relation": "using",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "ran simulations In",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-Santos-3-basin-4"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-Santos-3-basin-4",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-developed-41"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11",
+      "relation": "evaluate creep behavior at",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-differential-30-stress-31"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "using",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40",
+      "relation": "at",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-house-44"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-differential-30-stress-31",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-29"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21",
+      "relation": "several alternatives for",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2",
+      "relation": "predict",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-evolution-8"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-evolution-8",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-well-11"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21",
+      "relation": "analyzed",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-alternatives-24"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-evolution-8",
+      "relation": "of",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-closure-12"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21",
+      "relation": "analyzed",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-alternatives-24"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-alternatives-24",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-23"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2",
+      "relation": "predict evolution over",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-time-14"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2",
+      "relation": "predict evolution for",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-17-fluids-18"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21",
+      "relation": "alternatives for",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2",
+      "relation": "were",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-used-4"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-17-fluids-18",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-various-16"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2-design-3",
+      "relation": "was accomplished with",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-failure-8-scenarios-9"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-failure-8-scenarios-9",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-7"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-23-fluid-24",
+      "relation": "is in",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-annulus-27"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2-design-3",
+      "relation": "was",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-accomplished-5"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2",
+      "relation": "support",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-9-rates-10"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-9-rates-10",
+      "relation": "of",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-carnallite-12"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2",
+      "relation": "was",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-designed-4"
+    },
+    {
+      "subject_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-9-rates-10",
+      "relation": "is",
+      "object_id": "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-8"
+    }
+  ],
+  "links": {
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-simulations-11": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-15-behavior-16": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-numerical-10": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-salt-18-rocks-19": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-finite-37-element-39-codes-40": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-Santos-3-basin-4": [],
+    "NE-COUNTRY-Brazil": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-developed-41": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-differential-30-stress-31": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-house-44": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-29": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-scientists-21": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-27-strategy-28": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-results-2": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-evolution-8": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-well-11": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-alternatives-24": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-closure-12": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-23": [
+      "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-7"
+    ],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-time-14": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-17-fluids-18": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-used-4": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-various-16": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2-design-3": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-failure-8-scenarios-9": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-7": [
+      "d3db82f4-2fdf-42aa-a482-edab5edcb94e-several-23"
+    ],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-drilling-23-fluid-24": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-annulus-27": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-accomplished-5": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-casing-2": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-creep-9-rates-10": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-carnallite-12": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-designed-4": [],
+    "d3db82f4-2fdf-42aa-a482-edab5edcb94e-high-8": []
+  }
+}

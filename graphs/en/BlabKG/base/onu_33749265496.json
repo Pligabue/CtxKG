@@ -1,0 +1,213 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33749265496.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "0f252e1f-8e80-468b-9631-d74e26200948-start-14": "start",
+    "0f252e1f-8e80-468b-9631-d74e26200948-lack-31": "lack",
+    "0f252e1f-8e80-468b-9631-d74e26200948-basin-28": "basin",
+    "0f252e1f-8e80-468b-9631-d74e26200948-end-6": "end",
+    "0f252e1f-8e80-468b-9631-d74e26200948-half-10": "half",
+    "0f252e1f-8e80-468b-9631-d74e26200948-2006-12": "2006",
+    "0f252e1f-8e80-468b-9631-d74e26200948-offshore-19-Peroa-20-Cangoa-22-gasfields-23": "offshore Peroa Cangoa gasfields",
+    "0f252e1f-8e80-468b-9631-d74e26200948-first-9": "first",
+    "0f252e1f-8e80-468b-9631-d74e26200948-production-16": "production",
+    "0f252e1f-8e80-468b-9631-d74e26200948-Peroa-20-Cangoa-22-gasfields-23": "Peroa Cangoa gasfields",
+    "NE-LOCATION-Espirito-Santo": "Espirito Santo",
+    "0f252e1f-8e80-468b-9631-d74e26200948-platform-8": "platform",
+    "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17": "50 km subsea pipeline",
+    "0f252e1f-8e80-468b-9631-d74e26200948-fixed-6": "fixed",
+    "0f252e1f-8e80-468b-9631-d74e26200948-development-2-project-3": "development project",
+    "NE-LOCATION-Peroa": "Peroa",
+    "0f252e1f-8e80-468b-9631-d74e26200948-unmanned-7": "unmanned",
+    "0f252e1f-8e80-468b-9631-d74e26200948-town-30": "town",
+    "0f252e1f-8e80-468b-9631-d74e26200948-gas-23-processing-25-plant-26": "gas processing plant",
+    "0f252e1f-8e80-468b-9631-d74e26200948-onshore-27": "onshore",
+    "0f252e1f-8e80-468b-9631-d74e26200948-platform-20": "platform",
+    "0f252e1f-8e80-468b-9631-d74e26200948-state-36": "state",
+    "NE-LOCATION-Cacimbas": "Cacimbas",
+    "0f252e1f-8e80-468b-9631-d74e26200948-pipeline-2": "pipeline",
+    "0f252e1f-8e80-468b-9631-d74e26200948-delay-5": "delay",
+    "0f252e1f-8e80-468b-9631-d74e26200948-128-8-km-10-Vitoria-11-Cacimbas-13-gas-14-pipeline-15": "128 km Vitoria Cacimbas gas pipeline",
+    "NE-LOCATION-Gasene": "Gasene",
+    "0f252e1f-8e80-468b-9631-d74e26200948-rich-26-SE-27-region-28": "rich SE region",
+    "NE-STATE_OR_PROVINCE-NE": "NE"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has postponed",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-start-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has postponed start because",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-lack-31"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-start-14",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-basin-28"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has postponed start until",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-end-6"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-end-6",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-half-10"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-end-6",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-2006-12"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-start-14",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-offshore-19-Peroa-20-Cangoa-22-gasfields-23"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-end-6",
+      "relation": "is",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-first-9"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-start-14",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-production-16"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-start-14",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-Peroa-20-Cangoa-22-gasfields-23"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-offshore-19-Peroa-20-Cangoa-22-gasfields-23",
+      "relation": "is in",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-basin-28"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-basin-28",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Espirito-Santo"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-8",
+      "relation": "project",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-8",
+      "relation": "is",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-fixed-6"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-development-2-project-3",
+      "relation": "includes",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-8"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Peroa"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-8",
+      "relation": "is",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-unmanned-7"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17",
+      "relation": "at",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-town-30"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-gas-23-processing-25-plant-26"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17",
+      "relation": "at",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-onshore-27"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17",
+      "relation": "of",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-platform-20"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-town-30",
+      "relation": "is in",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-state-36"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-state-36",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Espirito-Santo"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Cacimbas"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-pipeline-2",
+      "relation": "causing",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-delay-5"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-pipeline-2",
+      "relation": "is",
+      "object_id": "0f252e1f-8e80-468b-9631-d74e26200948-128-8-km-10-Vitoria-11-Cacimbas-13-gas-14-pipeline-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is gas pipeline project of",
+      "object_id": "NE-LOCATION-Gasene"
+    },
+    {
+      "subject_id": "0f252e1f-8e80-468b-9631-d74e26200948-rich-26-SE-27-region-28",
+      "relation": "is with",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-start-14": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-lack-31": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-basin-28": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-end-6": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-half-10": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-2006-12": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-offshore-19-Peroa-20-Cangoa-22-gasfields-23": [
+      "0f252e1f-8e80-468b-9631-d74e26200948-Peroa-20-Cangoa-22-gasfields-23"
+    ],
+    "0f252e1f-8e80-468b-9631-d74e26200948-first-9": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-production-16": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-Peroa-20-Cangoa-22-gasfields-23": [
+      "0f252e1f-8e80-468b-9631-d74e26200948-offshore-19-Peroa-20-Cangoa-22-gasfields-23"
+    ],
+    "NE-LOCATION-Espirito-Santo": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-platform-8": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-50-13-km-15-subsea-16-pipeline-17": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-fixed-6": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-development-2-project-3": [],
+    "NE-LOCATION-Peroa": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-unmanned-7": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-town-30": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-gas-23-processing-25-plant-26": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-onshore-27": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-platform-20": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-state-36": [],
+    "NE-LOCATION-Cacimbas": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-pipeline-2": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-delay-5": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-128-8-km-10-Vitoria-11-Cacimbas-13-gas-14-pipeline-15": [],
+    "NE-LOCATION-Gasene": [],
+    "0f252e1f-8e80-468b-9631-d74e26200948-rich-26-SE-27-region-28": [],
+    "NE-STATE_OR_PROVINCE-NE": []
+  }
+}

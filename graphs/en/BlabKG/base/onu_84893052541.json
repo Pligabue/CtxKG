@@ -1,0 +1,608 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84893052541.txt",
+  "entities": {
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-2": "development",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fluids-23": "fluids",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-25-values-26-of-27-GOR-28": "high values of GOR",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7": "it",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-insulation-15": "insulation",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-temperature-13": "temperature",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-wax-4-deposition-5": "wax deposition",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-imperative-10": "imperative",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-absolutely-9": "absolutely",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9": "production system insulation",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-one-3-hand-4": "one hand",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-12-losses-13": "heat losses",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-thermal-8": "thermal",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-cooling-23": "cooling",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-inevitable-32": "inevitable",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-environment-16": "environment",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-hand-21": "hand",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-other-20": "other",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fields-36": "fields",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-38-GOR-39-values-40": "high GOR values",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-21-systems-22": "heating systems",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28": "have studied",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-various-20": "various",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-expansion-15-effects-16": "expansion effects",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-pronounced-18": "pronounced",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-where-13": "where",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-noted-9": "noted",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-12-philosophy-13": "design philosophy",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-28-generators-30": "turbo generators",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-parallel-2": "parallel",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-use-26": "use",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-34": "power",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33": "electrical",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-studies-5": "studies",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-37-unit-38": "production unit",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1": "Studies",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9": "potential",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-3-exchange-4": "heat exchange",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-great-8": "great",
+    "NE-ORGANIZATION-Waste-Heat-Recovery-Unit": "Waste Heat Recovery Unit",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-16": "flow",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-13": "heating",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-19": "water",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-18": "heated",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-WHRU-35": "WHRU",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-risers-12": "risers",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-25": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-30": "riser",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-45": "power",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-52-generators-54": "turbo generators",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-22": "annular",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-atmosphere-49": "atmosphere",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-possibility-5": "possibility",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-40-injection-41-system-42": "water injection system",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33-power-34": "electrical power",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18": "water",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fresh-17": "fresh",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-closed-21-loop-22": "closed loop",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-24-return-25-to-26-production-28-unit-29": "water return to production unit",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-16": "heated",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-8": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-12": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-circulating-15": "circulating",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-35-heating-36-system-37": "riser heating system",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2": "paper",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7": "methodology",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31": "flow",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-34": "water",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-conceptual-14": "conceptual",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Free-41-Standing-42-Hybrid-43-Riser-44-configuration-45": "Free Standing Hybrid Riser configuration",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-considered-8": "considered",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-15": "design",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-22": "Pipe",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-27": "riser",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-37": "annular",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-11": "development",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-18-system-19": "heating system",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-33": "heated",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7": "characteristics",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-associated-8": "associated",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-14": "heated",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-two-11-possibilities-12": "two possibilities",
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-15-circuit-16": "water circuit"
+  },
+  "graph": [
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-2",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fluids-23",
+      "relation": "is with",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-25-values-26-of-27-GOR-28"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "handling temperature by",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-insulation-15"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "handling",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-temperature-13"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "avoid",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-wax-4-deposition-5"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-imperative-10"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-imperative-10",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-absolutely-9"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9",
+      "relation": "minimizes heat losses in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-one-3-hand-4"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9",
+      "relation": "minimizes",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-12-losses-13"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-thermal-8"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-cooling-23",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-inevitable-32"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9",
+      "relation": "minimizes heat losses to",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-environment-16"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-cooling-23",
+      "relation": "is inevitable on",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-hand-21"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-hand-21",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-other-20"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fields-36",
+      "relation": "is with",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-38-GOR-39-values-40"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-21-systems-22",
+      "relation": "have",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-PETROBRAS"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-21-systems-22",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-various-20"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-expansion-15-effects-16",
+      "relation": "are",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-pronounced-18"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-pronounced-18",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-where-13"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "was",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-noted-9"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-12-philosophy-13",
+      "relation": "indicated",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-28-generators-30"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7",
+      "relation": "was noted In",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-parallel-2"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-12-philosophy-13",
+      "relation": "use of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-28-generators-30"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-use-26",
+      "relation": "supply",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-34"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-34",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-12-philosophy-13",
+      "relation": "indicated",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-use-26"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-parallel-2",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-studies-5"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-use-26",
+      "relation": "supply power to",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-37-unit-38"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1",
+      "relation": "performed indicated",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "Studies of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-3-exchange-4"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-great-8"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1",
+      "relation": "using",
+      "object_id": "NE-ORGANIZATION-Waste-Heat-Recovery-Unit"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-16"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-13"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-19"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-18"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1",
+      "relation": "using",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-WHRU-35"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-risers-12"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-25"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-30"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-25",
+      "relation": "is in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-45",
+      "relation": "discharged from",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-52-generators-54"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-22"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-45",
+      "relation": "discharged into",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-atmosphere-49"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-possibility-5",
+      "relation": "coupling riser heating system with",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-40-injection-41-system-42"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33-power-34",
+      "relation": "was identified possibility by",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fresh-17"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-closed-21-loop-22",
+      "relation": "is with",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-24-return-25-to-26-production-28-unit-29"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-16"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-8",
+      "relation": "is in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-12"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-circulating-15"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-possibility-5",
+      "relation": "coupling",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-35-heating-36-system-37"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+      "relation": "describe",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+      "relation": "describe methodology by",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-34"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-conceptual-14"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31",
+      "relation": "is in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Free-41-Standing-42-Hybrid-43-Riser-44-configuration-45"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-considered-8"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-15"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-22"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-27"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31",
+      "relation": "is in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-37"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-22",
+      "relation": "is in",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-37"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-11"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-18-system-19"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+      "relation": "describe methodology by",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-34"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Free-41-Standing-42-Hybrid-43-Riser-44-configuration-45"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-34",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-33"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+      "relation": "will present",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-associated-8"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2",
+      "relation": "will also present",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7",
+      "relation": "is",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-14"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7",
+      "relation": "at",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-two-11-possibilities-12"
+    },
+    {
+      "subject_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7",
+      "relation": "of",
+      "object_id": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-15-circuit-16"
+    }
+  ],
+  "links": {
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-2": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fluids-23": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-25-values-26-of-27-GOR-28": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-it-7": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-insulation-15": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-temperature-13": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-wax-4-deposition-5": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-imperative-10": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-absolutely-9": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-6-system-7-insulation-9": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-one-3-hand-4": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-12-losses-13": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-thermal-8": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-cooling-23": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-inevitable-32": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-environment-16": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-hand-21": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-other-20": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fields-36": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-high-38-GOR-39-values-40": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-21-systems-22": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-have-26-studied-28": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-various-20": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-expansion-15-effects-16": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-pronounced-18": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-where-13": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-noted-9": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-12-philosophy-13": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-28-generators-30": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-parallel-2": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-use-26": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-34": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-studies-5": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-production-37-unit-38": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Studies-1": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-potential-9": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heat-3-exchange-4": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-great-8": [],
+    "NE-ORGANIZATION-Waste-Heat-Recovery-Unit": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-16": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-13": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-19": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-18": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-12",
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-WHRU-35": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-risers-12": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-30"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-25": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-22"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-30": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-risers-12",
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-27"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-power-45": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-turbo-52-generators-54": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-22": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-37"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-atmosphere-49": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-possibility-5": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-40-injection-41-system-42": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-electrical-33-power-34": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-18": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-fresh-17": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-closed-21-loop-22": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-24-return-25-to-26-production-28-unit-29": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-16": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-33"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-8": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-12": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29",
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-circulating-15": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-35-heating-36-system-37": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-paper-2": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-methodology-7": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-26": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-29",
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-12"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-flow-31": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-34": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-conceptual-14": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Free-41-Standing-42-Hybrid-43-Riser-44-configuration-45": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-considered-8": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-design-15": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-22": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-Pipe-25"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-27": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-riser-30"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-37": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-annular-22"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-development-11": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heating-18-system-19": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-33": [
+      "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-16"
+    ],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-characteristics-7": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-associated-8": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-14": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-two-11-possibilities-12": [],
+    "f0e08ada-1ca4-4e31-bda9-3911eddc8016-water-15-circuit-16": []
+  }
+}

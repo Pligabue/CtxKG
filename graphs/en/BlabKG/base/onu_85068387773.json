@@ -1,0 +1,406 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85068387773.txt",
+  "entities": {
+    "a5cffccf-1536-473d-9270-6167576d70ec-drilling-4": "drilling",
+    "a5cffccf-1536-473d-9270-6167576d70ec-has-8-revealed-10": "has revealed",
+    "a5cffccf-1536-473d-9270-6167576d70ec-assisted-3": "assisted",
+    "a5cffccf-1536-473d-9270-6167576d70ec-efficient-13-solution-16": "efficient solution",
+    "a5cffccf-1536-473d-9270-6167576d70ec-solution-16": "solution",
+    "a5cffccf-1536-473d-9270-6167576d70ec-deep-18-water-19-installations-20-to-21-support-22": "deep water installations to support",
+    "a5cffccf-1536-473d-9270-6167576d70ec-concept-3": "concept",
+    "a5cffccf-1536-473d-9270-6167576d70ec-new-5": "new",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "a5cffccf-1536-473d-9270-6167576d70ec-offshore-7": "offshore",
+    "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19": "analysis",
+    "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5": "scenario",
+    "a5cffccf-1536-473d-9270-6167576d70ec-hydrodynamic-18": "hydrodynamic",
+    "a5cffccf-1536-473d-9270-6167576d70ec-proximity-12": "proximity",
+    "a5cffccf-1536-473d-9270-6167576d70ec-extensive-15": "extensive",
+    "a5cffccf-1536-473d-9270-6167576d70ec-complex-4": "complex",
+    "a5cffccf-1536-473d-9270-6167576d70ec-moored-9": "moored",
+    "NE-CAUSE_OF_DEATH-execution": "execution",
+    "a5cffccf-1536-473d-9270-6167576d70ec-successful-25": "successful",
+    "a5cffccf-1536-473d-9270-6167576d70ec-close-11": "close",
+    "a5cffccf-1536-473d-9270-6167576d70ec-required-21": "required",
+    "a5cffccf-1536-473d-9270-6167576d70ec-two-7-floaters-8": "two floaters",
+    "a5cffccf-1536-473d-9270-6167576d70ec-work-2": "work",
+    "a5cffccf-1536-473d-9270-6167576d70ec-study-6": "study",
+    "a5cffccf-1536-473d-9270-6167576d70ec-order-25-loads-26": "order loads",
+    "a5cffccf-1536-473d-9270-6167576d70ec-wave-9-motions-10": "wave motions",
+    "a5cffccf-1536-473d-9270-6167576d70ec-aim-20": "aim",
+    "a5cffccf-1536-473d-9270-6167576d70ec-aim-20-of-21-investigating-22-order-25-loads-26": "aim of investigating order loads",
+    "a5cffccf-1536-473d-9270-6167576d70ec-responses-35": "responses",
+    "a5cffccf-1536-473d-9270-6167576d70ec-frequency-37": "frequency",
+    "a5cffccf-1536-473d-9270-6167576d70ec-TLP-13-TAD-15-system-17": "TLP TAD system",
+    "a5cffccf-1536-473d-9270-6167576d70ec-multibody-16": "multibody",
+    "a5cffccf-1536-473d-9270-6167576d70ec-coupled-8": "coupled",
+    "a5cffccf-1536-473d-9270-6167576d70ec-numerical-5": "numerical",
+    "a5cffccf-1536-473d-9270-6167576d70ec-mooring-15-systems-16": "mooring systems",
+    "a5cffccf-1536-473d-9270-6167576d70ec-modeled-25": "modeled",
+    "a5cffccf-1536-473d-9270-6167576d70ec-stiffness-27-matrixes-28": "stiffness matrixes",
+    "a5cffccf-1536-473d-9270-6167576d70ec-coefficients-2": "coefficients",
+    "a5cffccf-1536-473d-9270-6167576d70ec-3D-7-diffraction-8": "3D diffraction",
+    "a5cffccf-1536-473d-9270-6167576d70ec-Hydrodynamic-1": "Hydrodynamic",
+    "a5cffccf-1536-473d-9270-6167576d70ec-positions-8": "positions",
+    "a5cffccf-1536-473d-9270-6167576d70ec-considered-13": "considered",
+    "a5cffccf-1536-473d-9270-6167576d70ec-several-6": "several",
+    "a5cffccf-1536-473d-9270-6167576d70ec-frequency-2-domain-3-analysis-4": "frequency domain analysis",
+    "a5cffccf-1536-473d-9270-6167576d70ec-relative-7": "relative",
+    "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14": "element method",
+    "a5cffccf-1536-473d-9270-6167576d70ec-systems-23": "systems",
+    "a5cffccf-1536-473d-9270-6167576d70ec-hand-4": "hand",
+    "a5cffccf-1536-473d-9270-6167576d70ec-other-3": "other",
+    "a5cffccf-1536-473d-9270-6167576d70ec-time-7-domain-8-studies-9": "time domain studies",
+    "a5cffccf-1536-473d-9270-6167576d70ec-finite-12": "finite",
+    "a5cffccf-1536-473d-9270-6167576d70ec-floaters-29": "floaters",
+    "a5cffccf-1536-473d-9270-6167576d70ec-used-19": "used",
+    "a5cffccf-1536-473d-9270-6167576d70ec-moored-22": "moored",
+    "NE-ORGANIZATION-FEM": "FEM",
+    "a5cffccf-1536-473d-9270-6167576d70ec-drag-6-forces-7": "drag forces",
+    "a5cffccf-1536-473d-9270-6167576d70ec-mass-10": "mass",
+    "a5cffccf-1536-473d-9270-6167576d70ec-inclusion-4": "inclusion",
+    "a5cffccf-1536-473d-9270-6167576d70ec-added-9": "added"
+  },
+  "graph": [
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-drilling-4",
+      "relation": "has",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-has-8-revealed-10"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-drilling-4",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-assisted-3"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-has-8-revealed-10",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-efficient-13-solution-16"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-has-8-revealed-10",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-solution-16"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-efficient-13-solution-16",
+      "relation": "is in",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-deep-18-water-19-installations-20-to-21-support-22"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-concept-3",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-new-5"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-new-5",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-concept-3",
+      "relation": "is new in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-offshore-7"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19",
+      "relation": "is required Due",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-hydrodynamic-18"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-proximity-12"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-extensive-15"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-complex-4"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-moored-9"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19",
+      "relation": "guarantee",
+      "object_id": "NE-CAUSE_OF_DEATH-execution"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-execution",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-successful-25"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-close-11"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-required-21"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-two-7-floaters-8"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-work-2",
+      "relation": "presents",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-order-25-loads-26"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-wave-9-motions-10"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-aim-20"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-aim-20-of-21-investigating-22-order-25-loads-26"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-responses-35",
+      "relation": "using",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-frequency-37"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-TLP-13-TAD-15-system-17"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-multibody-16"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-coupled-8"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-numerical-5"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-study-6",
+      "relation": "is with",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-aim-20-of-21-investigating-22-order-25-loads-26"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-mooring-15-systems-16",
+      "relation": "were",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-modeled-25"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-modeled-25",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-stiffness-27-matrixes-28"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-coefficients-2",
+      "relation": "were calculated by",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-3D-7-diffraction-8"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-coefficients-2",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-Hydrodynamic-1"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-positions-8",
+      "relation": "were",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-considered-13"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-positions-8",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-several-6"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-positions-8",
+      "relation": "were considered In",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-frequency-2-domain-3-analysis-4"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-positions-8",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-relative-7"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14",
+      "relation": "represent",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-systems-23"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14",
+      "relation": "was used On",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-hand-4"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-hand-4",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-other-3"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14",
+      "relation": "was used in",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-time-7-domain-8-studies-9"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-finite-12"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-systems-23",
+      "relation": "of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-floaters-29"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14",
+      "relation": "was",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-used-19"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-used-19",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-time-7-domain-8-studies-9"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-used-19",
+      "relation": "at",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-hand-4"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-systems-23",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-moored-22"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-used-19",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-hand-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FEM",
+      "relation": "allows",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-drag-6-forces-7"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-mass-10",
+      "relation": "inclusion of",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-drag-6-forces-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FEM",
+      "relation": "allows",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-inclusion-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FEM",
+      "relation": "allows",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-mass-10"
+    },
+    {
+      "subject_id": "a5cffccf-1536-473d-9270-6167576d70ec-mass-10",
+      "relation": "is",
+      "object_id": "a5cffccf-1536-473d-9270-6167576d70ec-added-9"
+    }
+  ],
+  "links": {
+    "a5cffccf-1536-473d-9270-6167576d70ec-drilling-4": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-has-8-revealed-10": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-assisted-3": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-efficient-13-solution-16": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-solution-16": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-deep-18-water-19-installations-20-to-21-support-22": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-concept-3": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-new-5": [],
+    "NE-COUNTRY-Brazil": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-offshore-7": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-analysis-19": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-scenario-5": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-hydrodynamic-18": [
+      "a5cffccf-1536-473d-9270-6167576d70ec-Hydrodynamic-1"
+    ],
+    "a5cffccf-1536-473d-9270-6167576d70ec-proximity-12": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-extensive-15": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-complex-4": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-moored-9": [],
+    "NE-CAUSE_OF_DEATH-execution": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-successful-25": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-close-11": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-required-21": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-two-7-floaters-8": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-work-2": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-study-6": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-order-25-loads-26": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-wave-9-motions-10": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-aim-20": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-aim-20-of-21-investigating-22-order-25-loads-26": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-responses-35": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-frequency-37": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-TLP-13-TAD-15-system-17": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-multibody-16": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-coupled-8": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-numerical-5": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-mooring-15-systems-16": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-modeled-25": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-stiffness-27-matrixes-28": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-coefficients-2": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-3D-7-diffraction-8": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-Hydrodynamic-1": [
+      "a5cffccf-1536-473d-9270-6167576d70ec-hydrodynamic-18"
+    ],
+    "a5cffccf-1536-473d-9270-6167576d70ec-positions-8": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-considered-13": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-several-6": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-frequency-2-domain-3-analysis-4": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-relative-7": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-element-13-method-14": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-systems-23": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-hand-4": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-other-3": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-time-7-domain-8-studies-9": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-finite-12": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-floaters-29": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-used-19": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-moored-22": [],
+    "NE-ORGANIZATION-FEM": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-drag-6-forces-7": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-mass-10": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-inclusion-4": [],
+    "a5cffccf-1536-473d-9270-6167576d70ec-added-9": []
+  }
+}

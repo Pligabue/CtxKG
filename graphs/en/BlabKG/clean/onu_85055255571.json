@@ -1,0 +1,305 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85055255571.txt",
+  "entities": {
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5": "search",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14": "drilling",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-oil-2-industry-3": "oil industry",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-deeper-17": "deeper",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5-for-6-new-7-hydrocarbon-8-accumulations-9": "search for new hydrocarbon accumulations",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-harsh-22": "harsh",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-conditions-23": "conditions",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-ever-16": "ever",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-18": "wells",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-normally-20": "normally",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-order-2": "order",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drill-5-stem-7-tests-8": "drill stem tests",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-constraints-15": "constraints",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-must-16-overcome-18": "must overcome",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-13": "wells",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-5,500-25-m-26": "5,500 m",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-areas-8": "areas",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11": "have discovered",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-important-7": "important",
+    "NE-LOCATION-Field": "Field",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-last-3": "last",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-especially-13": "especially",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-five-4-years-5": "five years",
+    "NE-CITY-Tubarao": "Tubarao",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-14": "offshore",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-one-25-example-26": "one example",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-which-17": "which",
+    "NE-ORGANIZATION-PETROBRÁS": "PETROBRÁS",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-approach-26": "approach",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-new-25": "new",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6": "experiences",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-5": "testing",
+    "NE-LOCATION-North-Sea": "North Sea",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-use-66": "use",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-presence-69-of-70-hydrogen-71-sulphide-72": "presence of hydrogen sulphide",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-3": "well",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-company-16": "company",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experience-19": "experience",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-paper-2": "paper",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11": "testing design",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-proven-7": "proven",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-whose-13-concerns-15": "whose concerns",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-safety-18": "safety",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-main-14": "main",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-field-5": "field",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-8": "well",
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-17": "offshore"
+  },
+  "graph": [
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5",
+      "relation": "has led to",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5",
+      "relation": "of",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-oil-2-industry-3"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-deeper-17"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-oil-2-industry-3",
+      "relation": "has",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5-for-6-new-7-hydrocarbon-8-accumulations-9"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-harsh-22"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "of",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-conditions-23"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-ever-16"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "of",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-18"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-normally-20"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-order-2",
+      "relation": "perform safely",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drill-5-stem-7-tests-8"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-order-2",
+      "relation": "perform",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drill-5-stem-7-tests-8"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-constraints-15",
+      "relation": "must",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-must-16-overcome-18"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-13",
+      "relation": "reaching",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-5,500-25-m-26"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-areas-8",
+      "relation": "have",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-areas-8",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-important-7"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-last-3"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-especially-13"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+      "relation": "case",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-five-4-years-5"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is",
+      "object_id": "NE-CITY-Tubarao"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-14"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-one-25-example-26"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "of",
+      "object_id": "NE-CITY-Tubarao"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-one-25-example-26",
+      "relation": "case",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-which-17"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRÁS",
+      "relation": "has developed",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-approach-26"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-approach-26",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-new-25"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRÁS",
+      "relation": "has developed approach Based",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-5"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6",
+      "relation": "of",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-use-66",
+      "relation": "is in",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-presence-69-of-70-hydrogen-71-sulphide-72"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-3"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-company-16",
+      "relation": "has",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experience-19"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-paper-2",
+      "relation": "presents",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-proven-7"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-whose-13-concerns-15",
+      "relation": "are",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-safety-18"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-whose-13-concerns-15",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-main-14"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11",
+      "relation": "at",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-field-5"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-8"
+    },
+    {
+      "subject_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-safety-18",
+      "relation": "is",
+      "object_id": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-17"
+    }
+  ],
+  "links": {
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drilling-14": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-oil-2-industry-3": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-deeper-17": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-search-5-for-6-new-7-hydrocarbon-8-accumulations-9": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-harsh-22": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-conditions-23": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-ever-16": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-18": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-normally-20": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-order-2": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-drill-5-stem-7-tests-8": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-constraints-15": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-must-16-overcome-18": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-wells-13": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-5,500-25-m-26": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-areas-8": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-have-9-discovered-11": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-important-7": [],
+    "NE-LOCATION-Field": [],
+    "NE-COUNTRY-Brazil": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-last-3": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-especially-13": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-five-4-years-5": [],
+    "NE-CITY-Tubarao": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-14": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-one-25-example-26": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-which-17": [],
+    "NE-ORGANIZATION-PETROBRÁS": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-approach-26": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-new-25": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experiences-6": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-5": [],
+    "NE-LOCATION-North-Sea": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-use-66": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-presence-69-of-70-hydrogen-71-sulphide-72": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-3": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-company-16": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-experience-19": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-paper-2": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-testing-10-design-11": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-proven-7": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-whose-13-concerns-15": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-safety-18": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-main-14": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-field-5": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-well-8": [],
+    "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-offshore-17": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84888934569.txt",
+  "entities": {
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-2-developed-3": "equipment developed",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-presented-15": "presented",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-New-1": "New",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-Field-1-trials-2": "Field trials",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8": "are conducted",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-semi-submersible-11-vessel-12": "semi-submersible vessel",
+    "NE-LOCATION-Albacora-Field": "Albacora Field",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-vessel-12": "vessel",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-offshore-22": "offshore",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-test-2": "test",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5": "is conducted",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14": "pore pressure",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-depleted-9-formation-10": "depleted formation",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14-of-15-7-17-lb-18-gal-20": "pore pressure of 7 lb gal",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-formation-10": "formation",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-partially-8": "partially",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-nitrogen-2": "nitrogen",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-will-3-injected-5": "will injected",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-standpipe-8-manifold-9": "standpipe manifold",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-19": "equipment",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23": "drilling",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-essential-18": "essential",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-26": "fluids",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-25-fluids-26": "lightweight fluids",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-discussion-2": "discussion",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-background-4-information-5": "background information",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-22": "deepwater",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-7": "lightweight",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-8": "fluids",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-12-drilling-13": "deepwater drilling",
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-15-fluids-16": "lightweight fluids"
+  },
+  "graph": [
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-2-developed-3",
+      "relation": "were",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-presented-15"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-2-developed-3",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-New-1"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-Field-1-trials-2",
+      "relation": "are",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-semi-submersible-11-vessel-12",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Albacora-Field"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-vessel-12"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-offshore-22"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-semi-submersible-11-vessel-12"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Albacora-Field"
+    },
+    {
+      "subject_id": "NE-LOCATION-Albacora-Field",
+      "relation": "is of",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-LOCATION-Albacora-Field",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-test-2",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5",
+      "relation": "of",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-depleted-9-formation-10",
+      "relation": "is with",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14-of-15-7-17-lb-18-gal-20"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-formation-10"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-partially-8"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-depleted-9-formation-10"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-nitrogen-2",
+      "relation": "will",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-will-3-injected-5"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-will-3-injected-5",
+      "relation": "at",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-standpipe-8-manifold-9"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-19",
+      "relation": "required for",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-19",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-essential-18"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23",
+      "relation": "of",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-26"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23",
+      "relation": "of",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-25-fluids-26"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-discussion-2",
+      "relation": "covers",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-background-4-information-5"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-22"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-background-4-information-5",
+      "relation": "is",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-7"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-background-4-information-5",
+      "relation": "of",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-8"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23",
+      "relation": "is with",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-25-fluids-26"
+    },
+    {
+      "subject_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-12-drilling-13",
+      "relation": "is with",
+      "object_id": "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-15-fluids-16"
+    }
+  ],
+  "links": {
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-2-developed-3": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-presented-15": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-New-1": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-Field-1-trials-2": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-are-6-conducted-8": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-semi-submersible-11-vessel-12": [],
+    "NE-LOCATION-Albacora-Field": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-vessel-12": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-offshore-22": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "NE-COUNTRY-Brazil": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-test-2": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-is-3-conducted-5": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-depleted-9-formation-10": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-pore-13-pressure-14-of-15-7-17-lb-18-gal-20": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-formation-10": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-partially-8": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-nitrogen-2": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-will-3-injected-5": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-standpipe-8-manifold-9": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-equipment-19": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-drilling-23": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-essential-18": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-26": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-25-fluids-26": [
+      "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-15-fluids-16"
+    ],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-discussion-2": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-background-4-information-5": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-22": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-7": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-fluids-8": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-deepwater-12-drilling-13": [],
+    "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-15-fluids-16": [
+      "1cc8cc5f-b866-4794-9210-470f3608b03d-lightweight-25-fluids-26"
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85091725112.txt",
+  "entities": {
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Lacustrine-1-carbonate-2-deposits-3": "Lacustrine carbonate deposits",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10": "rift sag sedimentation stage",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30": "shelf",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-so-13": "so",
+    "NE-MISC-Southeast": "Southeast",
+    "NE-PERSON-Campos": "Campos",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Basins-23": "Basins",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-16": "pre-salt",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-called-15": "called",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-continental-29": "continental",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-section-17": "section",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-giant-12": "giant",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20": "responsible",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16": "oil fields",
+    "NE-PERCENT-70%": "70 %",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-prolific-14": "prolific",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-oil-28-production-31": "oil production",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-carbonate-5-reservoirs-6": "carbonate reservoirs",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-water-10": "water",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-sealed-4": "sealed",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-deep-8": "deep",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-approximately-22": "approximately",
+    "NE-DATE-currently": "currently",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-sag-7-stage-8-carbonates-9": "sag stage carbonates",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Aptian-14-Barra-15-Velha-16-Formation-17": "Aptian Barra Velha Formation",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-origin-27": "origin",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39": "have discussed",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-last-42": "last",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11": "represented",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-broadly-38": "broadly",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-decade-43": "decade",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-correlation-32": "correlation",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-petrophysical-34-properties-35": "petrophysical properties",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-study-5": "study",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-has-6-performed-8": "has performed",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-geological-2": "geological",
+    "NE-ORGANIZATION-Barra-Velha-Formation": "Barra Velha Formation",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-core-3-interval-4": "core interval",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10": "six facies",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-analyzed-2": "analyzed",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-grouped-6": "grouped",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-9": "depositional",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-key-17": "key",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-five-16-components-19": "five components",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-association-14": "association",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-textural-18": "textural",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-constituted-11": "constituted",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-data-22": "data",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-complex-26": "complex",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-relationship-2": "relationship",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-evidenced-13": "evidenced",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-control-3": "control",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18": "overprint",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-2": "depositional",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-erratic-7": "erratic",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-diagenetic-14": "diagenetic",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-extensive-13": "extensive",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-hydrothermal-17": "hydrothermal",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-mainly-9": "mainly",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-silicification-7": "silicification",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17": "porosity modifiers",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Dolomite-1-cementation-2": "Dolomite cementation",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pervasive-6": "pervasive",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-primary-15": "primary",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-main-14": "main",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-dolomitization-4": "dolomitization",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-dissolution-10-processes-11": "dissolution processes",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8": "grainstones",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-reservoir-21-properties-22": "reservoir properties",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-intraclastic-5": "intraclastic",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-best-20": "best",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-framestones-32": "framestones",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-shrubby-31": "shrubby",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-intervals-26": "intervals",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-study-2": "study",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-body-9": "body",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5": "contribute",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-data-30": "data",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-hydrocarbon-33-forecast-34": "hydrocarbon forecast",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-to-4": "to",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-new-29": "new",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-15": "pre-salt",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-lacustrine-16-carbonates-17": "lacustrine carbonates",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-emerging-8": "emerging",
+    "68839359-bf76-4868-9d75-bcfd19d0c220-research-11": "research"
+  },
+  "graph": [
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Lacustrine-1-carbonate-2-deposits-3",
+      "relation": "mark",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Lacustrine-1-carbonate-2-deposits-3",
+      "relation": "mark rift sag sedimentation stage in",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-so-13"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30",
+      "relation": "of",
+      "object_id": "NE-MISC-Southeast"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "of",
+      "object_id": "NE-PERSON-Campos"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Basins-23"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-16"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-called-15"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-continental-29"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-section-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-giant-12",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16",
+      "relation": "are responsible for",
+      "object_id": "NE-PERCENT-70%"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-prolific-14"
+    },
+    {
+      "subject_id": "NE-PERCENT-70%",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-28-production-31"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-giant-12",
+      "relation": "are responsible for",
+      "object_id": "NE-PERCENT-70%"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-carbonate-5-reservoirs-6",
+      "relation": "form",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-water-10"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-carbonate-5-reservoirs-6",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-sealed-4"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-water-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-deep-8"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-giant-12",
+      "relation": "are currently responsible for",
+      "object_id": "NE-PERCENT-70%"
+    },
+    {
+      "subject_id": "NE-PERCENT-70%",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16",
+      "relation": "are currently responsible for",
+      "object_id": "NE-PERCENT-70%"
+    },
+    {
+      "subject_id": "NE-PERCENT-70%",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-approximately-22"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20",
+      "relation": "at",
+      "object_id": "NE-DATE-currently"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20",
+      "relation": "at",
+      "object_id": "NE-PERCENT-70%"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-sag-7-stage-8-carbonates-9",
+      "relation": "are represented by",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Aptian-14-Barra-15-Velha-16-Formation-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-origin-27",
+      "relation": "have",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-last-42"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-sag-7-stage-8-carbonates-9",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11",
+      "relation": "by",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Aptian-14-Barra-15-Velha-16-Formation-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11",
+      "relation": "of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-broadly-38"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is In",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-decade-43"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-correlation-32",
+      "relation": "is with",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-petrophysical-34-properties-35"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is from",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-study-5",
+      "relation": "has",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-has-6-performed-8"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-study-5",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-geological-2"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Barra-Velha-Formation",
+      "relation": "is from",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-core-3-interval-4",
+      "relation": "was grouped into",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-core-3-interval-4",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-analyzed-2"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-core-3-interval-4",
+      "relation": "was",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grouped-6"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-9"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-key-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-five-16-components-19"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-association-14"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-textural-18"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-constituted-11"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-data-22",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-complex-26"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-relationship-2",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-complex-26"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-data-22",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-evidenced-13"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-control-3",
+      "relation": "is erratic due",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-control-3",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-2"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-control-3",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-erratic-7"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-diagenetic-14"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-extensive-13"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-hydrothermal-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-mainly-9"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-silicification-7",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-Dolomite-1-cementation-2",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-silicification-7",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-pervasive-6"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-primary-15"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-main-14"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-dolomitization-4",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-dissolution-10-processes-11",
+      "relation": "are",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8",
+      "relation": "present",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-reservoir-21-properties-22"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-intraclastic-5"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-reservoir-21-properties-22",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-best-20"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8",
+      "relation": "surpassing",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-framestones-32"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-framestones-32",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-shrubby-31"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8",
+      "relation": "even surpassing",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-framestones-32"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8",
+      "relation": "present reservoir properties in",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-intervals-26"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-study-2",
+      "relation": "seeks",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-study-2",
+      "relation": "seeks",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-study-2",
+      "relation": "contribute to",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "mark",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-data-30",
+      "relation": "improve",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-hydrocarbon-33-forecast-34"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5",
+      "relation": "mark",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-to-4"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-data-30",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-new-29"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-15"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "at",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-lacustrine-16-carbonates-17"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "is",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-emerging-8"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "68839359-bf76-4868-9d75-bcfd19d0c220-body-9",
+      "relation": "of",
+      "object_id": "68839359-bf76-4868-9d75-bcfd19d0c220-research-11"
+    }
+  ],
+  "links": {
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Lacustrine-1-carbonate-2-deposits-3": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-rift-6-sag-8-sedimentation-9-stage-10": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-shelf-30": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-so-13": [],
+    "NE-MISC-Southeast": [],
+    "NE-PERSON-Campos": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Basins-23": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-16": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-called-15": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-continental-29": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-section-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-giant-12": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-responsible-20": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-oil-15-fields-16": [],
+    "NE-PERCENT-70%": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-prolific-14": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-oil-28-production-31": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-carbonate-5-reservoirs-6": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-water-10": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-sealed-4": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-deep-8": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-approximately-22": [],
+    "NE-DATE-currently": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-sag-7-stage-8-carbonates-9": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Aptian-14-Barra-15-Velha-16-Formation-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-origin-27": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-have-36-discussed-39": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-last-42": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-represented-11": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-broadly-38": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-decade-43": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-correlation-32": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-petrophysical-34-properties-35": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-study-5": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-has-6-performed-8": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-geological-2": [],
+    "NE-ORGANIZATION-Barra-Velha-Formation": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-core-3-interval-4": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-six-8-facies-10": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-analyzed-2": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-grouped-6": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-9": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-key-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-five-16-components-19": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-association-14": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-textural-18": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-constituted-11": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-data-22": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-complex-26": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-relationship-2": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-evidenced-13": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-control-3": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-overprint-18": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-depositional-2": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-erratic-7": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-diagenetic-14": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-extensive-13": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-hydrothermal-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-mainly-9": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-silicification-7": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-porosity-16-modifiers-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-Dolomite-1-cementation-2": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pervasive-6": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-primary-15": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-main-14": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-dolomitization-4": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-dissolution-10-processes-11": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-grainstones-8": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-reservoir-21-properties-22": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-intraclastic-5": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-best-20": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-framestones-32": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-shrubby-31": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-intervals-26": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-study-2": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-body-9": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-contribute-5": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-data-30": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-hydrocarbon-33-forecast-34": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-to-4": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-new-29": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-pre-salt-15": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-lacustrine-16-carbonates-17": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-emerging-8": [],
+    "68839359-bf76-4868-9d75-bcfd19d0c220-research-11": []
+  }
+}

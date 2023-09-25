@@ -1,0 +1,317 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897381844.txt",
+  "entities": {
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Drilling-1-salt-2-zones-3": "Drilling salt zones",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-overcome-17": "overcome",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-to-15": "to",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-section-15": "section",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-17-zones-18": "salt zones",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-3": "pressure",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11": "salt formation",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-rocks-7": "rocks",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-behavior-17": "behavior",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-plastic-16": "plastic",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-26-caliper-27": "wellbore caliper",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Temperature-1": "Temperature",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16": "drilling fluid",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22": "pressure",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-formation-25": "formation",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-11-stable-12": "wellbore stable",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-keep-9": "keep",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-hydrostatic-21": "hydrostatic",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-minimum-20": "minimum",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-problems-6": "problems",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-weight-5": "weight",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10": "parameter",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-4": "mud",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Thus-1": "Thus",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-8": "very",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-important-9": "important",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-designers-10": "designers",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-14-weight-15": "mud weight",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-this-25": "this",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-difficult-29": "difficult",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-prediction-4-of-5-mud-6-weights-7-for-8-pre-salt-9-wells-10": "prediction of mud weights for pre-salt wells",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-updated-21": "updated",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-engineers-28": "engineers",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-31-behavior-32": "wellbore behavior",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-4": "software",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9": "mud weight",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-adequate-7": "adequate",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-6": "software",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-precision-18": "precision",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-good-17": "good",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-16": "very",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-12-weight-13": "mud weight",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-able-8": "able",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-development-5": "development",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11": "results",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-obtained-12": "obtained",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-article-2": "article",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-initial-10": "initial",
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-8": "software"
+  },
+  "graph": [
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-Drilling-1-salt-2-zones-3",
+      "relation": "presents",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-overcome-17"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-overcome-17",
+      "relation": "mark",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-to-15"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-section-15",
+      "relation": "is in",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-17-zones-18"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-3",
+      "relation": "exerted by",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11",
+      "relation": "case",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-rocks-7"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11",
+      "relation": "have",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-behavior-17"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-behavior-17",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-plastic-16"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11",
+      "relation": "close wellbore caliper",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-26-caliper-27"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-Temperature-1",
+      "relation": "exerted by",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16",
+      "relation": "must exert",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22",
+      "relation": "of",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-formation-25"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16",
+      "relation": "keep",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-11-stable-12"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16",
+      "relation": "must exert pressure",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-keep-9"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-hydrostatic-21"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-minimum-20"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16",
+      "relation": "avoid",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-problems-6"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-weight-5",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-weight-5",
+      "relation": "of",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-4"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10",
+      "relation": "at",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-Thus-1"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10",
+      "relation": "at",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-8"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-important-9"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-weight-5",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-important-9"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-designers-10",
+      "relation": "predict",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-14-weight-15"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-this-25",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-difficult-29"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-prediction-4-of-5-mud-6-weights-7-for-8-pre-salt-9-wells-10",
+      "relation": "has",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-updated-21"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-engineers-28",
+      "relation": "analyze",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-31-behavior-32"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-4",
+      "relation": "predict",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "is developing",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-4"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-adequate-7"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-6",
+      "relation": "predict mud weight with",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-precision-18"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-precision-18",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-good-17"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-precision-18",
+      "relation": "at",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-16"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-6",
+      "relation": "predict",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-12-weight-13"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-6",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-able-8"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-development-5",
+      "relation": "article",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-obtained-12"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-article-2",
+      "relation": "shows",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-development-5"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11",
+      "relation": "is",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-initial-10"
+    },
+    {
+      "subject_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-development-5",
+      "relation": "of",
+      "object_id": "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-8"
+    }
+  ],
+  "links": {
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Drilling-1-salt-2-zones-3": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-overcome-17": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-to-15": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-section-15": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-17-zones-18": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-3": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-salt-10-formation-11": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-rocks-7": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-behavior-17": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-plastic-16": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-26-caliper-27": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Temperature-1": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-drilling-15-fluid-16": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-pressure-22": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-formation-25": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-11-stable-12": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-keep-9": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-hydrostatic-21": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-minimum-20": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-problems-6": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-weight-5": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-parameter-10": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-4": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-Thus-1": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-8": [
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-16"
+    ],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-important-9": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-designers-10": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-14-weight-15": [
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9",
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-12-weight-13"
+    ],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-this-25": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-difficult-29": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-prediction-4-of-5-mud-6-weights-7-for-8-pre-salt-9-wells-10": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-updated-21": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-engineers-28": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-wellbore-31-behavior-32": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-4": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9": [
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-14-weight-15",
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-12-weight-13"
+    ],
+    "NE-ORGANIZATION-Petrobras": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-adequate-7": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-6": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-precision-18": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-good-17": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-16": [
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-very-8"
+    ],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-12-weight-13": [
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-14-weight-15",
+      "607e16a2-24ab-44ad-a4a3-8273a81253f6-mud-8-weight-9"
+    ],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-able-8": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-development-5": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-results-11": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-obtained-12": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-article-2": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-initial-10": [],
+    "607e16a2-24ab-44ad-a4a3-8273a81253f6-software-8": []
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_52249116622.txt",
+  "entities": {
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-position-10": "position",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-its-9-position-10": "its position",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-international-13-LNG-14-market-15": "international LNG market",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-starting-16": "starting",
+    "NE-LOCATION-of-Guanabara": "Guanabara",
+    "NE-CITY-Bay": "Bay",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-state-44": "state",
+    "NE-LOCATION-Ceará": "Ceará",
+    "NE-ORGANIZATION-Petrobras-LNG": "Petrobras LNG",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-implementation-19": "implementation",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-2": "terminals",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20": "solution make",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-to-19": "to",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-22": "supply",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28": "markets",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-considered-10": "considered",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-energy-35": "energy",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-technical-15": "technical",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-system-7": "system",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-thermal-30": "thermal",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-generation-33": "generation",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-best-14": "best",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-2": "supply",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-purchase-8": "purchase",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-demand-11": "demand",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-gas-4-market-5": "gas market",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-potential-8": "potential",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-natural-3": "natural",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-electrical-11-energy-12-complements-13-hydropower-14": "electrical energy complements hydropower",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-national-4-electrical-5-energy-6-grid-7": "national electrical energy grid",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-project-4": "project",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-will-5-supplied-7-by-8-market-11": "will supplied by market",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-international-10": "international",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-countries-32": "countries",
+    "NE-LOCATION-Northern-Hemisphere": "Northern Hemisphere",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-dry-14-season-15": "dry season",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-lesser-28-demand-29": "lesser demand",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-use-2": "use",
+    "NE-PERCENT-10.46%": "10.46 %",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-years-18": "years",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-energy-26-matrix-27": "energy matrix",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-recent-17": "recent",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-avg-15": "avg",
+    "NE-DURATION-yr": "yr",
+    "NE-PERCENT-4%": "4 %",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-use-5": "use",
+    "NE-DATE-2011": "2011",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4": "LNG terminals",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-designed-6": "designed",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-flexible-2": "flexible",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-starting-7-concept-11": "starting concept",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-unpublished-10": "unpublished",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-namely-13": "namely",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2": "LNG",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-regasification-14-ship-15": "regasification ship",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-processed-11": "processed",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-gas-21-pipeline-22": "gas pipeline",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-7-ship-8": "supply ship",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-wharf-5": "wharf",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-extension-10": "extension",
+    "NE-LOCATION-Pecém": "Pecém",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-connected-7": "connected",
+    "NE-MISC-Gasfor": "Gasfor",
+    "NE-ORGANIZATION-Golar-Spirit": "Golar Spirit",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22": "129,000 cu m of LNG",
+    "NE-MONEY-7-million": "7 million",
+    "NE-DURATION-day": "day",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-cu-28-m-29": "cu m",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-two-4-ships-5": "two ships",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-11": "terminals",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-goal-2": "goal",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-11": "LNG",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-up-13-to-14-31-15-million-16-cu-17-m-18": "up to 31 million cu m",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-able-6": "able",
+    "2954cb55-b229-4b18-865f-d99a89fef52a-to-4": "to",
+    "NE-DATE-2012": "2012"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "consolidates",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-international-13-LNG-14-market-15"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-its-9-position-10",
+      "relation": "is in",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-international-13-LNG-14-market-15"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-starting-16"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-of-Guanabara"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4",
+      "relation": "is in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "is in",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-state-44"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-state-44",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Ceará"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras-LNG",
+      "relation": "has",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-position-10",
+      "relation": "at",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-implementation-19"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-2",
+      "relation": "are considered",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20",
+      "relation": "mark",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-to-19"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-supply-22",
+      "relation": "flexible for",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-2",
+      "relation": "are",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-considered-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-energy-35"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-technical-15"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-2",
+      "relation": "integrate",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-system-7"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-system-7",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras-LNG"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-thermal-30"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-generation-33"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-best-14"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-supply-2",
+      "relation": "modulating",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-purchase-8"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-supply-2",
+      "relation": "modulating purchase according",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-demand-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-gas-4-market-5",
+      "relation": "has",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-potential-8"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-gas-4-market-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-gas-4-market-5",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-natural-3"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-electrical-11-energy-12-complements-13-hydropower-14",
+      "relation": "is In",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-national-4-electrical-5-energy-6-grid-7"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-national-4-electrical-5-energy-6-grid-7",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-project-4",
+      "relation": "will",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-will-5-supplied-7-by-8-market-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-project-4",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras-LNG"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-will-5-supplied-7-by-8-market-11",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-international-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-countries-32",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Northern-Hemisphere"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-dry-14-season-15",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-lesser-28-demand-29",
+      "relation": "is in",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-countries-32"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-2",
+      "relation": "represents",
+      "object_id": "NE-PERCENT-10.46%"
+    },
+    {
+      "subject_id": "NE-PERCENT-10.46%",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-2",
+      "relation": "has increased in",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-years-18"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-2",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-PERCENT-10.46%",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-energy-26-matrix-27"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-years-18",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-recent-17"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-2",
+      "relation": "has increased at",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-avg-15"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-avg-15",
+      "relation": "of",
+      "object_id": "NE-DURATION-yr"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-avg-15",
+      "relation": "of",
+      "object_id": "NE-PERCENT-4%"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-5",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-use-5",
+      "relation": "is in",
+      "object_id": "NE-DATE-2011"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4",
+      "relation": "were",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-designed-6"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-flexible-2"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4",
+      "relation": "were designed starting",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-starting-7-concept-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-starting-7-concept-11",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-unpublished-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4",
+      "relation": "were designed starting",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-namely-13"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2",
+      "relation": "be processed in",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-regasification-14-ship-15"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2",
+      "relation": "be",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-processed-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2",
+      "relation": "injected into",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-gas-21-pipeline-22"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2",
+      "relation": "will arrive by",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-supply-7-ship-8"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-wharf-5",
+      "relation": "is connected to",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-extension-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-wharf-5",
+      "relation": "is connected At",
+      "object_id": "NE-LOCATION-Pecém"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-wharf-5",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-connected-7"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-connected-7",
+      "relation": "at",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-extension-10"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-extension-10",
+      "relation": "of",
+      "object_id": "NE-MISC-Gasfor"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-connected-7",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Pecém"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Golar-Spirit",
+      "relation": "is with",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22",
+      "relation": "amount to",
+      "object_id": "NE-MONEY-7-million"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22",
+      "relation": "of",
+      "object_id": "NE-DURATION-day"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-cu-28-m-29"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has leased",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-two-4-ships-5"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-two-4-ships-5",
+      "relation": "operate with",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-11",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-flexible-2"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-goal-2",
+      "relation": "supply by",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-11"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-11",
+      "relation": "of",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-up-13-to-14-31-15-million-16-cu-17-m-18"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-goal-2",
+      "relation": "is",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-able-6"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-able-6",
+      "relation": "mark",
+      "object_id": "2954cb55-b229-4b18-865f-d99a89fef52a-to-4"
+    },
+    {
+      "subject_id": "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-11",
+      "relation": "amount to",
+      "object_id": "NE-DATE-2012"
+    }
+  ],
+  "links": {
+    "NE-ORGANIZATION-Petrobras": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-position-10": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-its-9-position-10": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-international-13-LNG-14-market-15": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-starting-16": [],
+    "NE-LOCATION-of-Guanabara": [],
+    "NE-CITY-Bay": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-state-44": [],
+    "NE-LOCATION-Ceará": [],
+    "NE-ORGANIZATION-Petrobras-LNG": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-implementation-19": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-2": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-solution-18-make-20": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-to-19": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-22": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-markets-28": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-considered-10": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-energy-35": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-technical-15": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-system-7": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-thermal-30": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-generation-33": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-best-14": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-2": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-purchase-8": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-demand-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-gas-4-market-5": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-potential-8": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-natural-3": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-electrical-11-energy-12-complements-13-hydropower-14": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-national-4-electrical-5-energy-6-grid-7": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-project-4": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-will-5-supplied-7-by-8-market-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-international-10": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-countries-32": [],
+    "NE-LOCATION-Northern-Hemisphere": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-dry-14-season-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-lesser-28-demand-29": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-use-2": [],
+    "NE-PERCENT-10.46%": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-years-18": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-energy-26-matrix-27": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-recent-17": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-avg-15": [],
+    "NE-DURATION-yr": [],
+    "NE-PERCENT-4%": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-use-5": [],
+    "NE-DATE-2011": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-3-terminals-4": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-designed-6": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-flexible-2": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-starting-7-concept-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-unpublished-10": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-namely-13": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-2": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-regasification-14-ship-15": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-processed-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-gas-21-pipeline-22": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-supply-7-ship-8": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-wharf-5": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-extension-10": [],
+    "NE-LOCATION-Pecém": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-connected-7": [],
+    "NE-MISC-Gasfor": [],
+    "NE-ORGANIZATION-Golar-Spirit": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-129,000-18-cu-19-m-20-of-21-LNG-22": [],
+    "NE-MONEY-7-million": [],
+    "NE-DURATION-day": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-cu-28-m-29": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-two-4-ships-5": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-terminals-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-goal-2": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-LNG-11": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-up-13-to-14-31-15-million-16-cu-17-m-18": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-able-6": [],
+    "2954cb55-b229-4b18-865f-d99a89fef52a-to-4": [],
+    "NE-DATE-2012": []
+  }
+}

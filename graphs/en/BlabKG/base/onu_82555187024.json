@@ -1,0 +1,252 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_82555187024.txt",
+  "entities": {
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4": "volume units",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-13": "heave",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11": "wave motions",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-induced-9": "induced",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-significant-7": "significant",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Large-1": "Large",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-semi-submersible-3": "semi-submersible",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-resonant-10": "resonant",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Computations-1": "Computations",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-BEM-22-code-24": "BEM code",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-approximations-3": "approximations",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-tested-5": "tested",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-hydrodynamic-2": "hydrodynamic",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-predicted-12-responses-13": "predicted responses",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-those-15-measured-16-in-17-small-18-scale-20-tests-21-performed-22-in-23-wave-25-basin-27": "those measured in small scale tests performed in wave basin",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Different-1": "Different",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-methodology-10": "methodology",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23": "proposed",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-results-3": "results",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-obtained-4": "obtained",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-theses-6-comparisons-7": "theses comparisons",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-validity-2": "validity",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13": "levels",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-low-11": "low",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-attributable-7": "attributable",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-typically-10": "typically",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-15": "heave",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-damping-12": "damping",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-burden-30": "burden",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36": "procedure",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-computational-29": "computational",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-design-40-calculations-41": "design calculations",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-order-9-forces-10": "order forces",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-option-23": "option",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-surface-18-components-20": "surface components",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-helps-25": "helps",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-free-16": "free",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-preliminary-39": "preliminary",
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-suitable-37": "suitable"
+  },
+  "graph": [
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4",
+      "relation": "may present wave motions in",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-13"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4",
+      "relation": "may present",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-induced-9"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-significant-7"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-Large-1"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-semi-submersible-3"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-resonant-10"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-Computations-1",
+      "relation": "are performed by",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-BEM-22-code-24"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-approximations-3",
+      "relation": "are",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-tested-5"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-approximations-3",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-hydrodynamic-2"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-predicted-12-responses-13",
+      "relation": "is with",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-those-15-measured-16-in-17-small-18-scale-20-tests-21-performed-22-in-23-wave-25-basin-27"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-approximations-3",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-Different-1"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-methodology-10",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23",
+      "relation": "at",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-results-3"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23",
+      "relation": "mark",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-obtained-4"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23",
+      "relation": "at",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-theses-6-comparisons-7"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-methodology-10",
+      "relation": "is proposed in",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-theses-6-comparisons-7"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-methodology-10",
+      "relation": "is proposed From",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-results-3"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-validity-2",
+      "relation": "is attributable to",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-low-11"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-validity-2",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-attributable-7"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13",
+      "relation": "at",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-typically-10"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13",
+      "relation": "of",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-15"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13",
+      "relation": "is in",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-15"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-damping-12"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-burden-30",
+      "relation": "rendering",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-burden-30",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-computational-29"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36",
+      "relation": "at",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-design-40-calculations-41"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-order-9-forces-10",
+      "relation": "disregarding surface components",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-option-23"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-surface-18-components-20",
+      "relation": "option",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-helps-25"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-surface-18-components-20",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-free-16"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-preliminary-39"
+    },
+    {
+      "subject_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36",
+      "relation": "is",
+      "object_id": "eb9c758a-7531-4399-b6bc-8350a275ef69-suitable-37"
+    }
+  ],
+  "links": {
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-volume-2-units-4": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-13": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-wave-8-motions-11": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-induced-9": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-significant-7": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Large-1": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-semi-submersible-3": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-resonant-10": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Computations-1": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-BEM-22-code-24": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-approximations-3": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-tested-5": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-hydrodynamic-2": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-predicted-12-responses-13": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-those-15-measured-16-in-17-small-18-scale-20-tests-21-performed-22-in-23-wave-25-basin-27": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-Different-1": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-methodology-10": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-proposed-23": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-results-3": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-obtained-4": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-theses-6-comparisons-7": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-validity-2": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-levels-13": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-low-11": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-attributable-7": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-typically-10": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-heave-15": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-damping-12": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-burden-30": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-procedure-36": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-computational-29": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-design-40-calculations-41": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-order-9-forces-10": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-option-23": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-surface-18-components-20": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-helps-25": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-free-16": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-preliminary-39": [],
+    "eb9c758a-7531-4399-b6bc-8350a275ef69-suitable-37": []
+  }
+}

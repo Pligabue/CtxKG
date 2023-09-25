@@ -1,0 +1,306 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085779136.txt",
+  "entities": {
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-ultra-deep-8-waters-9": "ultra-deep waters",
+    "NE-COUNTRY-America": "America",
+    "NE-TITLE-operator": "operator",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-2": "concept",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7": "fields",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-productivity-10-wells-11": "productivity wells",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-suited-5": "suited",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-well-4": "well",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-high-9-productivity-10-wells-11": "high productivity wells",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-6": "concept",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-known-8": "known",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-market-3": "market",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-satellite-11-wells-12": "satellite wells",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10": "strategy",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-standardizing-12": "standardizing",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-subsea-13-equipment-14": "subsea equipment",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-scenario-3": "scenario",
+    "NE-DATE-Christmas": "Christmas",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-including-16-Wet-17": "including Wet",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-Trees-19": "Trees",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-suppliers-31": "suppliers",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17": "specifications",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25": "CAPEX solutions",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-most-22": "most",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-market-28": "market",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-own-16": "own",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-attractive-23": "attractive",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-integration-22-synergies-23": "integration synergies",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-projects-38": "projects",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-assets-26": "assets",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-existing-25": "existing",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-experience-29": "experience",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-CRA-23-materials-24": "CRA materials",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-applied-27": "applied",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-new-22": "new",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-to-25": "to",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-Technological-1-development-2-programs-3": "Technological development programs",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-pipes-10": "pipes",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-flexible-9": "flexible",
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-use-7": "use"
+  },
+  "graph": [
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-ultra-deep-8-waters-9",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-America"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "is in",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-ultra-deep-8-waters-9"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-2",
+      "relation": "is well suited for",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-productivity-10-wells-11"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-2",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-suited-5"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-suited-5",
+      "relation": "at",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-well-4"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-2",
+      "relation": "is suited for",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-high-9-productivity-10-wells-11"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7",
+      "relation": "is with",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-high-9-productivity-10-wells-11"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-6",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-known-8"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-6",
+      "relation": "is known In",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-market-3"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-known-8",
+      "relation": "at",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-market-3"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-known-8",
+      "relation": "at",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-satellite-11-wells-12"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-6",
+      "relation": "is known as",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-satellite-11-wells-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has benefited from",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-standardizing-12"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-subsea-13-equipment-14"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has benefited In",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-scenario-3"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10",
+      "relation": "of",
+      "object_id": "NE-DATE-Christmas"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10",
+      "relation": "case",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-including-16-Wet-17"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-Trees-19"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17",
+      "relation": "allowing",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-suppliers-31"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17",
+      "relation": "looking for",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25",
+      "relation": "at",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-most-22"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-market-28"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-own-16"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-attractive-23"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-suppliers-31",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-own-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "simplify",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25",
+      "relation": "is in",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-market-28"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-integration-22-synergies-23",
+      "relation": "bring to",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-projects-38"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-assets-26",
+      "relation": "bring to",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-projects-38"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-assets-26",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-existing-25"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-experience-29",
+      "relation": "bring to",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-projects-38"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CRA-23-materials-24",
+      "relation": "be",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-applied-27"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-CRA-23-materials-24",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-new-22"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-applied-27",
+      "relation": "mark",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-to-25"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-Technological-1-development-2-programs-3",
+      "relation": "use of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-pipes-10"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-pipes-10",
+      "relation": "is",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-flexible-9"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-Technological-1-development-2-programs-3",
+      "relation": "allow",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-use-7"
+    },
+    {
+      "subject_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-use-7",
+      "relation": "of",
+      "object_id": "242b3b58-d08d-46cf-9db1-3ced34a59265-pipes-10"
+    }
+  ],
+  "links": {
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-ultra-deep-8-waters-9": [],
+    "NE-COUNTRY-America": [],
+    "NE-TITLE-operator": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-2": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-fields-7": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-productivity-10-wells-11": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-suited-5": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-well-4": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-high-9-productivity-10-wells-11": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-concept-6": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-known-8": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-market-3": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-satellite-11-wells-12": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-strategy-10": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-standardizing-12": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-subsea-13-equipment-14": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-scenario-3": [],
+    "NE-DATE-Christmas": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-including-16-Wet-17": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-Trees-19": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-suppliers-31": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-specifications-17": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-CAPEX-24-solutions-25": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-most-22": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-market-28": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-own-16": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-attractive-23": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-integration-22-synergies-23": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-projects-38": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-assets-26": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-existing-25": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-experience-29": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-CRA-23-materials-24": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-applied-27": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-new-22": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-to-25": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-Technological-1-development-2-programs-3": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-pipes-10": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-flexible-9": [],
+    "242b3b58-d08d-46cf-9db1-3ced34a59265-use-7": []
+  }
+}

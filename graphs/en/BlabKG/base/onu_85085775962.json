@@ -1,0 +1,485 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085775962.txt",
+  "entities": {
+    "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32": "pressure maintenance policies",
+    "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38": "gas management strategies",
+    "be473474-e9c1-4908-947b-6970a8bfa756-effective-29": "effective",
+    "be473474-e9c1-4908-947b-6970a8bfa756-produced-35": "produced",
+    "be473474-e9c1-4908-947b-6970a8bfa756-injection-9": "injection",
+    "be473474-e9c1-4908-947b-6970a8bfa756-enhanced-12": "enhanced",
+    "be473474-e9c1-4908-947b-6970a8bfa756-recovery-13-method-14": "recovery method",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Water-1-Alternating-3-Gas-5": "Water Alternating Gas",
+    "be473474-e9c1-4908-947b-6970a8bfa756-recoveries-41": "recoveries",
+    "be473474-e9c1-4908-947b-6970a8bfa756-increased-40": "increased",
+    "be473474-e9c1-4908-947b-6970a8bfa756-flexible-34": "flexible",
+    "be473474-e9c1-4908-947b-6970a8bfa756-alternative-26": "alternative",
+    "be473474-e9c1-4908-947b-6970a8bfa756-gas-5": "gas",
+    "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31": "water controls gas mobility",
+    "be473474-e9c1-4908-947b-6970a8bfa756-technology-3": "technology",
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-24": "porous",
+    "be473474-e9c1-4908-947b-6970a8bfa756-role-8": "role",
+    "be473474-e9c1-4908-947b-6970a8bfa756-medium-26": "medium",
+    "be473474-e9c1-4908-947b-6970a8bfa756-reducing-10": "reducing",
+    "be473474-e9c1-4908-947b-6970a8bfa756-residual-11": "residual",
+    "be473474-e9c1-4908-947b-6970a8bfa756-oil-12-saturation-13": "oil saturation",
+    "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-19-flow-20-effects-27": "multiphase flow effects",
+    "be473474-e9c1-4908-947b-6970a8bfa756-characterization-19-programme-20": "characterization programme",
+    "be473474-e9c1-4908-947b-6970a8bfa756-should-21-put-23": "should put",
+    "be473474-e9c1-4908-947b-6970a8bfa756-intense-18": "intense",
+    "be473474-e9c1-4908-947b-6970a8bfa756-practice-25": "practice",
+    "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-24-flow-25": "multiphase flow",
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-27-medium-28-phenomena-29": "porous medium phenomena",
+    "be473474-e9c1-4908-947b-6970a8bfa756-characterization-3": "characterization",
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17": "WAG design",
+    "be473474-e9c1-4908-947b-6970a8bfa756-proper-2": "proper",
+    "NE-TITLE-representative": "representative",
+    "be473474-e9c1-4908-947b-6970a8bfa756-modeling-5": "modeling",
+    "be473474-e9c1-4908-947b-6970a8bfa756-vital-12": "vital",
+    "be473474-e9c1-4908-947b-6970a8bfa756-simulation-7": "simulation",
+    "be473474-e9c1-4908-947b-6970a8bfa756-results-5": "results",
+    "be473474-e9c1-4908-947b-6970a8bfa756-oilfield-21": "oilfield",
+    "be473474-e9c1-4908-947b-6970a8bfa756-offshore-20": "offshore",
+    "be473474-e9c1-4908-947b-6970a8bfa756-paper-2": "paper",
+    "NE-TITLE-model": "model",
+    "be473474-e9c1-4908-947b-6970a8bfa756-available-16-in-17-commercial-19-reservoir-20-simulators-21": "available in commercial reservoir simulators",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Larsen-12": "Larsen",
+    "be473474-e9c1-4908-947b-6970a8bfa756-most-18": "most",
+    "be473474-e9c1-4908-947b-6970a8bfa756-relative-7": "relative",
+    "be473474-e9c1-4908-947b-6970a8bfa756-best-6": "best",
+    "be473474-e9c1-4908-947b-6970a8bfa756-permeability-8-hysteresis-9": "permeability hysteresis",
+    "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10": "laboratory WAG multiphase flow",
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-14": "porous",
+    "be473474-e9c1-4908-947b-6970a8bfa756-special-6": "special",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Experiments-1": "Experiments",
+    "be473474-e9c1-4908-947b-6970a8bfa756-reservoir-5-conditions-6": "reservoir conditions",
+    "be473474-e9c1-4908-947b-6970a8bfa756-done-3": "done",
+    "be473474-e9c1-4908-947b-6970a8bfa756-results-3": "results",
+    "be473474-e9c1-4908-947b-6970a8bfa756-light-10": "light",
+    "be473474-e9c1-4908-947b-6970a8bfa756-evaluated-8": "evaluated",
+    "be473474-e9c1-4908-947b-6970a8bfa756-its-21-validity-22": "its validity",
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-3-simulations-4": "WAG simulations",
+    "be473474-e9c1-4908-947b-6970a8bfa756-impacts-17": "impacts",
+    "be473474-e9c1-4908-947b-6970a8bfa756-performed-13": "performed",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Finally-1": "Finally",
+    "be473474-e9c1-4908-947b-6970a8bfa756-predictability-8": "predictability",
+    "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11": "uncertainties",
+    "be473474-e9c1-4908-947b-6970a8bfa756-field-14-scale-16-implementation-17": "field scale implementation",
+    "be473474-e9c1-4908-947b-6970a8bfa756-related-12": "related",
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-19-technology-20": "WAG technology",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Conclusions-1": "Conclusions",
+    "be473474-e9c1-4908-947b-6970a8bfa756-Knowledge-1": "Knowledge",
+    "be473474-e9c1-4908-947b-6970a8bfa756-study-5": "study",
+    "be473474-e9c1-4908-947b-6970a8bfa756-design-5": "design"
+  },
+  "graph": [
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32",
+      "relation": "alternative",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-effective-29"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-produced-35"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-injection-9",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-enhanced-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-injection-9",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-recovery-13-method-14"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-injection-9",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-Water-1-Alternating-3-Gas-5"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32",
+      "relation": "alternative",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-recoveries-41"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-recoveries-41",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-increased-40"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-flexible-34"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-recovery-13-method-14",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-enhanced-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-alternative-26",
+      "relation": "combine",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-5",
+      "relation": "plays role",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-5",
+      "relation": "plays role In",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-technology-3"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-porous-24"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-gas-5",
+      "relation": "plays",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-role-8"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-medium-26"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-role-8",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-reducing-10"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-role-8",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-residual-11"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-role-8",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-oil-12-saturation-13"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31",
+      "relation": "at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-19-flow-20-effects-27"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-characterization-19-programme-20",
+      "relation": "should",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-should-21-put-23"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-characterization-19-programme-20",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-intense-18"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-should-21-put-23",
+      "relation": "at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-practice-25"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-24-flow-25",
+      "relation": "is in",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-porous-27-medium-28-phenomena-29"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-characterization-3",
+      "relation": "are vital for",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-characterization-3",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-proper-2"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17",
+      "relation": "is",
+      "object_id": "NE-TITLE-representative"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-modeling-5",
+      "relation": "are vital for",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-modeling-5",
+      "relation": "are",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-vital-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-vital-12",
+      "relation": "at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-simulation-7",
+      "relation": "are vital for",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-characterization-3",
+      "relation": "are",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-vital-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-simulation-7",
+      "relation": "are",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-vital-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-results-5",
+      "relation": "study for",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-oilfield-21"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-oilfield-21",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-offshore-20"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+      "relation": "Firstly summarizes",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+      "relation": "summarizes",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-available-16-in-17-commercial-19-reservoir-20-simulators-21"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+      "relation": "summarizes",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-Larsen-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+      "relation": "Firstly summarizes",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-Larsen-12"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-most-18"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-relative-7"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-best-6"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-permeability-8-hysteresis-9"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-paper-2",
+      "relation": "describes",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10",
+      "relation": "is in",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-porous-14"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-special-6"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-porous-14"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-Experiments-1",
+      "relation": "were done at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-reservoir-5-conditions-6"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-Experiments-1",
+      "relation": "were",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-done-3"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-results-3",
+      "relation": "were evaluated in",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-light-10"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-light-10",
+      "relation": "of",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-light-10",
+      "relation": "case",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-Larsen-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-results-3",
+      "relation": "were",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-evaluated-8"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-results-3",
+      "relation": "confirm",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-its-21-validity-22"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-3-simulations-4",
+      "relation": "access",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-impacts-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-3-simulations-4",
+      "relation": "were",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-performed-13"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-performed-13",
+      "relation": "at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-Finally-1"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-predictability-8",
+      "relation": "reduce",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11",
+      "relation": "at",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-field-14-scale-16-implementation-17"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11",
+      "relation": "is",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-related-12"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11",
+      "relation": "of",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-WAG-19-technology-20"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-Conclusions-1",
+      "relation": "increase",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-predictability-8"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-Knowledge-1",
+      "relation": "acquired from",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-study-5"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-study-5",
+      "relation": "also supports",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-design-5"
+    },
+    {
+      "subject_id": "be473474-e9c1-4908-947b-6970a8bfa756-study-5",
+      "relation": "supports",
+      "object_id": "be473474-e9c1-4908-947b-6970a8bfa756-design-5"
+    }
+  ],
+  "links": {
+    "be473474-e9c1-4908-947b-6970a8bfa756-pressure-30-maintenance-31-policies-32": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-gas-36-management-37-strategies-38": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-effective-29": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-produced-35": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-injection-9": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-enhanced-12": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-recovery-13-method-14": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Water-1-Alternating-3-Gas-5": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-recoveries-41": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-increased-40": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-flexible-34": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-alternative-26": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-gas-5": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-water-15-controls-16-gas-29-mobility-31": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-technology-3": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-24": [
+      "be473474-e9c1-4908-947b-6970a8bfa756-porous-14"
+    ],
+    "be473474-e9c1-4908-947b-6970a8bfa756-role-8": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-medium-26": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-reducing-10": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-residual-11": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-oil-12-saturation-13": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-19-flow-20-effects-27": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-characterization-19-programme-20": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-should-21-put-23": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-intense-18": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-practice-25": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-multiphase-24-flow-25": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-27-medium-28-phenomena-29": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-characterization-3": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17": [
+      "be473474-e9c1-4908-947b-6970a8bfa756-WAG-19-technology-20"
+    ],
+    "be473474-e9c1-4908-947b-6970a8bfa756-proper-2": [],
+    "NE-TITLE-representative": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-modeling-5": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-vital-12": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-simulation-7": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-results-5": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-oilfield-21": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-offshore-20": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-paper-2": [],
+    "NE-TITLE-model": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-available-16-in-17-commercial-19-reservoir-20-simulators-21": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Larsen-12": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-most-18": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-relative-7": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-best-6": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-permeability-8-hysteresis-9": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-laboratory-7-WAG-8-multiphase-9-flow-10": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-porous-14": [
+      "be473474-e9c1-4908-947b-6970a8bfa756-porous-24"
+    ],
+    "be473474-e9c1-4908-947b-6970a8bfa756-special-6": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Experiments-1": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-reservoir-5-conditions-6": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-done-3": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-results-3": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-light-10": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-evaluated-8": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-its-21-validity-22": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-3-simulations-4": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-impacts-17": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-performed-13": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Finally-1": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-predictability-8": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-uncertainties-11": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-field-14-scale-16-implementation-17": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-related-12": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-WAG-19-technology-20": [
+      "be473474-e9c1-4908-947b-6970a8bfa756-WAG-16-design-17"
+    ],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Conclusions-1": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-Knowledge-1": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-study-5": [],
+    "be473474-e9c1-4908-947b-6970a8bfa756-design-5": []
+  }
+}

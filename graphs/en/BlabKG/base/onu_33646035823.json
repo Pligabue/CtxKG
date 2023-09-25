@@ -1,0 +1,388 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33646035823.txt",
+  "entities": {
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-rupture-2": "rupture",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13": "spill",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-fuel-18-oil-19": "fuel oil",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-pipeline-5": "pipeline",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "NE-CITY-Bay": "Bay",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-shoreline-24": "shoreline",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-January-27-18-28-2000-30": "January 18 2000",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1,300-15-m3-16": "1,300 m3",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-7-effort-8": "emergency effort",
+    "NE-CAUSE_OF_DEATH-accident": "accident",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Immediately-1": "Immediately",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-20": "spill",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-location-22": "location",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-undertaken-10": "undertaken",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-satellite-13-images-14": "satellite images",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Landsat-2-5-4-TM-6": "Landsat 5 TM",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquired-18": "acquired",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-One-1": "One",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-frequency-3": "frequency",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13": "use",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-low-2": "low",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spaceborne-18-sensors-19": "spaceborne sensors",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-visible-15": "visible",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquisition-5": "acquisition",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Image-1-processing-2-techniques-3": "Image processing techniques",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11": "areas",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-5": "applied",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-10": "covered",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-8": "oil",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-water-14-surface-15": "water surface",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Ambiguities-1": "Ambiguities",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aid-10": "aid",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-12": "ancillary",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-resolved-7": "resolved",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-13": "information",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-4-detection-5": "oil detection",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-RADARSAT-2-images-5": "RADARSAT images",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9": "area",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1-4": "1",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-classification-3-procedure-4": "classification procedure",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-6": "applied",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-supervised-2": "supervised",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28": "inspection information photos",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38": "selection",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-42": "covered",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-43": "areas",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-controlled-26": "controlled",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-final-37": "final",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-21": "aerial",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-integration-3": "integration",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-10": "information",
+    "NE-ORGANIZATION-CIS": "CIS",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-9": "ancillary",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-27": "aerial",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-40": "oil",
+    "NE-ORGANIZATION-PETROBRAS": "PETROBRAS",
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-9-response-10-procedures-11": "emergency response procedures"
+  },
+  "graph": [
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-rupture-2",
+      "relation": "caused",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-fuel-18-oil-19"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "rupture of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-pipeline-5"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-shoreline-24"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-rupture-2",
+      "relation": "caused spill on",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-January-27-18-28-2000-30"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1,300-15-m3-16"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-7-effort-8",
+      "relation": "was undertaken after",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-accident",
+      "relation": "at",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Immediately-1"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-20",
+      "relation": "has",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-location-22"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-7-effort-8",
+      "relation": "was",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-undertaken-10"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-7-effort-8",
+      "relation": "obtain",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-satellite-13-images-14"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Landsat-2-5-4-TM-6",
+      "relation": "were",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquired-18"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Landsat-2-5-4-TM-6",
+      "relation": "amount to",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-One-1"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-frequency-3",
+      "relation": "limited",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-frequency-3",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-low-2"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spaceborne-18-sensors-19"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-visible-15"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13",
+      "relation": "low frequency of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquisition-5"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13",
+      "relation": "frequency of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquisition-5"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Image-1-processing-2-techniques-3",
+      "relation": "highlight",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Image-1-processing-2-techniques-3",
+      "relation": "were",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-5"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-10"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11",
+      "relation": "at",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-8"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-water-14-surface-15"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Ambiguities-1",
+      "relation": "were resolved with",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aid-10"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aid-10",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-12"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Ambiguities-1",
+      "relation": "were",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-resolved-7"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aid-10",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-13"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Ambiguities-1",
+      "relation": "is in",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-4-detection-5"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-RADARSAT-2-images-5",
+      "relation": "show clearly",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-RADARSAT-2-images-5",
+      "relation": "amount to",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1-4"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9",
+      "relation": "at",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9",
+      "relation": "affected by",
+      "object_id": "NE-CAUSE_OF_DEATH-accident"
+    },
+    {
+      "subject_id": "NE-CAUSE_OF_DEATH-accident",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-RADARSAT-2-images-5",
+      "relation": "show",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-classification-3-procedure-4",
+      "relation": "was",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-6"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-classification-3-procedure-4",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-supervised-2"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28",
+      "relation": "allowed",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-42"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38",
+      "relation": "of",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-43"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-controlled-26"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-final-37"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-21"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-integration-3",
+      "relation": "results with",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-10"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-integration-3",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-CIS"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-10",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-9"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28",
+      "relation": "is",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-27"
+    },
+    {
+      "subject_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38",
+      "relation": "at",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-40"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-PETROBRAS",
+      "relation": "optimize",
+      "object_id": "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-9-response-10-procedures-11"
+    }
+  ],
+  "links": {
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-rupture-2": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-13": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-fuel-18-oil-19": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-pipeline-5": [],
+    "NE-LOCATION-Guanabara": [],
+    "NE-CITY-Bay": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-shoreline-24": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-January-27-18-28-2000-30": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1,300-15-m3-16": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-7-effort-8": [],
+    "NE-CAUSE_OF_DEATH-accident": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Immediately-1": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spill-20": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-location-22": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-undertaken-10": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-satellite-13-images-14": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Landsat-2-5-4-TM-6": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquired-18": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-One-1": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-frequency-3": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-use-13": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-low-2": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-spaceborne-18-sensors-19": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-visible-15": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-acquisition-5": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Image-1-processing-2-techniques-3": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-11": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-5": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-10": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-8": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-water-14-surface-15": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-Ambiguities-1": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aid-10": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-12": [
+      "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-9"
+    ],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-resolved-7": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-13": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-4-detection-5": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-RADARSAT-2-images-5": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-area-9": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-1-4": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-classification-3-procedure-4": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-applied-6": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-supervised-2": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-inspection-22-information-23-photos-28": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-selection-38": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-covered-42": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-areas-43": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-controlled-26": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-final-37": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-21": [
+      "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-27"
+    ],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-integration-3": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-information-10": [],
+    "NE-ORGANIZATION-CIS": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-9": [
+      "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-ancillary-12"
+    ],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-27": [
+      "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-aerial-21"
+    ],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-oil-40": [],
+    "NE-ORGANIZATION-PETROBRAS": [],
+    "fdf24c0d-8db3-43be-b74d-b05c1bdf85a5-emergency-9-response-10-procedures-11": []
+  }
+}

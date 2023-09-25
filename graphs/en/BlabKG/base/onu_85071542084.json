@@ -1,0 +1,770 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85071542084.txt",
+  "entities": {
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3": "successions",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14": "carbonate platform",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Several-1": "Several",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-plateau-18-systems-20": "plateau systems",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-19": "depositional",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-accumulated-10": "accumulated",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolving-15": "evolving",
+    "NE-MISC-Mesozoic": "Mesozoic",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-pelagic-17": "pelagic",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Rifting-1-paleotectonics-2": "Rifting paleotectonics",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-process-6": "process",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-main-5": "main",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-9-sedimentary-11": "tectono sedimentary",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26": "occurrence",
+    "NE-MISC-NW-Sicilian": "NW Sicilian",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-outcrops-5": "outcrops",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-exposed-4": "exposed",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-polyphase-18-evolution-22": "polyphase evolution",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-settings-28": "settings",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26": "different",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-27": "depositional",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-11-history-12": "subsidence history",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-19-sedimentary-21": "tectono sedimentary",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21": "basins",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-seamounts-38": "seamounts",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-deposits-16": "deposits",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-highs-25": "highs",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-intraplatform-20": "intraplatform",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-structural-24": "structural",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-lows-2": "lows",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-horst-28-ridges-29": "horst ridges",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentation-34": "sedimentation",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-condensed-33": "condensed",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Structural-1": "Structural",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-margins-13": "margins",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slopes-16": "slopes",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-scalloped-12": "scalloped",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sectors-2": "sectors",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-fault-9-margins-10": "fault margins",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-stepped-8": "stepped",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-15": "depositional",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64": "uplift",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-68-curve-69-trend-70": "subsidence curve trend",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44": "subsidence",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51": "rates",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-42": "slow",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-higher-50": "higher",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Middle-38-stage-40": "Middle stage",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-39": "Jurassic",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Early-61": "Early",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-67": "thermal",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-47-shoulders-48": "basin shoulders",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3": "history",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14": "stages",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolutionary-13": "evolutionary",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-59": "Jurassic",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sections-9": "sections",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonic-2": "tectonic",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-superimposed-12": "superimposed",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-backstripped-8": "backstripped",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43": "thermal",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-intervening-54-depressions-55": "intervening depressions",
+    "NE-MISC-Cretaceous": "Cretaceous",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-regional-63": "regional",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depressions-55": "depressions",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-58": "Late",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tract-2": "tract",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15": "subsidence",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-13": "thermal",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Eocene-8-curve-9": "Eocene curve",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Cretaceous-6": "Cretaceous",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-5": "Late",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-12": "slow",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-post-rift-14": "post-rift",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-influenced-18": "influenced",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-again-11": "again",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4": "subsidence curves",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9": "positions",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-2": "different",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentary-12-basin-13": "sedimentary basin",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolution-18": "evolution",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-faults-28": "faults",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-syn-25-sedimentary-27": "syn sedimentary",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-8": "different",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-13": "basin",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-identified-24": "identified",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11": "sector",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-active-20": "active",
+    "NE-MISC-Sicilian": "Sicilian",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-whole-23": "whole",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonically-19": "tectonically",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3": "paleophysiography",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22": "carbonate platform",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-reconstructed-2": "reconstructed",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-channels-29": "channels",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-morphostructural-24-highs-25": "morphostructural highs",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-segmented-18": "segmented",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-deep-28": "deep",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-separated-26": "separated",
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-characterized-15": "characterized"
+  },
+  "graph": [
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3",
+      "relation": "were accumulated on",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Several-1"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14",
+      "relation": "at",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-plateau-18-systems-20"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-19"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3",
+      "relation": "were",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-accumulated-10"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolving-15"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3",
+      "relation": "is",
+      "object_id": "NE-MISC-Mesozoic"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-pelagic-17"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Rifting-1-paleotectonics-2",
+      "relation": "was",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-process-6"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-process-6",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-main-5"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-process-6",
+      "relation": "conditioning",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Rifting-1-paleotectonics-2"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Rifting-1-paleotectonics-2",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-9-sedimentary-11"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26",
+      "relation": "exposed outcrops in",
+      "object_id": "NE-MISC-NW-Sicilian"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26",
+      "relation": "well exposed outcrops in",
+      "object_id": "NE-MISC-NW-Sicilian"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26",
+      "relation": "outcrops in",
+      "object_id": "NE-MISC-NW-Sicilian"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-outcrops-5",
+      "relation": "highlight",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-outcrops-5",
+      "relation": "is in",
+      "object_id": "NE-MISC-NW-Sicilian"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-outcrops-5",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-exposed-4"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-polyphase-18-evolution-22",
+      "relation": "distinguish",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-settings-28"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-settings-28",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-settings-28",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-27"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-11-history-12",
+      "relation": "decipher",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-polyphase-18-evolution-22"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-polyphase-18-evolution-22",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-19-sedimentary-21"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21",
+      "relation": "isolated",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-seamounts-38"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-deposits-16",
+      "relation": "appear",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21",
+      "relation": "bordered by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-highs-25"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-intraplatform-20"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-highs-25",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-structural-24"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-lows-2",
+      "relation": "appear",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21",
+      "relation": "bordered as",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-horst-28-ridges-29"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21",
+      "relation": "characterised by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentation-34"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentation-34",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-condensed-33"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-lows-2",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Structural-1"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-margins-13",
+      "relation": "sectors",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-slopes-16"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-margins-13",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-scalloped-12"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sectors-2",
+      "relation": "were linked margins by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-fault-9-margins-10"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-fault-9-margins-10",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-stepped-8"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-margins-13",
+      "relation": "were",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-slopes-16"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-slopes-16",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-15"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "interrupts",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-68-curve-69-trend-70"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "stage",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-42"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-higher-50"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Middle-38-stage-40",
+      "relation": "reflects",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Middle-38-stage-40",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-39"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Early-61"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-68-curve-69-trend-70",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-67"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-47-shoulders-48"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3",
+      "relation": "reveals",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolutionary-13"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-59"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "Jurassic stage",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3",
+      "relation": "highlighted by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sections-9"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3",
+      "relation": "at",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "is in",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-47-shoulders-48"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonic-2"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-superimposed-12"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sections-9",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-backstripped-8"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51",
+      "relation": "is in",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-intervening-54-depressions-55"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "is",
+      "object_id": "NE-MISC-Cretaceous"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-regional-63"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-depressions-55"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-58"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-tract-2",
+      "relation": "suggests",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-13"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "tract of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Eocene-8-curve-9"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Eocene-8-curve-9",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Cretaceous-6"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Eocene-8-curve-9",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-5"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-12"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-post-rift-14"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-influenced-18"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "relation": "at",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-again-11"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4",
+      "relation": "reconstructed from",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-2"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentary-12-basin-13"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolution-18",
+      "relation": "be driven by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-faults-28"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentary-12-basin-13",
+      "relation": "has",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolution-18"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-faults-28",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-syn-25-sedimentary-27"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9",
+      "relation": "is in",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentary-12-basin-13"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-8"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-13"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-faults-28",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-identified-24"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11",
+      "relation": "was",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-active-20"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11",
+      "relation": "is",
+      "object_id": "NE-MISC-Sicilian"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11",
+      "relation": "was active for",
+      "object_id": "NE-MISC-Mesozoic"
+    },
+    {
+      "subject_id": "NE-MISC-Mesozoic",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-whole-23"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-active-20",
+      "relation": "at",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonically-19"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11",
+      "relation": "was tectonically active for",
+      "object_id": "NE-MISC-Mesozoic"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3",
+      "relation": "characterized by",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-reconstructed-2"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "at",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-channels-29"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3",
+      "relation": "appears",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-morphostructural-24-highs-25"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "is with",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-morphostructural-24-highs-25"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-segmented-18"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-deep-28"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "is",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-separated-26"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3",
+      "relation": "appears",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-characterized-15"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22",
+      "relation": "of",
+      "object_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-highs-25"
+    },
+    {
+      "subject_id": "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3",
+      "relation": "appears during",
+      "object_id": "NE-MISC-Mesozoic"
+    }
+  ],
+  "links": {
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-successions-3": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Several-1": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-plateau-18-systems-20": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-19": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-27",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-15"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-accumulated-10": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolving-15": [],
+    "NE-MISC-Mesozoic": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-pelagic-17": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Rifting-1-paleotectonics-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-process-6": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-main-5": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-9-sedimentary-11": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-19-sedimentary-21"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-occurrence-26": [],
+    "NE-MISC-NW-Sicilian": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-outcrops-5": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-exposed-4": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-polyphase-18-evolution-22": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-settings-28": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-2",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-8"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-27": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-19",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-15"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-11-history-12": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-19-sedimentary-21": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectono-9-sedimentary-11"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basins-21": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-seamounts-38": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-deposits-16": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-highs-25": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-intraplatform-20": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-structural-24": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-Structural-1"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-lows-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-horst-28-ridges-29": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentation-34": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-condensed-33": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Structural-1": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-structural-24"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-margins-13": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slopes-16": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-scalloped-12": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sectors-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-fault-9-margins-10": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-stepped-8": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-15": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-19",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-depositional-27"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-uplift-64": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-68-curve-69-trend-70": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-rates-51": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-42": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-12"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-higher-50": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Middle-38-stage-40": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-39": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Early-61": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-58"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-67": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-47-shoulders-48": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-history-3": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-stages-14": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolutionary-13": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-59": [
+      "NE-MISC-Cretaceous"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sections-9": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonic-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-superimposed-12": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-backstripped-8": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-13"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-intervening-54-depressions-55": [],
+    "NE-MISC-Cretaceous": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-Jurassic-59"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-regional-63": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-depressions-55": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-58": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-Early-61"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tract-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-13": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-thermal-43"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Eocene-8-curve-9": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Cretaceous-6": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-Late-5": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-12": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-slow-42"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-post-rift-14": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-influenced-18": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-again-11": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-3-curves-4": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-68-curve-69-trend-70",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-44",
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-subsidence-15"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-positions-9": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-2": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sedimentary-12-basin-13": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolution-18": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-faults-28": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-syn-25-sedimentary-27": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-8": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-different-26"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-basin-13": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-identified-24": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-sector-11": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-active-20": [],
+    "NE-MISC-Sicilian": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-whole-23": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-tectonically-19": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-paleophysiography-3": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-21-platform-22": [
+      "03bb4e36-65c4-4faa-889c-f08a60c33d08-carbonate-13-platform-14"
+    ],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-reconstructed-2": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-channels-29": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-morphostructural-24-highs-25": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-segmented-18": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-deep-28": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-separated-26": [],
+    "03bb4e36-65c4-4faa-889c-f08a60c33d08-characterized-15": []
+  }
+}

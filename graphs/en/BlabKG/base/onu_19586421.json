@@ -1,0 +1,165 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_19586421.txt",
+  "entities": {
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-production-6-tower-7": "production tower",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-September-10": "September",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-LOCATION-Garoupa-Field": "Garoupa Field",
+    "NE-DATE-7": "7",
+    "NE-DATE-last-September": "last September",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8": "seafloor pipe line",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-meter-10": "meter",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-loading-12-tower-13": "loading tower",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-processing-15-ship-16": "processing ship",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-system-3": "system",
+    "NE-ORGANIZATION-Presidente-Prudente-Moraes": "Presidente Prudente Moraes",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-provisional-2": "provisional",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-remaining-22": "remaining",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-holdovers-2": "holdovers",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-208-7-ton-9-12-11-m-13-dia-15": "208 ton 12 m dia",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-combined-4": "combined",
+    "NE-TITLE-marine": "marine",
+    "NE-ORGANIZATION-Star-Hercules": "Star Hercules",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-platform-19": "platform",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-readied-21": "readied",
+    "NE-PERSON-Garoupa": "Garoupa",
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-permanent-18-platform-19": "permanent platform"
+  },
+  "graph": [
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-production-6-tower-7",
+      "relation": "collapsed at_time",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-September-10"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-production-6-tower-7"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-production-6-tower-7",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Garoupa-Field"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-September-10",
+      "relation": "amount to",
+      "object_id": "NE-DATE-7"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-September-10",
+      "relation": "is",
+      "object_id": "NE-DATE-last-September"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "provisional system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-meter-10"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-loading-12-tower-13"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-processing-15-ship-16"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "provisional system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-loading-12-tower-13"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-system-3",
+      "relation": "uses",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "provisional system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-processing-15-ship-16"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-system-3",
+      "relation": "uses",
+      "object_id": "NE-ORGANIZATION-Presidente-Prudente-Moraes"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-system-3",
+      "relation": "is",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-provisional-2"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "system",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-meter-10"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8",
+      "relation": "is",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-remaining-22"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-holdovers-2",
+      "relation": "were combined with",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-208-7-ton-9-12-11-m-13-dia-15"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-holdovers-2",
+      "relation": "were",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-combined-4"
+    },
+    {
+      "subject_id": "NE-TITLE-marine",
+      "relation": "has",
+      "object_id": "NE-ORGANIZATION-Star-Hercules"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-platform-19",
+      "relation": "was",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-readied-21"
+    },
+    {
+      "subject_id": "NE-PERSON-Garoupa",
+      "relation": "has",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-platform-19"
+    },
+    {
+      "subject_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-platform-19",
+      "relation": "is",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-permanent-18-platform-19"
+    },
+    {
+      "subject_id": "NE-PERSON-Garoupa",
+      "relation": "has",
+      "object_id": "c2834789-0a59-4f09-86f9-adf81755e9d3-permanent-18-platform-19"
+    }
+  ],
+  "links": {
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-production-6-tower-7": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-September-10": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-LOCATION-Garoupa-Field": [],
+    "NE-DATE-7": [],
+    "NE-DATE-last-September": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-seafloor-6-pipe-7-line-8": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-meter-10": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-loading-12-tower-13": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-processing-15-ship-16": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-system-3": [],
+    "NE-ORGANIZATION-Presidente-Prudente-Moraes": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-provisional-2": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-remaining-22": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-holdovers-2": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-208-7-ton-9-12-11-m-13-dia-15": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-combined-4": [],
+    "NE-TITLE-marine": [],
+    "NE-ORGANIZATION-Star-Hercules": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-platform-19": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-readied-21": [],
+    "NE-PERSON-Garoupa": [],
+    "c2834789-0a59-4f09-86f9-adf81755e9d3-permanent-18-platform-19": []
+  }
+}

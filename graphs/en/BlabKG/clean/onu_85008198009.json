@@ -1,0 +1,462 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85008198009.txt",
+  "entities": {
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-use-2": "use",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-areas-12": "areas",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-11": "coastal",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-9": "sources",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-4-isotopes-5": "zinc isotopes",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-anthropogenic-8": "anthropogenic",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-lagoon-33": "lagoon",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-activities-38": "activities",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-estuarine-32": "estuarine",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-metallurgic-37": "metallurgic",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-We-1": "We",
+    "NE-ORGANIZATION-SPM": "SPM",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6": "composition",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5": "isotopic",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-8": "zinc",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11": "sediment cores",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-stable-4": "stable",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-signatures-3": "signatures",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-those-7": "those",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-willemite-9": "willemite",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-compared-5": "compared",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-ore-10": "ore",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-aim-2": "aim",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-system-9": "system",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13": "sources",
+    "NE-TITLE-tracer": "tracer",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-18": "zinc",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-test-5": "test",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-evolution-26": "evolution",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-28-contamination-29": "zinc contamination",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-to-4": "to",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-temporal-23": "temporal",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sinks-15": "sinks",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-2-compositions-4": "zinc compositions",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21": "variations",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-significant-20": "significant",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-analysis-4": "analysis",
+    "NE-TITLE-model": "model",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Spatial-1": "Spatial",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mixing-14": "mixing",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-correlation-10-factors-16": "correlation factors",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20": "preservation",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-high-9": "high",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-good-19": "good",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-29": "sources",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-records-24": "records",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-natural-26": "natural",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Sediment-1-cores-2": "Sediment cores",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mud-6-flats-7": "mud flats",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-2-core-3": "sediment core",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mangrove-7-wetland-8": "mangrove wetland",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zone-12": "zone",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-located-9": "located",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-20": "zinc",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-26-dry-27-weight-28": "sediment dry weight",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-component-3-contributions-7": "component contributions",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-two-2-component-3": "two component",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Zn-5-isotope-6-compositions-7": "Zn isotope compositions",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-15": "sources",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-tracers-12": "tracers",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-reliable-11": "reliable",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediments-9": "sediments",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-environmental-25-monitoring-26-efforts-27": "environmental monitoring efforts",
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-29-systems-30": "coastal systems"
+  },
+  "graph": [
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-use-2",
+      "relation": "trace sources in",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-areas-12"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-areas-12",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-9",
+      "relation": "use of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-4-isotopes-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-9",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-anthropogenic-8"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-use-2",
+      "relation": "trace",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-9"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-lagoon-33",
+      "relation": "heavily impacted by",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-activities-38"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-lagoon-33",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-estuarine-32"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-activities-38",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-metallurgic-37"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-We-1",
+      "relation": "determined",
+      "object_id": "NE-ORGANIZATION-SPM"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-We-1",
+      "relation": "determined",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-lagoon-33",
+      "relation": "impacted by",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-activities-38"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-8"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6",
+      "relation": "is in",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-8",
+      "relation": "of composition is",
+      "object_id": "NE-ORGANIZATION-SPM"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11",
+      "relation": "in composition is",
+      "object_id": "NE-ORGANIZATION-SPM"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-stable-4"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-signatures-3",
+      "relation": "were compared with",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-those-7"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-those-7",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-willemite-9"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-signatures-3",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-signatures-3",
+      "relation": "were",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-compared-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-those-7",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-ore-10"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-aim-2",
+      "relation": "was test",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-system-9"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-system-9",
+      "relation": "identify",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-system-9",
+      "relation": "of",
+      "object_id": "NE-TITLE-tracer"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-18"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-aim-2",
+      "relation": "was",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-test-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13",
+      "relation": "reconstruct",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-evolution-26"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-evolution-26",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-28-contamination-29"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-test-5",
+      "relation": "mark",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-to-4"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-evolution-26",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-temporal-23"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13",
+      "relation": "reconstruct",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sinks-15"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-anthropogenic-8"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-2-compositions-4",
+      "relation": "showed",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-2-compositions-4",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21",
+      "relation": "is in",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-significant-20"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-analysis-4",
+      "relation": "fit in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-analysis-4",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Spatial-1"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mixing-14"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-analysis-4",
+      "relation": "fit well in",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-correlation-10-factors-16",
+      "relation": "suggesting",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-correlation-10-factors-16",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-high-9"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-good-19"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-29"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20",
+      "relation": "of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-records-24"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-natural-26"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Sediment-1-cores-2",
+      "relation": "collected in",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mud-6-flats-7"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-2-core-3",
+      "relation": "sampled from",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mangrove-7-wetland-8"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mangrove-7-wetland-8",
+      "relation": "at",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zone-12"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mangrove-7-wetland-8",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-located-9"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-20",
+      "relation": "of levels is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-26-dry-27-weight-28"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-component-3-contributions-7",
+      "relation": "mixing",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-component-3-contributions-7",
+      "relation": "amount to",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-two-2-component-3"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-two-2-component-3",
+      "relation": "mixing",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Zn-5-isotope-6-compositions-7",
+      "relation": "are tracers of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-15"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Zn-5-isotope-6-compositions-7",
+      "relation": "are",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-tracers-12"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-tracers-12",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-reliable-11"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Zn-5-isotope-6-compositions-7",
+      "relation": "are reliable tracers of",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-15"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediments-9",
+      "relation": "compositions of are",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-tracers-12"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-environmental-25-monitoring-26-efforts-27",
+      "relation": "is in",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-29-systems-30"
+    },
+    {
+      "subject_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-15",
+      "relation": "is",
+      "object_id": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-anthropogenic-8"
+    }
+  ],
+  "links": {
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-use-2": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-areas-12": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-11": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-4-isotopes-5": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-anthropogenic-8": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-lagoon-33": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-activities-38": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-estuarine-32": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-metallurgic-37": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-We-1": [],
+    "NE-ORGANIZATION-SPM": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-composition-6": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-isotopic-5": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-8": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-10-cores-11": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-stable-4": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-signatures-3": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-those-7": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-willemite-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-compared-5": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-ore-10": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-aim-2": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-system-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-13": [],
+    "NE-TITLE-tracer": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-18": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-test-5": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-evolution-26": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-28-contamination-29": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-to-4": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-temporal-23": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sinks-15": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-2-compositions-4": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-variations-21": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-significant-20": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-analysis-4": [],
+    "NE-TITLE-model": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Spatial-1": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mixing-14": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-correlation-10-factors-16": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-preservation-20": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-high-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-good-19": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-29": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-records-24": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-natural-26": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Sediment-1-cores-2": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mud-6-flats-7": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-2-core-3": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-mangrove-7-wetland-8": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zone-12": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-located-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-zinc-20": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediment-26-dry-27-weight-28": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-component-3-contributions-7": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-two-2-component-3": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Zn-5-isotope-6-compositions-7": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sources-15": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-tracers-12": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-reliable-11": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-sediments-9": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-environmental-25-monitoring-26-efforts-27": [],
+    "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-29-systems-30": []
+  }
+}

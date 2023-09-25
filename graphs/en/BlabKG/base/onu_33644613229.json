@@ -1,0 +1,233 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33644613229.txt",
+  "entities": {
+    "20e89570-d632-400e-b304-ad0e644f1a32-signs-15": "signs",
+    "20e89570-d632-400e-b304-ad0e644f1a32-development-6": "development",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "20e89570-d632-400e-b304-ad0e644f1a32-oil-11-resources-12": "oil resources",
+    "20e89570-d632-400e-b304-ad0e644f1a32-pace-3": "pace",
+    "20e89570-d632-400e-b304-ad0e644f1a32-few-14": "few",
+    "20e89570-d632-400e-b304-ad0e644f1a32-offshore-10-oil-11-resources-12": "offshore oil resources",
+    "20e89570-d632-400e-b304-ad0e644f1a32-slowing-17": "slowing",
+    "20e89570-d632-400e-b304-ad0e644f1a32-fast-2": "fast",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "20e89570-d632-400e-b304-ad0e644f1a32-prices-33": "prices",
+    "20e89570-d632-400e-b304-ad0e644f1a32-cost-57": "cost",
+    "20e89570-d632-400e-b304-ad0e644f1a32-local-59": "local",
+    "20e89570-d632-400e-b304-ad0e644f1a32-appreciation-48": "appreciation",
+    "20e89570-d632-400e-b304-ad0e644f1a32-soaring-32": "soaring",
+    "20e89570-d632-400e-b304-ad0e644f1a32-real-52": "real",
+    "20e89570-d632-400e-b304-ad0e644f1a32-real-56": "real",
+    "20e89570-d632-400e-b304-ad0e644f1a32-firm-10": "firm",
+    "20e89570-d632-400e-b304-ad0e644f1a32-increase-16": "increase",
+    "20e89570-d632-400e-b304-ad0e644f1a32-budget-20": "budget",
+    "NE-PERCENT-63%": "63 %",
+    "20e89570-d632-400e-b304-ad0e644f1a32-services-60": "services",
+    "20e89570-d632-400e-b304-ad0e644f1a32-steel-35": "steel",
+    "20e89570-d632-400e-b304-ad0e644f1a32-upstream-19": "upstream",
+    "20e89570-d632-400e-b304-ad0e644f1a32-its-18-upstream-19-budget-20": "its upstream budget",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "20e89570-d632-400e-b304-ad0e644f1a32-pace-5": "pace",
+    "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7": "major projects",
+    "20e89570-d632-400e-b304-ad0e644f1a32-gas-60-demand-61": "gas demand",
+    "20e89570-d632-400e-b304-ad0e644f1a32-three-5": "three",
+    "20e89570-d632-400e-b304-ad0e644f1a32-risers-54": "risers",
+    "20e89570-d632-400e-b304-ad0e644f1a32-domestic-59": "domestic"
+  },
+  "graph": [
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-signs-15",
+      "relation": "fast pace of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-development-6"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-development-6"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-development-6",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-oil-11-resources-12"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-pace-3",
+      "relation": "show down",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-signs-15"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-signs-15",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-few-14"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-signs-15",
+      "relation": "pace of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-development-6"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-development-6",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-offshore-10-oil-11-resources-12"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-signs-15",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-slowing-17"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-offshore-10-oil-11-resources-12"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-pace-3",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-fast-2"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "accommodate",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-prices-33"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-prices-33",
+      "relation": "raised",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-cost-57"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-cost-57",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-local-59"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-prices-33",
+      "relation": "raised cost as",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-appreciation-48"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-prices-33",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-soaring-32"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-appreciation-48",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-real-52"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-cost-57",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-real-56"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-firm-10",
+      "relation": "announce",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "has",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-budget-20"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16",
+      "relation": "of",
+      "object_id": "NE-PERCENT-63%"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-cost-57",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-services-60"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-prices-33",
+      "relation": "of",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-steel-35"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-upstream-19"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-increase-16",
+      "relation": "is in",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-its-18-upstream-19-budget-20"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-appreciation-48",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-pace-5",
+      "relation": "forced",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-firm-10"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7",
+      "relation": "forecast on",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-gas-60-demand-61"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7",
+      "relation": "amount to",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-three-5"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7",
+      "relation": "designs for",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-risers-54"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-gas-60-demand-61",
+      "relation": "is",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-domestic-59"
+    },
+    {
+      "subject_id": "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7",
+      "relation": "new designs for",
+      "object_id": "20e89570-d632-400e-b304-ad0e644f1a32-risers-54"
+    }
+  ],
+  "links": {
+    "20e89570-d632-400e-b304-ad0e644f1a32-signs-15": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-development-6": [],
+    "NE-COUNTRY-Brazil": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-oil-11-resources-12": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-pace-3": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-few-14": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-offshore-10-oil-11-resources-12": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-slowing-17": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-fast-2": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-prices-33": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-cost-57": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-local-59": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-appreciation-48": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-soaring-32": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-real-52": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-real-56": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-firm-10": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-increase-16": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-budget-20": [],
+    "NE-PERCENT-63%": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-services-60": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-steel-35": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-upstream-19": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-its-18-upstream-19-budget-20": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-pace-5": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-major-6-projects-7": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-gas-60-demand-61": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-three-5": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-risers-54": [],
+    "20e89570-d632-400e-b304-ad0e644f1a32-domestic-59": []
+  }
+}

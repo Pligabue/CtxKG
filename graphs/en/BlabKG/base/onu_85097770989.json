@@ -1,0 +1,302 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097770989.txt",
+  "entities": {
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Meteorological-1-data-2": "Meteorological data",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-5": "ocean",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-using-4": "using",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-addition-2": "addition",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-information-7": "information",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-valuable-6": "valuable",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-4-buoy-5-data-6": "ocean buoy data",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8": "obtained",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Navy-12": "Navy",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-coast-20": "coast",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Brazilian-11": "Brazilian",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-monitoring-15-network-16": "monitoring network",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-study-7": "study",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13": "behavior",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-15-speed-16": "wind speed",
+    "NE-LOCATION-South-Atlantic-Ocean": "South Atlantic Ocean",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-order-34-to-35-determine-36": "order to determine",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-context-3": "context",
+    "NE-DATE-present": "present",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-scaling-12": "scaling",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-fluctuation-7-analysis-8-technique-9": "fluctuation analysis technique",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Weather-15-Research-16": "Weather Research",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-detrended-6": "detrended",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-used-22": "used",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-purpose-3": "purpose",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-47-power-48-generation-49": "wind power generation",
+    "NE-LOCATION-Africa": "Africa",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-14": "behavior",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-data-2": "data",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-subdiffusive-13": "subdiffusive",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-findings-2": "findings",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5": "understanding",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16": "particular",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16-attention-17": "particular attention",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-deeper-4": "deeper",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21-shelf-22": "continental shelf",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21": "continental",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-attention-17": "attention",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-8-regime-9": "wind regime",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-shelf-22": "shelf",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-methodology-27": "methodology",
+    "2cc98001-f232-4675-9305-a2fed963fe2c-useful-29": "useful"
+  },
+  "graph": [
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Meteorological-1-data-2",
+      "relation": "collected",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-5"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-5",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-using-4"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Meteorological-1-data-2",
+      "relation": "provide information In",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-addition-2"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Meteorological-1-data-2",
+      "relation": "provide",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-information-7"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-information-7",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-valuable-6"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-4-buoy-5-data-6",
+      "relation": "are",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8",
+      "relation": "by",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Navy-12"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-coast-20"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-4-buoy-5-data-6",
+      "relation": "are obtained by",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Navy-12"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Navy-12",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Brazilian-11"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8",
+      "relation": "at",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-monitoring-15-network-16"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+      "relation": "analyze",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-wind-15-speed-16"
+    },
+    {
+      "subject_id": "NE-LOCATION-South-Atlantic-Ocean",
+      "relation": "is in",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-order-34-to-35-determine-36"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-coast-20"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+      "relation": "aimed In",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-context-3"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-study-7",
+      "relation": "is",
+      "object_id": "NE-DATE-present"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-scaling-12"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-fluctuation-7-analysis-8-technique-9",
+      "relation": "is with",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-Weather-15-Research-16"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-fluctuation-7-analysis-8-technique-9",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-detrended-6"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-fluctuation-7-analysis-8-technique-9",
+      "relation": "were",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-used-22"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-used-22",
+      "relation": "case",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-purpose-3"
+    },
+    {
+      "subject_id": "NE-LOCATION-South-Atlantic-Ocean",
+      "relation": "influence on",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-wind-47-power-48-generation-49"
+    },
+    {
+      "subject_id": "NE-LOCATION-Africa",
+      "relation": "showed",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-14"
+    },
+    {
+      "subject_id": "NE-LOCATION-Africa",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-data-2"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-14",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-subdiffusive-13"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-findings-2",
+      "relation": "support",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "is with",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16-attention-17"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-deeper-4"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16-attention-17",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16-attention-17",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21-shelf-22"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-attention-17"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-wind-8-regime-9"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5",
+      "relation": "of",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-shelf-22"
+    },
+    {
+      "subject_id": "2cc98001-f232-4675-9305-a2fed963fe2c-methodology-27",
+      "relation": "is",
+      "object_id": "2cc98001-f232-4675-9305-a2fed963fe2c-useful-29"
+    }
+  ],
+  "links": {
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Meteorological-1-data-2": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-5": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-using-4": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-addition-2": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-information-7": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-valuable-6": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-ocean-4-buoy-5-data-6": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-obtained-8": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Navy-12": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-coast-20": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Brazilian-11": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-monitoring-15-network-16": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-study-7": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-13": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-15-speed-16": [],
+    "NE-LOCATION-South-Atlantic-Ocean": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-order-34-to-35-determine-36": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-context-3": [],
+    "NE-DATE-present": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-scaling-12": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-fluctuation-7-analysis-8-technique-9": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-Weather-15-Research-16": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-detrended-6": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-used-22": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-purpose-3": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-47-power-48-generation-49": [],
+    "NE-LOCATION-Africa": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-behavior-14": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-data-2": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-subdiffusive-13": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-findings-2": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-understanding-5": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-particular-16-attention-17": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-deeper-4": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21-shelf-22": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-attention-17": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-wind-8-regime-9": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-shelf-22": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-methodology-27": [],
+    "2cc98001-f232-4675-9305-a2fed963fe2c-useful-29": []
+  }
+}

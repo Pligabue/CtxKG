@@ -1,0 +1,823 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85096519364.txt",
+  "entities": {
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5": "nearshore deposits",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19": "reservoirs",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-3": "dominated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-continuous-12": "continuous",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sheet-16-like-18": "sheet like",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-laterally-10": "laterally",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-homogeneous-14": "homogeneous",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regarded-8": "regarded",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-commonly-7": "commonly",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-2": "reservoirs",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-complexity-9": "complexity",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Many-1": "Many",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-internal-8": "internal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6": "nearshore environments",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-variable-9": "variable",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13": "effects",
+    "NE-MISC-Modern": "Modern",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-allogenic-15": "allogenic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-processes-18": "processes",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-extremely-8": "extremely",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-4": "dominated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-2-level-4-change-5": "sea level change",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11": "has indicated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Relative-1": "Relative",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-20": "sand",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-24": "systems",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22": "Quaternary",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-key-13": "key",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-controlling-14": "controlling",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-distribution-18": "distribution",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-23": "coastal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-factors-15": "factors",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22-coastal-23-systems-24-worldwide-25": "Quaternary coastal systems worldwide",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4": "we",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8": "data",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-3D-6": "3D",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphology-12": "geomorphology",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paper-3": "paper",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-29-margin-31-clinoforms-32": "shelf margin clinoforms",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-7": "seismic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-21-coastal-22-deposits-23": "dominated coastal deposits",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-two-25-stratigraphic-26-intervals-27": "two stratigraphic intervals",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-comparison-6": "comparison",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-modern-8-analogues-9": "modern analogues",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attributes-4": "attributes",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-applying-2": "applying",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paleoenvironments-13": "paleoenvironments",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-log-20-motifs-21": "log motifs",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-25-margin-27-trajectories-28": "shelf margin trajectories",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3": "seismic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-well-18": "well",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-deposits-6": "nearshore deposits",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-11": "data",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-10": "seismic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Eocene-17-interval-18": "Eocene interval",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24": "topset reflectors",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-27": "forced",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-32": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-28": "regressions",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-25": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-partially-20": "partially",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-eroded-22": "eroded",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5": "elements",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-grouped-7": "grouped",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphic-4": "geomorphic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-2": "seismic",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-24": "nearshore",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associations-9": "associations",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-11": "strandplains",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Nearshore-1": "Nearshore",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Strandplains-1": "Strandplains",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4": "sub-horizontal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-ascending-6": "ascending",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12": "strandplains",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-wider-11": "wider",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-where-10": "where",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17": "trajectories",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-clinoform-8-trajectories-9": "clinoform trajectories",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-16": "sub-horizontal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-7": "regressive",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-related-3": "related",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-erosion-2": "erosion",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-10": "trajectories",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-12": "forced",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-barrier-16-islands-17": "barrier islands",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-descending-9": "descending",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trends-26": "trends",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-13": "regressions",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-transgressive-25": "transgressive",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2": "trajectories",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5": "systems",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-high-7-mud-8-content-9": "high mud content",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-4": "coastal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-mud-8-content-9": "mud content",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Transgressive-1": "Transgressive",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-21": "regressions",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-27": "systems",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strike-15": "strike",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-24-rich-26": "sand rich",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-20": "forced",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attractive-3-reservoirs-4": "attractive reservoirs",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11": "intervals",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-6": "associated",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-18-level-19-rise-20": "sea level rise",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-low-13": "low",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-relative-16": "relative",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-10": "regressive",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-normal-8": "normal",
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-rates-14": "rates"
+  },
+  "graph": [
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5",
+      "relation": "are regarded as",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5",
+      "relation": "are commonly regarded as",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-3"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-continuous-12"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sheet-16-like-18"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-laterally-10"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-homogeneous-14"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regarded-8"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regarded-8",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-commonly-7"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-2",
+      "relation": "have",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-complexity-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-2",
+      "relation": "however have",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-complexity-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-2",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Many-1"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-complexity-9",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-internal-8"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-variable-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6",
+      "relation": "are variable due",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6",
+      "relation": "is",
+      "object_id": "NE-MISC-Modern"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-allogenic-15"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-processes-18"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-variable-9",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-extremely-8"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6",
+      "relation": "are extremely variable due",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-4"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-2-level-4-change-5",
+      "relation": "has",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-2-level-4-change-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Relative-1"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-20"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-24"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-key-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-controlling-14"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-distribution-18"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-23"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-factors-15"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22-coastal-23-systems-24-worldwide-25"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-distribution-18",
+      "relation": "is in",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22-coastal-23-systems-24-worldwide-25"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "use",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-3D-6"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8",
+      "relation": "describe",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphology-12"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "use data In",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paper-3"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-29-margin-31-clinoforms-32",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Basin"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is in",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-7"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-21-coastal-22-deposits-23",
+      "relation": "is in",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-two-25-stratigraphic-26-intervals-27"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-two-25-stratigraphic-26-intervals-27",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-29-margin-31-clinoforms-32"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-comparison-6",
+      "relation": "is with",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-modern-8-analogues-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "interpret paleoenvironments By",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attributes-4"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attributes-4",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-applying-2"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "interpret",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paleoenvironments-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "correlate paleoenvironments with",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-log-20-motifs-21"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-log-20-motifs-21",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-25-margin-27-trajectories-28"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attributes-4",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-log-20-motifs-21",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-well-18"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4",
+      "relation": "correlate",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paleoenvironments-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-deposits-6",
+      "relation": "appear in",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-11"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-10"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Eocene-17-interval-18",
+      "relation": "depicts",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-27"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-32"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-28"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-25"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-partially-20"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-eroded-22"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "were",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-grouped-7"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphic-4"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-2"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "partially eroded",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-24"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "were grouped in",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associations-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associations-9",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-11"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "eroded",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-24"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Nearshore-1"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Strandplains-1",
+      "relation": "are related",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-ascending-6"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-wider-11"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-where-10"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12",
+      "relation": "are associated with",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-clinoform-8-trajectories-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-16"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-7"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Strandplains-1",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-related-3"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-erosion-2",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-10"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-12"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-barrier-16-islands-17",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-erosion-2",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Nearshore-1"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-descending-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trends-26"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7",
+      "relation": "at",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-transgressive-25"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2",
+      "relation": "generated",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-high-7-mud-8-content-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5",
+      "relation": "is with",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-high-7-mud-8-content-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-4"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-mud-8-content-9"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Transgressive-1"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-21",
+      "relation": "resulted in",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-27"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strike-15"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-27",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-24-rich-26"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-21",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-20"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attractive-3-reservoirs-4",
+      "relation": "are associated with",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attractive-3-reservoirs-4",
+      "relation": "are",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-6"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-18-level-19-rise-20"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-low-13"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-relative-16"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-10"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "is",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-normal-8"
+    },
+    {
+      "subject_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11",
+      "relation": "of",
+      "object_id": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-rates-14"
+    }
+  ],
+  "links": {
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-deposits-6"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-19": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-3": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-4"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-continuous-12": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sheet-16-like-18": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-laterally-10": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-homogeneous-14": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regarded-8": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-commonly-7": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-reservoirs-2": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-complexity-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Many-1": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-internal-8": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-environments-6": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-variable-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-effects-13": [],
+    "NE-MISC-Modern": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-allogenic-15": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-processes-18": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-extremely-8": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-4": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-3"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-2-level-4-change-5": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-has-9-indicated-11": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Relative-1": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-20": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-24": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-key-13": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-controlling-14": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-distribution-18": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-23": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-factors-15": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Quaternary-22-coastal-23-systems-24-worldwide-25": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-we-4": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-8": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-3D-6": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphology-12": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paper-3": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-29-margin-31-clinoforms-32": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-7": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-10"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-dominated-21-coastal-22-deposits-23": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-two-25-stratigraphic-26-intervals-27": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-comparison-6": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-modern-8-analogues-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attributes-4": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-applying-2": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-paleoenvironments-13": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-log-20-motifs-21": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-shelf-25-margin-27-trajectories-28": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-2"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-well-18": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-5-deposits-6": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-4-deposits-5"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-data-11": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-10": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-7"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Eocene-17-interval-18": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-topset-23-reflectors-24": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-27": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-32": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-25"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-28": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-13"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-25": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-32"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-partially-20": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-eroded-22": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-elements-5": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-grouped-7": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-geomorphic-4": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-2": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-nearshore-24": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associations-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-11": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Nearshore-1": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Strandplains-1": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-16"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-ascending-6": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-12": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strandplains-11",
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Strandplains-1"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-wider-11": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-where-10": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-10",
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-clinoform-8-trajectories-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-16": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sub-horizontal-4"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-7": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-10"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-related-3": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-erosion-2": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-7": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-10": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17",
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-12": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-barrier-16-islands-17": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-23": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-14"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-descending-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trends-26": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-13": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-28"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-transgressive-25": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Transgressive-1"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-2": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-17",
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-trajectories-10"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-5": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-high-7-mud-8-content-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-coastal-4": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-mud-8-content-9": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-Transgressive-1": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-transgressive-25"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressions-21": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-systems-27": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-strike-15": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sand-24-rich-26": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-forced-20": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-attractive-3-reservoirs-4": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-intervals-11": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-associated-6": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-sea-18-level-19-rise-20": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-low-13": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-relative-16": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-10": [
+      "5a2f629b-1203-4cbb-b64b-da1c5525ea55-regressive-7"
+    ],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-normal-8": [],
+    "5a2f629b-1203-4cbb-b64b-da1c5525ea55-rates-14": []
+  }
+}

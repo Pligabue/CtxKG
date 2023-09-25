@@ -1,0 +1,136 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85040888184.txt",
+  "entities": {
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-trend-2": "trend",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-subsea-4-completions-5": "subsea completions",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-reviewed-8": "reviewed",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5": "systems",
+    "NE-DATE-1987": "1987",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-53-4": "53",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installed-7": "installed",
+    "NE-LOCATION-North-Sea": "North Sea",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10": "areas",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-active-9": "active",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-most-8": "most",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-lead-18": "lead",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installations-24": "installations",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-Prospects-1": "Prospects",
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-considered-9": "considered"
+  },
+  "graph": [
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-trend-2",
+      "relation": "is in",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-subsea-4-completions-5"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-trend-2",
+      "relation": "is",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-reviewed-8"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5",
+      "relation": "were installed In",
+      "object_id": "NE-DATE-1987"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5",
+      "relation": "amount to",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-53-4"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5",
+      "relation": "were",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installed-7"
+    },
+    {
+      "subject_id": "NE-LOCATION-North-Sea",
+      "relation": "are",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "are areas with",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10",
+      "relation": "is",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-active-9"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "are",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10",
+      "relation": "at",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-most-8"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10",
+      "relation": "at",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "NE-LOCATION-North-Sea",
+      "relation": "of",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-lead-18"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "are active areas with",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "are most active areas with",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10",
+      "relation": "is with",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "NE-LOCATION-North-Sea",
+      "relation": "is in",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-lead-18"
+    },
+    {
+      "subject_id": "NE-LOCATION-North-Sea",
+      "relation": "is with",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installations-24"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installations-24",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1987"
+    },
+    {
+      "subject_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-Prospects-1",
+      "relation": "are",
+      "object_id": "dc91afd4-7f4f-4273-97d8-fa5739754d4a-considered-9"
+    }
+  ],
+  "links": {
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-trend-2": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-subsea-4-completions-5": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-reviewed-8": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-systems-5": [],
+    "NE-DATE-1987": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-53-4": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installed-7": [],
+    "NE-LOCATION-North-Sea": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-areas-10": [],
+    "NE-COUNTRY-Brazil": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-active-9": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-most-8": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-lead-18": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-installations-24": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-Prospects-1": [],
+    "dc91afd4-7f4f-4273-97d8-fa5739754d4a-considered-9": []
+  }
+}

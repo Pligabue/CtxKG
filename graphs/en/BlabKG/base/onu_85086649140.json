@@ -1,0 +1,298 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086649140.txt",
+  "entities": {
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-12": "translation",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-rare-14": "rare",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11": "downstream",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-7": "translation",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-water-16-provinces-20": "water provinces",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-6": "downstream",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-common-12": "common",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-deep-14": "deep",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-tectonic-19": "salt tectonic",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11-translation-12": "downstream translation",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-proposed-3": "proposed",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-here-4": "here",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-topography-24": "topography",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-27-pathways-28": "channel pathways",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-complex-23": "complex",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6": "evolution",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-interpreted-8": "interpreted",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-meander-11-cutoff-13-development-14": "meander cutoff development",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-combined-2": "combined",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-followed-19": "followed",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-structural-3": "structural",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-diapir-18": "salt diapir",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3": "evolution",
+    "NE-TITLE-model": "model",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-2": "stratigraphic",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-12": "channel",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-numerical-9": "numerical",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-simple-8": "simple",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-tested-5": "tested",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-meandering-13": "meandering",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-subsurface-3-characterization-4": "subsurface characterization",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13": "processes",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-integrated-2": "integrated",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-downstream-20-translation-21": "submarine channel downstream translation",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-modelling-7-study-8": "modelling study",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-6": "stratigraphic",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-light-10": "light",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-controls-15": "controls",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26": "might common",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-settings-30": "settings",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-translation-21": "submarine channel translation",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-rapidly-28": "rapidly",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-deforming-29": "deforming",
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-that-37": "that"
+  },
+  "graph": [
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-12",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-rare-14"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-12",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-7",
+      "relation": "be common in",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-water-16-provinces-20"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-7",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-6"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-7",
+      "relation": "be",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-common-12"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-water-16-provinces-20",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-deep-14"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-water-16-provinces-20",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-tectonic-19"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11-translation-12",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-proposed-3"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-proposed-3",
+      "relation": "at",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-here-4"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-topography-24",
+      "relation": "can localize",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-27-pathways-28"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-topography-24",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-complex-23"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-interpreted-8"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6",
+      "relation": "is interpreted including",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-meander-11-cutoff-13-development-14"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-combined-2"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-meander-11-cutoff-13-development-14",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-followed-19"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-structural-3"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-meander-11-cutoff-13-development-14",
+      "relation": "of",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-diapir-18"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3",
+      "relation": "is tested with",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-2"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-12"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-numerical-9"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-simple-8"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-tested-5"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-meandering-13"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-subsurface-3-characterization-4",
+      "relation": "sheds light on",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-subsurface-3-characterization-4",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-integrated-2"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13",
+      "relation": "of",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-downstream-20-translation-21"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-modelling-7-study-8",
+      "relation": "sheds light on",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-modelling-7-study-8",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-6"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-modelling-7-study-8",
+      "relation": "sheds",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-light-10"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-controls-15",
+      "relation": "might",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26",
+      "relation": "at",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-settings-30"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13",
+      "relation": "of",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-translation-21"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26",
+      "relation": "at",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-rapidly-28"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26",
+      "relation": "is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-deforming-29"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-subsurface-3-characterization-4",
+      "relation": "sheds",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-light-10"
+    },
+    {
+      "subject_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-downstream-20-translation-21",
+      "relation": "of processes is",
+      "object_id": "c9f847a3-c49c-4b1b-a35a-2782aa506380-that-37"
+    }
+  ],
+  "links": {
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-12": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-rare-14": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-6"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-translation-7": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-water-16-provinces-20": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-6": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-common-12": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-deep-14": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-tectonic-19": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-downstream-11-translation-12": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-proposed-3": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-here-4": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-topography-24": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-27-pathways-28": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-complex-23": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-interpreted-8": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-meander-11-cutoff-13-development-14": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-combined-2": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-followed-19": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-structural-3": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-salt-17-diapir-18": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-3": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-evolution-6"
+    ],
+    "NE-TITLE-model": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-2": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-6"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-channel-12": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-numerical-9": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-simple-8": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-tested-5": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-meandering-13": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-subsurface-3-characterization-4": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-processes-13": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-integrated-2": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-downstream-20-translation-21": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-translation-21"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-modelling-7-study-8": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-6": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-stratigraphic-2"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-light-10": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-controls-15": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-might-24-common-26": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-settings-30": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-translation-21": [
+      "c9f847a3-c49c-4b1b-a35a-2782aa506380-submarine-17-channel-19-downstream-20-translation-21"
+    ],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-rapidly-28": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-deforming-29": [],
+    "c9f847a3-c49c-4b1b-a35a-2782aa506380-that-37": []
+  }
+}

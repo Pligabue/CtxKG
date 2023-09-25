@@ -1,0 +1,498 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897465328.txt",
+  "entities": {
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Oil-2-industry-5": "Oil industry",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10": "solutions",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-order-12": "order",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-innovative-9": "innovative",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-new-15-fields-16": "new fields",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-deep-18-water-20-remote-22-areas-23": "deep water remote areas",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3": "Subsea separation solutions",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-production-5": "production",
+    "NE-ORGANIZATION-SAIPEM": "SAIPEM",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8": "subsea separation systems",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-several-5": "several",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-parallel-14": "parallel",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-pipes-11": "pipes",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-working-12": "working",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-made-9": "made",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-design-6": "design",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-technology-3": "technology",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-tests-3": "qualification tests",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-undertaken-5": "undertaken",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Extensive-1": "Extensive",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2": "separators",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-suited-18": "suited",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-reduced-4-wall-5-thicknesses-6": "reduced wall thicknesses",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-especially-16": "especially",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13": "diameter vessels",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-large-11": "large",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-single-10": "single",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-water-21": "water",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-well-17": "well",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-manufacturing-16-procedures-19": "manufacturing procedures",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-standard-15": "standard",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-3": "solutions",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-gravity-10-separation-11": "gravity separation",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Moreover-1-reliable-5": "Moreover reliable",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-gas-2-liquid-4-Multipipe-5-separator-6": "gas liquid Multipipe separator",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9": "has qualified",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20": "tests",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-real-22-crude-23": "real crude",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-including-15-JIP-18": "including JIP",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-crude-23": "crude",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-several-11": "several",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-test-12-campaigns-13": "test campaigns",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-JIP-18": "JIP",
+    "NE-ORDINAL-first": "first",
+    "NE-DATE-early-2013": "early 2013",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-second-2-JIP-3": "second JIP",
+    "NE-ORGANIZATION-ENI": "ENI",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5": "qualification",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Total-7-and-8": "Total and",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-9-station-10": "subsea station",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13": "performance",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-flow-16-performance-17-tests-18": "flow performance tests",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-additional-15": "additional",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-whole-8": "whole",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-actions-3": "qualification actions",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8": "have identified",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-pressure-15-application-16-cases-17": "pressure application cases",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-view-10": "view",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-recent-13": "recent",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Further-1": "Further",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-high-14": "high",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-paper-2": "paper",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-results-5": "results",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-9-tests-10": "qualification tests",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-separation-12-performance-13": "separation performance",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-tests-33": "tests",
+    "7e19d608-90b6-4fc3-afea-623202a7f587-real-35-crude-36": "real crude"
+  },
+  "graph": [
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Oil-2-industry-5",
+      "relation": "is currently investigating",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10",
+      "relation": "is in",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-order-12"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-innovative-9"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-new-15-fields-16",
+      "relation": "is in",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-deep-18-water-20-remote-22-areas-23"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Oil-2-industry-5",
+      "relation": "is investigating",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3",
+      "relation": "enhance",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-production-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-SAIPEM",
+      "relation": "is developing",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-SAIPEM",
+      "relation": "is currently developing",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-several-5"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-parallel-14"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-pipes-11"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-working-12"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-made-9"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-design-6",
+      "relation": "is relying For",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-technology-3"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-tests-3",
+      "relation": "were",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-undertaken-5"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-tests-3",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Extensive-1"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-suited-18"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "is with",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-reduced-4-wall-5-thicknesses-6"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-suited-18",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-especially-16"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are suited compared",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-large-11"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are especially well suited compared",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-single-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are especially suited compared",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are well suited to",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-water-21"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are suited to",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-water-21"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are well suited compared",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2",
+      "relation": "are especially suited to",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-water-21"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-suited-18",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-well-17"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3",
+      "relation": "allow for",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-manufacturing-16-procedures-19"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-manufacturing-16-procedures-19",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-standard-15"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-3",
+      "relation": "Moreover are reliable",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-gravity-10-separation-11"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-3",
+      "relation": "are reliable",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3",
+      "relation": "rely on",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-gravity-10-separation-11"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-3",
+      "relation": "are",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Moreover-1-reliable-5"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-gas-2-liquid-4-Multipipe-5-separator-6",
+      "relation": "has",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20",
+      "relation": "is with",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-real-22-crude-23"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-including-15-JIP-18"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-crude-23"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-real-22-crude-23"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-several-11"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-test-12-campaigns-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-JIP-18",
+      "relation": "is with",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-JIP-18",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-JIP-18"
+    },
+    {
+      "subject_id": "NE-DATE-early-2013",
+      "relation": "second JIP with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-DATE-early-2013",
+      "relation": "JIP with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-second-2-JIP-3",
+      "relation": "is with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ENI",
+      "relation": "has covered",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ENI",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-ENI",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Total-7-and-8"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-9-station-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5",
+      "relation": "has",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-flow-16-performance-17-tests-18"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-additional-15"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-whole-8"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-actions-3",
+      "relation": "have",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-pressure-15-application-16-cases-17"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+      "relation": "at",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-view-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-recent-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-actions-3",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-Further-1"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8",
+      "relation": "is",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-high-14"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-paper-2",
+      "relation": "presents",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-results-5"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-results-5",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-9-tests-10"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-results-5",
+      "relation": "of",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-separation-12-performance-13"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-tests-33",
+      "relation": "is with",
+      "object_id": "7e19d608-90b6-4fc3-afea-623202a7f587-real-35-crude-36"
+    },
+    {
+      "subject_id": "7e19d608-90b6-4fc3-afea-623202a7f587-results-5",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    }
+  ],
+  "links": {
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Oil-2-industry-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-10": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-order-12": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-innovative-9": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-new-15-fields-16": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-deep-18-water-20-remote-22-areas-23": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3": [
+      "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8"
+    ],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-production-5": [],
+    "NE-ORGANIZATION-SAIPEM": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-6-separation-7-systems-8": [
+      "7e19d608-90b6-4fc3-afea-623202a7f587-Subsea-1-separation-2-solutions-3"
+    ],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-several-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-parallel-14": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-pipes-11": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-working-12": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-made-9": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-design-6": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-technology-3": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-tests-3": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-undertaken-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Extensive-1": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-separators-2": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-suited-18": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-reduced-4-wall-5-thicknesses-6": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-especially-16": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-diameter-12-vessels-13": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-large-11": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-single-10": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-water-21": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-well-17": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-manufacturing-16-procedures-19": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-standard-15": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-solutions-3": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-gravity-10-separation-11": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Moreover-1-reliable-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-gas-2-liquid-4-Multipipe-5-separator-6": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-has-7-qualified-9": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-tests-20": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-real-22-crude-23": [
+      "7e19d608-90b6-4fc3-afea-623202a7f587-real-35-crude-36"
+    ],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-including-15-JIP-18": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-crude-23": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-several-11": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-test-12-campaigns-13": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-JIP-18": [],
+    "NE-ORDINAL-first": [],
+    "NE-DATE-early-2013": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-second-2-JIP-3": [],
+    "NE-ORGANIZATION-ENI": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Total-7-and-8": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-subsea-9-station-10": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-performance-13": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-flow-16-performance-17-tests-18": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-additional-15": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-whole-8": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-2-actions-3": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-have-6-identified-8": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-pressure-15-application-16-cases-17": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-view-10": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-recent-13": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-Further-1": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-high-14": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-paper-2": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-results-5": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-qualification-9-tests-10": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-separation-12-performance-13": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-tests-33": [],
+    "7e19d608-90b6-4fc3-afea-623202a7f587-real-35-crude-36": [
+      "7e19d608-90b6-4fc3-afea-623202a7f587-real-22-crude-23"
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85056794099.txt",
+  "entities": {
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Aquaculture-1-production-2-is-3-growing-5": "Aquaculture production is growing",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-infancy-18": "infancy",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-still-15": "still",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-farming-2-conditions-3": "farming conditions",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-stress-7": "stress",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-physiological-6": "physiological",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-organism-11": "organism",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Intensive-1": "Intensive",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-cultured-10": "cultured",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-aim-2": "aim",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11": "effect",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-rearing-14-conditions-15": "rearing conditions",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17-blood-18-cells-19-of-20-juvenile-21-cobia-22-Rachycentron-23-canadum-24": "red blood cells of juvenile cobia Rachycentron canadum",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-blood-18-cells-19": "blood cells",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17": "red",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-juvenile-21": "juvenile",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-study-5": "study",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-genotoxic-10": "genotoxic",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-27-assay-28": "comet assay",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2": "cobia",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4": "reared",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Juvenile-1": "Juvenile",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-water-13-circulation-14": "water circulation",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10": "tank",
+    "NE-DURATION-13-weeks": "13 weeks",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-shore-18-cage-19": "shore cage",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-open-12": "open",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-indoor-9": "indoor",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-7-assay-8": "abnormalities assay",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17": "DNA damage frequency",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-6": "nuclear",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-higher-10": "higher",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-erythrocytes-19": "erythrocytes",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-2-assay-3": "comet assay",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-methods-5": "methods",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-complementary-7": "complementary",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-two-4": "two",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-ß-7-naphthoflavone-9": "ß naphthoflavone",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5": "injected",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-tanks-35": "tanks",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26": "conditions",
+    "NE-DURATION-7-days": "7 days",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-BNF-11": "BNF",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1": "Additionally",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14": "concentrations",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-controlled-25": "controlled",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-2mgkg-16-1-18": "2mgkg 1",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-separate-34": "separate",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-10": "breaks",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14": "strands",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-repairable-9": "repairable",
+    "NE-MISC-DNA": "DNA",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-18": "abnormalities",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-may-19-permanent-21": "may permanent",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-17": "nuclear",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2": "damages",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-6-assay-7": "comet assay",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-20": "breaks",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-23-strands-24": "DNA strands",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10": "elements",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5": "respond",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-well-7": "well",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-very-6": "very",
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-to-4": "to"
+  },
+  "graph": [
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-Aquaculture-1-production-2-is-3-growing-5",
+      "relation": "is in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-infancy-18"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-infancy-18",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-still-15"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-infancy-18"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-farming-2-conditions-3",
+      "relation": "may cause",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-stress-7"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-stress-7",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-physiological-6"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-farming-2-conditions-3",
+      "relation": "may cause stress to",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-organism-11"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-farming-2-conditions-3",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-Intensive-1"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-organism-11",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cultured-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-aim-2",
+      "relation": "was assess",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-rearing-14-conditions-15",
+      "relation": "is in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17-blood-18-cells-19-of-20-juvenile-21-cobia-22-Rachycentron-23-canadum-24"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "of",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-blood-18-cells-19"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-juvenile-21"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "of",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17-blood-18-cells-19-of-20-juvenile-21-cobia-22-Rachycentron-23-canadum-24"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "aim of",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-study-5"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-genotoxic-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11",
+      "relation": "of",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-rearing-14-conditions-15"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-aim-2",
+      "relation": "was assess effect by",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-27-assay-28"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-Juvenile-1"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were reared with",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-water-13-circulation-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-water-13-circulation-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were reared for",
+      "object_id": "NE-DURATION-13-weeks"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were reared in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-shore-18-cage-19"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-water-13-circulation-14",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-open-12"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-shore-18-cage-19"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4",
+      "relation": "at",
+      "object_id": "NE-DURATION-13-weeks"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were reared in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-indoor-9"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-7-assay-8",
+      "relation": "detected",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-7-assay-8",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-6"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-higher-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-erythrocytes-19",
+      "relation": "reared in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-erythrocytes-19",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-2-assay-3",
+      "relation": "detected",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-methods-5",
+      "relation": "are",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-complementary-7"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-methods-5",
+      "relation": "amount to",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-two-4"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "Additionally were injected with",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-ß-7-naphthoflavone-9"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "maintained in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tanks-35"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were injected in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-ß-7-naphthoflavone-9"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were injected with",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-ß-7-naphthoflavone-9"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "maintained for",
+      "object_id": "NE-DURATION-7-days"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "Additionally were injected with",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-BNF-11"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "Additionally were injected at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "Additionally were injected in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-controlled-25"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were injected at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "were injected with",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-BNF-11"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14",
+      "relation": "of",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-2mgkg-16-1-18"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-tanks-35",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-separate-34"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-10",
+      "relation": "is in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-10",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-repairable-9"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14",
+      "relation": "of",
+      "object_id": "NE-MISC-DNA"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-18",
+      "relation": "may",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-may-19-permanent-21"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-18",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-17"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "are repairable breaks in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "are repairable breaks",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-may-19-permanent-21"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "are breaks in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "identified by",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-6-assay-7"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "are breaks",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-may-19-permanent-21"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2",
+      "relation": "are",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-20",
+      "relation": "is in",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-23-strands-24"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "respond to",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "seems",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "seems",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "respond well to",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10",
+      "relation": "is",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-genotoxic-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10",
+      "relation": "mark",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2",
+      "relation": "respond very well to",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-well-7"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5",
+      "relation": "at",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-very-6"
+    },
+    {
+      "subject_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5",
+      "relation": "mark",
+      "object_id": "95c32260-b2d3-4c86-a803-d3bf8befb654-to-4"
+    }
+  ],
+  "links": {
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Aquaculture-1-production-2-is-3-growing-5": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-infancy-18": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-still-15": [],
+    "NE-COUNTRY-Brazil": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-farming-2-conditions-3": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-stress-7": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-physiological-6": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-organism-11": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Intensive-1": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-cultured-10": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-aim-2": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-effect-11": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-rearing-14-conditions-15": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17-blood-18-cells-19-of-20-juvenile-21-cobia-22-Rachycentron-23-canadum-24": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-blood-18-cells-19": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-red-17": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-juvenile-21": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-study-5": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-genotoxic-10": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-27-assay-28": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-cobia-2": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-reared-4": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Juvenile-1": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-water-13-circulation-14": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-tank-10": [],
+    "NE-DURATION-13-weeks": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-shore-18-cage-19": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-open-12": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-indoor-9": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-7-assay-8": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-11-damage-12-frequency-17": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-6": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-higher-10": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-erythrocytes-19": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-2-assay-3": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-methods-5": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-complementary-7": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-two-4": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-ß-7-naphthoflavone-9": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-injected-5": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-tanks-35": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-conditions-26": [],
+    "NE-DURATION-7-days": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-BNF-11": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-Additionally-1": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-concentrations-14": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-controlled-25": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-2mgkg-16-1-18": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-separate-34": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-10": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-strands-14": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-repairable-9": [],
+    "NE-MISC-DNA": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-abnormalities-18": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-may-19-permanent-21": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-17": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-damages-2": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-comet-6-assay-7": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-breaks-20": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-DNA-23-strands-24": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-elements-10": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-respond-5": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-well-7": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-very-6": [],
+    "95c32260-b2d3-4c86-a803-d3bf8befb654-to-4": []
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84943328375.txt",
+  "entities": {
+    "NE-TITLE-contractor": "contractor",
+    "NE-LOCATION-Sapinhoa-Field": "Sapinhoa Field",
+    "NE-LOCATION-Field": "Field",
+    "NE-STATE_OR_PROVINCE-NE": "NE",
+    "NE-LOCATION-Lula": "Lula",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-ORGANIZATION-BG-E&P-Brasil": "BG E&P Brasil",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-fabrication-19": "fabrication",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27": "tons",
+    "NE-DATE-2800": "2800",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installation-21": "installation",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-4-23": "4",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-3.9-69-km-70": "3.9 km",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-66": "SCRs",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-design-17": "design",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-27-61-Steel-62-Catenary-63-Risers-64": "27 Steel Catenary Risers",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-each-71": "each",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12": "advantages",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16": "challenges",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-waters-22": "waters",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Risers-4-system-8-concept-9": "Risers system concept",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Supporting-3": "Supporting",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-several-11": "several",
+    "NE-MISC-SCRs": "SCRs",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ultra-deep-21": "ultra-deep",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installing-18": "installing",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23": "pipe",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sections-38": "sections",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16": "it",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-decided-18": "decided",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-mechanically-21": "mechanically",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-46": "pipe",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-used-48": "used",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-service-6-requirements-7": "service requirements",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-production-10-risers-14": "production risers",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-where-40": "where",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-22": "lined",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-clad-42": "clad",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-line-27": "line",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-entire-26": "entire",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sour-3": "sour",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metallurgical-41": "metallurgical",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-exception-31": "exception",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-top-34": "top",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metclad-17-pipes-18": "metclad pipes",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-required-20": "required",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2": "order",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22": "methodology",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-pressurized-25-spooling-26": "water pressurized spooling",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18": "Reel Lay vessel",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-spooling-26": "water spooling",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-11-pipes-12": "lined pipes",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-novel-21": "novel",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-scale-3-spooling-5-trials-6": "scale spooling trials",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8": "done",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pressurized-4": "pressurized",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-20": "methodology",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Full-1": "Full",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipelay-12-campaign-13": "pipelay campaign",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ahead-9": "ahead",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-testing-15": "testing",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4": "analyses",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-system-11-behaviour-12": "system behaviour",
+    "NE-ORGANIZATION-BSR": "BSR",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-addition-2": "addition",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-buoy-19-de-ballasting-20-interventions-21": "buoy de-ballasting interventions",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-14-installation-15": "SCRs installation",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-performed-6": "performed",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-paper-2": "paper",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-solutions-8": "solutions",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-faced-5": "faced",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-steel-12-catenary-13-risers-14-fabrication-16": "steel catenary risers fabrication",
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-engineered-9": "engineered"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-TITLE-contractor",
+      "relation": "Brasil in",
+      "object_id": "NE-LOCATION-Sapinhoa-Field"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is in",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    },
+    {
+      "subject_id": "NE-TITLE-contractor",
+      "relation": "Brasil in",
+      "object_id": "NE-LOCATION-Field"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is NE of",
+      "object_id": "NE-LOCATION-Lula"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Petrobras",
+      "relation": "for contractor is",
+      "object_id": "NE-ORGANIZATION-BG-E&P-Brasil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BG-E&P-Brasil",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Sapinhoa-Field"
+    },
+    {
+      "subject_id": "NE-LOCATION-Field",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Lula"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BG-E&P-Brasil",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Field"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-fabrication-19",
+      "relation": "buoys of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27",
+      "relation": "amount to",
+      "object_id": "NE-DATE-2800"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installation-21",
+      "relation": "design of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-4-23"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installation-21",
+      "relation": "buoys of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-3.9-69-km-70",
+      "relation": "with Risers is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-66"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-design-17",
+      "relation": "buoys of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-27-61-Steel-62-Catenary-63-Risers-64",
+      "relation": "is with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-3.9-69-km-70"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-3.9-69-km-70",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-each-71"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12",
+      "relation": "overcome",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-waters-22"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Risers-4-system-8-concept-9",
+      "relation": "presents",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Risers-4-system-8-concept-9",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Supporting-3"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-several-11"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "of",
+      "object_id": "NE-MISC-SCRs"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ultra-deep-21"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installing-18"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23",
+      "relation": "touch down",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sections-38"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16",
+      "relation": "was",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-decided-18"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16",
+      "relation": "use",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-mechanically-21"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-46",
+      "relation": "was",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-used-48"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16",
+      "relation": "was decided Due",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-service-6-requirements-7"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-service-6-requirements-7",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-production-10-risers-14"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-used-48",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-where-40"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-22"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-46",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-clad-42"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16",
+      "relation": "use pipe for",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-line-27"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-line-27",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-entire-26"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-service-6-requirements-7",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sour-3"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-46",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metallurgical-41"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16",
+      "relation": "use pipe with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-exception-31"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-exception-31",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-top-34"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metclad-17-pipes-18",
+      "relation": "was",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-required-20"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2",
+      "relation": "lined pipes with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2",
+      "relation": "pipes with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-pressurized-25-spooling-26"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2",
+      "relation": "lined pipes with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-spooling-26"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-11-pipes-12",
+      "relation": "is with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2",
+      "relation": "pipes with",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-novel-21"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18",
+      "relation": "methodology for",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-pressurized-25-spooling-26"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-scale-3-spooling-5-trials-6",
+      "relation": "were",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-scale-3-spooling-5-trials-6",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pressurized-4"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-20"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-scale-3-spooling-5-trials-6",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Full-1"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipelay-12-campaign-13"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ahead-9"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8",
+      "relation": "of",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-testing-15"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4",
+      "relation": "evaluate",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-system-11-behaviour-12"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-system-11-behaviour-12",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-BSR"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4",
+      "relation": "were performed In",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-addition-2"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-system-11-behaviour-12",
+      "relation": "minimize",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-buoy-19-de-ballasting-20-interventions-21"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4",
+      "relation": "evaluate BSR system behaviour during",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-14-installation-15"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4",
+      "relation": "were",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-performed-6"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-paper-2",
+      "relation": "describes",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "paper",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-solutions-8"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-faced-5"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "at",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-steel-12-catenary-13-risers-14-fabrication-16"
+    },
+    {
+      "subject_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16",
+      "relation": "is",
+      "object_id": "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-engineered-9"
+    }
+  ],
+  "links": {
+    "NE-TITLE-contractor": [],
+    "NE-LOCATION-Sapinhoa-Field": [],
+    "NE-LOCATION-Field": [],
+    "NE-STATE_OR_PROVINCE-NE": [],
+    "NE-LOCATION-Lula": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-ORGANIZATION-BG-E&P-Brasil": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-fabrication-19": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-tons-27": [],
+    "NE-DATE-2800": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installation-21": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-4-23": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-3.9-69-km-70": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-66": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-design-17": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-27-61-Steel-62-Catenary-63-Risers-64": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-each-71": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-advantages-12": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-challenges-16": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-waters-22": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Risers-4-system-8-concept-9": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Supporting-3": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-several-11": [],
+    "NE-MISC-SCRs": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ultra-deep-21": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-installing-18": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-23": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sections-38": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-it-16": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-decided-18": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-mechanically-21": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipe-46": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-used-48": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-service-6-requirements-7": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-production-10-risers-14": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-where-40": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-22": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-clad-42": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-line-27": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-entire-26": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-sour-3": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metallurgical-41": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-exception-31": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-top-34": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-metclad-17-pipes-18": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-required-20": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-order-2": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-22": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-pressurized-25-spooling-26": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Reel-15-Lay-17-vessel-18": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-water-24-spooling-26": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-lined-11-pipes-12": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-novel-21": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-scale-3-spooling-5-trials-6": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-done-8": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pressurized-4": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-methodology-20": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-Full-1": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-pipelay-12-campaign-13": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-ahead-9": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-testing-15": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-analyses-4": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-system-11-behaviour-12": [],
+    "NE-ORGANIZATION-BSR": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-addition-2": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-buoy-19-de-ballasting-20-interventions-21": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-SCRs-14-installation-15": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-performed-6": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-paper-2": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-solutions-8": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-faced-5": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-steel-12-catenary-13-risers-14-fabrication-16": [],
+    "959feb1f-0a32-411d-bb1a-fe07e8dd3be3-engineered-9": []
+  }
+}

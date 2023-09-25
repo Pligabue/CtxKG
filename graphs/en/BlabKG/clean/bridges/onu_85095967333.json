@@ -1,0 +1,1601 @@
+{
+  "onu_10228776.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_11244281653.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "573197e7-feeb-4bf7-8fc7-347e79223db7-better-7"
+  },
+  "onu_14467639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_14928592.json": {},
+  "onu_1642522078.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "4e1ac6e0-5aee-4eb0-9ad0-694f3ac8f48a-problems-11",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_16964104.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17044389842.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17144436283.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_17344364742.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-construction-5": "9904aa2e-63e4-415c-ba81-2791b35da710-construction-10",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "9904aa2e-63e4-415c-ba81-2791b35da710-company-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_1842589247.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_18944382016.json": {},
+  "onu_19586421.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_20736039.json": {},
+  "onu_21575939.json": {},
+  "onu_2342418572.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "dbc773c9-4c74-40cf-bad8-8cad13ba1be9-computational-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_2342623297.json": {
+    "NE-ORGANIZATION-Petrobras": "f25f6215-5192-4162-b2e7-5bee2a7f90d8-Petróbras-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_23699043.json": {},
+  "onu_23844461981.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_24044508291.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "172d53b1-9917-4393-8895-7e062ea5429d-company-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24050293.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_242694501.json": {},
+  "onu_24662461.json": {},
+  "onu_24769642.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_24867907.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "8164277f-ad39-46b3-a9d9-da61416c08af-computational-3"
+  },
+  "onu_25054779.json": {},
+  "onu_25144481375.json": {},
+  "onu_25444510078.json": {
+    "NE-ORGANIZATION-Petrobras": "adad3cf5-16ae-4cec-b91d-60c5da9121ac-Petrobras-18-project-19"
+  },
+  "onu_26244445255.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "56ff964f-2871-425b-84b1-fb6ad329d9e9-Stabilized-23",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_26850121.json": {},
+  "onu_27744595461.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "aaaef65d-ece5-45c4-84f7-99c65719921a-real-26",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_30311937.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_30706349.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_31206995.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "860bf7ae-3012-4871-96d2-1e758b1a6d53-conceptual-14",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_31375269.json": {},
+  "onu_32444448833.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "5988fd69-592d-47e1-9aa6-df9d282706cb-company-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33293728.json": {},
+  "onu_33295123.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33295407.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33644613229.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33645422493.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33646023976.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-34-contamination-35"
+  },
+  "onu_33646035823.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33646043488.json": {},
+  "onu_33646056106.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33646056405.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "84216c5e-4b64-4443-b98d-66b70adb98df-operational-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "84216c5e-4b64-4443-b98d-66b70adb98df-oil-6-spills-7"
+  },
+  "onu_33646073069.json": {
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33646452775.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745228406.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33745354316.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "f284c30b-4d86-45b4-b48d-6a65d84ee416-timely-14"
+  },
+  "onu_33745713604.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33746039693.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "6a2b057a-9342-42a7-9a7b-03480bcc5bd7-optimal-15"
+  },
+  "onu_33748460104.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "920d8eef-1ebb-4cab-8288-cea4cd878488-companies-2",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_33749265496.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_33751312200.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "0c8feb86-ed53-4518-8929-20e43783eecc-offshore-6-technology-7",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_33751315219.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "0709a62c-a215-4068-a74c-360cc8510fa9-environmental-3"
+  },
+  "onu_34250708084.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_344309110.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_344741441.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "1de3c47d-c84d-4a38-b042-489e5b30b72e-analytical-17",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-strategies-21": "NE-TITLE-model",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "1de3c47d-c84d-4a38-b042-489e5b30b72e-way-22"
+  },
+  "onu_345171568.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "d7e4bb8e-83ad-427b-a6a5-b4c0506bc6dc-fluid-16",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_34531605.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "0f4e8dae-921f-4f9e-8d26-552e9ebde1e1-hydraulic-9",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_34547893063.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_345603133.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "83f8226e-eaff-474f-8c4b-070d79533224-dynamic-5",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "83f8226e-eaff-474f-8c4b-070d79533224-experimental-5",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "83f8226e-eaff-474f-8c4b-070d79533224-environmental-14"
+  },
+  "onu_345603650.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_34686357.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_34984147.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_35573581.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "919869c7-27ec-44eb-bc21-ebd2300438cf-oil-11-spill-12-monitoring-13",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_36768397.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_37304895.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "6bacd7ac-6903-41a6-a534-aa3361728c0d-operational-25",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "6bacd7ac-6903-41a6-a534-aa3361728c0d-technical-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_40349089123.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "50180d4d-99ad-4416-b364-8467ab844fae-decision-17",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-construction-5": "50180d4d-99ad-4416-b364-8467ab844fae-construction-35",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "50180d4d-99ad-4416-b364-8467ab844fae-special-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "50180d4d-99ad-4416-b364-8467ab844fae-risks-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "50180d4d-99ad-4416-b364-8467ab844fae-technical-2"
+  },
+  "onu_4043182709.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_41849140524.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_47849110025.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "e25e3ae6-98b4-4157-aebf-c9eed09a289f-company-13"
+  },
+  "onu_50249174640.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "8fde804f-0525-4f0e-8503-d2317096c0a8-companies-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_50249181836.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_51649098845.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c91d7476-abfd-4667-90fd-c69e0100550c-natural-2"
+  },
+  "onu_52049093008.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "83994fff-4d3b-468e-9bed-d467b6149c25-way-25"
+  },
+  "onu_52249116622.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras-LNG",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52349109473.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_52849106027.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_57649139087.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "672bb03e-fe5c-4375-b8ca-4305ca86562f-issues-8",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_58849128774.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_59649088185.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "b1824a3a-1334-43e1-9b59-e99495d47c65-firm-2",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_68649086917.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_68649124056.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_68649126570.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_70449127482.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_70449650835.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "fa7eba80-2962-449f-ab5e-c7372a6dd9af-economical-7",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_72449143175.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_73349086227.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77449138097.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_77955388680.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "6853be13-f2b8-4273-b0f4-b628a386d69b-operational-12",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77955408815.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77956543361.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77956858304.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_77958012173.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "82dfb525-fe3c-44b8-a079-56355943e3c5-accurate-15",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_78049320828.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "b0408dc9-8c82-423c-98ff-ebbb41b36282-company-2",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "b0408dc9-8c82-423c-98ff-ebbb41b36282-seismic-20"
+  },
+  "onu_78649387727.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_78650855754.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "8e2f1fa3-f2ff-4472-af7b-533ff2a06f2c-offshore-17-gas-18"
+  },
+  "onu_79952546010.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b40df2ca-cdf7-4284-8597-8f166cac093a-extreme-26"
+  },
+  "onu_79952620223.json": {},
+  "onu_79953006622.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_79955374293.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "NE-ORGANIZATION-PETROBRAS-Research-Center",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "fdf01418-b90d-4c3b-8f26-604224b4b6fb-technological-6"
+  },
+  "onu_79955828033.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_79959789184.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "2d2c89ac-c79e-412f-8293-e8fdf04c937c-principle-2"
+  },
+  "onu_80052069671.json": {},
+  "onu_80052571318.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "6c5a99a3-587c-4891-b93a-3283c2d031e2-way-34",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "6c5a99a3-587c-4891-b93a-3283c2d031e2-economic-33",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80052582062.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "7a7f6f9c-3356-4943-af08-ffb5a792d414-technical-9"
+  },
+  "onu_80052741860.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80053430040.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_80053904380.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_80053909062.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "29012263-ab66-4cfb-9814-36127693e867-company-2"
+  },
+  "onu_80053931244.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "9e4d781b-b75d-4d08-a406-e18605539fdf-companies-15"
+  },
+  "onu_80053961084.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "00386aed-2baf-4b8b-a186-2dcd3e2dfe13-dynamic-14"
+  },
+  "onu_80054757255.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_81855167522.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "67a11e3d-316d-4504-abb6-d3f419bb7620-companies-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "67a11e3d-316d-4504-abb6-d3f419bb7620-Frame-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_82555187024.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "eb9c758a-7531-4399-b6bc-8350a275ef69-computational-29"
+  },
+  "onu_83155193342.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "e3af93b2-aa60-45e5-8d24-87a91ead4a60-meteorological-2"
+  },
+  "onu_84856625676.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84856741449.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "6776ee78-01b1-4f8a-8af9-5284efe9468d-drilling-22-activity-23",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_84857305090.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-BR-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84857324711.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-decision-4",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-surface-30-equipment-31-connections-32",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-problems-28",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "2ca4e696-bb0f-4ef9-91e4-7a25d65d6ff6-small-27"
+  },
+  "onu_84857483294.json": {},
+  "onu_84861595246.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "204509a8-265c-4397-8149-04982bb962db-company-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "204509a8-265c-4397-8149-04982bb962db-way-33",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "204509a8-265c-4397-8149-04982bb962db-collaborative-32",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84864615590.json": {
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "NE-ORGANIZATION-Petrobras-Business-Plan"
+  },
+  "onu_84864936265.json": {},
+  "onu_84865218536.json": {},
+  "onu_84865723570.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84869199462.json": {},
+  "onu_84870604908.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84877857340.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84878941411.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879432080.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "d22980f2-d1fa-4f87-94aa-ec684269aac1-hydraulic-35",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84879955769.json": {},
+  "onu_84880007809.json": {},
+  "onu_84883765236.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-spatial-5",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "f3fa1d9f-bec4-4fe9-a45b-abc6d74b2e5a-electrical-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84883765292.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "afb5c7d8-4be9-4783-93d0-e20924ca5129-interactive-22"
+  },
+  "onu_84887507211.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "9aa61b6b-268d-41fb-a9cc-799d32a8079c-economical-54",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888845935.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "08983aea-212e-4ede-98cd-be137c97ff19-computational-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "08983aea-212e-4ede-98cd-be137c97ff19-Economical-1"
+  },
+  "onu_84888934569.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84888954344.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-strategies-21": "bede67c1-2219-4ecb-94db-aba0e79b294c-techniques-14",
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "NE-ORGANIZATION-PETROBRÁS-Production-Department",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "bede67c1-2219-4ecb-94db-aba0e79b294c-thermal-13"
+  },
+  "onu_84888967977.json": {},
+  "onu_84889840418.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84891320656.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "1309746e-bd51-453c-8893-8fb38d7af7ab-problems-32",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "1309746e-bd51-453c-8893-8fb38d7af7ab-environmental-19"
+  },
+  "onu_84891344152.json": {},
+  "onu_84892632570.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "6dec9498-a5f9-44bc-9e98-a6457ad68d76-human-10"
+  },
+  "onu_84892860778.json": {},
+  "onu_84893052541.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-heated-14",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "f0e08ada-1ca4-4e31-bda9-3911eddc8016-conceptual-14"
+  },
+  "onu_84893062958.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "541e4f99-d3c4-4b3c-9b8b-0073f1b215fc-logistical-2",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84893067779.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-efficiency-12",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-environmental-20",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84893090004.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "108bb058-270a-4059-b632-02b04115a0a7-difficulties-6"
+  },
+  "onu_84893361208.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_84893407222.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "44b1d4b9-1d34-4364-a8fe-c3fcc69d0615-Seismic-1"
+  },
+  "onu_84893805098.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c9cc11fc-8719-4e06-8c6b-99c7f538df16-reproductive-10"
+  },
+  "onu_84894453276.json": {},
+  "onu_84894470550.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "97494f1d-5471-498f-9894-b0c7321535c4-sustainable-16",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-construction-5": "97494f1d-5471-498f-9894-b0c7321535c4-construction-5"
+  },
+  "onu_84896824358.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "a674b86c-95d0-4e2a-aca6-37744b347071-conceptual-19"
+  },
+  "onu_84897376128.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "6634b230-b55b-42f5-b6bf-e9764410d504-operational-16",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "6634b230-b55b-42f5-b6bf-e9764410d504-problems-17",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "6634b230-b55b-42f5-b6bf-e9764410d504-water-9-drilling-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897381844.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "607e16a2-24ab-44ad-a4a3-8273a81253f6-plastic-16",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "607e16a2-24ab-44ad-a4a3-8273a81253f6-initial-10"
+  },
+  "onu_84897392529.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897399429.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "898c33c4-d7a3-46cc-94f0-d84c5288fee6-better-14"
+  },
+  "onu_84897408330.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897441267.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84897448998.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "ebed93b1-9b44-42bf-a267-aebdc3f48887-oil-16-spills-17",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "ebed93b1-9b44-42bf-a267-aebdc3f48887-continuous-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84897449140.json": {},
+  "onu_84897461830.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "6d4e9725-03d3-4734-9822-6feb56c5d4d5-technical-8"
+  },
+  "onu_84897465328.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84897470967.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "7f6f47ca-cfad-4483-ba7b-011e5564f245-mechanical-4"
+  },
+  "onu_84900305359.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "97531c44-64fa-4fe3-bfde-d9c5843dc485-operational-5"
+  },
+  "onu_84901784680.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "cd83b05b-1642-49b5-9046-3569fd6386de-technological-15"
+  },
+  "onu_84904394721.json": {
+    "NE-ORGANIZATION-Petrobras": "8e2e949b-ad5f-4570-870a-fc20ddc3c8e9-PETROX-29"
+  },
+  "onu_84905748711.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "dede7ae1-618b-4e69-ba85-b9a4bf191bed-sustainable-6"
+  },
+  "onu_84907991224.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84918528762.json": {},
+  "onu_84925638296.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-oceanic-21",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "b21e4bce-3e9b-4d90-a83b-1abdd0c22319-better-8"
+  },
+  "onu_84930513772.json": {},
+  "onu_84940864746.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84943289484.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "a318701e-6951-43b5-ab6d-2b3deb57fa16-seismic-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "a318701e-6951-43b5-ab6d-2b3deb57fa16-Synthetic-1"
+  },
+  "onu_84943328375.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84943338721.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84943339436.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "3cd768dc-cd71-4749-a45c-61e32e4b3b06-automatic-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944574757.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84944593501.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-strategies-21": "ddbb976f-3682-4d4d-964c-c8f97d044879-methodology-4"
+  },
+  "onu_84947326315.json": {},
+  "onu_84947757002.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e4f3700a-2016-4bba-b2a4-c67750ed33d4-environmental-31"
+  },
+  "onu_84949266932.json": {},
+  "onu_84951918487.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_84954454797.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "45dea8c7-5987-4120-9906-0be4e1b2fa35-sewage-15-contamination-16"
+  },
+  "onu_84955127995.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "04ab6b85-447c-419a-adaf-4533eabeb71e-financial-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "04ab6b85-447c-419a-adaf-4533eabeb71e-companies-21"
+  },
+  "onu_84958666405.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "0f3d745d-6980-4396-973f-ab7c18b13380-financial-47",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959478227.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "1f3dc02a-457f-4c60-95e7-899b6c972eb8-horizontal-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84959561430.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "c9b0cc1d-e1ac-4a3e-8cb4-ffafc327a1c8-sustainable-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84963819657.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84964700375.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "69c6bb79-fae8-43da-8f18-3e03cea59fec-companies-42",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "69c6bb79-fae8-43da-8f18-3e03cea59fec-operational-19"
+  },
+  "onu_84974574825.json": {},
+  "onu_84975761253.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84979574362.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "6cc2891a-f7a7-4b12-a67e-029947346f7a-sustainable-34"
+  },
+  "onu_84983465797.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84984596158.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-environmental-12",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b94c540f-6bf7-42af-8b1e-5a148c0defb1-evolutionary-12"
+  },
+  "onu_84987760544.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "586a34af-a858-433d-9bc9-af2c7ac0d2f7-better-2"
+  },
+  "onu_84987762471.json": {},
+  "onu_84987763922.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-natural-40",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "aaacca52-cd9d-43fb-a220-3e463dad8ed9-inadequate-5"
+  },
+  "onu_84990861431.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "668f68ee-8de7-45d9-9784-b0893545fc9d-Canonical-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_84990898401.json": {},
+  "onu_84996602559.json": {},
+  "onu_85006339618.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85007282651.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "21eb6ecf-d102-40bb-a054-1b519100613e-biological-5",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "21eb6ecf-d102-40bb-a054-1b519100613e-issues-3",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "21eb6ecf-d102-40bb-a054-1b519100613e-absence-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85008198009.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-Spatial-1",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "80129f0b-a3c4-407d-9de2-a53c1612d9dd-coastal-29-systems-30"
+  },
+  "onu_85009177497.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "77e3eb37-fc2c-484b-93bf-2c8e40534b57-linear-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85009192413.json": {},
+  "onu_85009433339.json": {},
+  "onu_85012910163.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85013296221.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "68be832a-27b4-49e7-8b72-dcc340ca62d8-simulated-4"
+  },
+  "onu_85013858173.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "9f50d251-7e41-4765-8a72-6be967b48838-Seismic-1",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "9f50d251-7e41-4765-8a72-6be967b48838-Spatial-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85016298905.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "3a1c0afe-860d-43e4-8160-8731acebad0d-terrestrial-37"
+  },
+  "onu_85016958402.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85017468089.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "08c3852e-194c-4498-b732-46cf26512128-seismic-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85020183362.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b39a3cd5-61c9-463a-a2eb-9913aee3b9ca-sampled-16"
+  },
+  "onu_85026803842.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "1422e178-cc62-4bf3-acfe-1985781bfe49-staged-15"
+  },
+  "onu_85027233889.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85027401053.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "53d0784c-6881-46a8-8607-8473e2e87675-initial-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028240731.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85028278319.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-regulatory-12",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "87ea7ee8-fea4-423e-b948-4867cebcb9ad-sustainable-7"
+  },
+  "onu_85028950368.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "e4dae957-4d94-4311-82ad-250e750ae287-tidal-11",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e4dae957-4d94-4311-82ad-250e750ae287-technical-17",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85029591872.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b236a4b6-2727-41c8-8cef-67a669027e7b-spatial-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030830298.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85030842598.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "34e8fac9-66f8-4a6c-8c9c-88ed163b72d7-conceptual-34",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85031996233.json": {},
+  "onu_85032863710.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85033225585.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "7de64ed0-3f58-45d8-9cc8-eef825191710-efficiency-75"
+  },
+  "onu_85033604891.json": {},
+  "onu_85034042710.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "9ccfcbb1-6830-465f-8c28-a81ac0f15a97-crude-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85035340277.json": {},
+  "onu_85037355639.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85037590262.json": {},
+  "onu_85039546750.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "1b5c2e54-dca5-4773-b611-862793e6f292-ways-17"
+  },
+  "onu_85040381710.json": {},
+  "onu_85040498521.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "4372788a-b01b-4c08-a40d-5e901fddf4a5-dynamic-9",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "4372788a-b01b-4c08-a40d-5e901fddf4a5-numerical-2"
+  },
+  "onu_85040888184.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041142849.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "6b251826-cf79-4973-a63d-ae11b18be0c9-various-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85041154400.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-company-5",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "ddf75f7d-eeae-4801-8fc1-646f269a7ce4-technological-2"
+  },
+  "onu_85041277142.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "fb2fb4b5-91ee-4dc3-af16-1bd93d9503ce-intrinsic-14"
+  },
+  "onu_85041698761.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85043311576.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-natural-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "da2b11af-b7ea-4c98-b476-6f6e9363fa80-monitoring-38"
+  },
+  "onu_85043324954.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044192214.json": {},
+  "onu_85044397080.json": {
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-one-22-PETROBRAS-23-oil-24-pipeline-25"
+  },
+  "onu_85044462127.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044530973.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "2d2c9121-9db0-47fd-913b-f722bc62e245-pack-21-efficiency-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85044596303.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "99512cc4-b35c-4f65-be28-93092a3cf0fc-morphological-2"
+  },
+  "onu_85045186297.json": {},
+  "onu_85046290497.json": {},
+  "onu_85046379273.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_85047299670.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "7e13bfab-9226-403e-bf1d-cce401dd3b64-modifying-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "7e13bfab-9226-403e-bf1d-cce401dd3b64-meteorological-12"
+  },
+  "onu_85047354188.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85047409861.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "1f1cc693-d744-4327-ae3a-26acd92c5117-biological-3"
+  },
+  "onu_85048345043.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "40c5929f-d671-4179-89e9-66e6e803fa30-underlying-20",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "40c5929f-d671-4179-89e9-66e6e803fa30-better-16"
+  },
+  "onu_85048862831.json": {},
+  "onu_85049552088.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "85bb1f29-6fcb-426b-abc6-5be02b46d922-seismic-47",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "85bb1f29-6fcb-426b-abc6-5be02b46d922-controlling-12"
+  },
+  "onu_85050512775.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "d456d187-3df8-4b64-8a11-6d3acdc976bf-offshore-29-applications-30",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "d456d187-3df8-4b64-8a11-6d3acdc976bf-Global-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85050528173.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "d59c3d19-b470-43cc-aef7-3fa793b9d284-actions-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "d59c3d19-b470-43cc-aef7-3fa793b9d284-offshore-60-production-61"
+  },
+  "onu_85050539655.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "e1000620-b18e-4098-9293-16b6e83cec81-Company-14",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e1000620-b18e-4098-9293-16b6e83cec81-technological-23"
+  },
+  "onu_85050551470.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "54866368-b614-4ef4-9fab-faa48a38f22d-innovative-14"
+  },
+  "onu_85050561554.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85050643252.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85050674553.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85050680089.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "7736a11e-550b-4406-bcac-140ec203a8cf-technical-10",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "7736a11e-550b-4406-bcac-140ec203a8cf-oil-29-projects-32",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "7736a11e-550b-4406-bcac-140ec203a8cf-decisions-4",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "7736a11e-550b-4406-bcac-140ec203a8cf-remaining-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051633827.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c685c5a5-bc59-4451-bee6-87f7a8810b95-main-7"
+  },
+  "onu_85051644896.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "12c1d79e-73bd-481c-bdb8-1d4727843a15-companies-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "12c1d79e-73bd-481c-bdb8-1d4727843a15-dynamic-32",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "12c1d79e-73bd-481c-bdb8-1d4727843a15-physical-3"
+  },
+  "onu_85051649253.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "676e7e95-336a-48ca-8815-930a8e2851b0-seismic-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85051653660.json": {},
+  "onu_85051673888.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052069920.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "6019aafd-17a7-4b19-be78-72fdb72b948b-temporal-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85052748036.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "d5172811-4956-4cc3-bcce-2ec97a8402f1-spatial-5"
+  },
+  "onu_85052916893.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "390e8152-252c-4c33-856b-035e5f48ed3e-spatial-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053143769.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "9e6b17de-d2c6-4ae1-9b58-a24d3e3ed90e-offshore-19-wind-20-farms-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85053593980.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "8db3c934-1816-4c07-9f83-706b0c2a1f16-human-39"
+  },
+  "onu_85053770238.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "5d5a4a2a-3f55-45ca-bd91-6a4532bf1f9c-dynamic-13"
+  },
+  "onu_85054086297.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-operational-13"
+  },
+  "onu_85054504118.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "b1326d03-e928-4f17-a698-2f5bc600a0ed-economical-2"
+  },
+  "onu_85054783545.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "54174e41-4460-4ede-8ffd-225b7817ab76-structural-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85054941296.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-sustainable-16",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-construction-5": "3fd43fec-0cd0-4e70-8bf2-f1f232dda883-construction-5"
+  },
+  "onu_85055025955.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "6bb8a4f9-6b1c-4ed2-896e-13fd8f3d1045-operational-27",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055027444.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "efaa678b-3d7e-4113-825c-c286cad84bfd-gas-24-pipelines-25",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85055027692.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055036761.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRÁS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "e4070cc6-2e30-4f1c-8fad-1f83ee7d5d90-better-19"
+  },
+  "onu_85055255571.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRÁS",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-company-19": "ea17f87e-0664-4177-bfa0-06cf4ccdf30b-company-16",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85055263465.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b7c3b9c4-3527-4339-b669-999094175621-interpreted-19"
+  },
+  "onu_85055528846.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "2970e996-64cc-47e6-bc5c-fb3d99195396-drilling-2-vessels-3",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "2970e996-64cc-47e6-bc5c-fb3d99195396-environmental-14"
+  },
+  "onu_85055864923.json": {
+    "NE-ORGANIZATION-Petrobras": "c183a578-8a5f-4228-b35b-5651f319641f-Petrobras-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "c183a578-8a5f-4228-b35b-5651f319641f-feasible-19"
+  },
+  "onu_85055908781.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "7791ecea-6b5a-4410-bef3-7836f667a288-main-12"
+  },
+  "onu_85056094176.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "0ddfca10-cdbf-4166-ae46-860624694346-Floating-16"
+  },
+  "onu_85056110569.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "1a82d70b-0282-4199-a560-d0aab9c27373-oil-13-reservoirs-14",
+    "NE-ORGANIZATION-Petrobras": "1a82d70b-0282-4199-a560-d0aab9c27373-Petrobras-2-experience-3",
+    "NE-ORGANIZATION-Petrobras'-Operations-Center": "NE-ORGANIZATION-Petrobras-Heavy-Oil-Technological-Program",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056183083.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85056566136.json": {},
+  "onu_85056605886.json": {},
+  "onu_85056605922.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-elastic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "0b1e47c2-f111-42c8-ab95-5bf9a8d86713-upward-18"
+  },
+  "onu_85056794099.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "95c32260-b2d3-4c86-a803-d3bf8befb654-nuclear-17"
+  },
+  "onu_85057560805.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "bb2572d0-017a-4510-9d70-32e7ab55c722-regional-5"
+  },
+  "onu_85057883234.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_85059143234.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059218520.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85059436090.json": {},
+  "onu_85060083816.json": {},
+  "onu_85060443361.json": {},
+  "onu_85061179665.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "17e2d2d4-078d-47cf-b582-655e5774143c-dominant-17"
+  },
+  "onu_85061498967.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "d3cb6780-0d45-4123-8f17-d4c4dd36a5ef-metabolic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85061767810.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "bdad7821-0e2d-46c7-8388-e86e3ce77f6a-complex-7"
+  },
+  "onu_85061823653.json": {},
+  "onu_85062013573.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "28afef62-c426-44a2-9215-bf6b45551070-operational-27",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "28afef62-c426-44a2-9215-bf6b45551070-practical-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062607406.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85062717506.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "bcabff6e-52d1-41ef-96da-c7a9bc0a3423-formal-6"
+  },
+  "onu_85063263863.json": {},
+  "onu_85063689284.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "67b5ee09-3e9b-4ee7-8c97-16a32349a345-causal-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85064764902.json": {},
+  "onu_85064808857.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "4879b8b6-7193-4b71-96e2-28fc820267e0-Acoustic-1",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "4879b8b6-7193-4b71-96e2-28fc820267e0-acoustic-10"
+  },
+  "onu_85064983703.json": {},
+  "onu_85065180012.json": {},
+  "onu_85065623080.json": {},
+  "onu_85065912337.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "2143f721-d959-4556-9126-5be2b6ca65c9-elastic-19",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "2143f721-d959-4556-9126-5be2b6ca65c9-seismic-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "2143f721-d959-4556-9126-5be2b6ca65c9-seismic-26",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85066600751.json": {},
+  "onu_85066617192.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85066623384.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85067965170.json": {},
+  "onu_85068049608.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "198e827a-9847-428e-9646-a76213d2c09d-firms-6",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85068387773.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85068453742.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "68bdd8d5-6a51-46de-917a-9d40eb6db15d-computational-7"
+  },
+  "onu_85070554647.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "72b63001-9050-46f3-a364-f3ec8d862ef0-better-10"
+  },
+  "onu_85070704005.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85070853924.json": {},
+  "onu_85070991202.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e4582df4-682d-4820-a6cd-b5346f3f75b5-intermittent-9",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "e4582df4-682d-4820-a6cd-b5346f3f75b5-spatial-78"
+  },
+  "onu_85071023764.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "4b6be8a5-593e-4815-b72c-34ca1cda4d13-human-23",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85071488896.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-adaptive-18",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e1dda441-4298-491b-bdb2-2ecdaa8e7a55-irritating-26"
+  },
+  "onu_85071542084.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "03bb4e36-65c4-4faa-889c-f08a60c33d08-evolutionary-13"
+  },
+  "onu_85071847548.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "22ebbe07-c4ca-45f2-a073-3b4a9bbb83f6-inverted-5",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85072725932.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "1ab71fc9-c997-4543-9ccf-5bbfb6b3579e-technological-6"
+  },
+  "onu_85072834829.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "f46f17d1-e7ee-43a7-b27f-8001a220449a-fundamental-27"
+  },
+  "onu_85073705401.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "9ba582b4-4671-4d5f-a00e-72d8370658d2-Metabolic-1"
+  },
+  "onu_85073706024.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "fad0be37-f5f4-4a0f-bcad-6a82a846f841-operational-12",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85073935907.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "bc946871-1090-4025-8672-8089752cc34e-thermal-11"
+  },
+  "onu_85074489503.json": {},
+  "onu_85074632793.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "e96160f9-afe1-4286-9ca9-11f35229455a-frontal-17",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "e96160f9-afe1-4286-9ca9-11f35229455a-forcing-11",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "e96160f9-afe1-4286-9ca9-11f35229455a-better-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85074778611.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "87ac9c72-56d9-42ed-9706-bf7a1853f8ed-biological-9",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075350522.json": {},
+  "onu_85075421341.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "42d1724c-e5fc-4022-b41d-f2f1fb3ceb4b-legal-3"
+  },
+  "onu_85075661667.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "8eb22610-755f-4d77-aaca-50d08c2064c5-better-18"
+  },
+  "onu_85075827903.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85075828327.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85075831363.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "c6187c05-69fa-4993-ac86-f7154dd67053-metallic-11"
+  },
+  "onu_85075835330.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075843438.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "b11303f1-e8e0-4420-9932-569d3ac87ff2-structural-14"
+  },
+  "onu_85075879935.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85075941856.json": {},
+  "onu_85075951728.json": {},
+  "onu_85075997043.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076246665.json": {
+    "NE-ORGANIZATION-Petrobras": "e0b07107-d3d9-440f-ac94-05597132db4b-Petrographic-1"
+  },
+  "onu_85076560202.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "53c04a5e-53a6-40d4-b9a2-52a4bd0480d8-human-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85076775401.json": {},
+  "onu_85076896265.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077234208.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "3bce63f2-6438-4309-b24d-2dcad2a582a1-spatial-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85077945350.json": {},
+  "onu_85078010553.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "8b856b86-bebe-4ded-9624-c946c2d1bff7-problems-36",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "8b856b86-bebe-4ded-9624-c946c2d1bff7-economic-33"
+  },
+  "onu_85078233209.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "d100c63f-0f5d-41fb-88da-fdd2d50ddb5f-seismic-8"
+  },
+  "onu_85079351203.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85079784581.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "1062b9a2-c1d7-4c95-a533-f3f7c7961c33-morphological-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85080813467.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85083240666.json": {},
+  "onu_85083341760.json": {},
+  "onu_85084024263.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-problems-20",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "2dd50057-73e9-4a0c-ab13-8ba9fd0d20d0-operational-19",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85084454298.json": {},
+  "onu_85084634006.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "a407c16e-080e-4100-9fc2-914500db52e5-oil-9-wells-12",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "a407c16e-080e-4100-9fc2-914500db52e5-mechanical-15"
+  },
+  "onu_85084667903.json": {},
+  "onu_85084945361.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "bb0ac139-3982-432a-8400-729a5c19c126-efficiency-27",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "bb0ac139-3982-432a-8400-729a5c19c126-hydraulic-10",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085054148.json": {},
+  "onu_85085298469.json": {},
+  "onu_85085408490.json": {
+    "NE-ORGANIZATION-Petrobras": "47bed0cf-53f1-4cbc-8757-a9c45441f91a-PETROBRÁS-1"
+  },
+  "onu_85085473397.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "934e19c7-1772-4795-a581-05b674220676-remote-32",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "934e19c7-1772-4795-a581-05b674220676-natural-15"
+  },
+  "onu_85085492342.json": {},
+  "onu_85085773523.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "NE-TITLE-engineer"
+  },
+  "onu_85085773731.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "4b172916-f0f5-46a4-9792-7936dc9ba4f9-experimental-4",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085773745.json": {},
+  "onu_85085773825.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "e9189042-c2fa-4b5e-a9da-3d50e8f4c891-computational-8"
+  },
+  "onu_85085773875.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "d606c7b3-ce98-4023-8a39-196528dd3002-companies-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "d606c7b3-ce98-4023-8a39-196528dd3002-water-12-cuts-13",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "d606c7b3-ce98-4023-8a39-196528dd3002-Offshore-24-Field-25"
+  },
+  "onu_85085774498.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085774511.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "07bf9801-f530-468c-9921-66afca9b2b91-environmental-10",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "07bf9801-f530-468c-9921-66afca9b2b91-efficiency-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085774766.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-fact-4": "5c9d47d5-c3a5-4b99-97b0-f55b0ce24e97-characteristics-4"
+  },
+  "onu_85085775194.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-strategies-21": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-process-14",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-construction-5": "84e4f7e4-b6c1-4975-bd01-e021f5afdff1-construction-16"
+  },
+  "onu_85085775396.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "ee817b7d-8183-4633-9141-28578ef8eeaa-Global-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085775562.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-better-10"
+  },
+  "onu_85085775753.json": {},
+  "onu_85085775962.json": {},
+  "onu_85085776151.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-PETROBRAS"
+  },
+  "onu_85085776159.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085776356.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "2a540db1-9714-4a1f-b95b-65922ff9ef32-intensive-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085776372.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "c59dc365-dd43-4a22-8bcc-877027142262-offshore-23-soils-24",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c59dc365-dd43-4a22-8bcc-877027142262-using-31"
+  },
+  "onu_85085776540.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "544389f0-af01-489c-a71e-5e23542d32c5-expressive-9"
+  },
+  "onu_85085776958.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085777009.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-companies-22": "d32271d8-792a-4672-97e1-b4c138d6d351-companies-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "d32271d8-792a-4672-97e1-b4c138d6d351-institutional-45",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085777884.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085778037.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085778412.json": {},
+  "onu_85085778651.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "42684b28-71f8-41aa-ada5-b427f3c87f94-controlling-15",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "42684b28-71f8-41aa-ada5-b427f3c87f94-better-14",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "42684b28-71f8-41aa-ada5-b427f3c87f94-costs-30",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "42684b28-71f8-41aa-ada5-b427f3c87f94-operational-26"
+  },
+  "onu_85085778850.json": {},
+  "onu_85085778895.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "b7a10045-d4c2-447e-907a-820163ea176a-innovative-4",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "b7a10045-d4c2-447e-907a-820163ea176a-drilling-30-fluids-31"
+  },
+  "onu_85085779136.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85085779144.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85085780309.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "82bdebe1-55d4-4873-9e12-d1e0510312d7-structural-7"
+  },
+  "onu_85085850094.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086232639.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "1560ca69-ffef-4249-b357-976be0472af8-operational-26",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "1560ca69-ffef-4249-b357-976be0472af8-way-30",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086245971.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "5b314478-44cb-4cb9-a631-b9e343125cc4-analytical-10"
+  },
+  "onu_85086248840.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "9634cff3-f7bf-4dd4-9bdd-d4ce051d15e4-technological-4",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086257600.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-operational-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-offshore-7-equipment-8": "0d3a24cc-8410-46ec-8f90-b83b91c14d4f-offshore-13-assets-14"
+  },
+  "onu_85086355916.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086628030.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "a73dc049-c132-4e65-b2aa-4a929784f44d-sediment-9-contamination-10"
+  },
+  "onu_85086649140.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c9f847a3-c49c-4b1b-a35a-2782aa506380-tested-5"
+  },
+  "onu_85086667338.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "c26fa3b4-e85d-44f5-a212-fecb246d8968-upward-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "c26fa3b4-e85d-44f5-a212-fecb246d8968-way-10"
+  },
+  "onu_85086808985.json": {},
+  "onu_85086809805.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "6af17be2-6207-49d6-b833-4d7a7d7f3202-systems-2",
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "6af17be2-6207-49d6-b833-4d7a7d7f3202-efficiency-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086829622.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85086929987.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "bf00c9a7-3a6c-4c86-8963-d608a1190c8b-hydrocarbons-10-contamination-11"
+  },
+  "onu_85087227840.json": {},
+  "onu_85087228205.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087345946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85087348432.json": {},
+  "onu_85087970879.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "f621e98e-60cb-4cb5-ae34-4032e1759b6c-better-43",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088133476.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088202607.json": {},
+  "onu_85088697920.json": {},
+  "onu_85088709907.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088763109.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088793210.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "36cf26a9-49e9-4151-9e5e-0835540d9f61-clear-10"
+  },
+  "onu_85088799870.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "a03ca6d2-0a37-4888-8976-63f43be4ad56-reproductive-2"
+  },
+  "onu_85088892946.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85088978023.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85089199336.json": {},
+  "onu_85089245637.json": {},
+  "onu_85089527352.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "3e605179-b368-4602-b44b-ceaa04c453c2-environmental-5"
+  },
+  "onu_85089654013.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "a2db29ca-fd16-4a69-84be-cf3a7ea3f7ae-human-19"
+  },
+  "onu_85090201621.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "f9f900c7-5742-455e-b3dc-60b4fee023c9-oil-2-pollution-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090367193.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "026bc1df-a0cf-433b-b29b-2c16bf35150d-objective-32"
+  },
+  "onu_85090483755.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85090507698.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "b6d6d264-109e-4fad-a0b3-0364af473595-operational-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "b6d6d264-109e-4fad-a0b3-0364af473595-Innovative-1"
+  },
+  "onu_85090509939.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "434cbfb2-e716-43dd-abaf-4575fa516085-Nuclear-4"
+  },
+  "onu_85090511016.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "2a7ad20c-6a88-421a-a937-fdbf2543b0df-inherent-5"
+  },
+  "onu_85090646059.json": {},
+  "onu_85090693617.json": {},
+  "onu_85090982605.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "3f77cc69-82ae-40d3-b552-aa633b7f1621-problems-16",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "3f77cc69-82ae-40d3-b552-aa633b7f1621-sustainable-10",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "3f77cc69-82ae-40d3-b552-aa633b7f1621-territorial-11"
+  },
+  "onu_85091197319.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "3d38e2b0-9e33-4f86-8022-835513cb2d77-quantitative-15",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "3d38e2b0-9e33-4f86-8022-835513cb2d77-seismic-10"
+  },
+  "onu_85091725112.json": {},
+  "onu_85091986329.json": {},
+  "onu_85092100205.json": {},
+  "onu_85092110011.json": {},
+  "onu_85092499794.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85093942688.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "1be9b63b-f885-4cce-860e-7e7356ee91ae-fundamental-28",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85094168812.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras"
+  },
+  "onu_85095686213.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "2b71d4fa-56c5-4102-8a03-0d5151874d42-thermal-17"
+  },
+  "onu_85095886757.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85096027479.json": {},
+  "onu_85096104148.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "ae1a2359-6ac6-4b39-9948-774de2ff206e-evolutionary-20"
+  },
+  "onu_85096519364.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-internal-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-3",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "5a2f629b-1203-4cbb-b64b-da1c5525ea55-seismic-7"
+  },
+  "onu_85096833213.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-water-4-contamination-5": "4d34758f-998c-42ff-ab34-a71d7aeaba00-potential-6-contamination-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "4d34758f-998c-42ff-ab34-a71d7aeaba00-metabolic-20",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "4d34758f-998c-42ff-ab34-a71d7aeaba00-metabolic-20"
+  },
+  "onu_85097322074.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "b48fdd8a-3b84-4fe3-a72a-6c7ab49da1c3-sustainable-31"
+  },
+  "onu_85097480849.json": {},
+  "onu_85097539519.json": {},
+  "onu_85097552901.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "d8cfb4de-70be-467f-985d-1b6570de040d-continuous-4",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097570159.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-human-20",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-better-2",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-sustainable-30": "14c6eb44-ef72-45a1-b03e-cd2275e92fed-global-36",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097598677.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097758556.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "ea95441f-c561-441f-9bf8-9f6102051745-faults-16",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "ea95441f-c561-441f-9bf8-9f6102051745-magnetic-7",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097770989.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "2cc98001-f232-4675-9305-a2fed963fe2c-continental-21",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85097876795.json": {},
+  "onu_85097889884.json": {},
+  "onu_85097914346.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "7bd350f1-1b5a-4581-ba39-6b5bf410ee6c-spatial-6"
+  },
+  "onu_85097951230.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "d6883d36-bf69-406e-b609-e85a3744a46f-better-6"
+  },
+  "onu_85098462600.json": {},
+  "onu_85099021856.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-problems-5": "b146d1cd-1198-4146-911d-471f79f60f33-problems-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "b146d1cd-1198-4146-911d-471f79f60f33-environmental-6",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "b146d1cd-1198-4146-911d-471f79f60f33-actions-18"
+  },
+  "onu_85099211729.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-error-2": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-error-21",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-mean-13",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "e2ca08e5-68d1-48c3-b089-d2f1dff55a95-operational-8",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099279592.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099301920.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-better-35": "7548607a-2b9a-4332-9ee4-f4344220c57a-better-20",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85099313369.json": {},
+  "onu_85099520347.json": {},
+  "onu_85100594780.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "7b052a62-37cd-4e95-89b5-4905dc6c3f2d-hierarchical-36",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "NE-CAUSE_OF_DEATH-floods"
+  },
+  "onu_85100847459.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-oil-8-spills-9": "85707440-0e0f-41bc-88e0-795df8a350c9-oil-6-spill-7-incident-8",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-decisions-41": "85707440-0e0f-41bc-88e0-795df8a350c9-actions-13",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "85707440-0e0f-41bc-88e0-795df8a350c9-proper-12"
+  },
+  "onu_85101031678.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "df4e7525-7180-4e43-bced-ab6436efb468-seismic-4"
+  },
+  "onu_85101067912.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "b8ff745b-f126-438a-b4bd-e676c40a4a02-structural-22",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101344072.json": {
+    "NE-ORGANIZATION-Petrobras": "NE-ORGANIZATION-Petrobras",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85101359309.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "65c99a63-593c-45ac-822d-f42c46ce46bd-seismic-18"
+  },
+  "onu_85101493235.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-mechanical-4": "ef158461-f75c-4fd6-954c-3e8db41d439b-seismic-9"
+  },
+  "onu_85101961666.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85102272621.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-way-31": "b052897b-0290-43af-ab31-51bd7863f66c-ways-18",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103445741.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "89db4da0-8f31-4057-95ec-8006cb31c9fb-vertical-12",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85103489384.json": {},
+  "onu_85103521288.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-Human-1": "20734208-feb1-4173-9fdd-e0817c128dc2-linear-7",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-operational-40": "20734208-feb1-4173-9fdd-e0817c128dc2-operational-29",
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-efficiency-25": "20734208-feb1-4173-9fdd-e0817c128dc2-efficiency-34"
+  },
+  "onu_85103724572.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104343927.json": {
+    "aa14fa22-c6e2-4ad8-8f76-493f41282056-result-2": "d2f57460-27c6-4be0-be1f-83c515125f60-result-3",
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104631395.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  },
+  "onu_85104732272.json": {
+    "NE-COUNTRY-Brazil": "NE-COUNTRY-Brazil"
+  }
+}

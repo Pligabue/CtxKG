@@ -1,0 +1,123 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_26850121.txt",
+  "entities": {
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-they-63": "they",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-will-64-drilled-66": "will drilled",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-capacity-45": "capacity",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-48": "platforms",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-assignment-56": "assignment",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-investment-71-costs-72": "investment costs",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2": "problem",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-can-14-formulated-16": "can formulated",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-follows-18": "follows",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-60": "platforms",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-wells-58": "wells",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-multicapacitated-7-plant-8-location-9-problem-10": "multicapacitated plant location problem",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2-of-3-optimal-4-location-5-and-6-sizing-7-of-8-offshore-9-platforms-10-for-11-oil-12-exploration-13-exact-14": "problem of optimal location and sizing of offshore platforms for oil exploration exact",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-32": "discussed",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-use-4": "use",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-31": "discussed",
+    "NE-DATE-Current": "Current",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-owned-18-company-19": "owned company",
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-charge-21-of-22-oil-23-prospection-24": "charge of oil prospection",
+    "NE-NATIONALITY-Brazilian": "Brazilian"
+  },
+  "graph": [
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-they-63",
+      "relation": "will",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-will-64-drilled-66"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-capacity-45",
+      "relation": "location of",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-48"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-assignment-56",
+      "relation": "location of",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-48"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-they-63",
+      "relation": "minimize",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-investment-71-costs-72"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2",
+      "relation": "can",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-can-14-formulated-16"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-can-14-formulated-16",
+      "relation": "at",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-follows-18"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-capacity-45",
+      "relation": "assignment to",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-60"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-capacity-45",
+      "relation": "assignment of",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-wells-58"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2",
+      "relation": "is formulated as",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-multicapacitated-7-plant-8-location-9-problem-10"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2-of-3-optimal-4-location-5-and-6-sizing-7-of-8-offshore-9-platforms-10-for-11-oil-12-exploration-13-exact-14",
+      "relation": "are",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-32"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-use-4",
+      "relation": "is",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-31"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-use-4",
+      "relation": "is",
+      "object_id": "NE-DATE-Current"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-owned-18-company-19",
+      "relation": "is in",
+      "object_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-charge-21-of-22-oil-23-prospection-24"
+    },
+    {
+      "subject_id": "d10db3ad-00ec-441c-8bfa-b7f2521698b4-owned-18-company-19",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    }
+  ],
+  "links": {
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-they-63": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-will-64-drilled-66": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-capacity-45": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-48": [
+      "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-60"
+    ],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-assignment-56": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-investment-71-costs-72": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-can-14-formulated-16": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-follows-18": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-60": [
+      "d10db3ad-00ec-441c-8bfa-b7f2521698b4-platforms-48"
+    ],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-wells-58": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-multicapacitated-7-plant-8-location-9-problem-10": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-problem-2-of-3-optimal-4-location-5-and-6-sizing-7-of-8-offshore-9-platforms-10-for-11-oil-12-exploration-13-exact-14": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-32": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-use-4": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-discussed-31": [],
+    "NE-DATE-Current": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-owned-18-company-19": [],
+    "d10db3ad-00ec-441c-8bfa-b7f2521698b4-charge-21-of-22-oil-23-prospection-24": [],
+    "NE-NATIONALITY-Brazilian": []
+  }
+}

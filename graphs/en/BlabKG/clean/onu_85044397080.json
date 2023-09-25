@@ -1,0 +1,214 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85044397080.txt",
+  "entities": {
+    "NE-CITY-Bay": "Bay",
+    "NE-DATE-January-2000": "January 2000",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-break-19": "break",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-one-22-PETROBRAS-23-oil-24-pipeline-25": "one PETROBRAS oil pipeline",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12": "three periods",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-same-15-stations-16": "same stations",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1": "Studies",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-sediment-7-samples-8": "sediment samples",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-before-18": "before",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-stations-16": "stations",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10": "TOC values",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12": "higher",
+    "NE-DATE-1999": "1999",
+    "NE-DATE-2005": "2005",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-north-6-region-7": "north region",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-It-1": "It",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-5": "increase",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-test-7-abnormalities-8": "test abnormalities",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Abundance-1-richness-4": "Abundance richness",
+    "NE-DATE-2008": "2008",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Trends-1": "Trends",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7": "increase",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-pollution-9-values-10": "pollution values",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-4": "species",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-dominant-3": "dominant",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-6": "increase",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-9-richness-10": "species richness",
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-occurrence-13-of-14-agglutinated-15-species-16": "occurrence of agglutinated species"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "experienced In",
+      "object_id": "NE-DATE-January-2000"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "is in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-break-19",
+      "relation": "is in",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-one-22-PETROBRAS-23-oil-24-pipeline-25"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12",
+      "relation": "is in",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-same-15-stations-16"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1",
+      "relation": "collected on",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1",
+      "relation": "is in",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-sediment-7-samples-8"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12",
+      "relation": "at",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-before-18"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12",
+      "relation": "of",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-same-15-stations-16"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12",
+      "relation": "of",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-stations-16"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10",
+      "relation": "were",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12",
+      "relation": "at",
+      "object_id": "NE-DATE-1999"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12",
+      "relation": "at",
+      "object_id": "NE-DATE-2005"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10",
+      "relation": "were higher than",
+      "object_id": "NE-DATE-1999"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10",
+      "relation": "were higher in",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-north-6-region-7"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12",
+      "relation": "at",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-north-6-region-7"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10",
+      "relation": "were higher In",
+      "object_id": "NE-DATE-2005"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-It-1",
+      "relation": "was observed",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-5"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-5",
+      "relation": "of",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-test-7-abnormalities-8"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Abundance-1-richness-4",
+      "relation": "increased in",
+      "object_id": "NE-DATE-2008"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Trends-1",
+      "relation": "confirmed",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7",
+      "relation": "of",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-pollution-9-values-10"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7",
+      "relation": "of",
+      "object_id": "NE-DATE-2005"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7",
+      "relation": "Trends of",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-4"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-4",
+      "relation": "is",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-dominant-3"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7",
+      "relation": "is in",
+      "object_id": "NE-DATE-2005"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-6",
+      "relation": "was In",
+      "object_id": "NE-DATE-2008"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-6",
+      "relation": "is in",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-9-richness-10"
+    },
+    {
+      "subject_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-6",
+      "relation": "is with",
+      "object_id": "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-occurrence-13-of-14-agglutinated-15-species-16"
+    }
+  ],
+  "links": {
+    "NE-CITY-Bay": [],
+    "NE-DATE-January-2000": [],
+    "NE-LOCATION-Guanabara": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-break-19": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-one-22-PETROBRAS-23-oil-24-pipeline-25": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-three-11-periods-12": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-same-15-stations-16": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Studies-1": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-sediment-7-samples-8": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-before-18": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-stations-16": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-TOC-9-values-10": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-higher-12": [],
+    "NE-DATE-1999": [],
+    "NE-DATE-2005": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-north-6-region-7": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-It-1": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-5": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-test-7-abnormalities-8": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Abundance-1-richness-4": [],
+    "NE-DATE-2008": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-Trends-1": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-7": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-pollution-9-values-10": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-4": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-dominant-3": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-increase-6": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-species-9-richness-10": [],
+    "76c80483-4d1b-4d0c-a46e-c47ac52d12dd-occurrence-13-of-14-agglutinated-15-species-16": []
+  }
+}

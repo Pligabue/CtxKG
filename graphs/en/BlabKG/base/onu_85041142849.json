@@ -1,0 +1,213 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85041142849.txt",
+  "entities": {
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-it-23": "it",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15": "have placed",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-customary-25": "customary",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2": "breakwaters",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-to-13": "to",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-sites-17": "sites",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30": "layers",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-poor-29": "poor",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-sand-35": "sand",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-foundation-20-soils-21": "foundation soils",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-which-4-are-5-exposed-6-to-7-large-8-wave-9-forces-10": "which are exposed to large wave forces",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-weak-19": "weak",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-types-12": "types",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17": "have developed",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-new-11": "new",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4": "projects",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-connection-2": "connection",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7": "offshore breakwaters",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7": "breakwaters",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-paper-2": "paper",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6": "stability",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-types-9": "types",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-geotechnical-5": "geotechnical",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-11": "breakwaters",
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-various-8": "various"
+  },
+  "graph": [
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-it-23",
+      "relation": "is customary",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-it-23",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-customary-25"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2",
+      "relation": "have",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15",
+      "relation": "mark",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-to-13"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15",
+      "relation": "at",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-sites-17"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-it-23",
+      "relation": "dredge",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-poor-29"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30",
+      "relation": "replace breakwaters which are exposed to large wave forces with",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-sand-35"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15",
+      "relation": "at",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-foundation-20-soils-21"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30",
+      "relation": "replace",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-which-4-are-5-exposed-6-to-7-large-8-wave-9-forces-10"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-which-4-are-5-exposed-6-to-7-large-8-wave-9-forces-10",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-weak-19"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-types-12",
+      "relation": "have",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-types-12",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-new-11"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-connection-2",
+      "relation": "is with",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17",
+      "relation": "at",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-connection-2"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-paper-2",
+      "relation": "discusses",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-types-9"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-geotechnical-5"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6",
+      "relation": "of",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-11"
+    },
+    {
+      "subject_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6",
+      "relation": "is",
+      "object_id": "6b251826-cf79-4973-a63d-ae11b18be0c9-various-8"
+    }
+  ],
+  "links": {
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-it-23": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-have-12-placed-15": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-customary-25": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2": [
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7",
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-11"
+    ],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-to-13": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-sites-17": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-layers-30": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-poor-29": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-sand-35": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-foundation-20-soils-21": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-which-4-are-5-exposed-6-to-7-large-8-wave-9-forces-10": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-weak-19": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-types-12": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-have-15-developed-17": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-new-11": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-projects-4": [],
+    "NE-COUNTRY-Brazil": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-connection-2": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7": [
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7"
+    ],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7": [
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2",
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-offshore-6-breakwaters-7",
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-11"
+    ],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-paper-2": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-stability-6": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-types-9": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-geotechnical-5": [],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-11": [
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-2",
+      "6b251826-cf79-4973-a63d-ae11b18be0c9-breakwaters-7"
+    ],
+    "6b251826-cf79-4973-a63d-ae11b18be0c9-various-8": []
+  }
+}

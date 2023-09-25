@@ -1,0 +1,263 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85088697920.txt",
+  "entities": {
+    "63abed40-4d25-436b-bea5-6b97388825c3-area-4": "area",
+    "63abed40-4d25-436b-bea5-6b97388825c3-regions-13": "regions",
+    "63abed40-4d25-436b-bea5-6b97388825c3-large-3": "large",
+    "63abed40-4d25-436b-bea5-6b97388825c3-northeastern-8": "northeastern",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-TITLE-marine": "marine",
+    "63abed40-4d25-436b-bea5-6b97388825c3-E-53-region-54": "E region",
+    "63abed40-4d25-436b-bea5-6b97388825c3-assumed-33": "assumed",
+    "63abed40-4d25-436b-bea5-6b97388825c3-their-35-dispersion-36": "their dispersion",
+    "63abed40-4d25-436b-bea5-6b97388825c3-processes-40": "processes",
+    "63abed40-4d25-436b-bea5-6b97388825c3-those-8": "those",
+    "63abed40-4d25-436b-bea5-6b97388825c3-part-24": "part",
+    "63abed40-4d25-436b-bea5-6b97388825c3-species-3": "species",
+    "63abed40-4d25-436b-bea5-6b97388825c3-cosmopolitan-2": "cosmopolitan",
+    "63abed40-4d25-436b-bea5-6b97388825c3-small-23": "small",
+    "63abed40-4d25-436b-bea5-6b97388825c3-relative-45": "relative",
+    "63abed40-4d25-436b-bea5-6b97388825c3-prompted-38": "prompted",
+    "63abed40-4d25-436b-bea5-6b97388825c3-linked-41": "linked",
+    "63abed40-4d25-436b-bea5-6b97388825c3-sea-46-level-47-changes-48": "sea level changes",
+    "63abed40-4d25-436b-bea5-6b97388825c3-events-43": "events",
+    "NE-LOCATION-Neogene": "Neogene",
+    "63abed40-4d25-436b-bea5-6b97388825c3-%-9": "%",
+    "63abed40-4d25-436b-bea5-6b97388825c3-waters-15": "waters",
+    "63abed40-4d25-436b-bea5-6b97388825c3-temperate-14": "temperate",
+    "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8": "36.5",
+    "NE-CITY-Cabo-Frio": "Cabo Frio",
+    "63abed40-4d25-436b-bea5-6b97388825c3-town-20": "town",
+    "63abed40-4d25-436b-bea5-6b97388825c3-%-45": "%",
+    "63abed40-4d25-436b-bea5-6b97388825c3-rare-47": "rare",
+    "63abed40-4d25-436b-bea5-6b97388825c3-widespread-12": "widespread",
+    "63abed40-4d25-436b-bea5-6b97388825c3-more-11": "more",
+    "63abed40-4d25-436b-bea5-6b97388825c3-south-16": "south",
+    "63abed40-4d25-436b-bea5-6b97388825c3-province-3": "province",
+    "63abed40-4d25-436b-bea5-6b97388825c3-species-15-occurrence-16": "species occurrence",
+    "63abed40-4d25-436b-bea5-6b97388825c3-new-2": "new",
+    "63abed40-4d25-436b-bea5-6b97388825c3-proposed-11": "proposed",
+    "63abed40-4d25-436b-bea5-6b97388825c3-herein-10": "herein"
+  },
+  "graph": [
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-area-4",
+      "relation": "corresponds to",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-regions-13"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-area-4",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-large-3"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-regions-13",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-northeastern-8"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-regions-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-regions-13",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-E-53-region-54",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-assumed-33"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-their-35-dispersion-36",
+      "relation": "was prompted by",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-those-8",
+      "relation": "represent",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-part-24"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-species-3",
+      "relation": "represent",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-part-24"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-species-3",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-cosmopolitan-2"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-part-24",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-small-23"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-relative-45"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-their-35-dispersion-36",
+      "relation": "was",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-prompted-38"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-prompted-38",
+      "relation": "by",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-linked-41"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40",
+      "relation": "of",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-sea-46-level-47-changes-48"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-processes-40",
+      "relation": "at",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-events-43"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-prompted-38",
+      "relation": "at",
+      "object_id": "NE-LOCATION-Neogene"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-9",
+      "relation": "are more widespread in",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-temperate-14"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-9",
+      "relation": "are widespread in",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-9",
+      "relation": "amount to",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15",
+      "relation": "of",
+      "object_id": "NE-CITY-Cabo-Frio"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15",
+      "relation": "at",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-town-20"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-45",
+      "relation": "are",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-rare-47"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-9",
+      "relation": "are",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-widespread-12"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-widespread-12",
+      "relation": "at",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-more-11"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-waters-15",
+      "relation": "at",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-south-16"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-45",
+      "relation": "restricted to",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-E-53-region-54"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-45",
+      "relation": "probably restricted to",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-E-53-region-54"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-%-45",
+      "relation": "amount to",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-province-3",
+      "relation": "is herein proposed based",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-species-15-occurrence-16"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-province-3",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-new-2"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-province-3",
+      "relation": "is",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-proposed-11"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-proposed-11",
+      "relation": "at",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-herein-10"
+    },
+    {
+      "subject_id": "63abed40-4d25-436b-bea5-6b97388825c3-province-3",
+      "relation": "is proposed based",
+      "object_id": "63abed40-4d25-436b-bea5-6b97388825c3-species-15-occurrence-16"
+    }
+  ],
+  "links": {
+    "63abed40-4d25-436b-bea5-6b97388825c3-area-4": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-regions-13": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-large-3": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-northeastern-8": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-TITLE-marine": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-E-53-region-54": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-assumed-33": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-their-35-dispersion-36": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-processes-40": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-those-8": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-part-24": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-species-3": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-cosmopolitan-2": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-small-23": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-relative-45": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-prompted-38": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-linked-41": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-sea-46-level-47-changes-48": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-events-43": [],
+    "NE-LOCATION-Neogene": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-%-9": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-waters-15": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-temperate-14": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-36.5-8": [],
+    "NE-CITY-Cabo-Frio": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-town-20": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-%-45": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-rare-47": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-widespread-12": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-more-11": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-south-16": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-province-3": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-species-15-occurrence-16": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-new-2": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-proposed-11": [],
+    "63abed40-4d25-436b-bea5-6b97388825c3-herein-10": []
+  }
+}

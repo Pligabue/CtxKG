@@ -1,0 +1,443 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84897449140.txt",
+  "entities": {
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-2": "integrity",
+    "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8": "has concern",
+    "b829cc46-eb44-4769-8923-e94eb353af76-design-12-phase-13": "design phase",
+    "b829cc46-eb44-4769-8923-e94eb353af76-major-7": "major",
+    "b829cc46-eb44-4769-8923-e94eb353af76-always-4": "always",
+    "b829cc46-eb44-4769-8923-e94eb353af76-well-11": "well",
+    "NE-LOCATION-Macondo": "Macondo",
+    "b829cc46-eb44-4769-8923-e94eb353af76-concern-30": "concern",
+    "b829cc46-eb44-4769-8923-e94eb353af76-critical-29": "critical",
+    "b829cc46-eb44-4769-8923-e94eb353af76-recent-6-events-7": "recent events",
+    "b829cc46-eb44-4769-8923-e94eb353af76-oil-10-industry-11": "oil industry",
+    "b829cc46-eb44-4769-8923-e94eb353af76-everyone-20": "everyone",
+    "b829cc46-eb44-4769-8923-e94eb353af76-mind-22": "mind",
+    "b829cc46-eb44-4769-8923-e94eb353af76-concerns-10": "concerns",
+    "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15": "uncertainties",
+    "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21": "geomechanical properties",
+    "NE-TITLE-layer": "layer",
+    "b829cc46-eb44-4769-8923-e94eb353af76-salt-18": "salt",
+    "b829cc46-eb44-4769-8923-e94eb353af76-properties-21": "properties",
+    "b829cc46-eb44-4769-8923-e94eb353af76-its-23-interaction-24": "its interaction",
+    "b829cc46-eb44-4769-8923-e94eb353af76-cement-27": "cement",
+    "b829cc46-eb44-4769-8923-e94eb353af76-fields-7-boosted-12": "fields boosted",
+    "NE-ORGANIZATION-Petrobras-Pre-Salt": "Petrobras Pre-Salt",
+    "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11": "lifespan",
+    "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15-number-16-of-17-interventions-18-during-19-their-20-lifespan-21": "minimum number of interventions during their lifespan",
+    "NE-DURATION-30-year": "30 year",
+    "b829cc46-eb44-4769-8923-e94eb353af76-Wells-1": "Wells",
+    "b829cc46-eb44-4769-8923-e94eb353af76-number-16": "number",
+    "b829cc46-eb44-4769-8923-e94eb353af76-Pre-salt-4": "Pre-salt",
+    "b829cc46-eb44-4769-8923-e94eb353af76-designed-6": "designed",
+    "b829cc46-eb44-4769-8923-e94eb353af76-interventions-18": "interventions",
+    "b829cc46-eb44-4769-8923-e94eb353af76-their-20-lifespan-21": "their lifespan",
+    "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15": "minimum",
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-23": "integrity",
+    "b829cc46-eb44-4769-8923-e94eb353af76-casing-31": "casing",
+    "b829cc46-eb44-4769-8923-e94eb353af76-research-2-project-5": "research project",
+    "b829cc46-eb44-4769-8923-e94eb353af76-is-6-conducted-8": "is conducted",
+    "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-16-tools-17": "monitoring tools",
+    "b829cc46-eb44-4769-8923-e94eb353af76-continuous-15": "continuous",
+    "b829cc46-eb44-4769-8923-e94eb353af76-cement-26-sheath-27": "cement sheath",
+    "b829cc46-eb44-4769-8923-e94eb353af76-challenge-6": "challenge",
+    "b829cc46-eb44-4769-8923-e94eb353af76-annulus-14": "annulus",
+    "b829cc46-eb44-4769-8923-e94eb353af76-severe-18-restrictions-19": "severe restrictions",
+    "b829cc46-eb44-4769-8923-e94eb353af76-footprint-21-of-22-components-24": "footprint of components",
+    "b829cc46-eb44-4769-8923-e94eb353af76-casing-13": "casing",
+    "b829cc46-eb44-4769-8923-e94eb353af76-sensors-10": "sensors",
+    "b829cc46-eb44-4769-8923-e94eb353af76-metrology-3-need-4": "metrology need",
+    "b829cc46-eb44-4769-8923-e94eb353af76-investigated-7": "investigated",
+    "b829cc46-eb44-4769-8923-e94eb353af76-required-2": "required",
+    "b829cc46-eb44-4769-8923-e94eb353af76-technology-15-for-16-parameter-18": "technology for parameter",
+    "b829cc46-eb44-4769-8923-e94eb353af76-best-13": "best",
+    "b829cc46-eb44-4769-8923-e94eb353af76-those-22": "those",
+    "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30": "correlation",
+    "b829cc46-eb44-4769-8923-e94eb353af76-well-32-integrity-33-status-34": "well integrity status",
+    "b829cc46-eb44-4769-8923-e94eb353af76-best-29": "best",
+    "b829cc46-eb44-4769-8923-e94eb353af76-to-5": "to",
+    "b829cc46-eb44-4769-8923-e94eb353af76-sensing-14": "sensing",
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-33-status-34": "integrity status",
+    "b829cc46-eb44-4769-8923-e94eb353af76-must-23-determined-25": "must determined",
+    "b829cc46-eb44-4769-8923-e94eb353af76-paper-2": "paper",
+    "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6": "perspectives",
+    "NE-DATE-current": "current",
+    "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-9": "monitoring",
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-12": "integrity",
+    "b829cc46-eb44-4769-8923-e94eb353af76-Parameters-1-identified-3": "Parameters identified",
+    "b829cc46-eb44-4769-8923-e94eb353af76-will-10-presented-13": "will presented",
+    "b829cc46-eb44-4769-8923-e94eb353af76-also-11": "also"
+  },
+  "graph": [
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-2",
+      "relation": "has",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8",
+      "relation": "at",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-design-12-phase-13"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-2",
+      "relation": "been",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-major-7"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-major-7"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8",
+      "relation": "at",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-always-4"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-well-11"
+    },
+    {
+      "subject_id": "NE-LOCATION-Macondo",
+      "relation": "has turned into",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-concern-30"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-concern-30",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-critical-29"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-recent-6-events-7",
+      "relation": "is in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-oil-10-industry-11"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-everyone-20",
+      "relation": "in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-mind-22"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-concerns-10",
+      "relation": "are boosted by",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15",
+      "relation": "of",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15",
+      "relation": "case",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-salt-18"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-properties-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-its-23-interaction-24",
+      "relation": "is with",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-cement-27"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-concerns-10",
+      "relation": "are",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-fields-7-boosted-12"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-fields-7-boosted-12",
+      "relation": "by",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-fields-7-boosted-12",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras-Pre-Salt"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15",
+      "relation": "is in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21",
+      "relation": "of",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-salt-18"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "is with",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15-number-16-of-17-interventions-18-during-19-their-20-lifespan-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "of",
+      "object_id": "NE-DURATION-30-year"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-Wells-1",
+      "relation": "are designed for",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-number-16"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-Wells-1",
+      "relation": "is in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-Pre-salt-4"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-Wells-1",
+      "relation": "are",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-designed-6"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-interventions-18"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-their-20-lifespan-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15-number-16-of-17-interventions-18-during-19-their-20-lifespan-21"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-23",
+      "relation": "ensure",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-casing-31"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-research-2-project-5",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-is-6-conducted-8"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-16-tools-17",
+      "relation": "verify",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-23"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-16-tools-17",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-continuous-15"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-23",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-cement-26-sheath-27"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-challenge-6",
+      "relation": "is install sensors in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-annulus-14"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-severe-18-restrictions-19",
+      "relation": "is in",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-footprint-21-of-22-components-24"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-annulus-14",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-casing-13"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-challenge-6",
+      "relation": "is install",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-sensors-10"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-metrology-3-need-4",
+      "relation": "be",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-investigated-7"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-metrology-3-need-4",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-required-2"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-metrology-3-need-4",
+      "relation": "determine",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-technology-15-for-16-parameter-18"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-technology-15-for-16-parameter-18",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-best-13"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-those-22",
+      "relation": "achieve",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-well-32-integrity-33-status-34"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-best-29"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-investigated-7",
+      "relation": "mark",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-to-5"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-technology-15-for-16-parameter-18",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-sensing-14"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-33-status-34"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-those-22",
+      "relation": "must",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-must-23-determined-25"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30",
+      "relation": "is with",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-well-32-integrity-33-status-34"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-paper-2",
+      "relation": "discusses",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-9"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6",
+      "relation": "of",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-integrity-12"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6",
+      "relation": "is",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-well-11"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-Parameters-1-identified-3",
+      "relation": "will",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-will-10-presented-13"
+    },
+    {
+      "subject_id": "b829cc46-eb44-4769-8923-e94eb353af76-will-10-presented-13",
+      "relation": "at",
+      "object_id": "b829cc46-eb44-4769-8923-e94eb353af76-also-11"
+    }
+  ],
+  "links": {
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-2": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-has-3-concern-8": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-design-12-phase-13": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-major-7": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-always-4": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-well-11": [],
+    "NE-LOCATION-Macondo": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-concern-30": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-critical-29": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-recent-6-events-7": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-oil-10-industry-11": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-everyone-20": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-mind-22": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-concerns-10": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-uncertainties-15": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-geomechanical-20-properties-21": [],
+    "NE-TITLE-layer": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-salt-18": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-properties-21": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-its-23-interaction-24": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-cement-27": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-fields-7-boosted-12": [],
+    "NE-ORGANIZATION-Petrobras-Pre-Salt": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-lifespan-11": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15-number-16-of-17-interventions-18-during-19-their-20-lifespan-21": [],
+    "NE-DURATION-30-year": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-Wells-1": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-number-16": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-Pre-salt-4": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-designed-6": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-interventions-18": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-their-20-lifespan-21": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-minimum-15": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-23": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-casing-31": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-research-2-project-5": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-is-6-conducted-8": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-16-tools-17": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-continuous-15": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-cement-26-sheath-27": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-challenge-6": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-annulus-14": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-severe-18-restrictions-19": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-footprint-21-of-22-components-24": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-casing-13": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-sensors-10": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-metrology-3-need-4": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-investigated-7": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-required-2": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-technology-15-for-16-parameter-18": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-best-13": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-those-22": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-correlation-30": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-well-32-integrity-33-status-34": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-best-29": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-to-5": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-sensing-14": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-33-status-34": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-must-23-determined-25": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-paper-2": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-perspectives-6": [],
+    "NE-DATE-current": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-monitoring-9": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-integrity-12": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-Parameters-1-identified-3": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-will-10-presented-13": [],
+    "b829cc46-eb44-4769-8923-e94eb353af76-also-11": []
+  }
+}

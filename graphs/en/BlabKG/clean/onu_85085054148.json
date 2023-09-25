@@ -1,0 +1,334 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085054148.txt",
+  "entities": {
+    "NE-LOCATION-Basin": "Basin",
+    "NE-COUNTRY-Colombia": "Colombia",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2": "analyses",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-samples-10": "samples",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Micropaleontological-1": "Micropaleontological",
+    "NE-ORGANIZATION-Agencia-Nacional-de-Hidrocarburos": "Agencia Nacional de Hidrocarburos",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-conducted-8": "conducted",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-taken-11": "taken",
+    "NE-CITY-San-Jacinto": "San Jacinto",
+    "NE-LOCATION-Caribbean-Region": "Caribbean Region",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-our-19-study-20": "our study",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-substratum-35": "substratum",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-39-margin-40": "inland margin",
+    "NE-LOCATION-Caribbean": "Caribbean",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32": "Lower Eocene rocks",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-sedimentary-31": "sedimentary",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-bearing-30": "bearing",
+    "NE-ORDINAL-first": "first",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-coccolith-28": "coccolith",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-assemblages-2": "assemblages",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-occurrences-7": "occurrences",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-common-6": "common",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Reticulofenestra-9-dictyoda-10": "Reticulofenestra dictyoda",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Zone-32-NP12-33": "Zone NP12",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-362-21-m-22": "362 m",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5": "Campylosphaera dela",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Helicosphaeroides-13-lophota-14": "Helicosphaeroides lophota",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Pontosphaera-20-spp.-21": "Pontosphaera spp",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-10-pelagicus-11": "Coccolithus pelagicus",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-species-2": "species",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-7-formosus-8": "Coccolithus formosus",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Other-1": "Other",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-published-18-information-19": "published information",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24": "margin",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-most-17": "most",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-26": "inland",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-continental-23": "continental",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-calcareous-3-nannofossil-4-distribution-5": "calcareous nannofossil distribution",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-sediments-9": "sediments",
+    "NE-MISC-Cenozoic": "Cenozoic",
+    "NE-TITLE-marine": "marine",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Investigations-1": "Investigations",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-few-14": "few",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Man-2-Aike-3-Formation-4": "Man Aike Formation",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-only-13": "only",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-comparison-19": "comparison",
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-available-17": "available",
+    "NE-LOCATION-Austral-Basin": "Austral Basin",
+    "NE-COUNTRY-Argentina": "Argentina"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "Region of",
+      "object_id": "NE-COUNTRY-Colombia"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2",
+      "relation": "were conducted on",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-samples-10"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Micropaleontological-1"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-samples-10",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-Agencia-Nacional-de-Hidrocarburos"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2",
+      "relation": "were",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-conducted-8"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-samples-10",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-taken-11"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-San-Jacinto"
+    },
+    {
+      "subject_id": "NE-LOCATION-Caribbean-Region",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Colombia"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-our-19-study-20",
+      "relation": "report Lower Eocene rocks in",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-substratum-35"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-substratum-35",
+      "relation": "of",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-39-margin-40"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-substratum-35",
+      "relation": "is",
+      "object_id": "NE-LOCATION-Caribbean"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-our-19-study-20",
+      "relation": "report",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-sedimentary-31"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-bearing-30"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-our-19-study-20",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "at",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-coccolith-28"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-assemblages-2",
+      "relation": "are characterized by",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-occurrences-7"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-occurrences-7",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-common-6"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-occurrences-7",
+      "relation": "of",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Reticulofenestra-9-dictyoda-10"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Zone-32-NP12-33",
+      "relation": "core between",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-362-21-m-22"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "Other species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Helicosphaeroides-13-lophota-14"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "Other species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Pontosphaera-20-spp.-21"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Helicosphaeroides-13-lophota-14"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-10-pelagicus-11"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "Other species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-10-pelagicus-11"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-species-2",
+      "relation": "include",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "Other species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-7-formosus-8"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-7-formosus-8"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-species-2",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Other-1"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5",
+      "relation": "species",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Pontosphaera-20-spp.-21"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-published-18-information-19",
+      "relation": "concerns",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-published-18-information-19",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-most-17"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24",
+      "relation": "published information",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-26"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24",
+      "relation": "most published information",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-26"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-continental-23"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-calcareous-3-nannofossil-4-distribution-5",
+      "relation": "is in",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-sediments-9"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-sediments-9",
+      "relation": "of",
+      "object_id": "NE-MISC-Cenozoic"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-sediments-9",
+      "relation": "of",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Investigations-1",
+      "relation": "are",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-few-14"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Man-2-Aike-3-Formation-4",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-only-13"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "at",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-comparison-19"
+    },
+    {
+      "subject_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32",
+      "relation": "is",
+      "object_id": "2bcf1f59-1fcf-489f-a631-354d435acfe1-available-17"
+    },
+    {
+      "subject_id": "NE-LOCATION-Austral-Basin",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Argentina"
+    }
+  ],
+  "links": {
+    "NE-LOCATION-Basin": [],
+    "NE-COUNTRY-Colombia": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-analyses-2": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-samples-10": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Micropaleontological-1": [],
+    "NE-ORGANIZATION-Agencia-Nacional-de-Hidrocarburos": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-conducted-8": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-taken-11": [],
+    "NE-CITY-San-Jacinto": [],
+    "NE-LOCATION-Caribbean-Region": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-our-19-study-20": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-substratum-35": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-39-margin-40": [],
+    "NE-LOCATION-Caribbean": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Lower-26-Eocene-27-rocks-32": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-sedimentary-31": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-bearing-30": [],
+    "NE-ORDINAL-first": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-coccolith-28": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-assemblages-2": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-occurrences-7": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-common-6": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Reticulofenestra-9-dictyoda-10": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Zone-32-NP12-33": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-362-21-m-22": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Campylosphaera-4-dela-5": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Helicosphaeroides-13-lophota-14": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Pontosphaera-20-spp.-21": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-10-pelagicus-11": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-species-2": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Coccolithus-7-formosus-8": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Other-1": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-published-18-information-19": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-margin-24": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-most-17": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-inland-26": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-continental-23": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-calcareous-3-nannofossil-4-distribution-5": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-sediments-9": [],
+    "NE-MISC-Cenozoic": [],
+    "NE-TITLE-marine": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Investigations-1": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-few-14": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-Man-2-Aike-3-Formation-4": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-only-13": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-comparison-19": [],
+    "2bcf1f59-1fcf-489f-a631-354d435acfe1-available-17": [],
+    "NE-LOCATION-Austral-Basin": [],
+    "NE-COUNTRY-Argentina": []
+  }
+}

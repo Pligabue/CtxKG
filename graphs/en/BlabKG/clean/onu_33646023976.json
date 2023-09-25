@@ -1,0 +1,344 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_33646023976.txt",
+  "entities": {
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-many-18-challenges-19": "many challenges",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-environmental-21-management-22": "environmental management",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62": "Vessel Vergina II oil spill",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-channel-66": "channel",
+    "NE-LOCATION-São-Sebastião": "São Sebastião",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2": "paper",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9": "studies",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11": "affected",
+    "NE-DATE-November-2000": "November 2000",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-5-characterizations-6": "oil characterizations",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-state-71": "state",
+    "NE-LOCATION-São-Paulo": "São Paulo",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11-ecosystems-12-such-13-hot-16-spots-17-on-18-soils-19": "affected ecosystems such hot spots on soils",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26": "oil spill",
+    "NE-LOCATION-Iguassu": "Iguassu",
+    "NE-TITLE-River": "River",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-12": "ecosystems",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41": "area",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-refinery-47-located-48-in-49-state-51": "refinery located in state",
+    "NE-TITLE-scraper": "scraper",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-CITY-Parana": "Parana",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-pipeline-36-rupture-37": "pipeline rupture",
+    "NE-LOCATION-REPAR": "REPAR",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Chemical-1-analysis-2": "Chemical analysis",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-4": "performed",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2": "inspections",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-level-31": "level",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-maps-24": "maps",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Visual-1": "Visual",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-classified-26": "classified",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-5": "performed",
+    "NE-CITY-Bay": "Bay",
+    "NE-LOCATION-Guanabara": "Guanabara",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-20": "oil",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-34-contamination-35": "oil contamination",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-16": "ecosystems",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-15": "affected",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-19": "spilled",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-regions-27": "regions",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-mainly-6": "mainly",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-visual-33": "visual",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-also-4": "also",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-toxicity-3": "toxicity",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9": "water fraction",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-15": "spilled",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-acute-2": "acute",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-evaluated-5": "evaluated",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-soluble-8": "soluble",
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oils-16": "oils"
+  },
+  "graph": [
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-many-18-challenges-19",
+      "relation": "is in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-environmental-21-management-22"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62",
+      "relation": "is in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-channel-66"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-channel-66",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Sebastião"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2",
+      "relation": "monitoring",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62",
+      "relation": "occurred in",
+      "object_id": "NE-DATE-November-2000"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62",
+      "relation": "at",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-5-characterizations-6"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62",
+      "relation": "located in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-state-71"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-state-71",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Paulo"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2",
+      "relation": "presents",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-5-characterizations-6"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9",
+      "relation": "is in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11-ecosystems-12-such-13-hot-16-spots-17-on-18-soils-19"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-5-characterizations-6",
+      "relation": "affected by",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Iguassu"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26",
+      "relation": "of",
+      "object_id": "NE-TITLE-River"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9",
+      "relation": "of",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-12"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41",
+      "relation": "in rupture is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-refinery-47-located-48-in-49-state-51"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41",
+      "relation": "of",
+      "object_id": "NE-TITLE-scraper"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-refinery-47-located-48-in-49-state-51",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-refinery-47-located-48-in-49-state-51",
+      "relation": "of",
+      "object_id": "NE-CITY-Parana"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-pipeline-36-rupture-37",
+      "relation": "is in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41",
+      "relation": "of",
+      "object_id": "NE-LOCATION-REPAR"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Chemical-1-analysis-2",
+      "relation": "were",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-4"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "plot maps based",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-level-31"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "plot",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-maps-24"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Visual-1"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-maps-24",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-classified-26"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "were",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-5"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "were also performed in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "NE-CITY-Bay",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Guanabara"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "identify ecosystems by",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-20"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-level-31",
+      "relation": "of",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-34-contamination-35"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "identify",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-16"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-16",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-15"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "were also performed mainly in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-20",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-19"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-maps-24",
+      "relation": "of",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-regions-27"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "were performed in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-5",
+      "relation": "at",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-mainly-6"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2",
+      "relation": "were performed mainly in",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-level-31",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-visual-33"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-5",
+      "relation": "at",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-also-4"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-toxicity-3",
+      "relation": "was evaluated in",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-15"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-toxicity-3",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-acute-2"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-toxicity-3",
+      "relation": "was",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-evaluated-5"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9",
+      "relation": "is",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-soluble-8"
+    },
+    {
+      "subject_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9",
+      "relation": "of",
+      "object_id": "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oils-16"
+    }
+  ],
+  "links": {
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-many-18-challenges-19": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-environmental-21-management-22": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Vessel-58-Vergina-59-II-60-oil-61-spill-62": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-channel-66": [],
+    "NE-LOCATION-São-Sebastião": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-paper-2": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-studies-9": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11": [],
+    "NE-DATE-November-2000": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-5-characterizations-6": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-state-71": [],
+    "NE-LOCATION-São-Paulo": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-11-ecosystems-12-such-13-hot-16-spots-17-on-18-soils-19": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-25-spill-26": [],
+    "NE-LOCATION-Iguassu": [],
+    "NE-TITLE-River": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-12": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-area-41": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-refinery-47-located-48-in-49-state-51": [],
+    "NE-TITLE-scraper": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-CITY-Parana": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-pipeline-36-rupture-37": [],
+    "NE-LOCATION-REPAR": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Chemical-1-analysis-2": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-4": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-inspections-2": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-level-31": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-maps-24": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-Visual-1": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-classified-26": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-performed-5": [],
+    "NE-CITY-Bay": [],
+    "NE-LOCATION-Guanabara": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-20": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oil-34-contamination-35": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-ecosystems-16": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-affected-15": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-19": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-regions-27": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-mainly-6": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-visual-33": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-also-4": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-toxicity-3": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-water-7-fraction-9": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-spilled-15": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-acute-2": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-evaluated-5": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-soluble-8": [],
+    "4d5d6714-e3d6-4798-a96f-5279e7b9359d-oils-16": []
+  }
+}

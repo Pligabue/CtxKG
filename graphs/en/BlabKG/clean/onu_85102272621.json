@@ -1,0 +1,385 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85102272621.txt",
+  "entities": {
+    "b052897b-0290-43af-ab31-51bd7863f66c-hydroclimate-3": "hydroclimate",
+    "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8": "core region",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "b052897b-0290-43af-ab31-51bd7863f66c-Central-1": "Central",
+    "NE-MISC-South": "South",
+    "b052897b-0290-43af-ab31-51bd7863f66c-monsoon-13-system-14": "monsoon system",
+    "NE-NATIONALITY-American": "American",
+    "b052897b-0290-43af-ab31-51bd7863f66c-understanding-3-precipitation-4-variability-5": "understanding precipitation variability",
+    "b052897b-0290-43af-ab31-51bd7863f66c-area-8": "area",
+    "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2": "Ocean teleconnections",
+    "b052897b-0290-43af-ab31-51bd7863f66c-ways-18": "ways",
+    "b052897b-0290-43af-ab31-51bd7863f66c-linear-15": "linear",
+    "b052897b-0290-43af-ab31-51bd7863f66c-intraseasonal-8": "intraseasonal",
+    "b052897b-0290-43af-ab31-51bd7863f66c-interdecadal-10": "interdecadal",
+    "b052897b-0290-43af-ab31-51bd7863f66c-central-4": "central",
+    "NE-DATE-summer": "summer",
+    "b052897b-0290-43af-ab31-51bd7863f66c-frequencies-11": "frequencies",
+    "b052897b-0290-43af-ab31-51bd7863f66c-we-2": "we",
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11": "precipitation",
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-5": "influence",
+    "b052897b-0290-43af-ab31-51bd7863f66c-eight-18-decades-19": "eight decades",
+    "NE-LOCATION-Pacific": "Pacific",
+    "b052897b-0290-43af-ab31-51bd7863f66c-variability-8": "variability",
+    "b052897b-0290-43af-ab31-51bd7863f66c-last-17": "last",
+    "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36": "Intercomparison Project phases 5",
+    "b052897b-0290-43af-ab31-51bd7863f66c-LMDZ-28": "LMDZ",
+    "NE-TITLE-Model": "Model",
+    "b052897b-0290-43af-ab31-51bd7863f66c-Coupled-31": "Coupled",
+    "NE-TITLE-model": "model",
+    "b052897b-0290-43af-ab31-51bd7863f66c-increase-5": "increase",
+    "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7": "amplitude",
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-12-variability-13": "precipitation variability",
+    "b052897b-0290-43af-ab31-51bd7863f66c-results-2": "results",
+    "b052897b-0290-43af-ab31-51bd7863f66c-1970s-16-climate-17-transition-18": "1970s climate transition",
+    "b052897b-0290-43af-ab31-51bd7863f66c-transition-8": "transition",
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14": "influence to central",
+    "NE-LOCATION-Pacific-Ocean": "Pacific Ocean",
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-16": "precipitation",
+    "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2": "analysis",
+    "b052897b-0290-43af-ab31-51bd7863f66c-PDO-19-Southern-25-Oscillation-26": "PDO Southern Oscillation",
+    "b052897b-0290-43af-ab31-51bd7863f66c-Spectral-1": "Spectral",
+    "b052897b-0290-43af-ab31-51bd7863f66c-related-31": "related",
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-12": "influence",
+    "b052897b-0290-43af-ab31-51bd7863f66c-changes-5": "changes",
+    "NE-LOCATION-El-Niño": "El Niño",
+    "NE-ORGANIZATION-ENSO": "ENSO",
+    "b052897b-0290-43af-ab31-51bd7863f66c-related-7": "related",
+    "b052897b-0290-43af-ab31-51bd7863f66c-teleconnection-9-patterns-10": "teleconnection patterns"
+  },
+  "graph": [
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-hydroclimate-3",
+      "relation": "is in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-hydroclimate-3",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-hydroclimate-3",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-Central-1"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8",
+      "relation": "is",
+      "object_id": "NE-MISC-South"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-monsoon-13-system-14"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-American"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-understanding-3-precipitation-4-variability-5",
+      "relation": "is in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-area-8"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2",
+      "relation": "influence Brazil precipitation in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-ways-18"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-ways-18",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-linear-15"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2",
+      "relation": "influence",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2",
+      "relation": "influence Brazil precipitation from",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-intraseasonal-8"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-intraseasonal-8",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-interdecadal-10"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-central-4"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2",
+      "relation": "influence Brazil precipitation during",
+      "object_id": "NE-DATE-summer"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-intraseasonal-8",
+      "relation": "at",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-frequencies-11"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "Here examined influence on",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "examined influence on",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "examined",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-5"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "examined influence during",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-eight-18-decades-19"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "Here examined",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-5"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pacific"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-5",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-variability-8"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-eight-18-decades-19",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-last-17"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11",
+      "relation": "of",
+      "object_id": "NE-DATE-summer"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-we-2",
+      "relation": "Here examined influence during",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-eight-18-decades-19"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36",
+      "relation": "in model is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-LMDZ-28"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36",
+      "relation": "of",
+      "object_id": "NE-TITLE-Model"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-Coupled-31"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "is in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-increase-5",
+      "relation": "is in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7",
+      "relation": "of",
+      "object_id": "NE-DATE-summer"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-12-variability-13"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-results-2",
+      "relation": "showed",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-increase-5"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-increase-5",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-results-2",
+      "relation": "showed increase after",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-1970s-16-climate-17-transition-18"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "is in",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pacific-Ocean"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-16"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2",
+      "relation": "associated changes from",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-PDO-19-Southern-25-Oscillation-26"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-Spectral-1"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-PDO-19-Southern-25-Oscillation-26",
+      "relation": "is",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-related-31"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2",
+      "relation": "associated changes to",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pacific-Ocean"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2",
+      "relation": "associated",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-changes-5"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-PDO-19-Southern-25-Oscillation-26",
+      "relation": "of",
+      "object_id": "NE-LOCATION-El-Niño"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-transition-8",
+      "relation": "of",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-16"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2",
+      "relation": "associated changes from",
+      "object_id": "NE-ORGANIZATION-ENSO"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-changes-5",
+      "relation": "are",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-related-7"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-changes-5",
+      "relation": "are related to",
+      "object_id": "b052897b-0290-43af-ab31-51bd7863f66c-teleconnection-9-patterns-10"
+    },
+    {
+      "subject_id": "b052897b-0290-43af-ab31-51bd7863f66c-teleconnection-9-patterns-10",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Pacific-Ocean"
+    }
+  ],
+  "links": {
+    "b052897b-0290-43af-ab31-51bd7863f66c-hydroclimate-3": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-core-7-region-8": [],
+    "NE-COUNTRY-Brazil": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-Central-1": [],
+    "NE-MISC-South": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-monsoon-13-system-14": [],
+    "NE-NATIONALITY-American": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-understanding-3-precipitation-4-variability-5": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-area-8": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-Ocean-1-teleconnections-2": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-ways-18": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-linear-15": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-intraseasonal-8": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-interdecadal-10": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-central-4": [],
+    "NE-DATE-summer": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-frequencies-11": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-we-2": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-11": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-5": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-eight-18-decades-19": [],
+    "NE-LOCATION-Pacific": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-variability-8": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-last-17": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-Intercomparison-33-Project-34-phases-35-5-36": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-LMDZ-28": [],
+    "NE-TITLE-Model": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-Coupled-31": [],
+    "NE-TITLE-model": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-increase-5": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-amplitude-7": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-12-variability-13": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-results-2": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-1970s-16-climate-17-transition-18": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-transition-8": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-12-to-13-central-14": [],
+    "NE-LOCATION-Pacific-Ocean": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-precipitation-16": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-analysis-2": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-PDO-19-Southern-25-Oscillation-26": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-Spectral-1": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-related-31": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-influence-12": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-changes-5": [],
+    "NE-LOCATION-El-Niño": [],
+    "NE-ORGANIZATION-ENSO": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-related-7": [],
+    "b052897b-0290-43af-ab31-51bd7863f66c-teleconnection-9-patterns-10": []
+  }
+}

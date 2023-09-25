@@ -1,0 +1,360 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85088978023.txt",
+  "entities": {
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelves-2": "shelves",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10": "importance",
+    "NE-ORGANIZATION-Continental": "Continental",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-environmental-7": "environmental",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-4": "areas",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-management-15-efforts-18": "management efforts",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-extreme-6": "extreme",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-23": "areas",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-traditional-25-techniques-26": "traditional techniques",
+    "NE-TITLE-marine": "marine",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-surveying-20-large-21": "surveying large",
+    "NE-PERSON-Carbonatic": "Carbonatic",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-distributed-8": "distributed",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-depth-29-range-30": "depth range",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-34": "areas",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-13": "regions",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-tropical-10": "tropical",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-characteristics-16": "characteristics",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22": "shelf",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-starved-21": "starved",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7": "applicability",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-North-24": "North",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-sediment-19": "sediment",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-study-4": "study",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Landsat-9-8-11-imagery-12": "Landsat 8 imagery",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-16": "features",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bottom-15": "bottom",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-eastern-26": "eastern",
+    "NE-ORGANIZATION-Northeast-Continental-Shelf": "Northeast Continental Shelf",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2": "scenes",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-steps-8": "steps",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Nine-1": "Nine",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-same-7": "same",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-processed-4": "processed",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-best-5": "best",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Two-1": "Two",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-9": "features",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-targeted-8": "targeted",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-We-1": "We",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-14-3-paleochannels-4": "14 paleochannels",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-pixel-2-analysis-7": "pixel analysis",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-available-10-bathymetric-11-field-12-data-13": "available bathymetric field data",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Misinterpreted-1-pixels-2": "Misinterpreted pixels",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8": "regions",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-either-4": "either",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-identified-10": "identified",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-12": "paleochannels",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-incorrectly-9": "incorrectly",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bordering-7": "bordering",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-imagery-15": "imagery",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-21": "areas",
+    "NE-MISC-Landsat": "Landsat",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-submerged-20": "submerged",
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-18": "paleochannels"
+  },
+  "graph": [
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelves-2",
+      "relation": "are areas of",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelves-2",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Continental"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-environmental-7"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelves-2",
+      "relation": "are",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-4"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10",
+      "relation": "of",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-management-15-efforts-18"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-extreme-6"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-23",
+      "relation": "is with",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-traditional-25-techniques-26"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-23",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-23",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-surveying-20-large-21"
+    },
+    {
+      "subject_id": "NE-PERSON-Carbonatic",
+      "relation": "are",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-distributed-8"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-depth-29-range-30",
+      "relation": "found in",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-34"
+    },
+    {
+      "subject_id": "NE-PERSON-Carbonatic",
+      "relation": "are distributed across",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-13"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-13",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-tropical-10"
+    },
+    {
+      "subject_id": "NE-PERSON-Carbonatic",
+      "relation": "display",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-characteristics-16"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-starved-21"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7",
+      "relation": "detect features in",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-North-24"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "at",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-sediment-19"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-study-4",
+      "relation": "tested",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7",
+      "relation": "of",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Landsat-9-8-11-imagery-12"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7",
+      "relation": "detect",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-16"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-16",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bottom-15"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-eastern-26"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-study-4",
+      "relation": "Thus tested",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Northeast-Continental-Shelf",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2",
+      "relation": "were processed following",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-steps-8"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2",
+      "relation": "amount to",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Nine-1"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-steps-8",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-same-7"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2",
+      "relation": "were",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-processed-4"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2",
+      "relation": "were deemed",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-best-5"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2",
+      "relation": "amount to",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Two-1"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-best-5",
+      "relation": "portray",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-9"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-9",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-targeted-8"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-We-1",
+      "relation": "detected",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-14-3-paleochannels-4"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-pixel-2-analysis-7",
+      "relation": "using",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-available-10-bathymetric-11-field-12-data-13"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Misinterpreted-1-pixels-2",
+      "relation": "were due",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+      "relation": "at",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-either-4"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-identified-10"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+      "relation": "at",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-12"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+      "relation": "at",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-incorrectly-9"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bordering-7"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-imagery-15",
+      "relation": "map paleochannels in",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-21"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-imagery-15",
+      "relation": "of",
+      "object_id": "NE-MISC-Landsat"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-21",
+      "relation": "is",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-submerged-20"
+    },
+    {
+      "subject_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-imagery-15",
+      "relation": "map",
+      "object_id": "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-18"
+    }
+  ],
+  "links": {
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelves-2": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-importance-10": [],
+    "NE-ORGANIZATION-Continental": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-environmental-7": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-4": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-management-15-efforts-18": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-extreme-6": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-23": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-traditional-25-techniques-26": [],
+    "NE-TITLE-marine": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-surveying-20-large-21": [],
+    "NE-PERSON-Carbonatic": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-distributed-8": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-depth-29-range-30": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-34": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-13": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-tropical-10": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-characteristics-16": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-shelf-22": [],
+    "NE-COUNTRY-Brazil": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-starved-21": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-applicability-7": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-North-24": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-sediment-19": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-study-4": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Landsat-9-8-11-imagery-12": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-16": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bottom-15": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-eastern-26": [],
+    "NE-ORGANIZATION-Northeast-Continental-Shelf": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-scenes-2": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-steps-8": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Nine-1": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-same-7": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-processed-4": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-best-5": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Two-1": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-features-9": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-targeted-8": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-We-1": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-14-3-paleochannels-4": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-pixel-2-analysis-7": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-available-10-bathymetric-11-field-12-data-13": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-Misinterpreted-1-pixels-2": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-regions-8": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-either-4": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-identified-10": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-12": [
+      "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-18"
+    ],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-incorrectly-9": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-bordering-7": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-imagery-15": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-areas-21": [],
+    "NE-MISC-Landsat": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-submerged-20": [],
+    "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-18": [
+      "5c4d5f71-2e1b-462e-85ee-b111f81225e4-paleochannels-12"
+    ]
+  }
+}

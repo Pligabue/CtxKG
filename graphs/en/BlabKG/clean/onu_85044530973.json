@@ -1,0 +1,343 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85044530973.txt",
+  "entities": {
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7": "basin",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2": "Campos",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16": "north coast",
+    "NE-LOCATION-State": "State",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6": "sedimentary",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-offshore-10": "offshore",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6-located-8": "sedimentary located",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-located-8": "located",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-reservoirs-4": "reservoirs",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-strong-21-water-22-drives-23": "strong water drives",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Most-1": "Most",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-12": "engineering",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-techniques-16": "techniques",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15": "pumping",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Gravel-1": "Gravel",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-thoughtful-11": "thoughtful",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-challenge-8": "challenge",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14": "section",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-alpha-20-propagation-24": "alpha propagation",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-horizontal-13": "horizontal",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-17": "friction",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-high-16": "high",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-long-12": "long",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-3-pressure-4": "pumping pressure",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-8": "friction",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-increase-21": "increase",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-dune-23-height-24": "dune height",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pump-6-rate-7": "pump rate",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-screenout-17": "screenout",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-premature-16": "premature",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-reduced-5": "reduced",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-contrast-2": "contrast",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27": "engineering job planning",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-used-29": "used",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-33-packs-34": "gravel packs",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-careful-13": "careful",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-issues-4": "issues",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-place-6-gravel-7-packs-8": "place gravel packs",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-experience-2": "experience",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22": "insights",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-best-24-practices-25": "best practices",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-practices-25": "practices",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-27-packs-28": "gravel packs",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-longest-6-gravel-7-pack-8-jobs-9": "longest gravel pack jobs",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-extended-30-reach-32-horizontal-33-wells-34": "extended reach horizontal wells",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-benefits-5": "benefits",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-fluid-12-systems-13": "fluid systems",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-screen-16": "screen",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-risks-18": "risks",
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pack-21-efficiency-22": "pack efficiency"
+  },
+  "graph": [
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "of",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "of",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16"
+    },
+    {
+      "subject_id": "NE-LOCATION-State",
+      "relation": "is of",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-offshore-10"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is basin between",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16",
+      "relation": "of",
+      "object_id": "NE-LOCATION-State"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16",
+      "relation": "of",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "at",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is sedimentary basin between",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6-located-8"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-located-8"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-reservoirs-4",
+      "relation": "Most of are",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-strong-21-water-22-drives-23"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-reservoirs-4",
+      "relation": "is in",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-Most-1",
+      "relation": "are without",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-strong-21-water-22-drives-23"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-12",
+      "relation": "optimize",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-techniques-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-techniques-16",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-Gravel-1",
+      "relation": "requires",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-12"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-12",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-thoughtful-11"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-Gravel-1",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-challenge-8"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14",
+      "relation": "develops friction during",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-alpha-20-propagation-24"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-horizontal-13"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14",
+      "relation": "develops",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-17"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-17",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-high-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-long-12"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-3-pressure-4",
+      "relation": "overcome",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-8"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-increase-21",
+      "relation": "is in",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-dune-23-height-24"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pump-6-rate-7",
+      "relation": "can lead to",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-screenout-17"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-screenout-17",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-premature-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pump-6-rate-7",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-reduced-5"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pump-6-rate-7",
+      "relation": "can lead In",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-contrast-2"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27",
+      "relation": "were",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-used-29"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27",
+      "relation": "successfully perform",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-33-packs-34"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27",
+      "relation": "perform",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-33-packs-34"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27",
+      "relation": "is",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-careful-13"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-issues-4",
+      "relation": "wells",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-place-6-gravel-7-packs-8"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-experience-2",
+      "relation": "offer",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22",
+      "relation": "of",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-best-24-practices-25"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22",
+      "relation": "of",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-practices-25"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22",
+      "relation": "of",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-27-packs-28"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-longest-6-gravel-7-pack-8-jobs-9",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-best-24-practices-25",
+      "relation": "is in",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-extended-30-reach-32-horizontal-33-wells-34"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-benefits-5",
+      "relation": "optimized",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-fluid-12-systems-13"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-fluid-12-systems-13",
+      "relation": "minimize",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-screen-16"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-fluid-12-systems-13",
+      "relation": "minimize screen out",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-risks-18"
+    },
+    {
+      "subject_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-screen-16",
+      "relation": "maximize",
+      "object_id": "2d2c9121-9db0-47fd-913b-f722bc62e245-pack-21-efficiency-22"
+    }
+  ],
+  "links": {
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-basin-7": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Campos-2": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-north-15-coast-16": [],
+    "NE-LOCATION-State": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-offshore-10": [],
+    "NE-COUNTRY-Brazil": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-sedimentary-6-located-8": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-located-8": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-reservoirs-4": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-strong-21-water-22-drives-23": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Most-1": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-12": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-techniques-16": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-15": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-Gravel-1": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-thoughtful-11": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-challenge-8": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-section-14": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-alpha-20-propagation-24": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-horizontal-13": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-17": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-high-16": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-long-12": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pumping-3-pressure-4": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-friction-8": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-increase-21": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-dune-23-height-24": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pump-6-rate-7": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-screenout-17": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-premature-16": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-reduced-5": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-contrast-2": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-engineering-14-job-26-planning-27": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-used-29": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-33-packs-34": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-careful-13": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-issues-4": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-place-6-gravel-7-packs-8": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-experience-2": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-insights-22": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-best-24-practices-25": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-practices-25": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-gravel-27-packs-28": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-longest-6-gravel-7-pack-8-jobs-9": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-extended-30-reach-32-horizontal-33-wells-34": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-benefits-5": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-fluid-12-systems-13": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-screen-16": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-risks-18": [],
+    "2d2c9121-9db0-47fd-913b-f722bc62e245-pack-21-efficiency-22": []
+  }
+}

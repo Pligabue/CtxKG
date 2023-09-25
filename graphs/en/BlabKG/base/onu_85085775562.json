@@ -1,0 +1,624 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085775562.txt",
+  "entities": {
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3": "pseudo-sticking",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-aspect-19": "aspect",
+    "NE-TITLE-general": "general",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-its-17": "its",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquisition-25-artifact-26": "acquisition artifact",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-site-54-geologists-55": "site geologists",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-engineers-57": "engineers",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38": "image logs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-34": "acoustic",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-common-24": "common",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pull-5": "pull",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wireline-33": "wireline",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032--2-pseudo-sticking-3\"": " pseudo-sticking\"",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-known-7": "known",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-fact-2": "fact",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-well-6": "well",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3": "image logs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-studies-20": "studies",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-sedimentological-17": "sedimentological",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9": "reservoirs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11": "geomechanics",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6": "used",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-largely-5": "largely",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pre-salt-8": "pre-salt",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-their-23-great-24-contrast-25-responses-26-on-27-carbonates-28": "their great contrast responses on carbonates",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39": "log",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6": "image logs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14": "425 ft h",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-speeds-9": "speeds",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-samples-31": "samples",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-0,2-34-inches-35-depth-36": "0,2 inches depth",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-4": "acoustic",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3": "heave",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12": "pseudo-sticking",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-2": "residual",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-creating-10": "creating",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-7-quality-8": "image quality",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wave-18-period-19": "wave period",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34": "frequency",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49": "reports",
+    "NE-SET-daily": "daily",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30": "vector Z accelerometer variation",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37": "period",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-ocean-39-waves-40": "ocean waves",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-same-33": "same",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-16": "heave",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-17-confirmed-20-by-21-observing-22": "can confirmed by observing",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18": "also",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-cable-24-tension-25": "cable tension",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-meteo-45-oceanographic-47": "meteo oceanographic",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-15": "residual",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-artifact-4": "artifact",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-5-minimized-7": "can minimized",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-9": "processing",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-Even-1": "Even",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-loss-21": "loss",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-should-24-considered-26": "should considered",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interventions-7": "interventions",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-problem-25": "problem",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-effective-21": "effective",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17": "work",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7": "community",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-data-11": "data",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-minimum-13-costs-14": "minimum costs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11": "acquiring better data",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interested-6": "interested",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-better-10": "better",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-examples-20": "examples",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9": "acquiring",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-costs-14": "costs",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6": "results",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-8": "processing",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-differences-11": "differences",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-compensators-15": "compensators",
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-adjusting-14": "adjusting"
+  },
+  "graph": [
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3",
+      "relation": "effect because",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-aspect-19"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-aspect-19",
+      "relation": "is",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-its-17",
+      "relation": "has",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-aspect-19"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquisition-25-artifact-26"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-site-54-geologists-55",
+      "relation": "quality",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-engineers-57"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-site-54-geologists-55",
+      "relation": "quality of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-34"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-common-24"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pull-5",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-common-24"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquisition-25-artifact-26",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-common-24"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pull-5",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquisition-25-artifact-26"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wireline-33"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032--2-pseudo-sticking-3\"",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-known-7"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032--2-pseudo-sticking-3\"",
+      "relation": "is well known In",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-fact-2"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-known-7",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-well-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032--2-pseudo-sticking-3\"",
+      "relation": "is known In",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-fact-2"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are largely used for",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-studies-20"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-studies-20",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-sedimentological-17"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are used in",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are largely used in",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are largely used for",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-largely-5"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are used for",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-studies-20"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pre-salt-8"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3",
+      "relation": "are used for",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11",
+      "relation": "studies due",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-their-23-great-24-contrast-25-responses-26-on-27-carbonates-28"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39",
+      "relation": "However becomes",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6",
+      "relation": "run around",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39",
+      "relation": "becomes",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-speeds-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39",
+      "relation": "becomes",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39",
+      "relation": "However becomes",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14",
+      "relation": "mark",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6",
+      "relation": "run at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-speeds-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-samples-31",
+      "relation": "data",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-0,2-34-inches-35-depth-36"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-4"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "affects directly image quality by",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "affects image quality by",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-2"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-creating-10"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "affects directly",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-7-quality-8"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "affects",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-7-quality-8"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3",
+      "relation": "pull at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wave-18-period-19"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34",
+      "relation": "monitored by",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49",
+      "relation": "is",
+      "object_id": "NE-SET-daily"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30",
+      "relation": "frequency as",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-ocean-39-waves-40"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30",
+      "relation": "have",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-same-33"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-16",
+      "relation": "can",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-17-confirmed-20-by-21-observing-22"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30",
+      "relation": "have",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-17-confirmed-20-by-21-observing-22",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-cable-24-tension-25",
+      "relation": "have",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30",
+      "relation": "monitored by",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-meteo-45-oceanographic-47"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30",
+      "relation": "same frequency as",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-16",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-15"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-cable-24-tension-25",
+      "relation": "have",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-artifact-4",
+      "relation": "can",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-5-minimized-7"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-5-minimized-7",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-5-minimized-7",
+      "relation": "at",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-Even-1"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-loss-21",
+      "relation": "should",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-should-24-considered-26"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interventions-7",
+      "relation": "handle",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-problem-25"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interventions-7",
+      "relation": "be",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-effective-21"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17",
+      "relation": "help",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-data-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-minimum-13-costs-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "is in",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interested-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-minimum-13-costs-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-better-10"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17",
+      "relation": "shows",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-examples-20"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11",
+      "relation": "is with",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-minimum-13-costs-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-costs-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17",
+      "relation": "can show",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6",
+      "relation": "of",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-8"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-differences-11",
+      "relation": "reached after",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-compensators-15"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17",
+      "relation": "can also show",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-compensators-15",
+      "relation": "is",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-adjusting-14"
+    },
+    {
+      "subject_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6",
+      "relation": "is with",
+      "object_id": "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-8"
+    }
+  ],
+  "links": {
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-aspect-19": [],
+    "NE-TITLE-general": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-its-17": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquisition-25-artifact-26": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-site-54-geologists-55": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-engineers-57": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-34": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-4"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-common-24": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pull-5": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wireline-33": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032--2-pseudo-sticking-3\"": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-known-7": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-fact-2": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-well-6": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-2-logs-3": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-studies-20": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-sedimentological-17": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reservoirs-9": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-geomechanics-11": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-used-6": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-largely-5": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pre-salt-8": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-their-23-great-24-contrast-25-responses-26-on-27-carbonates-28": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-log-39": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-5-logs-6": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-37-logs-38"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-425-11-ft-12-h-14": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-speeds-9": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-samples-31": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-0,2-34-inches-35-depth-36": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-4": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acoustic-34"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-16"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-12": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-pseudo-sticking-3"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-2": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-15"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-creating-10": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-image-7-quality-8": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-wave-18-period-19": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-frequency-34": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-reports-49": [],
+    "NE-SET-daily": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-vector-27-Z-28-accelerometer-29-variation-30": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-period-37": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-ocean-39-waves-40": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-same-33": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-16": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-heave-3"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-17-confirmed-20-by-21-observing-22": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-also-18": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-cable-24-tension-25": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-meteo-45-oceanographic-47": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-15": [
+      "5e83a3a6-8e89-4b18-8ff5-f69454f22032-residual-2"
+    ],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-artifact-4": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-can-5-minimized-7": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-9": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-Even-1": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-loss-21": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-should-24-considered-26": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interventions-7": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-problem-25": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-effective-21": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-work-17": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-community-7": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-data-11": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-minimum-13-costs-14": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9-better-10-data-11": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-interested-6": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-better-10": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-examples-20": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-acquiring-9": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-costs-14": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-results-6": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-processing-8": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-differences-11": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-compensators-15": [],
+    "5e83a3a6-8e89-4b18-8ff5-f69454f22032-adjusting-14": []
+  }
+}

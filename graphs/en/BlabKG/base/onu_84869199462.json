@@ -1,0 +1,314 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84869199462.txt",
+  "entities": {
+    "86788da6-b594-49e1-ac23-94a6a03306a4-margin-15-basins-16": "margin basins",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-three-24-prototype-25-phases-26": "three prototype phases",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-passive-13": "passive",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-continental-14": "continental",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4": "rift megasequence",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14": "basalts",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-intracontinental-2": "intracontinental",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-overlying-12": "overlying",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-laqoon-24-megasequence-26": "laqoon megasequence",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-two-30-units-32": "two units",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-sedimentary-31": "sedimentary",
+    "NE-MISC-Berremian": "Berremian",
+    "NE-MISC-Neocomian": "Neocomian",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-10-sediments-11": "lacustrine sediments",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-transitional-25": "transitional",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-drift-50-phase-51": "drift phase",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-present-61-day-63": "present day",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Albian-58": "Albian",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lower-6-cretaceous-7": "lower cretaceous",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-4": "lacustrine",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-source-11": "source",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Lower-2": "Lower",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-3": "Cretaceous",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-main-10": "main",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-reservoirs-2": "reservoirs",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-two-4-sects-5": "two sects",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-carbonate-2-reservoirs-3": "carbonate reservoirs",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-halite-7": "halite",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-turbidites-11": "turbidites",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-shale-16": "shale",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-preserved-13": "preserved",
+    "NE-TITLE-marine": "marine",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-rocks-6": "rocks",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11": "oil",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-gas-13": "gas",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24": "insurance type models",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-giant-26": "giant",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-oil-27-fields-30": "oil fields",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Eocene-15-Miocene-17": "Eocene Miocene",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-double-20": "double",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-hydrocarbons-7": "hydrocarbons",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-trapped-14": "trapped",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-mainly-15": "mainly",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-carbonates-19": "carbonates",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-pre-salt-18": "pre-salt",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-salt-2-windows-3": "salt windows",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8": "accumulated",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-11": "Cretaceous",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Tertiary-13": "Tertiary",
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Upper-10-turbidites-14": "Upper turbidites"
+  },
+  "graph": [
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-margin-15-basins-16",
+      "relation": "experienced",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-three-24-prototype-25-phases-26"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-margin-15-basins-16",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-passive-13"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-margin-15-basins-16",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-continental-14"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4",
+      "relation": "comprising",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-intracontinental-2"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-overlying-12"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-laqoon-24-megasequence-26",
+      "relation": "deposited including",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-two-30-units-32"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-two-30-units-32",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-sedimentary-31"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4",
+      "relation": "of",
+      "object_id": "NE-MISC-Berremian"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14",
+      "relation": "of",
+      "object_id": "NE-MISC-Neocomian"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14",
+      "relation": "of",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-10-sediments-11"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-laqoon-24-megasequence-26",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-transitional-25"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-drift-50-phase-51",
+      "relation": "basin until",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-present-61-day-63"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-drift-50-phase-51",
+      "relation": "basin from",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Albian-58"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4",
+      "relation": "is in",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-lower-6-cretaceous-7"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-4",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-source-11"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-4",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Lower-2"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-4",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-3"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-source-11",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-main-10"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-reservoirs-2",
+      "relation": "include",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-two-4-sects-5"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-carbonate-2-reservoirs-3",
+      "relation": "is sealed by",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-halite-7"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-turbidites-11",
+      "relation": "are preserved by",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-shale-16"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-turbidites-11",
+      "relation": "are",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-preserved-13"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-preserved-13",
+      "relation": "by",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-shale-16"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-shale-16",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rocks-6",
+      "relation": "generate",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11",
+      "relation": "formed",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-gas-13"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11",
+      "relation": "formed",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-giant-26"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24",
+      "relation": "of",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-oil-27-fields-30"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-rocks-6",
+      "relation": "generate oil from",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Eocene-15-Miocene-17"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-double-20"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-hydrocarbons-7",
+      "relation": "are",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-trapped-14"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-trapped-14",
+      "relation": "at",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-mainly-15"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-hydrocarbons-7",
+      "relation": "are trapped in",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-carbonates-19"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-carbonates-19",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-pre-salt-18"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-hydrocarbons-7",
+      "relation": "are trapped mainly in",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-carbonates-19"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-salt-2-windows-3",
+      "relation": "are",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-11"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8",
+      "relation": "is",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Tertiary-13"
+    },
+    {
+      "subject_id": "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8",
+      "relation": "at",
+      "object_id": "86788da6-b594-49e1-ac23-94a6a03306a4-Upper-10-turbidites-14"
+    }
+  ],
+  "links": {
+    "86788da6-b594-49e1-ac23-94a6a03306a4-margin-15-basins-16": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-three-24-prototype-25-phases-26": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-passive-13": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-continental-14": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-rift-3-megasequence-4": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-basalts-14": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-intracontinental-2": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-overlying-12": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-laqoon-24-megasequence-26": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-two-30-units-32": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-sedimentary-31": [],
+    "NE-MISC-Berremian": [],
+    "NE-MISC-Neocomian": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-10-sediments-11": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-transitional-25": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-drift-50-phase-51": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-present-61-day-63": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Albian-58": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lower-6-cretaceous-7": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-lacustrine-4": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-source-11": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Lower-2": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-3": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-main-10": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-reservoirs-2": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-two-4-sects-5": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-carbonate-2-reservoirs-3": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-halite-7": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-turbidites-11": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-shale-16": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-preserved-13": [],
+    "NE-TITLE-marine": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-rocks-6": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-oil-11": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-gas-13": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-insurance-21-type-23-models-24": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-giant-26": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-oil-27-fields-30": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Eocene-15-Miocene-17": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-double-20": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-hydrocarbons-7": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-trapped-14": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-mainly-15": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-carbonates-19": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-pre-salt-18": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-salt-2-windows-3": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-accumulated-8": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Cretaceous-11": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Tertiary-13": [],
+    "86788da6-b594-49e1-ac23-94a6a03306a4-Upper-10-turbidites-14": []
+  }
+}

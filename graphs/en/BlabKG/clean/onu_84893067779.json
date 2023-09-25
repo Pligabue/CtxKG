@@ -1,0 +1,548 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84893067779.txt",
+  "entities": {
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3": "scenario",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-solutions-6": "solutions",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-innovative-5": "innovative",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-efficiency-12": "efficiency",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operations-14": "operations",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-2": "offshore",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2": "facts",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9": "distance",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-located-5": "located",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Furthermore-1": "Furthermore",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-severe-23": "severe",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-environmental-20": "environmental",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-shore-12": "shore",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-large-8": "large",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-logistics-5-problems-6-transportations-11": "logistics problems transportations",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-more-4": "more",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-materials-8": "materials",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-option-14": "option",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-has-15-studied-17": "has studied",
+    "NE-PERSON-Transpetro": "Transpetro",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-paper-2": "paper",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6": "two cases",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-related-9": "related",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Dynamic-20": "Dynamic",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-including-19-Positioning-21": "including Positioning",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-technologies-15": "technologies",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-new-14": "new",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-8": "retrofitting",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-12": "application",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-real-5": "real",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-positioning-17": "positioning",
+    "NE-TITLE-tanker": "tanker",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11": "will converted",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conventional-7": "conventional",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-4": "case",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drilling-31-operation-32": "drilling operation",
+    "NE-ORDINAL-first": "first",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fluids-28": "fluids",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-DP2-14": "DP2",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drill-23-ships-24": "drill ships",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-3": "case",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10": "vessel",
+    "NE-ORDINAL-second": "second",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-bunkering-13": "bunkering",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-delivering-9": "delivering",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-used-11": "used",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operation-14": "operation",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8": "offshore",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2": "vessel",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8-delivering-9-vessel-10-used-11-for-12-bunkering-13-operation-14": "offshore delivering vessel used for bunkering operation",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-up-10-to-11-2-12-vessels-14-connected-17": "up to 2 vessels connected",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-moored-4": "moored",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-monobuoy-7": "monobuoy",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-aft-2-azimuth-4-thruster-5": "aft azimuth thruster",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-6-installed-8": "will installed",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-11": "vessel",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-cases-2": "cases",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5": "application",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-design-9-methodology-10": "design methodology",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-comprehensive-8": "comprehensive",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thruster-12-dimensioning-13": "thruster dimensioning",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-2": "retrofitting",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-layout-8": "layout",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thrusters-13": "thrusters",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-constraints-5": "constraints",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-tight-4": "tight",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12": "conditions",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30": "power consumption",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19": "combination",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16": "fields",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-15": "offshore",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessels-36": "vessels",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-others-6-vessels-7": "others vessels",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-proximity-4": "proximity",
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-harsh-10": "harsh"
+  },
+  "graph": [
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3",
+      "relation": "requires",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-solutions-6"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-solutions-6",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-innovative-5"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3",
+      "relation": "increase",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-efficiency-12"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-efficiency-12",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operations-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-2"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2",
+      "relation": "are located at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2",
+      "relation": "are",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-located-5"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-located-5",
+      "relation": "at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Furthermore-1"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2",
+      "relation": "Furthermore are located at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "are",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-severe-23"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-environmental-20"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-shore-12"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-large-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2",
+      "relation": "impose",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-logistics-5-problems-6-transportations-11"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-logistics-5-problems-6-transportations-11",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-more-4"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-logistics-5-problems-6-transportations-11",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-materials-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-option-14",
+      "relation": "has",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-has-15-studied-17"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-has-15-studied-17",
+      "relation": "by",
+      "object_id": "NE-PERSON-Transpetro"
+    },
+    {
+      "subject_id": "NE-PERSON-Transpetro",
+      "relation": "subsidiary of",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-paper-2",
+      "relation": "presents",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-related-9"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Dynamic-20"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-including-19-Positioning-21"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-technologies-15"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-new-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-12"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-real-5"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-positioning-17"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "will",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conventional-7"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11",
+      "relation": "case",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-4"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "transfer fluids during",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drilling-31-operation-32"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "transfer",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fluids-28"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11",
+      "relation": "at",
+      "object_id": "NE-TITLE-tanker"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11",
+      "relation": "case",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-DP2-14"
+    },
+    {
+      "subject_id": "NE-TITLE-tanker",
+      "relation": "operate close",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drill-23-ships-24"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-3",
+      "relation": "is related to",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-3",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-second"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-bunkering-13"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-delivering-9"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-used-11"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-3",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-related-9"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10",
+      "relation": "at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operation-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2",
+      "relation": "up be connected to",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8-delivering-9-vessel-10-used-11-for-12-bunkering-13-operation-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2",
+      "relation": "be",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-up-10-to-11-2-12-vessels-14-connected-17"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2",
+      "relation": "be connected to",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8-delivering-9-vessel-10-used-11-for-12-bunkering-13-operation-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-up-10-to-11-2-12-vessels-14-connected-17",
+      "relation": "at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8-delivering-9-vessel-10-used-11-for-12-bunkering-13-operation-14"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-moored-4"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2",
+      "relation": "is moored at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-monobuoy-7"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-aft-2-azimuth-4-thruster-5",
+      "relation": "will",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-6-installed-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-6-installed-8",
+      "relation": "at",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-11"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-cases-2",
+      "relation": "require",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-design-9-methodology-10"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-comprehensive-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thruster-12-dimensioning-13"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-2",
+      "relation": "imposes constraints to",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-layout-8"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-layout-8",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thrusters-13"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-2",
+      "relation": "imposes",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-constraints-5"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-constraints-5",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-tight-4"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "evaluate",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19",
+      "relation": "harsh environmental conditions in",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-15"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30",
+      "relation": "of",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessels-36"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19",
+      "relation": "proximity to",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-others-6-vessels-7"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19",
+      "relation": "conditions in",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-proximity-4",
+      "relation": "Also requires",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19",
+      "relation": "environmental conditions in",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "Also requires",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "requires",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "is",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-harsh-10"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19",
+      "relation": "harsh conditions in",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12",
+      "relation": "is in",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16"
+    },
+    {
+      "subject_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-proximity-4",
+      "relation": "requires",
+      "object_id": "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19"
+    }
+  ],
+  "links": {
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-scenario-3": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-solutions-6": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-innovative-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-efficiency-12": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operations-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-facts-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-distance-9": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-located-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Furthermore-1": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-severe-23": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-environmental-20": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-shore-12": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-large-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-logistics-5-problems-6-transportations-11": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-more-4": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-materials-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-option-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-has-15-studied-17": [],
+    "NE-PERSON-Transpetro": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-paper-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-two-4-cases-6": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-related-9": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-Dynamic-20": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-including-19-Positioning-21": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-technologies-15": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-new-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-12": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-real-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-positioning-17": [],
+    "NE-TITLE-tanker": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-9-converted-11": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conventional-7": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-4": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drilling-31-operation-32": [],
+    "NE-ORDINAL-first": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fluids-28": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-DP2-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-drill-23-ships-24": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-case-3": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-10": [],
+    "NE-ORDINAL-second": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-bunkering-13": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-delivering-9": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-used-11": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-operation-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-8-delivering-9-vessel-10-used-11-for-12-bunkering-13-operation-14": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-up-10-to-11-2-12-vessels-14-connected-17": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-moored-4": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-monobuoy-7": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-aft-2-azimuth-4-thruster-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-will-6-installed-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessel-11": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-cases-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-application-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-design-9-methodology-10": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-comprehensive-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thruster-12-dimensioning-13": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-retrofitting-2": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-layout-8": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-thrusters-13": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-constraints-5": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-tight-4": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-conditions-12": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-power-29-consumption-30": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-combination-19": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-fields-16": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-offshore-15": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-vessels-36": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-others-6-vessels-7": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-proximity-4": [],
+    "e3239ac2-996c-48c2-a4b9-5b330ad8ca86-harsh-10": []
+  }
+}

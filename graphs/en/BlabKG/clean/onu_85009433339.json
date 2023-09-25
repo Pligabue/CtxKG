@@ -1,0 +1,298 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85009433339.txt",
+  "entities": {
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-2-lineament-3": "Piúma lineament",
+    "NE-ORGANIZATION-Southern-Espírito-Santo-State": "Southern Espírito Santo State",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-2": "lineament",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-satellite-6-images-7": "satellite images",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-we-27": "we",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-analysis-33": "analysis",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6": "nature",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-played-9": "played",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-12-lineament-13": "Piúma lineament",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Campos": "Campos",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-tectonic-16": "tectonic",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-evolution-17": "evolution",
+    "NE-LOCATION-Mantiqueira-Province": "Mantiqueira Province",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-9": "lineament",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14": "shear zone",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-8": "Piúma",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-characterized-15": "characterized",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12-characterized-15": "brittle characterized",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-indicate-5": "indicate",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12": "brittle",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-results-2": "results",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19": "Piúma lineament",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28": "event",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30-to-31-NNE-33-SSW-35-extension-36": "response to NNE SSW extension",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2": "our",
+    "NE-ORGANIZATION-Continental-Margin": "Continental Margin",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Southeastern-9": "Southeastern",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44": "dextral",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-zone-48": "zone",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9": "literature on Southeastern",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30": "response",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-connection-52": "connection",
+    "NE-LOCATION-South-Atlantic": "South Atlantic",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-normal-43": "normal",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-transtensional-47": "transtensional",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-orogenic-27": "orogenic",
+    "NE-MISC-Ediacaran-Brasiliano": "Ediacaran Brasiliano",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-reactivation-41": "reactivation",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-later-39": "later",
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6": "literature"
+  },
+  "graph": [
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-2-lineament-3",
+      "relation": "located in",
+      "object_id": "NE-ORGANIZATION-Southern-Espírito-Santo-State"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-2",
+      "relation": "stands out in",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-satellite-6-images-7"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-we-27",
+      "relation": "carried out",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-analysis-33"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-we-27",
+      "relation": "investigate",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-played-9"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6",
+      "relation": "at",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-12-lineament-13"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is",
+      "object_id": "NE-CITY-Campos"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-tectonic-16"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6",
+      "relation": "at",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-evolution-17"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Mantiqueira-Province"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-9",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-9",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-8"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-characterized-15"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-9",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12-characterized-15"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-we-27",
+      "relation": "obtained",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-indicate-5"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12-characterized-15"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-results-2",
+      "relation": "obtained",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-indicate-5"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19",
+      "relation": "likely developed after",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30-to-31-NNE-33-SSW-35-extension-36"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Continental-Margin"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2",
+      "relation": "case",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Southeastern-9"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19",
+      "relation": "experiencing reactivation as",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-zone-48"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19",
+      "relation": "developed after",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-connection-52",
+      "relation": "is with",
+      "object_id": "NE-LOCATION-South-Atlantic"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Continental-Margin",
+      "relation": "is on",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19",
+      "relation": "more likely developed after",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-normal-43"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-transtensional-47"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28",
+      "relation": "is in",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30-to-31-NNE-33-SSW-35-extension-36"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28",
+      "relation": "is",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-orogenic-27"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28",
+      "relation": "of",
+      "object_id": "NE-MISC-Ediacaran-Brasiliano"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19",
+      "relation": "experiencing",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-reactivation-41"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-reactivation-41",
+      "relation": "at",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-later-39"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2",
+      "relation": "of",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2",
+      "relation": "is with",
+      "object_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-Continental-Margin"
+    },
+    {
+      "subject_id": "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    }
+  ],
+  "links": {
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-2-lineament-3": [],
+    "NE-ORGANIZATION-Southern-Espírito-Santo-State": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-2": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-satellite-6-images-7": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-we-27": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-analysis-33": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-nature-6": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-played-9": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-12-lineament-13": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Campos": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-tectonic-16": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-evolution-17": [],
+    "NE-LOCATION-Mantiqueira-Province": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-lineament-9": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-shear-13-zone-14": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-8": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-characterized-15": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12-characterized-15": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-indicate-5": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-brittle-12": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-results-2": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Piúma-18-lineament-19": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-event-28": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30-to-31-NNE-33-SSW-35-extension-36": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-our-2": [],
+    "NE-ORGANIZATION-Continental-Margin": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-Southeastern-9": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-dextral-44": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-zone-48": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6-on-7-Southeastern-9": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-response-30": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-connection-52": [],
+    "NE-LOCATION-South-Atlantic": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-normal-43": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-transtensional-47": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-orogenic-27": [],
+    "NE-MISC-Ediacaran-Brasiliano": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-reactivation-41": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-later-39": [],
+    "8d6a27c2-4247-424d-bab0-1524fae72b95-literature-6": []
+  }
+}

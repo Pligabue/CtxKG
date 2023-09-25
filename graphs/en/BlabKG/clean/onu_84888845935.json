@@ -1,0 +1,439 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84888845935.txt",
+  "entities": {
+    "08983aea-212e-4ede-98cd-be137c97ff19-paper-2": "paper",
+    "08983aea-212e-4ede-98cd-be137c97ff19-versions-6": "versions",
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-8-concepts-9": "barge concepts",
+    "08983aea-212e-4ede-98cd-be137c97ff19-unit-16": "unit",
+    "08983aea-212e-4ede-98cd-be137c97ff19-smallest-15": "smallest",
+    "NE-ORGANIZATION-FPSO": "FPSO",
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12": "surface trees",
+    "08983aea-212e-4ede-98cd-be137c97ff19-different-5": "different",
+    "08983aea-212e-4ede-98cd-be137c97ff19-spread-2": "spread",
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-4": "barge",
+    "NE-COUNTRY-Congo": "Congo",
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-7-trees-8": "surface trees",
+    "08983aea-212e-4ede-98cd-be137c97ff19-facilities-5": "facilities",
+    "08983aea-212e-4ede-98cd-be137c97ff19-none-2": "none",
+    "08983aea-212e-4ede-98cd-be137c97ff19-their-12-motion-13-behavior-14": "their motion behavior",
+    "08983aea-212e-4ede-98cd-be137c97ff19-compatible-16": "compatible",
+    "08983aea-212e-4ede-98cd-be137c97ff19-board-10": "board",
+    "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5": "metocean conditions",
+    "08983aea-212e-4ede-98cd-be137c97ff19-field-8-operators-9": "field operators",
+    "08983aea-212e-4ede-98cd-be137c97ff19-unique-3": "unique",
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18": "barge type floaters",
+    "08983aea-212e-4ede-98cd-be137c97ff19-deepwater-7": "deepwater",
+    "08983aea-212e-4ede-98cd-be137c97ff19-spread-12": "spread",
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-21-wellheads-22": "surface wellheads",
+    "08983aea-212e-4ede-98cd-be137c97ff19-moored-14": "moored",
+    "NE-NATIONALITY-African": "African",
+    "08983aea-212e-4ede-98cd-be137c97ff19-drilling-25-operations-26": "drilling operations",
+    "NE-MISC-West": "West",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Tension-16-Leg-17-Platforms-18": "Tension Leg Platforms",
+    "08983aea-212e-4ede-98cd-be137c97ff19-areas-5": "areas",
+    "08983aea-212e-4ede-98cd-be137c97ff19-offshore-4": "offshore",
+    "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31": "floaters",
+    "08983aea-212e-4ede-98cd-be137c97ff19-other-2": "other",
+    "08983aea-212e-4ede-98cd-be137c97ff19-deep-3": "deep",
+    "NE-LOCATION-Gulf-of": "Gulf",
+    "NE-COUNTRY-Mexico": "Mexico",
+    "08983aea-212e-4ede-98cd-be137c97ff19-only-30": "only",
+    "08983aea-212e-4ede-98cd-be137c97ff19-able-32": "able",
+    "08983aea-212e-4ede-98cd-be137c97ff19-such-7": "such",
+    "08983aea-212e-4ede-98cd-be137c97ff19-WHB-21": "WHB",
+    "08983aea-212e-4ede-98cd-be137c97ff19-wave-34": "wave",
+    "08983aea-212e-4ede-98cd-be137c97ff19-results-5": "results",
+    "08983aea-212e-4ede-98cd-be137c97ff19-computational-7": "computational",
+    "NE-TITLE-model": "model",
+    "08983aea-212e-4ede-98cd-be137c97ff19-including-27-hull-28": "including hull",
+    "08983aea-212e-4ede-98cd-be137c97ff19-their-10-correlation-11": "their correlation",
+    "08983aea-212e-4ede-98cd-be137c97ff19-tank-13-tests-14": "tank tests",
+    "NE-ORGANIZATION-MFB": "MFB",
+    "08983aea-212e-4ede-98cd-be137c97ff19-work-8": "work",
+    "08983aea-212e-4ede-98cd-be137c97ff19-1/60-25": "1/60",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Emphasis-1": "Emphasis",
+    "08983aea-212e-4ede-98cd-be137c97ff19-will-2-placed-4": "will placed",
+    "08983aea-212e-4ede-98cd-be137c97ff19-risers-6": "risers",
+    "08983aea-212e-4ede-98cd-be137c97ff19-paper-20": "paper",
+    "08983aea-212e-4ede-98cd-be137c97ff19-advantage-2": "advantage",
+    "08983aea-212e-4ede-98cd-be137c97ff19-use-8": "use",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Surface-12-Tree-13-Barges-14": "Surface Tree Barges",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Economical-1": "Economical",
+    "NE-COUNTRY-Guinea": "Guinea",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Barges-1": "Barges",
+    "08983aea-212e-4ede-98cd-be137c97ff19-advantage-6": "advantage",
+    "08983aea-212e-4ede-98cd-be137c97ff19-Surface-1-trees-2": "Surface trees",
+    "08983aea-212e-4ede-98cd-be137c97ff19-integrated-7": "integrated",
+    "08983aea-212e-4ede-98cd-be137c97ff19-low-10": "low",
+    "08983aea-212e-4ede-98cd-be137c97ff19-cost-11": "cost"
+  },
+  "graph": [
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-2",
+      "relation": "will present",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-versions-6"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-versions-6",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-8-concepts-9"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-2",
+      "relation": "will present versions from",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-unit-16"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-unit-16",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-smallest-15"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is with",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-8-concepts-9",
+      "relation": "is with",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-versions-6",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-versions-6",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-different-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-spread-2",
+      "relation": "moored",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-4"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-FPSO",
+      "relation": "is",
+      "object_id": "NE-COUNTRY-Congo"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-7-trees-8",
+      "relation": "none of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-facilities-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-none-2",
+      "relation": "has",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-7-trees-8"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-their-12-motion-13-behavior-14",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-compatible-16"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-7-trees-8",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-board-10"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5",
+      "relation": "allow",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-field-8-operators-9"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-unique-3"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-field-8-operators-9",
+      "relation": "consider",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-field-8-operators-9",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-deepwater-7"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18",
+      "relation": "at",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-spread-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18",
+      "relation": "support",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-21-wellheads-22"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-moored-14"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-African"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-21-wellheads-22",
+      "relation": "perform",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-drilling-25-operations-26"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5",
+      "relation": "is",
+      "object_id": "NE-MISC-West"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Tension-16-Leg-17-Platforms-18",
+      "relation": "are floaters In",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-offshore-4"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Tension-16-Leg-17-Platforms-18",
+      "relation": "are",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-other-2"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-deep-3"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31",
+      "relation": "is In",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-only-30"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-able-32"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "of",
+      "object_id": "NE-LOCATION-Gulf-of"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Mexico"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-areas-5",
+      "relation": "case",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-such-7"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-WHB-21",
+      "relation": "performed under",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-wave-34"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-2",
+      "relation": "will present",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-computational-7"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-WHB-21",
+      "relation": "performed on",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-including-27-hull-28"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-their-10-correlation-11",
+      "relation": "is with",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-tank-13-tests-14"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-tank-13-tests-14",
+      "relation": "of",
+      "object_id": "NE-ORGANIZATION-MFB"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-work-8"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "amount to",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-1/60-25"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Emphasis-1",
+      "relation": "will",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-will-2-placed-4"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-will-2-placed-4",
+      "relation": "at",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-risers-6"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-20",
+      "relation": "advantage",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-advantage-2",
+      "relation": "will conclude",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-20"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-paper-20",
+      "relation": "Economical advantage",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5",
+      "relation": "at",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-use-8"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-results-5",
+      "relation": "of",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-Surface-12-Tree-13-Barges-14"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-advantage-2",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-Economical-1"
+    },
+    {
+      "subject_id": "NE-LOCATION-Gulf-of",
+      "relation": "is of",
+      "object_id": "NE-COUNTRY-Guinea"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Barges-1",
+      "relation": "take",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-advantage-6"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-advantage-6",
+      "relation": "Barges with",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Barges-1",
+      "relation": "is with",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-Surface-1-trees-2",
+      "relation": "are",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-integrated-7"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-integrated-7",
+      "relation": "is",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-low-10"
+    },
+    {
+      "subject_id": "08983aea-212e-4ede-98cd-be137c97ff19-integrated-7",
+      "relation": "at",
+      "object_id": "08983aea-212e-4ede-98cd-be137c97ff19-cost-11"
+    }
+  ],
+  "links": {
+    "08983aea-212e-4ede-98cd-be137c97ff19-paper-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-versions-6": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-8-concepts-9": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-unit-16": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-smallest-15": [],
+    "NE-ORGANIZATION-FPSO": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-11-trees-12": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-different-5": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-spread-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-4": [],
+    "NE-COUNTRY-Congo": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-7-trees-8": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-facilities-5": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-none-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-their-12-motion-13-behavior-14": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-compatible-16": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-board-10": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-metocean-4-conditions-5": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-field-8-operators-9": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-unique-3": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-barge-15-type-17-floaters-18": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-deepwater-7": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-spread-12": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-surface-21-wellheads-22": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-moored-14": [],
+    "NE-NATIONALITY-African": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-drilling-25-operations-26": [],
+    "NE-MISC-West": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Tension-16-Leg-17-Platforms-18": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-areas-5": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-offshore-4": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-floaters-31": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-other-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-deep-3": [],
+    "NE-LOCATION-Gulf-of": [],
+    "NE-COUNTRY-Mexico": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-only-30": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-able-32": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-such-7": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-WHB-21": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-wave-34": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-results-5": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-computational-7": [],
+    "NE-TITLE-model": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-including-27-hull-28": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-their-10-correlation-11": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-tank-13-tests-14": [],
+    "NE-ORGANIZATION-MFB": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-work-8": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-1/60-25": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Emphasis-1": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-will-2-placed-4": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-risers-6": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-paper-20": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-advantage-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-use-8": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Surface-12-Tree-13-Barges-14": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Economical-1": [],
+    "NE-COUNTRY-Guinea": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Barges-1": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-advantage-6": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-Surface-1-trees-2": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-integrated-7": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-low-10": [],
+    "08983aea-212e-4ede-98cd-be137c97ff19-cost-11": []
+  }
+}

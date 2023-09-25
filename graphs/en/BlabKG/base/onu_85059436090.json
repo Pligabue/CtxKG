@@ -1,0 +1,243 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85059436090.txt",
+  "entities": {
+    "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6": "Building velocity models complexities",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-fundamental-12": "fundamental",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15": "inputs",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-2": "seismic",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-several-17-applications-18": "several applications",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-evident-7": "evident",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-modeling-21": "modeling",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-20-modeling-21": "seismic modeling",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-applications-18": "applications",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-honouring-5": "honouring",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-complex-6-areas-7": "complex areas",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-offshore-21": "offshore",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "NE-LOCATION-Basin": "Basin",
+    "NE-CITY-Santos": "Santos",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-We-1": "We",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-methodology-4": "methodology",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-velocity-7-models-8": "velocity models",
+    "NE-TITLE-layer": "layer",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-geological-4": "geological",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-use-9": "use",
+    "NE-TITLE-model": "model",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-knowledge-19-wells-21": "knowledge wells",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-rock-26-property-27-relationships-28": "rock property relationships",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-geological-18": "geological",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-impedance-14": "impedance",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-based-13": "based",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-migrated-10-sections-11": "migrated sections",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-improvements-13": "improvements",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-flattening-16": "flattening",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-results-2": "results",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-shown-4": "shown",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-approach-2": "approach",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-input-10-velocity-11": "input velocity",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-FWI-14-migration-15-process-16": "FWI migration process",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-can-3-extended-6": "can extended",
+    "132c6e60-d817-4725-b4ba-810203ca0e70-also-4": "also"
+  },
+  "graph": [
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-fundamental-12"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6",
+      "relation": "generate",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-2"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-several-17-applications-18"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-evident-7"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-modeling-21"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-20-modeling-21"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-applications-18"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-honouring-5"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-several-17-applications-18",
+      "relation": "is in",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-20-modeling-21"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-complex-6-areas-7",
+      "relation": "is in",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-offshore-21"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-offshore-21",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "NE-LOCATION-Basin",
+      "relation": "is of",
+      "object_id": "NE-CITY-Santos"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-We-1",
+      "relation": "present",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-methodology-4"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-methodology-4",
+      "relation": "build",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-velocity-7-models-8"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-We-1",
+      "relation": "characterize",
+      "object_id": "NE-TITLE-layer"
+    },
+    {
+      "subject_id": "NE-TITLE-layer",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-geological-4"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-We-1",
+      "relation": "propose",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-use-9"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-use-9",
+      "relation": "at",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-knowledge-19-wells-21",
+      "relation": "using",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-rock-26-property-27-relationships-28"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-knowledge-19-wells-21",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-geological-18"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-use-9",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-impedance-14"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-use-9",
+      "relation": "is",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-based-13"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-migrated-10-sections-11",
+      "relation": "is with",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-improvements-13"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-improvements-13",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-flattening-16"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-improvements-13",
+      "relation": "is in",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-flattening-16"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-results-2",
+      "relation": "are",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-shown-4"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-approach-2",
+      "relation": "generate",
+      "object_id": "NE-TITLE-model"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-input-10-velocity-11"
+    },
+    {
+      "subject_id": "NE-TITLE-model",
+      "relation": "of",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-FWI-14-migration-15-process-16"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-approach-2",
+      "relation": "can",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-can-3-extended-6"
+    },
+    {
+      "subject_id": "132c6e60-d817-4725-b4ba-810203ca0e70-can-3-extended-6",
+      "relation": "at",
+      "object_id": "132c6e60-d817-4725-b4ba-810203ca0e70-also-4"
+    }
+  ],
+  "links": {
+    "132c6e60-d817-4725-b4ba-810203ca0e70-Building-1-velocity-3-models-4-complexities-6": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-fundamental-12": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-inputs-15": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-2": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-several-17-applications-18": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-evident-7": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-modeling-21": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-seismic-20-modeling-21": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-applications-18": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-honouring-5": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-complex-6-areas-7": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-offshore-21": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "NE-LOCATION-Basin": [],
+    "NE-CITY-Santos": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-We-1": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-methodology-4": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-velocity-7-models-8": [],
+    "NE-TITLE-layer": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-geological-4": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-use-9": [],
+    "NE-TITLE-model": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-knowledge-19-wells-21": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-rock-26-property-27-relationships-28": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-geological-18": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-impedance-14": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-based-13": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-migrated-10-sections-11": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-improvements-13": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-flattening-16": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-results-2": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-shown-4": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-approach-2": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-input-10-velocity-11": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-FWI-14-migration-15-process-16": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-can-3-extended-6": [],
+    "132c6e60-d817-4725-b4ba-810203ca0e70-also-4": []
+  }
+}

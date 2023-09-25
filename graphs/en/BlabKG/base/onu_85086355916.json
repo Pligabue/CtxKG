@@ -1,0 +1,374 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85086355916.txt",
+  "entities": {
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-features-2": "features",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-stages-6": "stages",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-early-5": "early",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Oceanographic-1": "Oceanographic",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-degree-12": "degree",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-fish-8": "fish",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-high-11": "high",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-We-1": "We",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4": "influence",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-6": "continental",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-13-composition-14": "ichthyoplankton composition",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-LOCATION-Northeastern": "Northeastern",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-7-slope-9-gradient-10": "shelf slope gradient",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-oceanographic-2-campaigns-3": "oceanographic campaigns",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-July-7-August-9": "July August",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Two-1": "Two",
+    "NE-DATE-2010": "2010",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-5": "performed",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-samplings-2": "samplings",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-6-transects-7": "three transects",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-composed-8": "composed",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-4": "performed",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-10-stations-11": "three stations",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-data-2": "data",
+    "NE-ORGANIZATION-ADCP": "ADCP",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Abiotic-1": "Abiotic",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-2": "ichthyoplankton",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-sampled-4": "sampled",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-diurnal-6": "diurnal",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-larvae-5": "larvae",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-collected-18": "collected",
+    "NE-DATE-1634": "1634",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2": "concentrations",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-11": "shelf",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-10": "continental",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20": "Undercurrent flux",
+    "NE-LOCATION-North": "North",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-7": "found",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Higher-1": "Higher",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-probably-13": "probably",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-avoidance-15": "avoidance",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-6": "found",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-associated-12": "associated",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14": "net",
+    "NE-TIME-night": "night",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-groups-6": "groups",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-determined-11": "determined",
+    "NE-MISC-Neritic": "Neritic",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Larvae-1": "Larvae",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-13": "shelf",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-12": "continental",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Melanostomiidae-1": "Melanostomiidae",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15": "identified",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-indicators-17": "indicators",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-20": "continental",
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-slope-21": "slope"
+  },
+  "graph": [
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-features-2",
+      "relation": "influence",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-stages-6"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-stages-6",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-early-5"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-features-2",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Oceanographic-1"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-features-2",
+      "relation": "influence stages to",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-degree-12"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-stages-6",
+      "relation": "of",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-fish-8"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-degree-12",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-high-11"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-We-1",
+      "relation": "investigated",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-6"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4",
+      "relation": "of",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-13-composition-14"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-We-1",
+      "relation": "investigated influence off",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "NE-LOCATION-Northeastern"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4",
+      "relation": "of",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-7-slope-9-gradient-10"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-oceanographic-2-campaigns-3",
+      "relation": "were performed during",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-July-7-August-9"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-oceanographic-2-campaigns-3",
+      "relation": "amount to",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Two-1"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-July-7-August-9",
+      "relation": "amount to",
+      "object_id": "NE-DATE-2010"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-oceanographic-2-campaigns-3",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-5"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-samplings-2",
+      "relation": "were performed along",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-6-transects-7"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-6-transects-7",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-composed-8"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-samplings-2",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-4"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-6-transects-7",
+      "relation": "at",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-10-stations-11"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-data-2",
+      "relation": "were obtained by",
+      "object_id": "NE-ORGANIZATION-ADCP"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-data-2",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Abiotic-1"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-2",
+      "relation": "was",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-sampled-4"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-2",
+      "relation": "was sampled through",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-diurnal-6"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-larvae-5",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-collected-18"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-larvae-5",
+      "relation": "amount to",
+      "object_id": "NE-DATE-1634"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "were found on",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-11"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-11",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-10"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "were found because",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20",
+      "relation": "of",
+      "object_id": "NE-LOCATION-North"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-7"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Higher-1"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20",
+      "relation": "at",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-probably-13"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "be associated with",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-avoidance-15"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-6"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "be",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-associated-12"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-avoidance-15",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2",
+      "relation": "were found at",
+      "object_id": "NE-TIME-night"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-groups-6",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-determined-11"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-groups-6",
+      "relation": "is",
+      "object_id": "NE-MISC-Neritic"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Larvae-1",
+      "relation": "prevailed on",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-13"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-13",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-12"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Melanostomiidae-1",
+      "relation": "were",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15",
+      "relation": "at",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-indicators-17"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15",
+      "relation": "is",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-20"
+    },
+    {
+      "subject_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15",
+      "relation": "of",
+      "object_id": "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-slope-21"
+    }
+  ],
+  "links": {
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-features-2": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-stages-6": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-early-5": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Oceanographic-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-degree-12": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-fish-8": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-high-11": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-We-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-influence-4": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-6": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-13-composition-14": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-2"
+    ],
+    "NE-COUNTRY-Brazil": [],
+    "NE-LOCATION-Northeastern": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-7-slope-9-gradient-10": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-oceanographic-2-campaigns-3": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-July-7-August-9": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Two-1": [],
+    "NE-DATE-2010": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-5": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-samplings-2": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-6-transects-7": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-composed-8": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-performed-4": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-three-10-stations-11": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-data-2": [],
+    "NE-ORGANIZATION-ADCP": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Abiotic-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-2": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-ichthyoplankton-13-composition-14"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-sampled-4": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-diurnal-6": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-larvae-5": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-collected-18": [],
+    "NE-DATE-1634": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-concentrations-2": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-11": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-13"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-10": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-12"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Undercurrent-19-flux-20": [],
+    "NE-LOCATION-North": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-7": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-6"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Higher-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-probably-13": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-avoidance-15": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-6": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-found-7"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-associated-12": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-net-14": [],
+    "NE-TIME-night": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-groups-6": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-determined-11": [],
+    "NE-MISC-Neritic": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Larvae-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-13": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-shelf-11"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-12": [
+      "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-10"
+    ],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-Melanostomiidae-1": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-identified-15": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-indicators-17": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-continental-20": [],
+    "6a84737e-7f50-43ba-b607-a9cc1e4dcfab-slope-21": []
+  }
+}

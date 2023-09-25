@@ -1,0 +1,371 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85084454298.txt",
+  "entities": {
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2": "biocides",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-used-12": "used",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Antifouling-1": "Antifouling",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-paints-15": "paints",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-commonly-11": "commonly",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3": "studies",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9": "region",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-concern-12": "concern",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ecological-11": "ecological",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-work-4": "work",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16": "4 year evaluation",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-occurrence-19": "occurrence",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-considering-17": "considering",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-35": "water",
+    "NE-LOCATION-São-Marcos": "São Marcos",
+    "NE-CITY-Bay": "Bay",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2": "results",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6": "presence",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-9": "biocides",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ubiquitous-5": "ubiquitous",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-wide-15": "wide",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-bay-19": "bay",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.8-9-L-13-−1-14": "0.8 L −1",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-16": "water",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.5-20-g-24-−1-25-dw-26": "0.5 g −1 dw",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-sediments-28": "sediments",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-range-34": "range",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-distribution-2": "distribution",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Bay-12-hydrodynamics-13": "Bay hydrodynamics",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intense-11": "intense",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-related-8": "related",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-mainly-7": "mainly",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9": "diuron",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18": "biota",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-irgarol-7": "irgarol",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13": "risk",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-aquatic-17": "aquatic",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-high-12": "high",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10": "fate",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-such-12": "such",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-study-6": "study",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intend-15": "intend",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-necessary-31": "necessary",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-environmental-9": "environmental",
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-robust-5": "robust"
+  },
+  "graph": [
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2",
+      "relation": "are",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-used-12"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Antifouling-1"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2",
+      "relation": "are commonly used in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-paints-15"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-paints-15",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Antifouling-1"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2",
+      "relation": "are used in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-paints-15"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-used-12",
+      "relation": "at",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-commonly-11"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3",
+      "relation": "carried out in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9",
+      "relation": "of",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-concern-12"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3",
+      "relation": "Recently carried out in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ecological-11"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-work-4",
+      "relation": "focused on",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16",
+      "relation": "of",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-occurrence-19"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16",
+      "relation": "case",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-considering-17"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-work-4",
+      "relation": "So focused on",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-occurrence-19",
+      "relation": "is in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-35"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-35",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Marcos"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-35",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "showed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6",
+      "relation": "of",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-9"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6",
+      "relation": "results",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ubiquitous-5"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Antifouling-1"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-wide-15"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "of",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-bay-19"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.8-9-L-13-−1-14",
+      "relation": "is in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-16"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.5-20-g-24-−1-25-dw-26",
+      "relation": "is in",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-sediments-28"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9",
+      "relation": "showed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-range-34"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-distribution-2",
+      "relation": "was mainly related to",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Bay-12-hydrodynamics-13"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Bay-12-hydrodynamics-13",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intense-11"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-distribution-2",
+      "relation": "was related to",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Bay-12-hydrodynamics-13"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-distribution-2",
+      "relation": "was",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-related-8"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-related-8",
+      "relation": "at",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-mainly-7"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9",
+      "relation": "posed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9",
+      "relation": "risk to",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18",
+      "relation": "of",
+      "object_id": "NE-LOCATION-São-Marcos"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18",
+      "relation": "of",
+      "object_id": "NE-CITY-Bay"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-irgarol-7",
+      "relation": "posed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9",
+      "relation": "high risk to",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9",
+      "relation": "posed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-aquatic-17"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-high-12"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-irgarol-7",
+      "relation": "posed",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "robust study on",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "study on",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-such-12"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10",
+      "relation": "of",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-9"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "represent",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-study-6"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intend-15",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-necessary-31"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-environmental-9"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2",
+      "relation": "represent",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-study-6"
+    },
+    {
+      "subject_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-study-6",
+      "relation": "is",
+      "object_id": "3bcc13d2-58e5-46ad-9c94-b4605d24268c-robust-5"
+    }
+  ],
+  "links": {
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-2": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-used-12": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Antifouling-1": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-paints-15": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-commonly-11": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-studies-3": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-region-9": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-concern-12": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ecological-11": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-work-4": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-4-8-year-10-evaluation-16": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-occurrence-19": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-considering-17": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-35": [],
+    "NE-LOCATION-São-Marcos": [],
+    "NE-CITY-Bay": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-results-2": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-presence-6": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biocides-9": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-ubiquitous-5": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-wide-15": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-bay-19": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.8-9-L-13-−1-14": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-water-16": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-0.5-20-g-24-−1-25-dw-26": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-sediments-28": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-range-34": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-distribution-2": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-Bay-12-hydrodynamics-13": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intense-11": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-related-8": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-mainly-7": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-diuron-9": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-biota-18": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-irgarol-7": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-risk-13": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-aquatic-17": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-high-12": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-fate-10": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-such-12": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-study-6": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-intend-15": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-necessary-31": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-environmental-9": [],
+    "3bcc13d2-58e5-46ad-9c94-b4605d24268c-robust-5": []
+  }
+}

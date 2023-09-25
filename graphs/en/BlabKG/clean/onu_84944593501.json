@@ -1,0 +1,512 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84944593501.txt",
+  "entities": {
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-impacts-14": "impacts",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20": "values",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-coastal-22": "coastal",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-infrastructures-23": "infrastructures",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Coasts-1": "Coasts",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7": "concentration",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-places-4": "places",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-highest-6": "highest",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-increase-17": "increase",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-16": "to",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-grow-26": "grow",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-25": "to",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-people-9": "people",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Climate-1-change-2": "Climate change",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-vulnerabilities-6": "vulnerabilities",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-groups-9": "groups",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12": "may affected",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-8": "social",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-16-change-17": "climate change",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13": "differently",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-management-23-actions-24": "risk management actions",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-5": "social",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-chronic-4": "chronic",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Relationships-1": "Relationships",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7": "characterized",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-different-12": "different",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-inequality-9": "inequality",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-13": "perceptions",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-often-6": "often",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Misperception-1": "Misperception",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-policies-8": "policies",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Population-1": "Population",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-events-6": "events",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climatic-4": "climatic",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-extreme-5": "extreme",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-We-1": "We",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-interdependence-4": "interdependence",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-perception-7": "risk perception",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-analysis-7": "risk analysis",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14": "linked",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-actions-17": "actions",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-points-20": "points",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29": "interviews",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-ecosystem-39-services-40": "ecosystem services",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-assessment-23": "risk assessment",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-initial-28": "initial",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-strategic-19": "strategic",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-methodology-4": "methodology",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-inventory-37": "inventory",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-qualified-31-local-32-informants-33": "qualified local informants",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-where-5": "where",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-key-16": "key",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-2": "approach",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-validated-12": "validated",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-three-14-sites-15": "three sites",
+    "NE-CITY-Itajai": "Itajai",
+    "NE-CITY-Patos": "Patos",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-10": "to",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16": "risk treatment",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25": "cope",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-24": "to",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23": "adaptation arrangements",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-assessment-7": "risk assessment",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-4-forced-9": "approach forced",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-12": "perceptions",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28": "climate forces",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-realistic-21": "realistic",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-11": "social",
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-novel-3": "novel"
+  },
+  "graph": [
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-impacts-14",
+      "relation": "increase",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-coastal-22"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20",
+      "relation": "of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-infrastructures-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Coasts-1",
+      "relation": "are places with",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Coasts-1",
+      "relation": "are",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-places-4"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-highest-6"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-impacts-14",
+      "relation": "continue",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-increase-17"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-increase-17",
+      "relation": "mark",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-to-16"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20",
+      "relation": "continue",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-grow-26"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-grow-26",
+      "relation": "mark",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-to-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7",
+      "relation": "of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-people-9"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-places-4",
+      "relation": "is with",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Climate-1-change-2",
+      "relation": "aggravates",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-vulnerabilities-6"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-groups-9",
+      "relation": "may",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-groups-9",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-social-8"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Climate-1-change-2",
+      "relation": "aggravates vulnerabilities",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-16-change-17"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-management-23-actions-24"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-vulnerabilities-6",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-social-5"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-vulnerabilities-6",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-chronic-4"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Relationships-1",
+      "relation": "are",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-different-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Relationships-1",
+      "relation": "are characterized by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-inequality-9"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7",
+      "relation": "by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-inequality-9"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-13"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-often-6"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Relationships-1",
+      "relation": "are often characterized by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-inequality-9"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Misperception-1",
+      "relation": "often leads to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-policies-8"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Misperception-1",
+      "relation": "leads to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-policies-8"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-Population-1",
+      "relation": "affected by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-events-6"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-events-6",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climatic-4"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-events-6",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-extreme-5"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-We-1",
+      "relation": "address",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interdependence-4"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interdependence-4",
+      "relation": "of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-perception-7"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-analysis-7",
+      "relation": "are",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-actions-17"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-points-20"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29",
+      "relation": "complete",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-ecosystem-39-services-40"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-assessment-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-initial-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-strategic-19"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-We-1",
+      "relation": "developed",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-methodology-4"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29",
+      "relation": "complete",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-inventory-37"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29",
+      "relation": "is with",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-qualified-31-local-32-informants-33"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-where-5"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29",
+      "relation": "inventory of",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-ecosystem-39-services-40"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-key-16"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-2",
+      "relation": "allows",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-validated-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-validated-12",
+      "relation": "at",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-three-14-sites-15"
+    },
+    {
+      "subject_id": "NE-CITY-Itajai",
+      "relation": "Estuary of",
+      "object_id": "NE-CITY-Patos"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-validated-12",
+      "relation": "mark",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-to-10"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25",
+      "relation": "mark",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-to-24"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "contribute to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "better contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-assessment-7",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-4-forced-9"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-4-forced-9",
+      "relation": "by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus better contribute to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus contribute to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus better contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-realistic-21"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-assessment-7",
+      "relation": "is forced by",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-12"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus better contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28",
+      "relation": "mark",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "better contribute to",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "thus contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "cope with",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-12",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-social-11"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16",
+      "relation": "better contribute",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28"
+    },
+    {
+      "subject_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-4-forced-9",
+      "relation": "is",
+      "object_id": "ddbb976f-3682-4d4d-964c-c8f97d044879-novel-3"
+    }
+  ],
+  "links": {
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-impacts-14": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-values-20": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-coastal-22": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-infrastructures-23": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Coasts-1": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-concentration-7": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-places-4": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-highest-6": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-increase-17": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-16": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-grow-26": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-25": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-people-9": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Climate-1-change-2": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-vulnerabilities-6": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-groups-9": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-may-10-affected-12": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-8": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-16-change-17": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-differently-13": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-management-23-actions-24": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-5": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-chronic-4": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Relationships-1": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-characterized-7": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-different-12": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-inequality-9": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-13": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-often-6": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Misperception-1": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-policies-8": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-Population-1": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-events-6": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climatic-4": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-extreme-5": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-We-1": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-interdependence-4": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-perception-7": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-analysis-7": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-linked-14": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-actions-17": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-points-20": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-interviews-29": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-ecosystem-39-services-40": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-22-assessment-23": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-initial-28": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-strategic-19": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-methodology-4": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-inventory-37": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-qualified-31-local-32-informants-33": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-where-5": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-key-16": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-2": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-validated-12": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-three-14-sites-15": [],
+    "NE-CITY-Itajai": [],
+    "NE-CITY-Patos": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-10": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-15-treatment-16": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-cope-25": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-to-24": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-adaptation-22-arrangements-23": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-risk-6-assessment-7": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-approach-4-forced-9": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-perceptions-12": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-climate-27-forces-28": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-realistic-21": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-social-11": [],
+    "ddbb976f-3682-4d4d-964c-c8f97d044879-novel-3": []
+  }
+}

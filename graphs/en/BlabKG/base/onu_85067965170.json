@@ -1,0 +1,595 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85067965170.txt",
+  "entities": {
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-4": "islands",
+    "4d09355a-503a-48db-a367-7c33af77071e-places-7": "places",
+    "4d09355a-503a-48db-a367-7c33af77071e-privileged-6": "privileged",
+    "4d09355a-503a-48db-a367-7c33af77071e-landforms-11": "landforms",
+    "4d09355a-503a-48db-a367-7c33af77071e-unique-10": "unique",
+    "4d09355a-503a-48db-a367-7c33af77071e-studying-9": "studying",
+    "4d09355a-503a-48db-a367-7c33af77071e-setting-18": "setting",
+    "4d09355a-503a-48db-a367-7c33af77071e-oceanic-3": "oceanic",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "4d09355a-503a-48db-a367-7c33af77071e-active-16": "active",
+    "4d09355a-503a-48db-a367-7c33af77071e-tectonic-17": "tectonic",
+    "4d09355a-503a-48db-a367-7c33af77071e-older-31-events-32": "older events",
+    "NE-LOCATION-Noronha": "Noronha",
+    "4d09355a-503a-48db-a367-7c33af77071e-importance-22": "importance",
+    "4d09355a-503a-48db-a367-7c33af77071e-weathering-39": "weathering",
+    "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6": "volcanism",
+    "4d09355a-503a-48db-a367-7c33af77071e-preservation-12": "preservation",
+    "4d09355a-503a-48db-a367-7c33af77071e-volcanic-15": "volcanic",
+    "4d09355a-503a-48db-a367-7c33af77071e-fields-31": "fields",
+    "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8": "Trindade",
+    "4d09355a-503a-48db-a367-7c33af77071e-features-16": "features",
+    "4d09355a-503a-48db-a367-7c33af77071e-Late-4": "Late",
+    "4d09355a-503a-48db-a367-7c33af77071e-contrast-2": "contrast",
+    "4d09355a-503a-48db-a367-7c33af77071e-Quaternary-5": "Quaternary",
+    "4d09355a-503a-48db-a367-7c33af77071e-sand-36-beaches-37": "sand beaches",
+    "4d09355a-503a-48db-a367-7c33af77071e-younger-14": "younger",
+    "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3": "beaches composed",
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-15": "islands",
+    "NE-CAUSE_OF_DEATH-Storm": "Storm",
+    "4d09355a-503a-48db-a367-7c33af77071e-found-12": "found",
+    "4d09355a-503a-48db-a367-7c33af77071e-also-11": "also",
+    "4d09355a-503a-48db-a367-7c33af77071e-features-8": "features",
+    "NE-PERSON-Trindade": "Trindade",
+    "4d09355a-503a-48db-a367-7c33af77071e-aeolian-7": "aeolian",
+    "4d09355a-503a-48db-a367-7c33af77071e-polyphasic-6": "polyphasic",
+    "4d09355a-503a-48db-a367-7c33af77071e-greater-22-extension-23": "greater extension",
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25": "Noronha",
+    "4d09355a-503a-48db-a367-7c33af77071e-sectors-12": "sectors",
+    "4d09355a-503a-48db-a367-7c33af77071e-coastal-11": "coastal",
+    "4d09355a-503a-48db-a367-7c33af77071e-sand-15-dunes-16": "sand dunes",
+    "4d09355a-503a-48db-a367-7c33af77071e-terraces-3": "terraces",
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-8": "islands",
+    "4d09355a-503a-48db-a367-7c33af77071e-Uplifted-1": "Uplifted",
+    "4d09355a-503a-48db-a367-7c33af77071e-high-13": "high",
+    "NE-TITLE-marine": "marine",
+    "4d09355a-503a-48db-a367-7c33af77071e-former-12-sea-14-levels-15": "former sea levels",
+    "4d09355a-503a-48db-a367-7c33af77071e-associated-10": "associated",
+    "4d09355a-503a-48db-a367-7c33af77071e-found-5": "found",
+    "4d09355a-503a-48db-a367-7c33af77071e-presence-5": "presence",
+    "4d09355a-503a-48db-a367-7c33af77071e-related-14": "related",
+    "4d09355a-503a-48db-a367-7c33af77071e-combination-17": "combination",
+    "4d09355a-503a-48db-a367-7c33af77071e-glacio-19": "glacio",
+    "4d09355a-503a-48db-a367-7c33af77071e-eustatic-21": "eustatic",
+    "4d09355a-503a-48db-a367-7c33af77071e-variations-22": "variations",
+    "4d09355a-503a-48db-a367-7c33af77071e-we-8": "we",
+    "NE-LOCATION-Rata-Island": "Rata Island",
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2": "Noronha",
+    "4d09355a-503a-48db-a367-7c33af77071e-soils-4": "soils",
+    "4d09355a-503a-48db-a367-7c33af77071e-importance-10": "importance",
+    "4d09355a-503a-48db-a367-7c33af77071e-ornithogenic-3": "ornithogenic",
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-21": "islands",
+    "4d09355a-503a-48db-a367-7c33af77071e-studies-13": "studies",
+    "4d09355a-503a-48db-a367-7c33af77071e-isolated-20-islands-21": "isolated islands",
+    "4d09355a-503a-48db-a367-7c33af77071e-former-15-bird-16-colonies-17": "former bird colonies",
+    "4d09355a-503a-48db-a367-7c33af77071e-great-9": "great",
+    "4d09355a-503a-48db-a367-7c33af77071e-widespread-6": "widespread",
+    "4d09355a-503a-48db-a367-7c33af77071e-Also-1": "Also",
+    "4d09355a-503a-48db-a367-7c33af77071e-paleoecological-12-studies-13": "paleoecological studies",
+    "4d09355a-503a-48db-a367-7c33af77071e-prominent-3-landforms-4": "prominent landforms",
+    "4d09355a-503a-48db-a367-7c33af77071e-structural-6": "structural",
+    "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14": "erosion degree",
+    "4d09355a-503a-48db-a367-7c33af77071e-landform-37-scenery-38": "landform scenery",
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16": "Noronha",
+    "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6": "landscapes",
+    "4d09355a-503a-48db-a367-7c33af77071e-stands-10": "stands",
+    "4d09355a-503a-48db-a367-7c33af77071e-ferns-13": "ferns",
+    "4d09355a-503a-48db-a367-7c33af77071e-pure-9": "pure",
+    "4d09355a-503a-48db-a367-7c33af77071e-endemic-5": "endemic",
+    "4d09355a-503a-48db-a367-7c33af77071e-arboreal-12": "arboreal",
+    "4d09355a-503a-48db-a367-7c33af77071e-unique-3": "unique"
+  },
+  "graph": [
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "are",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-places-7"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-places-7",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-privileged-6"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "are places for",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landforms-11"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landforms-11",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-unique-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "are privileged places for",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landforms-11"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landforms-11",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-studying-9"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "evolved under",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-setting-18"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-oceanic-3"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-setting-18",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-active-16"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-setting-18",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-tectonic-17"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-older-31-events-32",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-Noronha"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-22",
+      "relation": "resulting in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-weathering-39"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6",
+      "relation": "resulted fields in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-preservation-12"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-preservation-12",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanic-15"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31",
+      "relation": "volcanism at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31",
+      "relation": "Late volcanism at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-preservation-12",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-features-16"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Late-4"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6",
+      "relation": "resulted fields In",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-contrast-2"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Quaternary-5"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6",
+      "relation": "resulted",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31",
+      "relation": "contrast",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-sand-36-beaches-37"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31",
+      "relation": "Late Quaternary volcanism at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-preservation-12",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-younger-14"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-fields-31",
+      "relation": "Quaternary volcanism at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3",
+      "relation": "are found in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-15"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3",
+      "relation": "of",
+      "object_id": "NE-CAUSE_OF_DEATH-Storm"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3",
+      "relation": "are",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-found-12"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-found-12",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-also-11"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3",
+      "relation": "are also found in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-15"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "show",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-features-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "of",
+      "object_id": "NE-PERSON-Trindade"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-features-8",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-aeolian-7"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-features-8",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-polyphasic-6"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-greater-22-extension-23",
+      "relation": "is in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "show features at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-sectors-12"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-sectors-12",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-coastal-11"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-4",
+      "relation": "show features with",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-sand-15-dunes-16"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-terraces-3",
+      "relation": "are found in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-8"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-terraces-3",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Uplifted-1"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-8",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-high-13"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-terraces-3",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-8",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-former-12-sea-14-levels-15"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-8",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-associated-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-terraces-3",
+      "relation": "are",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-found-5"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-presence-5",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-related-14"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-related-14",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-combination-17"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-presence-5",
+      "relation": "is related to",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-combination-17"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-combination-17",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-glacio-19"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-combination-17",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-eustatic-21"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-related-14",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-contrast-2"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-combination-17",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-variations-22"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-presence-5",
+      "relation": "is related In",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-contrast-2"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-we-8",
+      "relation": "can find In",
+      "object_id": "NE-LOCATION-Rata-Island"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-we-8",
+      "relation": "can find In",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-soils-4",
+      "relation": "Also are widespread with",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-soils-4",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-ornithogenic-3"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-soils-4",
+      "relation": "are widespread with",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-islands-21"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-studies-13"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-isolated-20-islands-21"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-former-15-bird-16-colonies-17"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-great-9"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-soils-4",
+      "relation": "are",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-widespread-6"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-widespread-6",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Also-1"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-importance-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-paleoecological-12-studies-13"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-paleoecological-12-studies-13",
+      "relation": "is in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-isolated-20-islands-21"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-prominent-3-landforms-4",
+      "relation": "are",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-structural-6"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14",
+      "relation": "advanced",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landform-37-scenery-38"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14",
+      "relation": "is in",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14",
+      "relation": "advanced much farther",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landform-37-scenery-38"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14",
+      "relation": "advanced farther",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landform-37-scenery-38"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6",
+      "relation": "unique formed by",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6",
+      "relation": "formed by",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10",
+      "relation": "of",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-ferns-13"
+    },
+    {
+      "subject_id": "NE-PERSON-Trindade",
+      "relation": "reveals",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-pure-9"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-endemic-5"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10",
+      "relation": "is",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-arboreal-12"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-stands-10"
+    },
+    {
+      "subject_id": "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6",
+      "relation": "at",
+      "object_id": "4d09355a-503a-48db-a367-7c33af77071e-unique-3"
+    }
+  ],
+  "links": {
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-4": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-places-7": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-privileged-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-landforms-11": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-unique-10": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-studying-9": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-setting-18": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-oceanic-3": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-active-16": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-tectonic-17": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-older-31-events-32": [],
+    "NE-LOCATION-Noronha": [
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16"
+    ],
+    "4d09355a-503a-48db-a367-7c33af77071e-importance-22": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-weathering-39": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-volcanism-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-preservation-12": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-volcanic-15": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-fields-31": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Trindade-8": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-features-16": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Late-4": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-contrast-2": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Quaternary-5": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-sand-36-beaches-37": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-younger-14": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-beaches-2-composed-3": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-15": [],
+    "NE-CAUSE_OF_DEATH-Storm": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-found-12": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-also-11": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-features-8": [],
+    "NE-PERSON-Trindade": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-aeolian-7": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-polyphasic-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-greater-22-extension-23": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25": [
+      "NE-LOCATION-Noronha",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16"
+    ],
+    "4d09355a-503a-48db-a367-7c33af77071e-sectors-12": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-coastal-11": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-sand-15-dunes-16": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-terraces-3": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-8": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Uplifted-1": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-high-13": [],
+    "NE-TITLE-marine": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-former-12-sea-14-levels-15": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-associated-10": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-found-5": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-presence-5": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-related-14": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-combination-17": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-glacio-19": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-eustatic-21": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-variations-22": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-we-8": [],
+    "NE-LOCATION-Rata-Island": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2": [
+      "NE-LOCATION-Noronha",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16"
+    ],
+    "4d09355a-503a-48db-a367-7c33af77071e-soils-4": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-importance-10": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-ornithogenic-3": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-islands-21": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-studies-13": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-isolated-20-islands-21": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-former-15-bird-16-colonies-17": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-great-9": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-widespread-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Also-1": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-paleoecological-12-studies-13": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-prominent-3-landforms-4": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-structural-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-erosion-13-degree-14": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-landform-37-scenery-38": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-Noronha-16": [
+      "NE-LOCATION-Noronha",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-25",
+      "4d09355a-503a-48db-a367-7c33af77071e-Noronha-2"
+    ],
+    "4d09355a-503a-48db-a367-7c33af77071e-landscapes-6": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-stands-10": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-ferns-13": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-pure-9": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-endemic-5": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-arboreal-12": [],
+    "4d09355a-503a-48db-a367-7c33af77071e-unique-3": []
+  }
+}

@@ -1,0 +1,1 @@
+All graphs from documents in English go here.

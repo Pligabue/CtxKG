@@ -1,0 +1,639 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85044462127.txt",
+  "entities": {
+    "77be762f-bb9c-4142-a04f-af0145a57575-paper-2": "paper",
+    "77be762f-bb9c-4142-a04f-af0145a57575-system-8": "system",
+    "77be762f-bb9c-4142-a04f-af0145a57575-continental-12": "continental",
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-5-siliciclastic-7": "carbonate siliciclastic",
+    "NE-STATE_OR_PROVINCE-NE": "NE",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "77be762f-bb9c-4142-a04f-af0145a57575-equatorial-11": "equatorial",
+    "77be762f-bb9c-4142-a04f-af0145a57575-shelf-13": "shelf",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Data-1": "Data",
+    "77be762f-bb9c-4142-a04f-af0145a57575-obtained-3": "obtained",
+    "77be762f-bb9c-4142-a04f-af0145a57575-two-5-sectors-6": "two sectors",
+    "77be762f-bb9c-4142-a04f-af0145a57575-samples-5": "samples",
+    "77be762f-bb9c-4142-a04f-af0145a57575-collected-7": "collected",
+    "77be762f-bb9c-4142-a04f-af0145a57575-72-4": "72",
+    "77be762f-bb9c-4142-a04f-af0145a57575-total-2": "total",
+    "77be762f-bb9c-4142-a04f-af0145a57575-chemical-3-elements-4": "chemical elements",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Ca-6": "Ca",
+    "77be762f-bb9c-4142-a04f-af0145a57575-main-2": "main",
+    "77be762f-bb9c-4142-a04f-af0145a57575-elements-2": "elements",
+    "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6": "two types",
+    "77be762f-bb9c-4142-a04f-af0145a57575-shallow-8": "shallow",
+    "77be762f-bb9c-4142-a04f-af0145a57575-sediments-10": "sediments",
+    "NE-TITLE-marine": "marine",
+    "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11": "correlation",
+    "77be762f-bb9c-4142-a04f-af0145a57575-elements-6": "elements",
+    "77be762f-bb9c-4142-a04f-af0145a57575-strong-9": "strong",
+    "77be762f-bb9c-4142-a04f-af0145a57575-chemical-5": "chemical",
+    "77be762f-bb9c-4142-a04f-af0145a57575-calcareous-15": "calcareous",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Ca-17": "Ca",
+    "77be762f-bb9c-4142-a04f-af0145a57575-negative-10": "negative",
+    "77be762f-bb9c-4142-a04f-af0145a57575-observed-13": "observed",
+    "77be762f-bb9c-4142-a04f-af0145a57575-profiles-2": "profiles",
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-7-sediments-8": "carbonate sediments",
+    "77be762f-bb9c-4142-a04f-af0145a57575-HB-13": "HB",
+    "77be762f-bb9c-4142-a04f-af0145a57575-influence-18": "influence",
+    "77be762f-bb9c-4142-a04f-af0145a57575-continental-17": "continental",
+    "77be762f-bb9c-4142-a04f-af0145a57575-greater-16": "greater",
+    "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6": "prevalence",
+    "77be762f-bb9c-4142-a04f-af0145a57575-relation-14": "relation",
+    "77be762f-bb9c-4142-a04f-af0145a57575-gravel-16": "gravel",
+    "77be762f-bb9c-4142-a04f-af0145a57575-grain-2-size-3": "grain size",
+    "NE-PERCENT-82%": "82 %",
+    "77be762f-bb9c-4142-a04f-af0145a57575-sand-8": "sand",
+    "77be762f-bb9c-4142-a04f-af0145a57575-particle-2-size-3-variation-4": "particle size variation",
+    "77be762f-bb9c-4142-a04f-af0145a57575-breakdown-10": "breakdown",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-12-nodules-13": "Halimeda nodules",
+    "77be762f-bb9c-4142-a04f-af0145a57575-siliciclastic-15-sediments-16": "siliciclastic sediments",
+    "77be762f-bb9c-4142-a04f-af0145a57575-fraction-20": "fraction",
+    "NE-TITLE-finer": "finer",
+    "77be762f-bb9c-4142-a04f-af0145a57575-presence-29": "presence",
+    "77be762f-bb9c-4142-a04f-af0145a57575-iron-33-coating-34": "iron coating",
+    "77be762f-bb9c-4142-a04f-af0145a57575-mainly-6": "mainly",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Both-1": "Both",
+    "77be762f-bb9c-4142-a04f-af0145a57575-presence-7": "presence",
+    "77be762f-bb9c-4142-a04f-af0145a57575-associated-3": "associated",
+    "77be762f-bb9c-4142-a04f-af0145a57575-large-6": "large",
+    "77be762f-bb9c-4142-a04f-af0145a57575-I-2": "I",
+    "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8": "continuity",
+    "77be762f-bb9c-4142-a04f-af0145a57575-sub-bottom-11": "sub-bottom",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1": "Echo",
+    "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15": "subsurface reflector",
+    "77be762f-bb9c-4142-a04f-af0145a57575-surface-6": "surface",
+    "77be762f-bb9c-4142-a04f-af0145a57575-bottom-5": "bottom",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1-II-2": "Echo II",
+    "77be762f-bb9c-4142-a04f-af0145a57575-discontinuous-5": "discontinuous",
+    "77be762f-bb9c-4142-a04f-af0145a57575-ROV-2": "ROV",
+    "77be762f-bb9c-4142-a04f-af0145a57575-observation-5": "observation",
+    "77be762f-bb9c-4142-a04f-af0145a57575-higher-10-floors-11": "higher floors",
+    "77be762f-bb9c-4142-a04f-af0145a57575-lowest-19-sectors-20": "lowest sectors",
+    "77be762f-bb9c-4142-a04f-af0145a57575-algae-7-patches-8": "algae patches",
+    "77be762f-bb9c-4142-a04f-af0145a57575-floors-11": "floors",
+    "77be762f-bb9c-4142-a04f-af0145a57575-sectors-20": "sectors",
+    "77be762f-bb9c-4142-a04f-af0145a57575-patches-2": "patches",
+    "77be762f-bb9c-4142-a04f-af0145a57575-shelf-14": "shelf",
+    "77be762f-bb9c-4142-a04f-af0145a57575-inner-13": "inner",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Large-1": "Large",
+    "77be762f-bb9c-4142-a04f-af0145a57575-climate-26": "climate",
+    "77be762f-bb9c-4142-a04f-af0145a57575-15-17-m-18-isobath-19": "15 m isobath",
+    "77be762f-bb9c-4142-a04f-af0145a57575-It-1": "It",
+    "77be762f-bb9c-4142-a04f-af0145a57575-has-2-concluded-4": "has concluded",
+    "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7": "seafloor",
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25": "carbonate deposition",
+    "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22": "predominance",
+    "77be762f-bb9c-4142-a04f-af0145a57575-modern-21": "modern",
+    "77be762f-bb9c-4142-a04f-af0145a57575-lack-29": "lack",
+    "77be762f-bb9c-4142-a04f-af0145a57575-conditions-2": "conditions",
+    "77be762f-bb9c-4142-a04f-af0145a57575-provided-10": "provided",
+    "77be762f-bb9c-4142-a04f-af0145a57575-intermediate-7-sector-8": "intermediate sector",
+    "77be762f-bb9c-4142-a04f-af0145a57575-it-3": "it",
+    "77be762f-bb9c-4142-a04f-af0145a57575-would-4-ideal-6": "would ideal",
+    "77be762f-bb9c-4142-a04f-af0145a57575-However-1": "However",
+    "77be762f-bb9c-4142-a04f-af0145a57575-extraction-10": "extraction",
+    "77be762f-bb9c-4142-a04f-af0145a57575-resilience-14": "resilience",
+    "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-18-incrassata-19": "Halimeda incrassata",
+    "77be762f-bb9c-4142-a04f-af0145a57575-punctual-9": "punctual"
+  },
+  "graph": [
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-paper-2",
+      "relation": "describes",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-continental-12"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-5-siliciclastic-7"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "of",
+      "object_id": "NE-STATE_OR_PROVINCE-NE"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-equatorial-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-system-8",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-shelf-13"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Data-1",
+      "relation": "were",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-obtained-3"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Data-1",
+      "relation": "were obtained for",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-two-5-sectors-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-samples-5",
+      "relation": "were",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-collected-7"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-samples-5",
+      "relation": "amount to",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-72-4"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-samples-5",
+      "relation": "were collected In",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-total-2"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-chemical-3-elements-4",
+      "relation": "were",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-Ca-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-chemical-3-elements-4",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-main-2"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-elements-2",
+      "relation": "occur in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-shallow-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-sediments-10"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6",
+      "relation": "is",
+      "object_id": "NE-TITLE-marine"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "was observed With",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-elements-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-strong-9"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-elements-6",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-chemical-5"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "was observed between",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-calcareous-15"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "was observed between",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-Ca-17"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-negative-10"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11",
+      "relation": "was",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-observed-13"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-profiles-2",
+      "relation": "show",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-7-sediments-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-HB-13",
+      "relation": "demonstrates",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-influence-18"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-HB-13",
+      "relation": "however demonstrates",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-influence-18"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-influence-18",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-continental-17"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-influence-18",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-greater-16"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-relation-14"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-relation-14",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-gravel-16"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-grain-2-size-3",
+      "relation": "presents",
+      "object_id": "NE-PERCENT-82%"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-grain-2-size-3",
+      "relation": "presents",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-relation-14"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-sand-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-relation-14",
+      "relation": "in prevalence is",
+      "object_id": "NE-PERCENT-82%"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-particle-2-size-3-variation-4",
+      "relation": "is due",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-breakdown-10"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-breakdown-10",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-12-nodules-13"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-siliciclastic-15-sediments-16",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-fraction-20"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-fraction-20",
+      "relation": "is",
+      "object_id": "NE-TITLE-finer"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-presence-29",
+      "relation": "is with",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-iron-33-coating-34"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-breakdown-10",
+      "relation": "at",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-mainly-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Both-1",
+      "relation": "are associated with",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-presence-7"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-presence-7",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-7-sediments-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Both-1",
+      "relation": "are",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-associated-3"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-presence-7",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-large-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-I-2",
+      "relation": "shows surface with",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-sub-bottom-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1",
+      "relation": "shows surface without",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-I-2",
+      "relation": "shows",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-surface-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-surface-6",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-bottom-5"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1",
+      "relation": "shows surface with",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1",
+      "relation": "shows",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-surface-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-I-2",
+      "relation": "shows surface without",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-sub-bottom-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1-II-2",
+      "relation": "presents",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-discontinuous-5"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-ROV-2",
+      "relation": "allowed",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-higher-10-floors-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-lowest-19-sectors-20"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-higher-10-floors-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-algae-7-patches-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-floors-11"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-lowest-19-sectors-20"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-observation-5",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-sectors-20"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-patches-2",
+      "relation": "occur in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-shelf-14"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-shelf-14",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-inner-13"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-patches-2",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-Large-1"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-patches-2",
+      "relation": "occur due",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-climate-26"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-shelf-14",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-15-17-m-18-isobath-19"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-It-1",
+      "relation": "has",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-has-2-concluded-4"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7",
+      "relation": "predominance of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7",
+      "relation": "modern predominance of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7",
+      "relation": "shows",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7",
+      "relation": "shows",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-modern-21"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7",
+      "relation": "shows predominance based",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-lack-29"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-conditions-2",
+      "relation": "are",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-provided-10"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-conditions-2",
+      "relation": "is in",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-intermediate-7-sector-8"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-it-3",
+      "relation": "would",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-would-4-ideal-6"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-would-4-ideal-6",
+      "relation": "at",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-However-1"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-extraction-10",
+      "relation": "analyze",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-resilience-14"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-resilience-14",
+      "relation": "of",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-18-incrassata-19"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-extraction-10",
+      "relation": "is",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-punctual-9"
+    },
+    {
+      "subject_id": "77be762f-bb9c-4142-a04f-af0145a57575-it-3",
+      "relation": "perform",
+      "object_id": "77be762f-bb9c-4142-a04f-af0145a57575-extraction-10"
+    }
+  ],
+  "links": {
+    "77be762f-bb9c-4142-a04f-af0145a57575-paper-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-system-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-continental-12": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-5-siliciclastic-7": [],
+    "NE-STATE_OR_PROVINCE-NE": [],
+    "NE-COUNTRY-Brazil": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-equatorial-11": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-shelf-13": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Data-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-obtained-3": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-two-5-sectors-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-samples-5": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-collected-7": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-72-4": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-total-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-chemical-3-elements-4": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Ca-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-main-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-elements-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-two-5-types-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-shallow-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-sediments-10": [],
+    "NE-TITLE-marine": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-correlation-11": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-elements-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-strong-9": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-chemical-5": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-calcareous-15": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Ca-17": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-negative-10": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-observed-13": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-profiles-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-7-sediments-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-HB-13": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-influence-18": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-continental-17": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-greater-16": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-prevalence-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-relation-14": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-gravel-16": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-grain-2-size-3": [],
+    "NE-PERCENT-82%": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-sand-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-particle-2-size-3-variation-4": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-breakdown-10": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-12-nodules-13": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-siliciclastic-15-sediments-16": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-fraction-20": [],
+    "NE-TITLE-finer": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-presence-29": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-iron-33-coating-34": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-mainly-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Both-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-presence-7": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-associated-3": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-large-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-I-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-continuity-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-sub-bottom-11": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-subsurface-14-reflector-15": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-surface-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-bottom-5": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Echo-1-II-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-discontinuous-5": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-ROV-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-observation-5": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-higher-10-floors-11": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-lowest-19-sectors-20": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-algae-7-patches-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-floors-11": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-sectors-20": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-patches-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-shelf-14": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-inner-13": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Large-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-climate-26": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-15-17-m-18-isobath-19": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-It-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-has-2-concluded-4": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-seafloor-7": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-carbonate-24-deposition-25": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-predominance-22": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-modern-21": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-lack-29": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-conditions-2": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-provided-10": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-intermediate-7-sector-8": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-it-3": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-would-4-ideal-6": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-However-1": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-extraction-10": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-resilience-14": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-Halimeda-18-incrassata-19": [],
+    "77be762f-bb9c-4142-a04f-af0145a57575-punctual-9": []
+  }
+}

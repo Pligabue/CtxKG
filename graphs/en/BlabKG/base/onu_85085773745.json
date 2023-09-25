@@ -1,0 +1,593 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085773745.txt",
+  "entities": {
+    "21225434-c8fc-441d-b277-65da424c77e7-recovery-20-rates-21": "recovery rates",
+    "21225434-c8fc-441d-b277-65da424c77e7-impact-26": "impact",
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-1-WAG-3": "CO2 WAG",
+    "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13": "has applied",
+    "21225434-c8fc-441d-b277-65da424c77e7-environmental-25": "environmental",
+    "21225434-c8fc-441d-b277-65da424c77e7-offshore-15": "offshore",
+    "21225434-c8fc-441d-b277-65da424c77e7-oilfields-17": "oilfields",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "21225434-c8fc-441d-b277-65da424c77e7-gas-14": "gas",
+    "21225434-c8fc-441d-b277-65da424c77e7-miscible-5": "miscible",
+    "21225434-c8fc-441d-b277-65da424c77e7-oil-7": "oil",
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-2": "CO2",
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11": "reservoirs conditions",
+    "21225434-c8fc-441d-b277-65da424c77e7-its-21-speciation-22": "its speciation",
+    "21225434-c8fc-441d-b277-65da424c77e7-aqueous-25-phase-26-drives-27-reactions-28": "aqueous phase drives reactions",
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonates-30": "carbonates",
+    "NE-TITLE-mobile": "mobile",
+    "21225434-c8fc-441d-b277-65da424c77e7-highly-4": "highly",
+    "21225434-c8fc-441d-b277-65da424c77e7-severe-34-inorganic-35-scaling-36-problems-37": "severe inorganic scaling problems",
+    "21225434-c8fc-441d-b277-65da424c77e7-production-39-systems-40": "production systems",
+    "21225434-c8fc-441d-b277-65da424c77e7-extremely-17": "extremely",
+    "21225434-c8fc-441d-b277-65da424c77e7-also-16": "also",
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13": "CO2 WAG operations",
+    "21225434-c8fc-441d-b277-65da424c77e7-crucial-3": "crucial",
+    "21225434-c8fc-441d-b277-65da424c77e7-mobility-15-control-16": "mobility control",
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoir-22-performance-23": "reservoir performance",
+    "21225434-c8fc-441d-b277-65da424c77e7-therefore-5": "therefore",
+    "21225434-c8fc-441d-b277-65da424c77e7-design-5-optimization-6": "design optimization",
+    "21225434-c8fc-441d-b277-65da424c77e7-Pre-salt-19-context-21": "Pre-salt context",
+    "21225434-c8fc-441d-b277-65da424c77e7-offshore-20": "offshore",
+    "21225434-c8fc-441d-b277-65da424c77e7-trade-37-offs-39": "trade offs",
+    "21225434-c8fc-441d-b277-65da424c77e7-project-41-profitability-42": "project profitability",
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoir-23-properties-24": "reservoir properties",
+    "21225434-c8fc-441d-b277-65da424c77e7-design-12-parameters-13": "design parameters",
+    "21225434-c8fc-441d-b277-65da424c77e7-sampling-18": "sampling",
+    "21225434-c8fc-441d-b277-65da424c77e7-key-11": "key",
+    "21225434-c8fc-441d-b277-65da424c77e7-statistical-17": "statistical",
+    "21225434-c8fc-441d-b277-65da424c77e7-optimized-15": "optimized",
+    "21225434-c8fc-441d-b277-65da424c77e7-simulations-3": "simulations",
+    "21225434-c8fc-441d-b277-65da424c77e7-performed-9": "performed",
+    "21225434-c8fc-441d-b277-65da424c77e7-compositional-2": "compositional",
+    "21225434-c8fc-441d-b277-65da424c77e7-Several-1": "Several",
+    "21225434-c8fc-441d-b277-65da424c77e7-reactions-4": "reactions",
+    "21225434-c8fc-441d-b277-65da424c77e7-included-6": "included",
+    "21225434-c8fc-441d-b277-65da424c77e7-Aqueous-1": "Aqueous",
+    "21225434-c8fc-441d-b277-65da424c77e7-calculations-9": "calculations",
+    "21225434-c8fc-441d-b277-65da424c77e7-us-12": "us",
+    "21225434-c8fc-441d-b277-65da424c77e7-calcite-16-mass-17": "calcite mass",
+    "21225434-c8fc-441d-b277-65da424c77e7-economics-12": "economics",
+    "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16": "scale management",
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonate-21-reservoirs-22": "carbonate reservoirs",
+    "21225434-c8fc-441d-b277-65da424c77e7-WAG-6-operations-7": "WAG operations",
+    "21225434-c8fc-441d-b277-65da424c77e7-oil-18-production-19": "oil production",
+    "21225434-c8fc-441d-b277-65da424c77e7-optimizing-5": "optimizing",
+    "21225434-c8fc-441d-b277-65da424c77e7-WAG-3-design-4": "WAG design",
+    "21225434-c8fc-441d-b277-65da424c77e7-NPV-8": "NPV",
+    "21225434-c8fc-441d-b277-65da424c77e7-optimal-2": "optimal",
+    "21225434-c8fc-441d-b277-65da424c77e7-incremental-7": "incremental",
+    "21225434-c8fc-441d-b277-65da424c77e7-stored-13": "stored",
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-12": "CO2",
+    "21225434-c8fc-441d-b277-65da424c77e7-volume-10": "volume",
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-15": "CO2",
+    "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34": "calcite mineral deposition",
+    "21225434-c8fc-441d-b277-65da424c77e7-methodology-6": "methodology",
+    "21225434-c8fc-441d-b277-65da424c77e7-determine-11": "determine",
+    "21225434-c8fc-441d-b277-65da424c77e7-to-10": "to",
+    "21225434-c8fc-441d-b277-65da424c77e7-production-42-wells-43": "production wells",
+    "21225434-c8fc-441d-b277-65da424c77e7-used-9": "used",
+    "21225434-c8fc-441d-b277-65da424c77e7-triggering-31": "triggering",
+    "21225434-c8fc-441d-b277-65da424c77e7-jeopardy-40": "jeopardy",
+    "21225434-c8fc-441d-b277-65da424c77e7-point-37": "point",
+    "21225434-c8fc-441d-b277-65da424c77e7-permanent-39": "permanent",
+    "21225434-c8fc-441d-b277-65da424c77e7-workflow-4": "workflow",
+    "21225434-c8fc-441d-b277-65da424c77e7-challenges-7": "challenges",
+    "21225434-c8fc-441d-b277-65da424c77e7-critical-6": "critical",
+    "21225434-c8fc-441d-b277-65da424c77e7-complex-19-decision-20-making-22": "complex decision making",
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonate-30-reservoirs-31": "carbonate reservoirs"
+  },
+  "graph": [
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-recovery-20-rates-21",
+      "relation": "mitigate",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-impact-26"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-1-WAG-3",
+      "relation": "has",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-impact-26",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-environmental-25"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-offshore-15"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-oilfields-17"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-1-WAG-3",
+      "relation": "improve",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-recovery-20-rates-21"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is also extremely mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is extremely mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-oil-7"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11",
+      "relation": "mark",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is also mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-its-21-speciation-22",
+      "relation": "is in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-aqueous-25-phase-26-drives-27-reactions-28"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-aqueous-25-phase-26-drives-27-reactions-28",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-carbonates-30"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is also extremely mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is extremely mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-aqueous-25-phase-26-drives-27-reactions-28",
+      "relation": "is with",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-carbonates-30"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is also mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is mobile",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is",
+      "object_id": "NE-TITLE-mobile"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is highly miscible under",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is miscible under",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is highly miscible in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-oil-7"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-miscible-5",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-highly-4"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-severe-34-inorganic-35-scaling-36-problems-37",
+      "relation": "is in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-production-39-systems-40"
+    },
+    {
+      "subject_id": "NE-TITLE-mobile",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-extremely-17"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-2",
+      "relation": "is miscible in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-oil-7"
+    },
+    {
+      "subject_id": "NE-TITLE-mobile",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-also-16"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "design",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-crucial-3"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "effectively design CO2 WAG operations for",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-mobility-15-control-16"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13",
+      "relation": "consequently enhance",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoir-22-performance-23"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-crucial-3",
+      "relation": "at",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-therefore-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13",
+      "relation": "enhance",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoir-22-performance-23"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "design CO2 WAG operations for",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-mobility-15-control-16"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-gas-14",
+      "relation": "effectively design",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-5-optimization-6",
+      "relation": "applied to",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-Pre-salt-19-context-21"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-Pre-salt-19-context-21",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-offshore-20"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-Pre-salt-19-context-21",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-5-optimization-6",
+      "relation": "examining",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-trade-37-offs-39"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-trade-37-offs-39",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-project-41-profitability-42"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-5-optimization-6",
+      "relation": "applied to",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-reservoir-23-properties-24"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-12-parameters-13",
+      "relation": "using",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-sampling-18"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-12-parameters-13",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-key-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-sampling-18",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-statistical-17"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-design-12-parameters-13",
+      "relation": "were",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-optimized-15"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-simulations-3",
+      "relation": "were",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-performed-9"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-simulations-3",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-compositional-2"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-simulations-3",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-Several-1"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-reactions-4",
+      "relation": "were",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-included-6"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-reactions-4",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-Aqueous-1"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-reactions-4",
+      "relation": "were included in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-calculations-9"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-us-12",
+      "relation": "quantify",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-16-mass-17"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-economics-12",
+      "relation": "optimizing operations",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-carbonate-21-reservoirs-22"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-6-operations-7",
+      "relation": "improve",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-economics-12"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-oil-18-production-19"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-economics-12",
+      "relation": "operations",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-6-operations-7",
+      "relation": "significantly improve",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-economics-12"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-6-operations-7",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-optimizing-5"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-3-design-4",
+      "relation": "increased",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-3-design-4",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-optimal-2"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-incremental-7"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-WAG-3-design-4",
+      "relation": "greatly increased",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-stored-13"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-12"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-NPV-8",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-volume-10"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-15",
+      "relation": "doing without",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-methodology-6",
+      "relation": "be used",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-determine-11"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-determine-11",
+      "relation": "mark",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-to-10"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-CO2-15",
+      "relation": "doing so without",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-production-42-wells-43"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-methodology-6",
+      "relation": "be",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-used-9"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-triggering-31"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-jeopardy-40"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34",
+      "relation": "of",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-point-37"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-permanent-39"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-workflow-4",
+      "relation": "integrates",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-challenges-7"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-challenges-7",
+      "relation": "is",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-critical-6"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-complex-19-decision-20-making-22",
+      "relation": "is in",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-carbonate-30-reservoirs-31"
+    },
+    {
+      "subject_id": "21225434-c8fc-441d-b277-65da424c77e7-workflow-4",
+      "relation": "Therefore integrates",
+      "object_id": "21225434-c8fc-441d-b277-65da424c77e7-challenges-7"
+    }
+  ],
+  "links": {
+    "21225434-c8fc-441d-b277-65da424c77e7-recovery-20-rates-21": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-impact-26": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-1-WAG-3": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-has-11-applied-13": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-environmental-25": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-offshore-15": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-oilfields-17": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-gas-14": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-miscible-5": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-oil-7": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-2": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoirs-10-conditions-11": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-its-21-speciation-22": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-aqueous-25-phase-26-drives-27-reactions-28": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonates-30": [],
+    "NE-TITLE-mobile": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-highly-4": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-severe-34-inorganic-35-scaling-36-problems-37": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-production-39-systems-40": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-extremely-17": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-also-16": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-10-WAG-12-operations-13": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-crucial-3": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-mobility-15-control-16": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoir-22-performance-23": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-therefore-5": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-design-5-optimization-6": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-Pre-salt-19-context-21": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-offshore-20": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-trade-37-offs-39": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-project-41-profitability-42": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-reservoir-23-properties-24": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-design-12-parameters-13": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-sampling-18": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-key-11": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-statistical-17": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-optimized-15": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-simulations-3": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-performed-9": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-compositional-2": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-Several-1": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-reactions-4": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-included-6": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-Aqueous-1": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-calculations-9": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-us-12": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-calcite-16-mass-17": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-economics-12": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-scale-15-management-16": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonate-21-reservoirs-22": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-WAG-6-operations-7": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-oil-18-production-19": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-optimizing-5": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-WAG-3-design-4": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-NPV-8": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-optimal-2": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-incremental-7": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-stored-13": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-12": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-volume-10": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-CO2-15": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-calcite-32-mineral-33-deposition-34": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-methodology-6": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-determine-11": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-to-10": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-production-42-wells-43": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-used-9": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-triggering-31": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-jeopardy-40": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-point-37": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-permanent-39": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-workflow-4": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-challenges-7": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-critical-6": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-complex-19-decision-20-making-22": [],
+    "21225434-c8fc-441d-b277-65da424c77e7-carbonate-30-reservoirs-31": []
+  }
+}

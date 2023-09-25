@@ -1,0 +1,630 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85085774498.txt",
+  "entities": {
+    "NE-COUNTRY-Brazil": "Brazil",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-age-5": "age",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-fields-12": "fields",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-aging-10": "aging",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-11": "offshore",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-7": "decommissioning",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-reality-23": "reality",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-new-22": "new",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-9": "environment",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-monopolistic-8-environment-9": "monopolistic environment",
+    "NE-ORGANIZATION-Petrobras": "Petrobras",
+    "NE-TITLE-operator": "operator",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-oil-15-company-16": "oil company",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-owned-14": "owned",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-which-25": "which",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-part-2": "part",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-reality-6": "reality",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-government-11-organizations-12": "government organizations",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-natural-23-resources-24": "natural resources",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-new-5": "new",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22": "detail design",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-commissioning-26": "commissioning",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14": "end engineering",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-conceptual-10": "conceptual",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-front-12": "front",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-projects-4": "projects",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-phases-7": "phases",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-3": "offshore",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-basic-6": "basic",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24": "construction",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Cost-1-allocation-2": "Cost allocation",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-associated-10": "associated",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-production-12-estimates-13": "production estimates",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-schedules-4": "schedules",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-investment-17-estimates-18": "investment estimates",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-operators-15": "operators",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-23-awareness-24-phase-25": "decommissioning awareness phase",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-domestic-12": "domestic",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-operators-8": "operators",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11": "comply",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17": "frame",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-It-1": "It",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-opinion-6": "opinion",
+    "NE-TITLE-author": "author",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-to-10": "to",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-well-14": "well",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-22": "regulations",
+    "NE-NATIONALITY-Brazilian": "Brazilian",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-defined-16": "defined",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-set-74": "set",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-status-99": "status",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12": "environment",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-path-18": "path",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-existing-10": "existing",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-information-95": "information",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-rules-76": "rules",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-clear-73": "clear",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-forward-19": "forward",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131": "roadmap",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-convergence-133": "convergence",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-recommendations-15": "recommendations",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulatory-11": "regulatory",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-requirements-26": "requirements",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-process-31": "process",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-review-36-cycle-37": "review cycle",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-minimized-35": "minimized",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-entities-111": "entities",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-goals-117": "goals",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-non-government-110": "non-government",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-cut-25": "cut",
+    "NE-DATE-current": "current",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environmental-136": "environmental",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-basic-94": "basic",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Rules-103": "Rules",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-permitting-30": "permitting",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-agency-137": "agency",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-paper-5": "paper",
+    "NE-TITLE-general": "general",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Laws-1": "Laws",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-part-16": "part",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-19": "environment",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-5": "regulations",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-treaties-9": "treaties",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-international-8": "international",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-rules-3": "rules",
+    "801b16ca-c991-454c-b97a-b358ab8eea75-signatory-14": "signatory"
+  },
+  "graph": [
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is entering",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-age-5"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is entering age with",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-fields-12"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-fields-12",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-aging-10"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-fields-12",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-11"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-age-5",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-7"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has migrated to",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-reality-23"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-reality-23",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-new-22"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has migrated from",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-9"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-9",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-monopolistic-8-environment-9"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has migrated with",
+      "object_id": "NE-ORGANIZATION-Petrobras"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "from",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-monopolistic-8-environment-9"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has migrated with",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-oil-15-company-16"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-oil-15-company-16",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-owned-14"
+    },
+    {
+      "subject_id": "NE-TITLE-operator",
+      "relation": "has",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-9"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-reality-23",
+      "relation": "is in",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-which-25"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has established government organizations As",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-2"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-2",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-reality-6"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has established",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-government-11-organizations-12"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-natural-23-resources-24"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-2",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-new-5"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "projects",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-commissioning-26"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "offshore projects",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-commissioning-26"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "phases such",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-conceptual-10"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "basic phases such",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-front-12"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-projects-4",
+      "relation": "Traditionally follow",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-phases-7"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-projects-4",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-3"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-phases-7",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-basic-6"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "offshore projects",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "projects",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "FEED",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-commissioning-26"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-projects-4",
+      "relation": "follow",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-phases-7"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "basic phases",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22",
+      "relation": "FEED",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-Cost-1-allocation-2",
+      "relation": "are",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-associated-10"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-associated-10",
+      "relation": "at",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-production-12-estimates-13"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-schedules-4",
+      "relation": "return on",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-investment-17-estimates-18"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-15",
+      "relation": "are going through",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-23-awareness-24-phase-25"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-23-awareness-24-phase-25",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-new-22"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-15",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-domestic-12"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-15",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-8",
+      "relation": "wish",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11",
+      "relation": "at",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-8",
+      "relation": "wish",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-It-1",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-opinion-6"
+    },
+    {
+      "subject_id": "NE-TITLE-author",
+      "relation": "has",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-opinion-6"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-operators-8",
+      "relation": "comply with",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "at",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11",
+      "relation": "mark",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-to-10"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "at",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-well-14"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-22"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "mark",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-defined-16"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+      "relation": "information on",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-status-99"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12",
+      "relation": "make recommendations on",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-path-18"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-existing-10"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-information-95",
+      "relation": "clear set of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-rules-76"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-clear-73"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-status-99",
+      "relation": "is",
+      "object_id": "NE-NATIONALITY-Brazilian"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+      "relation": "basic information on",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-status-99"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-path-18",
+      "relation": "at",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-forward-19"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+      "relation": "Develop",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-convergence-133"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12",
+      "relation": "make",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-recommendations-15"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-regulatory-11"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-path-18",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-requirements-26"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-process-31",
+      "relation": "flows with",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-review-36-cycle-37"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-review-36-cycle-37",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-minimized-35"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-entities-111",
+      "relation": "accomplish",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-goals-117"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-entities-111",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-non-government-110"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-path-18",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-cut-25"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-status-99",
+      "relation": "is",
+      "object_id": "NE-DATE-current"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environmental-136"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-information-95",
+      "relation": "set of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-rules-76"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-information-95",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-basic-94"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-status-99",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-Rules-103"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-process-31",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-permitting-30"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-agency-137"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-set-74",
+      "relation": "Gather",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-information-95"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-paper-5",
+      "relation": "aims In",
+      "object_id": "NE-TITLE-general"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-Laws-1",
+      "relation": "are",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-16"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-16",
+      "relation": "of",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-environment-19"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-5",
+      "relation": "are",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-16"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-treaties-9",
+      "relation": "are",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-16"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-treaties-9",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-international-8"
+    },
+    {
+      "subject_id": "801b16ca-c991-454c-b97a-b358ab8eea75-rules-3",
+      "relation": "are",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-part-16"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "is",
+      "object_id": "801b16ca-c991-454c-b97a-b358ab8eea75-signatory-14"
+    }
+  ],
+  "links": {
+    "NE-COUNTRY-Brazil": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-age-5": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-fields-12": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-aging-10": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-11": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-7": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-reality-23": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-new-22": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-9": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-monopolistic-8-environment-9": [],
+    "NE-ORGANIZATION-Petrobras": [],
+    "NE-TITLE-operator": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-oil-15-company-16": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-owned-14": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-which-25": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-part-2": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-reality-6": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-government-11-organizations-12": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-natural-23-resources-24": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-new-5": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-detail-21-design-22": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-commissioning-26": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-end-13-engineering-14": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-conceptual-10": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-front-12": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-projects-4": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-phases-7": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-offshore-3": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-basic-6": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-construction-24": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Cost-1-allocation-2": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-associated-10": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-production-12-estimates-13": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-schedules-4": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-investment-17-estimates-18": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-operators-15": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-decommissioning-23-awareness-24-phase-25": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-domestic-12": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-operators-8": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-comply-11": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-frame-17": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-It-1": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-opinion-6": [],
+    "NE-TITLE-author": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-to-10": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-well-14": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-22": [],
+    "NE-NATIONALITY-Brazilian": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-defined-16": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-set-74": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-status-99": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-12": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-path-18": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-existing-10": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-information-95": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-rules-76": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-clear-73": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-forward-19": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-roadmap-131": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-convergence-133": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-recommendations-15": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulatory-11": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-requirements-26": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-process-31": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-review-36-cycle-37": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-minimized-35": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-entities-111": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-goals-117": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-non-government-110": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-cut-25": [],
+    "NE-DATE-current": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environmental-136": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-basic-94": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Rules-103": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-permitting-30": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-agency-137": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-paper-5": [],
+    "NE-TITLE-general": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-Laws-1": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-part-16": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-environment-19": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-5": [
+      "801b16ca-c991-454c-b97a-b358ab8eea75-rules-3"
+    ],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-treaties-9": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-international-8": [],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-rules-3": [
+      "801b16ca-c991-454c-b97a-b358ab8eea75-regulations-5"
+    ],
+    "801b16ca-c991-454c-b97a-b358ab8eea75-signatory-14": []
+  }
+}

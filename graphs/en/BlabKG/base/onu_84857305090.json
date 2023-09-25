@@ -1,0 +1,360 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_84857305090.txt",
+  "entities": {
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-equipment-2": "equipment",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9": "will key",
+    "NE-DATE-2020": "2020",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Supplying-1": "Supplying",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-to-13-oil-16-production-17": "to oil production",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-timely-5-fashion-6": "timely fashion",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "NE-ORGANIZATION-BR-Petrobras": "BR Petrobras",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-efforts-12": "efforts",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-double-15-oil-16-production-17": "double oil production",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-nearly-14": "nearly",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-oil-25-services-26-sector-27": "oil services sector",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-industry-30": "industry",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-goods-34": "goods",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-services-36": "services",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-government-3": "government",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-significant-15-local-16-presence-17": "significant local presence",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-particular-20-equipment-21-suppliers-22": "particular equipment suppliers",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-major-6-role-7": "major role",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-E&P-10": "E&P",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-delays-43": "delays",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-technical-45-proposal-46": "technical proposal",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31": "importance",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-proposal-46": "proposal",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2": "paper",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-strategy-7": "strategy",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-support-35": "support",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-local-34": "local",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-needed-8": "needed",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-overall-6": "overall",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-providing-33": "providing",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-yards-38": "yards",
+    "NE-ORGANIZATION-Honeywell": "Honeywell",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-already-10": "already",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11-operations-12": "existing operations",
+    "NE-CITY-Rio-de-Janeiro": "Rio de Janeiro",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-its-9": "its",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-addition-7": "addition",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16": "operation",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11": "existing",
+    "NE-TITLE-Marine": "Marine",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-operations-12": "operations",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-unit-2": "unit",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Front-6-End-7-Engineering-8-Desing-9-sales-20-support-21-Installation-23-support-26": "Front End Engineering Desing sales support Installation support",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Customer-14-Engineering-15-Project-16-Support-17": "Customer Engineering Project Support",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Technical-19": "Technical",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Consideration-1": "Consideration",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5": "will given",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-study-8": "study",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-assembly-16-line-17": "assembly line",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-run-10": "run",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-also-3": "also",
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-logistics-22-costs-23": "logistics costs"
+  },
+  "graph": [
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-equipment-2",
+      "relation": "will",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "of",
+      "object_id": "NE-DATE-2020"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-equipment-2",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Supplying-1"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-to-13-oil-16-production-17"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-equipment-2",
+      "relation": "is in",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-timely-5-fashion-6"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-BR-Petrobras",
+      "relation": "has",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "at",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-efforts-12"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-double-15-oil-16-production-17"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9",
+      "relation": "at",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-nearly-14"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-double-15-oil-16-production-17",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-oil-25-services-26-sector-27",
+      "relation": "creating",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-industry-30"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-goods-34",
+      "relation": "world",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-services-36"
+    },
+    {
+      "subject_id": "NE-COUNTRY-Brazil",
+      "relation": "has",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-government-3"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-significant-15-local-16-presence-17",
+      "relation": "is in",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-particular-20-equipment-21-suppliers-22"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-major-6-role-7",
+      "relation": "is in",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-E&P-10"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-delays-43",
+      "relation": "is in",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-technical-45-proposal-46"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "reduce",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-proposal-46"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2",
+      "relation": "will discuss",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-strategy-7"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2",
+      "relation": "examine",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-support-35"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-local-34"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-strategy-7",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-needed-8"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-proposal-46",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-technical-45-proposal-46"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "reduce",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-delays-43"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-strategy-7",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-overall-6"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-providing-33"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-yards-38"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Honeywell",
+      "relation": "has set up in",
+      "object_id": "NE-ORGANIZATION-Honeywell"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Honeywell",
+      "relation": "at",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-already-10"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11-operations-12",
+      "relation": "operation in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-its-9",
+      "relation": "has",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11-operations-12"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Honeywell",
+      "relation": "has set up in",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-addition-7"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-its-9",
+      "relation": "operations",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16",
+      "relation": "of",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Honeywell",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16",
+      "relation": "is in",
+      "object_id": "NE-CITY-Rio-de-Janeiro"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16",
+      "relation": "of",
+      "object_id": "NE-TITLE-Marine"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-Honeywell",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-operations-12"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-unit-2",
+      "relation": "includes",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Front-6-End-7-Engineering-8-Desing-9-sales-20-support-21-Installation-23-support-26"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Front-6-End-7-Engineering-8-Desing-9-sales-20-support-21-Installation-23-support-26",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Customer-14-Engineering-15-Project-16-Support-17"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Front-6-End-7-Engineering-8-Desing-9-sales-20-support-21-Installation-23-support-26",
+      "relation": "of",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Technical-19"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-Consideration-1",
+      "relation": "will",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5",
+      "relation": "at",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-study-8"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-assembly-16-line-17",
+      "relation": "is in",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5",
+      "relation": "by",
+      "object_id": "NE-ORGANIZATION-Honeywell"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5",
+      "relation": "is",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-run-10"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5",
+      "relation": "at",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-also-3"
+    },
+    {
+      "subject_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-assembly-16-line-17",
+      "relation": "minimize",
+      "object_id": "6f3e4645-24e4-4349-bbd4-2d20eb367316-logistics-22-costs-23"
+    }
+  ],
+  "links": {
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-equipment-2": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-7-key-9": [],
+    "NE-DATE-2020": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Supplying-1": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-to-13-oil-16-production-17": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-timely-5-fashion-6": [],
+    "NE-COUNTRY-Brazil": [],
+    "NE-ORGANIZATION-BR-Petrobras": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-efforts-12": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-double-15-oil-16-production-17": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-nearly-14": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-oil-25-services-26-sector-27": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-industry-30": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-goods-34": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-services-36": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-government-3": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-significant-15-local-16-presence-17": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-particular-20-equipment-21-suppliers-22": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-major-6-role-7": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-E&P-10": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-delays-43": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-technical-45-proposal-46": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-importance-31": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-proposal-46": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-paper-2": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-strategy-7": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-support-35": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-local-34": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-needed-8": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-overall-6": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-providing-33": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-yards-38": [],
+    "NE-ORGANIZATION-Honeywell": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-already-10": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11-operations-12": [],
+    "NE-CITY-Rio-de-Janeiro": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-its-9": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-addition-7": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-operation-16": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-existing-11": [],
+    "NE-TITLE-Marine": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-operations-12": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-unit-2": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Front-6-End-7-Engineering-8-Desing-9-sales-20-support-21-Installation-23-support-26": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Customer-14-Engineering-15-Project-16-Support-17": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Technical-19": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-Consideration-1": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-will-2-given-5": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-study-8": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-assembly-16-line-17": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-run-10": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-also-3": [],
+    "6f3e4645-24e4-4349-bbd4-2d20eb367316-logistics-22-costs-23": []
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85097598677.txt",
+  "entities": {
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-2": "paper",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9": "pressure variations",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-18-pipe-19-connections-20": "drill pipe connections",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-measured-4": "measured",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-7": "downhole",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3": "rig motion",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-inducessurge-15": "inducessurge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1": "Floating",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-11-heave-12": "rig heave",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drillstring-20": "drillstring",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-slips-23": "slips",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-waves-6": "waves",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-topside-34": "topside",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-compensation-36": "compensation",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-known-4-issue-5": "known issue",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7": "regions",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11": "harsh weather such",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-This-1": "This",
+    "NE-LOCATION-North-Sea": "North Sea",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drilling-3-data-4": "drilling data",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-11-oscillations-12": "pressure oscillations",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Recorded-1": "Recorded",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-significant-10": "significant",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-30-string-31": "drill string",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39": "connection",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-sub-salt-42-8 1/2-43": "sub-salt 8 1/2",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-8 1/2-43": "8 1/2",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-17-order-18": "same order",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2": "downhole",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-13": "downhole",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Mud-1-losses-2": "Mud losses",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-experienced-4": "experienced",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-well-8-depth-9": "well depth",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-might-12-have-13-caused-15-by-16-surge-17": "might have caused by surge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-7": "same",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-2": "surge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9": "have reproduced",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-16-simulator-17": "swab simulator",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-20-heave-21": "rig heave",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-trajectory-35": "trajectory",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Measured-1": "Measured",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-proprietary-13": "proprietary",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-14": "surge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-advanced-12": "advanced",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11": "swab",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16": "higher",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-significantly-15": "significantly",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14": "fact",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9": "surge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-findings-3": "findings",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-6": "paper",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18": "recorded",
+    "NE-ORGANIZATION-MWD": "MWD",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-23": "regions",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-calm-25-weather-26-such-27": "calm weather such",
+    "NE-COUNTRY-Brazil": "Brazil",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-work-2-showsthatsurge-3": "work showsthatsurge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17": "pressure window",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-available-15": "available",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-5": "swab",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-wells-20": "wells",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Pressure-2-Drilling-3": "Pressure Drilling",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-technique-9": "technique",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Managed-1": "Managed",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-time-19-delay-20": "time delay",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-23-order-24-of-25-magnitude-26": "same order of magnitude",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-potential-11-solutions-12": "potential solutions",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-combined-4-circulation-7": "combined circulation",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-continuous-6": "continuous",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-3": "swab",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-considered-19": "considered",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-planning-23-phase-24": "planning phase",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Surge-1": "Surge",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-loss-12": "loss",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-mud-26-weight-27": "mud weight",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-selected-34": "selected",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-when-25": "when",
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-well-22": "well"
+  },
+  "graph": [
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-2",
+      "relation": "describes",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9",
+      "relation": "of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-18-pipe-19-connections-20"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-measured-4"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-7"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3",
+      "relation": "caused",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-inducessurge-15"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3",
+      "relation": "caused",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-11-heave-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drillstring-20",
+      "relation": "issuspended in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-slips-23"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3",
+      "relation": "caused inducessurge by",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-waves-6"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-topside-34",
+      "relation": "heave",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-compensation-36"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-known-4-issue-5",
+      "relation": "is in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7",
+      "relation": "of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-This-1",
+      "relation": "is known",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7",
+      "relation": "is with",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11",
+      "relation": "of",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drilling-3-data-4",
+      "relation": "reveals",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-11-oscillations-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drilling-3-data-4",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Recorded-1"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-11-oscillations-12",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-significant-10"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-30-string-31",
+      "relation": "make",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39",
+      "relation": "of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-sub-salt-42-8 1/2-43"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39",
+      "relation": "of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-8 1/2-43"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-same-17-order-18",
+      "relation": "is in",
+      "object_id": "NE-LOCATION-North-Sea"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-drilling-3-data-4",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-11-oscillations-12",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-13"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39",
+      "relation": "is in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-sub-salt-42-8 1/2-43"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Mud-1-losses-2",
+      "relation": "were",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-experienced-4"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Mud-1-losses-2",
+      "relation": "were experienced around",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-well-8-depth-9"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Mud-1-losses-2",
+      "relation": "might",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-might-12-have-13-caused-15-by-16-surge-17"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-well-8-depth-9",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-same-7"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-2",
+      "relation": "have",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-16-simulator-17",
+      "relation": "considers",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-20-heave-21"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-16-simulator-17",
+      "relation": "considers",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-trajectory-35"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-2",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Measured-1"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-proprietary-13"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9",
+      "relation": "at",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-advanced-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11",
+      "relation": "was",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16",
+      "relation": "at",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-significantly-15"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11",
+      "relation": "was significantly higher in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9",
+      "relation": "was",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-findings-3",
+      "relation": "is in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-6"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11",
+      "relation": "was higher than",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18",
+      "relation": "at",
+      "object_id": "NE-ORGANIZATION-MWD"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9",
+      "relation": "was higher than",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9",
+      "relation": "was significantly higher than",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9",
+      "relation": "was higher in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11",
+      "relation": "was higher in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11",
+      "relation": "was significantly higher than",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9",
+      "relation": "was significantly higher in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16",
+      "relation": "at",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-23",
+      "relation": "is with",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-calm-25-weather-26-such-27"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-calm-25-weather-26-such-27",
+      "relation": "of",
+      "object_id": "NE-COUNTRY-Brazil"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-work-2-showsthatsurge-3",
+      "relation": "may challenge",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-available-15"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-5",
+      "relation": "may challenge",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17",
+      "relation": "of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-wells-20"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-work-2-showsthatsurge-3",
+      "relation": "may challenge pressure window in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-23"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-5",
+      "relation": "may challenge pressure window in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-23"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Pressure-2-Drilling-3",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-technique-9"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Pressure-2-Drilling-3",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Managed-1"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-time-19-delay-20",
+      "relation": "is in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-same-23-order-24-of-25-magnitude-26"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2",
+      "relation": "is one",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-potential-11-solutions-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2",
+      "relation": "is one of",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-potential-11-solutions-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2",
+      "relation": "choke combined",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-combined-4-circulation-7"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-combined-4-circulation-7",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-continuous-6"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-3",
+      "relation": "be",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-considered-19"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-3",
+      "relation": "be considered in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-planning-23-phase-24"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-Surge-1",
+      "relation": "can result in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-loss-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-mud-26-weight-27",
+      "relation": "are",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-selected-34"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-selected-34",
+      "relation": "at",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-when-25"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-3",
+      "relation": "can result in",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-loss-12"
+    },
+    {
+      "subject_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-planning-23-phase-24",
+      "relation": "is",
+      "object_id": "a5d7be57-57d4-47ac-899e-025b964bbac8-well-22"
+    }
+  ],
+  "links": {
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-2": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-8-variations-9": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-18-pipe-19-connections-20": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-measured-4": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-Measured-1"
+    ],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-7": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-13"
+    ],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-2-motion-3": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-inducessurge-15": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Floating-1": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-11-heave-12": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drillstring-20": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-slips-23": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-waves-6": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-topside-34": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-compensation-36": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-known-4-issue-5": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-7": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-calm-25-weather-26-such-27"
+    ],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-This-1": [],
+    "NE-LOCATION-North-Sea": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drilling-3-data-4": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-11-oscillations-12": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Recorded-1": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-significant-10": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-drill-30-string-31": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-connection-39": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-sub-salt-42-8 1/2-43": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-8 1/2-43": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-17-order-18": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-2": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-13": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-downhole-7"
+    ],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Mud-1-losses-2": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-experienced-4": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-well-8-depth-9": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-might-12-have-13-caused-15-by-16-surge-17": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-7": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-2": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-have-7-reproduced-9": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-16-simulator-17": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-rig-20-heave-21": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-trajectory-35": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Measured-1": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-measured-4"
+    ],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-proprietary-13": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-14": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-advanced-12": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-11": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-higher-16": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-significantly-15": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-fact-14": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-surge-9": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-findings-3": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-paper-6": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-recorded-18": [],
+    "NE-ORGANIZATION-MWD": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-regions-23": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-calm-25-weather-26-such-27": [
+      "a5d7be57-57d4-47ac-899e-025b964bbac8-harsh-9-weather-10-such-11"
+    ],
+    "NE-COUNTRY-Brazil": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-work-2-showsthatsurge-3": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-pressure-16-window-17": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-available-15": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-5": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-wells-20": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Pressure-2-Drilling-3": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-technique-9": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Managed-1": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-time-19-delay-20": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-same-23-order-24-of-25-magnitude-26": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-potential-11-solutions-12": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-combined-4-circulation-7": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-continuous-6": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-swab-3": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-considered-19": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-planning-23-phase-24": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-Surge-1": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-loss-12": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-mud-26-weight-27": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-selected-34": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-when-25": [],
+    "a5d7be57-57d4-47ac-899e-025b964bbac8-well-22": []
+  }
+}

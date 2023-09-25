@@ -1,0 +1,150 @@
+{
+  "document": "D:/Projetos/PIRA_KG/documents/onu_85054086297.txt",
+  "entities": {
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SpaceData-1": "SpaceData",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17": "speed satellite transmission",
+    "NE-ORDINAL-first": "first",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-high-14": "high",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SDI-38": "SDI",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-40-system-41": "SeismicStar system",
+    "NE-ORGANIZATION-WesternGeco": "WesternGeco",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-processing-34-center-35": "processing center",
+    "NE-CITY-Houston": "Houston",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-operational-13": "operational",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-service-3": "service",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6-consisting-10": "complete consisting",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-turnkey-7-service-8": "turnkey service",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-2": "SeismicStar",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6": "complete",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-1": "SeismicStar",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7": "autonomous",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-involvement-12": "involvement",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-designed-3": "designed",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-completely-6": "completely",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-shipboard-15-crew-16": "shipboard crew",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-little-9": "little",
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-to-4": "to"
+  },
+  "graph": [
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SpaceData-1",
+      "relation": "have launched",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17",
+      "relation": "is",
+      "object_id": "NE-ORDINAL-first"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SpaceData-1",
+      "relation": "have successfully launched",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-high-14"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SDI-38",
+      "relation": "has",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-40-system-41"
+    },
+    {
+      "subject_id": "NE-ORGANIZATION-WesternGeco",
+      "relation": "to",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-processing-34-center-35"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-processing-34-center-35",
+      "relation": "of",
+      "object_id": "NE-CITY-Houston"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-operational-13"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-service-3",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6-consisting-10"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-service-3",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-turnkey-7-service-8"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-service-3",
+      "relation": "of",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-2"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-turnkey-7-service-8",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-1",
+      "relation": "is designed",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7",
+      "relation": "at",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-involvement-12"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-1",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-designed-3"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7",
+      "relation": "at",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-completely-6"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7",
+      "relation": "of",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-shipboard-15-crew-16"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7",
+      "relation": "is",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-little-9"
+    },
+    {
+      "subject_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7",
+      "relation": "mark",
+      "object_id": "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-to-4"
+    }
+  ],
+  "links": {
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SpaceData-1": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-speed-15-satellite-16-transmission-17": [],
+    "NE-ORDINAL-first": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-high-14": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SDI-38": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-40-system-41": [],
+    "NE-ORGANIZATION-WesternGeco": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-processing-34-center-35": [],
+    "NE-CITY-Houston": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-operational-13": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-service-3": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6-consisting-10": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-turnkey-7-service-8": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-2": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-complete-6": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-SeismicStar-1": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-autonomous-7": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-involvement-12": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-designed-3": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-completely-6": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-shipboard-15-crew-16": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-little-9": [],
+    "2e2c2ab9-67ed-4ecc-8c06-c1d4c13bdae1-to-4": []
+  }
+}
