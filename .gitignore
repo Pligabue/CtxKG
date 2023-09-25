@@ -6,9 +6,11 @@ openie/*
 
 documents/**/*.txt
 triples/**/*.csv
-results/*
-!results/README.md
-!results/BlabKG/
+graphs/en/*
+!graphs/en/README.md
+!graphs/en/BlabKG
+graphs/pt-BR/*
+!graphs/pt-BR/README.md
 
 .ipynb_checkpoints
 venv
