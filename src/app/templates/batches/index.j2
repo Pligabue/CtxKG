@@ -1,0 +1,19 @@
+{% extends "base.j2" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='languages/batches/index.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="mt-12 mx-12">
+    {{ breadcrums(["home.index", "Home"], "Batches") }}
+    <h1 class="text-4xl font-semibold mt-3">Batches</h1>
+</div>
+<ul class="mt-5 overflow-auto">
+    {% for batch in batches %}
+    <a href="{{ url_for('.batch', language=language, batch=batch.stem) }}" class="text-decoration-none">
+        <li class="border-t p-5 hover:text-blue-500">{{ batch.stem }}</li>
+    </a>
+    {% endfor %}
+</ul>
+{% endblock %}

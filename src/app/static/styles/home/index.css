@@ -1,0 +1,15 @@
+.english-container:hover img {
+    opacity: 1;
+}
+
+.portuguese-container:hover img {
+    opacity: 1;
+}
+
+.upper-background {
+    clip-path: polygon(0% 0%, 79.7% 0%, 19.7% 100%, 0% 100%);
+}
+
+.lower-background {
+    clip-path: polygon(100% 100%, 100% 0%, 80.3% 0%, 20.3% 100%);
+}

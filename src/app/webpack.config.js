@@ -2,11 +2,10 @@ const { VueLoaderPlugin } = require('vue-loader')
 
 module.exports = {
   mode: "production",
-  entry: {
-    graph: { import: "./graph", filename: "./results/graphs/index.js" }
-  },
+  entry: "./graph",
   output: {
-    path: __dirname + "/static"
+    path: __dirname + "/static",
+    filename: 'vue.js'
   },
   module: {
     rules: [

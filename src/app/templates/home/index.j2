@@ -1,0 +1,33 @@
+{% extends "base.j2" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/home/index.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="flex justify-around h-full">
+    <a
+        href="{{ url_for('languages.batches.index', language='en') }}"
+        class="flex-grow basis-0 bg-black border-4 border-black my-32 mx-10 relative flex items-center justify-center hover:opacity-100 cursor-pointer english-container"
+    >
+        <div class="absolute top-0 left-0 h-full w-full bg-white upper-background">
+            <img src="{{ url_for('static', filename='images/usa.png') }}" class="h-full w-auto max-w-none opacity-60">
+        </div>
+        <div class="absolute top-0 left-0 h-full w-full bg-white lower-background">
+            <img src="{{ url_for('static', filename='images/uk.png') }}" class="absolute right-0 bottom-0 h-full w-auto max-w-none opacity-60">
+        </div>
+    </a>
+    <a
+        href="{{ url_for('languages.batches.index', language='pt-BR') }}"
+        class="flex-grow basis-0 bg-black border-4 border-black my-32 mx-10 relative flex items-center justify-center hover:opacity-100 cursor-pointer portuguese-container"
+    >
+        <div class="absolute top-0 left-0 h-full w-full bg-white upper-background">
+            <img src="{{ url_for('static', filename='images/portugal.png') }}" class="h-full w-auto max-w-none opacity-60">
+        </div>
+        <div class="absolute top-0 left-0 h-full w-full bg-white lower-background">
+            <img src="{{ url_for('static', filename='images/brazil.png') }}" class="absolute right-0 bottom-0 h-full w-auto max-w-none opacity-60">
+        </div>
+    </a>
+</div>
+
+{% endblock %}

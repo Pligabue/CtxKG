@@ -34,4 +34,6 @@ To generate connections between different graphs, run `python -m src.ctxkg.build
 
 # Server
 
-Start the Flask server by running `flask run`.
+Start the Flask server by running `flask --app src.app run`.
+
+For the debug mode, run `flask --app src.app run --debug`.

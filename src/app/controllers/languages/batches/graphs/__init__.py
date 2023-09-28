@@ -2,19 +2,19 @@ from flask import Blueprint, jsonify, render_template
 import json
 from pathlib import Path
 
-RESULT_DIR = Path("results")
-DOCUMENT_DIR = Path("documents")
+from ......constants import GRAPH_DIR
 
-bp = Blueprint('graphs', __name__, url_prefix='/<result>/graphs')
+bp = Blueprint('graphs', __name__, url_prefix='/<batch>/graphs')
 
 
 @bp.route("/base/", defaults={"version": "base"})
 @bp.route("/clean/", defaults={"version": "clean"})
-def index(result, version):
-    graphs = (RESULT_DIR / result / version).glob("*.json")
+def index(language, batch, version):
+    graphs = (GRAPH_DIR / language / batch / version).glob("*.json")
     return render_template(
-        "results/graphs/index.j2",
-        result=result,
+        "batches/graphs/index.j2",
+        language=language,
+        batch=batch,
         version=version,
         graphs=graphs,
         title=f"{version.capitalize()} Graphs"
@@ -23,11 +23,12 @@ def index(result, version):
 
 @bp.route("/base/<graph>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/", defaults={"version": "clean"})
-def graph(result, version, graph):
-    graph_path = RESULT_DIR / result / version / graph
+def graph(language, batch, version, graph):
+    graph_path = GRAPH_DIR / language / batch / version / graph
     return render_template(
-        "results/graphs/graph.j2",
-        result=result,
+        "batches/graphs/graph.j2",
+        language=language,
+        batch=batch,
         version=version,
         graph=graph,
         graph_path=graph_path,
@@ -38,17 +39,17 @@ def graph(result, version, graph):
 
 @bp.route("/base/<graph>/json/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/json/", defaults={"version": "clean"})
-def graph_json(result, version, graph):
-    graph = RESULT_DIR / result / version / graph
+def graph_json(language, batch, version, graph):
+    graph = GRAPH_DIR / language / batch / version / graph
     with graph.open(encoding="utf-8") as f:
         return jsonify(json.load(f))
 
 
 @bp.route("/base/<graph>/bridges/<node>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/bridges/<node>/", defaults={"version": "clean"})
-def node_bridges(result, version, graph, node):
+def node_bridges(language, batch, version, graph, node):
     bridges = {}
-    bridge_path = RESULT_DIR / result / version / "bridges" / graph
+    bridge_path = GRAPH_DIR / language / batch / version / "bridges" / graph
     with bridge_path.open(encoding="utf-8") as f:
         all_bridges = json.load(f)
         for target_graph, target_graph_bridges in all_bridges.items():
@@ -59,8 +60,8 @@ def node_bridges(result, version, graph, node):
 
 @bp.route("/base/<graph>/<node>/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/<node>/", defaults={"version": "clean"})
-def expand_node(result, version, graph, node):
-    graph_path = RESULT_DIR / result / version / graph
+def expand_node(language, batch, version, graph, node):
+    graph_path = GRAPH_DIR / language / batch / version / graph
     with graph_path.open(encoding="utf-8") as f:
         graph = json.load(f)
         expanded_nodes = get_expanded_nodes(graph, node)
@@ -97,8 +98,8 @@ def get_expanded_nodes(graph, initial_node):
 
 @bp.route("/base/<graph>/document/", defaults={"version": "base"})
 @bp.route("/clean/<graph>/document/", defaults={"version": "clean"})
-def get_original_document(result, version, graph):
-    graph_path = RESULT_DIR / result / version / graph
+def get_original_document(language, batch, version, graph):
+    graph_path = GRAPH_DIR / language / batch / version / graph
     with graph_path.open(encoding="utf-8") as f:
         graph = json.load(f)
     document_file = Path(graph["document"])
