@@ -6,6 +6,7 @@ import com.triplebuilder.app.*;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.FileNotFoundException;
+import java.net.URI;
 import java.util.Scanner;
 import java.util.Collection;
 import java.util.Properties;
@@ -55,6 +56,7 @@ public class TripleBuilder {
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,depparse,coref,natlog,openie");
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
+        File basePath = new File(".");
         File documentFolder = new File("./documents/");
         File tripleFolder = new File("./triples/");
 
@@ -70,13 +72,19 @@ public class TripleBuilder {
             if (targetFile.exists()) {
                 continue;
             }
+            
+            URI docUri = f.toURI();
+            URI docRelativeUri = basePath.toURI().relativize(docUri);
+            String docRelativePath = docRelativeUri.toString();
+            String header = Triple.getHeader(docRelativePath);
 
             try {
                 Scanner reader = new Scanner(f, "utf-8");
                 FileWriter writer = null;
                 UUID uniqueId = UUID.randomUUID();
                 List<String> allTriples = new ArrayList<>();
-                allTriples.add(Triple.getHeader(f.getAbsolutePath()));
+                
+                allTriples.add(header);
                 
                 while (reader.hasNextLine()) {
                     String line = reader.nextLine();
