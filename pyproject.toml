@@ -16,6 +16,7 @@ tensorflow-hub = "^0.14.0"
 flask = "^2.3.3"
 triple-extractor-ptbr-pligabue = {git = "https://github.com/Pligabue/PTBR-OpenIE.git", rev = "master"}
 python-dotenv = "^1.0.0"
+wtforms = "^3.1.0"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.1.0"
