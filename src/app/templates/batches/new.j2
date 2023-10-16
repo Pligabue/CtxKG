@@ -1,0 +1,39 @@
+{% extends "base.j2" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='languages/batches/index.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="mt-12 mx-12">
+    {{ breadcrums(
+        ["home.index", "Home"],
+        [".index", "Batches", {"language": language}],
+        "New Batch"
+    ) }}
+    <h1 class="text-4xl font-semibold mt-3">New Batch</h1>
+</div>
+<form method="post" class="mb-8 flex justify-center overflow-hidden">
+    {{ form.csrf_token }}
+    <div class="flex flex-col">
+        <dl class="p-4 font-bold overflow-auto">
+            <dd>{{ form.language|safe }}</dd>
+            {{ render_field(form.name) }}
+            {{ render_field(form.bert_size) }}
+            {{ render_field(form.filenames, accept=".txt", field_class="py-1 w-full rounded") }}
+            {% call collapsable("Advanced configurations", opened=form.show_advanced_options()) %}
+                {{ render_field(form.embedding_ratio) }}
+                {{ render_field(form.similarity_threshold) }}
+                {{ render_field(form.bridge_threshold) }}
+                {{ render_field(form.processing_batch_size) }}
+            {% endcall %}
+        </dl>
+        <div class="text-right mt-2">
+            <button type="submit" value="Save" class="bg-blue-400 hover:bg-blue-900 text-white font-bold py-2 px-3 rounded cursor-pointer">
+                <span>Save</span>
+                <span><i class="fas fa-cog ml-1"></i></span>
+            </button>
+        </div>
+    </div>
+</form>
+{% endblock %}

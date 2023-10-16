@@ -7,7 +7,15 @@
 {% block content %}
 <div class="mt-12 mx-12">
     {{ breadcrums(["home.index", "Home"], "Batches") }}
-    <h1 class="text-4xl font-semibold mt-3">Batches</h1>
+    <div class="flex justify-between items-center">
+        <h1 class="text-4xl font-semibold mt-3">Batches</h1>
+        <div>
+            <a href="{{ url_for('.new', language=language) }}" class="bg-blue-400 hover:bg-blue-900 text-white font-bold py-3 pl-3 pr-2 rounded">
+                <span>New</span>
+                <span class="mx-2"><i class="fas fa-plus-circle"></i></span>
+            </a>
+        </div>
+    </div>
 </div>
 <ul class="mt-5 overflow-auto">
     {% for batch in batches %}

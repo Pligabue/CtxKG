@@ -1,0 +1,24 @@
+{% macro collapsable(title, id="collapsable", opened=False) %}
+    <div id="{{ id }}">
+        <div id="{{ id + '-toggle' }}" class="text-center cursor-pointer select-none mb-2">
+            <span class="mr-2">{{ title }}</span>
+            <span id="{{ id + '-chevron-up'}}" class="{{ 'hidden' if not opened }}"><i class="fas fa-chevron-up"></i></span>
+            <span id="{{ id + '-chevron-down'}}" class="{{ 'hidden' if opened }}"><i class="fas fa-chevron-down"></i></span>
+        </div>
+        <div id="{{ id + '-content' }}" class="{{ 'hidden' if not opened }}">
+            {{ caller() }}
+        </div>
+    </div>
+    <script>
+        const toggle = document.querySelector("#{{ id + '-toggle' }}")
+        const chevronUp = document.querySelector("#{{ id + '-chevron-up' }}")
+        const chevronDown = document.querySelector("#{{ id + '-chevron-down' }}")
+        const content = document.querySelector("#{{ id + '-content' }}")
+
+        toggle.onclick = () => {
+            chevronUp.classList.toggle("hidden")
+            chevronDown.classList.toggle("hidden")
+            content.classList.toggle("hidden")
+        }
+    </script>
+{% endmacro %}
