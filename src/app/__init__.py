@@ -1,5 +1,7 @@
 from flask import Flask
+
 from .controllers import language_bp, home_bp
+
 
 app = Flask(__name__)
 app.register_blueprint(language_bp)

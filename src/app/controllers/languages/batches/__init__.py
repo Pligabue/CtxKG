@@ -28,5 +28,11 @@ def new(language):
 @bp.route("/<batch>/")
 def batch(language, batch):
     base_graphs = (GRAPH_DIR / language / batch / "base").glob("*.json")
-    clean_graphs = (GRAPH_DIR / language/ batch / "clean").glob("*.json")
-    return render_template("batches/batch.j2", language=language, batch=batch, base_graphs=base_graphs, clean_graphs=clean_graphs)
+    clean_graphs = (GRAPH_DIR / language / batch / "clean").glob("*.json")
+    return render_template(
+        "batches/batch.j2",
+        language=language,
+        batch=batch,
+        base_graphs=base_graphs,
+        clean_graphs=clean_graphs,
+    )

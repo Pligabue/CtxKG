@@ -1,5 +1,4 @@
-from flask import Blueprint, render_template
-from pathlib import Path
+from flask import Blueprint
 
 from .batches import bp as batch_bp
 
