@@ -1,7 +1,9 @@
 from flask import Blueprint, request, render_template, url_for, redirect
+import shutil
 
-from .graphs import bp as graph_bp, GRAPH_DIR
+from .....constants import GRAPH_DIR, BLABKG_DIR
 from ....forms.batch import BatchForm
+from .graphs import bp as graph_bp
 
 
 bp = Blueprint('batches', __name__, url_prefix='/batches')
@@ -23,6 +25,14 @@ def new(language):
     if request.method == "POST" and form.validate():
         return redirect(url_for(".index", language=language))
     return render_template("batches/new.j2", language=language, form=form)
+
+
+@bp.route("/<batch>/delete/")
+def delete(language, batch):
+    dir = GRAPH_DIR / language / batch
+    if dir != BLABKG_DIR:
+        shutil.rmtree(dir)
+    return redirect(url_for(".index", language=language))
 
 
 @bp.route("/<batch>/")

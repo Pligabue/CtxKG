@@ -19,9 +19,16 @@
 </div>
 <ul class="mt-5 overflow-auto">
     {% for batch in batches %}
-    <a href="{{ url_for('.batch', language=language, batch=batch.stem) }}" class="text-decoration-none">
-        <li class="border-t p-5 hover:text-blue-500">{{ batch.stem }}</li>
-    </a>
+    <li class="border-t p-5 flex justify-between">
+        <a href="{{ url_for('.batch', language=language, batch=batch.stem) }}" class="text-decoration-none hover:text-blue-500 flex-grow">
+            {{ batch.stem }}
+        </a>
+        <div class="ml-4">
+            <a href="{{ url_for('.delete', language=language, batch=batch.stem) }}">
+                <i class="fas fa-trash text-blue-400 hover:text-blue-900"></i>
+            </a>
+        </div>
+    </li>
     {% endfor %}
 </ul>
 {% endblock %}
