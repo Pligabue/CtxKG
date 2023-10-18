@@ -1,4 +1,4 @@
-from flask import Blueprint, request, render_template, url_for, redirect
+from flask import Blueprint, request, render_template, url_for, redirect, flash
 import shutil
 
 from .....constants import GRAPH_DIR, BLABKG_DIR
@@ -32,6 +32,8 @@ def delete(language, batch):
     dir = GRAPH_DIR / language / batch
     if dir != BLABKG_DIR:
         shutil.rmtree(dir)
+    else:
+        flash("Can't delete the official BlabKG graphs.", "error")
     return redirect(url_for(".index", language=language))
 
 
