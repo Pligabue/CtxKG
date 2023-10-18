@@ -1,3 +1,4 @@
+{% from "macros/alerts.j2" import alerts %}
 {% from "macros/collapsable.j2" import collapsable %}
 {% from "macros/breadcrums.j2" import breadcrums %}
 {% from "macros/link.j2" import link %}
@@ -17,6 +18,7 @@
     <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
 </head>
 <body>
+    {{ alerts() }}
     {% block body %}
     <div id="header">{% block header %}{% include "header.j2" %}{% endblock %}</div>
     <div id="content" class="flex-grow flex flex-col overflow-hidden">{% block content %}{% endblock %}</div>

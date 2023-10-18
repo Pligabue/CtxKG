@@ -1,0 +1,25 @@
+{% macro alert(message, bg_color) %}
+    <div class="{{ bg_color }} w-full p-3 mb-2 rounded text-white flex justify-between items-center cursor-pointer js-close-alert">
+        <span>{{ message }}</span>
+        <span class="ml-3">
+            <i class="fas fa-times"></i>
+        </span>
+    </div>
+{% endmacro %}
+
+{% macro alerts(error, errors, notice, notices) %}
+{% with messages = get_flashed_messages(with_categories=True) %}
+    <div class="absolute top-4 w-full flex justify-center">
+        <div class="w-[40%]">
+            {% for category, msg in messages %}
+                {{ alert(msg, "bg-red-500" if category == "error" else "bg-green-400") }}
+            {% endfor %}
+        </div>
+    </div>
+    <script>
+        document.querySelectorAll(".js-close-alert").forEach((el) => {
+            el.onclick = () => el.parentNode.removeChild(el)
+        })
+    </script>
+{% endwith %}
+{% endmacro %}
