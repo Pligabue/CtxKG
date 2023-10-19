@@ -1,5 +1,8 @@
-from wtforms import Form, StringField, SelectField, IntegerField, FloatField, MultipleFileField, HiddenField
+from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, MultipleFileField, HiddenField,
+                     ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
+
+from ..utils.find_batches import find_batches
 
 
 class BatchForm(Form):
@@ -19,3 +22,12 @@ class BatchForm(Form):
             or self.bridge_threshold.data != self.bridge_threshold.default
             or self.processing_batch_size.data != self.processing_batch_size.default
         )
+
+    def validate_name(self, field):
+        language = self.language.data
+        if not language:
+            return
+
+        existing_batch_names = [batch["name"] for batch in find_batches(language)]
+        if field.data in existing_batch_names:
+            raise ValidationError("Name has been selected. Choose a different one.")
