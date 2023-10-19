@@ -45,11 +45,11 @@ def graph_json(language, batch, version, graph):
         return jsonify(json.load(f))
 
 
-@bp.route("/base/<graph>/bridges/<node>/", defaults={"version": "base"})
-@bp.route("/clean/<graph>/bridges/<node>/", defaults={"version": "clean"})
-def node_bridges(language, batch, version, graph, node):
+@bp.route("/base/<graph>/bridges/<node>/")
+@bp.route("/clean/<graph>/bridges/<node>/")
+def node_bridges(language, batch, graph, node):
     bridges = {}
-    bridge_path = GRAPH_DIR / language / batch / version / "bridges" / graph
+    bridge_path = GRAPH_DIR / language / batch / "bridges" / graph
     with bridge_path.open(encoding="utf-8") as f:
         all_bridges = json.load(f)
         for target_graph, target_graph_bridges in all_bridges.items():

@@ -4,7 +4,7 @@ from tkinter import Tk
 from tkinter.filedialog import askdirectory
 from tqdm import tqdm
 
-from .cli_args import MATCH, SIZE, CLEAN, RATIO, THRESHOLD
+from .cli_args import MATCH, SIZE, RATIO, THRESHOLD
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
@@ -45,13 +45,13 @@ def get_existing_bridges(bridge_dir: Path, source_file: Path):
     return bridges
 
 
-def main(match, size, clean, ratio, threshold):
+def main(match, size, ratio, threshold):
     kg_dirs = get_dirs(match)
     encoder = Encoder(size=size, ratio=ratio)
 
     for dir in kg_dirs:
-        graph_dir = dir / "clean" if clean else dir / "base"
-        bridge_dir = graph_dir / "bridges"
+        graph_dir = dir / "clean"
+        bridge_dir = dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
         save_params(bridge_dir, size, ratio, threshold, match)
 
