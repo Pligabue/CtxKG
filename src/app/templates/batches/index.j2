@@ -20,11 +20,12 @@
 <ul class="mt-5 overflow-auto">
     {% for batch in batches %}
     <li class="border-t p-5 flex justify-between">
-        <a href="{{ url_for('.batch', language=language, batch=batch.stem) }}" class="text-decoration-none hover:text-blue-500 flex-grow">
-            {{ batch.stem }}
+        <a href="{{ url_for('.batch', language=language, batch=batch.name) }}" class="text-decoration-none hover:text-blue-500 flex-grow">
+            {{ batch.name }}
         </a>
-        <div class="ml-4">
-            <a href="{{ url_for('.delete', language=language, batch=batch.stem) }}">
+        <div class="ml-4 flex justify-between">
+            {% include "batches/_batch_status_bar.j2" %}
+            <a href="{{ url_for('.delete', language=language, batch=batch.name) }}">
                 <i class="fas fa-trash text-blue-400 hover:text-blue-900"></i>
             </a>
         </div>

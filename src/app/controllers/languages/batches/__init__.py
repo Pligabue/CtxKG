@@ -2,6 +2,7 @@ from flask import Blueprint, request, render_template, url_for, redirect, flash
 import shutil
 
 from .....constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
+from ....utils.find_batches import find_batches
 from ....forms.batch import BatchForm
 from .graphs import bp as graph_bp
 
@@ -12,8 +13,7 @@ bp.register_blueprint(graph_bp)
 
 @bp.route("/")
 def index(language):
-    target_dir = GRAPH_DIR / language
-    batches = [path for path in target_dir.iterdir() if path.is_dir()]
+    batches = find_batches(language)
     return render_template("batches/index.j2", language=language, batches=batches)
 
 

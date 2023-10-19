@@ -1,0 +1,18 @@
+{% macro status_icon(title, status) %}
+<span title="{{ title }}">
+    {% if status == "done" %}
+        <i class="fas fa-check-circle text-green-500 fa-lg"></i>
+    {% elif status == "pending" %}
+        <i class="fas fa-minus-circle text-gray-500 fa-lg"></i>
+    {% else %}
+        <i class="fas fa-times-circle text-red-600 fa-lg"></i>
+    {% endif %}
+</span>
+{% endmacro %}
+
+<div class="mr-12 flex- justify-between">
+    {{ status_icon("Triples", batch.triples) }}
+    {{ status_icon("Base graphs", batch.base) }}
+    {{ status_icon("Clean graphs", batch.clean) }}
+    {{ status_icon("Bridges", batch.bridges) }}
+</div>
