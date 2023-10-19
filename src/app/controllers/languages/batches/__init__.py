@@ -1,7 +1,7 @@
 from flask import Blueprint, request, render_template, url_for, redirect, flash
 import shutil
 
-from .....constants import GRAPH_DIR, BLABKG_DIR
+from .....constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 from ....forms.batch import BatchForm
 from .graphs import bp as graph_bp
 
@@ -29,9 +29,13 @@ def new(language):
 
 @bp.route("/<batch>/delete/")
 def delete(language, batch):
-    dir = GRAPH_DIR / language / batch
-    if dir != BLABKG_DIR:
-        shutil.rmtree(dir)
+    doc_dir = DOCUMENT_DIR / language / batch
+    triple_dir = TRIPLE_DIR / language / batch
+    graph_dir = GRAPH_DIR / language / batch
+    if graph_dir != BLABKG_DIR:
+        shutil.rmtree(doc_dir, ignore_errors=True)
+        shutil.rmtree(triple_dir, ignore_errors=True)
+        shutil.rmtree(graph_dir, ignore_errors=True)
     else:
         flash("Can't delete the official BlabKG graphs.", "error")
     return redirect(url_for(".index", language=language))
