@@ -57,8 +57,8 @@ public class TripleBuilder {
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         File basePath = new File(".");
-        File documentFolder = new File("./documents/");
-        File tripleFolder = new File("./triples/");
+        File documentFolder = new File("./documents/en/");
+        File tripleFolder = new File("./triples/en/");
 
         Collection<File> files = FileUtils.listFiles(documentFolder, new String[] {"txt"}, true);
         int numberOfFiles = files.size();
