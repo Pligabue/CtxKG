@@ -61,6 +61,16 @@ public class TripleBuilder {
         File tripleFolder = new File("./triples/en/");
 
         Collection<File> files = FileUtils.listFiles(documentFolder, new String[] {"txt"}, true);
+
+        if (args.length > 0) {
+            files = Arrays
+                .stream(args)
+                .map((batch) -> documentFolder.toPath().resolve(batch).toFile())
+                .map((batchFolder) -> FileUtils.listFiles(batchFolder, new String[] {"txt"}, true))
+                .flatMap(Collection::stream)
+                .toList();
+        }
+
         int numberOfFiles = files.size();
         int fileIndex = 0;
         for (File f : files) {

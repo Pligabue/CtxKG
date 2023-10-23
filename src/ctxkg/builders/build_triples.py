@@ -12,17 +12,17 @@ def setup_directories(reference_dir=DOCUMENT_DIR, target_dir=TRIPLE_DIR):
         setup_directories(subdir, target_subdir)
 
 
-def build_triples():
+def build_triples(batches: list[str]):
     setup_directories()
     try:
         source_last_mod = max([f.stat().st_mtime for f in OPEN_IE_SOURCE_DIR.glob("*.java")])
         target_last_mod = OPEN_IE_JAR.exists() and OPEN_IE_JAR.stat().st_mtime
         if source_last_mod > target_last_mod:
             subprocess.run(["mvn", "compile", "assembly:single"], cwd=OPEN_IE_DIR, shell=True, check=True)
-        subprocess.run(["java", "-cp", str(OPEN_IE_JAR), "com.triplebuilder.app.TripleBuilder"])
+        subprocess.run(["java", "-cp", str(OPEN_IE_JAR), "com.triplebuilder.app.TripleBuilder", *batches])
     except subprocess.CalledProcessError:
         print("Error compiling Java code.")
 
 
 if __name__ == "__main__":
-    build_triples()
+    build_triples([])
