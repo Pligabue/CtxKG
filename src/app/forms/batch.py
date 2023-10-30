@@ -30,4 +30,4 @@ class BatchForm(Form):
 
         existing_batch_names = [batch["name"] for batch in get_batch_data(language)]
         if field.data in existing_batch_names:
-            raise ValidationError("Name has been selected. Choose a different one.")
+            raise ValidationError(f"\"{field.data}\" is taken. Choose a different name.")
