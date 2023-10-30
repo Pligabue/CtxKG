@@ -2,6 +2,8 @@ from pathlib import Path
 
 BASE_PATH = Path()
 
+METADATA_PATH = BASE_PATH / "metadata.json"
+
 ENGLISH_PREFIX = "en"
 PORTUGUESE_PREFIX = "pt-BR"
 

@@ -4,7 +4,9 @@
         <i class="fas fa-check-circle text-green-500 fa-lg"></i>
     {% elif status == "pending" %}
         <i class="fas fa-minus-circle text-gray-500 fa-lg"></i>
-    {% else %}
+    {% elif status == "started" %}
+        <i class="fas fa-spinner text-gray-500 fa-lg [&>svg]:animate-spin"></i>
+    {% elif status == "failed" %}
         <i class="fas fa-times-circle text-red-600 fa-lg"></i>
     {% endif %}
 </span>

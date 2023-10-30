@@ -2,7 +2,7 @@ from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, M
                      ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
 
-from ..utils.find_batches import find_batches
+from ..utils.batch_data import get_batch_data
 
 
 class BatchForm(Form):
@@ -28,6 +28,6 @@ class BatchForm(Form):
         if not language:
             return
 
-        existing_batch_names = [batch["name"] for batch in find_batches(language)]
+        existing_batch_names = [batch["name"] for batch in get_batch_data(language)]
         if field.data in existing_batch_names:
             raise ValidationError("Name has been selected. Choose a different one.")
