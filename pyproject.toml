@@ -12,6 +12,7 @@ requests = "^2.31.0"
 tqdm = "^4.66.1"
 tensorflow-io-gcs-filesystem = "0.27.0"
 tensorflow = "2.10"
+tensorflow-text = "2.10"
 tensorflow-hub = "^0.14.0"
 flask = "^2.3.3"
 triple-extractor-ptbr-pligabue = {git = "https://github.com/Pligabue/PTBR-OpenIE.git", rev = "master"}
