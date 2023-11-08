@@ -2,8 +2,8 @@ import json
 from pathlib import Path
 from typing import TypedDict, Literal
 
-from ...constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
-from ...constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
+from ..constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
+from ..constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 
 
 Stage = Literal["triples", "base", "clean", "bridges"]

@@ -2,7 +2,7 @@ from flask import Blueprint, request, render_template, url_for, redirect, flash
 import shutil
 
 from .....constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
-from ....utils.batch_data import get_batch_data
+from .....utils.batch_data import get_batch_data
 from ....forms.batch import BatchForm
 from .graphs import bp as graph_bp
 
