@@ -18,7 +18,7 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
 
-    _save_params(bridge_dir, size, ratio, threshold)
+    _save_params(bridge_dir, size=size, ratio=ratio, threshold=threshold)
 
     encoder = Encoder(size=size, ratio=ratio)
 
@@ -30,12 +30,9 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
         set_batch_data(language, batch, "bridges", "failed")
 
 
-def _save_params(dir, size, ratio, threshold):
-    with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
-        params = (f"BERT SIZE: {size}\n"
-                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n"
-                  f"THRESHOLD: {threshold}\n")
-        f.write(params)
+def _save_params(dir, **kwargs):
+    with (dir / "params.json").open("w", encoding="utf-8") as f:
+        json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
 def _build_bridge(kg_dir: Path, encoder, threshold):
@@ -80,7 +77,7 @@ def _build_bridges(match, size, ratio, threshold):
         graph_dir = dir / "clean"
         bridge_dir = dir / "bridges"
         bridge_dir.mkdir(exist_ok=True)
-        _save_params(bridge_dir, size, ratio, threshold)
+        _save_params(bridge_dir, size=size, ratio=ratio, threshold=threshold)
 
         graph_files = [file for file in graph_dir.glob("*.json")]
         for source_file in tqdm(graph_files):

@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 from datetime import datetime
 from tqdm import tqdm
@@ -18,7 +19,7 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
     kg_dir = GRAPH_DIR / language / batch
     kg_dir.mkdir(exist_ok=True)
 
-    _save_params(kg_dir, size, ratio, threshold, batch_size)
+    _save_params(kg_dir, size=size, ratio=ratio, threshold=threshold, batch_size=batch_size)
 
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
@@ -52,13 +53,9 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
         set_batch_data(language, batch, "base", "done")
 
 
-def _save_params(dir: Path, size, ratio, threshold, batch_size):
-    with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
-        params = (f"BERT SIZE: {size}\n"
-                  f"RATIO (entity encoding over full sentence encoding): {ratio}\n"
-                  f"THRESHOLD: {threshold}\n"
-                  f"ENCODING BATCH SIZE: {batch_size}\n")
-        f.write(params)
+def _save_params(dir: Path, **kwargs):
+    with (dir / "params.json").open("w", encoding="utf-8") as f:
+        json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
 def _build_graphs_by_match(size, ratio, threshold, overwrite, match, name, batch_size):
@@ -66,7 +63,7 @@ def _build_graphs_by_match(size, ratio, threshold, overwrite, match, name, batch
 
     kg_dir = GRAPH_DIR / name if name else _get_target_dir(GRAPH_DIR)
     kg_dir.mkdir(exist_ok=True)
-    _save_params(kg_dir, size, ratio, threshold, batch_size)
+    _save_params(kg_dir, size=size, ratio=ratio, threshold=threshold, batch_size=batch_size)
 
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
