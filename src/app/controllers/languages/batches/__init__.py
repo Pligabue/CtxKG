@@ -4,6 +4,7 @@ import shutil
 from .....constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 from .....utils.batch_data import get_batch_list
 from ....forms.batch import BatchForm
+from ....tasks.create_batch import create_batch
 from .graphs import bp as graph_bp
 
 
@@ -23,6 +24,16 @@ def new(language):
     form = BatchForm(request.form)
     form.language.process_data(language)
     if request.method == "POST" and form.validate():
+        create_batch(
+            language=language,
+            batch=form.name.data,  # type: ignore
+            filepaths=form.filenames.data,
+            size=form.bert_size.data,
+            ratio=form.embedding_ratio.data,  # type: ignore
+            similarity_threshold=form.similarity_threshold.data,  # type: ignore
+            bridge_threshold=form.bridge_threshold.data,  # type: ignore
+            batch_size=form.filenames.data,  # type: ignore
+        )
         return redirect(url_for(".index", language=language))
     return render_template("batches/new.j2", language=language, form=form)
 
