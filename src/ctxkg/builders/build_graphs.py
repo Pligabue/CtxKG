@@ -13,12 +13,12 @@ from ...utils.batch_data import set_batch_data
 from ...languages import Language
 
 
-def build_graphs(language: Language, batch: str, size, ratio, threshold, overwrite, batch_size):
+def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_size):
     triple_dir = TRIPLE_DIR / language / batch
     kg_dir = GRAPH_DIR / language / batch
     kg_dir.mkdir(exist_ok=True)
 
-    _save_params(kg_dir, size, ratio, threshold, overwrite, batch_size)
+    _save_params(kg_dir, size, ratio, threshold, batch_size)
 
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
@@ -52,12 +52,11 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, overwri
         set_batch_data(language, batch, "base", "done")
 
 
-def _save_params(dir: Path, size, ratio, threshold, overwrite, batch_size):
+def _save_params(dir: Path, size, ratio, threshold, batch_size):
     with (dir / "PARAMS.md").open("w", encoding="utf-8") as f:
         params = (f"BERT SIZE: {size}\n"
                   f"RATIO (entity encoding over full sentence encoding): {ratio}\n"
                   f"THRESHOLD: {threshold}\n"
-                  f"OVERWRITE: {overwrite}\n"
                   f"ENCODING BATCH SIZE: {batch_size}\n")
         f.write(params)
 
@@ -67,7 +66,7 @@ def _build_graphs_by_match(size, ratio, threshold, overwrite, match, name, batch
 
     kg_dir = GRAPH_DIR / name if name else _get_target_dir(GRAPH_DIR)
     kg_dir.mkdir(exist_ok=True)
-    _save_params(kg_dir, size, ratio, threshold, overwrite, batch_size)
+    _save_params(kg_dir, size, ratio, threshold, batch_size)
 
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
