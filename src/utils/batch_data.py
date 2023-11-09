@@ -5,20 +5,25 @@ from typing import TypedDict, Literal
 from ..constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
 from ..constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 
+from ..languages import Language
+
 
 Stage = Literal["triples", "base", "clean", "bridges"]
 BatchStatus = Literal["done", "started", "pending", "failed"]
 
 
 class Batch(TypedDict):
-    name: str
     triples: BatchStatus
     base: BatchStatus
     clean: BatchStatus
     bridges: BatchStatus
 
 
-def get_metadata():
+BatchDataMap = dict[str, Batch]
+BatchMetadata = dict[Language, BatchDataMap]
+
+
+def get_metadata() -> BatchMetadata:
     if METADATA_PATH.exists():
         with METADATA_PATH.open(encoding="utf-8") as f:
             return json.load(f)
@@ -29,11 +34,19 @@ def get_metadata():
     return metadata
 
 
-def get_batch_list(language: str):
+class BatchListItem(TypedDict):
+    name: str
+    triples: BatchStatus
+    base: BatchStatus
+    clean: BatchStatus
+    bridges: BatchStatus
+
+
+def get_batch_list(language: Language):
     metadata = get_metadata()
     batch_names = metadata[language].keys()
 
-    batches: list[Batch] = []
+    batches: list[BatchListItem] = []
     for batch in batch_names:
         batches.append({
             "name": batch,
@@ -48,7 +61,7 @@ def get_batch_list(language: str):
     return sorted_batches
 
 
-def set_batch_data(language: str, batch: str, stage: Stage, status: BatchStatus):
+def set_batch_data(language: Language, batch: str, stage: Stage, status: BatchStatus):
     metadata = get_metadata()
 
     if language not in metadata:
@@ -116,7 +129,7 @@ def _write_metadata(metadata):
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
 
-def _batch_priority(batch: Batch):
+def _batch_priority(batch: BatchListItem):
     return (
         batch["name"] == BLABKG_DIR.stem,
         batch["bridges"] == "done",
