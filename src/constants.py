@@ -1,11 +1,14 @@
 from pathlib import Path
 
+from .languages import English, Portuguese
+
+
 BASE_PATH = Path()
 
 METADATA_PATH = BASE_PATH / "metadata.json"
 
-ENGLISH_PREFIX = "en"
-PORTUGUESE_PREFIX = "pt-BR"
+ENGLISH_PREFIX: English = "en"
+PORTUGUESE_PREFIX: Portuguese = "pt-BR"
 
 DOCUMENT_DIR = BASE_PATH / "documents"
 ENGLISH_DOC_DIR = DOCUMENT_DIR / ENGLISH_PREFIX

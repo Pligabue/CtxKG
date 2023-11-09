@@ -6,8 +6,10 @@ from ...constants import (ENGLISH_PREFIX, PORTUGUESE_PREFIX, DOCUMENT_DIR, TRIPL
                           PORTUGUESE_DOC_DIR, PORTUGUESE_TRIPLE_DIR)
 from ...utils.batch_data import set_batch_data
 
+from ...languages import Language
 
-def build_triples(language: str, batch: str):
+
+def build_triples(language: Language, batch: str):
     _setup_directories()
 
     set_batch_data(language, batch, "triples", "started")

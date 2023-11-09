@@ -10,8 +10,10 @@ from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
 from ...utils.batch_data import set_batch_data
 
+from ...languages import Language
 
-def build_bridges(language: str, batch: str, size, ratio, threshold):
+
+def build_bridges(language: Language, batch: str, size, ratio, threshold):
     kg_dir = GRAPH_DIR / language / batch
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)

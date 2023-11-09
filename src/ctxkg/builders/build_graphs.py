@@ -10,8 +10,10 @@ from ..models.encoder import Encoder
 from ...constants import TRIPLE_DIR, GRAPH_DIR
 from ...utils.batch_data import set_batch_data
 
+from ...languages import Language
 
-def build_graphs(language: str, batch: str, size, ratio, threshold, overwrite, batch_size):
+
+def build_graphs(language: Language, batch: str, size, ratio, threshold, overwrite, batch_size):
     triple_dir = TRIPLE_DIR / language / batch
     kg_dir = GRAPH_DIR / language / batch
     kg_dir.mkdir(exist_ok=True)

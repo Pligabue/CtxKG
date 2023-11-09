@@ -7,8 +7,10 @@ from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
 from ...utils.batch_data import set_batch_data
 
+from ...languages import Language
 
-def clean_batch(language: str, batch: str):
+
+def clean_batch(language: Language, batch: str):
     batch_dir = GRAPH_DIR / language / batch
 
     set_batch_data(language, batch, "clean", "started")
