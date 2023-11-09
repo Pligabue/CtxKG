@@ -2,7 +2,7 @@ from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, M
                      ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
 
-from ...utils.batch_data import get_batch_data
+from ...utils.batch_data import get_batch_list
 
 
 class BatchForm(Form):
@@ -28,6 +28,6 @@ class BatchForm(Form):
         if not language:
             return
 
-        existing_batch_names = [batch["name"] for batch in get_batch_data(language)]
+        existing_batch_names = [batch["name"] for batch in get_batch_list(language)]
         if field.data in existing_batch_names:
             raise ValidationError(f"\"{field.data}\" is taken. Choose a different name.")

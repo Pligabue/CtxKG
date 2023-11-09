@@ -18,8 +18,19 @@ class Batch(TypedDict):
     bridges: BatchStatus
 
 
-def get_batch_data(language: str):
-    metadata = _get_metadata()
+def get_metadata():
+    if METADATA_PATH.exists():
+        with METADATA_PATH.open(encoding="utf-8") as f:
+            return json.load(f)
+
+    metadata = _build_metadata()
+    _write_metadata(metadata)
+
+    return metadata
+
+
+def get_batch_list(language: str):
+    metadata = get_metadata()
     batch_names = metadata[language].keys()
 
     batches: list[Batch] = []
@@ -38,7 +49,7 @@ def get_batch_data(language: str):
 
 
 def set_batch_data(language: str, batch: str, stage: Stage, status: BatchStatus):
-    metadata = _get_metadata()
+    metadata = get_metadata()
 
     if language not in metadata:
         metadata[language] = {}
@@ -51,17 +62,6 @@ def set_batch_data(language: str, batch: str, stage: Stage, status: BatchStatus)
         }
     metadata[language][batch][stage] = status
     _write_metadata(metadata)
-
-
-def _get_metadata():
-    if METADATA_PATH.exists():
-        with METADATA_PATH.open(encoding="utf-8") as f:
-            return json.load(f)
-
-    metadata = _build_metadata()
-    _write_metadata(metadata)
-
-    return metadata
 
 
 def _build_metadata():
