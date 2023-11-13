@@ -1,21 +1,17 @@
-from pathlib import Path
-
 from typing import Optional
-
-from .build_triples import build_triples
-from .build_graphs import build_graphs
-from .clean_graphs import clean_batch
-from .build_bridges import build_bridges
-from ...constants import DOCUMENT_DIR
-from ...utils.batch_data import get_metadata
 
 from ...languages import Language
 from ...utils.batch_data import Batch, Stage
 
 
-def run(language: Language, batch: str, filepaths: list[str], size: str, ratio: float,
+def run(language: Language, batch: str, size: str, ratio: float,
         similarity_threshold: float, bridge_threshold: float, batch_size: int):
-    _setup_docs(batch, filepaths)
+    from .build_triples import build_triples
+    from .build_graphs import build_graphs
+    from .clean_graphs import clean_batch
+    from .build_bridges import build_bridges
+    from ...utils.batch_data import get_metadata
+
     batch_data = get_metadata()[language][batch]
     if _should_run_stage(batch_data, "triples"):
         build_triples(language, batch)
