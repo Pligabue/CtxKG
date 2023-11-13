@@ -4,7 +4,6 @@ from tkinter import Tk
 from tkinter.filedialog import askdirectory
 from tqdm import tqdm
 
-from .cli_args import MATCH, SIZE, RATIO, THRESHOLD
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
@@ -103,4 +102,5 @@ def _get_dirs(match):
 
 
 if __name__ == "__main__":
+    from .cli_args import MATCH, SIZE, RATIO, THRESHOLD
     _build_bridges(MATCH, SIZE, RATIO, THRESHOLD)

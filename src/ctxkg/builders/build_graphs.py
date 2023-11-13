@@ -5,7 +5,6 @@ from tqdm import tqdm
 from tkinter import Tk
 from tkinter.filedialog import askopenfilenames, askdirectory
 
-from .cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import TRIPLE_DIR, GRAPH_DIR
@@ -111,4 +110,5 @@ def _get_files(match):
 
 
 if __name__ == "__main__":
+    from .cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
     _build_graphs_by_match(SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH)
