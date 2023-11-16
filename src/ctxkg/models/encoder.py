@@ -22,12 +22,13 @@ class Encoder:
         self.ratio: float = ratio
 
         if language == ENGLISH_PREFIX:
-            preprocessor, text_input, seq_out, pooled_out = self._english_bert_models(size)
+            id_list_key, preprocessor, text_input, seq_out, pooled_out = self._english_bert_models(size)
         elif language == PORTUGUESE_PREFIX:
-            preprocessor, text_input, seq_out, pooled_out = self._portuguse_bert_models()
+            id_list_key, preprocessor, text_input, seq_out, pooled_out = self._portuguse_bert_models()
         else:
             raise Exception(f"No BERT model found for {language}.")
 
+        self.id_list_key = id_list_key
         self.preprocessor: KerasLayer = preprocessor
         self.sequence_model: Model = Model(text_input, seq_out)
         self.cls_model: Model = Model(text_input, pooled_out)
@@ -41,9 +42,9 @@ class Encoder:
             triples_inputs = tf.constant([triple.to_text() for triple in batch])
 
             # type: ignore
-            triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)["input_word_ids"] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
-            subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)["input_word_ids"] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
-            object_input_lengths = np.argmax(self.preprocessor(object_inputs)["input_word_ids"] == self.SEP_ID, axis=1) - 1  # type: ignore  # noqa: E501
+            triple_end_indexes = np.argmax(self.preprocessor(triples_inputs)[self.id_list_key] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
+            subject_end_indexes = np.argmax(self.preprocessor(subject_inputs)[self.id_list_key] == self.SEP_ID, axis=1)  # type: ignore  # noqa: E501
+            object_input_lengths = np.argmax(self.preprocessor(object_inputs)[self.id_list_key] == self.SEP_ID, axis=1) - 1  # type: ignore  # noqa: E501
             object_start_indexes = triple_end_indexes - object_input_lengths
 
             triple_encodings = self.sequence_model(triples_inputs)
@@ -69,7 +70,13 @@ class Encoder:
         encoder = KerasLayer(self.tfhub_encoder_urls[size])
         outputs = encoder(encoder_inputs)
 
-        return preprocessor, text_input, outputs["sequence_output"], outputs["pooled_output"]  # type: ignore
+        return (
+            "input_word_ids",
+            preprocessor,
+            text_input,
+            outputs["sequence_output"],  # type: ignore
+            outputs["pooled_output"],  # type: ignore
+        )
 
     def _portuguse_bert_models(self):
         text_input = tf.keras.layers.Input(shape=(), dtype=tf.string)
@@ -78,4 +85,10 @@ class Encoder:
         encoder = TFAutoModel.from_pretrained(BERT_MODEL_NAME).bert
         outputs = encoder(encoder_inputs)
 
-        return preprocessor, text_input, outputs.last_hidden_state, outputs.pooler_output  # type: ignore
+        return (
+            "input_ids",
+            preprocessor,
+            text_input,
+            outputs.last_hidden_state,
+            outputs.pooler_output,
+        )
