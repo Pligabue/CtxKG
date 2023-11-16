@@ -1,5 +1,7 @@
 import json
 from pathlib import Path
+import shutil
+
 from typing import TypedDict, Literal
 
 from ..constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
@@ -74,6 +76,28 @@ def set_batch_data(language: Language, batch: str, stage: Stage, status: BatchSt
             "bridges": "pending",
         }
     metadata[language][batch][stage] = status
+    _write_metadata(metadata)
+
+
+class BlabKGException(Exception):
+    pass
+
+
+def delete_batch(language: Language, batch: str):
+    doc_dir = DOCUMENT_DIR / language / batch
+    triple_dir = TRIPLE_DIR / language / batch
+    graph_dir = GRAPH_DIR / language / batch
+
+    if graph_dir == BLABKG_DIR:
+        raise BlabKGException("Can't delete the official BlabKG graphs.")
+
+    shutil.rmtree(doc_dir, ignore_errors=True)
+    shutil.rmtree(triple_dir, ignore_errors=True)
+    shutil.rmtree(graph_dir, ignore_errors=True)
+
+    metadata = get_metadata()
+    if metadata[language] and metadata[language][batch]:
+        del metadata[language][batch]
     _write_metadata(metadata)
 
 
