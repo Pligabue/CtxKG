@@ -27,7 +27,7 @@ def new(language):
         create_batch(
             language=language,
             batch=form.name.data,  # type: ignore
-            filepaths=form.filenames.data,
+            files=request.files.getlist(form.filenames.name),
             size=form.bert_size.data,
             ratio=form.embedding_ratio.data,  # type: ignore
             similarity_threshold=form.similarity_threshold.data,  # type: ignore

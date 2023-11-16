@@ -1,3 +1,4 @@
+from flask import request
 from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, MultipleFileField, HiddenField,
                      ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
@@ -9,7 +10,7 @@ class BatchForm(Form):
     name = StringField("Batch name", [InputRequired()])
     language = HiddenField("Language", [AnyOf(["en", "pt-BR"])])
     bert_size = SelectField("Bert size", choices=[("small", "Small"), ("medium", "Medium"), ("big", "Big")])
-    filenames = MultipleFileField("Text files", [InputRequired()])
+    filenames = MultipleFileField("Text files")
     embedding_ratio = FloatField("Embedding ratio", [NumberRange(0.0, 1.0)], default=1.0)
     similarity_threshold = FloatField("Similarity coef. (synonyms)", [NumberRange(0.0, 1.0)], default=0.8)
     bridge_threshold = FloatField("Similarity coef. (bridges)", [NumberRange(0.0, 1.0)], default=0.7)
@@ -28,6 +29,10 @@ class BatchForm(Form):
         if not language:
             return
 
-        existing_batch_names = [batch["name"] for batch in get_batch_list(language)]
+        existing_batch_names = [batch["name"] for batch in get_batch_list(language)]  # type: ignore
         if field.data in existing_batch_names:
             raise ValidationError(f"\"{field.data}\" is taken. Choose a different name.")
+
+    def validate_filenames(self, _):
+        if len(request.files) < 1:
+            raise ValidationError("A text file is required.")

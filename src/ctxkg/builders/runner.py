@@ -23,22 +23,6 @@ def run(language: Language, batch: str, size: str, ratio: float,
         build_bridges(language, batch, size, ratio, bridge_threshold)
 
 
-def _setup_docs(name: str, filepaths: list[str]):
-    batch_dir = DOCUMENT_DIR / name
-    if batch_dir.exists():
-        return
-    batch_dir.mkdir()
-
-    for filepath in filepaths:
-        source_file = Path(filepath)
-        with source_file.open(encoding="utf-8") as f:
-            data = f.read()
-
-        target_file = batch_dir / source_file.name
-        with target_file.open("w", encoding="utf-8") as f:
-            f.write(data)
-
-
 def _should_run_stage(batch_data: Batch, stage: Stage, previous_stage: Optional[Stage] = None):
     already_started = batch_data[stage] == "started"
     previous_stage_succeeded = previous_stage is None or batch_data[previous_stage] == "done"
