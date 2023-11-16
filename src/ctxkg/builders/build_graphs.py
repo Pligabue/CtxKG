@@ -1,4 +1,5 @@
 import json
+import traceback
 from pathlib import Path
 from datetime import datetime
 from tqdm import tqdm
@@ -41,13 +42,16 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
             graph.save_json(base_dir / f"{file.stem}.json")
         except KeyboardInterrupt:
             break
-        except Exception as e:
-            failed_files.append(f"{datetime.now()}: {file.name} - {e.__class__.__name__}: {e}")
+        except Exception:
+            title = f"{datetime.now()}: {file.name}\n\n"
+            log = traceback.format_exc()
+            full_error = title + log
+            failed_files.append(full_error)
 
     if len(failed_files) > 0:
         set_batch_data(language, batch, "base", "failed")
         with open(errors_dir / "failed_files.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(failed_files))
+            f.write("\n==========\n".join(failed_files))
     else:
         set_batch_data(language, batch, "base", "done")
 
