@@ -19,11 +19,11 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
 
     _save_params(bridge_dir, size=size, ratio=ratio, threshold=threshold)
 
-    encoder = Encoder(size=size, ratio=ratio)
+    encoder = Encoder(size=size, language=language, ratio=ratio)
 
     set_batch_data(language, batch, "bridges", "started")
     try:
-        _build_bridge(kg_dir, encoder, threshold)
+        _build_bridges(kg_dir, encoder, threshold)
         set_batch_data(language, batch, "bridges", "done")
     except Exception:
         set_batch_data(language, batch, "bridges", "failed")
@@ -34,7 +34,7 @@ def _save_params(dir, **kwargs):
         json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
-def _build_bridge(kg_dir: Path, encoder, threshold):
+def _build_bridges(kg_dir: Path, encoder, threshold):
     graph_dir = kg_dir / "clean"
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
@@ -68,39 +68,24 @@ def _read_json(file):
         return json.load(f)
 
 
-def _build_bridges(match, size, ratio, threshold):
-    kg_dirs = _get_dirs(match)
-    encoder = Encoder(size=size, ratio=ratio)
+def _get_dir(language, name):
+    if language and name:
+        return GRAPH_DIR / language / name
 
-    for dir in kg_dirs:
-        graph_dir = dir / "clean"
-        bridge_dir = dir / "bridges"
-        bridge_dir.mkdir(exist_ok=True)
-        _save_params(bridge_dir, size=size, ratio=ratio, threshold=threshold)
+    base_dir = GRAPH_DIR / language if language else GRAPH_DIR
+    window = Tk()
+    window.withdraw()
+    window.attributes("-topmost", 1)
+    directory = askdirectory(initialdir=base_dir)
 
-        graph_files = [file for file in graph_dir.glob("*.json")]
-        for source_file in tqdm(graph_files):
-            bridges = _get_existing_bridges(bridge_dir, source_file)
-            target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
-            if target_files:
-                graph = Graph.from_json(source_file, encoder).build_entity_encodings()
-                for target_files in tqdm(target_files, leave=False):
-                    target_graph = Graph.from_json(target_files, encoder).build_entity_encodings()
-                    bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
-            with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
-                json.dump(bridges, f, indent=2, ensure_ascii=False)
-
-
-def _get_dirs(match):
-    if match is None:
-        window = Tk()
-        window.withdraw()
-        window.attributes("-topmost", 1)
-        directory = askdirectory(initialdir=GRAPH_DIR)
-        return [Path(directory)]
-    return [path for path in GRAPH_DIR.glob(match) if path.is_dir()]
+    return Path(directory)
 
 
 if __name__ == "__main__":
-    from .cli_args import MATCH, SIZE, RATIO, THRESHOLD
-    _build_bridges(MATCH, SIZE, RATIO, THRESHOLD)
+    from .cli_args import LANGUAGE, NAME, SIZE, RATIO, THRESHOLD
+
+    kg_dir = _get_dir(LANGUAGE, NAME)
+    language = LANGUAGE if LANGUAGE else kg_dir.parent.name
+    encoder = Encoder(size=SIZE, language=language, ratio=RATIO)
+
+    _build_bridges(kg_dir, encoder, THRESHOLD)

@@ -36,7 +36,14 @@ def _clean_dir(batch_dir: Path):
 
 
 if __name__ == "__main__":
-    Tk().withdraw()
-    directory = askdirectory(initialdir=GRAPH_DIR)
-    batch_dir = Path(directory)
+    from .cli_args import LANGUAGE, NAME
+
+    if LANGUAGE and NAME:
+        batch_dir = GRAPH_DIR / LANGUAGE / NAME
+    else:
+        base_dir = GRAPH_DIR / LANGUAGE if LANGUAGE else GRAPH_DIR
+        Tk().withdraw()
+        directory = askdirectory(initialdir=base_dir)
+        batch_dir = Path(directory)
+
     _clean_dir(batch_dir)

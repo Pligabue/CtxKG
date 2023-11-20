@@ -56,6 +56,20 @@ def _build_triples_pt_BR(batches: list[str]):
 
 
 if __name__ == "__main__":
+    from .cli_args import LANGUAGE, NAME
+
     _setup_directories()
-    _build_triples_en([])
-    _build_triples_pt_BR([])
+
+    if LANGUAGE == "en":
+        if NAME is not None:
+            _build_triples_en([NAME])
+        else:
+            _build_triples_en([])
+    elif LANGUAGE == "pt-BR":
+        if NAME is not None:
+            _build_triples_pt_BR([NAME])
+        else:
+            _build_triples_pt_BR([])
+    else:
+        _build_triples_en([])
+        _build_triples_pt_BR([])

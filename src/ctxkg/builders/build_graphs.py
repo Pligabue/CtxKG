@@ -61,11 +61,17 @@ def _save_params(dir: Path, **kwargs):
         json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
-def _build_graphs_by_match(size, ratio, threshold, overwrite, match, name, batch_size):
-    files = _get_files(match)
+def _build_graphs_by_match(size, ratio, threshold, language, name, batch_size):
+    files = _get_files(language, name)
 
-    kg_dir = GRAPH_DIR / name if name else _get_target_dir(GRAPH_DIR)
+    if language and name:
+        kg_dir = GRAPH_DIR / language / name
+    elif language:
+        kg_dir = _get_target_dir(GRAPH_DIR / language)
+    else:
+        kg_dir = _get_target_dir(GRAPH_DIR)
     kg_dir.mkdir(exist_ok=True)
+
     _save_params(kg_dir, size=size, ratio=ratio, threshold=threshold, batch_size=batch_size)
 
     base_dir = kg_dir / "base"
@@ -73,7 +79,7 @@ def _build_graphs_by_match(size, ratio, threshold, overwrite, match, name, batch
     errors_dir = base_dir / "errors"
     errors_dir.mkdir(exist_ok=True)
 
-    filtered_files = [f for f in files if overwrite or not (base_dir / f"{f.stem}.json").is_file()]
+    filtered_files = [f for f in files if not (base_dir / f"{f.stem}.json").is_file()]
     sorted_files = sorted(filtered_files, key=lambda file: file.stat().st_size)
 
     encoder = Encoder(size=size, ratio=ratio)
@@ -103,16 +109,25 @@ def _get_target_dir(base_dir):
     return Path(directory)
 
 
-def _get_files(match):
-    if match is None:
+def _get_files(language, name):
+    if language is None:
         Tk().withdraw()
         filenames = askopenfilenames(initialdir=TRIPLE_DIR)
         filepaths = [Path(f) for f in filenames]
     else:
-        filepaths = list(TRIPLE_DIR.glob(match))
+        if name is None:
+            source_dir = TRIPLE_DIR / language
+            Tk().withdraw()
+            filenames = askopenfilenames(initialdir=source_dir)
+            filepaths = [Path(f) for f in filenames]
+        else:
+            source_dir = TRIPLE_DIR / language / name
+            filepaths = source_dir.glob("*.csv")
+
     return [f for f in filepaths if f.suffix == ".csv" and f.is_file()]
 
 
 if __name__ == "__main__":
-    from .cli_args import SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH
-    _build_graphs_by_match(SIZE, RATIO, THRESHOLD, OVERWRITE, MATCH, NAME, BATCH)
+    from .cli_args import SIZE, RATIO, THRESHOLD, LANGUAGE, NAME, BATCH_SIZE
+
+    _build_graphs_by_match(SIZE, RATIO, THRESHOLD, LANGUAGE, NAME, BATCH_SIZE)
