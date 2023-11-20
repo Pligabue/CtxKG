@@ -1,14 +1,14 @@
 import tensorflow as tf
 
-from typing import Union
+from typing import Optional
 
 
 class Entity:
     def __init__(self, id: str, text: str):
         self.id = id
         self.text = text
-        self.encoding: Union[tf.Tensor, None] = None
-        self.encoding_count = tf.constant(0)
+        self.encoding: Optional[tf.Tensor] = None
+        self.encoding_count = tf.constant(0, dtype=float)
 
     def add_encoding(self, encoding):
         if self.encoding is None:
