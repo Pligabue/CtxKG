@@ -85,7 +85,7 @@ if __name__ == "__main__":
     from .cli_args import LANGUAGE, NAME, SIZE, RATIO, THRESHOLD
 
     kg_dir = _get_dir(LANGUAGE, NAME)
-    language = LANGUAGE if LANGUAGE else kg_dir.parent.name
-    encoder = Encoder(size=SIZE, language=language, ratio=RATIO)
+    language: Language = LANGUAGE if LANGUAGE else kg_dir.parent.name  # type: ignore
+    name = NAME if NAME else kg_dir.name
 
-    _build_bridges(kg_dir, encoder, THRESHOLD)
+    build_bridges(language, name, SIZE, RATIO, THRESHOLD)
