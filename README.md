@@ -62,8 +62,8 @@ With the generated triples, building the base knowledge graphs is done by runnin
 - `--small`/`--medium`/`--big`: the size of the BERT encoder (English only). Defaults to `small`.
 - `-t`/`--threshold`: the minimum cosine similarity for two entities to be considered synonyms. Defaults to `0.8`.
 - `-r`/`--ratio`: the ratio between the base entity encoding and the triple encoding for the generation of the final entity encoding. Defaults to `1.0` (i.e. only base entity encoding).
-- `-l`/`--language`: the language of the documents you want to process. Can be either `en` or `pt-BR`, depending on where the documents are. If not set, a dialog will open and request that you select all relevant documents.
-- `-n`/`--name`: name of the group, which will be a directory in the graphs directory. If not set, a dialog will open and request that you select (or create) the target directory. The target directory must be created inside one of the language directories; otherwise, future stages will not work.
+- `-l`/`--language`: the language of the documents you want to process. Can be either `en` or `pt-BR`, depending on where the documents are. If not set, a dialog will open and request that you select a group.
+- `-n`/`--name`: name of the group you want to process. If not set, a dialog will open and request that you select one.
 - `-b`/`--batch`: impacts how many entity encodings at processed at a time by the GPU. Defaults to `300`. Probably will not need to be changed.
 
 #### Reduce graphs
