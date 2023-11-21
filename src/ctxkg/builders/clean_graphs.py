@@ -46,4 +46,7 @@ if __name__ == "__main__":
         directory = askdirectory(initialdir=base_dir)
         batch_dir = Path(directory)
 
-    _clean_dir(batch_dir)
+    language: Language = LANGUAGE if LANGUAGE else batch_dir.parent.name  # type: ignore
+    batch = NAME if NAME else batch_dir.name
+
+    clean_batch(language, batch)
