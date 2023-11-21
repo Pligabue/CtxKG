@@ -157,6 +157,7 @@ def _batch_priority(batch: BatchListItem):
     return (
         batch["name"] == BLABKG_DIR.stem,
         batch["bridges"] == "done",
-        batch["clean"], batch["base"] == "done",
+        batch["clean"] == "done",
+        batch["base"] == "done",
         batch["triples"] == "done",
     )
