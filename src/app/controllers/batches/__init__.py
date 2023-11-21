@@ -1,13 +1,13 @@
 from flask import Blueprint, request, render_template, url_for, redirect, flash
 
-from .....constants import GRAPH_DIR
-from .....utils.batch_data import get_batch_list, delete_batch, BlabKGException
-from ....forms.batch import BatchForm
-from ....tasks.create_batch import create_batch
+from ....constants import GRAPH_DIR
+from ....utils.batch_data import get_batch_list, delete_batch, BlabKGException
+from ...forms.batch import BatchForm
+from ...tasks.create_batch import create_batch
 from .graphs import bp as graph_bp
 
 
-bp = Blueprint('batches', __name__, url_prefix='/batches')
+bp = Blueprint('batches', __name__, url_prefix='/<language>/batches')
 bp.register_blueprint(graph_bp)
 
 

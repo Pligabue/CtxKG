@@ -7,7 +7,7 @@
 {% block content %}
 <div class="flex justify-around h-full">
     <a
-        href="{{ url_for('languages.batches.index', language='en') }}"
+        href="{{ url_for('batches.index', language='en') }}"
         class="flex-grow basis-0 bg-black border-4 border-black my-32 mx-10 relative flex items-center justify-center hover:opacity-100 cursor-pointer english-container"
     >
         <div class="absolute top-0 left-0 h-full w-full bg-white upper-background">
@@ -18,7 +18,7 @@
         </div>
     </a>
     <a
-        href="{{ url_for('languages.batches.index', language='pt-BR') }}"
+        href="{{ url_for('batches.index', language='pt-BR') }}"
         class="flex-grow basis-0 bg-black border-4 border-black my-32 mx-10 relative flex items-center justify-center hover:opacity-100 cursor-pointer portuguese-container"
     >
         <div class="absolute top-0 left-0 h-full w-full bg-white upper-background">

@@ -2,7 +2,7 @@ from flask import Blueprint, jsonify, render_template
 import json
 from pathlib import Path
 
-from ......constants import GRAPH_DIR
+from .....constants import GRAPH_DIR
 
 bp = Blueprint('graphs', __name__, url_prefix='/<batch>/graphs')
 
