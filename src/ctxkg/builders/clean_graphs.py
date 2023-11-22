@@ -5,7 +5,7 @@ from tkinter.filedialog import askdirectory
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
-from ...utils.batch_data import set_batch_data
+from ...utils.batch_data.helpers import set_batch_data
 
 from ...languages import Language
 

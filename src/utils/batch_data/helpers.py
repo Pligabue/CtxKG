@@ -2,27 +2,11 @@ import json
 from pathlib import Path
 import shutil
 
-from typing import TypedDict, Literal
+from ...constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
+from ...constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 
-from ..constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
-from ..constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
-
-from ..languages import Language
-
-
-Stage = Literal["triples", "base", "clean", "bridges"]
-BatchStatus = Literal["done", "started", "pending", "failed"]
-
-
-class Batch(TypedDict):
-    triples: BatchStatus
-    base: BatchStatus
-    clean: BatchStatus
-    bridges: BatchStatus
-
-
-BatchDataMap = dict[str, Batch]
-BatchMetadata = dict[Language, BatchDataMap]
+from ...languages import Language
+from .types import BatchMetadata, BatchStatus, BatchListItem, Stage, BlabKGException
 
 
 def get_metadata() -> BatchMetadata:
@@ -36,26 +20,24 @@ def get_metadata() -> BatchMetadata:
     return metadata
 
 
-class BatchListItem(TypedDict):
-    name: str
-    triples: BatchStatus
-    base: BatchStatus
-    clean: BatchStatus
-    bridges: BatchStatus
-
-
 def get_batch_list(language: Language):
     metadata = get_metadata()
     batch_names = metadata[language].keys()
 
     batches: list[BatchListItem] = []
     for batch in batch_names:
+        batch_data = metadata[language][batch]
+        can_be_paused = True
+        can_be_resumed = any([status == "paused" for status in batch_data.values()])
+
         batches.append({
             "name": batch,
-            "triples": metadata[language][batch]["triples"],
-            "base": metadata[language][batch]["base"],
-            "clean": metadata[language][batch]["clean"],
-            "bridges": metadata[language][batch]["bridges"],
+            "triples": batch_data["triples"],
+            "base": batch_data["base"],
+            "clean": batch_data["clean"],
+            "bridges": batch_data["bridges"],
+            "can_be_paused": can_be_paused,
+            "can_be_resumed": can_be_resumed,
         })
 
     sorted_batches = sorted(batches, key=_batch_priority, reverse=True)
@@ -79,8 +61,14 @@ def set_batch_data(language: Language, batch: str, stage: Stage, status: BatchSt
     _write_metadata(metadata)
 
 
-class BlabKGException(Exception):
-    pass
+def pause_batch(language: Language, batch: str):
+    batch_data = get_metadata()[language][batch]
+    if batch_data["triples"] == "started" and batch_data["base"] == "pending":
+        set_batch_data(language, batch, "base", "paused")
+    elif batch_data["base"] == "started" and batch_data["clean"] == "pending":
+        set_batch_data(language, batch, "clean", "paused")
+    elif batch_data["clean"] == "started" and batch_data["bridges"] == "pending":
+        set_batch_data(language, batch, "bridges", "paused")
 
 
 def delete_batch(language: Language, batch: str):

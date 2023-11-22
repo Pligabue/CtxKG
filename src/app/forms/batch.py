@@ -3,7 +3,7 @@ from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, M
                      ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
 
-from ...utils.batch_data import get_batch_list
+from ...utils.batch_data.helpers import get_batch_list
 
 
 class BatchForm(Form):

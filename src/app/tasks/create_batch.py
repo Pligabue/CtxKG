@@ -3,7 +3,7 @@ from werkzeug.datastructures.file_storage import FileStorage
 
 from ...constants import DOCUMENT_DIR
 from ...ctxkg.builders.runner import run
-from ...utils.batch_data import set_batch_data
+from ...utils.batch_data.helpers import set_batch_data
 
 from ...languages import Language
 

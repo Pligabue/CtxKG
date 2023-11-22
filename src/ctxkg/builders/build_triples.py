@@ -4,10 +4,10 @@ from triple_extractor_ptbr_pligabue.model import TripleExtractor
 from .constants import OPEN_IE_DIR, OPEN_IE_SOURCE_DIR, OPEN_IE_JAR
 from ...constants import (ENGLISH_PREFIX, PORTUGUESE_PREFIX, DOCUMENT_DIR, TRIPLE_DIR,
                           ENGLISH_DOC_DIR, PORTUGUESE_DOC_DIR, PORTUGUESE_TRIPLE_DIR)
-from ...utils.batch_data import set_batch_data
+from ...utils.batch_data.helpers import set_batch_data
 
 from ...languages import Language
-from ...utils.batch_data import BatchStatus
+from ...utils.batch_data.types import BatchStatus
 
 
 def build_triples(language: Language, batch: str):

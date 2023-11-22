@@ -1,7 +1,7 @@
 from typing import Optional
 
 from ...languages import Language
-from ...utils.batch_data import Stage
+from ...utils.batch_data.helpers import Stage
 
 
 def run(language: Language, batch: str, size: str, ratio: float,
@@ -22,7 +22,7 @@ def run(language: Language, batch: str, size: str, ratio: float,
 
 
 def _should_run_stage(language: Language, batch: str, stage: Stage, previous_stage: Optional[Stage] = None):
-    from ...utils.batch_data import get_metadata
+    from ...utils.batch_data.helpers import get_metadata
 
     batch_data = get_metadata()[language][batch]
     already_started = batch_data[stage] == "started"
