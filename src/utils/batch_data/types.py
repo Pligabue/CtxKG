@@ -1,4 +1,5 @@
-from typing import TypedDict, Literal
+from typing import Literal
+from typing_extensions import TypedDict, NotRequired
 
 from ...languages import Language
 
@@ -26,6 +27,20 @@ class BatchListItem(TypedDict):
     bridges: BatchStatus
     can_be_paused: bool
     can_be_resumed: bool
+
+
+class StageParams(TypedDict):
+    threshold: NotRequired[float]
+    ratio: NotRequired[float]
+    batch_size: NotRequired[int]
+    size: NotRequired[str]
+
+
+class BatchParams(TypedDict):
+    triples: NotRequired[StageParams]
+    base: NotRequired[StageParams]
+    clean: NotRequired[StageParams]
+    bridges: NotRequired[StageParams]
 
 
 class BlabKGException(Exception):

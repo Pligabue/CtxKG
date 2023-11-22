@@ -6,7 +6,7 @@ from ...constants import METADATA_PATH, ENGLISH_PREFIX, PORTUGUESE_PREFIX
 from ...constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 
 from ...languages import Language
-from .types import BatchMetadata, BatchStatus, BatchListItem, Stage, BlabKGException
+from .types import BatchMetadata, BatchStatus, BatchListItem, Stage, BlabKGException, StageParams, BatchParams
 
 
 def get_metadata() -> BatchMetadata:
@@ -87,6 +87,21 @@ def delete_batch(language: Language, batch: str):
     if metadata[language] and metadata[language][batch]:
         del metadata[language][batch]
     _write_metadata(metadata)
+
+
+def save_batch_params(language: Language, batch: str, stage: Stage, stage_params: StageParams):
+    kg_dir = GRAPH_DIR / language / batch
+    params_file = kg_dir / "params.json"
+
+    params: BatchParams = {}
+    if params_file.exists():
+        with params_file.open(encoding="utf-8") as f:
+            params = json.load(f)
+
+    params[stage] = stage_params
+
+    with params_file.open("w", encoding="utf-8") as f:
+        json.dump(params, f, ensure_ascii=False, indent=2)
 
 
 def _build_metadata():
