@@ -1,4 +1,3 @@
-import json
 import traceback
 from pathlib import Path
 from datetime import datetime
@@ -9,7 +8,7 @@ from tkinter.filedialog import askdirectory
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import TRIPLE_DIR, GRAPH_DIR
-from ...utils.batch_data.helpers import set_batch_data
+from ...utils.batch_data.helpers import set_batch_data, save_batch_params
 
 from ...languages import Language
 
@@ -19,7 +18,7 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
     kg_dir = GRAPH_DIR / language / batch
     kg_dir.mkdir(exist_ok=True)
 
-    _save_params(kg_dir, size=size, ratio=ratio, threshold=threshold, batch_size=batch_size)
+    save_batch_params(language, batch, "base", {"size": size, "ratio": ratio, "threshold": threshold})
 
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
@@ -54,11 +53,6 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
             f.write("\n==========\n".join(failed_files))
     else:
         set_batch_data(language, batch, "base", "done")
-
-
-def _save_params(dir: Path, **kwargs):
-    with (dir / "params.json").open("w", encoding="utf-8") as f:
-        json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@ from tqdm import tqdm
 from ..models.graph import Graph
 from ..models.encoder import Encoder
 from ...constants import GRAPH_DIR
-from ...utils.batch_data.helpers import set_batch_data
+from ...utils.batch_data.helpers import set_batch_data, save_batch_params
 
 from ...languages import Language
 
@@ -17,7 +17,7 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
 
-    _save_params(bridge_dir, size=size, ratio=ratio, threshold=threshold)
+    save_batch_params(language, batch, "bridges", {"size": size, "ratio": ratio, "threshold": threshold})
 
     encoder = Encoder(size=size, language=language, ratio=ratio)
 
@@ -27,11 +27,6 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
         set_batch_data(language, batch, "bridges", "done")
     except Exception:
         set_batch_data(language, batch, "bridges", "failed")
-
-
-def _save_params(dir, **kwargs):
-    with (dir / "params.json").open("w", encoding="utf-8") as f:
-        json.dump(kwargs, f, ensure_ascii=False, indent=2)
 
 
 def _build_bridges(kg_dir: Path, encoder, threshold):
