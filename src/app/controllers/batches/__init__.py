@@ -1,7 +1,7 @@
 from flask import Blueprint, request, render_template, url_for, redirect, flash
 
 from ....constants import GRAPH_DIR
-from ....utils.batch_data.helpers import get_batch_list, delete_batch
+from ....utils.batch_data.helpers import get_batch_list, pause_batch, delete_batch
 from ...forms.batch import BatchForm
 from ...tasks.create_batch import create_batch
 from .graphs import bp as graph_bp
@@ -37,6 +37,12 @@ def new(language):
         )
         return redirect(url_for(".index", language=language))
     return render_template("batches/new.j2", language=language, form=form)
+
+
+@bp.route("/<batch>/pause/")
+def pause(language, batch):
+    pause_batch(language, batch)
+    return redirect(url_for(".index", language=language))
 
 
 @bp.route("/<batch>/delete/")
