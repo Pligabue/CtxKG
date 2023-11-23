@@ -92,6 +92,7 @@ def delete_batch(language: Language, batch: str):
 
 def save_batch_params(language: Language, batch: str, stage: Stage, stage_params: StageParams):
     kg_dir = GRAPH_DIR / language / batch
+    kg_dir.mkdir(exist_ok=True)
     params_file = kg_dir / "params.json"
 
     params = DEFAULT_PARAMS
