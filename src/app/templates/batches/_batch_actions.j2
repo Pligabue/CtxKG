@@ -1,0 +1,12 @@
+<div class="mr-12 flex justify-between">
+    {% if batch.can_be_paused %}
+        <a href="{{ url_for('.pause', language=language, batch=batch.name) }}" class="mx-1">
+            <i class="fas fa-pause text-blue-400 hover:text-blue-900"></i>
+        </a>
+    {% endif %}
+    {% if batch.can_be_resumed %}
+        <a href="{{ url_for('.resume', language=language, batch=batch.name) }}" class="mx-1">
+            <i class="fas fa-play text-blue-400 hover:text-blue-900"></i>
+        </a>
+    {% endif %}
+</div>

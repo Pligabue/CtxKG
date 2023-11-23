@@ -24,6 +24,7 @@
             {{ batch.name }}
         </a>
         <div class="ml-4 flex justify-between">
+            {% include "batches/_batch_actions.j2" %}
             {% include "batches/_batch_status_bar.j2" %}
             <a href="{{ url_for('.delete', language=language, batch=batch.name) }}">
                 <i class="fas fa-trash text-blue-400 hover:text-blue-900"></i>
