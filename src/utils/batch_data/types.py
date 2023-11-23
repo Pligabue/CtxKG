@@ -30,17 +30,17 @@ class BatchListItem(TypedDict):
 
 
 class StageParams(TypedDict):
-    threshold: NotRequired[float]
-    ratio: NotRequired[float]
-    batch_size: NotRequired[int]
-    size: NotRequired[str]
+    threshold: float
+    ratio: float
+    batch_size: int
+    size: str
 
 
 class BatchParams(TypedDict):
     triples: NotRequired[StageParams]
-    base: NotRequired[StageParams]
+    base: StageParams
     clean: NotRequired[StageParams]
-    bridges: NotRequired[StageParams]
+    bridges: StageParams
 
 
 class BlabKGException(Exception):
