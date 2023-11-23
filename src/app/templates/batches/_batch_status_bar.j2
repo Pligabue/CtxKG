@@ -1,9 +1,11 @@
 {% macro status_icon(title, status) %}
-<span title="{{ title }}">
+<span title="{{ title }}" class="mx-1">
     {% if status == "done" %}
         <i class="fas fa-check-circle text-green-500 fa-lg"></i>
     {% elif status == "pending" %}
         <i class="fas fa-minus-circle text-gray-500 fa-lg"></i>
+    {% elif status == "paused" %}
+        <i class="fas fa-stop-circle text-gray-500 fa-lg"></i>
     {% elif status == "started" %}
         <i class="fas fa-spinner text-gray-500 fa-lg [&>svg]:animate-spin"></i>
     {% elif status == "failed" %}
@@ -12,7 +14,7 @@
 </span>
 {% endmacro %}
 
-<div class="mr-12 flex- justify-between">
+<div class="mr-12 flex justify-between">
     {{ status_icon("Triples", batch.triples) }}
     {{ status_icon("Base graphs", batch.base) }}
     {{ status_icon("Clean graphs", batch.clean) }}
