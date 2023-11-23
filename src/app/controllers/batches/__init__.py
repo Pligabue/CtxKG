@@ -34,7 +34,7 @@ def new(language):
             ratio=form.embedding_ratio.data,  # type: ignore
             similarity_threshold=form.similarity_threshold.data,  # type: ignore
             bridge_threshold=form.bridge_threshold.data,  # type: ignore
-            batch_size=form.filenames.data,  # type: ignore
+            batch_size=form.processing_batch_size.data,  # type: ignore
         )
         return redirect(url_for(".index", language=language))
     return render_template("batches/new.j2", language=language, form=form)
