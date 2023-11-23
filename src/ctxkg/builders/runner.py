@@ -1,7 +1,9 @@
 from typing import Optional
 
+from ...utils.batch_data.helpers import save_batch_params
+
 from ...languages import Language
-from ...utils.batch_data.helpers import Stage
+from ...utils.batch_data.types import Stage
 
 
 def run(language: Language, batch: str, size: str, ratio: float,
@@ -11,6 +13,8 @@ def run(language: Language, batch: str, size: str, ratio: float,
     from .clean_graphs import clean_batch
     from .build_bridges import build_bridges
 
+    _save_params(language, batch, size, ratio, similarity_threshold, bridge_threshold, batch_size)
+
     if _should_run_stage(language, batch, "triples"):
         build_triples(language, batch)
     if _should_run_stage(language, batch, "base", "triples"):
@@ -18,7 +22,23 @@ def run(language: Language, batch: str, size: str, ratio: float,
     if _should_run_stage(language, batch, "clean", "base"):
         clean_batch(language, batch)
     if _should_run_stage(language, batch, "bridges", "clean"):
-        build_bridges(language, batch, size, ratio, bridge_threshold)
+        build_bridges(language, batch, size, ratio, bridge_threshold, batch_size)
+
+
+def _save_params(language: Language, batch: str, size: str, ratio: float,
+                 similarity_threshold: float, bridge_threshold: float, batch_size: int):
+    save_batch_params(language, batch, "base", {
+        "size": size,
+        "ratio": ratio,
+        "threshold": similarity_threshold,
+        "batch_size": batch_size,
+    })
+    save_batch_params(language, batch, "bridges", {
+        "size": size,
+        "ratio": ratio,
+        "threshold": bridge_threshold,
+        "batch_size": batch_size,
+    })
 
 
 def _should_run_stage(language: Language, batch: str, stage: Stage, previous_stage: Optional[Stage] = None):

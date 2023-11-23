@@ -17,8 +17,6 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
 
-    save_batch_params(language, batch, "bridges", {"size": size, "ratio": ratio, "threshold": threshold})
-
     encoder = Encoder(size=size, language=language, ratio=ratio)
 
     set_batch_data(language, batch, "bridges", "started")
@@ -77,10 +75,17 @@ def _get_dir(language, name):
 
 
 if __name__ == "__main__":
-    from .cli_args import LANGUAGE, NAME, SIZE, RATIO, THRESHOLD
+    from .cli_args import LANGUAGE, NAME, SIZE, RATIO, THRESHOLD, BATCH_SIZE
 
     kg_dir = _get_dir(LANGUAGE, NAME)
     language: Language = LANGUAGE if LANGUAGE else kg_dir.parent.name  # type: ignore
     name = NAME if NAME else kg_dir.name
+
+    save_batch_params(language, name, "bridges", {
+        "size": SIZE,
+        "ratio": RATIO,
+        "threshold": THRESHOLD,
+        "batch_size": BATCH_SIZE,
+    })
 
     build_bridges(language, name, SIZE, RATIO, THRESHOLD)

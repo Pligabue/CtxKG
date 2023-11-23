@@ -18,8 +18,6 @@ def build_graphs(language: Language, batch: str, size, ratio, threshold, batch_s
     kg_dir = GRAPH_DIR / language / batch
     kg_dir.mkdir(exist_ok=True)
 
-    save_batch_params(language, batch, "base", {"size": size, "ratio": ratio, "threshold": threshold})
-
     base_dir = kg_dir / "base"
     base_dir.mkdir(exist_ok=True)
     errors_dir = base_dir / "errors"
@@ -68,5 +66,12 @@ if __name__ == "__main__":
 
     language: Language = LANGUAGE if LANGUAGE else batch_dir.parent.name  # type: ignore
     batch = NAME if NAME else batch_dir.name
+
+    save_batch_params(language, batch, "base", {
+        "size": SIZE,
+        "ratio": RATIO,
+        "threshold": THRESHOLD,
+        "batch_size": BATCH_SIZE,
+    })
 
     build_graphs(SIZE, RATIO, THRESHOLD, language, batch, BATCH_SIZE)
