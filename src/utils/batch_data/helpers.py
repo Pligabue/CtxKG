@@ -105,6 +105,14 @@ def save_batch_params(language: Language, batch: str, stage: Stage, stage_params
         json.dump(params, f, ensure_ascii=False, indent=2)
 
 
+def get_batch_params(language: Language, batch: str) -> BatchParams:
+    params_file = GRAPH_DIR / language / batch / "params.json"
+    if params_file.exists():
+        with params_file.open(encoding="utf-8") as f:
+            return json.load(f)
+    return DEFAULT_PARAMS
+
+
 def _build_metadata():
     metadata = {}
 
