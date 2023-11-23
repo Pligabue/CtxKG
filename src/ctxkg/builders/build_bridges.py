@@ -12,7 +12,7 @@ from ...utils.batch_data.helpers import set_batch_data, save_batch_params
 from ...languages import Language
 
 
-def build_bridges(language: Language, batch: str, size, ratio, threshold):
+def build_bridges(language: Language, batch: str, size, ratio, threshold, batch_size):
     kg_dir = GRAPH_DIR / language / batch
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
@@ -21,13 +21,13 @@ def build_bridges(language: Language, batch: str, size, ratio, threshold):
 
     set_batch_data(language, batch, "bridges", "started")
     try:
-        _build_bridges(kg_dir, encoder, threshold)
+        _build_bridges(kg_dir, encoder, threshold, batch_size)
         set_batch_data(language, batch, "bridges", "done")
     except Exception:
         set_batch_data(language, batch, "bridges", "failed")
 
 
-def _build_bridges(kg_dir: Path, encoder, threshold):
+def _build_bridges(kg_dir: Path, encoder, threshold, batch_size):
     graph_dir = kg_dir / "clean"
     bridge_dir = kg_dir / "bridges"
     bridge_dir.mkdir(exist_ok=True)
@@ -37,9 +37,9 @@ def _build_bridges(kg_dir: Path, encoder, threshold):
         bridges = _get_existing_bridges(bridge_dir, source_file)
         target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
         if target_files:
-            graph = Graph.from_json(source_file, encoder).build_entity_encodings()
+            graph = Graph.from_json(source_file, encoder).build_entity_encodings(batch_size)
             for target_files in tqdm(target_files, leave=False):
-                target_graph = Graph.from_json(target_files, encoder).build_entity_encodings()
+                target_graph = Graph.from_json(target_files, encoder).build_entity_encodings(batch_size)
                 bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
         with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
             json.dump(bridges, f, indent=2, ensure_ascii=False)
@@ -88,4 +88,4 @@ if __name__ == "__main__":
         "batch_size": BATCH_SIZE,
     })
 
-    build_bridges(language, name, SIZE, RATIO, THRESHOLD)
+    build_bridges(language, name, SIZE, RATIO, THRESHOLD, BATCH_SIZE)
