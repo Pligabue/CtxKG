@@ -4,6 +4,7 @@ from ....constants import GRAPH_DIR
 from ....utils.batch_data.helpers import get_batch_list, pause_batch, delete_batch
 from ...forms.batch import BatchForm
 from ...tasks.create_batch import create_batch
+from ...tasks.resume_processing import resume_processing
 from .graphs import bp as graph_bp
 
 from ....utils.batch_data.types import BlabKGException
@@ -42,6 +43,12 @@ def new(language):
 @bp.route("/<batch>/pause/")
 def pause(language, batch):
     pause_batch(language, batch)
+    return redirect(url_for(".index", language=language))
+
+
+@bp.route("/<batch>/resume/")
+def resume(language, batch):
+    resume_processing(language, batch)
     return redirect(url_for(".index", language=language))
 
 
