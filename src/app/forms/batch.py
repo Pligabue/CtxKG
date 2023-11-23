@@ -4,6 +4,7 @@ from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, M
 from wtforms.validators import InputRequired, AnyOf, NumberRange
 
 from ...utils.batch_data.helpers import get_batch_list
+from ...constants import DEFAULT_PARAMS
 
 
 class BatchForm(Form):
@@ -11,10 +12,12 @@ class BatchForm(Form):
     language = HiddenField("Language", [AnyOf(["en", "pt-BR"])])
     bert_size = SelectField("Bert size", choices=[("small", "Small"), ("medium", "Medium"), ("big", "Big")])
     filenames = MultipleFileField("Text files")
-    embedding_ratio = FloatField("Embedding ratio", [NumberRange(0.0, 1.0)], default=1.0)
-    similarity_threshold = FloatField("Similarity coef. (synonyms)", [NumberRange(0.0, 1.0)], default=0.8)
-    bridge_threshold = FloatField("Similarity coef. (bridges)", [NumberRange(0.0, 1.0)], default=0.7)
-    processing_batch_size = IntegerField("Processing batch size", default=300)
+    embedding_ratio = FloatField("Embedding ratio", [NumberRange(0.0, 1.0)], default=DEFAULT_PARAMS["base"]["ratio"])
+    similarity_threshold = FloatField("Similarity coef. (synonyms)", [NumberRange(0.0, 1.0)],
+                                      default=DEFAULT_PARAMS["base"]["threshold"])
+    bridge_threshold = FloatField("Similarity coef. (bridges)", [NumberRange(0.0, 1.0)],
+                                  default=DEFAULT_PARAMS["bridges"]["threshold"])
+    processing_batch_size = IntegerField("Processing batch size", default=DEFAULT_PARAMS["base"]["batch_size"])
 
     def show_advanced_options(self):
         return (

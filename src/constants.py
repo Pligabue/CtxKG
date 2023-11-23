@@ -1,5 +1,6 @@
 from pathlib import Path
 
+from .utils.batch_data.types import BatchParams
 from .languages import English, Portuguese
 
 
@@ -22,3 +23,18 @@ GRAPH_DIR = BASE_PATH / "graphs"
 ENGLISH_GRAPH_DIR = GRAPH_DIR / ENGLISH_PREFIX
 PORTUGUESE_GRAPH_DIR = GRAPH_DIR / PORTUGUESE_PREFIX
 BLABKG_DIR = ENGLISH_GRAPH_DIR / "BlabKG"
+
+DEFAULT_PARAMS: BatchParams = {
+    "base": {
+        "size": "small",
+        "ratio": 1.0,
+        "threshold": 0.8,
+        "batch_size": 300,
+    },
+    "bridges": {
+        "size": "small",
+        "ratio": 1.0,
+        "threshold": 0.7,
+        "batch_size": 300,
+    },
+}
