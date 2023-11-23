@@ -7,7 +7,7 @@ from ...constants import DOCUMENT_DIR, TRIPLE_DIR, GRAPH_DIR, BLABKG_DIR
 from ...constants import DEFAULT_PARAMS
 
 from ...languages import Language
-from .types import BatchMetadata, BatchStatus, BatchListItem, Stage, BlabKGException, StageParams, BatchParams
+from .types import BatchMetadata, BatchStatus, Batch, BatchListItem, Stage, BlabKGException, StageParams, BatchParams
 
 
 def get_metadata() -> BatchMetadata:
@@ -28,7 +28,7 @@ def get_batch_list(language: Language):
     batches: list[BatchListItem] = []
     for batch in batch_names:
         batch_data = metadata[language][batch]
-        can_be_paused = True
+        can_be_paused = _can_pause(batch_data)
         can_be_resumed = any([status == "paused" for status in batch_data.values()])
 
         batches.append({
@@ -64,12 +64,28 @@ def set_batch_data(language: Language, batch: str, stage: Stage, status: BatchSt
 
 def pause_batch(language: Language, batch: str):
     batch_data = get_metadata()[language][batch]
-    if batch_data["triples"] == "started" and batch_data["base"] == "pending":
+    if _can_pause_base(batch_data):
         set_batch_data(language, batch, "base", "paused")
-    elif batch_data["base"] == "started" and batch_data["clean"] == "pending":
+    elif _can_pause_clean(batch_data):
         set_batch_data(language, batch, "clean", "paused")
-    elif batch_data["clean"] == "started" and batch_data["bridges"] == "pending":
+    elif _can_pause_bridges(batch_data):
         set_batch_data(language, batch, "bridges", "paused")
+
+
+def _can_pause_base(batch_data: Batch):
+    return batch_data["triples"] == "started" and batch_data["base"] == "pending"
+
+
+def _can_pause_clean(batch_data: Batch):
+    return batch_data["base"] == "started" and batch_data["clean"] == "pending"
+
+
+def _can_pause_bridges(batch_data: Batch):
+    return batch_data["clean"] == "started" and batch_data["bridges"] == "pending"
+
+
+def _can_pause(batch_data: Batch):
+    return _can_pause_base(batch_data) or _can_pause_clean(batch_data) or _can_pause_bridges(batch_data)
 
 
 def delete_batch(language: Language, batch: str):
