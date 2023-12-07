@@ -1678,7 +1678,7 @@ transformers = "^4.33.1"
 type = "git"
 url = "https://github.com/Pligabue/PTBR-OpenIE.git"
 reference = "master"
-resolved_reference = "429a0f1ebcd9a58605c7c3b782292156bc608e31"
+resolved_reference = "60563af06c65cf9f24285db796e649eba28ef47f"
 
 [[package]]
 name = "typing-extensions"
