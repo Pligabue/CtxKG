@@ -10,13 +10,13 @@ from ...languages import Language
 from ...utils.batch_data.types import BatchStatus
 
 
-def build_triples(language: Language, batch: str):
+def build_triples(language: Language, batch: str, extraction_model: str):
     _setup_directories()
 
     if language == ENGLISH_PREFIX:
         _build_triples_en([batch])
     elif language == PORTUGUESE_PREFIX:
-        _build_triples_pt_BR([batch])
+        _build_triples_pt_BR([batch], extraction_model)
 
 
 def _setup_directories(reference_dir=DOCUMENT_DIR, target_dir=TRIPLE_DIR):
@@ -46,13 +46,13 @@ def _build_triples_en(batches: list[str]):
         _set_multiple_batches("en", batches, "failed")
 
 
-def _build_triples_pt_BR(batches: list[str]):
+def _build_triples_pt_BR(batches: list[str], extraction_model: str):
     batches = batches if len(batches) > 0 else [p.name for p in PORTUGUESE_DOC_DIR.iterdir() if p.is_dir()]
 
     _set_multiple_batches("pt-BR", batches, "started")
 
     try:
-        triple_extractor = TripleExtractor.load()
+        triple_extractor = TripleExtractor.load(extraction_model)
 
         for batch in batches:
             source_dir = PORTUGUESE_DOC_DIR / batch
@@ -76,14 +76,14 @@ if __name__ == "__main__":
     from .cli_args import LANGUAGE, NAME
 
     if LANGUAGE and NAME:
-        build_triples(LANGUAGE, NAME)
+        build_triples(LANGUAGE, NAME, "default")
     else:
         _setup_directories()
 
         if LANGUAGE == "en":
-            _build_triples_pt_BR([])
+            _build_triples_pt_BR([], "default")
         elif LANGUAGE == "pt-BR":
-            _build_triples_pt_BR([])
+            _build_triples_pt_BR([], "default")
         else:
             _build_triples_en([])
-            _build_triples_pt_BR([])
+            _build_triples_pt_BR([], "default")

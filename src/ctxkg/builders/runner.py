@@ -6,17 +6,17 @@ from ...languages import Language
 from ...utils.batch_data.types import Stage
 
 
-def run(language: Language, batch: str, size: str, ratio: float,
+def run(language: Language, batch: str, size: str, extraction_model: str, ratio: float,
         similarity_threshold: float, bridge_threshold: float, batch_size: int):
     from .build_triples import build_triples
     from .build_graphs import build_graphs
     from .clean_graphs import clean_batch
     from .build_bridges import build_bridges
 
-    _save_params(language, batch, size, ratio, similarity_threshold, bridge_threshold, batch_size)
+    _save_params(language, batch, size, extraction_model, ratio, similarity_threshold, bridge_threshold, batch_size)
 
     if _should_run_stage(language, batch, "triples"):
-        build_triples(language, batch)
+        build_triples(language, batch, extraction_model)
     if _should_run_stage(language, batch, "base", "triples"):
         build_graphs(language, batch, size, ratio, similarity_threshold, batch_size)
     if _should_run_stage(language, batch, "clean", "base"):
@@ -25,16 +25,18 @@ def run(language: Language, batch: str, size: str, ratio: float,
         build_bridges(language, batch, size, ratio, bridge_threshold, batch_size)
 
 
-def _save_params(language: Language, batch: str, size: str, ratio: float,
+def _save_params(language: Language, batch: str, size: str, extraction_model: str, ratio: float,
                  similarity_threshold: float, bridge_threshold: float, batch_size: int):
     save_batch_params(language, batch, "base", {
         "size": size,
+        "extraction_model": extraction_model,
         "ratio": ratio,
         "threshold": similarity_threshold,
         "batch_size": batch_size,
     })
     save_batch_params(language, batch, "bridges", {
         "size": size,
+        "extraction_model": extraction_model,
         "ratio": ratio,
         "threshold": bridge_threshold,
         "batch_size": batch_size,

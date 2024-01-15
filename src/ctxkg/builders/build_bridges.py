@@ -83,6 +83,7 @@ if __name__ == "__main__":
 
     save_batch_params(language, name, "bridges", {
         "size": SIZE,
+        "extraction_model": "default",
         "ratio": RATIO,
         "threshold": THRESHOLD,
         "batch_size": BATCH_SIZE,

@@ -31,6 +31,7 @@ def new(language):
             batch=form.name.data,  # type: ignore
             files=request.files.getlist(form.filenames.name),
             size=form.bert_size.data,
+            extraction_model=form.extraction_model.data,
             ratio=form.embedding_ratio.data,  # type: ignore
             similarity_threshold=form.similarity_threshold.data,  # type: ignore
             bridge_threshold=form.bridge_threshold.data,  # type: ignore

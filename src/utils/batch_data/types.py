@@ -34,6 +34,7 @@ class StageParams(TypedDict):
     ratio: float
     batch_size: int
     size: str
+    extraction_model: str
 
 
 class BatchParams(TypedDict):

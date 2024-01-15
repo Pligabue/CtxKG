@@ -18,6 +18,7 @@ def resume_processing(language: Language, batch: str):
 
     params = get_batch_params(language, batch)
     size = params["base"]["size"]
+    extraction_model = params["base"]["extraction_model"]
     ratio = params["base"]["ratio"]
     similarity_threshold = params["base"]["threshold"]
     bridge_threshold = params["bridges"]["threshold"]
@@ -25,7 +26,7 @@ def resume_processing(language: Language, batch: str):
 
     p = Process(
         target=run,
-        args=(language, batch, size, ratio, similarity_threshold, bridge_threshold, batch_size),
+        args=(language, batch, size, extraction_model, ratio, similarity_threshold, bridge_threshold, batch_size),
         name=f"Creating batch {batch}"
     )
     p.start()

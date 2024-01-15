@@ -8,12 +8,12 @@ from ...utils.batch_data.helpers import set_batch_data
 from ...languages import Language
 
 
-def create_batch(language: Language, batch: str, files: list[FileStorage], size: str, ratio: float,
-                 similarity_threshold: float, bridge_threshold: float, batch_size: int):
+def create_batch(language: Language, batch: str, files: list[FileStorage], size: str, extraction_model: str,
+                 ratio: float, similarity_threshold: float, bridge_threshold: float, batch_size: int):
     _setup_docs(language, batch, files)
     p = Process(
         target=run,
-        args=(language, batch, size, ratio, similarity_threshold, bridge_threshold, batch_size),
+        args=(language, batch, size, extraction_model, ratio, similarity_threshold, bridge_threshold, batch_size),
         name=f"Creating batch {batch}"
     )
     p.start()
