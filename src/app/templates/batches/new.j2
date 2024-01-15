@@ -19,7 +19,8 @@
         <dl class="p-4 font-bold overflow-auto">
             <dd>{{ form.language|safe }}</dd>
             {{ render_field(form.name) }}
-            {{ render_field(form.bert_size) }}
+            {{ render_field(form.bert_size) if form.show_bert_size() }}
+            {{ render_field(form.extraction_model) if form.show_extraction_model() }}
             {{ render_field(form.filenames, accept=".txt", field_class="py-1 w-full rounded") }}
             {% call collapsable("Advanced configurations", opened=form.show_advanced_options()) %}
                 {{ render_field(form.embedding_ratio) }}

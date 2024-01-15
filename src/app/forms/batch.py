@@ -2,6 +2,7 @@ from flask import request
 from wtforms import (Form, StringField, SelectField, IntegerField, FloatField, MultipleFileField, HiddenField,
                      ValidationError)
 from wtforms.validators import InputRequired, AnyOf, NumberRange
+from triple_extractor_ptbr_pligabue.constants import MODEL_DIR
 
 from ...utils.batch_data.helpers import get_batch_list
 from ...constants import DEFAULT_PARAMS
@@ -10,7 +11,10 @@ from ...constants import DEFAULT_PARAMS
 class BatchForm(Form):
     name = StringField("Batch name", [InputRequired()])
     language = HiddenField("Language", [AnyOf(["en", "pt-BR"])])
-    bert_size = SelectField("Bert size", choices=[("small", "Small"), ("medium", "Medium"), ("big", "Big")])
+    bert_size = SelectField("Bert size", default="small",
+                            choices=[("small", "Small"), ("medium", "Medium"), ("big", "Big")])
+    extraction_model = SelectField("Triple extraction model", default="default",
+                                   choices=[(path.name, path.stem) for path in MODEL_DIR.iterdir() if path.is_dir()])
     filenames = MultipleFileField("Text files")
     embedding_ratio = FloatField("Embedding ratio", [NumberRange(0.0, 1.0)], default=DEFAULT_PARAMS["base"]["ratio"])
     similarity_threshold = FloatField("Similarity coef. (synonyms)", [NumberRange(0.0, 1.0)],
@@ -18,6 +22,12 @@ class BatchForm(Form):
     bridge_threshold = FloatField("Similarity coef. (bridges)", [NumberRange(0.0, 1.0)],
                                   default=DEFAULT_PARAMS["bridges"]["threshold"])
     processing_batch_size = IntegerField("Processing batch size", default=DEFAULT_PARAMS["base"]["batch_size"])
+
+    def show_bert_size(self):
+        return self.language.data == "en"
+
+    def show_extraction_model(self):
+        return self.language.data == "pt-BR"
 
     def show_advanced_options(self):
         return (
