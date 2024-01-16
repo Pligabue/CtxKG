@@ -1,5 +1,5 @@
-from pathlib import Path
 import json
+from pathlib import Path
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
 from tqdm import tqdm
@@ -38,9 +38,9 @@ def _build_bridges(kg_dir: Path, encoder, threshold, batch_size):
         target_files = [file for file in graph_files if file.name not in bridges and file != source_file]
         if target_files:
             graph = Graph.from_json(source_file, encoder).build_entity_encodings(batch_size)
-            for target_files in tqdm(target_files, leave=False):
-                target_graph = Graph.from_json(target_files, encoder).build_entity_encodings(batch_size)
-                bridges[target_files.name] = graph.build_bridges(target_graph, threshold)
+            for target_file in tqdm(target_files, leave=False):
+                target_graph = Graph.from_json(target_file, encoder).build_entity_encodings(batch_size)
+                bridges[target_file.name] = graph.build_bridges(target_graph, threshold)
         with (bridge_dir / source_file.name).open("w", encoding="utf-8") as f:
             json.dump(bridges, f, indent=2, ensure_ascii=False)
 
