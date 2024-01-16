@@ -13,9 +13,10 @@ from .link import Link
 
 
 class Graph:
-    def __init__(self, filepath: str, encoder: Encoder):
+    def __init__(self, filepath: str, encoder: Encoder, normalize=True):
         self.filepath = filepath
         self.encoder = encoder
+        self.normalize = normalize
         self.entities: Dict[str, Entity] = {}
         self.triples: list[Triple] = []
         self.links: list[Link] = []
@@ -103,18 +104,19 @@ class Graph:
         self.encoder.build_entity_encodings(self.triples, batch_size)
         return self
 
-    def get_stacked_encodings(self, normalize=False):
+    def get_stacked_encodings(self):
         encodings = [entity.encoding for entity in self.entities.values()]
-        return tf.math.l2_normalize(encodings, 1) if normalize else encodings
+        return tf.math.l2_normalize(encodings, 1) if self.normalize else encodings
 
     def build_links(self, threshold: float):
         self.links = []
         entities = list(self.entities.values())
         for i, entity in enumerate(entities[:-1]):
             pool = entities[i+1:]
-            normalized_entity = tf.math.l2_normalize([entity.encoding], 1)
-            normalized_pool = tf.math.l2_normalize([e.encoding for e in pool], 1)
-            similarity = tf.linalg.matmul(normalized_entity, normalized_pool, transpose_b=True).numpy()
+            entity_encoding = tf.math.l2_normalize([entity.encoding], 1) if self.normalize else [entity.encoding]
+            pool_encodings = [e.encoding for e in pool]
+            pool_encodings = tf.math.l2_normalize(pool_encodings, 1) if self.normalize else pool_encodings
+            similarity = tf.linalg.matmul(entity_encoding, pool_encodings, transpose_b=True).numpy()
             similarity_mask = similarity[0] >= threshold
             for candidate_link, should_link in zip(pool, similarity_mask):
                 if should_link:
@@ -187,8 +189,8 @@ class Graph:
         entities = list(self.entities.values())
         target_entities = list(target_graph.entities.values())
 
-        encodings = self.get_stacked_encodings(normalize=True)
-        target_encodings = target_graph.get_stacked_encodings(normalize=True)
+        encodings = self.get_stacked_encodings()
+        target_encodings = target_graph.get_stacked_encodings()
         similarity = tf.linalg.matmul(encodings, target_encodings, transpose_b=True).numpy()
 
         row_matches = {(row, column) for column, row in enumerate(np.argmax(similarity, axis=0))}
