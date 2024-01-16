@@ -189,6 +189,9 @@ class Graph:
         entities = list(self.entities.values())
         target_entities = list(target_graph.entities.values())
 
+        if not (entities and target_entities):
+            return bridges
+
         encodings = self.get_stacked_encodings()
         target_encodings = target_graph.get_stacked_encodings()
         similarity = tf.linalg.matmul(encodings, target_encodings, transpose_b=True).numpy()
