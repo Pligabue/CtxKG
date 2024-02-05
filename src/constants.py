@@ -30,11 +30,13 @@ DEFAULT_PARAMS: BatchParams = {
         "ratio": 1.0,
         "threshold": 0.8,
         "batch_size": 300,
+        "extraction_model": "default",
     },
     "bridges": {
         "size": "small",
         "ratio": 1.0,
         "threshold": 0.7,
         "batch_size": 300,
+        "extraction_model": "default",
     },
 }
