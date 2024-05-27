@@ -1,0 +1,274 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Turismo Costeiro.txt",
+  "entities": {
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-9-turismo": "turismo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-12-13-fenômeno-econômico": "fenômeno econômico",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-2-3-4-5-6-7-propósito-de-uma-viagem-de-turismo": "propósito de uma viagem de turismo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-12-13-atividades-comerciais": "atividades comerciais",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-2-3-turismo-internacional": "turismo internacional",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-8-9-10-11-última-metade-do-século": "última metade do século",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-6-número": "número",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-10-11-12-casa-dos-bilhões": "casa dos bilhões",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-11-12-13-finalidade-e-motivação": "finalidade e motivação",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-19-viagem": "viagem",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-7-8-9-10-motivação-principal-da-viagem": "motivação principal da viagem",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-13-14-15-16-encontro-com-o-mar": "encontro com o mar",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-14-15-segmento-denominado": "segmento denominado",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-2-3-4-fins-de-formulação": "fins de formulação",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-2-3-4-Rio-de-Janeiro": "Rio de Janeiro",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-8-destino": "destino",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-6-sendo": "sendo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-9-distribuição": "distribuição",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-12-13-14-todos-os-estados": "todos os estados",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-2-3-4-maioria-desses-temas": "maioria desses temas",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-Atlas-Geográfico-das-Zonas-Costeiras-e-Oceânicas-do-Brasil-do-IBGE": "Atlas Geográfico das Zonas Costeiras e Oceânicas do Brasil do IBGE",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-27-28-29-30-31-porcentagem-de-balneabilidade": "porcentagem de balneabilidade",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-2-3-4-balneabilidade": "balneabilidade",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-7-8-9-10-11-12-13-14-questão-colocada-como-fundamental-ao-turismo-costeiro": "questão colocada como fundamental ao turismo costeiro",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-2-3-4-5-6-medir-a-balneabilidade": "medir a balneabilidade",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-10-11-12-13-14-15-16-17-três-tipos-de-indicadores-microbiológicos": "três tipos de indicadores microbiológicos",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-4-5-Atlas": "Atlas",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-7-8-9-10-11-12-13-14-15-cada-praia-com-uma-porcentagem-de-imprópria": "cada praia com uma porcentagem de imprópria",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-2-3-maior-parte": "maior parte",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-7-brasileiros": "brasileiros",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-9-10-11-12-13-14-representando-um-percentual-de-92-%": "representando um percentual de 92 %",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-6-7-São-Paulo": "São Paulo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-10-estado": "estado",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-3-4-visitantes-nacionais": "visitantes nacionais",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-3-visitantes": "visitantes",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-10-11-primeiro-lugar": "primeiro lugar",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-7-argentinos": "argentinos",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-7-8-9-ecoturismo": "ecoturismo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-13-14-15-16-17-18-tipos-de-turismo-mais-buscado": "tipos de turismo mais buscado",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-2-3-4-5-6-observação-de-golfinhos": "observação de golfinhos",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-10-11-12-13-14-15-principais-atrativos-turísticos-do-arquipélago": "principais atrativos turísticos do arquipélago",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-19-circunstâncias": "circunstâncias",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-27-28-afetadas": "afetadas",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-9-infraestrutura": "infraestrutura",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-4-5-6-turismo-costeiro": "turismo costeiro",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-9-10-infraestrutura-costeira": "infraestrutura costeira",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-2-3-4-construção-de-aeroportos": "construção de aeroportos",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-29-30-31-32-paisagem-da-linha-costeira": "paisagem da linha costeira",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-7-turismo": "turismo",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-13-14-15-16-mudança-de-usos-agrícolas": "mudança de usos agrícolas",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-4-geralmente": "geralmente",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-2-mudanças": "mudanças",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-7-8-9-10-11-12-13-14-15-barreira-de-cobertura-artificial-do-solo-entre-o-mar": "barreira de cobertura artificial do solo entre o mar",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-2-mudanças": "mudanças",
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-6-7-8-iluminação-noturna": "iluminação noturna"
+  },
+  "graph": [
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-9-turismo",
+      "relation": "é",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-12-13-fenômeno-econômico"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-2-3-4-5-6-7-propósito-de-uma-viagem-de-turismo",
+      "relation": "relaciona -",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-12-13-atividades-comerciais"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-2-3-turismo-internacional",
+      "relation": "cresceu enormemente",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-8-9-10-11-última-metade-do-século"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-6-número",
+      "relation": "ultrapassava",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-10-11-12-casa-dos-bilhões"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-11-12-13-finalidade-e-motivação",
+      "relation": "é feita",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-19-viagem"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-7-8-9-10-motivação-principal-da-viagem",
+      "relation": "é",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-13-14-15-16-encontro-com-o-mar"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-14-15-segmento-denominado",
+      "relation": "constitui",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-2-3-4-fins-de-formulação"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-2-3-4-Rio-de-Janeiro",
+      "relation": "continua",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-8-destino"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-2-3-4-Rio-de-Janeiro",
+      "relation": "continua",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-6-sendo"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-9-distribuição",
+      "relation": "abrange",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-12-13-14-todos-os-estados"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-2-3-4-maioria-desses-temas",
+      "relation": "podemos ver uma",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-12-13-14-todos-os-estados"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-Atlas-Geográfico-das-Zonas-Costeiras-e-Oceânicas-do-Brasil-do-IBGE",
+      "relation": "é",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-27-28-29-30-31-porcentagem-de-balneabilidade"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-2-3-4-balneabilidade",
+      "relation": "é",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-7-8-9-10-11-12-13-14-questão-colocada-como-fundamental-ao-turismo-costeiro"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-2-3-4-5-6-medir-a-balneabilidade",
+      "relation": "podem ser utilizados",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-10-11-12-13-14-15-16-17-três-tipos-de-indicadores-microbiológicos"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-4-5-Atlas",
+      "relation": "classifica",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-7-8-9-10-11-12-13-14-15-cada-praia-com-uma-porcentagem-de-imprópria"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-2-3-maior-parte",
+      "relation": "é composta por",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-7-brasileiros"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-2-3-maior-parte",
+      "relation": "é composta por",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-9-10-11-12-13-14-representando-um-percentual-de-92-%"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-6-7-São-Paulo",
+      "relation": "foi",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-10-estado"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-3-4-visitantes-nacionais",
+      "relation": "foi",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-10-estado"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-3-visitantes",
+      "relation": "ficaram",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-10-11-primeiro-lugar"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-7-argentinos",
+      "relation": "ficaram",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-10-11-primeiro-lugar"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-7-8-9-ecoturismo",
+      "relation": "é",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-13-14-15-16-17-18-tipos-de-turismo-mais-buscado"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-2-3-4-5-6-observação-de-golfinhos",
+      "relation": "é um",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-10-11-12-13-14-15-principais-atrativos-turísticos-do-arquipélago"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-19-circunstâncias",
+      "relation": "são",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-27-28-afetadas"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-19-circunstâncias",
+      "relation": "são construídas",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-9-infraestrutura"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-4-5-6-turismo-costeiro",
+      "relation": "precisa de",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-9-10-infraestrutura-costeira"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-2-3-4-construção-de-aeroportos",
+      "relation": "mudam completamente a",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-29-30-31-32-paisagem-da-linha-costeira"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-7-turismo",
+      "relation": "ocorre",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-13-14-15-16-mudança-de-usos-agrícolas"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-7-turismo",
+      "relation": "ocorre",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-4-geralmente"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-2-mudanças",
+      "relation": "introduzem",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-7-8-9-10-11-12-13-14-15-barreira-de-cobertura-artificial-do-solo-entre-o-mar"
+    },
+    {
+      "subject_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-2-mudanças",
+      "relation": "costumam introduzir",
+      "object_id": "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-6-7-8-iluminação-noturna"
+    }
+  ],
+  "links": {
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-9-turismo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S0-12-13-fenômeno-econômico": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-2-3-4-5-6-7-propósito-de-uma-viagem-de-turismo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S1-12-13-atividades-comerciais": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-2-3-turismo-internacional": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S2-8-9-10-11-última-metade-do-século": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-6-número": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S5-10-11-12-casa-dos-bilhões": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-11-12-13-finalidade-e-motivação": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S7-19-viagem": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-7-8-9-10-motivação-principal-da-viagem": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S10-13-14-15-16-encontro-com-o-mar": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-14-15-segmento-denominado": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S12-2-3-4-fins-de-formulação": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-2-3-4-Rio-de-Janeiro": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-8-destino": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S15-6-sendo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-9-distribuição": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-12-13-14-todos-os-estados": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S21-2-3-4-maioria-desses-temas": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-Atlas-Geográfico-das-Zonas-Costeiras-e-Oceânicas-do-Brasil-do-IBGE": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S22-27-28-29-30-31-porcentagem-de-balneabilidade": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-2-3-4-balneabilidade": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S23-7-8-9-10-11-12-13-14-questão-colocada-como-fundamental-ao-turismo-costeiro": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-2-3-4-5-6-medir-a-balneabilidade": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S24-10-11-12-13-14-15-16-17-três-tipos-de-indicadores-microbiológicos": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-4-5-Atlas": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S25-7-8-9-10-11-12-13-14-15-cada-praia-com-uma-porcentagem-de-imprópria": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-2-3-maior-parte": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-7-brasileiros": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S32-9-10-11-12-13-14-representando-um-percentual-de-92-%": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-6-7-São-Paulo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-10-estado": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S33-3-4-visitantes-nacionais": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-3-visitantes": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-10-11-primeiro-lugar": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S34-7-argentinos": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-7-8-9-ecoturismo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S35-13-14-15-16-17-18-tipos-de-turismo-mais-buscado": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-2-3-4-5-6-observação-de-golfinhos": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S36-10-11-12-13-14-15-principais-atrativos-turísticos-do-arquipélago": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-19-circunstâncias": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-27-28-afetadas": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S41-9-infraestrutura": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-4-5-6-turismo-costeiro": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S44-9-10-infraestrutura-costeira": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-2-3-4-construção-de-aeroportos": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S45-29-30-31-32-paisagem-da-linha-costeira": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-7-turismo": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-13-14-15-16-mudança-de-usos-agrícolas": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S46-4-geralmente": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-2-mudanças": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S47-7-8-9-10-11-12-13-14-15-barreira-de-cobertura-artificial-do-solo-entre-o-mar": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-2-mudanças": [],
+    "d2b2d5d6-9b19-4c7d-ba65-80a50b262a68-S48-6-7-8-iluminação-noturna": []
+  }
+}

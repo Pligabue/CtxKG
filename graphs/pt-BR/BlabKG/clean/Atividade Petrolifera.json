@@ -1,0 +1,913 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Atividade Petrolifera.txt",
+  "entities": {
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-2-3-4-5-6-7-massa-total-de-carbono-na-Terra": "massa total de carbono na Terra",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-11-7": "7",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-2-3-1-%": "1 %",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-6-7-8-carbono-que-participa": "carbono que participa",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-3-4-5-6-80-%-do-carbono": "80 % do carbono",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-15-16-17-18-19-carbono-inorgânico": "carbono inorgânico",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-2-3-MO": "MO",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-32-33-34-série-de-transformações": "série de transformações",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-2-3-4-5-produto-final-do-processo": "produto final do processo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-12-13-querogênio": "querogênio",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S8-18-19-20-21-22-material-chamado-de-querogênio": "material chamado de querogênio",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-2-3-4-aumento-de-temperatura": "aumento de temperatura",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-8-9-10-11-12-degradação-térmica-do-querogênio": "degradação térmica do querogênio",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-22-23-querogênio": "querogênio",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-28-petróleo": "petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-2-petróleo": "petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-6-7-8-9-10-11-12-13-14-15-16-17-18-19-complexa-de-hidrocarbonetos-(-moléculas-formadas-principalmente-por-carbono-e-hidrogênio": "complexa de hidrocarbonetos ( moléculas formadas principalmente por carbono e hidrogênio",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-1-2-3-4-5-6-Quando-ocorre-no-estado-gasoso": "Quando ocorre no estado gasoso",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-10-11-gás-natural": "gás natural",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S16-9-10-11-12-não-só-o-petróleo": "não só o petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-2-3-4-5-6-hidratos-de-gás": "hidratos de gás",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-9-10-11-12-13-condições-bastante-específicas-de-pressão": "condições bastante específicas de pressão",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-112-113-114-115-rocha-impermeável": "rocha impermeável",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-120-petróleo": "petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-2-3-4-5-6-acumulação-comercial-de-petróleo": "acumulação comercial de petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-12-13-associação-adequada": "associação adequada",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-2-3-4-5-6-7-ausência-de-apenas-um-desses-fatores": "ausência de apenas um desses fatores",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-13-14-15-16-17-18-19-20-formação-de-uma-jazida-petrolífera": "formação de uma jazida petrolífera",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-4-petróleo": "petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-10-áreas": "áreas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil": "Brasil",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-4-5-6-7-35-bacias-sedimentares": "35 bacias sedimentares",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S27-7-8-subdividida": "subdividida",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S28-9-10-11-12-267-campos-produtores": "267 campos produtores",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-5-6-7-8-9-desenvolvimento-de-petróleo-e-gás": "desenvolvimento de petróleo e gás",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-11-12-13-14-15-16-focados-em-áreas-geográficas-específicas": "focados em áreas geográficas específicas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-12-13": "13",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-15-16-17-18-19-20-21-22-menos-um-poço-produzindo-petróleo-ou-gás-natural": "menos um poço produzindo petróleo ou gás natural",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-1-2-Dessas": "Dessas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-7-8-9-10-11-12-bacias-de-Santos-e-de-Campos": "bacias de Santos e de Campos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-2-3-4-pré---sal": "pré - sal",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-7-8-9-10-11-sequência-de-rochas-sedimentares": "sequência de rochas sedimentares",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-25-processos": "processos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-33-34-35-36-37-38-39-camada-orgânica-em-hidrocarbonetos": "camada orgânica em hidrocarbonetos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S37-9-10-11-camada-muito-profunda": "camada muito profunda",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-2-3-4-5-6-7-dez-poços-com-maior-produção": "dez poços com maior produção",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-13-14-15-localizados-nessa-área": "localizados nessa área",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-2-3-4-5-mais-produtivo-deles": "mais produtivo deles",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-8-9-10-11-campo-de-Tupi,": "campo de Tupi,",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-2-3-4-5-6-campo-de-Tupi-por-completo": "campo de Tupi por completo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-9-10-11-12-13-14-maior-tanto-em-produção-de-petróleo": "maior tanto em produção de petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-49-50-779": "779",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-52-terrestres": "terrestres",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-47-5": "5",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-62-marinhos": "marinhos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-17-18-19-campos-marítimos": "campos marítimos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-23-24-25-26-27-28-2-%-do-petróleo-e-81": "2 % do petróleo e 81",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-14-15-Amazônia-Azul": "Amazônia Azul",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-19-20-21-22-23-24-25-26-27-28-29-quase-toda-a-produção-de-petróleo-e-gás-natural-do-país": "quase toda a produção de petróleo e gás natural do país",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-2-3-4-5-6-grande-número-de-poços": "grande número de poços",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-16-17-18-19-padrão-usual-da-indústria": "padrão usual da indústria",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-8-9-10-11-exploração-e-produção-marítima": "exploração e produção marítima",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-17-18-19-20-21-águas-cada-vez-mais-profundas": "águas cada vez mais profundas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S49-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-lugar-no-ranking-de-produção-de-petróleo-mundial-e-no-ranking-de-produção-de-gás-natural": "lugar no ranking de produção de petróleo mundial e no ranking de produção de gás natural",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-5-país": "país",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-9-10-11-12-13-volume-muito-grande-de-reservas": "volume muito grande de reservas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-3-4-5-reservas-totais": "reservas totais",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-8-9-10-11-12-soma-das-reservas-provadas": "soma das reservas provadas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-2-3-4-5-6-história-da-exploração-de-petróleo": "história da exploração de petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-12-13-século-XIX": "século XIX",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-2-3-descoberta,": "descoberta,",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-8-9-10-11-12-13-14-novos-trabalhos-exploratórios-nas-imediações": "novos trabalhos exploratórios nas imediações",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-2-3-4-5-6-êxito-obtido-em-Lobato": "êxito obtido em Lobato",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-10-11-12-13-14-15-país-a-minimizar-sua-dependência": "país a minimizar sua dependência",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-2-decreto": "decreto",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-5-6-7-8-petróleo-patrimônio-da-União": "petróleo patrimônio da União",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-19-20-21-22-23-24-movimentos-de-partidos-políticos-de-esquerda": "movimentos de partidos políticos de esquerda",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-29-campanha": "campanha",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-9-10-11-governo-Getúlio-Vargas": "governo Getúlio Vargas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-14-Petrobras": "Petrobras",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-4-outubro": "outubro",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-19-Lei": "Lei",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-5-governo": "governo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-11-12-13-14-15-16-17-operações-de-importação-de-óleo-e-gás": "operações de importação de óleo e gás",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-8-9-10-áreas-de-exploração": "áreas de exploração",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-12-13-14-15-16-17-18-se-expandindo,-com-a-descoberta": "se expandindo, com a descoberta",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-8-companhia": "companhia",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-13-14-15-primeira-no-mundo": "primeira no mundo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-11-se": "se",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-2-3-4-5-6-7-investimentos-em-desenvolvimento-tecnológico-no-país": "investimentos em desenvolvimento tecnológico no país",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-14-15-16-17-recordes-significativos-de-produção": "recordes significativos de produção",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-7-8-9-tecnologia-de-ponta": "tecnologia de ponta",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-20-21-tais-conhecimentos": "tais conhecimentos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-27-28-outros-fins": "outros fins",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-14-15-16-17-exploração-de-águas-profundas": "exploração de águas profundas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-2-3-4-Lei-do-petróleo": "Lei do petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-16-nova": "nova",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-3-mudanças": "mudanças",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-23-24-25-26-Petrobras-nas-responsabilidades": "Petrobras nas responsabilidades",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-6-7-8-9-10-11-12-13-14-criação-da-Agência-Nacional-do-Petróleo": "criação da Agência Nacional do Petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-2-lei": "lei",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-5-6-7-8-9-10-11-formação-de-parcerias-com-empresas-interessadas": "formação de parcerias com empresas interessadas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S74-7-8-9-10-empresa-de-capital-aberto": "empresa de capital aberto",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S75-7-8-9-10-11-12-13-exploração-do-petróleo-presente-na-Amazônia-Azul": "exploração do petróleo presente na Amazônia Azul",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-8-processo": "processo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-25-26-27-fases-de-exploração": "fases de exploração",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-11-12-13-toda-a-cadeia": "toda a cadeia",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera": "atividade petrolífera",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S77-10-11-12-três-setores-principais": "três setores principais",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-11-12-exploração,": "exploração,",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-16-17-18-estudos-preliminares": "estudos preliminares",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-1-2-Nesta-fase": "Nesta fase",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-5-6-7-analisar-o-solo": "analisar o solo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-2-3-geologia": "geologia",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-5-6-7-8-9-10-11-12-13-14-15-16-17-estudos-na-superfície-que-permitem-um-exame-detalhado-das-camadas-de-rochas": "estudos na superfície que permitem um exame detalhado das camadas de rochas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-2-3-perfuração": "perfuração",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-6-7-8-9-10-utilizando---se-uma-sonda": "utilizando - se uma sonda",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-2-trabalho": "trabalho",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-5-6-7-8-através-de-uma-torre": "através de uma torre",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-2-3-4-5-ponta-do-primeiro-tubo": "ponta do primeiro tubo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-8-9-10-11-se-a-broca": "se a broca",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-10-11-broca": "broca",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-23-24-25-caminho-das-camadas": "caminho das camadas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-2-3-avaliação-é": "avaliação é",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-7-8-9-10-se-é-comercialmente-viável": "se é comercialmente viável",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S91-14-15-16-campo-de-petróleo": "campo de petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-1-2-Elevação": "Elevação",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-5-6-7-8-9-10-11-termo-utilizado-na-indústria-petrolífera": "termo utilizado na indústria petrolífera",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-2-elevação": "elevação",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-8-9-forma-artificial": "forma artificial",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-2-3-elevação-natural": "elevação natural",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-quando-a-pressão-do-reservatório-é-suficiente-para-que-o-fluido-alcance-livremente-a-superfície": "quando a pressão do reservatório é suficiente para que o fluido alcance livremente a superfície",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-7-8-9-10-pressão-do-reservatório": "pressão do reservatório",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-16-fluido": "fluido",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-1-2-Neste-caso": "Neste caso",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-8-9-10-11-poço-é-surgente": "poço é surgente",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-2-3-4-trabalhos-em-mar": "trabalhos em mar",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-7-8-9-10-11-mesmos-critérios-aplicados-em-terra": "mesmos critérios aplicados em terra",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S101-1-2-3-4-5-Junto-à-descoberta-do-petróleo": "Junto à descoberta do petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S102-7-junto": "junto",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-5-6-7-8-9-maior-parte-do-extraído": "maior parte do extraído",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-12-13-14-15-gás-associado-ao-petróleo": "gás associado ao petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-3-gás": "gás",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-5-associado": "associado",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-4-5-parte-deles": "parte deles",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-8-9-10-11-12-disponibilidade-para-futuras-extrações": "disponibilidade para futuras extrações",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-6-7-8-9-aproximadamente-5.-700": "aproximadamente 5. 700",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-12-13-14-15-petróleo,-gás-natural": "petróleo, gás natural",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S109-1-2-3-Tais-poços": "Tais poços",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-6-7-mistura-complexa": "mistura complexa",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-17-18-19-muitas-utilidades": "muitas utilidades",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-1-2-3-4-Refinar-petróleo": "Refinar petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-7-8-9-suas-frações": "suas frações",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-1-É": "É",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-7-8-9-10-11-petróleo-em-relação-a-seus": "petróleo em relação a seus",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-9-petróleo": "petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-25-26-27-refinarias": "refinarias",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-infraestrutura-e-a-logística-de-processamento-e-de-movimentação-de-petróleo-e-derivados-do-país": "infraestrutura e a logística de processamento e de movimentação de petróleo e derivados do país",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-21-22-23-24-25-26-27-28-instaladas-em-função-do-refino-do-petróleo": "instaladas em função do refino do petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras": "Petrobras",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-4-5-6-7-8-9-10-15-refinarias-instaladas-no-Brasil": "15 refinarias instaladas no Brasil",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-14-oito": "oito",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-18-zona": "zona",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-16-localizadas": "localizadas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-10-Brasil": "Brasil",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S122-14-15-16-17-18-19-20-gerar-diversos-produtos-finais-através-do-petróleo": "gerar diversos produtos finais através do petróleo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-6-7-72-%": "72 %",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-11-12-13-14-15-consumo-(-descarga-operacionais": "consumo ( descarga operacionais",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S126-57-enorme": "enorme",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-1-Ademais": "Ademais",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-4-5-6-7-8-9-10-11-12-13-14-15-16-17-impactos-na-cadeia-produtiva-do-petróleo-que-afetam-indiretamente-os-mares": "impactos na cadeia produtiva do petróleo que afetam indiretamente os mares",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S130-5-6-7-8-9-matéria-prima-dos-plásticos": "matéria prima dos plásticos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-2-3-4-5-6-7-8-contaminação-por-hidrocarbonetos": "contaminação por hidrocarbonetos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-12-13-14-15-16-efeitos-negativos-nos-ecossistemas": "efeitos negativos nos ecossistemas",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-1-Estudos": "Estudos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-6-7-8-9-10-11-12-13-14-vários-tipos-de-hidrocarbonetos-que-existem": "vários tipos de hidrocarbonetos que existem",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-17-alguns": "alguns",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-20-21-22-23-24-maior-toxicidade-ao-ambiente": "maior toxicidade ao ambiente",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-2-exemplo": "exemplo",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-5-6-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-policíclicos-aromáticos": "hidrocarbonetos policíclicos aromáticos",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-7-8-grande-parte": "grande parte",
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-30-31-32-33-34-mar-sem-qualquer-intervenção-humana": "mar sem qualquer intervenção humana"
+  },
+  "graph": [
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-2-3-4-5-6-7-massa-total-de-carbono-na-Terra",
+      "relation": "é estimada em",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-11-7"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-2-3-1-%",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-6-7-8-carbono-que-participa"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-3-4-5-6-80-%-do-carbono",
+      "relation": "corresponde a",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-15-16-17-18-19-carbono-inorgânico"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-2-3-MO",
+      "relation": "passa por",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-32-33-34-série-de-transformações"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-2-3-4-5-produto-final-do-processo",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-12-13-querogênio"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-3-4-5-6-80-%-do-carbono",
+      "relation": "corresponde ao",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S8-18-19-20-21-22-material-chamado-de-querogênio"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-2-3-4-aumento-de-temperatura",
+      "relation": "acarreta a",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-8-9-10-11-12-degradação-térmica-do-querogênio"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-22-23-querogênio",
+      "relation": "são gerados",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-28-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-2-petróleo",
+      "relation": "é uma mistura",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-6-7-8-9-10-11-12-13-14-15-16-17-18-19-complexa-de-hidrocarbonetos-(-moléculas-formadas-principalmente-por-carbono-e-hidrogênio"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-1-2-3-4-5-6-Quando-ocorre-no-estado-gasoso",
+      "relation": "é denominado de",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-10-11-gás-natural"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera",
+      "relation": "envolve",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S16-9-10-11-12-não-só-o-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-2-3-4-5-6-hidratos-de-gás",
+      "relation": "ocorrem em",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-9-10-11-12-13-condições-bastante-específicas-de-pressão"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-112-113-114-115-rocha-impermeável",
+      "relation": "retenha o",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-120-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-2-3-4-5-6-acumulação-comercial-de-petróleo",
+      "relation": "é o resultado",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-12-13-associação-adequada"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-2-3-4-5-6-7-ausência-de-apenas-um-desses-fatores",
+      "relation": "inviabiliza a",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-13-14-15-16-17-18-19-20-formação-de-uma-jazida-petrolífera"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-4-petróleo",
+      "relation": "poderá ser encontrado",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-10-áreas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil",
+      "relation": "tem",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-4-5-6-7-35-bacias-sedimentares"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-4-5-6-7-35-bacias-sedimentares",
+      "relation": "pode ser",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S27-7-8-subdividida"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil",
+      "relation": "contava com",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S28-9-10-11-12-267-campos-produtores"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-5-6-7-8-9-desenvolvimento-de-petróleo-e-gás",
+      "relation": "estão",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-11-12-13-14-15-16-focados-em-áreas-geográficas-específicas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-12-13",
+      "relation": "tinham",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-15-16-17-18-19-20-21-22-menos-um-poço-produzindo-petróleo-ou-gás-natural"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-1-2-Dessas",
+      "relation": "têm destaque",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-7-8-9-10-11-12-bacias-de-Santos-e-de-Campos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-2-3-4-pré---sal",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-7-8-9-10-11-sequência-de-rochas-sedimentares"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-25-processos",
+      "relation": "transformassem",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-33-34-35-36-37-38-39-camada-orgânica-em-hidrocarbonetos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-2-3-4-pré---sal",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S37-9-10-11-camada-muito-profunda"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-2-3-4-5-6-7-dez-poços-com-maior-produção",
+      "relation": "estão",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-13-14-15-localizados-nessa-área"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-2-3-4-5-mais-produtivo-deles",
+      "relation": "está no",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-8-9-10-11-campo-de-Tupi,"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-2-3-4-5-6-campo-de-Tupi-por-completo",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-9-10-11-12-13-14-maior-tanto-em-produção-de-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-49-50-779",
+      "relation": "são",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-52-terrestres"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-47-5",
+      "relation": "são",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-52-terrestres"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-49-50-779",
+      "relation": "são",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-62-marinhos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-47-5",
+      "relation": "são",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-62-marinhos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-17-18-19-campos-marítimos",
+      "relation": "produziram",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-23-24-25-26-27-28-2-%-do-petróleo-e-81"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-14-15-Amazônia-Azul",
+      "relation": "é responsável por",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-19-20-21-22-23-24-25-26-27-28-29-quase-toda-a-produção-de-petróleo-e-gás-natural-do-país"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-2-3-4-5-6-grande-número-de-poços",
+      "relation": "reflete",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-16-17-18-19-padrão-usual-da-indústria"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-8-9-10-11-exploração-e-produção-marítima",
+      "relation": "vêm se",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-17-18-19-20-21-águas-cada-vez-mais-profundas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil",
+      "relation": "ocupa",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S49-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-lugar-no-ranking-de-produção-de-petróleo-mundial-e-no-ranking-de-produção-de-gás-natural"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-5-país",
+      "relation": "conta com",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-9-10-11-12-13-volume-muito-grande-de-reservas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-3-4-5-reservas-totais",
+      "relation": "representam a",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-8-9-10-11-12-soma-das-reservas-provadas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-2-3-4-5-6-história-da-exploração-de-petróleo",
+      "relation": "tem início no",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-12-13-século-XIX"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-2-3-descoberta,",
+      "relation": "levou",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-8-9-10-11-12-13-14-novos-trabalhos-exploratórios-nas-imediações"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-2-3-4-5-6-êxito-obtido-em-Lobato",
+      "relation": "motivou",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-10-11-12-13-14-15-país-a-minimizar-sua-dependência"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-2-decreto",
+      "relation": "tornou",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-5-6-7-8-petróleo-patrimônio-da-União"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-19-20-21-22-23-24-movimentos-de-partidos-políticos-de-esquerda",
+      "relation": "lançaram",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-29-campanha"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-9-10-11-governo-Getúlio-Vargas",
+      "relation": "cria",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-14-Petrobras"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-4-outubro",
+      "relation": "assina",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-19-Lei"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-5-governo",
+      "relation": "estendeu o monopólio também às",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-11-12-13-14-15-16-17-operações-de-importação-de-óleo-e-gás"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-8-9-10-áreas-de-exploração",
+      "relation": "foram",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-12-13-14-15-16-17-18-se-expandindo,-com-a-descoberta"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-8-companhia",
+      "relation": "tornou -",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-13-14-15-primeira-no-mundo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-8-companhia",
+      "relation": "tornou -",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-11-se"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-2-3-4-5-6-7-investimentos-em-desenvolvimento-tecnológico-no-país",
+      "relation": "intensificaram",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-14-15-16-17-recordes-significativos-de-produção"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras",
+      "relation": "tem",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-7-8-9-tecnologia-de-ponta"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-20-21-tais-conhecimentos",
+      "relation": "serem aproveitados até",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-27-28-outros-fins"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-7-8-9-tecnologia-de-ponta",
+      "relation": "foi pioneira",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-14-15-16-17-exploração-de-águas-profundas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-2-3-4-Lei-do-petróleo",
+      "relation": "inicia uma",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-16-nova"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-3-mudanças",
+      "relation": "substituiu",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-23-24-25-26-Petrobras-nas-responsabilidades"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-6-7-8-9-10-11-12-13-14-criação-da-Agência-Nacional-do-Petróleo",
+      "relation": "substituiu",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-23-24-25-26-Petrobras-nas-responsabilidades"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-3-mudanças",
+      "relation": "está",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-6-7-8-9-10-11-12-13-14-criação-da-Agência-Nacional-do-Petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-2-lei",
+      "relation": "permitiu a",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-5-6-7-8-9-10-11-formação-de-parcerias-com-empresas-interessadas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S74-7-8-9-10-empresa-de-capital-aberto"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil",
+      "relation": "tem direito exclusivo de",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S75-7-8-9-10-11-12-13-exploração-do-petróleo-presente-na-Amazônia-Azul"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-8-processo",
+      "relation": "envolve",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-25-26-27-fases-de-exploração"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-8-processo",
+      "relation": "envolve",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-11-12-13-toda-a-cadeia"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera",
+      "relation": "envolve",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-25-26-27-fases-de-exploração"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera",
+      "relation": "envolve",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-11-12-13-toda-a-cadeia"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera",
+      "relation": "é comumente dividida em",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S77-10-11-12-três-setores-principais"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-11-12-exploração,",
+      "relation": "realiza",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-16-17-18-estudos-preliminares"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-1-2-Nesta-fase",
+      "relation": "é necessário",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-5-6-7-analisar-o-solo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-2-3-geologia",
+      "relation": "realiza",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-5-6-7-8-9-10-11-12-13-14-15-16-17-estudos-na-superfície-que-permitem-um-exame-detalhado-das-camadas-de-rochas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-2-3-perfuração",
+      "relation": "é feita",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-6-7-8-9-10-utilizando---se-uma-sonda"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-2-trabalho",
+      "relation": "é feito",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-5-6-7-8-através-de-uma-torre"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-2-3-4-5-ponta-do-primeiro-tubo",
+      "relation": "encontra -",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-8-9-10-11-se-a-broca"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-10-11-broca",
+      "relation": "abre",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-23-24-25-caminho-das-camadas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-2-3-avaliação-é",
+      "relation": "vai determinar",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-7-8-9-10-se-é-comercialmente-viável"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-2-3-avaliação-é",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-7-8-9-10-se-é-comercialmente-viável"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-2-3-4-5-6-grande-número-de-poços",
+      "relation": "forma um",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S91-14-15-16-campo-de-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-1-2-Elevação",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-5-6-7-8-9-10-11-termo-utilizado-na-indústria-petrolífera"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-2-elevação",
+      "relation": "pode ocorrer naturalmente",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-8-9-forma-artificial"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-2-3-elevação-natural",
+      "relation": "ocorre",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-quando-a-pressão-do-reservatório-é-suficiente-para-que-o-fluido-alcance-livremente-a-superfície"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-7-8-9-10-pressão-do-reservatório",
+      "relation": "é suficiente",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-16-fluido"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-1-2-Neste-caso",
+      "relation": "diz -",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-8-9-10-11-poço-é-surgente"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-2-3-4-trabalhos-em-mar",
+      "relation": "seguem os",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-7-8-9-10-11-mesmos-critérios-aplicados-em-terra"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S101-1-2-3-4-5-Junto-à-descoberta-do-petróleo",
+      "relation": "pode ocorrer",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-10-11-gás-natural"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-10-11-gás-natural",
+      "relation": "pode ser encontrado",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S102-7-junto"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-5-6-7-8-9-maior-parte-do-extraído",
+      "relation": "é de",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-12-13-14-15-gás-associado-ao-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-3-gás",
+      "relation": "está",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-5-associado"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-4-5-parte-deles",
+      "relation": "fica em",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-8-9-10-11-12-disponibilidade-para-futuras-extrações"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-6-7-8-9-aproximadamente-5.-700",
+      "relation": "estão produzindo",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-12-13-14-15-petróleo,-gás-natural"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S109-1-2-3-Tais-poços",
+      "relation": "estão distribuídos",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-4-5-6-7-35-bacias-sedimentares"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-6-7-mistura-complexa",
+      "relation": "possui",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-17-18-19-muitas-utilidades"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-1-2-3-4-Refinar-petróleo",
+      "relation": "é separar",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-7-8-9-suas-frações"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-1-É",
+      "relation": "identificar a classificação",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-7-8-9-10-11-petróleo-em-relação-a-seus"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-9-petróleo",
+      "relation": "segue",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-25-26-27-refinarias"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-infraestrutura-e-a-logística-de-processamento-e-de-movimentação-de-petróleo-e-derivados-do-país",
+      "relation": "foram projetadas",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-21-22-23-24-25-26-27-28-instaladas-em-função-do-refino-do-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras",
+      "relation": "possui",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-4-5-6-7-8-9-10-15-refinarias-instaladas-no-Brasil"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-14-oito",
+      "relation": "estão",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-18-zona"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-14-oito",
+      "relation": "estão",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-16-localizadas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras",
+      "relation": "instaladas",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-10-Brasil"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-25-26-27-refinarias",
+      "relation": "pode",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S122-14-15-16-17-18-19-20-gerar-diversos-produtos-finais-através-do-petróleo"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-6-7-72-%",
+      "relation": "são devido ao",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-11-12-13-14-15-consumo-(-descarga-operacionais"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-25-26-27-refinarias",
+      "relation": "despejam",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S126-57-enorme"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-1-Ademais",
+      "relation": "existem",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-4-5-6-7-8-9-10-11-12-13-14-15-16-17-impactos-na-cadeia-produtiva-do-petróleo-que-afetam-indiretamente-os-mares"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-2-petróleo",
+      "relation": "é",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S130-5-6-7-8-9-matéria-prima-dos-plásticos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-2-3-4-5-6-7-8-contaminação-por-hidrocarbonetos",
+      "relation": "pode causar diversos",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-12-13-14-15-16-efeitos-negativos-nos-ecossistemas"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-1-Estudos",
+      "relation": "indicam",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-6-7-8-9-10-11-12-13-14-vários-tipos-de-hidrocarbonetos-que-existem"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-17-alguns",
+      "relation": "apresentam",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-20-21-22-23-24-maior-toxicidade-ao-ambiente"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-2-exemplo",
+      "relation": "são",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-5-6-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-policíclicos-aromáticos"
+    },
+    {
+      "subject_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-7-8-grande-parte",
+      "relation": "escoa",
+      "object_id": "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-30-31-32-33-34-mar-sem-qualquer-intervenção-humana"
+    }
+  ],
+  "links": {
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-2-3-4-5-6-7-massa-total-de-carbono-na-Terra": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S1-11-7": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-2-3-1-%": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S3-6-7-8-carbono-que-participa": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-3-4-5-6-80-%-do-carbono": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S4-15-16-17-18-19-carbono-inorgânico": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-2-3-MO": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S6-32-33-34-série-de-transformações": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-2-3-4-5-produto-final-do-processo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S7-12-13-querogênio": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S8-18-19-20-21-22-material-chamado-de-querogênio": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-2-3-4-aumento-de-temperatura": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S11-8-9-10-11-12-degradação-térmica-do-querogênio": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-22-23-querogênio": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S12-28-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-2-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S13-6-7-8-9-10-11-12-13-14-15-16-17-18-19-complexa-de-hidrocarbonetos-(-moléculas-formadas-principalmente-por-carbono-e-hidrogênio": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-1-2-3-4-5-6-Quando-ocorre-no-estado-gasoso": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S15-10-11-gás-natural": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S16-9-10-11-12-não-só-o-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-2-3-4-5-6-hidratos-de-gás": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S18-9-10-11-12-13-condições-bastante-específicas-de-pressão": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-112-113-114-115-rocha-impermeável": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S19-120-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-2-3-4-5-6-acumulação-comercial-de-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S20-12-13-associação-adequada": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-2-3-4-5-6-7-ausência-de-apenas-um-desses-fatores": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S21-13-14-15-16-17-18-19-20-formação-de-uma-jazida-petrolífera": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-4-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S22-10-áreas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-2-Brasil": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S25-4-5-6-7-35-bacias-sedimentares": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S27-7-8-subdividida": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S28-9-10-11-12-267-campos-produtores": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-5-6-7-8-9-desenvolvimento-de-petróleo-e-gás": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S29-11-12-13-14-15-16-focados-em-áreas-geográficas-específicas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-12-13": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S30-15-16-17-18-19-20-21-22-menos-um-poço-produzindo-petróleo-ou-gás-natural": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-1-2-Dessas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S32-7-8-9-10-11-12-bacias-de-Santos-e-de-Campos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-2-3-4-pré---sal": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S35-7-8-9-10-11-sequência-de-rochas-sedimentares": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-25-processos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S36-33-34-35-36-37-38-39-camada-orgânica-em-hidrocarbonetos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S37-9-10-11-camada-muito-profunda": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-2-3-4-5-6-7-dez-poços-com-maior-produção": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S40-13-14-15-localizados-nessa-área": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-2-3-4-5-mais-produtivo-deles": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S41-8-9-10-11-campo-de-Tupi,": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-2-3-4-5-6-campo-de-Tupi-por-completo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S42-9-10-11-12-13-14-maior-tanto-em-produção-de-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-49-50-779": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-52-terrestres": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-47-5": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S43-62-marinhos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-17-18-19-campos-marítimos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S44-23-24-25-26-27-28-2-%-do-petróleo-e-81": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-14-15-Amazônia-Azul": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S45-19-20-21-22-23-24-25-26-27-28-29-quase-toda-a-produção-de-petróleo-e-gás-natural-do-país": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-2-3-4-5-6-grande-número-de-poços": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S46-16-17-18-19-padrão-usual-da-indústria": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-8-9-10-11-exploração-e-produção-marítima": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S47-17-18-19-20-21-águas-cada-vez-mais-profundas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S49-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-lugar-no-ranking-de-produção-de-petróleo-mundial-e-no-ranking-de-produção-de-gás-natural": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-5-país": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S51-9-10-11-12-13-volume-muito-grande-de-reservas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-3-4-5-reservas-totais": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S53-8-9-10-11-12-soma-das-reservas-provadas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-2-3-4-5-6-história-da-exploração-de-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S55-12-13-século-XIX": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-2-3-descoberta,": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S58-8-9-10-11-12-13-14-novos-trabalhos-exploratórios-nas-imediações": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-2-3-4-5-6-êxito-obtido-em-Lobato": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S59-10-11-12-13-14-15-país-a-minimizar-sua-dependência": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-2-decreto": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S61-5-6-7-8-petróleo-patrimônio-da-União": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-19-20-21-22-23-24-movimentos-de-partidos-políticos-de-esquerda": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S62-29-campanha": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-9-10-11-governo-Getúlio-Vargas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-14-Petrobras": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-4-outubro": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S63-19-Lei": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-5-governo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S64-11-12-13-14-15-16-17-operações-de-importação-de-óleo-e-gás": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-8-9-10-áreas-de-exploração": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S65-12-13-14-15-16-17-18-se-expandindo,-com-a-descoberta": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-8-companhia": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-13-14-15-primeira-no-mundo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S68-11-se": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-2-3-4-5-6-7-investimentos-em-desenvolvimento-tecnológico-no-país": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S69-14-15-16-17-recordes-significativos-de-produção": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-7-8-9-tecnologia-de-ponta": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-20-21-tais-conhecimentos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-27-28-outros-fins": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S70-14-15-16-17-exploração-de-águas-profundas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-2-3-4-Lei-do-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S71-16-nova": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-3-mudanças": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-23-24-25-26-Petrobras-nas-responsabilidades": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S72-6-7-8-9-10-11-12-13-14-criação-da-Agência-Nacional-do-Petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-2-lei": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S73-5-6-7-8-9-10-11-formação-de-parcerias-com-empresas-interessadas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S74-7-8-9-10-empresa-de-capital-aberto": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S75-7-8-9-10-11-12-13-exploração-do-petróleo-presente-na-Amazônia-Azul": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-8-processo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-25-26-27-fases-de-exploração": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-11-12-13-toda-a-cadeia": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S76-2-3-4-5-atividade-petrolífera": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S77-10-11-12-três-setores-principais": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-11-12-exploração,": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S79-16-17-18-estudos-preliminares": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-1-2-Nesta-fase": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S80-5-6-7-analisar-o-solo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-2-3-geologia": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S81-5-6-7-8-9-10-11-12-13-14-15-16-17-estudos-na-superfície-que-permitem-um-exame-detalhado-das-camadas-de-rochas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-2-3-perfuração": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S85-6-7-8-9-10-utilizando---se-uma-sonda": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-2-trabalho": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S87-5-6-7-8-através-de-uma-torre": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-2-3-4-5-ponta-do-primeiro-tubo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-8-9-10-11-se-a-broca": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-10-11-broca": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S88-23-24-25-caminho-das-camadas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-2-3-avaliação-é": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S90-7-8-9-10-se-é-comercialmente-viável": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S91-14-15-16-campo-de-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-1-2-Elevação": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S93-5-6-7-8-9-10-11-termo-utilizado-na-indústria-petrolífera": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-2-elevação": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S94-8-9-forma-artificial": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-2-3-elevação-natural": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-quando-a-pressão-do-reservatório-é-suficiente-para-que-o-fluido-alcance-livremente-a-superfície": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-7-8-9-10-pressão-do-reservatório": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S95-16-fluido": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-1-2-Neste-caso": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S96-8-9-10-11-poço-é-surgente": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-2-3-4-trabalhos-em-mar": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S100-7-8-9-10-11-mesmos-critérios-aplicados-em-terra": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S101-1-2-3-4-5-Junto-à-descoberta-do-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S102-7-junto": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-5-6-7-8-9-maior-parte-do-extraído": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S103-12-13-14-15-gás-associado-ao-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-3-gás": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S104-5-associado": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-4-5-parte-deles": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S106-8-9-10-11-12-disponibilidade-para-futuras-extrações": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-6-7-8-9-aproximadamente-5.-700": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S108-12-13-14-15-petróleo,-gás-natural": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S109-1-2-3-Tais-poços": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-6-7-mistura-complexa": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S110-17-18-19-muitas-utilidades": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-1-2-3-4-Refinar-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S112-7-8-9-suas-frações": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-1-É": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S114-7-8-9-10-11-petróleo-em-relação-a-seus": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-9-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S115-25-26-27-refinarias": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-infraestrutura-e-a-logística-de-processamento-e-de-movimentação-de-petróleo-e-derivados-do-país": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S119-21-22-23-24-25-26-27-28-instaladas-em-função-do-refino-do-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-2-Petrobras": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-4-5-6-7-8-9-10-15-refinarias-instaladas-no-Brasil": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-14-oito": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-18-zona": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-16-localizadas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S121-10-Brasil": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S122-14-15-16-17-18-19-20-gerar-diversos-produtos-finais-através-do-petróleo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-6-7-72-%": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S124-11-12-13-14-15-consumo-(-descarga-operacionais": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S126-57-enorme": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-1-Ademais": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S128-4-5-6-7-8-9-10-11-12-13-14-15-16-17-impactos-na-cadeia-produtiva-do-petróleo-que-afetam-indiretamente-os-mares": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S130-5-6-7-8-9-matéria-prima-dos-plásticos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-2-3-4-5-6-7-8-contaminação-por-hidrocarbonetos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S131-12-13-14-15-16-efeitos-negativos-nos-ecossistemas": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-1-Estudos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-6-7-8-9-10-11-12-13-14-vários-tipos-de-hidrocarbonetos-que-existem": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-17-alguns": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S132-20-21-22-23-24-maior-toxicidade-ao-ambiente": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-2-exemplo": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S133-5-6-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-policíclicos-aromáticos": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-7-8-grande-parte": [],
+    "303f3b3d-55a9-49f8-b844-3e078f84f8a8-S135-30-31-32-33-34-mar-sem-qualquer-intervenção-humana": []
+  }
+}

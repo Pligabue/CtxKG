@@ -1,0 +1,76 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Urbanizacao do Brasil.txt",
+  "entities": {
+    "9f14a457-948a-426a-babd-619add57050d-S4-1-2-3-Faixa-terrestre": "Faixa terrestre",
+    "9f14a457-948a-426a-babd-619add57050d-S4-6-espaço": "espaço",
+    "9f14a457-948a-426a-babd-619add57050d-S17-7-8-9-10-novo-ato-normativo": "novo ato normativo",
+    "9f14a457-948a-426a-babd-619add57050d-S17-12-publicado": "publicado",
+    "9f14a457-948a-426a-babd-619add57050d-S37-4-5-6-7-8-13-das-27-capitais-brasileiras": "13 das 27 capitais brasileiras",
+    "9f14a457-948a-426a-babd-619add57050d-S37-12-13-14-15-municípios-litorâneos": "municípios litorâneos",
+    "9f14a457-948a-426a-babd-619add57050d-S40-2-3-4-5-6-áreas-de-grande-densidade-populacional": "áreas de grande densidade populacional",
+    "9f14a457-948a-426a-babd-619add57050d-S40-12-13-14-15-16-17-18-áreas-de-ocupação-mais-rarefeita": "áreas de ocupação mais rarefeita",
+    "9f14a457-948a-426a-babd-619add57050d-S43-2-3-segundo,": "segundo,",
+    "9f14a457-948a-426a-babd-619add57050d-S43-8-9-10-litoral-setentrional": "litoral setentrional",
+    "9f14a457-948a-426a-babd-619add57050d-S46-24-25-26-impurezas": "impurezas",
+    "9f14a457-948a-426a-babd-619add57050d-S46-35-36-37-38-verdadeiro-berçário": "verdadeiro berçário",
+    "9f14a457-948a-426a-babd-619add57050d-S49-10-oceano": "oceano",
+    "9f14a457-948a-426a-babd-619add57050d-S49-12-13-14-15-16-servindo-como-o-destino-final": "servindo como o destino final"
+  },
+  "graph": [
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S4-1-2-3-Faixa-terrestre",
+      "relation": "é o",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S4-6-espaço"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S17-7-8-9-10-novo-ato-normativo",
+      "relation": "foi",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S17-12-publicado"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S37-4-5-6-7-8-13-das-27-capitais-brasileiras",
+      "relation": "estão",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S37-12-13-14-15-municípios-litorâneos"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S40-2-3-4-5-6-áreas-de-grande-densidade-populacional",
+      "relation": "são intercaladas",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S40-12-13-14-15-16-17-18-áreas-de-ocupação-mais-rarefeita"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S43-2-3-segundo,",
+      "relation": "compreende o restante",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S43-8-9-10-litoral-setentrional"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S46-24-25-26-impurezas",
+      "relation": "servem como um",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S46-35-36-37-38-verdadeiro-berçário"
+    },
+    {
+      "subject_id": "9f14a457-948a-426a-babd-619add57050d-S49-10-oceano",
+      "relation": "vem",
+      "object_id": "9f14a457-948a-426a-babd-619add57050d-S49-12-13-14-15-16-servindo-como-o-destino-final"
+    }
+  ],
+  "links": {
+    "9f14a457-948a-426a-babd-619add57050d-S4-1-2-3-Faixa-terrestre": [],
+    "9f14a457-948a-426a-babd-619add57050d-S4-6-espaço": [],
+    "9f14a457-948a-426a-babd-619add57050d-S17-7-8-9-10-novo-ato-normativo": [],
+    "9f14a457-948a-426a-babd-619add57050d-S17-12-publicado": [],
+    "9f14a457-948a-426a-babd-619add57050d-S37-4-5-6-7-8-13-das-27-capitais-brasileiras": [],
+    "9f14a457-948a-426a-babd-619add57050d-S37-12-13-14-15-municípios-litorâneos": [],
+    "9f14a457-948a-426a-babd-619add57050d-S40-2-3-4-5-6-áreas-de-grande-densidade-populacional": [
+      "9f14a457-948a-426a-babd-619add57050d-S40-12-13-14-15-16-17-18-áreas-de-ocupação-mais-rarefeita"
+    ],
+    "9f14a457-948a-426a-babd-619add57050d-S40-12-13-14-15-16-17-18-áreas-de-ocupação-mais-rarefeita": [
+      "9f14a457-948a-426a-babd-619add57050d-S40-2-3-4-5-6-áreas-de-grande-densidade-populacional"
+    ],
+    "9f14a457-948a-426a-babd-619add57050d-S43-2-3-segundo,": [],
+    "9f14a457-948a-426a-babd-619add57050d-S43-8-9-10-litoral-setentrional": [],
+    "9f14a457-948a-426a-babd-619add57050d-S46-24-25-26-impurezas": [],
+    "9f14a457-948a-426a-babd-619add57050d-S46-35-36-37-38-verdadeiro-berçário": [],
+    "9f14a457-948a-426a-babd-619add57050d-S49-10-oceano": [],
+    "9f14a457-948a-426a-babd-619add57050d-S49-12-13-14-15-16-servindo-como-o-destino-final": []
+  }
+}

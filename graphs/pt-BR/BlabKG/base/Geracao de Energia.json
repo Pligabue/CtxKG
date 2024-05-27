@@ -1,0 +1,321 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Geracao de Energia.txt",
+  "entities": {
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-1-2-3-Recursos-energéticos": "Recursos energéticos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-5-6-7-quaisquer-recursos-naturais": "quaisquer recursos naturais",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-2-3-Amazônia-Azul": "Amazônia Azul",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-6-7-8-9-10-11-grande-quantidade-de-recursos-energéticos": "grande quantidade de recursos energéticos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-1-2-Abaixo,": "Abaixo,",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-4-5-6-7-8-9-10-11-12-13-14-compiladas-informações-de-artigos-do-Instituto-Oceanográfico-da-USP": "compiladas informações de artigos do Instituto Oceanográfico da USP",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-2-3-marés": "marés",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-5-6-7-8-9-10-11-movimentos-oscilatórios-do-nível-do-mar": "movimentos oscilatórios do nível do mar",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-1-2-3-Existem-duas-tecnologias": "Existem duas tecnologias",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-5-6-7-desenvolvidas-no-mundo": "desenvolvidas no mundo",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-2-3-4-5-6-7-8-primeira-usina-de-barragem-de-maré": "primeira usina de barragem de maré",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-12-13-estuário": "estuário",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-4-5-6-7-construção-de-barragens": "construção de barragens",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-16-17-18-19-20-21-22-23-24-25-26-27-custo-ambiental-elevado-por-causa-da-deterioração-dos-habitats-marinhos": "custo ambiental elevado por causa da deterioração dos habitats marinhos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-1-2-3-4-5-6-7-8-9-10-11-12-13-Ambientes-costeiros-com-grande-amplitude-de-marés-na-costa-brasileira": "Ambientes costeiros com grande amplitude de marés na costa brasileira",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-15-16-17-18-19-restritos-à-região-Norte": "restritos à região Norte",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-6-7-8-9-correntes-de-maré": "correntes de maré",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-12-13-intensas": "intensas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-2-3-4-ondas-do-mar": "ondas do mar",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-8-9-10-11-12-transferência-de-energia-dos-ventos": "transferência de energia dos ventos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-2-ventos": "ventos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-11-12-13-14-15-16-17-18-19-gradientes-de-pressão-existentes-na-superfície-terrestre": "gradientes de pressão existentes na superfície terrestre",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-1-2-3-4-5-Estudos-feitos-na-costa-oeste": "Estudos feitos na costa oeste",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-12-média": "média",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-2-3-4-5-6-7-8-9-10-11-primeiro-projeto---piloto-de-usina-de-ondas-no-Brasil": "primeiro projeto - piloto de usina de ondas no Brasil",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-21-porto": "porto",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-2-protótipo": "protótipo",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-7-8-9-10-parceria-entre-Coppe": "parceria entre Coppe",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-5-6-7-8-9-10-11-potencial-de-geração-de-energia-das-ondas": "potencial de geração de energia das ondas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-17-18-bastante-substancial": "bastante substancial",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-2-energia": "energia",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-8-9-10-11-12-13-14-15-16-17-18-19-gerar-eletricidade-utilizando-os-mesmos-moinhos-de-vento-submarinos-já": "gerar eletricidade utilizando os mesmos moinhos de vento submarinos já",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-1-2-3-4-Pequenas-estações-costeiras": "Pequenas estações costeiras",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-8-9-10-11-12-13-14-energia-cinética-das-correntes-geradas": "energia cinética das correntes geradas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-2-3-4-água-do-mar": "água do mar",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-6-7-8-9-maiores-temperaturas-na-superfície": "maiores temperaturas na superfície",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-22-23-24-25-diferenças-são-altas-podendo": "diferenças são altas podendo",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-29-30-31-10°C": "10°C",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-5-6-7-8-9-10-Continental-Média-dos-estados-do-Rio": "Continental Média dos estados do Rio",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-2-3-4-5-6-7-8-9-10-aproveitamento-desses-gradientes-verticais-de-temperatura": "aproveitamento desses gradientes verticais de temperatura",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-13-14-15-16-17-ciclo-de-evaporação": "ciclo de evaporação",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-5-6-amônia": "amônia",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-1-2-Nesse-caso": "Nesse caso",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-1-2-3-4-5-6-Gradientes-osmóticos": "Gradientes osmóticos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-10-mar": "mar",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-2-tecnologia": "tecnologia",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-8-9-10-11-aplicação-em-nossos-maiores": "aplicação em nossos maiores",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-2-3-fortes-ventos": "fortes ventos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-10-continente": "continente",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-30-ventos": "ventos",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-2-3-4-5-maior-parte-dessas-estruturas": "maior parte dessas estruturas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-7-8-9-10-11-12-fixada-no-leito-do-oceano": "fixada no leito do oceano",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-36-37-geração-elétrica": "geração elétrica",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-6-apenas": "apenas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-2-3-4-5-6-7-expansão-da-geração-de-energia-prevista": "expansão da geração de energia prevista",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-10-11-12-13-14-implantação-de-projetos-de-diferentes": "implantação de projetos de diferentes",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-2-exemplo": "exemplo",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-5-6-7-8-9-10-usinas-nucleares-de-Angra-dos-Reis": "usinas nucleares de Angra dos Reis",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-5-6-7-8-9-formas-de-geração-de-energia": "formas de geração de energia",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-14-15-algum-nível": "algum nível",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-3-todas": "todas",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-2-3-4-5-6-energia-gerada-das-fontes-fósseis": "energia gerada das fontes fósseis",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-8-9-10-11-12-13-14-15-16-17-18-19-20-21-impactos-devido-à-emissão-de-gases-de-efeito-estufa-durante-a-sua-queima": "impactos devido à emissão de gases de efeito estufa durante a sua queima",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-2-3-energia-nuclear": "energia nuclear",
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-6-7-8-9-10-impactos-relacionados-ao-despejo": "impactos relacionados ao despejo"
+  },
+  "graph": [
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-1-2-3-Recursos-energéticos",
+      "relation": "são",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-5-6-7-quaisquer-recursos-naturais"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-2-3-Amazônia-Azul",
+      "relation": "oferece uma",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-6-7-8-9-10-11-grande-quantidade-de-recursos-energéticos"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-1-2-Abaixo,",
+      "relation": "foram compiladas",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-4-5-6-7-8-9-10-11-12-13-14-compiladas-informações-de-artigos-do-Instituto-Oceanográfico-da-USP"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-2-3-marés",
+      "relation": "são",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-5-6-7-8-9-10-11-movimentos-oscilatórios-do-nível-do-mar"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-1-2-3-Existem-duas-tecnologias",
+      "relation": "sendo",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-5-6-7-desenvolvidas-no-mundo"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-2-3-4-5-6-7-8-primeira-usina-de-barragem-de-maré",
+      "relation": "foi construída",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-12-13-estuário"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-4-5-6-7-construção-de-barragens",
+      "relation": "tem",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-16-17-18-19-20-21-22-23-24-25-26-27-custo-ambiental-elevado-por-causa-da-deterioração-dos-habitats-marinhos"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-1-2-3-4-5-6-7-8-9-10-11-12-13-Ambientes-costeiros-com-grande-amplitude-de-marés-na-costa-brasileira",
+      "relation": "ficam",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-15-16-17-18-19-restritos-à-região-Norte"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-6-7-8-9-correntes-de-maré",
+      "relation": "são intensas",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-12-13-intensas"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-2-3-4-ondas-do-mar",
+      "relation": "são consequência",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-8-9-10-11-12-transferência-de-energia-dos-ventos"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-2-ventos",
+      "relation": "são causados",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-11-12-13-14-15-16-17-18-19-gradientes-de-pressão-existentes-na-superfície-terrestre"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-1-2-3-4-5-Estudos-feitos-na-costa-oeste",
+      "relation": "estimam",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-12-média"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-2-3-4-5-6-7-8-9-10-11-primeiro-projeto---piloto-de-usina-de-ondas-no-Brasil",
+      "relation": "foi instalado",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-21-porto"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-2-protótipo",
+      "relation": "foi resultado",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-7-8-9-10-parceria-entre-Coppe"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-5-6-7-8-9-10-11-potencial-de-geração-de-energia-das-ondas",
+      "relation": "é",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-17-18-bastante-substancial"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-2-energia",
+      "relation": "pode ser aproveitada",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-8-9-10-11-12-13-14-15-16-17-18-19-gerar-eletricidade-utilizando-os-mesmos-moinhos-de-vento-submarinos-já"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-1-2-3-4-Pequenas-estações-costeiras",
+      "relation": "poderiam transformar",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-8-9-10-11-12-13-14-energia-cinética-das-correntes-geradas"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-2-3-4-água-do-mar",
+      "relation": "tem",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-6-7-8-9-maiores-temperaturas-na-superfície"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-22-23-24-25-diferenças-são-altas-podendo",
+      "relation": "ser superiores a",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-29-30-31-10°C"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-5-6-7-8-9-10-Continental-Média-dos-estados-do-Rio",
+      "relation": "ser superiores a",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-29-30-31-10°C"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-2-3-4-5-6-7-8-9-10-aproveitamento-desses-gradientes-verticais-de-temperatura",
+      "relation": "envolve",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-13-14-15-16-17-ciclo-de-evaporação"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-5-6-amônia",
+      "relation": "é",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-1-2-Nesse-caso"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-1-2-3-4-5-6-Gradientes-osmóticos",
+      "relation": "são comuns",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-10-mar"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-2-tecnologia",
+      "relation": "poderia ser estudada",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-8-9-10-11-aplicação-em-nossos-maiores"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-2-3-fortes-ventos",
+      "relation": "sopram",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-10-continente"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-30-ventos",
+      "relation": "sopram",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-10-continente"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-2-3-4-5-maior-parte-dessas-estruturas",
+      "relation": "está",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-7-8-9-10-11-12-fixada-no-leito-do-oceano"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-36-37-geração-elétrica",
+      "relation": "fosse",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-6-apenas"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-2-3-4-5-6-7-expansão-da-geração-de-energia-prevista",
+      "relation": "incluía",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-10-11-12-13-14-implantação-de-projetos-de-diferentes"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-2-exemplo",
+      "relation": "são",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-5-6-7-8-9-10-usinas-nucleares-de-Angra-dos-Reis"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-5-6-7-8-9-formas-de-geração-de-energia",
+      "relation": "geram",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-14-15-algum-nível"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-3-todas",
+      "relation": "geram",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-14-15-algum-nível"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-2-3-4-5-6-energia-gerada-das-fontes-fósseis",
+      "relation": "tem",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-8-9-10-11-12-13-14-15-16-17-18-19-20-21-impactos-devido-à-emissão-de-gases-de-efeito-estufa-durante-a-sua-queima"
+    },
+    {
+      "subject_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-2-3-energia-nuclear",
+      "relation": "pode ter",
+      "object_id": "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-6-7-8-9-10-impactos-relacionados-ao-despejo"
+    }
+  ],
+  "links": {
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-1-2-3-Recursos-energéticos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S0-5-6-7-quaisquer-recursos-naturais": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-2-3-Amazônia-Azul": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S1-6-7-8-9-10-11-grande-quantidade-de-recursos-energéticos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-1-2-Abaixo,": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S6-4-5-6-7-8-9-10-11-12-13-14-compiladas-informações-de-artigos-do-Instituto-Oceanográfico-da-USP": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-2-3-marés": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S7-5-6-7-8-9-10-11-movimentos-oscilatórios-do-nível-do-mar": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-1-2-3-Existem-duas-tecnologias": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S13-5-6-7-desenvolvidas-no-mundo": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-2-3-4-5-6-7-8-primeira-usina-de-barragem-de-maré": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S16-12-13-estuário": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-4-5-6-7-construção-de-barragens": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S17-16-17-18-19-20-21-22-23-24-25-26-27-custo-ambiental-elevado-por-causa-da-deterioração-dos-habitats-marinhos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-1-2-3-4-5-6-7-8-9-10-11-12-13-Ambientes-costeiros-com-grande-amplitude-de-marés-na-costa-brasileira": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S19-15-16-17-18-19-restritos-à-região-Norte": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-6-7-8-9-correntes-de-maré": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S20-12-13-intensas": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-2-3-4-ondas-do-mar": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-2-3-4-água-do-mar"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-8-9-10-11-12-transferência-de-energia-dos-ventos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-2-ventos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S22-11-12-13-14-15-16-17-18-19-gradientes-de-pressão-existentes-na-superfície-terrestre": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-1-2-3-4-5-Estudos-feitos-na-costa-oeste": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S27-12-média": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-2-3-4-5-6-7-8-9-10-11-primeiro-projeto---piloto-de-usina-de-ondas-no-Brasil": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S29-21-porto": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-2-protótipo": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S32-7-8-9-10-parceria-entre-Coppe": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-5-6-7-8-9-10-11-potencial-de-geração-de-energia-das-ondas": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-5-6-7-8-9-formas-de-geração-de-energia"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-17-18-bastante-substancial": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-2-energia": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S41-8-9-10-11-12-13-14-15-16-17-18-19-gerar-eletricidade-utilizando-os-mesmos-moinhos-de-vento-submarinos-já": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-1-2-3-4-Pequenas-estações-costeiras": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S42-8-9-10-11-12-13-14-energia-cinética-das-correntes-geradas": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-2-3-4-água-do-mar": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S21-2-3-4-ondas-do-mar"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S44-6-7-8-9-maiores-temperaturas-na-superfície": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-22-23-24-25-diferenças-são-altas-podendo": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-29-30-31-10°C": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S46-5-6-7-8-9-10-Continental-Média-dos-estados-do-Rio": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-2-3-4-5-6-7-8-9-10-aproveitamento-desses-gradientes-verticais-de-temperatura": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S47-13-14-15-16-17-ciclo-de-evaporação": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-5-6-amônia": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S48-1-2-Nesse-caso": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-1-2-3-4-5-6-Gradientes-osmóticos": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S50-10-mar": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-2-tecnologia": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S52-8-9-10-11-aplicação-em-nossos-maiores": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-2-3-fortes-ventos": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-30-ventos"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-10-continente": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-30-ventos": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S53-2-3-fortes-ventos"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-2-3-4-5-maior-parte-dessas-estruturas": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S55-7-8-9-10-11-12-fixada-no-leito-do-oceano": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-36-37-geração-elétrica": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S61-6-apenas": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-2-3-4-5-6-7-expansão-da-geração-de-energia-prevista": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S66-10-11-12-13-14-implantação-de-projetos-de-diferentes": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-2-exemplo": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S70-5-6-7-8-9-10-usinas-nucleares-de-Angra-dos-Reis": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-5-6-7-8-9-formas-de-geração-de-energia": [
+      "fe52b29d-aee7-45b3-bf01-3a98f2801373-S33-5-6-7-8-9-10-11-potencial-de-geração-de-energia-das-ondas"
+    ],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-14-15-algum-nível": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S71-3-todas": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-2-3-4-5-6-energia-gerada-das-fontes-fósseis": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S72-8-9-10-11-12-13-14-15-16-17-18-19-20-21-impactos-devido-à-emissão-de-gases-de-efeito-estufa-durante-a-sua-queima": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-2-3-energia-nuclear": [],
+    "fe52b29d-aee7-45b3-bf01-3a98f2801373-S73-6-7-8-9-10-impactos-relacionados-ao-despejo": []
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Constituicao Federal.txt",
+  "entities": {
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-1-2-21°": "21°",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-5-6-7-8-9-compete-ainda-à-União": "compete ainda à União",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-1-2-3-4-5-6-23,-inciso-VI,": "23, inciso VI,",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-8-9-10-11-12-13-14-15-16-17-18-,-por-sua-vez,-competência-legislativa-comum-entre-União": ", por sua vez, competência legislativa comum entre União",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S14-10-11-12-13-14-bens-dos-Estados-as-áreas": "bens dos Estados as áreas",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-1-2-3-4-5-225-da-Constituição-Federal": "225 da Constituição Federal",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-10-11-12-13-14-15-16-17-18-19-dever-do-Poder-Público-e-da-coletividade-de-defender": "dever do Poder Público e da coletividade de defender",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-2-3-meio-ambiente": "meio ambiente",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-5-definido": "definido",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-8-bem": "bem",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-1-2-225": "225",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-8-9-10-zona-costeira-é-patrimônio-nacional": "zona costeira é patrimônio nacional",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-zona-costeira": "zona costeira",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-10-nacional": "nacional",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-10-11-\"-Todos": "\" Todos",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-15-16-17-18-19-meio-ambiente-ecologicamente": "meio ambiente ecologicamente",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-6-7-Constituição-Federal": "Constituição Federal",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-14-15-16-17-18-19-20-forma-desconexa-ao-sistema-jurídico": "forma desconexa ao sistema jurídico",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-1-É": "É",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-2-Nesse-contexto": "Nesse contexto",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-10-11-Lei-n": "Lei n",
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-Nesse": "Nesse"
+  },
+  "graph": [
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-1-2-21°",
+      "relation": "diz",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-5-6-7-8-9-compete-ainda-à-União"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-1-2-3-4-5-6-23,-inciso-VI,",
+      "relation": "determina",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-8-9-10-11-12-13-14-15-16-17-18-,-por-sua-vez,-competência-legislativa-comum-entre-União"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-1-2-3-4-5-6-23,-inciso-VI,",
+      "relation": "inclui",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S14-10-11-12-13-14-bens-dos-Estados-as-áreas"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-1-2-3-4-5-225-da-Constituição-Federal",
+      "relation": "estabelece o",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-10-11-12-13-14-15-16-17-18-19-dever-do-Poder-Público-e-da-coletividade-de-defender"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-2-3-meio-ambiente",
+      "relation": "é",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-5-definido"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-2-3-meio-ambiente",
+      "relation": "é",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-8-bem"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-1-2-225",
+      "relation": "estabelece",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-8-9-10-zona-costeira-é-patrimônio-nacional"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-zona-costeira",
+      "relation": "é patrimônio",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-10-nacional"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-10-11-\"-Todos",
+      "relation": "têm direito",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-15-16-17-18-19-meio-ambiente-ecologicamente"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-6-7-Constituição-Federal",
+      "relation": "deve ser analisada",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-14-15-16-17-18-19-20-forma-desconexa-ao-sistema-jurídico"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-6-7-Constituição-Federal",
+      "relation": "não",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-1-É"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-2-Nesse-contexto",
+      "relation": "pode -",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-10-11-Lei-n"
+    },
+    {
+      "subject_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-Nesse",
+      "relation": "mencionar",
+      "object_id": "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-10-11-Lei-n"
+    }
+  ],
+  "links": {
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-1-2-21°": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S6-5-6-7-8-9-compete-ainda-à-União": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-1-2-3-4-5-6-23,-inciso-VI,": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S10-8-9-10-11-12-13-14-15-16-17-18-,-por-sua-vez,-competência-legislativa-comum-entre-União": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S14-10-11-12-13-14-bens-dos-Estados-as-áreas": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-1-2-3-4-5-225-da-Constituição-Federal": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S16-10-11-12-13-14-15-16-17-18-19-dever-do-Poder-Público-e-da-coletividade-de-defender": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-2-3-meio-ambiente": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-5-definido": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S17-8-bem": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-1-2-225": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-8-9-10-zona-costeira-é-patrimônio-nacional": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-6-7-zona-costeira": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S19-10-nacional": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-10-11-\"-Todos": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S21-15-16-17-18-19-meio-ambiente-ecologicamente": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-6-7-Constituição-Federal": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-14-15-16-17-18-19-20-forma-desconexa-ao-sistema-jurídico": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S25-1-É": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-2-Nesse-contexto": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-10-11-Lei-n": [],
+    "b1df99c5-9563-4657-a3a6-ad5b572f9883-S26-1-Nesse": []
+  }
+}

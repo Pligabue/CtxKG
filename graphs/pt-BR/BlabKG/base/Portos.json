@@ -1,0 +1,561 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Portos.txt",
+  "entities": {
+    "97434736-6364-49bf-9252-c95183146c2e-S0-2-portos": "portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S0-7-8-9-10-11-sistema-de-transporte-marítimo-mundial": "sistema de transporte marítimo mundial",
+    "97434736-6364-49bf-9252-c95183146c2e-S1-1-2-Cada-viagem": "Cada viagem",
+    "97434736-6364-49bf-9252-c95183146c2e-S1-11-porto": "porto",
+    "97434736-6364-49bf-9252-c95183146c2e-S2-5-6-7-8-9-10-quase-80-%-do-comércio-internacional": "quase 80 % do comércio internacional",
+    "97434736-6364-49bf-9252-c95183146c2e-S2-12-13-14-15-16-feito-por-vias-marítimas": "feito por vias marítimas",
+    "97434736-6364-49bf-9252-c95183146c2e-S3-1-2-Além-disso": "Além disso",
+    "97434736-6364-49bf-9252-c95183146c2e-S3-6-7-8-9-10-11-12-13-14-15-se-o-número-expressivo-de-portos-marítimos-brasileiros": "se o número expressivo de portos marítimos brasileiros",
+    "97434736-6364-49bf-9252-c95183146c2e-S4-18-Brasil": "Brasil",
+    "97434736-6364-49bf-9252-c95183146c2e-S4-1-2-3-4-5-6-7-Segundo-dados-da-Agência-Nacional-de-Transportes": "Segundo dados da Agência Nacional de Transportes",
+    "97434736-6364-49bf-9252-c95183146c2e-S4-47-48-alguns-desses": "alguns desses",
+    "97434736-6364-49bf-9252-c95183146c2e-S4-51-52-agrupados": "agrupados",
+    "97434736-6364-49bf-9252-c95183146c2e-S5-4-99": "99",
+    "97434736-6364-49bf-9252-c95183146c2e-S5-8-9-10-11-12-13-longo-da-costa-litorânea": "longo da costa litorânea",
+    "97434736-6364-49bf-9252-c95183146c2e-S6-2-3-outros-76": "outros 76",
+    "97434736-6364-49bf-9252-c95183146c2e-S6-6-7-8-9-10-11-12-13-bacias-hidrográficas-para-escoar-as-mercadorias": "bacias hidrográficas para escoar as mercadorias",
+    "97434736-6364-49bf-9252-c95183146c2e-S8-2-porto": "porto",
+    "97434736-6364-49bf-9252-c95183146c2e-S8-19-20-porto-marítimo": "porto marítimo",
+    "97434736-6364-49bf-9252-c95183146c2e-S9-2-3-4-5-6-7-8-9-beira-de-hidrovias-(-rios-ou-lagos": "beira de hidrovias ( rios ou lagos",
+    "97434736-6364-49bf-9252-c95183146c2e-S9-14-15-porto-fluvial": "porto fluvial",
+    "97434736-6364-49bf-9252-c95183146c2e-S10-4-5-marinas": "marinas",
+    "97434736-6364-49bf-9252-c95183146c2e-S10-9-10-11-12-pequenos-centros-portuários": "pequenos centros portuários",
+    "97434736-6364-49bf-9252-c95183146c2e-S12-6-7-marinas": "marinas",
+    "97434736-6364-49bf-9252-c95183146c2e-S12-12-limpeza": "limpeza",
+    "97434736-6364-49bf-9252-c95183146c2e-S13-2-3-4-sistema-portuário": "sistema portuário",
+    "97434736-6364-49bf-9252-c95183146c2e-S13-11-12-13-14-conjunto-de-subsistemas": "conjunto de subsistemas",
+    "97434736-6364-49bf-9252-c95183146c2e-S14-12-13-14-15-transporte-aquaviário": "transporte aquaviário",
+    "97434736-6364-49bf-9252-c95183146c2e-S14-19-20-21-22-23-24-25-modal-de-menor-custo-unitário": "modal de menor custo unitário",
+    "97434736-6364-49bf-9252-c95183146c2e-S15-2-3-,-portos": ", portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S15-9-10-11-12-13-14-reduzir-custos-na-distribuição-de-bens": "reduzir custos na distribuição de bens",
+    "97434736-6364-49bf-9252-c95183146c2e-S16-1-2-3-4-Ademais,-os-portos": "Ademais, os portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S16-9-10-suas-regiões": "suas regiões",
+    "97434736-6364-49bf-9252-c95183146c2e-S18-4-portos": "portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S18-10-11-12-13-14-15-16-suas-operações-de-movimentação-de-cargas,": "suas operações de movimentação de cargas,",
+    "97434736-6364-49bf-9252-c95183146c2e-S19-2-3-4-localização-dos-portos": "localização dos portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S19-6-7-8-9-10-11-12-13-14-geralmente-determinada-pela-localização-de-suas-fontes-de-oferta": "geralmente determinada pela localização de suas fontes de oferta",
+    "97434736-6364-49bf-9252-c95183146c2e-S23-2-3-4-5-6-7-Global-Competitiveness": "Global Competitiveness",
+    "97434736-6364-49bf-9252-c95183146c2e-S23-22-23-24-25-26-27-28-qualidade-da-infraestrutura-portuária-do-Brasil": "qualidade da infraestrutura portuária do Brasil",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-13-Colômbia": "Colômbia",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-28-29-30-portos-fluviais": "portos fluviais",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-2-3-4-América-do-Sul": "América do Sul",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-8-melhor": "melhor",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-10-Argentina": "Argentina",
+    "97434736-6364-49bf-9252-c95183146c2e-S25-16-Peru": "Peru",
+    "97434736-6364-49bf-9252-c95183146c2e-S27-4-portos": "portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S27-8-9-funções-diferentes": "funções diferentes",
+    "97434736-6364-49bf-9252-c95183146c2e-S30-2-3-4-5-6-7-8-Terminal-Marítimo-de-Ponta-da-Madeira": "Terminal Marítimo de Ponta da Madeira",
+    "97434736-6364-49bf-9252-c95183146c2e-S30-11-12-porto-privado": "porto privado",
+    "97434736-6364-49bf-9252-c95183146c2e-S31-1-É": "É",
+    "97434736-6364-49bf-9252-c95183146c2e-S31-15-16-17-18-19-20-21-22-destaque-no-embarque-de-minério-de-ferro": "destaque no embarque de minério de ferro",
+    "97434736-6364-49bf-9252-c95183146c2e-S32-2-3-4-Porto-de-Santos": "Porto de Santos",
+    "97434736-6364-49bf-9252-c95183146c2e-S32-6-7-8-9-10-11-12-13-localizado-dentro-do-Complexo-Portuário-de-Santos": "localizado dentro do Complexo Portuário de Santos",
+    "97434736-6364-49bf-9252-c95183146c2e-S33-2-3-4-5-6-Complexo-Portuário-de-Santos": "Complexo Portuário de Santos",
+    "97434736-6364-49bf-9252-c95183146c2e-S33-10-11-12-13-14-outras-seis-instalações-portuárias": "outras seis instalações portuárias",
+    "97434736-6364-49bf-9252-c95183146c2e-S35-2-3-4-5-multipropósito": "multipropósito",
+    "97434736-6364-49bf-9252-c95183146c2e-S35-8-9-10-11-ampla-variedade-de-cargas": "ampla variedade de cargas",
+    "97434736-6364-49bf-9252-c95183146c2e-S36-2-3-4-2020,": "2020,",
+    "97434736-6364-49bf-9252-c95183146c2e-S36-6-responsável": "responsável",
+    "97434736-6364-49bf-9252-c95183146c2e-S38-1-2-3-4-5-Navios-de-cruzeiros": "Navios de cruzeiros",
+    "97434736-6364-49bf-9252-c95183146c2e-S38-8-9-10-11-Santos-regularmente-entre-outubro": "Santos regularmente entre outubro",
+    "97434736-6364-49bf-9252-c95183146c2e-S39-2-3-4-5-6-7-8-9-10-11-12-Autoridade-Portuária-de-Santos-S.-A.": "Autoridade Portuária de Santos S. A.",
+    "97434736-6364-49bf-9252-c95183146c2e-S39-15-16-17-empresa-estatal-responsável": "empresa estatal responsável",
+    "97434736-6364-49bf-9252-c95183146c2e-S41-2-Terminal": "Terminal",
+    "97434736-6364-49bf-9252-c95183146c2e-S41-16-17-18-19-suas-operações-em-1977": "suas operações em 1977",
+    "97434736-6364-49bf-9252-c95183146c2e-S42-2-,": ",",
+    "97434736-6364-49bf-9252-c95183146c2e-S42-6-7-8-9-10-transporte-de-petróleo-e-atende": "transporte de petróleo e atende",
+    "97434736-6364-49bf-9252-c95183146c2e-S49-2-3-4-5-Porto-de-Paranaguá": "Porto de Paranaguá",
+    "97434736-6364-49bf-9252-c95183146c2e-S49-8-9-10-11-12-13-14-15-16-porto-público,-localizado-na-cidade-de-Paranaguá": "porto público, localizado na cidade de Paranaguá",
+    "97434736-6364-49bf-9252-c95183146c2e-S52-2-3-4-5-Porto-de-Itaguai": "Porto de Itaguai",
+    "97434736-6364-49bf-9252-c95183146c2e-S52-8-9-10-porto-público,": "porto público,",
+    "97434736-6364-49bf-9252-c95183146c2e-S54-2-3-4-5-6-7-8-9-10-Estatístico-Aquaviário-da-Antaq": "Estatístico Aquaviário da Antaq",
+    "97434736-6364-49bf-9252-c95183146c2e-S54-13-14-15-16-17-18-19-atualizadas-sobre-a-movimentação-portuária": "atualizadas sobre a movimentação portuária",
+    "97434736-6364-49bf-9252-c95183146c2e-S56-7-área": "área",
+    "97434736-6364-49bf-9252-c95183146c2e-S56-18-19-20-21-22-23-24-25-instalações-portuárias-e-a-infraestrutura-de-proteção": "instalações portuárias e a infraestrutura de proteção",
+    "97434736-6364-49bf-9252-c95183146c2e-S57-1-2-3-4-Instalação-portuária": "Instalação portuária",
+    "97434736-6364-49bf-9252-c95183146c2e-S57-6-7-8-9-10-11-localizada-dentro-ou-fora-da-área": "localizada dentro ou fora da área",
+    "97434736-6364-49bf-9252-c95183146c2e-S63-3-4-5-6-terminais-de-uso-privado": "terminais de uso privado",
+    "97434736-6364-49bf-9252-c95183146c2e-S63-9-10-11-12-13-chamadas-instalações-portuárias-privadas": "chamadas instalações portuárias privadas",
+    "97434736-6364-49bf-9252-c95183146c2e-S65-13-14-15-atividade-portuária": "atividade portuária",
+    "97434736-6364-49bf-9252-c95183146c2e-S65-17-18-19-20-21-22-23-24-elevado-potencial-de-geração-de-impactos-ambientais-negativos": "elevado potencial de geração de impactos ambientais negativos",
+    "97434736-6364-49bf-9252-c95183146c2e-S66-1-2-3-4-Documentos-da-ONU": "Documentos da ONU",
+    "97434736-6364-49bf-9252-c95183146c2e-S66-8-9-10-11-12-13-14-15-impactos-diretos-dos-portos-em-três-categorias-principais": "impactos diretos dos portos em três categorias principais",
+    "97434736-6364-49bf-9252-c95183146c2e-S67-2-primeira": "primeira",
+    "97434736-6364-49bf-9252-c95183146c2e-S67-7-8-9-10-impactos-gerados-pelo-funcionamento": "impactos gerados pelo funcionamento",
+    "97434736-6364-49bf-9252-c95183146c2e-S69-2-3-4-5-6-7-8-9-10-maioria-da-tintas-anti---incrustantes": "maioria da tintas anti - incrustantes",
+    "97434736-6364-49bf-9252-c95183146c2e-S69-12-13-biocidas": "biocidas",
+    "97434736-6364-49bf-9252-c95183146c2e-S71-2-3-segunda-categoria": "segunda categoria",
+    "97434736-6364-49bf-9252-c95183146c2e-S71-6-7-8-9-10-11-impactos-causados-pela-construção,-funcionamento": "impactos causados pela construção, funcionamento",
+    "97434736-6364-49bf-9252-c95183146c2e-S73-19-20-muitos-portos": "muitos portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S73-24-25-26-27-manguezal": "manguezal",
+    "97434736-6364-49bf-9252-c95183146c2e-S73-17-humanidade": "humanidade",
+    "97434736-6364-49bf-9252-c95183146c2e-S76-13-14-15-16-17-porto-de-contêiner": "porto de contêiner",
+    "97434736-6364-49bf-9252-c95183146c2e-S76-19-20-21-22-23-24-25-26-ter-um-espaço-nivelado-para-armazenamento": "ter um espaço nivelado para armazenamento",
+    "97434736-6364-49bf-9252-c95183146c2e-S77-39-40-41-42-43-44-entorno-da-maioria-dos-portos-já": "entorno da maioria dos portos já",
+    "97434736-6364-49bf-9252-c95183146c2e-S77-46-47-48-49-50-comprometido-com-outras-atividades": "comprometido com outras atividades",
+    "97434736-6364-49bf-9252-c95183146c2e-S78-2-3-4-5-6-terceira-pressão-gerada-pelos-portos": "terceira pressão gerada pelos portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S78-8-9-10-11-12-13-14-15-16-17-18-19-20-devido-às-obras-de-aprofundamento-ou-alargamento-do-canal-de-acesso": "devido às obras de aprofundamento ou alargamento do canal de acesso",
+    "97434736-6364-49bf-9252-c95183146c2e-S80-2-tendência": "tendência",
+    "97434736-6364-49bf-9252-c95183146c2e-S80-4-5-6-implicações-diretas": "implicações diretas",
+    "97434736-6364-49bf-9252-c95183146c2e-S82-2-3-4-5-aprofundar-o-canal": "aprofundar o canal",
+    "97434736-6364-49bf-9252-c95183146c2e-S82-9-10-11-12-feita-a-dragagem": "feita a dragagem",
+    "97434736-6364-49bf-9252-c95183146c2e-S84-2-3-principal-objetivo": "principal objetivo",
+    "97434736-6364-49bf-9252-c95183146c2e-S84-5-6-7-8-9-10-11-realizar-a-manutenção-ou-aumentar-a-profundidade": "realizar a manutenção ou aumentar a profundidade",
+    "97434736-6364-49bf-9252-c95183146c2e-S91-2-3-dragagem": "dragagem",
+    "97434736-6364-49bf-9252-c95183146c2e-S91-8-9-10-11-12-13-hidrodinâmica-de-um-estuário": "hidrodinâmica de um estuário",
+    "97434736-6364-49bf-9252-c95183146c2e-S93-1-2-3-4-Outra-das-principais-dificuldades": "Outra das principais dificuldades",
+    "97434736-6364-49bf-9252-c95183146c2e-S93-7-8-9-10-11-12-13-14-15-definição-sobre-o-despejo-do-material-dragado": "definição sobre o despejo do material dragado",
+    "97434736-6364-49bf-9252-c95183146c2e-S94-2-3-4-quantidades-de-material": "quantidades de material",
+    "97434736-6364-49bf-9252-c95183146c2e-S94-14-15-imensas": "imensas",
+    "97434736-6364-49bf-9252-c95183146c2e-S99-5-6-7-atividade-portuária": "atividade portuária",
+    "97434736-6364-49bf-9252-c95183146c2e-S99-10-11-12-13-14-conflitos-de-uso-de-espaço": "conflitos de uso de espaço",
+    "97434736-6364-49bf-9252-c95183146c2e-S100-2-portos": "portos",
+    "97434736-6364-49bf-9252-c95183146c2e-S100-6-junto": "junto"
+  },
+  "graph": [
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S0-2-portos",
+      "relation": "são os",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S0-7-8-9-10-11-sistema-de-transporte-marítimo-mundial"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S1-1-2-Cada-viagem",
+      "relation": "começa",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S1-11-porto"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S2-5-6-7-8-9-10-quase-80-%-do-comércio-internacional",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S2-12-13-14-15-16-feito-por-vias-marítimas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S3-1-2-Além-disso",
+      "relation": "destaca -",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S3-6-7-8-9-10-11-12-13-14-15-se-o-número-expressivo-de-portos-marítimos-brasileiros"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S4-18-Brasil",
+      "relation": "possui",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S4-1-2-3-4-5-6-7-Segundo-dados-da-Agência-Nacional-de-Transportes"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S4-47-48-alguns-desses",
+      "relation": "se",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S4-51-52-agrupados"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S5-4-99",
+      "relation": "estão localizados ao",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S5-8-9-10-11-12-13-longo-da-costa-litorânea"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S6-2-3-outros-76",
+      "relation": "utilizam as",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S6-6-7-8-9-10-11-12-13-bacias-hidrográficas-para-escoar-as-mercadorias"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S8-2-porto",
+      "relation": "é constantemente chamado de",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S8-19-20-porto-marítimo"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S9-2-3-4-5-6-7-8-9-beira-de-hidrovias-(-rios-ou-lagos",
+      "relation": "é chamado",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S9-14-15-porto-fluvial"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S10-4-5-marinas",
+      "relation": "são",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S10-9-10-11-12-pequenos-centros-portuários"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S12-6-7-marinas",
+      "relation": "oferecem também serviços de",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S12-12-limpeza"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S13-2-3-4-sistema-portuário",
+      "relation": "pode ser percebido",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S13-11-12-13-14-conjunto-de-subsistemas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S14-12-13-14-15-transporte-aquaviário",
+      "relation": "é considerado",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S14-19-20-21-22-23-24-25-modal-de-menor-custo-unitário"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S15-2-3-,-portos",
+      "relation": "são capazes de",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S15-9-10-11-12-13-14-reduzir-custos-na-distribuição-de-bens"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S16-1-2-3-4-Ademais,-os-portos",
+      "relation": "são importantes para",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S16-9-10-suas-regiões"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S18-4-portos",
+      "relation": "limitam",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S18-10-11-12-13-14-15-16-suas-operações-de-movimentação-de-cargas,"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S19-2-3-4-localização-dos-portos",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S19-6-7-8-9-10-11-12-13-14-geralmente-determinada-pela-localização-de-suas-fontes-de-oferta"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S23-2-3-4-5-6-7-Global-Competitiveness",
+      "relation": "estabelece a",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S23-22-23-24-25-26-27-28-qualidade-da-infraestrutura-portuária-do-Brasil"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S25-13-Colômbia",
+      "relation": "conta com",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S25-28-29-30-portos-fluviais"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S25-2-3-4-América-do-Sul",
+      "relation": "tiveram desempenho",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S25-8-melhor"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S25-2-3-4-América-do-Sul",
+      "relation": "tiveram desempenho",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S25-10-Argentina"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S25-2-3-4-América-do-Sul",
+      "relation": "tiveram desempenho",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S25-16-Peru"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S27-4-portos",
+      "relation": "são especializados",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S27-8-9-funções-diferentes"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S30-2-3-4-5-6-7-8-Terminal-Marítimo-de-Ponta-da-Madeira",
+      "relation": "é um",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S30-11-12-porto-privado"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S31-1-É",
+      "relation": "tem",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S31-15-16-17-18-19-20-21-22-destaque-no-embarque-de-minério-de-ferro"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S32-2-3-4-Porto-de-Santos",
+      "relation": "está",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S32-6-7-8-9-10-11-12-13-localizado-dentro-do-Complexo-Portuário-de-Santos"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S33-2-3-4-5-6-Complexo-Portuário-de-Santos",
+      "relation": "conta",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S33-10-11-12-13-14-outras-seis-instalações-portuárias"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S35-2-3-4-5-multipropósito",
+      "relation": "operando",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S35-8-9-10-11-ampla-variedade-de-cargas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S36-2-3-4-2020,",
+      "relation": "foi",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S36-6-responsável"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S38-1-2-3-4-5-Navios-de-cruzeiros",
+      "relation": "partem de",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S38-8-9-10-11-Santos-regularmente-entre-outubro"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S39-2-3-4-5-6-7-8-9-10-11-12-Autoridade-Portuária-de-Santos-S.-A.",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S39-15-16-17-empresa-estatal-responsável"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S41-2-Terminal",
+      "relation": "teve o início de",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S41-16-17-18-19-suas-operações-em-1977"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S42-2-,",
+      "relation": "faz",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S42-6-7-8-9-10-transporte-de-petróleo-e-atende"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S49-2-3-4-5-Porto-de-Paranaguá",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S49-8-9-10-11-12-13-14-15-16-porto-público,-localizado-na-cidade-de-Paranaguá"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S52-2-3-4-5-Porto-de-Itaguai",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S52-8-9-10-porto-público,"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S54-2-3-4-5-6-7-8-9-10-Estatístico-Aquaviário-da-Antaq",
+      "relation": "oferece informações",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S54-13-14-15-16-17-18-19-atualizadas-sobre-a-movimentação-portuária"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S56-7-área",
+      "relation": "compreende",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S56-18-19-20-21-22-23-24-25-instalações-portuárias-e-a-infraestrutura-de-proteção"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S57-1-2-3-4-Instalação-portuária",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S57-6-7-8-9-10-11-localizada-dentro-ou-fora-da-área"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S63-3-4-5-6-terminais-de-uso-privado",
+      "relation": "são",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S63-9-10-11-12-13-chamadas-instalações-portuárias-privadas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S65-13-14-15-atividade-portuária",
+      "relation": "apresenta",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S65-17-18-19-20-21-22-23-24-elevado-potencial-de-geração-de-impactos-ambientais-negativos"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S66-1-2-3-4-Documentos-da-ONU",
+      "relation": "separam",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S66-8-9-10-11-12-13-14-15-impactos-diretos-dos-portos-em-três-categorias-principais"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S67-2-primeira",
+      "relation": "refere aos",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S67-7-8-9-10-impactos-gerados-pelo-funcionamento"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S69-2-3-4-5-6-7-8-9-10-maioria-da-tintas-anti---incrustantes",
+      "relation": "são",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S69-12-13-biocidas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S71-2-3-segunda-categoria",
+      "relation": "envolve",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S71-6-7-8-9-10-11-impactos-causados-pela-construção,-funcionamento"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S73-19-20-muitos-portos",
+      "relation": "substituíram",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S73-24-25-26-27-manguezal"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S73-17-humanidade",
+      "relation": "substituíram",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S73-24-25-26-27-manguezal"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S76-13-14-15-16-17-porto-de-contêiner",
+      "relation": "deve",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S76-19-20-21-22-23-24-25-26-ter-um-espaço-nivelado-para-armazenamento"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S77-39-40-41-42-43-44-entorno-da-maioria-dos-portos-já",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S77-46-47-48-49-50-comprometido-com-outras-atividades"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S78-2-3-4-5-6-terceira-pressão-gerada-pelos-portos",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S78-8-9-10-11-12-13-14-15-16-17-18-19-20-devido-às-obras-de-aprofundamento-ou-alargamento-do-canal-de-acesso"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S80-2-tendência",
+      "relation": "tem",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S80-4-5-6-implicações-diretas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S82-2-3-4-5-aprofundar-o-canal",
+      "relation": "é feita",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S82-9-10-11-12-feita-a-dragagem"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S84-2-3-principal-objetivo",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S84-5-6-7-8-9-10-11-realizar-a-manutenção-ou-aumentar-a-profundidade"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S91-2-3-dragagem",
+      "relation": "pode afetar a",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S91-8-9-10-11-12-13-hidrodinâmica-de-um-estuário"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S93-1-2-3-4-Outra-das-principais-dificuldades",
+      "relation": "é",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S93-7-8-9-10-11-12-13-14-15-definição-sobre-o-despejo-do-material-dragado"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S94-2-3-4-quantidades-de-material",
+      "relation": "podem ser",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S94-14-15-imensas"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S99-5-6-7-atividade-portuária",
+      "relation": "pode gerar",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S99-10-11-12-13-14-conflitos-de-uso-de-espaço"
+    },
+    {
+      "subject_id": "97434736-6364-49bf-9252-c95183146c2e-S100-2-portos",
+      "relation": "competem",
+      "object_id": "97434736-6364-49bf-9252-c95183146c2e-S100-6-junto"
+    }
+  ],
+  "links": {
+    "97434736-6364-49bf-9252-c95183146c2e-S0-2-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S0-7-8-9-10-11-sistema-de-transporte-marítimo-mundial": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S1-1-2-Cada-viagem": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S1-11-porto": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S2-5-6-7-8-9-10-quase-80-%-do-comércio-internacional": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S2-12-13-14-15-16-feito-por-vias-marítimas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S3-1-2-Além-disso": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S3-6-7-8-9-10-11-12-13-14-15-se-o-número-expressivo-de-portos-marítimos-brasileiros": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S4-18-Brasil": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S4-1-2-3-4-5-6-7-Segundo-dados-da-Agência-Nacional-de-Transportes": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S4-47-48-alguns-desses": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S4-51-52-agrupados": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S5-4-99": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S5-8-9-10-11-12-13-longo-da-costa-litorânea": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S6-2-3-outros-76": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S6-6-7-8-9-10-11-12-13-bacias-hidrográficas-para-escoar-as-mercadorias": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S8-2-porto": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S8-19-20-porto-marítimo": [
+      "97434736-6364-49bf-9252-c95183146c2e-S9-14-15-porto-fluvial",
+      "97434736-6364-49bf-9252-c95183146c2e-S30-11-12-porto-privado"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S9-2-3-4-5-6-7-8-9-beira-de-hidrovias-(-rios-ou-lagos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S9-14-15-porto-fluvial": [
+      "97434736-6364-49bf-9252-c95183146c2e-S8-19-20-porto-marítimo"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S10-4-5-marinas": [
+      "97434736-6364-49bf-9252-c95183146c2e-S12-6-7-marinas"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S10-9-10-11-12-pequenos-centros-portuários": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S12-6-7-marinas": [
+      "97434736-6364-49bf-9252-c95183146c2e-S10-4-5-marinas"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S12-12-limpeza": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S13-2-3-4-sistema-portuário": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S13-11-12-13-14-conjunto-de-subsistemas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S14-12-13-14-15-transporte-aquaviário": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S14-19-20-21-22-23-24-25-modal-de-menor-custo-unitário": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S15-2-3-,-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S15-9-10-11-12-13-14-reduzir-custos-na-distribuição-de-bens": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S16-1-2-3-4-Ademais,-os-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S16-9-10-suas-regiões": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S18-4-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S18-10-11-12-13-14-15-16-suas-operações-de-movimentação-de-cargas,": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S19-2-3-4-localização-dos-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S19-6-7-8-9-10-11-12-13-14-geralmente-determinada-pela-localização-de-suas-fontes-de-oferta": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S23-2-3-4-5-6-7-Global-Competitiveness": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S23-22-23-24-25-26-27-28-qualidade-da-infraestrutura-portuária-do-Brasil": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-13-Colômbia": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-28-29-30-portos-fluviais": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-2-3-4-América-do-Sul": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-8-melhor": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-10-Argentina": [
+      "97434736-6364-49bf-9252-c95183146c2e-S25-16-Peru"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S25-16-Peru": [
+      "97434736-6364-49bf-9252-c95183146c2e-S25-10-Argentina"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S27-4-portos": [
+      "97434736-6364-49bf-9252-c95183146c2e-S100-2-portos"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S27-8-9-funções-diferentes": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S30-2-3-4-5-6-7-8-Terminal-Marítimo-de-Ponta-da-Madeira": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S30-11-12-porto-privado": [
+      "97434736-6364-49bf-9252-c95183146c2e-S8-19-20-porto-marítimo",
+      "97434736-6364-49bf-9252-c95183146c2e-S52-8-9-10-porto-público,"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S31-1-É": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S31-15-16-17-18-19-20-21-22-destaque-no-embarque-de-minério-de-ferro": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S32-2-3-4-Porto-de-Santos": [
+      "97434736-6364-49bf-9252-c95183146c2e-S33-2-3-4-5-6-Complexo-Portuário-de-Santos",
+      "97434736-6364-49bf-9252-c95183146c2e-S49-2-3-4-5-Porto-de-Paranaguá"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S32-6-7-8-9-10-11-12-13-localizado-dentro-do-Complexo-Portuário-de-Santos": [
+      "97434736-6364-49bf-9252-c95183146c2e-S33-2-3-4-5-6-Complexo-Portuário-de-Santos"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S33-2-3-4-5-6-Complexo-Portuário-de-Santos": [
+      "97434736-6364-49bf-9252-c95183146c2e-S32-2-3-4-Porto-de-Santos",
+      "97434736-6364-49bf-9252-c95183146c2e-S32-6-7-8-9-10-11-12-13-localizado-dentro-do-Complexo-Portuário-de-Santos"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S33-10-11-12-13-14-outras-seis-instalações-portuárias": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S35-2-3-4-5-multipropósito": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S35-8-9-10-11-ampla-variedade-de-cargas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S36-2-3-4-2020,": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S36-6-responsável": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S38-1-2-3-4-5-Navios-de-cruzeiros": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S38-8-9-10-11-Santos-regularmente-entre-outubro": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S39-2-3-4-5-6-7-8-9-10-11-12-Autoridade-Portuária-de-Santos-S.-A.": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S39-15-16-17-empresa-estatal-responsável": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S41-2-Terminal": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S41-16-17-18-19-suas-operações-em-1977": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S42-2-,": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S42-6-7-8-9-10-transporte-de-petróleo-e-atende": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S49-2-3-4-5-Porto-de-Paranaguá": [
+      "97434736-6364-49bf-9252-c95183146c2e-S32-2-3-4-Porto-de-Santos"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S49-8-9-10-11-12-13-14-15-16-porto-público,-localizado-na-cidade-de-Paranaguá": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S52-2-3-4-5-Porto-de-Itaguai": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S52-8-9-10-porto-público,": [
+      "97434736-6364-49bf-9252-c95183146c2e-S30-11-12-porto-privado"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S54-2-3-4-5-6-7-8-9-10-Estatístico-Aquaviário-da-Antaq": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S54-13-14-15-16-17-18-19-atualizadas-sobre-a-movimentação-portuária": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S56-7-área": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S56-18-19-20-21-22-23-24-25-instalações-portuárias-e-a-infraestrutura-de-proteção": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S57-1-2-3-4-Instalação-portuária": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S57-6-7-8-9-10-11-localizada-dentro-ou-fora-da-área": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S63-3-4-5-6-terminais-de-uso-privado": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S63-9-10-11-12-13-chamadas-instalações-portuárias-privadas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S65-13-14-15-atividade-portuária": [
+      "97434736-6364-49bf-9252-c95183146c2e-S99-5-6-7-atividade-portuária"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S65-17-18-19-20-21-22-23-24-elevado-potencial-de-geração-de-impactos-ambientais-negativos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S66-1-2-3-4-Documentos-da-ONU": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S66-8-9-10-11-12-13-14-15-impactos-diretos-dos-portos-em-três-categorias-principais": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S67-2-primeira": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S67-7-8-9-10-impactos-gerados-pelo-funcionamento": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S69-2-3-4-5-6-7-8-9-10-maioria-da-tintas-anti---incrustantes": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S69-12-13-biocidas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S71-2-3-segunda-categoria": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S71-6-7-8-9-10-11-impactos-causados-pela-construção,-funcionamento": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S73-19-20-muitos-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S73-24-25-26-27-manguezal": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S73-17-humanidade": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S76-13-14-15-16-17-porto-de-contêiner": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S76-19-20-21-22-23-24-25-26-ter-um-espaço-nivelado-para-armazenamento": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S77-39-40-41-42-43-44-entorno-da-maioria-dos-portos-já": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S77-46-47-48-49-50-comprometido-com-outras-atividades": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S78-2-3-4-5-6-terceira-pressão-gerada-pelos-portos": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S78-8-9-10-11-12-13-14-15-16-17-18-19-20-devido-às-obras-de-aprofundamento-ou-alargamento-do-canal-de-acesso": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S80-2-tendência": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S80-4-5-6-implicações-diretas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S82-2-3-4-5-aprofundar-o-canal": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S82-9-10-11-12-feita-a-dragagem": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S84-2-3-principal-objetivo": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S84-5-6-7-8-9-10-11-realizar-a-manutenção-ou-aumentar-a-profundidade": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S91-2-3-dragagem": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S91-8-9-10-11-12-13-hidrodinâmica-de-um-estuário": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S93-1-2-3-4-Outra-das-principais-dificuldades": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S93-7-8-9-10-11-12-13-14-15-definição-sobre-o-despejo-do-material-dragado": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S94-2-3-4-quantidades-de-material": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S94-14-15-imensas": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S99-5-6-7-atividade-portuária": [
+      "97434736-6364-49bf-9252-c95183146c2e-S65-13-14-15-atividade-portuária"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S99-10-11-12-13-14-conflitos-de-uso-de-espaço": [],
+    "97434736-6364-49bf-9252-c95183146c2e-S100-2-portos": [
+      "97434736-6364-49bf-9252-c95183146c2e-S27-4-portos"
+    ],
+    "97434736-6364-49bf-9252-c95183146c2e-S100-6-junto": []
+  }
+}

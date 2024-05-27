@@ -1,0 +1,455 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Transporte e Navegacao.txt",
+  "entities": {
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é": "transporte marítimo é",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-9-10-11-12-13-14-15-16-mares-abertos-e-oceanos-como-vias-de-passagem": "mares abertos e oceanos como vias de passagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo": "transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-7-8-9-10-11-12-13-14-15-16-utiliza-os-mares-abertos-e-oceanos-como-vias-de-passagem": "utiliza os mares abertos e oceanos como vias de passagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-3-4-5-6-7-termo-transporte-aquaviário": "termo transporte aquaviário",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-11-todo": "todo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo": "transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-19-desenvolvimento": "desenvolvimento",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo": "importância do transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-10-11-notória": "notória",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-2-3-4-5-6-7-8-principal-via-de-exportação-e-importação-brasileira": "principal via de exportação e importação brasileira",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-18-mar": "mar",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-14-sempre": "sempre",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-13-provavelmente": "provavelmente",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-9-principais": "principais",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-16-distribuição": "distribuição",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-23-24-25-26-27-meios-e-formas-de-transporte": "meios e formas de transporte",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-14-15-atividade-básica": "atividade básica",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-2-distribuição": "distribuição",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-17-18-19-componentes-logísticos": "componentes logísticos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-5-6-7-8-9-10-11-12-13-14-num-dos-macroprocessos-das-cadeias-de-suprimentos": "num dos macroprocessos das cadeias de suprimentos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo": "transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-12-13-segurança-nacional": "segurança nacional",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-29-30-Atlântico-Sul": "Atlântico Sul",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-32-33-34-35-36-37-38-áreas-prioritárias-para-a-Defesa-Nacional": "áreas prioritárias para a Defesa Nacional",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-2-3-4-litoral-do-Brasil": "litoral do Brasil",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-6-7-8-9-10-11-12-muito-extenso-e-possui-inúmeras-riquezas-naturais": "muito extenso e possui inúmeras riquezas naturais",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-2-3-4-5-transporte-aquaviário": "transporte aquaviário",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-10-11-12-13-14-15-meio-de-vários-tipos-de-navegação": "meio de vários tipos de navegação",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem": "Navegação de cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-10-11-propósitos-comerciais": "propósitos comerciais",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-7-realiza": "realiza",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-1-2-3-4-5-Navegação-de-apoio-marítimo": "Navegação de apoio marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-10-11-12-13-14-portos-e-terminais-marítimos": "portos e terminais marítimos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-2-3-4-5-série-de-embarcações-especiais": "série de embarcações especiais",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-9-10-11-12-13-14-15-se-chama-a-frota-de-apoio-marítimo": "se chama a frota de apoio marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-2-3-4-5-estratégia-de-Caboto": "estratégia de Caboto",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-7-8-9-10-11-12-13-14-15-se-deslocar-sem-perder-de-vista-a-costa": "se deslocar sem perder de vista a costa",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem": "cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-9-10-navegar": "navegar",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem": "cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-9-10-11-12-navegação-de-longo-curso": "navegação de longo curso",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-4-5-6-7-navegação-de-cabotagem": "navegação de cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-10-11-12-13-14-15-16-17-participação-muito-pequena-na-matriz-brasileira-de-transporte": "participação muito pequena na matriz brasileira de transporte",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem": "cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-13-14-15-16-17-18-19-20-21-principal-meio-de-transporte-interestadual-de-cargas": "principal meio de transporte interestadual de cargas",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-2-3-4-5-transporte-de-longo-curso": "transporte de longo curso",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-14-15-809": "809",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem": "cabotagem",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-6-7-271": "271",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-2-expansão": "expansão",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-8-9-10-11-crescimentos-expressivos": "crescimentos expressivos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo": "transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-7-8-9-navios-mercantes": "navios mercantes",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-2-3-4-navios-mercantes": "navios mercantes",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-9-10-11-12-mercadorias-e-cargas-diversas": "mercadorias e cargas diversas",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-1-2-3-4-5-Alguns-navios-de-carga-pesada": "Alguns navios de carga pesada",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-9-10-11-12-13-14-15-plataformas-de-prospecção-de-petróleo": "plataformas de prospecção de petróleo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-2-3-4-5-6-exemplo-mais-comum-da-carga": "exemplo mais comum da carga",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-13-14-15-16-veículos-automotores": "veículos automotores",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-2-embarcação": "embarcação",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-6-7-8-9-10-11-cargas-em-contêineres": "cargas em contêineres",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-2-3-4-5-contêineres": "contêineres",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-11-12-13-14-15-16-17-18-19-20-21-22-porão-ou-no-convés-dos-porta-contêineres": "porão ou no convés dos porta contêineres",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-1-2-3-4-5-6-7-8-Outro-tipo-importante-de-embarcação-no-transporte-marítimo": "Outro tipo importante de embarcação no transporte marítimo",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-11-12-13-14-chamado-navio-de-passageiros": "chamado navio de passageiros",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-9-atividade": "atividade",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-13-14-15-16-17-18-19-20-setor-turístico-dos-grandes-transatlânticos": "setor turístico dos grandes transatlânticos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-3-4-5-tais-navios-atualmente": "tais navios atualmente",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-10-11-12-13-14-15-16-17-locomoção-convencional-de-pessoas-de-um-porto": "locomoção convencional de pessoas de um porto",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-1-2-3-Vários-acidentes-graves": "Vários acidentes graves",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-próximos-a-regiões-costeiras,-causando-danos-irreparáveis-aos-ecossistemas-atingidos": "próximos a regiões costeiras, causando danos irreparáveis aos ecossistemas atingidos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-2-podemos": "podemos",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-6-7-8-9-10-11-12-13-14-poluição-devido-ao-lançamento-das-águas-de-lastro": "poluição devido ao lançamento das águas de lastro",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-8-9-seus-tanques": "seus tanques",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-11-12-13-14-15-16-17-18-19-água-para-manter-sua-estabilidade,-balanço": "água para manter sua estabilidade, balanço",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-3-navio": "navio",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-5-6-descarregado": "descarregado",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-10-grande": "grande",
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-6-7-apontada": "apontada"
+  },
+  "graph": [
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é",
+      "relation": "utiliza",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-9-10-11-12-13-14-15-16-mares-abertos-e-oceanos-como-vias-de-passagem"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-7-8-9-10-11-12-13-14-15-16-utiliza-os-mares-abertos-e-oceanos-como-vias-de-passagem"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-3-4-5-6-7-termo-transporte-aquaviário",
+      "relation": "refere a",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-11-todo"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "relation": "tem sido fundamental",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-19-desenvolvimento"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-10-11-notória"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-2-3-4-5-6-7-8-principal-via-de-exportação-e-importação-brasileira",
+      "relation": "foi –",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-18-mar"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-2-3-4-5-6-7-8-principal-via-de-exportação-e-importação-brasileira",
+      "relation": "foi –",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-14-sempre"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-2-3-4-5-6-7-8-principal-via-de-exportação-e-importação-brasileira",
+      "relation": "foi –",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-13-provavelmente"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-9-principais",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-16-distribuição"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-23-24-25-26-27-meios-e-formas-de-transporte",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-14-15-atividade-básica"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-2-distribuição",
+      "relation": "compreende",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-17-18-19-componentes-logísticos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-2-distribuição",
+      "relation": "constitui",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-5-6-7-8-9-10-11-12-13-14-num-dos-macroprocessos-das-cadeias-de-suprimentos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo",
+      "relation": "tem importância como fator",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-12-13-segurança-nacional"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-29-30-Atlântico-Sul",
+      "relation": "são",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-32-33-34-35-36-37-38-áreas-prioritárias-para-a-Defesa-Nacional"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-2-3-4-litoral-do-Brasil",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-6-7-8-9-10-11-12-muito-extenso-e-possui-inúmeras-riquezas-naturais"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-2-3-4-5-transporte-aquaviário",
+      "relation": "operacionaliza por",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-10-11-12-13-14-15-meio-de-vários-tipos-de-navegação"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem",
+      "relation": "se",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-10-11-propósitos-comerciais"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem",
+      "relation": "se",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-7-realiza"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-1-2-3-4-5-Navegação-de-apoio-marítimo",
+      "relation": "é feita",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-10-11-12-13-14-portos-e-terminais-marítimos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-2-3-4-5-série-de-embarcações-especiais",
+      "relation": "integra",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-9-10-11-12-13-14-15-se-chama-a-frota-de-apoio-marítimo"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-2-3-4-5-estratégia-de-Caboto",
+      "relation": "era",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-7-8-9-10-11-12-13-14-15-se-deslocar-sem-perder-de-vista-a-costa"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem",
+      "relation": "virou sinônimo",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-9-10-navegar"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem",
+      "relation": "contrapõe - se à",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-9-10-11-12-navegação-de-longo-curso"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-4-5-6-7-navegação-de-cabotagem",
+      "relation": "tem uma",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-10-11-12-13-14-15-16-17-participação-muito-pequena-na-matriz-brasileira-de-transporte"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem",
+      "relation": "era o",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-13-14-15-16-17-18-19-20-21-principal-meio-de-transporte-interestadual-de-cargas"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-2-3-4-5-transporte-de-longo-curso",
+      "relation": "movimentou",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-14-15-809"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem",
+      "relation": "transportou",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-6-7-271"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-2-expansão",
+      "relation": "deverá ser impulsionada",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-8-9-10-11-crescimentos-expressivos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo",
+      "relation": "é realizado por",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-7-8-9-navios-mercantes"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-2-3-4-navios-mercantes",
+      "relation": "conduzem",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-9-10-11-12-mercadorias-e-cargas-diversas"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-1-2-3-4-5-Alguns-navios-de-carga-pesada",
+      "relation": "chegam a levar",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-9-10-11-12-13-14-15-plataformas-de-prospecção-de-petróleo"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-2-3-4-5-6-exemplo-mais-comum-da-carga",
+      "relation": "são",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-13-14-15-16-veículos-automotores"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-2-embarcação",
+      "relation": "pode transportar também",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-6-7-8-9-10-11-cargas-em-contêineres"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-2-3-4-5-contêineres",
+      "relation": "encaixam - se no",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-11-12-13-14-15-16-17-18-19-20-21-22-porão-ou-no-convés-dos-porta-contêineres"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-1-2-3-4-5-6-7-8-Outro-tipo-importante-de-embarcação-no-transporte-marítimo",
+      "relation": "é",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-11-12-13-14-chamado-navio-de-passageiros"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-9-atividade",
+      "relation": "está reduzida",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-13-14-15-16-17-18-19-20-setor-turístico-dos-grandes-transatlânticos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-3-4-5-tais-navios-atualmente",
+      "relation": "são pouco utilizados para",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-10-11-12-13-14-15-16-17-locomoção-convencional-de-pessoas-de-um-porto"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-1-2-3-Vários-acidentes-graves",
+      "relation": "têm ocorrido",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-próximos-a-regiões-costeiras,-causando-danos-irreparáveis-aos-ecossistemas-atingidos"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-2-podemos",
+      "relation": "mencionar a",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-6-7-8-9-10-11-12-13-14-poluição-devido-ao-lançamento-das-águas-de-lastro"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-8-9-seus-tanques",
+      "relation": "recebem",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-11-12-13-14-15-16-17-18-19-água-para-manter-sua-estabilidade,-balanço"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-3-navio",
+      "relation": "está",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-5-6-descarregado"
+    },
+    {
+      "subject_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-10-grande",
+      "relation": "vem sendo",
+      "object_id": "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-6-7-apontada"
+    }
+  ],
+  "links": {
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-9-10-11-12-13-14-15-16-mares-abertos-e-oceanos-como-vias-de-passagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-7-8-9-10-11-12-13-14-15-16-utiliza-os-mares-abertos-e-oceanos-como-vias-de-passagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-7-8-9-10-11-12-13-14-15-16-utiliza-os-mares-abertos-e-oceanos-como-vias-de-passagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-9-10-11-12-13-14-15-16-mares-abertos-e-oceanos-como-vias-de-passagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-3-4-5-6-7-termo-transporte-aquaviário": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-2-3-4-5-transporte-aquaviário"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-11-todo": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-19-desenvolvimento": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-10-11-notória": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-2-3-4-5-6-7-8-principal-via-de-exportação-e-importação-brasileira": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-18-mar": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-14-sempre": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S5-13-provavelmente": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-9-principais": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S7-16-distribuição": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-23-24-25-26-27-meios-e-formas-de-transporte": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S8-14-15-atividade-básica": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-2-distribuição": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-17-18-19-componentes-logísticos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S9-5-6-7-8-9-10-11-12-13-14-num-dos-macroprocessos-das-cadeias-de-suprimentos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-12-13-segurança-nacional": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-29-30-Atlântico-Sul": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S14-32-33-34-35-36-37-38-áreas-prioritárias-para-a-Defesa-Nacional": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-2-3-4-litoral-do-Brasil": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S15-6-7-8-9-10-11-12-muito-extenso-e-possui-inúmeras-riquezas-naturais": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-2-3-4-5-transporte-aquaviário": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S1-3-4-5-6-7-termo-transporte-aquaviário"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S22-10-11-12-13-14-15-meio-de-vários-tipos-de-navegação": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-1-2-3-4-5-Navegação-de-apoio-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-4-5-6-7-navegação-de-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-10-11-propósitos-comerciais": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-7-realiza": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-1-2-3-4-5-Navegação-de-apoio-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S26-10-11-12-13-14-portos-e-terminais-marítimos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-2-3-4-5-série-de-embarcações-especiais": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S28-9-10-11-12-13-14-15-se-chama-a-frota-de-apoio-marítimo": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-2-3-4-5-estratégia-de-Caboto": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S32-7-8-9-10-11-12-13-14-15-se-deslocar-sem-perder-de-vista-a-costa": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-9-10-navegar": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-4-5-6-7-navegação-de-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-9-10-11-12-navegação-de-longo-curso": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-4-5-6-7-navegação-de-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S24-1-2-3-4-5-Navegação-de-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S35-10-11-12-13-14-15-16-17-participação-muito-pequena-na-matriz-brasileira-de-transporte": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-13-14-15-16-17-18-19-20-21-principal-meio-de-transporte-interestadual-de-cargas": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-2-3-4-5-transporte-de-longo-curso": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S40-14-15-809": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-2-3-cabotagem": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S33-4-5-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S34-2-3-cabotagem",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S38-9-10-cabotagem"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S41-6-7-271": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-2-expansão": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S44-8-9-10-11-crescimentos-expressivos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-2-3-transporte-marítimo": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-4-transporte-marítimo-é",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S0-2-3-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S2-12-13-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S4-2-3-4-5-importância-do-transporte-marítimo",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S13-4-5-transporte-marítimo"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-7-8-9-navios-mercantes": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-2-3-4-navios-mercantes"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-2-3-4-navios-mercantes": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S45-7-8-9-navios-mercantes"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S46-9-10-11-12-mercadorias-e-cargas-diversas": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-1-2-3-4-5-Alguns-navios-de-carga-pesada": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S52-9-10-11-12-13-14-15-plataformas-de-prospecção-de-petróleo": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-2-3-4-5-6-exemplo-mais-comum-da-carga": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S55-13-14-15-16-veículos-automotores": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-2-embarcação": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-6-7-8-9-10-11-cargas-em-contêineres": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-2-3-4-5-contêineres"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-2-3-4-5-contêineres": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S56-6-7-8-9-10-11-cargas-em-contêineres",
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-11-12-13-14-15-16-17-18-19-20-21-22-porão-ou-no-convés-dos-porta-contêineres"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-11-12-13-14-15-16-17-18-19-20-21-22-porão-ou-no-convés-dos-porta-contêineres": [
+      "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S57-2-3-4-5-contêineres"
+    ],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-1-2-3-4-5-6-7-8-Outro-tipo-importante-de-embarcação-no-transporte-marítimo": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S60-11-12-13-14-chamado-navio-de-passageiros": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-9-atividade": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S61-13-14-15-16-17-18-19-20-setor-turístico-dos-grandes-transatlânticos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-3-4-5-tais-navios-atualmente": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S62-10-11-12-13-14-15-16-17-locomoção-convencional-de-pessoas-de-um-porto": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-1-2-3-Vários-acidentes-graves": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S65-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-próximos-a-regiões-costeiras,-causando-danos-irreparáveis-aos-ecossistemas-atingidos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-2-podemos": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S68-6-7-8-9-10-11-12-13-14-poluição-devido-ao-lançamento-das-águas-de-lastro": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-8-9-seus-tanques": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-11-12-13-14-15-16-17-18-19-água-para-manter-sua-estabilidade,-balanço": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-3-navio": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S69-5-6-descarregado": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-10-grande": [],
+    "eaa7c5bf-0ee7-4215-a33a-0b774b950b9e-S72-6-7-apontada": []
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Poluicao e contaminacao marinha.txt",
+  "entities": {
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-7-8-9-questão-problemática": "questão problemática",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-14-15-16-ênfase-em-estudos": "ênfase em estudos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-2-3-4-poluição-aquática": "poluição aquática",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-2-concentrações": "concentrações",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-5-6-7-8-9-10-11-12-13-danosas-aos-seres-vivos-e-ao-meio-ambiente": "danosas aos seres vivos e ao meio ambiente",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-8-9-poluentes": "poluentes",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-13-14-15-16-17-persistência-destes-no-ambiente": "persistência destes no ambiente",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-4-5-poluentes": "poluentes",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-9-quatro": "quatro",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-1-Não": "Não",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-16-17-18-19-20-organismos-da-microbiota": "organismos da microbiota",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-1-2-3-Conservativos": "Conservativos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-7-8-9-não-sofrem-degradação": "não sofrem degradação",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-1-2-3-Resíduos-sólidos": "Resíduos sólidos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-5-6-7-materiais-como-plástico": "materiais como plástico",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-2-3-4-5-composição-dos-poluentes": "composição dos poluentes",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-11-suas": "suas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-9-acordo": "acordo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-5-esgoto": "esgoto",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-9-nutrientes": "nutrientes",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-3-Brasil": "Brasil",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-6-7-8-9-10-11-12-13-14-15-16-17-defasagem-no-tratamento-de-esgoto-e-saneamento-básico": "defasagem no tratamento de esgoto e saneamento básico",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-27-mar": "mar",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-2-3-4-zonas-mortas-costeiras": "zonas mortas costeiras",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-6-7-8-9-10-11-12-regiões-caracterizadas-pela-falta-de-oxigênio": "regiões caracterizadas pela falta de oxigênio",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-10-11-12-falta-de-oxigênio": "falta de oxigênio",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-1-)": ")",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-5-6-7-8-9-eutrofização": "eutrofização",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-1-2-3-4-5-Eutrofização": "Eutrofização",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-8-fenômeno": "fenômeno",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-4-5-6-7-algumas-espécies-de-algas": "algumas espécies de algas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-10-11-12-13-toxinas-nesse-processo": "toxinas nesse processo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-2-3-poluição-marinha": "poluição marinha",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-5-6-7-8-9-10-11-12-80-%-de-sua-origem-na-poluição-terrestre": "80 % de sua origem na poluição terrestre",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-2-3-despejo": "despejo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-9-10-11-12-emissários-submarinos": "emissários submarinos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-1-*": "*",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-9-10-11-derivadas-do-petróleo": "derivadas do petróleo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-2-3-4-5-6-Objetos-feitos-de-plástico": "Objetos feitos de plástico",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-8-9-10-transporte-a-longas": "transporte a longas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-13-14-facilitado": "facilitado",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-1-2-Tais-partículas": "Tais partículas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-6-7-8-9-10-degradação-de-grandes-plásticos": "degradação de grandes plásticos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-2-fenômeno": "fenômeno",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-4-5-6-7-8-9-aumento-da-concentração-de-um-elemento": "aumento da concentração de um elemento",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-3-4-5-6-7-cada-nível-trófico": "cada nível trófico",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-9-10-afetado": "afetado",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-14-15-último-nível": "último nível",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-12-sendo": "sendo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-5-6-predadores-de-topo": "predadores de topo",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-10-11-12-13-14-15-apresentam-mais-substâncias-nocivas": "apresentam mais substâncias nocivas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-predadores": "predadores",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-11-12-13-14-15-16-17-18-mais-substâncias-nocivas-em-seus-corpos": "mais substâncias nocivas em seus corpos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-4-5-6-7-8-9-10-11-12-peixes-e-crustáceos-contaminados": "peixes e crustáceos contaminados",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-15-16-seres-humanos": "seres humanos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-3-4-5-6-7-alguns-metais---traço": "alguns metais - traço",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-11-12-13-contaminantes": "contaminantes",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço": "metais - traço",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-7-8-9-10-11-efeitos-mutagênicos": "efeitos mutagênicos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-14-15-16-17-18-destroem-proteínas-e-enzimas": "destroem proteínas e enzimas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-20-21-22-23-24-25-afetando-processos-de-mitose": "afetando processos de mitose",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-16-17-18-proteínas-e-enzimas": "proteínas e enzimas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-metais--": "metais -",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-6-7-8-9-10-11-produzem-efeitos-mutagênicos": "produzem efeitos mutagênicos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-2-3-metas-propostas": "metas propostas",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-5-6-7-8-9-evitar-e-reduzir-significativamente": "evitar e reduzir significativamente",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-1-2-3-4-5-6-Ações-de-combate-à-poluição": "Ações de combate à poluição",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-8-9-10-11-12-13-14-implementadas-por-meio-de-órgãos-internacionais": "implementadas por meio de órgãos internacionais",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-3-capítulos": "capítulos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-7-8-9-10-11-12-13-Conferência-das-Nações-Unidas-para-o-Ambiente": "Conferência das Nações Unidas para o Ambiente",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-18-19-20-21-programa-da-UNEP": "programa da UNEP",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-9-10-discutido": "discutido",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-2-1996": "1996",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-4-5-6-7-8-criada-a-Comissão-Mundial-Independente": "criada a Comissão Mundial Independente",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-2-1998": "1998",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-7-8-9-10-11-Ano-Internacional-dos-Oceanos": "Ano Internacional dos Oceanos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-6-7-8-9-10-Conferência-Mundial-dos-Oceanos": "Conferência Mundial dos Oceanos",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-19-20-21-22-23-24-25-26-27-28-Declaração-dos-Oceanos-de-Manado-para-a-ONU": "Declaração dos Oceanos de Manado para a ONU",
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-13-14-15-16-total-de-64-países": "total de 64 países"
+  },
+  "graph": [
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-7-8-9-questão-problemática",
+      "relation": "vem ganhando muita",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-14-15-16-ênfase-em-estudos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-2-3-4-poluição-aquática",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-7-8-9-questão-problemática"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-2-concentrações",
+      "relation": "podem ser",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-5-6-7-8-9-10-11-12-13-danosas-aos-seres-vivos-e-ao-meio-ambiente"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-8-9-poluentes",
+      "relation": "é a",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-13-14-15-16-17-persistência-destes-no-ambiente"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-4-5-poluentes",
+      "relation": "são classificados em",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-9-quatro"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-1-Não",
+      "relation": "são degradados",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-16-17-18-19-20-organismos-da-microbiota"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-1-2-3-Conservativos",
+      "relation": "são",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-7-8-9-não-sofrem-degradação"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-1-2-3-Resíduos-sólidos",
+      "relation": "são",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-5-6-7-materiais-como-plástico"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-2-3-4-5-composição-dos-poluentes",
+      "relation": "pode variar de",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-11-suas"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-2-3-4-5-composição-dos-poluentes",
+      "relation": "pode variar de",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-9-acordo"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-5-esgoto",
+      "relation": "é composto por",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-9-nutrientes"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-3-Brasil",
+      "relation": "apresenta",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-6-7-8-9-10-11-12-13-14-15-16-17-defasagem-no-tratamento-de-esgoto-e-saneamento-básico"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-3-Brasil",
+      "relation": "são constantemente lançados",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-27-mar"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-2-3-4-zonas-mortas-costeiras",
+      "relation": "são",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-6-7-8-9-10-11-12-regiões-caracterizadas-pela-falta-de-oxigênio"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-2-3-4-zonas-mortas-costeiras",
+      "relation": "caracterizadas pela",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-10-11-12-falta-de-oxigênio"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-1-)",
+      "relation": "ocorre a",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-5-6-7-8-9-eutrofização"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-1-2-3-4-5-Eutrofização",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-8-fenômeno"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-4-5-6-7-algumas-espécies-de-algas",
+      "relation": "liberam",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-10-11-12-13-toxinas-nesse-processo"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-2-3-poluição-marinha",
+      "relation": "tem",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-5-6-7-8-9-10-11-12-80-%-de-sua-origem-na-poluição-terrestre"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-2-3-despejo",
+      "relation": "pode ser feito",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-9-10-11-12-emissários-submarinos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-1-*",
+      "relation": "possuem estruturas",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-9-10-11-derivadas-do-petróleo"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-2-3-4-5-6-Objetos-feitos-de-plástico",
+      "relation": "possuem estruturas",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-9-10-11-derivadas-do-petróleo"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-8-9-10-transporte-a-longas",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-13-14-facilitado"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-1-2-Tais-partículas",
+      "relation": "são resultantes",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-6-7-8-9-10-degradação-de-grandes-plásticos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-2-fenômeno",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-4-5-6-7-8-9-aumento-da-concentração-de-um-elemento"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-3-4-5-6-7-cada-nível-trófico",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-9-10-afetado"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-3-4-5-6-7-cada-nível-trófico",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-14-15-último-nível"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-3-4-5-6-7-cada-nível-trófico",
+      "relation": "é",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-12-sendo"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-5-6-predadores-de-topo",
+      "relation": "são",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-10-11-12-13-14-15-apresentam-mais-substâncias-nocivas"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-predadores",
+      "relation": "apresentam",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-11-12-13-14-15-16-17-18-mais-substâncias-nocivas-em-seus-corpos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-4-5-6-7-8-9-10-11-12-peixes-e-crustáceos-contaminados",
+      "relation": "chegam aos",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-15-16-seres-humanos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-3-4-5-6-7-alguns-metais---traço",
+      "relation": "são importantes",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-11-12-13-contaminantes"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço",
+      "relation": "produzem",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-7-8-9-10-11-efeitos-mutagênicos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço",
+      "relation": "afetando",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-14-15-16-17-18-destroem-proteínas-e-enzimas"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço",
+      "relation": "afetando",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-20-21-22-23-24-25-afetando-processos-de-mitose"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço",
+      "relation": "destroem",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-16-17-18-proteínas-e-enzimas"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-metais--",
+      "relation": "traço",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-6-7-8-9-10-11-produzem-efeitos-mutagênicos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-2-3-metas-propostas",
+      "relation": "incluem",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-5-6-7-8-9-evitar-e-reduzir-significativamente"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-1-2-3-4-5-6-Ações-de-combate-à-poluição",
+      "relation": "são",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-8-9-10-11-12-13-14-implementadas-por-meio-de-órgãos-internacionais"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-3-capítulos",
+      "relation": "tratou",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-7-8-9-10-11-12-13-Conferência-das-Nações-Unidas-para-o-Ambiente"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-18-19-20-21-programa-da-UNEP",
+      "relation": "foi",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-9-10-discutido"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-2-1996",
+      "relation": "foi",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-4-5-6-7-8-criada-a-Comissão-Mundial-Independente"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-2-1998",
+      "relation": "foi decretado o",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-7-8-9-10-11-Ano-Internacional-dos-Oceanos"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-6-7-8-9-10-Conferência-Mundial-dos-Oceanos",
+      "relation": "aprovou",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-19-20-21-22-23-24-25-26-27-28-Declaração-dos-Oceanos-de-Manado-para-a-ONU"
+    },
+    {
+      "subject_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-13-14-15-16-total-de-64-países",
+      "relation": "aprovou",
+      "object_id": "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-19-20-21-22-23-24-25-26-27-28-Declaração-dos-Oceanos-de-Manado-para-a-ONU"
+    }
+  ],
+  "links": {
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-7-8-9-questão-problemática": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-14-15-16-ênfase-em-estudos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S0-2-3-4-poluição-aquática": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-2-concentrações": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S3-5-6-7-8-9-10-11-12-13-danosas-aos-seres-vivos-e-ao-meio-ambiente": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-8-9-poluentes": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-4-5-poluentes"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-13-14-15-16-17-persistência-destes-no-ambiente": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-4-5-poluentes": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S4-8-9-poluentes"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S5-9-quatro": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-1-Não": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S7-16-17-18-19-20-organismos-da-microbiota": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-1-2-3-Conservativos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S9-7-8-9-não-sofrem-degradação": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-1-2-3-Resíduos-sólidos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S10-5-6-7-materiais-como-plástico": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-2-3-4-5-composição-dos-poluentes": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-11-suas": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S11-9-acordo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-5-esgoto": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S12-9-nutrientes": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-3-Brasil": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-6-7-8-9-10-11-12-13-14-15-16-17-defasagem-no-tratamento-de-esgoto-e-saneamento-básico": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S15-27-mar": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-2-3-4-zonas-mortas-costeiras": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-6-7-8-9-10-11-12-regiões-caracterizadas-pela-falta-de-oxigênio": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S16-10-11-12-falta-de-oxigênio": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-1-)": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S18-5-6-7-8-9-eutrofização": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-1-2-3-4-5-Eutrofização": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S19-8-fenômeno": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-4-5-6-7-algumas-espécies-de-algas": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S20-10-11-12-13-toxinas-nesse-processo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-2-3-poluição-marinha": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S22-5-6-7-8-9-10-11-12-80-%-de-sua-origem-na-poluição-terrestre": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-2-3-despejo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S24-9-10-11-12-emissários-submarinos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-1-*": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-9-10-11-derivadas-do-petróleo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S28-2-3-4-5-6-Objetos-feitos-de-plástico": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-8-9-10-transporte-a-longas": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S29-13-14-facilitado": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-1-2-Tais-partículas": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S33-6-7-8-9-10-degradação-de-grandes-plásticos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-2-fenômeno": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S35-4-5-6-7-8-9-aumento-da-concentração-de-um-elemento": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-3-4-5-6-7-cada-nível-trófico": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-9-10-afetado": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-14-15-último-nível": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S37-12-sendo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-5-6-predadores-de-topo": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-10-11-12-13-14-15-apresentam-mais-substâncias-nocivas": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-11-12-13-14-15-16-17-18-mais-substâncias-nocivas-em-seus-corpos"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-4-predadores": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-11-12-13-14-15-16-17-18-mais-substâncias-nocivas-em-seus-corpos": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S38-10-11-12-13-14-15-apresentam-mais-substâncias-nocivas"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-4-5-6-7-8-9-10-11-12-peixes-e-crustáceos-contaminados": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S39-15-16-seres-humanos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-3-4-5-6-7-alguns-metais---traço": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S42-11-12-13-contaminantes": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-metais--"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-7-8-9-10-11-efeitos-mutagênicos": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-6-7-8-9-10-11-produzem-efeitos-mutagênicos"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-14-15-16-17-18-destroem-proteínas-e-enzimas": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-16-17-18-proteínas-e-enzimas"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-20-21-22-23-24-25-afetando-processos-de-mitose": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-16-17-18-proteínas-e-enzimas": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-14-15-16-17-18-destroem-proteínas-e-enzimas"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-metais--": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-2-3-4-5-metais---traço"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-6-7-8-9-10-11-produzem-efeitos-mutagênicos": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S43-7-8-9-10-11-efeitos-mutagênicos"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-2-3-metas-propostas": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S46-5-6-7-8-9-evitar-e-reduzir-significativamente": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-1-2-3-4-5-6-Ações-de-combate-à-poluição": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S47-8-9-10-11-12-13-14-implementadas-por-meio-de-órgãos-internacionais": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-3-capítulos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S48-7-8-9-10-11-12-13-Conferência-das-Nações-Unidas-para-o-Ambiente": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-18-19-20-21-programa-da-UNEP": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S49-9-10-discutido": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-2-1996": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S50-4-5-6-7-8-criada-a-Comissão-Mundial-Independente": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-2-1998": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S51-7-8-9-10-11-Ano-Internacional-dos-Oceanos": [],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-6-7-8-9-10-Conferência-Mundial-dos-Oceanos": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-19-20-21-22-23-24-25-26-27-28-Declaração-dos-Oceanos-de-Manado-para-a-ONU"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-19-20-21-22-23-24-25-26-27-28-Declaração-dos-Oceanos-de-Manado-para-a-ONU": [
+      "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-6-7-8-9-10-Conferência-Mundial-dos-Oceanos"
+    ],
+    "7d0a1f76-057f-408e-930e-8bf10e97e50e-S52-13-14-15-16-total-de-64-países": []
+  }
+}

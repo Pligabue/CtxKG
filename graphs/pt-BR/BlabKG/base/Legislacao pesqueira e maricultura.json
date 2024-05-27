@@ -1,0 +1,126 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Legislacao pesqueira e maricultura.txt",
+  "entities": {
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-8-9-aquicultura": "aquicultura",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-11-12-13-14-15-regulamentadas-pela-Secretaria-Especial": "regulamentadas pela Secretaria Especial",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-2-3-4-5-6-7-8-9-10-11-12-13-implementação-de-um-aparato-legislativo-que-regularize-essas-atividades-econômicas": "implementação de um aparato legislativo que regularize essas atividades econômicas",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-16-17-18-19-necessária-na-costa-brasileira": "necessária na costa brasileira",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-2-lei": "lei",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-6-7-8-9-10-11-12-13-14-peculiaridades-e-necessidades-dos-pescadores-artesanais": "peculiaridades e necessidades dos pescadores artesanais",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-2-3-defeso": "defeso",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-9-10-pesca-comercial": "pesca comercial",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-5-6-7-8-trabalhadores-artesanais": "trabalhadores artesanais",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-14-15-16-17-18-19-20-21-22-seguro-desemprego-pelo-Instituto-Nacional-do-Seguro-Social": "seguro desemprego pelo Instituto Nacional do Seguro Social",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-2-3-MAPA": "MAPA",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-5-6-7-8-9-políticas-públicas-de-fomento": "políticas públicas de fomento",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-2-3-4-5-objetivo-é-coordenar": "objetivo é coordenar",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-10-instalação": "instalação",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-2-3-4-5-6-7-8-DECRETO-8.": "DECRETO 8.",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-21-22-23-parágrafo-único": "parágrafo único",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-2-3-4-5-6-Resolução-Conama-n°": "Resolução Conama n°",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-23-outras": "outras",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-14-15-16-17-18-19-licenciamento-ambiental-da-aquicultura": "licenciamento ambiental da aquicultura",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-3-4-5-6-estado-de-São-Paulo": "estado de São Paulo",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-12-13-14-15-regulamentada-pelo-Decreto": "regulamentada pelo Decreto",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-9-10-aquicultura": "aquicultura",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-13-14-maricultura": "maricultura",
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-18-19-20-21-realidade-do-sustento": "realidade do sustento"
+  },
+  "graph": [
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-8-9-aquicultura",
+      "relation": "são",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-11-12-13-14-15-regulamentadas-pela-Secretaria-Especial"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-2-3-4-5-6-7-8-9-10-11-12-13-implementação-de-um-aparato-legislativo-que-regularize-essas-atividades-econômicas",
+      "relation": "faz",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-16-17-18-19-necessária-na-costa-brasileira"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-2-lei",
+      "relation": "considera",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-6-7-8-9-10-11-12-13-14-peculiaridades-e-necessidades-dos-pescadores-artesanais"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-2-3-defeso",
+      "relation": "é uma suspensão temporária da",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-9-10-pesca-comercial"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-5-6-7-8-trabalhadores-artesanais",
+      "relation": "precisam ser pagos com",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-14-15-16-17-18-19-20-21-22-seguro-desemprego-pelo-Instituto-Nacional-do-Seguro-Social"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-2-3-MAPA",
+      "relation": "possui",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-5-6-7-8-9-políticas-públicas-de-fomento"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-2-3-4-5-objetivo-é-coordenar",
+      "relation": "orientar a",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-10-instalação"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-2-3-4-5-6-7-8-DECRETO-8.",
+      "relation": "regulamenta",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-21-22-23-parágrafo-único"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-2-3-4-5-6-Resolução-Conama-n°",
+      "relation": "dá",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-23-outras"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-2-3-4-5-6-Resolução-Conama-n°",
+      "relation": "dispõe sobre",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-14-15-16-17-18-19-licenciamento-ambiental-da-aquicultura"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-3-4-5-6-estado-de-São-Paulo",
+      "relation": "é",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-12-13-14-15-regulamentada-pelo-Decreto"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-9-10-aquicultura",
+      "relation": "é",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-12-13-14-15-regulamentada-pelo-Decreto"
+    },
+    {
+      "subject_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-13-14-maricultura",
+      "relation": "é",
+      "object_id": "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-18-19-20-21-realidade-do-sustento"
+    }
+  ],
+  "links": {
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-8-9-aquicultura": [
+      "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-9-10-aquicultura"
+    ],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-11-12-13-14-15-regulamentadas-pela-Secretaria-Especial": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-2-3-4-5-6-7-8-9-10-11-12-13-implementação-de-um-aparato-legislativo-que-regularize-essas-atividades-econômicas": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S4-16-17-18-19-necessária-na-costa-brasileira": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-2-lei": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S7-6-7-8-9-10-11-12-13-14-peculiaridades-e-necessidades-dos-pescadores-artesanais": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-2-3-defeso": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S9-9-10-pesca-comercial": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-5-6-7-8-trabalhadores-artesanais": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S10-14-15-16-17-18-19-20-21-22-seguro-desemprego-pelo-Instituto-Nacional-do-Seguro-Social": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-2-3-MAPA": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S11-5-6-7-8-9-políticas-públicas-de-fomento": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-2-3-4-5-objetivo-é-coordenar": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S12-10-instalação": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-2-3-4-5-6-7-8-DECRETO-8.": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S15-21-22-23-parágrafo-único": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-2-3-4-5-6-Resolução-Conama-n°": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-23-outras": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S18-14-15-16-17-18-19-licenciamento-ambiental-da-aquicultura": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-3-4-5-6-estado-de-São-Paulo": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-12-13-14-15-regulamentada-pelo-Decreto": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S19-9-10-aquicultura": [
+      "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S0-8-9-aquicultura"
+    ],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-13-14-maricultura": [],
+    "a5cd7aa0-6f88-4bd1-bfc2-deff74e2dbe7-S20-18-19-20-21-realidade-do-sustento": []
+  }
+}

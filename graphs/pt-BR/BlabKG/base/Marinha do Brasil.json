@@ -1,0 +1,103 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Marinha do Brasil.txt",
+  "entities": {
+    "7787ae08-68e1-479d-8630-3467c01e6360-S2-2-3-4-5-transporte-aquaviário": "transporte aquaviário",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S2-9-10-órgãos-estruturais": "órgãos estruturais",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S6-5-6-Marinha-brasileira": "Marinha brasileira",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S6-10-11-12-proteção-dos-5": "proteção dos 5",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S8-2-3-4-5-6-7-Lei-Complementar-97-/": "Lei Complementar 97 /",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S8-11-12-13-14-15-dispõe-sobre-as-normas-gerais": "dispõe sobre as normas gerais",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S10-2-3-4-5-6-7-Lei-Complementar-No-97-/": "Lei Complementar No 97 /",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S10-10-11-12-13-14-15-16-alterada-em-2004-pela-Lei-Complementar": "alterada em 2004 pela Lei Complementar",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S11-2-3-4-5-6-7-Autoridade-Marítima-Brasileira": "Autoridade Marítima Brasileira",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S11-14-função": "função",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S22-2-3-4-5-6-7-8-Tribunal-Marítimo-e-a-DPC": "Tribunal Marítimo e a DPC",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S22-11-12-13-instituições-competentes": "instituições competentes",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S23-2-3-4-marinha-mercante": "marinha mercante",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S23-7-8-9-10-11-12-ramo-civil-da-marinha-do-Brasil": "ramo civil da marinha do Brasil",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S24-1-2-Sua-história": "Sua história",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S24-5-6-7-8-tempos-do-Brasil-colonial": "tempos do Brasil colonial",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S28-2-3-4-5-marinha-mercante,": "marinha mercante,",
+    "7787ae08-68e1-479d-8630-3467c01e6360-S28-8-9-10-11-dividida-em-três-ramos": "dividida em três ramos"
+  },
+  "graph": [
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S2-2-3-4-5-transporte-aquaviário",
+      "relation": "conta",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S2-9-10-órgãos-estruturais"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S6-5-6-Marinha-brasileira",
+      "relation": "é responsável pela",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S6-10-11-12-proteção-dos-5"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S8-2-3-4-5-6-7-Lei-Complementar-97-/",
+      "relation": "estabeleceu",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S8-11-12-13-14-15-dispõe-sobre-as-normas-gerais"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S10-2-3-4-5-6-7-Lei-Complementar-No-97-/",
+      "relation": "foi",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S10-10-11-12-13-14-15-16-alterada-em-2004-pela-Lei-Complementar"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S11-2-3-4-5-6-7-Autoridade-Marítima-Brasileira",
+      "relation": "é a",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S11-14-função"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S22-2-3-4-5-6-7-8-Tribunal-Marítimo-e-a-DPC",
+      "relation": "são",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S22-11-12-13-instituições-competentes"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S23-2-3-4-marinha-mercante",
+      "relation": "constitui o",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S23-7-8-9-10-11-12-ramo-civil-da-marinha-do-Brasil"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S24-1-2-Sua-história",
+      "relation": "remonta",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S24-5-6-7-8-tempos-do-Brasil-colonial"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S28-2-3-4-5-marinha-mercante,",
+      "relation": "pode",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S28-8-9-10-11-dividida-em-três-ramos"
+    },
+    {
+      "subject_id": "7787ae08-68e1-479d-8630-3467c01e6360-S28-2-3-4-5-marinha-mercante,",
+      "relation": "ser",
+      "object_id": "7787ae08-68e1-479d-8630-3467c01e6360-S28-8-9-10-11-dividida-em-três-ramos"
+    }
+  ],
+  "links": {
+    "7787ae08-68e1-479d-8630-3467c01e6360-S2-2-3-4-5-transporte-aquaviário": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S2-9-10-órgãos-estruturais": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S6-5-6-Marinha-brasileira": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S6-10-11-12-proteção-dos-5": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S8-2-3-4-5-6-7-Lei-Complementar-97-/": [
+      "7787ae08-68e1-479d-8630-3467c01e6360-S10-2-3-4-5-6-7-Lei-Complementar-No-97-/"
+    ],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S8-11-12-13-14-15-dispõe-sobre-as-normas-gerais": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S10-2-3-4-5-6-7-Lei-Complementar-No-97-/": [
+      "7787ae08-68e1-479d-8630-3467c01e6360-S8-2-3-4-5-6-7-Lei-Complementar-97-/"
+    ],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S10-10-11-12-13-14-15-16-alterada-em-2004-pela-Lei-Complementar": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S11-2-3-4-5-6-7-Autoridade-Marítima-Brasileira": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S11-14-função": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S22-2-3-4-5-6-7-8-Tribunal-Marítimo-e-a-DPC": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S22-11-12-13-instituições-competentes": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S23-2-3-4-marinha-mercante": [
+      "7787ae08-68e1-479d-8630-3467c01e6360-S28-2-3-4-5-marinha-mercante,"
+    ],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S23-7-8-9-10-11-12-ramo-civil-da-marinha-do-Brasil": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S24-1-2-Sua-história": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S24-5-6-7-8-tempos-do-Brasil-colonial": [],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S28-2-3-4-5-marinha-mercante,": [
+      "7787ae08-68e1-479d-8630-3467c01e6360-S23-2-3-4-marinha-mercante"
+    ],
+    "7787ae08-68e1-479d-8630-3467c01e6360-S28-8-9-10-11-dividida-em-três-ramos": []
+  }
+}

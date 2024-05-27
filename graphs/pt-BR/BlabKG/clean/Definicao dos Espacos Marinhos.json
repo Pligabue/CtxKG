@@ -1,0 +1,246 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Definicao dos Espacos Marinhos.txt",
+  "entities": {
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-2-3-4-5-CNUDM": "CNUDM",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-7-8-9-10-11-12-13-14-15-negociada-durante-a-III-Conferência-das-Nações-Unidas": "negociada durante a III Conferência das Nações Unidas",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S6-10-11-12-jurisdição-e-soberania": "jurisdição e soberania",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-5-6-Estados-membros": "Estados membros",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-10-jurisdição": "jurisdição",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-1-2-3-4-5-6-7-8-Outra-forma-de-classificar-os-espaços-marítimos": "Outra forma de classificar os espaços marítimos",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-11-12-13-14-15-relação-ao-objeto-regulamentado": "relação ao objeto regulamentado",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro": "país costeiro",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-8-9-10-11-12-13-direitos-de-soberania-sobre-essa-área": "direitos de soberania sobre essa área",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-2-3-4-direitos-de-soberania": "direitos de soberania",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-9-10-11-12-13-espaço-aéreo-sobrejacente": "espaço aéreo sobrejacente",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S14-9-10-11-12-zona-contígua": "zona contígua",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-2-Estado": "Estado",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-5-6-7-8-soberania-sobre-essa-região": "soberania sobre essa região",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S17-7-8-9-10-11-12-sobreposta-à-ZEE": "sobreposta à ZEE",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S19-7-8-9-tenha-jurisdição-absoluta": "tenha jurisdição absoluta",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S20-10-11-12-investigações-científicas-marinhas": "investigações científicas marinhas",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-2-3-plataforma-continental": "plataforma continental",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-6-7-8-solo-oceânico": "solo oceânico",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S24-8-9-10-países-costeiros": "países costeiros",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-10-plataforma": "plataforma",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-14-15-16-17-continentes-como-as-ilhas": "continentes como as ilhas",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-1-2-Observa": "Observa",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-2-3-4-5-6-7-8-9-10-11-12-13-14-15-regras-de-delimitação-de-plataforma-continental-de-estados-arquipelágicos": "regras de delimitação de plataforma continental de estados arquipelágicos",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-19-20-21-22-23-24-25-regras-aplicáveis-aos-estados-costeiros": "regras aplicáveis aos estados costeiros",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S28-8-9-10-11-alterada-em-duas-situações": "alterada em duas situações",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-9-países": "países",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-6-indicado": "indicado",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-2-3-4-CLPC": "CLPC",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-prazo-de-até-dez-anos-após-a-entrada-em-vigor-da-CNUDM-para-o-país": "prazo de até dez anos após a entrada em vigor da CNUDM para o país",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-2-3-4-5-6-7-atividades-do-LEPLAC": "atividades do LEPLAC",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-9-10-11-iniciadas-em-1987": "iniciadas em 1987",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-5-Brasil": "Brasil",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-9-10-11-12-13-14-15-16-17-18-três-submissões-revistas-parciais-à-CLPC": "três submissões revistas parciais à CLPC",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-1-Diante": "Diante",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-três": "três",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-17-Convenção": "Convenção",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-1-2-3-Entendendo": "Entendendo",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-2-3-4-5-fundos-oceânicos-internacionais": "fundos oceânicos internacionais",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-9-10-11-12-13-14-15-16-exclusão-como-:-o-\"-leito-do-mar": "exclusão como : o \" leito do mar",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-2-3-4-5-6-Área-e-seus-recursos-minerais": "Área e seus recursos minerais",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-9-10-11-comum-da-humanidade": "comum da humanidade",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-2-3-4-5-CNUDM": "CNUDM",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-10-11-12-criação-da-Empresa": "criação da Empresa",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-2-3-4-espaço-marítimo-brasileiro": "espaço marítimo brasileiro",
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-7-nome": "nome"
+  },
+  "graph": [
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-2-3-4-5-CNUDM",
+      "relation": "foi",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-7-8-9-10-11-12-13-14-15-negociada-durante-a-III-Conferência-das-Nações-Unidas"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-2-3-4-5-CNUDM",
+      "relation": "estabeleceu as regras",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S6-10-11-12-jurisdição-e-soberania"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-5-6-Estados-membros",
+      "relation": "possuem direitos de",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-10-jurisdição"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-1-2-3-4-5-6-7-8-Outra-forma-de-classificar-os-espaços-marítimos",
+      "relation": "seria",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-11-12-13-14-15-relação-ao-objeto-regulamentado"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro",
+      "relation": "goza de",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-8-9-10-11-12-13-direitos-de-soberania-sobre-essa-área"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-2-3-4-direitos-de-soberania",
+      "relation": "estendem ao",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-9-10-11-12-13-espaço-aéreo-sobrejacente"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro",
+      "relation": "tem direito à",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S14-9-10-11-12-zona-contígua"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-2-Estado",
+      "relation": "não",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-5-6-7-8-soberania-sobre-essa-região"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S14-9-10-11-12-zona-contígua",
+      "relation": "é",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S17-7-8-9-10-11-12-sobreposta-à-ZEE"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro",
+      "relation": "não",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S19-7-8-9-tenha-jurisdição-absoluta"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro",
+      "relation": "exerce jurisdição",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S20-10-11-12-investigações-científicas-marinhas"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-2-3-plataforma-continental",
+      "relation": "corresponde ao",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-6-7-8-solo-oceânico"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-2-3-4-5-CNUDM",
+      "relation": "garante aos",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S24-8-9-10-países-costeiros"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-10-plataforma",
+      "relation": "compreende tanto",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-14-15-16-17-continentes-como-as-ilhas"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-1-2-Observa",
+      "relation": "compreende tanto",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-14-15-16-17-continentes-como-as-ilhas"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-2-3-4-5-6-7-8-9-10-11-12-13-14-15-regras-de-delimitação-de-plataforma-continental-de-estados-arquipelágicos",
+      "relation": "são diferentes",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-19-20-21-22-23-24-25-regras-aplicáveis-aos-estados-costeiros"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-2-3-plataforma-continental",
+      "relation": "pode ser",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S28-8-9-10-11-alterada-em-duas-situações"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-9-países",
+      "relation": "é",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-6-indicado"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-2-3-4-CLPC",
+      "relation": "estabeleceu",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-prazo-de-até-dez-anos-após-a-entrada-em-vigor-da-CNUDM-para-o-país"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-2-3-4-5-6-7-atividades-do-LEPLAC",
+      "relation": "foram",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-9-10-11-iniciadas-em-1987"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-5-Brasil",
+      "relation": "já",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-9-10-11-12-13-14-15-16-17-18-três-submissões-revistas-parciais-à-CLPC"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-1-Diante",
+      "relation": "já",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-9-10-11-12-13-14-15-16-17-18-três-submissões-revistas-parciais-à-CLPC"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-5-Brasil",
+      "relation": "apresentou",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-três"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-1-Diante",
+      "relation": "apresentou",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-três"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-17-Convenção",
+      "relation": "reconhece",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-1-2-3-Entendendo"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-2-3-4-5-fundos-oceânicos-internacionais",
+      "relation": "são definidos",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-9-10-11-12-13-14-15-16-exclusão-como-:-o-\"-leito-do-mar"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-2-3-4-5-6-Área-e-seus-recursos-minerais",
+      "relation": "são patrimônio comum",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-9-10-11-comum-da-humanidade"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-2-3-4-5-CNUDM",
+      "relation": "preveu a",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-10-11-12-criação-da-Empresa"
+    },
+    {
+      "subject_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-2-3-4-espaço-marítimo-brasileiro",
+      "relation": "recebeu",
+      "object_id": "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-7-nome"
+    }
+  ],
+  "links": {
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-2-3-4-5-CNUDM": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S1-7-8-9-10-11-12-13-14-15-negociada-durante-a-III-Conferência-das-Nações-Unidas": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S6-10-11-12-jurisdição-e-soberania": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-5-6-Estados-membros": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S7-10-jurisdição": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-1-2-3-4-5-6-7-8-Outra-forma-de-classificar-os-espaços-marítimos": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S9-11-12-13-14-15-relação-ao-objeto-regulamentado": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-2-3-4-país-costeiro": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S12-8-9-10-11-12-13-direitos-de-soberania-sobre-essa-área": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-2-3-4-direitos-de-soberania": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S13-9-10-11-12-13-espaço-aéreo-sobrejacente": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S14-9-10-11-12-zona-contígua": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-2-Estado": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S16-5-6-7-8-soberania-sobre-essa-região": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S17-7-8-9-10-11-12-sobreposta-à-ZEE": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S19-7-8-9-tenha-jurisdição-absoluta": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S20-10-11-12-investigações-científicas-marinhas": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-2-3-plataforma-continental": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S23-6-7-8-solo-oceânico": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S24-8-9-10-países-costeiros": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-10-plataforma": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-14-15-16-17-continentes-como-as-ilhas": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S26-1-2-Observa": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-2-3-4-5-6-7-8-9-10-11-12-13-14-15-regras-de-delimitação-de-plataforma-continental-de-estados-arquipelágicos": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S27-19-20-21-22-23-24-25-regras-aplicáveis-aos-estados-costeiros": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S28-8-9-10-11-alterada-em-duas-situações": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-9-países": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S29-6-indicado": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-2-3-4-CLPC": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S33-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-prazo-de-até-dez-anos-após-a-entrada-em-vigor-da-CNUDM-para-o-país": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-2-3-4-5-6-7-atividades-do-LEPLAC": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S34-9-10-11-iniciadas-em-1987": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-5-Brasil": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-9-10-11-12-13-14-15-16-17-18-três-submissões-revistas-parciais-à-CLPC": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-1-Diante": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S36-8-três": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-17-Convenção": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S37-1-2-3-Entendendo": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-2-3-4-5-fundos-oceânicos-internacionais": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S42-9-10-11-12-13-14-15-16-exclusão-como-:-o-\"-leito-do-mar": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-2-3-4-5-6-Área-e-seus-recursos-minerais": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S44-9-10-11-comum-da-humanidade": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-2-3-4-5-CNUDM": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S49-10-11-12-criação-da-Empresa": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-2-3-4-espaço-marítimo-brasileiro": [],
+    "82f48d6f-409b-49ad-a4b1-6c24761c143e-S55-7-nome": []
+  }
+}

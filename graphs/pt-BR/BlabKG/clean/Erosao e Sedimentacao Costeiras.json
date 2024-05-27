@@ -1,0 +1,337 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Erosao e Sedimentacao Costeiras.txt",
+  "entities": {
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-1-2-3-Sedimento": "Sedimento",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-5-6-7-8-todo-material-transportado": "todo material transportado",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-8-9-sedimentos": "sedimentos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-13-14-15-16-17-função-do-tamanho-de-seus": "função do tamanho de seus",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-2-3-4-5-6-7-8-transporte-de-sedimentos-na-zona-costeira": "transporte de sedimentos na zona costeira",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-11-12-13-14-15-16-17-meio-da-combinação-de-processos-dinâmicos": "meio da combinação de processos dinâmicos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S7-17-18-19-20-21-saldo-final-entre-perdas": "saldo final entre perdas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-2-trocas": "trocas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-8-praia": "praia",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-5-6-7-8-naturais-ou-do-homem": "naturais ou do homem",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-13-equilíbrio": "equilíbrio",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-15-16-17-18-19-fazendo-predominar-a-erosão": "fazendo predominar a erosão",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia": "balanço sedimentar na praia",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-51-52-53-erosão-da-praia": "erosão da praia",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-18-saída": "saída",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-11-negativo": "negativo",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S12-13-positivo": "positivo",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-1-2-Tal-conceito": "Tal conceito",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-6-7-gestão-costeira": "gestão costeira",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-23-praia": "praia",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-29-largura": "largura",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S19-7-8-9-10-11-12-13-processo-de-erosão-ou-retrogradação": "processo de erosão ou retrogradação",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-6-praias": "praias",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial": "erosão praial",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-1-Quando": "Quando",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-3-4-5-termo-erosão-marinha": "termo erosão marinha",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-9-10-11-12-13-14-erosão-causada-pela-ação-das-ondas": "erosão causada pela ação das ondas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-22-situação": "situação",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-24-25-26-27-28-decorrente-de-diversos-processos": "decorrente de diversos processos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-3-4-erosão-costeira": "erosão costeira",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-6-7-essencialmente-produto": "essencialmente produto",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-21-22-23-24-25-26-27-28-alterando-os-estoques-de-areia-disponíveis": "alterando os estoques de areia disponíveis",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-34-alterações": "alterações",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-2-exemplo": "exemplo",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-6-7-8-9-10-11-ocorre-atualmente-na-cidade-de-Santos": "ocorre atualmente na cidade de Santos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-9-10-11-12-13-cidade-de-Santos-(-SP": "cidade de Santos ( SP",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-7-atualmente": "atualmente",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-2-região": "região",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-7-8-9-10-11-12-13-ressacas-e-marés-altas": "ressacas e marés altas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-2-cidade": "cidade",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-4-5-6-7-8-9-10-11-classificada-com-grau-de-vulnerabilidade-elevado": "classificada com grau de vulnerabilidade elevado",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-2-3-4-5-características-socioeconômicas": "características socioeconômicas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-17-18-19-20-21-aumentar-sua-vulnerabilidade": "aumentar sua vulnerabilidade",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-9-10-11-significativa-densidade-demográfica": "significativa densidade demográfica",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-5-6-7-8-9-10-mais-de-um-milhão-de-pessoas": "mais de um milhão de pessoas",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-14-15-16-17-18-19-risco-social-nos-municípios-de-Santos": "risco social nos municípios de Santos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-5-6-7-8-9-10-causas-antrópicas-e-naturais": "causas antrópicas e naturais",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-14-15-16-17-si-o-tempo-todo": "si o tempo todo",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S40-4-5-6-maioria-dos-autores": "maioria dos autores",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-2-velocidade": "velocidade",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-7-8-9-10-11-erosão-costeira-pode-variar-bastante": "erosão costeira pode variar bastante",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-1-2-3-4-Nesse-caso-a-erosão": "Nesse caso a erosão",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-6-7-8-9-pouco-perceptível": "pouco perceptível",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S54-10-11-12-13-14-15-16-principais-problemas-ambientais-da-zona-costeira-mundial": "principais problemas ambientais da zona costeira mundial",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-1-2-Dados-relativos": "Dados relativos",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-10-11-12-13-,-já-naquela-época": ", já naquela época",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-5-6-7-8-40-%-da-costa": "40 % da costa",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-11-12-13-14-graves-problemas-de-erosão": "graves problemas de erosão",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-2-3-região-nordeste": "região nordeste",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-9-52": "52",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-4-Brasil": "Brasil",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-7-8-9-10-11-12-13-país-muito-vulnerável-a-esse-fenômeno": "país muito vulnerável a esse fenômeno",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-11-12-13-14-15-16-consequente-aumento-do-nível-do-mar": "consequente aumento do nível do mar",
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-25-26-principais-causas": "principais causas"
+  },
+  "graph": [
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-1-2-3-Sedimento",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-5-6-7-8-todo-material-transportado"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-8-9-sedimentos",
+      "relation": "são classificados em",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-13-14-15-16-17-função-do-tamanho-de-seus"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-2-3-4-5-6-7-8-transporte-de-sedimentos-na-zona-costeira",
+      "relation": "acontece por",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-11-12-13-14-15-16-17-meio-da-combinação-de-processos-dinâmicos"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia",
+      "relation": "é o",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S7-17-18-19-20-21-saldo-final-entre-perdas"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-2-trocas",
+      "relation": "podem ocorrer entre",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-8-praia"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-2-3-4-5-6-7-8-transporte-de-sedimentos-na-zona-costeira",
+      "relation": "entra no",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-5-6-7-8-naturais-ou-do-homem",
+      "relation": "podem afetar",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-13-equilíbrio"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-5-6-7-8-naturais-ou-do-homem",
+      "relation": "podem afetar",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-15-16-17-18-19-fazendo-predominar-a-erosão"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia",
+      "relation": "começará a predominar",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-51-52-53-erosão-da-praia"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-18-saída",
+      "relation": "começará a predominar",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-51-52-53-erosão-da-praia"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia",
+      "relation": "for",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-11-negativo"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia",
+      "relation": "for",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S12-13-positivo"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-1-2-Tal-conceito",
+      "relation": "é aplicado",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-6-7-gestão-costeira"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-23-praia",
+      "relation": "tenderá a crescer em",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-29-largura"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-3-4-erosão-costeira",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S19-7-8-9-10-11-12-13-processo-de-erosão-ou-retrogradação"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-6-praias",
+      "relation": "passa a ser denominada de",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-1-Quando",
+      "relation": "passa a ser denominada de",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-3-4-5-termo-erosão-marinha",
+      "relation": "refere à",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-9-10-11-12-13-14-erosão-causada-pela-ação-das-ondas"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-22-situação",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-24-25-26-27-28-decorrente-de-diversos-processos"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-3-4-erosão-costeira",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-24-25-26-27-28-decorrente-de-diversos-processos"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-3-4-erosão-costeira",
+      "relation": "seja",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-6-7-essencialmente-produto"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-21-22-23-24-25-26-27-28-alterando-os-estoques-de-areia-disponíveis",
+      "relation": "induz",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-34-alterações"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-2-exemplo",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-6-7-8-9-10-11-ocorre-atualmente-na-cidade-de-Santos"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-2-exemplo",
+      "relation": "ocorre",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-9-10-11-12-13-cidade-de-Santos-(-SP"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-2-exemplo",
+      "relation": "ocorre",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-7-atualmente"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-2-região",
+      "relation": "sofre com",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-7-8-9-10-11-12-13-ressacas-e-marés-altas"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-2-cidade",
+      "relation": "foi",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-4-5-6-7-8-9-10-11-classificada-com-grau-de-vulnerabilidade-elevado"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-2-3-4-5-características-socioeconômicas",
+      "relation": "contribuíram para",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-17-18-19-20-21-aumentar-sua-vulnerabilidade"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-9-10-11-significativa-densidade-demográfica",
+      "relation": "contribuíram para",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-17-18-19-20-21-aumentar-sua-vulnerabilidade"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-5-6-7-8-9-10-mais-de-um-milhão-de-pessoas",
+      "relation": "estejam expostas ao",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-14-15-16-17-18-19-risco-social-nos-municípios-de-Santos"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-5-6-7-8-9-10-causas-antrópicas-e-naturais",
+      "relation": "interagem entre",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-14-15-16-17-si-o-tempo-todo"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S40-4-5-6-maioria-dos-autores",
+      "relation": "considera",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-5-6-7-8-9-10-causas-antrópicas-e-naturais"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-2-velocidade",
+      "relation": "ocorre",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-7-8-9-10-11-erosão-costeira-pode-variar-bastante"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-1-2-3-4-Nesse-caso-a-erosão",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-6-7-8-9-pouco-perceptível"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S54-10-11-12-13-14-15-16-principais-problemas-ambientais-da-zona-costeira-mundial"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-1-2-Dados-relativos",
+      "relation": "mostravam",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-10-11-12-13-,-já-naquela-época"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-5-6-7-8-40-%-da-costa",
+      "relation": "enfrenta",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-11-12-13-14-graves-problemas-de-erosão"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-2-3-região-nordeste",
+      "relation": "registra",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-9-52"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-4-Brasil",
+      "relation": "é",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-7-8-9-10-11-12-13-país-muito-vulnerável-a-esse-fenômeno"
+    },
+    {
+      "subject_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-11-12-13-14-15-16-consequente-aumento-do-nível-do-mar",
+      "relation": "são apontados",
+      "object_id": "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-25-26-principais-causas"
+    }
+  ],
+  "links": {
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-1-2-3-Sedimento": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S0-5-6-7-8-todo-material-transportado": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-8-9-sedimentos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S2-13-14-15-16-17-função-do-tamanho-de-seus": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-2-3-4-5-6-7-8-transporte-de-sedimentos-na-zona-costeira": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S5-11-12-13-14-15-16-17-meio-da-combinação-de-processos-dinâmicos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S7-17-18-19-20-21-saldo-final-entre-perdas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-2-trocas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S8-8-praia": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-5-6-7-8-naturais-ou-do-homem": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-13-equilíbrio": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S10-15-16-17-18-19-fazendo-predominar-a-erosão": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-3-4-5-6-7-8-9-balanço-sedimentar-na-praia": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-51-52-53-erosão-da-praia": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-18-saída": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S11-11-negativo": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S12-13-positivo": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-1-2-Tal-conceito": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S14-6-7-gestão-costeira": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-23-praia": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S16-29-largura": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S19-7-8-9-10-11-12-13-processo-de-erosão-ou-retrogradação": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-6-praias": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-13-14-15-erosão-praial": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S20-1-Quando": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-3-4-5-termo-erosão-marinha": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S22-9-10-11-12-13-14-erosão-causada-pela-ação-das-ondas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-22-situação": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-24-25-26-27-28-decorrente-de-diversos-processos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-3-4-erosão-costeira": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S23-6-7-essencialmente-produto": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-21-22-23-24-25-26-27-28-alterando-os-estoques-de-areia-disponíveis": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S25-34-alterações": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-2-exemplo": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-6-7-8-9-10-11-ocorre-atualmente-na-cidade-de-Santos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-9-10-11-12-13-cidade-de-Santos-(-SP": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S32-7-atualmente": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-2-região": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S33-7-8-9-10-11-12-13-ressacas-e-marés-altas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-2-cidade": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S34-4-5-6-7-8-9-10-11-classificada-com-grau-de-vulnerabilidade-elevado": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-2-3-4-5-características-socioeconômicas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-17-18-19-20-21-aumentar-sua-vulnerabilidade": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S36-9-10-11-significativa-densidade-demográfica": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-5-6-7-8-9-10-mais-de-um-milhão-de-pessoas": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S37-14-15-16-17-18-19-risco-social-nos-municípios-de-Santos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-5-6-7-8-9-10-causas-antrópicas-e-naturais": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S39-14-15-16-17-si-o-tempo-todo": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S40-4-5-6-maioria-dos-autores": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-2-velocidade": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S41-7-8-9-10-11-erosão-costeira-pode-variar-bastante": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-1-2-3-4-Nesse-caso-a-erosão": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S43-6-7-8-9-pouco-perceptível": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S54-10-11-12-13-14-15-16-principais-problemas-ambientais-da-zona-costeira-mundial": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-1-2-Dados-relativos": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S55-10-11-12-13-,-já-naquela-época": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-5-6-7-8-40-%-da-costa": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S58-11-12-13-14-graves-problemas-de-erosão": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-2-3-região-nordeste": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S59-9-52": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-4-Brasil": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S60-7-8-9-10-11-12-13-país-muito-vulnerável-a-esse-fenômeno": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-11-12-13-14-15-16-consequente-aumento-do-nível-do-mar": [],
+    "23ed71d6-5a70-4461-93e0-c2ff2eac3f47-S76-25-26-principais-causas": []
+  }
+}

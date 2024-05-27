@@ -1,0 +1,487 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Esportes Maritimos.txt",
+  "entities": {
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S0-2-3-4-5-hidrografia-do-Brasil": "hidrografia do Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S0-14-15-16-17-18-19-20-21-gama-variada-de-possibilidades-para-a-realização": "gama variada de possibilidades para a realização",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-2-3-4-esportes-aquáticos": "esportes aquáticos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-11-12-13-14-15-corpo-deve-estar-imerso": "corpo deve estar imerso",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-corpo": "corpo",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-13-14-15-16-17-imerso-na-água": "imerso na água",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S3-2-definição": "definição",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S3-6-7-8-9-10-11-praticados-em-águas-delimitadas": "praticados em águas delimitadas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S8-8-pessoa": "pessoa",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S8-11-12-13-dentro-da-embarcação": "dentro da embarcação",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S9-3-4-5-6-termo-esportes-marítimos": "termo esportes marítimos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S9-12-esportes": "esportes",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-20-21-qualquer-atividade": "qualquer atividade",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-57-58-59-60-sinônimos-de-esporte": "sinônimos de esporte",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-8-9-10-11-toda-prática-lúdica": "toda prática lúdica",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-1-2-Frequentemente": "Frequentemente",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-4-5-6-7-8-9-10-11---se-esporte-como-toda-prática-lúdica": "- se esporte como toda prática lúdica",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-24-25-grande-maioria": "grande maioria",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-12-13-14-arraigada": "arraigada",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-11-profundamente": "profundamente",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-9-escolas": "escolas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-25-26-27-esportes-náuticos": "esportes náuticos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-15-vários": "vários",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S16-9-Brasil": "Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S16-12-13-14-15-16-17-18-19-20-boa-tradição-mundial-no-segmento-dos-esportes-náuticos": "boa tradição mundial no segmento dos esportes náuticos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S17-10-11-12-13-14-15-16-17-quatro-das-sete-medalhas-de-ouro-do-Brasil": "quatro das sete medalhas de ouro do Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S17-21-22-23-esportes-no-mar": "esportes no mar",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S20-7-8-9-brasileira-Tatiana": "brasileira Tatiana",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S20-17-18-19-2°-lugar": "2° lugar",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S25-15-16-17-18-19-maratonas-aquáticas": "maratonas aquáticas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S25-23-24-25-26-27-28-29-programa-olímpico-nos-Jogos-de-Pequim-2008": "programa olímpico nos Jogos de Pequim 2008",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S26-5-6-7-objetivo-dos-atletas": "objetivo dos atletas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S26-9-10-11-12-13-14-15-16-nadar-determinada-distância-no-menor-tempo-possível": "nadar determinada distância no menor tempo possível",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S27-2-atletas": "atletas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S27-6-7-8-9-mar-ou-em-rios": "mar ou em rios",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S28-2-vencedor": "vencedor",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S28-5-6-7-8-9-atleta-mais-veloz": "atleta mais veloz",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S29-11-distância": "distância",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S29-15-16-10km": "10km",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil": "Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-3-4-5-6-7-apenas-três-edições-olímpicas": "apenas três edições olímpicas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-18-19-20-21-22-23-24-25-pódio-na-modalidade-de-maratona-aquática": "pódio na modalidade de maratona aquática",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-1-Mesmo": "Mesmo",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S32-1-2-3-4-Mergulho": "Mergulho",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S32-7-8-9-10-11-12-13-14-prática-de-submergir-na-água": "prática de submergir na água",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-2-3-mergulho-livre": "mergulho livre",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-8-não": "não",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-10-11-12-13-14-necessário-um-aparelho-de-respiração": "necessário um aparelho de respiração",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S35-2-3-4-5-6-praticante-de-mergulho-livre": "praticante de mergulho livre",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S35-10-11-12-apneia": "apneia",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S37-11-12-praticante": "praticante",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S37-29-30-31-32-33-34-35-36-37-,-por-meio-de-um-regulador-de-pressão": ", por meio de um regulador de pressão",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-5-6-treinamentos-especializados": "treinamentos especializados",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-14-profissionais": "profissionais",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-2-últimos": "últimos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S41-10-atletas": "atletas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S41-12-dentro": "dentro",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S42-2-objetivo": "objetivo",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S42-4-5-6-7-percorrer-certa-distância": "percorrer certa distância",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S44-2-3-surfe": "surfe",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S44-7-8-9-10-11-12-13-14-15-16-17-esportes-mais-praticados-de-forma-recreativa-no-Brasil": "esportes mais praticados de forma recreativa no Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S45-2-3-4-5-modalidades-do-surfe": "modalidades do surfe",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S45-8-9-10-11-acordo-com-o-tamanho": "acordo com o tamanho",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S49-1-2-Ganha": "Ganha",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S49-6-7-8-9-maior-soma-de-pontuação": "maior soma de pontuação",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-7-8-surfe": "surfe",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-18-19-20-21-22-23-24-25-nas-olimpíadas-de-Tóquio-2020": "nas olimpíadas de Tóquio 2020",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-30-Brasil": "Brasil",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-33-34-35-medalha-de-ouro": "medalha de ouro",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S53-2-inglês": "inglês",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S53-5-6-7-8-9-10-11-12-13-termos-canoeing-e-kayaking": "termos canoeing e kayaking",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S55-1-2-3-4-Nas-olimpíadas": "Nas olimpíadas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S55-7-8-9-10-11-12-13-Canoagem-Velocidade-(-desde-1968": "Canoagem Velocidade ( desde 1968",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S56-1-2-Canoísta": "Canoísta",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S56-5-6-termo-usado": "termo usado",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S58-11-12-canoístas": "canoístas",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S58-15-16-sentados": "sentados",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-caiaques": "caiaques",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-10-11-12-13-14-leme,-acionado": "leme, acionado",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-8-9-10-11-caiaques-possuem-um-leme": "caiaques possuem um leme",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-17-pés": "pés",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S60-1-2-Vela": "Vela",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S60-5-6-7-8-9-10-11-12-13-14-arte-de-mover-um-barco-aproveitando-a-força-do-vento": "arte de mover um barco aproveitando a força do vento",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S61-2-vela": "vela",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S61-6-7-8-9-10-11-12-13-14-primeira-vez-como-esporte-Olímpico-nos-Jogos-de-Paris": "primeira vez como esporte Olímpico nos Jogos de Paris",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-4-5-6-7-diversas-categorias-da-vela": "diversas categorias da vela",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-12-13-programação-olímpica": "programação olímpica",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-classes-de-barcos": "classes de barcos",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-20-21-22-classes-de-barcos-que-podem-competir": "classes de barcos que podem competir",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-26-27-28-continuamente-para-refletir": "continuamente para refletir",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-22-competir": "competir",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S63-2-3-4-5-6-7-avanços-dos-equipamentos-nos-últimos-20": "avanços dos equipamentos nos últimos 20",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S63-11-12-13-14-tendência-para-embarcações-menores": "tendência para embarcações menores",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S64-6-vela": "vela",
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S64-9-10-11-12-13-14-15-esporte-que-mais-rendeu-medalhas-ao-Brasil": "esporte que mais rendeu medalhas ao Brasil"
+  },
+  "graph": [
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S0-2-3-4-5-hidrografia-do-Brasil",
+      "relation": "oferece uma",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S0-14-15-16-17-18-19-20-21-gama-variada-de-possibilidades-para-a-realização"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S1-2-3-4-esportes-aquáticos",
+      "relation": "são",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-11-12-13-14-15-corpo-deve-estar-imerso"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-corpo",
+      "relation": "deve estar",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S1-13-14-15-16-17-imerso-na-água"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S3-2-definição",
+      "relation": "inclui tanto",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S3-6-7-8-9-10-11-praticados-em-águas-delimitadas"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S8-8-pessoa",
+      "relation": "deve permanecer",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S8-11-12-13-dentro-da-embarcação"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S9-3-4-5-6-termo-esportes-marítimos",
+      "relation": "refere somente aos",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S9-12-esportes"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-20-21-qualquer-atividade",
+      "relation": "são",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-57-58-59-60-sinônimos-de-esporte"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-8-9-10-11-toda-prática-lúdica",
+      "relation": "são",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-57-58-59-60-sinônimos-de-esporte"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-1-2-Frequentemente",
+      "relation": "define",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S11-4-5-6-7-8-9-10-11---se-esporte-como-toda-prática-lúdica"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S13-24-25-grande-maioria",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S13-12-13-14-arraigada"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S13-24-25-grande-maioria",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S13-11-profundamente"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S15-9-escolas",
+      "relation": "praticam",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S15-25-26-27-esportes-náuticos"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S15-15-vários",
+      "relation": "praticam",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S15-25-26-27-esportes-náuticos"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S16-9-Brasil",
+      "relation": "tem uma",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S16-12-13-14-15-16-17-18-19-20-boa-tradição-mundial-no-segmento-dos-esportes-náuticos"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S17-10-11-12-13-14-15-16-17-quatro-das-sete-medalhas-de-ouro-do-Brasil",
+      "relation": "foram obtidas",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S17-21-22-23-esportes-no-mar"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S20-7-8-9-brasileira-Tatiana",
+      "relation": "ocupou o",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S20-17-18-19-2°-lugar"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S25-15-16-17-18-19-maratonas-aquáticas",
+      "relation": "estrearam no",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S25-23-24-25-26-27-28-29-programa-olímpico-nos-Jogos-de-Pequim-2008"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S26-5-6-7-objetivo-dos-atletas",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S26-9-10-11-12-13-14-15-16-nadar-determinada-distância-no-menor-tempo-possível"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S27-2-atletas",
+      "relation": "competem",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S27-6-7-8-9-mar-ou-em-rios"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S28-2-vencedor",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S28-5-6-7-8-9-atleta-mais-veloz"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S29-11-distância",
+      "relation": "foi definida em",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S29-15-16-10km"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil",
+      "relation": "já",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-3-4-5-6-7-apenas-três-edições-olímpicas"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil",
+      "relation": "já",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-18-19-20-21-22-23-24-25-pódio-na-modalidade-de-maratona-aquática"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil",
+      "relation": "já",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S30-1-Mesmo"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S32-1-2-3-4-Mergulho",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S32-7-8-9-10-11-12-13-14-prática-de-submergir-na-água"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S34-2-3-mergulho-livre",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S34-8-não"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S34-8-não",
+      "relation": "é necessário",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S34-10-11-12-13-14-necessário-um-aparelho-de-respiração"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S35-2-3-4-5-6-praticante-de-mergulho-livre",
+      "relation": "pode fazer a",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S35-10-11-12-apneia"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S37-11-12-praticante",
+      "relation": "recebe",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S37-29-30-31-32-33-34-35-36-37-,-por-meio-de-um-regulador-de-pressão"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S39-5-6-treinamentos-especializados",
+      "relation": "devem ser praticados por",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S39-14-profissionais"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S39-2-últimos",
+      "relation": "requerem",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S39-5-6-treinamentos-especializados"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S41-10-atletas",
+      "relation": "ficam",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S41-12-dentro"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S42-2-objetivo",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S42-4-5-6-7-percorrer-certa-distância"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S44-2-3-surfe",
+      "relation": "é um",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S44-7-8-9-10-11-12-13-14-15-16-17-esportes-mais-praticados-de-forma-recreativa-no-Brasil"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S45-2-3-4-5-modalidades-do-surfe",
+      "relation": "variam de",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S45-8-9-10-11-acordo-com-o-tamanho"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S49-1-2-Ganha",
+      "relation": "receber",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S49-6-7-8-9-maior-soma-de-pontuação"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S50-7-8-surfe",
+      "relation": "estreou",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S50-18-19-20-21-22-23-24-25-nas-olimpíadas-de-Tóquio-2020"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S50-30-Brasil",
+      "relation": "levou a",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S50-33-34-35-medalha-de-ouro"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S53-2-inglês",
+      "relation": "encontramos os",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S53-5-6-7-8-9-10-11-12-13-termos-canoeing-e-kayaking"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S55-1-2-3-4-Nas-olimpíadas",
+      "relation": "temos",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S55-7-8-9-10-11-12-13-Canoagem-Velocidade-(-desde-1968"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S56-1-2-Canoísta",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S56-5-6-termo-usado"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S58-11-12-canoístas",
+      "relation": "competem",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S58-15-16-sentados"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-caiaques",
+      "relation": "possuem",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S59-10-11-12-13-14-leme,-acionado"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-8-9-10-11-caiaques-possuem-um-leme",
+      "relation": "acionado",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S59-17-pés"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S60-1-2-Vela",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S60-5-6-7-8-9-10-11-12-13-14-arte-de-mover-um-barco-aproveitando-a-força-do-vento"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S61-2-vela",
+      "relation": "foi",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S61-6-7-8-9-10-11-12-13-14-primeira-vez-como-esporte-Olímpico-nos-Jogos-de-Paris"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-4-5-6-7-diversas-categorias-da-vela",
+      "relation": "saíram",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-12-13-programação-olímpica"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-classes-de-barcos",
+      "relation": "entraram",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-12-13-programação-olímpica"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-4-5-6-7-diversas-categorias-da-vela",
+      "relation": "entraram",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-12-13-programação-olímpica"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-20-21-22-classes-de-barcos-que-podem-competir",
+      "relation": "têm evoluído",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-26-27-28-continuamente-para-refletir"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-classes-de-barcos",
+      "relation": "podem",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S62-22-competir"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S63-2-3-4-5-6-7-avanços-dos-equipamentos-nos-últimos-20",
+      "relation": "criaram",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S63-11-12-13-14-tendência-para-embarcações-menores"
+    },
+    {
+      "subject_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S64-6-vela",
+      "relation": "é",
+      "object_id": "9258c14c-e070-4b60-8483-e5103feb00b6-S64-9-10-11-12-13-14-15-esporte-que-mais-rendeu-medalhas-ao-Brasil"
+    }
+  ],
+  "links": {
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S0-2-3-4-5-hidrografia-do-Brasil": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S0-14-15-16-17-18-19-20-21-gama-variada-de-possibilidades-para-a-realização": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-2-3-4-esportes-aquáticos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-11-12-13-14-15-corpo-deve-estar-imerso": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-10-corpo": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S1-13-14-15-16-17-imerso-na-água": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S3-2-definição": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S3-6-7-8-9-10-11-praticados-em-águas-delimitadas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S8-8-pessoa": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S8-11-12-13-dentro-da-embarcação": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S9-3-4-5-6-termo-esportes-marítimos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S9-12-esportes": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-20-21-qualquer-atividade": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-57-58-59-60-sinônimos-de-esporte": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-8-9-10-11-toda-prática-lúdica": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-1-2-Frequentemente": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S11-4-5-6-7-8-9-10-11---se-esporte-como-toda-prática-lúdica": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-24-25-grande-maioria": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-12-13-14-arraigada": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S13-11-profundamente": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-9-escolas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-25-26-27-esportes-náuticos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S15-15-vários": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S16-9-Brasil": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S16-12-13-14-15-16-17-18-19-20-boa-tradição-mundial-no-segmento-dos-esportes-náuticos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S17-10-11-12-13-14-15-16-17-quatro-das-sete-medalhas-de-ouro-do-Brasil": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S17-21-22-23-esportes-no-mar": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S20-7-8-9-brasileira-Tatiana": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S20-17-18-19-2°-lugar": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S25-15-16-17-18-19-maratonas-aquáticas": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S30-18-19-20-21-22-23-24-25-pódio-na-modalidade-de-maratona-aquática"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S25-23-24-25-26-27-28-29-programa-olímpico-nos-Jogos-de-Pequim-2008": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S26-5-6-7-objetivo-dos-atletas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S26-9-10-11-12-13-14-15-16-nadar-determinada-distância-no-menor-tempo-possível": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S27-2-atletas": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S41-10-atletas"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S27-6-7-8-9-mar-ou-em-rios": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S28-2-vencedor": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S28-5-6-7-8-9-atleta-mais-veloz": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S29-11-distância": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S29-15-16-10km": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S16-9-Brasil",
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S50-30-Brasil"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-3-4-5-6-7-apenas-três-edições-olímpicas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-18-19-20-21-22-23-24-25-pódio-na-modalidade-de-maratona-aquática": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S25-15-16-17-18-19-maratonas-aquáticas"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S30-1-Mesmo": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S32-1-2-3-4-Mergulho": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S32-7-8-9-10-11-12-13-14-prática-de-submergir-na-água": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-2-3-mergulho-livre": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-8-não": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S34-10-11-12-13-14-necessário-um-aparelho-de-respiração": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S35-2-3-4-5-6-praticante-de-mergulho-livre": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S35-10-11-12-apneia": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S37-11-12-praticante": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S37-29-30-31-32-33-34-35-36-37-,-por-meio-de-um-regulador-de-pressão": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-5-6-treinamentos-especializados": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-14-profissionais": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S39-2-últimos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S41-10-atletas": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S27-2-atletas"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S41-12-dentro": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S42-2-objetivo": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S42-4-5-6-7-percorrer-certa-distância": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S44-2-3-surfe": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S50-7-8-surfe"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S44-7-8-9-10-11-12-13-14-15-16-17-esportes-mais-praticados-de-forma-recreativa-no-Brasil": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S45-2-3-4-5-modalidades-do-surfe": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S45-8-9-10-11-acordo-com-o-tamanho": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S49-1-2-Ganha": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S49-6-7-8-9-maior-soma-de-pontuação": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-7-8-surfe": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S44-2-3-surfe"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-18-19-20-21-22-23-24-25-nas-olimpíadas-de-Tóquio-2020": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-30-Brasil": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S30-14-Brasil"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S50-33-34-35-medalha-de-ouro": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S53-2-inglês": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S53-5-6-7-8-9-10-11-12-13-termos-canoeing-e-kayaking": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S55-1-2-3-4-Nas-olimpíadas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S55-7-8-9-10-11-12-13-Canoagem-Velocidade-(-desde-1968": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S56-1-2-Canoísta": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S56-5-6-termo-usado": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S58-11-12-canoístas": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S58-15-16-sentados": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-caiaques": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-10-11-12-13-14-leme,-acionado": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-5-6-7-8-9-10-11-caiaques-possuem-um-leme": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S59-17-pés": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S60-1-2-Vela": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S60-5-6-7-8-9-10-11-12-13-14-arte-de-mover-um-barco-aproveitando-a-força-do-vento": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S61-2-vela": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S64-6-vela"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S61-6-7-8-9-10-11-12-13-14-primeira-vez-como-esporte-Olímpico-nos-Jogos-de-Paris": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-4-5-6-7-diversas-categorias-da-vela": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-12-13-programação-olímpica": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-classes-de-barcos": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-17-18-19-20-21-22-classes-de-barcos-que-podem-competir": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-26-27-28-continuamente-para-refletir": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S62-22-competir": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S63-2-3-4-5-6-7-avanços-dos-equipamentos-nos-últimos-20": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S63-11-12-13-14-tendência-para-embarcações-menores": [],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S64-6-vela": [
+      "9258c14c-e070-4b60-8483-e5103feb00b6-S61-2-vela"
+    ],
+    "9258c14c-e070-4b60-8483-e5103feb00b6-S64-9-10-11-12-13-14-15-esporte-que-mais-rendeu-medalhas-ao-Brasil": []
+  }
+}

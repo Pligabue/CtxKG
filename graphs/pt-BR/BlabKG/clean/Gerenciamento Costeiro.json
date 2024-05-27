@@ -1,0 +1,227 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Gerenciamento Costeiro.txt",
+  "entities": {
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-2-3-4-gerenciamento-costeiro": "gerenciamento costeiro",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-7-8-9-10-11-12-13-14-15-16-matéria-tratada-no-Brasil-tanto-em-razão-da-Política-Nacional": "matéria tratada no Brasil tanto em razão da Política Nacional",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-10-políticas": "políticas",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-13-14-15-16-17-motivação-legislativa-diversa": "motivação legislativa diversa",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-1-2-Nesse-contexto": "Nesse contexto",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-necessário-esclarecer-que-essas-políticas-tiveram-uma-motivação-legislativa-diversa-quando-de-suas-criações": "necessário esclarecer que essas políticas tiveram uma motivação legislativa diversa quando de suas criações",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-2-Brasil": "Brasil",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-5-6-7-PNMA": "PNMA",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S3-9-10-11-12-13-14-15-16-marcada-desde-o-início-pelas-ideias-de-proteção": "marcada desde o início pelas ideias de proteção",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S4-10-Brasil": "Brasil",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-45-46-recursos-marinhos": "recursos marinhos",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-48-49-analisados": "analisados",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-9-10-11-12-13-14-15-primeira-versão-do-PNRM": "primeira versão do PNRM",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-19-preocupação": "preocupação",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-4-5-Constituição-Federal": "Constituição Federal",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-9-10-11-12-13-zona-costeira-como-patrimônio-nacional": "zona costeira como patrimônio nacional",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-4-constituição": "constituição",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-8-9-10-11-12-13-14-15-16-17-18-19-uso-da-zona-costeira-será-realizado-de-forma-a-assegurar-a-preservação": "uso da zona costeira será realizado de forma a assegurar a preservação",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-49-Programa": "Programa",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-58-1987": "1987",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-1-Devido": "Devido",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-5-6-7-8-9-Lei-n.-°-7": "Lei n. ° 7",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-15-16-17-18-19-20-21-22-Plano-Nacional-de-Gerenciamento-Costeiro": "Plano Nacional de Gerenciamento Costeiro",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-2-3-4-PNGC": "PNGC",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-20-21-22-23-seu-processo-que-todas": "seu processo que todas",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-7-8-9-10-substituir-o-manejo": "substituir o manejo",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S17-9-10-11-12-13-14-15-16-17-artigo-5-da-Lei-no-7.-661": "artigo 5 da Lei no 7. 661",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-2-3-4-5-Estados-e-Municípios": "Estados e Municípios",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-10-11-12-órgãos-competentes": "órgãos competentes",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-2-3-4-faxa-marítima": "faxa marítima",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-8-espaço": "espaço",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-1-2-3-4-Já-a-faixa-terrestre": "Já a faixa terrestre",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-9-10-11-12-13-14-15-16-espaço-compreendido-pelos-limites-dos-Municípios": "espaço compreendido pelos limites dos Municípios",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-2-3-4-5-6-7-8-9-Decreto-n°-5.-300-/-2004": "Decreto n° 5. 300 / 2004",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-13-14-15-16-17-18-19-seu-artigo-5o-outros-princípios-fundamentais": "seu artigo 5o outros princípios fundamentais",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S26-18-19-20-21-22-23-,-em-seu-artigo-7o": ", em seu artigo 7o",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-2-3-4-5-PROCOSTA": "PROCOSTA",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-8-9-10-11-12-13-14-15-programa-permanente-de-planejamento-e-gestão-da-zona": "programa permanente de planejamento e gestão da zona",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-2-3-4-5-6-7-criação-do-PROCOSTA": "criação do PROCOSTA",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-9-10-11-12-13-14-15-relacionada-aos-perigos-trazidos-pelas-mudanças-climáticas": "relacionada aos perigos trazidos pelas mudanças climáticas",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-2-3-desastres": "desastres",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-9-10-populações-costeiras": "populações costeiras",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-7-8-Procosta": "Procosta",
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-12-13-14-Brasil-um-programa": "Brasil um programa"
+  },
+  "graph": [
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-2-3-4-gerenciamento-costeiro",
+      "relation": "é uma",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-7-8-9-10-11-12-13-14-15-16-matéria-tratada-no-Brasil-tanto-em-razão-da-Política-Nacional"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-10-políticas",
+      "relation": "tiveram",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-13-14-15-16-17-motivação-legislativa-diversa"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-1-2-Nesse-contexto",
+      "relation": "é",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-necessário-esclarecer-que-essas-políticas-tiveram-uma-motivação-legislativa-diversa-quando-de-suas-criações"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-2-Brasil",
+      "relation": "adotou",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-5-6-7-PNMA"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-5-6-7-PNMA",
+      "relation": "foi marcada",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S3-9-10-11-12-13-14-15-16-marcada-desde-o-início-pelas-ideias-de-proteção"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-5-6-7-PNMA",
+      "relation": "foi adotado",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S4-10-Brasil"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-45-46-recursos-marinhos",
+      "relation": "eram",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-48-49-analisados"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-9-10-11-12-13-14-15-primeira-versão-do-PNRM",
+      "relation": "não",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-19-preocupação"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-4-5-Constituição-Federal",
+      "relation": "definie",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-9-10-11-12-13-zona-costeira-como-patrimônio-nacional"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-4-constituição",
+      "relation": "determina",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-8-9-10-11-12-13-14-15-16-17-18-19-uso-da-zona-costeira-será-realizado-de-forma-a-assegurar-a-preservação"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-49-Programa",
+      "relation": "surgem",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-58-1987"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-1-Devido",
+      "relation": "surgem",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-58-1987"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-5-6-7-8-9-Lei-n.-°-7",
+      "relation": "instituiu",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-15-16-17-18-19-20-21-22-Plano-Nacional-de-Gerenciamento-Costeiro"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-2-3-4-PNGC",
+      "relation": "busca assegurar",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-20-21-22-23-seu-processo-que-todas"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-2-3-4-PNGC",
+      "relation": "não",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-7-8-9-10-substituir-o-manejo"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S17-9-10-11-12-13-14-15-16-17-artigo-5-da-Lei-no-7.-661",
+      "relation": "estabelece",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-2-3-4-5-Estados-e-Municípios"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-2-3-4-5-Estados-e-Municípios",
+      "relation": "podem designar os",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-10-11-12-órgãos-competentes"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-2-3-4-5-Estados-e-Municípios",
+      "relation": "também",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-10-11-12-órgãos-competentes"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-2-3-4-faxa-marítima",
+      "relation": "corresponderia ao",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-8-espaço"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-1-2-3-4-Já-a-faixa-terrestre",
+      "relation": "é definida",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-9-10-11-12-13-14-15-16-espaço-compreendido-pelos-limites-dos-Municípios"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-2-3-4-5-6-7-8-9-Decreto-n°-5.-300-/-2004",
+      "relation": "estabelece",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-13-14-15-16-17-18-19-seu-artigo-5o-outros-princípios-fundamentais"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-2-3-4-5-6-7-8-9-Decreto-n°-5.-300-/-2004",
+      "relation": "prevê",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S26-18-19-20-21-22-23-,-em-seu-artigo-7o"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-2-3-4-5-PROCOSTA",
+      "relation": "é um",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-8-9-10-11-12-13-14-15-programa-permanente-de-planejamento-e-gestão-da-zona"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-2-3-4-5-6-7-criação-do-PROCOSTA",
+      "relation": "está",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-9-10-11-12-13-14-15-relacionada-aos-perigos-trazidos-pelas-mudanças-climáticas"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-2-3-desastres",
+      "relation": "têm afetado constantemente",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-9-10-populações-costeiras"
+    },
+    {
+      "subject_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-7-8-Procosta",
+      "relation": "visa estabelecer no",
+      "object_id": "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-12-13-14-Brasil-um-programa"
+    }
+  ],
+  "links": {
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-2-3-4-gerenciamento-costeiro": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S0-7-8-9-10-11-12-13-14-15-16-matéria-tratada-no-Brasil-tanto-em-razão-da-Política-Nacional": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-10-políticas": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-13-14-15-16-17-motivação-legislativa-diversa": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-1-2-Nesse-contexto": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-necessário-esclarecer-que-essas-políticas-tiveram-uma-motivação-legislativa-diversa-quando-de-suas-criações": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-2-Brasil": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S2-5-6-7-PNMA": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S3-9-10-11-12-13-14-15-16-marcada-desde-o-início-pelas-ideias-de-proteção": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S4-10-Brasil": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-45-46-recursos-marinhos": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-48-49-analisados": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-9-10-11-12-13-14-15-primeira-versão-do-PNRM": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S5-19-preocupação": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-4-5-Constituição-Federal": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S7-9-10-11-12-13-zona-costeira-como-patrimônio-nacional": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-4-constituição": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S8-8-9-10-11-12-13-14-15-16-17-18-19-uso-da-zona-costeira-será-realizado-de-forma-a-assegurar-a-preservação": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-49-Programa": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-58-1987": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S9-1-Devido": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-5-6-7-8-9-Lei-n.-°-7": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S10-15-16-17-18-19-20-21-22-Plano-Nacional-de-Gerenciamento-Costeiro": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-2-3-4-PNGC": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-20-21-22-23-seu-processo-que-todas": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S12-7-8-9-10-substituir-o-manejo": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S17-9-10-11-12-13-14-15-16-17-artigo-5-da-Lei-no-7.-661": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-2-3-4-5-Estados-e-Municípios": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S18-10-11-12-órgãos-competentes": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-2-3-4-faxa-marítima": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S23-8-espaço": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-1-2-3-4-Já-a-faixa-terrestre": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S24-9-10-11-12-13-14-15-16-espaço-compreendido-pelos-limites-dos-Municípios": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-2-3-4-5-6-7-8-9-Decreto-n°-5.-300-/-2004": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S25-13-14-15-16-17-18-19-seu-artigo-5o-outros-princípios-fundamentais": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S26-18-19-20-21-22-23-,-em-seu-artigo-7o": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-2-3-4-5-PROCOSTA": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S29-8-9-10-11-12-13-14-15-programa-permanente-de-planejamento-e-gestão-da-zona": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-2-3-4-5-6-7-criação-do-PROCOSTA": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S30-9-10-11-12-13-14-15-relacionada-aos-perigos-trazidos-pelas-mudanças-climáticas": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-2-3-desastres": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S32-9-10-populações-costeiras": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-7-8-Procosta": [],
+    "f2b01504-506e-4675-a0ee-8b4925bfd888-S33-12-13-14-Brasil-um-programa": []
+  }
+}

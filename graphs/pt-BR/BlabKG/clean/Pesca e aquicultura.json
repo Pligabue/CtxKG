@@ -1,0 +1,299 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Pesca e aquicultura.txt",
+  "entities": {
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira": "atividade pesqueira",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-Lei-11": "Lei 11",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-6-7-regida": "regida",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-86-percentual": "percentual",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-56-0": "0",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-28-29-30-31-32-Política-Nacional-de-Desenvolvimento-Sustentável": "Política Nacional de Desenvolvimento Sustentável",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-12-13-14-Lei-11.-959": "Lei 11. 959",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-78-79-80-cadeias-produtivas": "cadeias produtivas",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-Política-Nacional": "Política Nacional",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-atividade": "atividade",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S1-2-3-4-5-6-distribuição-de-recursos-pesqueiros": "distribuição de recursos pesqueiros",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S1-14-15-16-17-18-19-longo-de-toda-a-costa-brasileira": "longo de toda a costa brasileira",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S3-2-3-4-5-áreas-mais-produtivas": "áreas mais produtivas",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S3-9-10-11-12-13-sofrem-influência-da-ressurgência": "sofrem influência da ressurgência",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S5-2-3-4-pesca-artesanal": "pesca artesanal",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S5-7-8-9-10-11-12-13-subsistência-de-grupos-familiares-e-pequenas-comunidades": "subsistência de grupos familiares e pequenas comunidades",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S6-2-prática": "prática",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S6-5-6-7-8-9-10-11-12-13-próxima-à-costa-em-estuários-e-baías": "próxima à costa em estuários e baías",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-6-7-pesca-industrial": "pesca industrial",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-10-atividade": "atividade",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-16-17-plataforma-costeira": "plataforma costeira",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-14-regiões": "regiões",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-2-3-pesca-fantasma": "pesca fantasma",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-9-10-11-12-problema-marinho-global": "problema marinho global",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-6-7-8-9-10-11-12-resultado-de-um-problema-marinho-global": "resultado de um problema marinho global",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-16-17-18-19-20-21-se-potencializando-com-o-avanço": "se potencializando com o avanço",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S14-2-fenômeno": "fenômeno",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S14-5-6-7-8-9-10-11-consequência-do-descontrole-dos-PP": "consequência do descontrole dos PP",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S17-6-7-anzol": "anzol",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S17-9-10-11-12-causar-mutilação": "causar mutilação",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S18-35-36-37-38-39-40-5-45-%-dos-mamíferos-marinhos": "5 45 % dos mamíferos marinhos",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S18-46-47-48-49-impactos-da-pesca-fantasma": "impactos da pesca fantasma",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S19-7-8-9-10-11-12-13-14-15-16-5-a-30-%-do-declínio-populacional-de-algumas-espécies": "5 a 30 % do declínio populacional de algumas espécies",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S19-21-22-pesca-fantasma": "pesca fantasma",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-27-peixes": "peixes",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-15-16-17-18-19-20-21-total-ou-parcialmente-em-meio-aquático": "total ou parcialmente em meio aquático",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-1-2-Aquicultura": "Aquicultura",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-5-6-7-8-9-10-11-12-13-atividade-de-cultivo-de-organismos-cujo-ciclo-de-vida": "atividade de cultivo de organismos cujo ciclo de vida",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S21-2-produção": "produção",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S21-5-tanques": "tanques",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S24-16-5": "5",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-produção-mundial": "produção mundial",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-9-10-11-12-concentra-em-poucos-países": "concentra em poucos países",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-4-5-6-produção-mundial-de-aquicultura": "produção mundial de aquicultura",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S29-1-Segundo": "Segundo",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S29-54-55-56-século-XVII,": "século XVII,",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S31-2-3-4-qualidade-da-água": "qualidade da água",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S31-7-8-9-10-11-12-13-14-15-16-fator-fundamental-para-o-desenvolvimento-da-atividade-aquícola": "fator fundamental para o desenvolvimento da atividade aquícola",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S33-3-4-5-6-ramos-da-aquicultura": "ramos da aquicultura",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S33-9-10-Maricultura": "Maricultura",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S35-13-14-atividade-já": "atividade já",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S35-17-18-19-20-21-22-23-24-25-26-realidade-do-sustento-de-muitas-famílias-de-comunidades-tradicionais": "realidade do sustento de muitas famílias de comunidades tradicionais",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S36-6-7-atividade-econômica": "atividade econômica",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S39-1-2-3-Sobrepesca": "Sobrepesca",
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S39-6-7-8-9-10-11-12-13-14-captura-insustentável-de-recursos-pesqueiros": "captura insustentável de recursos pesqueiros"
+  },
+  "graph": [
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-Lei-11"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-6-7-regida"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-86-percentual",
+      "relation": "representa",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-56-0"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-86-percentual",
+      "relation": "representa",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-28-29-30-31-32-Política-Nacional-de-Desenvolvimento-Sustentável"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "representa",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-56-0"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "representa",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-28-29-30-31-32-Política-Nacional-de-Desenvolvimento-Sustentável"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "atinge",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-12-13-14-Lei-11.-959"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-78-79-80-cadeias-produtivas",
+      "relation": "dispõe",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-Política-Nacional"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-atividade",
+      "relation": "dispõe",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-Política-Nacional"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira",
+      "relation": "regida",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-12-13-14-Lei-11.-959"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S1-2-3-4-5-6-distribuição-de-recursos-pesqueiros",
+      "relation": "é homogênea ao",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S1-14-15-16-17-18-19-longo-de-toda-a-costa-brasileira"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S3-2-3-4-5-áreas-mais-produtivas",
+      "relation": "são",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S3-9-10-11-12-13-sofrem-influência-da-ressurgência"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S5-2-3-4-pesca-artesanal",
+      "relation": "objetiva a",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S5-7-8-9-10-11-12-13-subsistência-de-grupos-familiares-e-pequenas-comunidades"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S6-2-prática",
+      "relation": "é feita",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S6-5-6-7-8-9-10-11-12-13-próxima-à-costa-em-estuários-e-baías"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-6-7-pesca-industrial",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-10-atividade"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-10-atividade",
+      "relation": "ocorre em",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-16-17-plataforma-costeira"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-10-atividade",
+      "relation": "ocorre em",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S7-14-regiões"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S13-2-3-pesca-fantasma",
+      "relation": "é o resultado",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S13-9-10-11-12-problema-marinho-global"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S13-6-7-8-9-10-11-12-resultado-de-um-problema-marinho-global",
+      "relation": "vem",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S13-16-17-18-19-20-21-se-potencializando-com-o-avanço"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S14-2-fenômeno",
+      "relation": "ocorre",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S14-5-6-7-8-9-10-11-consequência-do-descontrole-dos-PP"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S17-6-7-anzol",
+      "relation": "podem",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S17-9-10-11-12-causar-mutilação"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S18-35-36-37-38-39-40-5-45-%-dos-mamíferos-marinhos",
+      "relation": "sofrem os",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S18-46-47-48-49-impactos-da-pesca-fantasma"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S19-7-8-9-10-11-12-13-14-15-16-5-a-30-%-do-declínio-populacional-de-algumas-espécies",
+      "relation": "pode ser atribuído à",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S19-21-22-pesca-fantasma"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S20-27-peixes",
+      "relation": "ocorre",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S20-15-16-17-18-19-20-21-total-ou-parcialmente-em-meio-aquático"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S20-1-2-Aquicultura",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S20-5-6-7-8-9-10-11-12-13-atividade-de-cultivo-de-organismos-cujo-ciclo-de-vida"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S21-2-produção",
+      "relation": "ocorre em",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S21-5-tanques"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-4-5-6-produção-mundial-de-aquicultura",
+      "relation": "aumentou",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S24-16-5"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-produção-mundial",
+      "relation": "se",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-9-10-11-12-concentra-em-poucos-países"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-4-5-6-produção-mundial-de-aquicultura",
+      "relation": "concentra em",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-9-10-11-12-concentra-em-poucos-países"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-4-5-6-produção-mundial-de-aquicultura",
+      "relation": "ainda",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S27-9-10-11-12-concentra-em-poucos-países"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S29-1-Segundo",
+      "relation": "teve início",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S29-54-55-56-século-XVII,"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S31-2-3-4-qualidade-da-água",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S31-7-8-9-10-11-12-13-14-15-16-fator-fundamental-para-o-desenvolvimento-da-atividade-aquícola"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S33-3-4-5-6-ramos-da-aquicultura",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S33-9-10-Maricultura"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S35-13-14-atividade-já",
+      "relation": "é a realidade",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S35-17-18-19-20-21-22-23-24-25-26-realidade-do-sustento-de-muitas-famílias-de-comunidades-tradicionais"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S20-1-2-Aquicultura",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S36-6-7-atividade-econômica"
+    },
+    {
+      "subject_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S39-1-2-3-Sobrepesca",
+      "relation": "é",
+      "object_id": "4dd3957b-8667-4105-a42f-07768427cbdb-S39-6-7-8-9-10-11-12-13-14-captura-insustentável-de-recursos-pesqueiros"
+    }
+  ],
+  "links": {
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-3-4-atividade-pesqueira": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-Lei-11": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-6-7-regida": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-86-percentual": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-56-0": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-28-29-30-31-32-Política-Nacional-de-Desenvolvimento-Sustentável": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-9-10-11-12-13-14-Lei-11.-959": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-78-79-80-cadeias-produtivas": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-26-27-Política-Nacional": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S0-2-atividade": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S1-2-3-4-5-6-distribuição-de-recursos-pesqueiros": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S1-14-15-16-17-18-19-longo-de-toda-a-costa-brasileira": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S3-2-3-4-5-áreas-mais-produtivas": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S3-9-10-11-12-13-sofrem-influência-da-ressurgência": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S5-2-3-4-pesca-artesanal": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S5-7-8-9-10-11-12-13-subsistência-de-grupos-familiares-e-pequenas-comunidades": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S6-2-prática": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S6-5-6-7-8-9-10-11-12-13-próxima-à-costa-em-estuários-e-baías": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-6-7-pesca-industrial": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-10-atividade": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-16-17-plataforma-costeira": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S7-14-regiões": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-2-3-pesca-fantasma": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-9-10-11-12-problema-marinho-global": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-6-7-8-9-10-11-12-resultado-de-um-problema-marinho-global": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S13-16-17-18-19-20-21-se-potencializando-com-o-avanço": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S14-2-fenômeno": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S14-5-6-7-8-9-10-11-consequência-do-descontrole-dos-PP": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S17-6-7-anzol": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S17-9-10-11-12-causar-mutilação": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S18-35-36-37-38-39-40-5-45-%-dos-mamíferos-marinhos": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S18-46-47-48-49-impactos-da-pesca-fantasma": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S19-7-8-9-10-11-12-13-14-15-16-5-a-30-%-do-declínio-populacional-de-algumas-espécies": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S19-21-22-pesca-fantasma": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-27-peixes": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-15-16-17-18-19-20-21-total-ou-parcialmente-em-meio-aquático": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-1-2-Aquicultura": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S20-5-6-7-8-9-10-11-12-13-atividade-de-cultivo-de-organismos-cujo-ciclo-de-vida": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S21-2-produção": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S21-5-tanques": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S24-16-5": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-produção-mundial": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-9-10-11-12-concentra-em-poucos-países": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S27-2-3-4-5-6-produção-mundial-de-aquicultura": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S29-1-Segundo": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S29-54-55-56-século-XVII,": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S31-2-3-4-qualidade-da-água": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S31-7-8-9-10-11-12-13-14-15-16-fator-fundamental-para-o-desenvolvimento-da-atividade-aquícola": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S33-3-4-5-6-ramos-da-aquicultura": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S33-9-10-Maricultura": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S35-13-14-atividade-já": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S35-17-18-19-20-21-22-23-24-25-26-realidade-do-sustento-de-muitas-famílias-de-comunidades-tradicionais": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S36-6-7-atividade-econômica": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S39-1-2-3-Sobrepesca": [],
+    "4dd3957b-8667-4105-a42f-07768427cbdb-S39-6-7-8-9-10-11-12-13-14-captura-insustentável-de-recursos-pesqueiros": []
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Recursos do Mar.txt",
+  "entities": {
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-2-3-4-princípios-e-objetivos": "princípios e objetivos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-36-37-38-39-40-41-42-Política-Nacional-para-os-Recursos-do-Mar": "Política Nacional para os Recursos do Mar",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S3-8-9-10-11-12-13-14-finalidade-estabelecer-os-princípios-e-os-objetivos": "finalidade estabelecer os princípios e os objetivos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM": "PNRM",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-13-14-objetivo-primário": "objetivo primário",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-17-18-19-açõesessenciais": "açõesessenciais",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-2-3-4-5-6-7-8-9-10-11-recursos-do-mar-relevantes-para-o-PNRM": "recursos do mar relevantes para o PNRM",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-13-14-15-16-todos-os-recursos-vivos": "todos os recursos vivos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S6-7-8-9-10-11-12-13-14-15-16-17-desdobrado-em-planos-setoriais-plurianuais": "desdobrado em planos setoriais plurianuais",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-1-2-3-4-5-6-Atualmente,-a-CIRM": "Atualmente, a CIRM",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-8-9-10-11-regulamentada-pelo-Decreto": "regulamentada pelo Decreto",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-2-3-4-5-6-7-8-9-10-11-colegiado,-coordenado-pelo-Comandante-da-Marinha": "colegiado, coordenado pelo Comandante da Marinha",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-16-17-18-19-representantes-de-16-órgãos": "representantes de 16 órgãos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-2-3-4-CIRM": "CIRM",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-7-8-9-10-11-12-13-finalidade-de-coordenar-as-ações-relativas": "finalidade de coordenar as ações relativas",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-20-se": "se",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-25-26-vários-outros": "vários outros",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-4-comissão": "comissão",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-8-9-10-11-12-13-condução-do-Programa-Antártico-Brasileiro": "condução do Programa Antártico Brasileiro",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S14-17-18-19-20-desdobramento": "desdobramento",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-2-3-4-PSRM": "PSRM",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-8-9-10-cada-quatro-anos": "cada quatro anos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-2-3-4-5-primeiras-versões-do-Plano": "primeiras versões do Plano",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-8-9-10-11-12-foco-proporcionar-uma-maior-abordagem": "foco proporcionar uma maior abordagem",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-3-4-suas-edições": "suas edições",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-8-9-pesquisa-científica": "pesquisa científica",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-5-planos": "planos",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-9-10-11-12-13-14-novo-modelo-de-gestão-participativa": "novo modelo de gestão participativa",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S20-7-8-9-10-11-12-13-14-15-16-propósito-estudar-e-avaliar-as-potencialidades-do-mar-brasileiro": "propósito estudar e avaliar as potencialidades do mar brasileiro",
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S22-12-13-14-15-propósito-de-sistematizar": "propósito de sistematizar"
+  },
+  "graph": [
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-2-3-4-princípios-e-objetivos",
+      "relation": "encontram - se previstos",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-36-37-38-39-40-41-42-Política-Nacional-para-os-Recursos-do-Mar"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM",
+      "relation": "tem por",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S3-8-9-10-11-12-13-14-finalidade-estabelecer-os-princípios-e-os-objetivos"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM",
+      "relation": "tem",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-13-14-objetivo-primário"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM",
+      "relation": "definir",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-17-18-19-açõesessenciais"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-2-3-4-5-6-7-8-9-10-11-recursos-do-mar-relevantes-para-o-PNRM",
+      "relation": "são",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-13-14-15-16-todos-os-recursos-vivos"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM",
+      "relation": "é",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S6-7-8-9-10-11-12-13-14-15-16-17-desdobrado-em-planos-setoriais-plurianuais"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-1-2-3-4-5-6-Atualmente,-a-CIRM",
+      "relation": "é",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-8-9-10-11-regulamentada-pelo-Decreto"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-2-3-4-5-6-7-8-9-10-11-colegiado,-coordenado-pelo-Comandante-da-Marinha",
+      "relation": "é composto por",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-16-17-18-19-representantes-de-16-órgãos"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-2-3-4-CIRM",
+      "relation": "tem",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-7-8-9-10-11-12-13-finalidade-de-coordenar-as-ações-relativas"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-20-se",
+      "relation": "desdobra",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-25-26-vários-outros"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-4-comissão",
+      "relation": "é responsável pela",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-8-9-10-11-12-13-condução-do-Programa-Antártico-Brasileiro"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-36-37-38-39-40-41-42-Política-Nacional-para-os-Recursos-do-Mar",
+      "relation": "é",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S14-17-18-19-20-desdobramento"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-2-3-4-PSRM",
+      "relation": "é elaborado a",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-8-9-10-cada-quatro-anos"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-2-3-4-5-primeiras-versões-do-Plano",
+      "relation": "tinham",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-8-9-10-11-12-foco-proporcionar-uma-maior-abordagem"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-3-4-suas-edições",
+      "relation": "promoveram",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-8-9-pesquisa-científica"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-5-planos",
+      "relation": "vêm considerando",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-9-10-11-12-13-14-novo-modelo-de-gestão-participativa"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-2-3-4-PSRM",
+      "relation": "tem",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S20-7-8-9-10-11-12-13-14-15-16-propósito-estudar-e-avaliar-as-potencialidades-do-mar-brasileiro"
+    },
+    {
+      "subject_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-2-3-4-PSRM",
+      "relation": "tem",
+      "object_id": "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S22-12-13-14-15-propósito-de-sistematizar"
+    }
+  ],
+  "links": {
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-2-3-4-princípios-e-objetivos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S2-36-37-38-39-40-41-42-Política-Nacional-para-os-Recursos-do-Mar": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S3-8-9-10-11-12-13-14-finalidade-estabelecer-os-princípios-e-os-objetivos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-6-7-8-9-PNRM": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-13-14-objetivo-primário": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S4-17-18-19-açõesessenciais": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-2-3-4-5-6-7-8-9-10-11-recursos-do-mar-relevantes-para-o-PNRM": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S5-13-14-15-16-todos-os-recursos-vivos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S6-7-8-9-10-11-12-13-14-15-16-17-desdobrado-em-planos-setoriais-plurianuais": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-1-2-3-4-5-6-Atualmente,-a-CIRM": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S9-8-9-10-11-regulamentada-pelo-Decreto": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-2-3-4-5-6-7-8-9-10-11-colegiado,-coordenado-pelo-Comandante-da-Marinha": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S10-16-17-18-19-representantes-de-16-órgãos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-2-3-4-CIRM": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S11-7-8-9-10-11-12-13-finalidade-de-coordenar-as-ações-relativas": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-20-se": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S12-25-26-vários-outros": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-4-comissão": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S13-8-9-10-11-12-13-condução-do-Programa-Antártico-Brasileiro": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S14-17-18-19-20-desdobramento": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-2-3-4-PSRM": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S16-8-9-10-cada-quatro-anos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-2-3-4-5-primeiras-versões-do-Plano": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S17-8-9-10-11-12-foco-proporcionar-uma-maior-abordagem": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-3-4-suas-edições": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S18-8-9-pesquisa-científica": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-5-planos": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S19-9-10-11-12-13-14-novo-modelo-de-gestão-participativa": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S20-7-8-9-10-11-12-13-14-15-16-propósito-estudar-e-avaliar-as-potencialidades-do-mar-brasileiro": [],
+    "daf9f37a-c45b-47bc-b3b0-9e968de0ca3f-S22-12-13-14-15-propósito-de-sistematizar": []
+  }
+}

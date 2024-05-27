@@ -1,0 +1,315 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Desastres ambientais no ambiente costeiro e marinho.txt",
+  "entities": {
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-2-3-4-5-6-7-ambiente-costeiro-e-marinho": "ambiente costeiro e marinho",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-13-14-15-diversos-acidentes-ambientais": "diversos acidentes ambientais",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-2-mundo": "mundo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-4-5-6-7-8-9-10-11-12-13-14-15-16-17-presenciou-algumas-catástrofes-ambientais-geradas-pelo-derramamento": "presenciou algumas catástrofes ambientais geradas pelo derramamento",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-2-Brasil": "Brasil",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-5-6-7-8-9-10-11-constatados-alguns-desastres-neste-contexto": "constatados alguns desastres neste contexto",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-2-petróleo": "petróleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-(-moléculas-de-carbono-e-hidrogênio": "hidrocarbonetos ( moléculas de carbono e hidrogênio",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-2-3-4-transporte-do-petróleo": "transporte do petróleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-8-9-grandes-navios": "grandes navios",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-2-seja": "seja",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-6-7-8-9-10-11-12-13-elevado-tempo-de-residência-no-ambiente-marinho": "elevado tempo de residência no ambiente marinho",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-3-4-5-6-degradação-natural-do-petróleo": "degradação natural do petróleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-23-24-técnicas-especializadas": "técnicas especializadas",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-16-17-18-remoção-dessas-manchas": "remoção dessas manchas",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-8-9-muito-lenta": "muito lenta",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-2-manchas": "manchas",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-4-5-6-camadas-na-superfície": "camadas na superfície",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-4-5-6-7-8-9-hidrocarbonetos-do-petróleo": "hidrocarbonetos do petróleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-11-12-13-14-15-16-17-18-19-20-21-22-contaminantes-acumulativos-nos-sistemas-de-organismos-aquáticos": "contaminantes acumulativos nos sistemas de organismos aquáticos",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-2-óleo": "óleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-7-8-morfologia": "morfologia",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-2-aves": "aves",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-8-óleo": "óleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-10-11-12-13-14-animais-marinhos-de-valor-comercial": "animais marinhos de valor comercial",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-17-18-19-20-21-representar-uma-ameaça-à-economia": "representar uma ameaça à economia",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-2-3-4-5-6-7-8-9-contaminação-em-massa-de-recursos-pesqueiros": "contaminação em massa de recursos pesqueiros",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-12-13-14-15-alta-taxa-de-mortalidade": "alta taxa de mortalidade",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-7-comércio": "comércio",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-15-necessária": "necessária",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-9-10-11-12-fragilizados": "fragilizados",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-4-óleo": "óleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-7-8-9-10-11-algumas-praias-do-Nordeste-brasileiro": "algumas praias do Nordeste brasileiro",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-1-2-3-4-5-Investigações-do-Governo-Federal": "Investigações do Governo Federal",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-9-10-11-12-13-14-15-16-17-18-19-20-21-22-descobrir-qual-a-origem-do-óleo-e-o-local-inicial-do-derramamento": "descobrir qual a origem do óleo e o local inicial do derramamento",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-7-8-governo-brasileiro": "governo brasileiro",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-16-17-nas-praias": "nas praias",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-14-óleo": "óleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-9-10-sua-presença": "sua presença",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-14-15-16-17-18-19-20-21-22-aproximadamente-metade-da-extensão-litorânea-do-Brasil": "aproximadamente metade da extensão litorânea do Brasil",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-2-3-4-correntes-marítimas": "correntes marítimas",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-7-8-9-10-11-12-responsáveis-pelo-espalhamento-do-petróleo": "responsáveis pelo espalhamento do petróleo",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-2-3-4-5-6-7-8-contaminação-dos-manguezais": "contaminação dos manguezais",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-11-12-preocupante": "preocupante",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-17-18-19-zonas-de-reprodução": "zonas de reprodução",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-13-ambiente": "ambiente",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-17-18-19-contaminante": "contaminante",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-30-31-lama": "lama",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-33-34-35-altamente-porosa": "altamente porosa",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-1-Outro": "Outro",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-10-11-12-13-impacto-gerado-na-economia": "impacto gerado na economia",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-3-4-Nordeste-brasileiro": "Nordeste brasileiro",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-7-8-9-conhecido-pela-força": "conhecido pela força",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-mundialmente": "mundialmente",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-7-8-9-10-11-mundialmente-conhecido-pela-força-de-seu": "mundialmente conhecido pela força de seu",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-1-2-3-4-5-6-7-8-Hotéis-e-outros-meios-de-hospedagem": "Hotéis e outros meios de hospedagem",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-12-13-14-15-16-17-18-canceladas-e-os-serviços-de-bares": "canceladas e os serviços de bares",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-1-Pesquisas": "Pesquisas",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-3-4-5-6-7-8-9-10-sendo-desenvolvidas-para-a-obtenção-de-mais-informações": "sendo desenvolvidas para a obtenção de mais informações",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-1-2-Indícios": "Indícios",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-6-7-8-9-navio-petroleiro-grego": "navio petroleiro grego",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-2-responsáveis": "responsáveis",
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-4-5-indiciados": "indiciados"
+  },
+  "graph": [
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-2-3-4-5-6-7-ambiente-costeiro-e-marinho",
+      "relation": "está constantemente suscetível a",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-13-14-15-diversos-acidentes-ambientais"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-2-mundo",
+      "relation": "já",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-4-5-6-7-8-9-10-11-12-13-14-15-16-17-presenciou-algumas-catástrofes-ambientais-geradas-pelo-derramamento"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-2-Brasil",
+      "relation": "foram",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-5-6-7-8-9-10-11-constatados-alguns-desastres-neste-contexto"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-2-petróleo",
+      "relation": "é uma mistura",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-(-moléculas-de-carbono-e-hidrogênio"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-2-3-4-transporte-do-petróleo",
+      "relation": "é feito",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-8-9-grandes-navios"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-2-seja",
+      "relation": "possui um",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-6-7-8-9-10-11-12-13-elevado-tempo-de-residência-no-ambiente-marinho"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-3-4-5-6-degradação-natural-do-petróleo",
+      "relation": "deve ser feita",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-23-24-técnicas-especializadas"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-16-17-18-remoção-dessas-manchas",
+      "relation": "deve ser feita",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-23-24-técnicas-especializadas"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-3-4-5-6-degradação-natural-do-petróleo",
+      "relation": "é",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-8-9-muito-lenta"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-2-manchas",
+      "relation": "formam",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-4-5-6-camadas-na-superfície"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-4-5-6-7-8-9-hidrocarbonetos-do-petróleo",
+      "relation": "são",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-11-12-13-14-15-16-17-18-19-20-21-22-contaminantes-acumulativos-nos-sistemas-de-organismos-aquáticos"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-2-óleo",
+      "relation": "pode alterar desde",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-7-8-morfologia"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-2-aves",
+      "relation": "ficam recobertas pelo",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-8-óleo"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-10-11-12-13-14-animais-marinhos-de-valor-comercial",
+      "relation": "passam a",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-17-18-19-20-21-representar-uma-ameaça-à-economia"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-2-3-4-5-6-7-8-9-contaminação-em-massa-de-recursos-pesqueiros",
+      "relation": "provoca",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-12-13-14-15-alta-taxa-de-mortalidade"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-7-comércio",
+      "relation": "são",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-15-necessária"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-7-comércio",
+      "relation": "são",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-9-10-11-12-fragilizados"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-4-óleo",
+      "relation": "apareceu em",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-7-8-9-10-11-algumas-praias-do-Nordeste-brasileiro"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-1-2-3-4-5-Investigações-do-Governo-Federal",
+      "relation": "tinham",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-9-10-11-12-13-14-15-16-17-18-19-20-21-22-descobrir-qual-a-origem-do-óleo-e-o-local-inicial-do-derramamento"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-7-8-governo-brasileiro",
+      "relation": "divulgou a compatibilidade",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-16-17-nas-praias"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-7-8-governo-brasileiro",
+      "relation": "divulgou a compatibilidade",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-14-óleo"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-9-10-sua-presença",
+      "relation": "foi notada em",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-14-15-16-17-18-19-20-21-22-aproximadamente-metade-da-extensão-litorânea-do-Brasil"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-2-3-4-correntes-marítimas",
+      "relation": "são",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-7-8-9-10-11-12-responsáveis-pelo-espalhamento-do-petróleo"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-2-3-4-5-6-7-8-contaminação-dos-manguezais",
+      "relation": "é",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-11-12-preocupante"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-11-12-preocupante",
+      "relation": "funcionam como",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-17-18-19-zonas-de-reprodução"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-2-3-4-5-6-7-8-contaminação-dos-manguezais",
+      "relation": "funcionam como",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-17-18-19-zonas-de-reprodução"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-13-ambiente",
+      "relation": "retém",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-17-18-19-contaminante"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-30-31-lama",
+      "relation": "é",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-33-34-35-altamente-porosa"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-1-Outro",
+      "relation": "foi",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-10-11-12-13-impacto-gerado-na-economia"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-3-4-Nordeste-brasileiro",
+      "relation": "foi atingido",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-7-8-9-conhecido-pela-força"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-3-4-Nordeste-brasileiro",
+      "relation": "foi atingido",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-mundialmente"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-3-4-Nordeste-brasileiro",
+      "relation": "é",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-7-8-9-10-11-mundialmente-conhecido-pela-força-de-seu"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-1-2-3-4-5-6-7-8-Hotéis-e-outros-meios-de-hospedagem",
+      "relation": "tiveram suas reservas",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-12-13-14-15-16-17-18-canceladas-e-os-serviços-de-bares"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-1-Pesquisas",
+      "relation": "continuam",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-3-4-5-6-7-8-9-10-sendo-desenvolvidas-para-a-obtenção-de-mais-informações"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-1-2-Indícios",
+      "relation": "apontam para",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-6-7-8-9-navio-petroleiro-grego"
+    },
+    {
+      "subject_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-2-responsáveis",
+      "relation": "foram",
+      "object_id": "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-4-5-indiciados"
+    }
+  ],
+  "links": {
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-2-3-4-5-6-7-ambiente-costeiro-e-marinho": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S0-13-14-15-diversos-acidentes-ambientais": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-2-mundo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S4-4-5-6-7-8-9-10-11-12-13-14-15-16-17-presenciou-algumas-catástrofes-ambientais-geradas-pelo-derramamento": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-2-Brasil": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S6-5-6-7-8-9-10-11-constatados-alguns-desastres-neste-contexto": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-2-petróleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S7-7-8-9-10-11-12-13-14-15-16-hidrocarbonetos-(-moléculas-de-carbono-e-hidrogênio": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-2-3-4-transporte-do-petróleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S9-8-9-grandes-navios": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-2-seja": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S11-6-7-8-9-10-11-12-13-elevado-tempo-de-residência-no-ambiente-marinho": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-3-4-5-6-degradação-natural-do-petróleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-23-24-técnicas-especializadas": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-16-17-18-remoção-dessas-manchas": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S13-8-9-muito-lenta": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-2-manchas": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S14-4-5-6-camadas-na-superfície": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-4-5-6-7-8-9-hidrocarbonetos-do-petróleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S15-11-12-13-14-15-16-17-18-19-20-21-22-contaminantes-acumulativos-nos-sistemas-de-organismos-aquáticos": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-2-óleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S16-7-8-morfologia": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-2-aves": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S17-8-óleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-10-11-12-13-14-animais-marinhos-de-valor-comercial": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S19-17-18-19-20-21-representar-uma-ameaça-à-economia": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-2-3-4-5-6-7-8-9-contaminação-em-massa-de-recursos-pesqueiros": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S20-12-13-14-15-alta-taxa-de-mortalidade": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-7-comércio": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-15-necessária": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S21-9-10-11-12-fragilizados": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-4-óleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S23-7-8-9-10-11-algumas-praias-do-Nordeste-brasileiro": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-1-2-3-4-5-Investigações-do-Governo-Federal": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S24-9-10-11-12-13-14-15-16-17-18-19-20-21-22-descobrir-qual-a-origem-do-óleo-e-o-local-inicial-do-derramamento": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-7-8-governo-brasileiro": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-16-17-nas-praias": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S26-14-óleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-9-10-sua-presença": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S32-14-15-16-17-18-19-20-21-22-aproximadamente-metade-da-extensão-litorânea-do-Brasil": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-2-3-4-correntes-marítimas": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S33-7-8-9-10-11-12-responsáveis-pelo-espalhamento-do-petróleo": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-2-3-4-5-6-7-8-contaminação-dos-manguezais": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-11-12-preocupante": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S36-17-18-19-zonas-de-reprodução": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-13-ambiente": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-17-18-19-contaminante": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-30-31-lama": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S37-33-34-35-altamente-porosa": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-1-Outro": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S39-10-11-12-13-impacto-gerado-na-economia": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-3-4-Nordeste-brasileiro": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-7-8-9-conhecido-pela-força": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-mundialmente": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S41-6-7-8-9-10-11-mundialmente-conhecido-pela-força-de-seu": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-1-2-3-4-5-6-7-8-Hotéis-e-outros-meios-de-hospedagem": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S42-12-13-14-15-16-17-18-canceladas-e-os-serviços-de-bares": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-1-Pesquisas": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S43-3-4-5-6-7-8-9-10-sendo-desenvolvidas-para-a-obtenção-de-mais-informações": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-1-2-Indícios": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S45-6-7-8-9-navio-petroleiro-grego": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-2-responsáveis": [],
+    "d9e3ff75-bf3e-49c2-92f8-c9a95b91d15d-S46-4-5-indiciados": []
+  }
+}

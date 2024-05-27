@@ -1,0 +1,16 @@
+{
+  "base": {
+    "size": "small",
+    "extraction_model": "2023_12_07",
+    "ratio": 1.0,
+    "threshold": 0.8,
+    "batch_size": 300
+  },
+  "bridges": {
+    "size": "small",
+    "extraction_model": "2023_12_07",
+    "ratio": 1.0,
+    "threshold": 0.8,
+    "batch_size": 300
+  }
+}

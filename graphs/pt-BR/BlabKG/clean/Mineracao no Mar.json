@@ -1,0 +1,299 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Mineracao no Mar.txt",
+  "entities": {
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-3-4-5-6-7-classificação-internacional-adotada-pela-ONU": "classificação internacional adotada pela ONU",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-14-15-16-sendo-a-extração": "sendo a extração",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-11-12-se-mineração": "se mineração",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-2-definição": "definição",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-5-6-7-8-9-10-11-12-exploração-das-reservas-subterrâneas-e-de-superfície": "exploração das reservas subterrâneas e de superfície",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-1-2-3-4-5-6-Mineração-offshore": "Mineração offshore",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-10-11-12-13-14-15-16-ocorre-a-partir-da-linha-de-costa": "ocorre a partir da linha de costa",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-8-9-10-Águas-rasas": "Águas rasas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-12-13-14-15-16-profundidade-entre-0-(-zero": "profundidade entre 0 ( zero",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S4-4-5-6-7-8-9-10-11-12-profundidade-entre-300-metros-e-1.-500-metros": "profundidade entre 300 metros e 1. 500 metros",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-12-13-14-15-ocorre-até-300-metros": "ocorre até 300 metros",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-23-24-águas-profundas": "águas profundas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-29-30-31-32-33-34-partir-de-300-metros-de-profundidade": "partir de 300 metros de profundidade",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-2-3-4-5-mineração-no-mar-normalmente": "mineração no mar normalmente",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-9-10-seguinte-forma": "seguinte forma",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-7-8-9-10-feita-da-seguinte-forma": "feita da seguinte forma",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-2-3-4-5-6-mineração-em-andamento-no-mar": "mineração em andamento no mar",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-9-10-11-12-13-14-15-16-bem-menos-expressiva-do-que-a-mineração-terrestre": "bem menos expressiva do que a mineração terrestre",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-26-27-28-29-muitos-minerais-em-terra": "muitos minerais em terra",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-33-34-35-36-escassez-nas-próximas-décadas": "escassez nas próximas décadas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-4-5-6-7-8-9-10-tema-\"-recursos-minerais-do-mar-\"": "tema \" recursos minerais do mar \"",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-13-14-15-16-17-agenda-estratégica-de-várias-nações": "agenda estratégica de várias nações",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-5-Brasil": "Brasil",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-9-10-11-12-13-14-15-16-pesquisa-mineral-marinha-com-certo-atraso-em-relação": "pesquisa mineral marinha com certo atraso em relação",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-34-35-36-37-infinidade-de-dados": "infinidade de dados",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-42-43-44-45-46-compartilhados-com-outras-instituições": "compartilhados com outras instituições",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-2-3-4-5-6-REMPLAC": "REMPLAC",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-11-12-13-recursos-minerais-marinhos": "recursos minerais marinhos",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-7-Brasil": "Brasil",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-11-12-conhecimento-científico": "conhecimento científico",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-4-5-6-7-8-projeto-LEPLAC": "projeto LEPLAC",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-21-22-23-importantes-subsídios": "importantes subsídios",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-8-9-10-11-12-13-14-raspagem-do-fundo-do-oceano": "raspagem do fundo do oceano",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-17-18-19-20-alterando-sua-estrutura": "alterando sua estrutura",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-5-6-dragagem": "dragagem",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-10-11-12-13-14-15-16-17-18-19-20-21-22-geomorfologia-e-os-processos-hidrodinâmicos-do-fundo-do-mar": "geomorfologia e os processos hidrodinâmicos do fundo do mar",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-2-processo": "processo",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-5-6-7-8-9-10-11-causar-a-mudança-na-turbidez": "causar a mudança na turbidez",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-14-15-16-17-18-organismos-fotossintetizantes": "organismos fotossintetizantes",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-21-22-23-24-fazer-fotossíntese": "fazer fotossíntese",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-10-11-luminosidade": "luminosidade",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-organismos": "organismos",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-12-você": "você",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-15-16-17-18-19-desequilíbrio-em-todos": "desequilíbrio em todos",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-6-7-8-9-10-produtividade-primária-de-um-local": "produtividade primária de um local",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-1-2-3-4-Marés-e-correntes": "Marés e correntes",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-8-9-10-11-12-13-14-15-16-17-plumas-de-rejeitos-além-da-área-da-mina": "plumas de rejeitos além da área da mina",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-6-7-mineração-marinha": "mineração marinha",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-9-10-11-12-13-14-15-16-17-introduzir-e-promover-a-liberação-de-substâncias-tóxicas": "introduzir e promover a liberação de substâncias tóxicas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-1-2-3-Adicionalmente": "Adicionalmente",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-32-sua": "sua",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-35-36-37-38-39-40-41-42-alterar-o-crescimento,-a-taxa-de-reprodução": "alterar o crescimento, a taxa de reprodução",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-8-9-10-11-12-dragagem-de-agregados": "dragagem de agregados",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-15-16-17-18-19-20-21-22-23-24-25-26-danificar-irreversivelmente-o-patrimônio-cultural-subaquático": "danificar irreversivelmente o patrimônio cultural subaquático",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-1-Pesquisas": "Pesquisas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-máquinas-usadas-para-realizar-a-mineração-em-águas-profundas-podem-causar-uma-poluição-sonora-e-luminosa,-além-de-emitir-vibrações-que-afetam": "máquinas usadas para realizar a mineração em águas profundas podem causar uma poluição sonora e luminosa, além de emitir vibrações que afetam",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-máquinas": "máquinas",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-18-19-poluição-sonora": "poluição sonora",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-1-2-3-4-5-6-Atividades-de-mineração-terrestres": "Atividades de mineração terrestres",
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-11-12-13-14-zona-costeira-e-marinha": "zona costeira e marinha"
+  },
+  "graph": [
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-3-4-5-6-7-classificação-internacional-adotada-pela-ONU",
+      "relation": "define -",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-14-15-16-sendo-a-extração"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-3-4-5-6-7-classificação-internacional-adotada-pela-ONU",
+      "relation": "define -",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-11-12-se-mineração"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-2-definição",
+      "relation": "inclui",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-5-6-7-8-9-10-11-12-exploração-das-reservas-subterrâneas-e-de-superfície"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-1-2-3-4-5-6-Mineração-offshore",
+      "relation": "é",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-10-11-12-13-14-15-16-ocorre-a-partir-da-linha-de-costa"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-8-9-10-Águas-rasas",
+      "relation": "têm",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-12-13-14-15-16-profundidade-entre-0-(-zero"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-8-9-10-Águas-rasas",
+      "relation": "têm",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S4-4-5-6-7-8-9-10-11-12-profundidade-entre-300-metros-e-1.-500-metros"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-8-9-10-Águas-rasas",
+      "relation": "seria",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-12-13-14-15-ocorre-até-300-metros"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-23-24-águas-profundas",
+      "relation": "ocorre a",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-29-30-31-32-33-34-partir-de-300-metros-de-profundidade"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-2-3-4-5-mineração-no-mar-normalmente",
+      "relation": "é feita",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-9-10-seguinte-forma"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-2-3-4-5-mineração-no-mar-normalmente",
+      "relation": "normalmente",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-7-8-9-10-feita-da-seguinte-forma"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-2-3-4-5-6-mineração-em-andamento-no-mar",
+      "relation": "é",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-9-10-11-12-13-14-15-16-bem-menos-expressiva-do-que-a-mineração-terrestre"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-26-27-28-29-muitos-minerais-em-terra",
+      "relation": "vão entrar em",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-33-34-35-36-escassez-nas-próximas-décadas"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-4-5-6-7-8-9-10-tema-\"-recursos-minerais-do-mar-\"",
+      "relation": "entrou",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-13-14-15-16-17-agenda-estratégica-de-várias-nações"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-5-Brasil",
+      "relation": "se lançou",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-9-10-11-12-13-14-15-16-pesquisa-mineral-marinha-com-certo-atraso-em-relação"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-34-35-36-37-infinidade-de-dados",
+      "relation": "começaram a ser",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-42-43-44-45-46-compartilhados-com-outras-instituições"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-2-3-4-5-6-REMPLAC",
+      "relation": "está mapeando os",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-11-12-13-recursos-minerais-marinhos"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-7-Brasil",
+      "relation": "desenvolva o",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-11-12-conhecimento-científico"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-4-5-6-7-8-projeto-LEPLAC",
+      "relation": "trouxe",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-21-22-23-importantes-subsídios"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-8-9-10-11-12-13-14-raspagem-do-fundo-do-oceano",
+      "relation": "pode acabar",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-17-18-19-20-alterando-sua-estrutura"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-5-6-dragagem",
+      "relation": "pode alterar a",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-10-11-12-13-14-15-16-17-18-19-20-21-22-geomorfologia-e-os-processos-hidrodinâmicos-do-fundo-do-mar"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-2-processo",
+      "relation": "pode",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-5-6-7-8-9-10-11-causar-a-mudança-na-turbidez"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-14-15-16-17-18-organismos-fotossintetizantes",
+      "relation": "conseguem fazer",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-21-22-23-24-fazer-fotossíntese"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-10-11-luminosidade",
+      "relation": "conseguem fazer",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-21-22-23-24-fazer-fotossíntese"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-organismos",
+      "relation": "não",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-21-22-23-24-fazer-fotossíntese"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-12-você",
+      "relation": "causa um",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-15-16-17-18-19-desequilíbrio-em-todos"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-6-7-8-9-10-produtividade-primária-de-um-local",
+      "relation": "causa um",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-15-16-17-18-19-desequilíbrio-em-todos"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-1-2-3-4-Marés-e-correntes",
+      "relation": "podem espalhar",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-8-9-10-11-12-13-14-15-16-17-plumas-de-rejeitos-além-da-área-da-mina"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-6-7-mineração-marinha",
+      "relation": "pode",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-9-10-11-12-13-14-15-16-17-introduzir-e-promover-a-liberação-de-substâncias-tóxicas"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-1-2-3-Adicionalmente",
+      "relation": "pode",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-9-10-11-12-13-14-15-16-17-introduzir-e-promover-a-liberação-de-substâncias-tóxicas"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-32-sua",
+      "relation": "podem",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-35-36-37-38-39-40-41-42-alterar-o-crescimento,-a-taxa-de-reprodução"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-8-9-10-11-12-dragagem-de-agregados",
+      "relation": "mostraram",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-15-16-17-18-19-20-21-22-23-24-25-26-danificar-irreversivelmente-o-patrimônio-cultural-subaquático"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-1-Pesquisas",
+      "relation": "apontam",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-máquinas-usadas-para-realizar-a-mineração-em-águas-profundas-podem-causar-uma-poluição-sonora-e-luminosa,-além-de-emitir-vibrações-que-afetam"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-máquinas",
+      "relation": "podem causar",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-18-19-poluição-sonora"
+    },
+    {
+      "subject_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-1-2-3-4-5-6-Atividades-de-mineração-terrestres",
+      "relation": "podem afetar a",
+      "object_id": "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-11-12-13-14-zona-costeira-e-marinha"
+    }
+  ],
+  "links": {
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-3-4-5-6-7-classificação-internacional-adotada-pela-ONU": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-14-15-16-sendo-a-extração": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S0-11-12-se-mineração": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-2-definição": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S1-5-6-7-8-9-10-11-12-exploração-das-reservas-subterrâneas-e-de-superfície": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-1-2-3-4-5-6-Mineração-offshore": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S2-10-11-12-13-14-15-16-ocorre-a-partir-da-linha-de-costa": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-8-9-10-Águas-rasas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S3-12-13-14-15-16-profundidade-entre-0-(-zero": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S4-4-5-6-7-8-9-10-11-12-profundidade-entre-300-metros-e-1.-500-metros": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-12-13-14-15-ocorre-até-300-metros": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-23-24-águas-profundas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S6-29-30-31-32-33-34-partir-de-300-metros-de-profundidade": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-2-3-4-5-mineração-no-mar-normalmente": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-9-10-seguinte-forma": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S7-7-8-9-10-feita-da-seguinte-forma": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-2-3-4-5-6-mineração-em-andamento-no-mar": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S8-9-10-11-12-13-14-15-16-bem-menos-expressiva-do-que-a-mineração-terrestre": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-26-27-28-29-muitos-minerais-em-terra": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S9-33-34-35-36-escassez-nas-próximas-décadas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-4-5-6-7-8-9-10-tema-\"-recursos-minerais-do-mar-\"": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S10-13-14-15-16-17-agenda-estratégica-de-várias-nações": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-5-Brasil": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S11-9-10-11-12-13-14-15-16-pesquisa-mineral-marinha-com-certo-atraso-em-relação": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-34-35-36-37-infinidade-de-dados": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S12-42-43-44-45-46-compartilhados-com-outras-instituições": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-2-3-4-5-6-REMPLAC": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S15-11-12-13-recursos-minerais-marinhos": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-7-Brasil": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S17-11-12-conhecimento-científico": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-4-5-6-7-8-projeto-LEPLAC": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S18-21-22-23-importantes-subsídios": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-8-9-10-11-12-13-14-raspagem-do-fundo-do-oceano": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S20-17-18-19-20-alterando-sua-estrutura": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-5-6-dragagem": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S22-10-11-12-13-14-15-16-17-18-19-20-21-22-geomorfologia-e-os-processos-hidrodinâmicos-do-fundo-do-mar": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-2-processo": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S23-5-6-7-8-9-10-11-causar-a-mudança-na-turbidez": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-14-15-16-17-18-organismos-fotossintetizantes": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-21-22-23-24-fazer-fotossíntese": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-10-11-luminosidade": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S24-13-organismos": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-12-você": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-15-16-17-18-19-desequilíbrio-em-todos": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S25-6-7-8-9-10-produtividade-primária-de-um-local": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-1-2-3-4-Marés-e-correntes": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S27-8-9-10-11-12-13-14-15-16-17-plumas-de-rejeitos-além-da-área-da-mina": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-6-7-mineração-marinha": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-9-10-11-12-13-14-15-16-17-introduzir-e-promover-a-liberação-de-substâncias-tóxicas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S28-1-2-3-Adicionalmente": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-32-sua": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S29-35-36-37-38-39-40-41-42-alterar-o-crescimento,-a-taxa-de-reprodução": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-8-9-10-11-12-dragagem-de-agregados": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S31-15-16-17-18-19-20-21-22-23-24-25-26-danificar-irreversivelmente-o-patrimônio-cultural-subaquático": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-1-Pesquisas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-máquinas-usadas-para-realizar-a-mineração-em-águas-profundas-podem-causar-uma-poluição-sonora-e-luminosa,-além-de-emitir-vibrações-que-afetam": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-6-máquinas": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S32-18-19-poluição-sonora": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-1-2-3-4-5-6-Atividades-de-mineração-terrestres": [],
+    "ace1c9b0-c9a0-484f-b70d-5ab7f721e4d0-S34-11-12-13-14-zona-costeira-e-marinha": []
+  }
+}

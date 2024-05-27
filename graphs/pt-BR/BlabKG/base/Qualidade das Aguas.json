@@ -1,0 +1,88 @@
+{
+  "document": "D:/Projetos/CtxKG/documents/pt-BR/Wiki Test 0_8 FULL/Qualidade das Aguas.txt",
+  "entities": {
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-14-15-16-17-18-19-20-21-22-23-duas-resoluções-do-Conselho-Nacional-do-Meio-Ambiente": "duas resoluções do Conselho Nacional do Meio Ambiente",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-42-classes": "classes",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-2-3-atualizou": "atualizou",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-9-10-11-12-13-14-15-16-havia-sido-estabelecido-na-Resolução-Conama-20": "havia sido estabelecido na Resolução Conama 20",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-9-águas": "águas",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-29-substâncias": "substâncias",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-27-máxima": "máxima",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-2-3-partir-dela": "partir dela",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-6-7-8-9-10-11-12-13-14-possível-classificar-as-águas-em-classes-de-águas-doces": "possível classificar as águas em classes de águas doces",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-6-7-8-9-10-Resolução-274-/-00": "Resolução 274 / 00",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-13-critérios": "critérios",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-11-praias": "praias",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-15-16-17-18-19-relação-à-balneabilidade": "relação à balneabilidade",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-2-classificação": "classificação",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-6-7-8-9-10-11-12-acordo-com-as-densidades-de-três": "acordo com as densidades de três",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-1-2-Sua-classificação": "Sua classificação",
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-11-12-13-14-15-16-17-18-comprometimento-na-qualidade-sanitária-das-águas": "comprometimento na qualidade sanitária das águas"
+  },
+  "graph": [
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-14-15-16-17-18-19-20-21-22-23-duas-resoluções-do-Conselho-Nacional-do-Meio-Ambiente",
+      "relation": "define",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-42-classes"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-2-3-atualizou",
+      "relation": "reviu",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-9-10-11-12-13-14-15-16-havia-sido-estabelecido-na-Resolução-Conama-20"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-9-águas",
+      "relation": "observar a",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-29-substâncias"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-9-águas",
+      "relation": "observar a",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-27-máxima"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-2-3-partir-dela",
+      "relation": "é",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-6-7-8-9-10-11-12-13-14-possível-classificar-as-águas-em-classes-de-águas-doces"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-6-7-8-9-10-Resolução-274-/-00",
+      "relation": "trás os",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-13-critérios"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-11-praias",
+      "relation": "são classificadas em",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-15-16-17-18-19-relação-à-balneabilidade"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-2-classificação",
+      "relation": "é feita de",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-6-7-8-9-10-11-12-acordo-com-as-densidades-de-três"
+    },
+    {
+      "subject_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-1-2-Sua-classificação",
+      "relation": "indica",
+      "object_id": "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-11-12-13-14-15-16-17-18-comprometimento-na-qualidade-sanitária-das-águas"
+    }
+  ],
+  "links": {
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-14-15-16-17-18-19-20-21-22-23-duas-resoluções-do-Conselho-Nacional-do-Meio-Ambiente": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S0-42-classes": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-2-3-atualizou": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S2-9-10-11-12-13-14-15-16-havia-sido-estabelecido-na-Resolução-Conama-20": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-9-águas": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-29-substâncias": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-27-máxima": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-2-3-partir-dela": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S3-6-7-8-9-10-11-12-13-14-possível-classificar-as-águas-em-classes-de-águas-doces": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-6-7-8-9-10-Resolução-274-/-00": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S5-13-critérios": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-11-praias": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S8-15-16-17-18-19-relação-à-balneabilidade": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-2-classificação": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S9-6-7-8-9-10-11-12-acordo-com-as-densidades-de-três": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-1-2-Sua-classificação": [],
+    "5d82fe76-4775-4530-8497-b5dfa2cc0749-S11-11-12-13-14-15-16-17-18-comprometimento-na-qualidade-sanitária-das-águas": []
+  }
+}
